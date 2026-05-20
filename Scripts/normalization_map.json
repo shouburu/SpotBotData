@@ -1,0 +1,19 @@
+{
+  "muscles": {
+    "abs": "abdominals",
+    "delts": "shoulders",
+    "quads": "quadriceps",
+    "pectorals": "chest",
+    "traps": "trapezius",
+    "waist": "abdominals",
+    "upper arms": "arms",
+    "lower arms": "forearms",
+    "upper legs": "legs",
+    "lower legs": "calves"
+  },
+  "equipment": {
+    "body only": "body weight",
+    "machine": "leverage machine",
+    "null": "other"
+  }
+}
