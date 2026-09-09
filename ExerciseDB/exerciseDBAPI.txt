@@ -1,5 +1,0 @@
-curl --request GET \
-	--url https://exercisedb.p.rapidapi.com/exercises/targetList \
-	--header 'Content-Type: application/json' \
-	--header 'x-rapidapi-host: exercisedb.p.rapidapi.com' \
-	--header 'x-rapidapi-key: 4cfa903c09msh176b5fbfe2ea998p1af36bjsn9b6d46da9e3e'
