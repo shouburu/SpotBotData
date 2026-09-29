@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-thigh-abductor-05f17f36-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-thigh-abductor-05f17f36-start-0dfb4c96.json"
+    },
+    {
+      "shot": "r9-open-thigh-adductor-933feed1-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-thigh-adductor-933feed1-start-d735bc7c.json"
+    },
+    {
+      "shot": "r9-open-machine-shoulder-mili-71dc7774-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-machine-shoulder-mili-71dc7774-start-034954d8.json"
+    },
+    {
+      "shot": "r9-open-machine-triceps-exten-c66a3615-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-machine-triceps-exten-c66a3615-start-cf68d521.json"
+    }
+  ]
+}

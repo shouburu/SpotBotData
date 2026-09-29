@@ -1,0 +1,82 @@
+{
+  "id": "group_af532e70aeb848e4",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T03:01:59+00:00",
+  "balanceBefore": 5177,
+  "quotedCredits": 312,
+  "members": [
+    {
+      "exerciseId": "open_standing_dumbbell_cal_ed527460",
+      "shot": "r9-open-standing-dumbbell-cal-ed527460-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "9147abb73334a34e44291ec88ef01ae277d7c3483e6db075bcb52f7b2049080e",
+      "quoteFile": "form-media/ui-quotes/manual-comparison-r9-open-standing-dumbbell-cal-ed527460-motion.json",
+      "quoteSha256": "4153e30c474ff2ad03d6510e12f3652f578d62b0dfc8be6c9f09ed2b67ad8dc9",
+      "quoteCredits": 100,
+      "balance": 5177,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-standing-dumbbell-cal-ed527460-start/attempt_1b5b177f087f4d72.jpg",
+          "sha256": "bfdadd82bf9082f6cb0f17366e40535b34edec8446565b1b04bb82dce34240d2"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "shot": "r9-open-dumbbell-shrug-5ed42a42-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "5d7f48140e0d3bf6a7793bdecbbf9548f8061e5f77f7a42b169b1b272d78b593",
+      "quoteFile": "form-media/ui-quotes/manual-comparison-r9-open-dumbbell-shrug-5ed42a42-motion.json",
+      "quoteSha256": "3b7b3bf10ee3494a14b256398c84f3b2dda9290af9cd317f1594c6011abad8e9",
+      "quoteCredits": 100,
+      "balance": 5177,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-shrug-5ed42a42-start/attempt_247ff95421464716.jpg",
+          "sha256": "b7805592761759743c471c4f3493451a99b38c71c031ca7a1b660919ced716a9"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "713b71b70d1becba5e328141e26a7419533195e6519a81c6d876396f7783cc95",
+      "quoteFile": "form-media/ui-quotes/manual-comparison-r9-ex-cable-fly-motion.json",
+      "quoteSha256": "b9d2b20b3162d558891cc19994722429a41a9101edcb360e20d75c7624149d88",
+      "quoteCredits": 100,
+      "balance": 5177,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-cable-fly-start/attempt_dbcec6e6999c4d92.jpg",
+          "sha256": "d44b5672582a524d6e3b3ab85fd60134b32bf3d8aee2996cc60e5a76921fc4f4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r9-ex-skullcrusher-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "da5f4457f08d2b5e97a984fca04370e313cf40e63f5162bdee7b5ae6fcb89b5f",
+      "quoteFile": "form-media/ui-quotes/manual-comparison-r9-ex-skullcrusher-motion.json",
+      "quoteSha256": "789989e388348b3b30fcdc54b096739c39d4ee5bae78caf350eb90f8cea153ad",
+      "quoteCredits": 12,
+      "balance": 5177,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_e03115e38fb94c26.jpg",
+          "sha256": "4f8514f5b0ba995dfa2e83e2ade0c371ed499f3e3ee6056a0155e28f58e7baf9"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T03:04:11+00:00",
+  "balanceAfter": 4865,
+  "actualCredits": 312,
+  "evidenceFile": "form-media/ui-quotes/round9-next-manual-comparisons-after.json",
+  "evidenceSha256": "c9de2ca33d653349175cccbee10cdc85cbe9618e86ae4169832e7c36ea34f406",
+  "terminalFailureIds": []
+}

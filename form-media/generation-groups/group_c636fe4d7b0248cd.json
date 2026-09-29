@@ -1,0 +1,61 @@
+{
+  "id": "group_c636fe4d7b0248cd",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T19:54:08+00:00",
+  "balanceBefore": 10002,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_front_squat",
+      "shot": "r9-ex-front-squat-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "d87e090bdfcd2372ee81c68b83ba0c855be37851982685f24fa2b10a78da7a10",
+      "quoteFile": "form-media/ui-quotes/r9-ex-front-squat-start-f882635d.json",
+      "quoteSha256": "b5ecef2f6b92a6f17660864df4a1eeab9efa9eaa141c6bd315a427b48886bf72",
+      "quoteCredits": 0,
+      "balance": 10002,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r9-ex-skullcrusher-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "eed007d6552b7e80992b8f373018eb5ef1fc0914d02808f7d7c38cc197262489",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-start-38f43799.json",
+      "quoteSha256": "3d7bd467d21061f9f01476d30504b551036eee0d8c39110547a6daa15d445e68",
+      "quoteCredits": 0,
+      "balance": 10002,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_leg_press",
+      "shot": "r9-ex-leg-press-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "fafa9a089ae977c4315b36479bfadce6de406ee5095941878b863128791eeba8",
+      "quoteFile": "form-media/ui-quotes/r9-ex-leg-press-start-3760c65c.json",
+      "quoteSha256": "9c13d83b8f298b5c6fa10fe11880a25733ff12f6eee874687a2b1996cb260fd6",
+      "quoteCredits": 0,
+      "balance": 10002,
+      "references": []
+    },
+    {
+      "exerciseId": "open_leverage_high_row_c0482620",
+      "shot": "r9-open-leverage-high-row-c0482620-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "cd7aacf84b146f4fef004ed7da6f950172bf136c61ee66558faab3ec5cfb5b01",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-high-row-c0482620-start-408ad6ad.json",
+      "quoteSha256": "955674dc1766d53c60fe8e8630d58132180be4dc7267b70999c56f70a15419a8",
+      "quoteCredits": 0,
+      "balance": 10002,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T19:55:20+00:00",
+  "balanceAfter": 10002,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-6f892c6af46a4bf9.json",
+  "evidenceSha256": "9a89862b91a1053a48f66905166f590110eada62377c43ff16b9ead6cc04931a"
+}

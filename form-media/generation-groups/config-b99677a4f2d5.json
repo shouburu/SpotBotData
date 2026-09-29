@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-ex-leg-press-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-leg-press-motion-458b2f62.json"
+    },
+    {
+      "shot": "r8-ex-front-raise-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-front-raise-motion-8f19eee4.json"
+    },
+    {
+      "shot": "r8-ex-reverse-pec-deck-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-reverse-pec-deck-motion-48de5647.json"
+    },
+    {
+      "shot": "r8-ex-cable-crunch-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-cable-crunch-motion-ed2c7cd9.json"
+    }
+  ]
+}

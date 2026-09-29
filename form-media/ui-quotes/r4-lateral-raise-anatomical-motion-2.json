@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "sourceType": "flow-ui-observation",
+  "source": "Flow composer visible Video / Frames / Omni 1.1 Flash / 16:9 / 720p / 8s / x1 and same-account Account details balance. Single starting image; no end frame.",
+  "observer": "Codex via CUA",
+  "observedAt": "2026-09-15T16:47:05+00:00",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "exerciseId": "ex_lateral_raise",
+  "shot": "r4-lateral-raise-anatomical-motion",
+  "modelKey": "abra_i2v_8s",
+  "kind": "video",
+  "family": "Omni 1.1 Flash",
+  "aspect": "16:9",
+  "count": 1,
+  "durationSeconds": 8,
+  "resolutions": [
+    "720p"
+  ],
+  "balance": 9324,
+  "credits": 12,
+  "visiblePriceText": "Generating will use 12 credits",
+  "visibleBalanceText": "9,324 Google Flow credits",
+  "profile": "shouburu",
+  "projectUrl": "https://flow.google.com/project/b23491b8-5ff2-412b-abea-314075feb75f"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "group_321fc19b31d749c8",
+  "status": "completed",
+  "roundId": "round-6",
+  "createdAt": "2026-09-15T20:35:31+00:00",
+  "balanceBefore": 8916,
+  "quotedCredits": 36,
+  "members": [
+    {
+      "exerciseId": "ex_hammer_curl",
+      "shot": "r6-ex-hammer-curl-motion",
+      "profile": "spotbot_media_1",
+      "promptSha256": "55b8b3bec718b695d2dee25751a5292c5a74d82c2ab889a0d94356d319535a31",
+      "quoteFile": "form-media/ui-quotes/r6-ex-hammer-curl-motion-133531357169.json",
+      "quoteSha256": "495417b94eab142cad0c1e85ff834cbe19cf4c64f8ee11063db535681b6787fc",
+      "quoteCredits": 12,
+      "balance": 8916,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-hammer-curl-start/attempt_c9e4f5846f5d4101.jpg",
+          "sha256": "d3b0dfc37a8f9385c3b201adfcc08621c711f77438f6c83a59fba283ad26371c"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_pec_deck",
+      "shot": "r6-ex-pec-deck-motion",
+      "profile": "spotbot_media_2",
+      "promptSha256": "2b4d2da7471b069dcef840ef6451e116b02d40c1789e17c9ebdddcbc23c847cf",
+      "quoteFile": "form-media/ui-quotes/r6-ex-pec-deck-motion-133531357449.json",
+      "quoteSha256": "e7daac49d2fb1b4aac148aa997dec6ec7fbf8514afdda7d6756b96920ce1943f",
+      "quoteCredits": 12,
+      "balance": 8916,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-pec-deck-start/attempt_fff60136c878446a.jpg",
+          "sha256": "dd7a317d7b47b2745253f8499c1319a79f7c46df15c12dac7f362742bf49e2d6"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_machine_row",
+      "shot": "r6-ex-machine-row-motion",
+      "profile": "spotbot_media_3",
+      "promptSha256": "9961c2b09fbfa3ae2219acd6edeb7163a958fec65a4df8a3a643ad5841e56b19",
+      "quoteFile": "form-media/ui-quotes/r6-ex-machine-row-motion-133531357563.json",
+      "quoteSha256": "d5a9b87215049f9e6d93fc165df8e8cb4a8fbef66956773c6450946fefff9480",
+      "quoteCredits": 12,
+      "balance": 8916,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-machine-row-start/attempt_4e8e75dbe814462e.jpg",
+          "sha256": "7776a6703183e8d1dfe75adaf790bf8fdbe1f6760606b1e10fb6a40130acb01c"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-15T20:37:28+00:00",
+  "balanceAfter": 8880,
+  "actualCredits": 36,
+  "evidenceFile": "form-media/ui-quotes/group_321fc19b31d749c8-after.json",
+  "evidenceSha256": "37ff5d0be5df650b5d0caf809cd95546d07f4db337886cb72e7825724750698c"
+}

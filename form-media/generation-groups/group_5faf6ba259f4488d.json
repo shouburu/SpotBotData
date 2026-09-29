@@ -1,0 +1,45 @@
+{
+  "id": "group_5faf6ba259f4488d",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T23:36:31+00:00",
+  "balanceBefore": 8082,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_seated_leg_curl_f6ac64a8",
+      "shot": "r9-open-seated-leg-curl-f6ac64a8-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "0bb580604ea4400b6dc9a87d7a77d678b493cbe768f1ade1ac0722f0c4c5d1ba",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-leg-curl-f6ac64a8-start-419d7230.json",
+      "quoteSha256": "e561e793a5a748ef7d97b1cf9484d62414fdf04e04b9684c4eaa0bf9eac3df1c",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-seated-leg-curl-f6ac64a8-start/attempt_31c45172c97d4485.jpg",
+          "sha256": "78feede4380d4bc61ecd16046054b4f8353953212fdedae30e383f4d9470b9bf"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_pullover",
+      "shot": "r9-ex-pullover-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "c6a57ff3dfbfe1306597b8f901b45b5b33b94b7ac4f16e91cdcdc9c78aaab8be",
+      "quoteFile": "form-media/ui-quotes/r9-ex-pullover-start-969e17c4.json",
+      "quoteSha256": "bab86fc115d0b025806b47fece7413b66b1c689d8ea72f8e324890384f4f2c51",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T23:38:17+00:00",
+  "balanceAfter": 8082,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-d5e938880e024f74.json",
+  "evidenceSha256": "1ec01faac44fea1d38c52b78e76abeddc68656a71d2f585f6622764b0f3eaff9",
+  "terminalFailureIds": []
+}

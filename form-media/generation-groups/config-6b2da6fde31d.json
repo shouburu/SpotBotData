@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-ex-front-squat-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-front-squat-motion-895ce9d2.json"
+    },
+    {
+      "shot": "r8-open-alternating-cable-sho-0810db95-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-alternating-cable-sho-0810db95-motion-4cc5fd03.json"
+    },
+    {
+      "shot": "r8-open-anti-gravity-press-1a397a57-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-anti-gravity-press-1a397a57-motion-c35b24c7.json"
+    },
+    {
+      "shot": "r8-cat-bosu-cable-crunch-motion",
+      "quoteFile": "form-media/ui-quotes/r8-cat-bosu-cable-crunch-motion-e61954d4.json"
+    }
+  ]
+}

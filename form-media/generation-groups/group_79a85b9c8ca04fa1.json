@@ -1,0 +1,82 @@
+{
+  "id": "group_79a85b9c8ca04fa1",
+  "status": "completed",
+  "roundId": "round-7",
+  "createdAt": "2026-09-16T03:10:12+00:00",
+  "balanceBefore": 8846,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_overhead_tricep_extension",
+      "shot": "r6-ex-overhead-tricep-extension-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "8506983e71379ae5070030e2fa9c76c0530f89db1f735276b53d7e0679354888",
+      "quoteFile": "form-media/ui-quotes/r6-ex-overhead-tricep-extension-start-201012088529.json",
+      "quoteSha256": "ffb27424213acd224ac25da3318b7debd31745a30314aeef7b76380772047eef",
+      "quoteCredits": 0,
+      "balance": 8846,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_reverse_wrist_curl",
+      "shot": "r6-ex-reverse-wrist-curl-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "aff29062b17f0122895227b3be5beae31313e1f8fe32552ad4ae1a265b676e15",
+      "quoteFile": "form-media/ui-quotes/r6-ex-reverse-wrist-curl-start-201012088708.json",
+      "quoteSha256": "00fdb409bf1262e87c237b03048735c34c5d944e80a402be53bb1fc45a158bc8",
+      "quoteCredits": 0,
+      "balance": 8846,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_romanian_deadlift",
+      "shot": "r6-ex-romanian-deadlift-start",
+      "profile": "spotbot_r7_3",
+      "promptSha256": "3c057d039d5fd4a57b1968e72a6e00b8e1c2ef444294cea7155576838dabcfa9",
+      "quoteFile": "form-media/ui-quotes/r6-ex-romanian-deadlift-start-201012089114.json",
+      "quoteSha256": "21ecfccf7a7ef15edcb919104938a4f095cb0ec9141df4d6c4ad3197b0c9c4c9",
+      "quoteCredits": 0,
+      "balance": 8846,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r6-ex-skullcrusher-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "8226d13af612c98914023daab8dad18590ad1d66b7a17d3f9bb62d52d60e95ea",
+      "quoteFile": "form-media/ui-quotes/r6-ex-skullcrusher-start-201012089206.json",
+      "quoteSha256": "9fcf521e1633e08ce20b112e3d78a2e47c7ca6a6fe5b2c8cc1568a487f0dd3fa",
+      "quoteCredits": 0,
+      "balance": 8846,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_t_bar_row",
+      "shot": "r6-ex-t-bar-row-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "39b5b62ccf8d18bfa28eb304e88b42cd2cb871eda77a27467bbf2204ca26828a",
+      "quoteFile": "form-media/ui-quotes/r6-ex-t-bar-row-start-201012089282.json",
+      "quoteSha256": "13322206285d9d10fa47bb3d4815ec3253c658df5d665270a4fb1ea2fb0ab6e1",
+      "quoteCredits": 0,
+      "balance": 8846,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_tricep_extension",
+      "shot": "r6-ex-tricep-extension-start",
+      "profile": "spotbot_r7_6",
+      "promptSha256": "0d7425200b67552a5fa79fd3b1759af9b9104ec200b0a1a9c5167135a6b5e16c",
+      "quoteFile": "form-media/ui-quotes/r6-ex-tricep-extension-start-201012089356.json",
+      "quoteSha256": "307625c267cfa6af78fa59cf2f9d0e97a82b353caaabc44108ee63af97f65308",
+      "quoteCredits": 0,
+      "balance": 8846,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T03:14:26+00:00",
+  "balanceAfter": 8846,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/group_79a85b9c8ca04fa1-after.json",
+  "evidenceSha256": "a210915b329e644de611881a8b06eef219ee17a6477084d830db0ae31ec9ed94"
+}

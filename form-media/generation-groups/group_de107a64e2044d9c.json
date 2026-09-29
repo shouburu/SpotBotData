@@ -1,0 +1,82 @@
+{
+  "id": "group_de107a64e2044d9c",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T23:04:04+00:00",
+  "balanceBefore": 8170,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_cable_shoulder_press_7ddeefb0",
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "3502f02ceaeabaccd81939158f7329cde0ab2f7055e146150677493519658160",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-shoulder-press-7ddeefb0-motion-dd52dd89.json",
+      "quoteSha256": "215a19f0f4e26259ac387c3dbaba87d303a2c065bfb233ea3f7e4969c01c68a2",
+      "quoteCredits": 10,
+      "balance": 8170,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-shoulder-press-7ddeefb0-start/attempt_313e1d515a734a85.jpg",
+          "sha256": "771b3f7e7f580308cc9314b97981528c165c418d90b47f48ace9203a43e128ab"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "shot": "r9-open-dumbbell-shrug-5ed42a42-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "452cb5ec79f1fa769763a5c826eaca459a12d1a54f6916c8fd59ecd6e84c28e1",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-shrug-5ed42a42-motion-2750d73a.json",
+      "quoteSha256": "9a3354479e1f41df4a1ace91c1d500c274cb8ca74b334677313cbd1a1fb1eed0",
+      "quoteCredits": 10,
+      "balance": 8170,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-shrug-5ed42a42-start/attempt_aad8f517bd2c480e.jpg",
+          "sha256": "08a6e34f19549744242fa83626a65834a4938bd3f4d88dd22d6e6cd82dd11c37"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_smith_machine_calf_ra_ccc5bca6",
+      "shot": "r9-open-smith-machine-calf-ra-ccc5bca6-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "90cd2f956afb85348d52c00b318cc9aa7e982be27008adb31bbe2304b6d8eb5d",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-calf-ra-ccc5bca6-motion-a87ff4eb.json",
+      "quoteSha256": "212fa9cf5d61bb62059420a43aa0ad1bb27375b23494142e362a568acc75dd51",
+      "quoteCredits": 10,
+      "balance": 8170,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-smith-machine-calf-ra-ccc5bca6-start/attempt_ef2b527e5b2e4379.jpg",
+          "sha256": "484fa74d7874445650160f4ab0af5991ef8fb24e1caccbff27f37f1233d527a9"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_smith_machine_incline_100af028",
+      "shot": "r9-open-smith-machine-incline-100af028-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "c7c0a66cf8e079f57555a76b530ba6a18202c295f16bf27f5abf73643b80d876",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-incline-100af028-motion-5ea93afd.json",
+      "quoteSha256": "7eac60b185913ad1056945365a8a4b108de89dacae08eff5d9a8a9e0da136ca2",
+      "quoteCredits": 10,
+      "balance": 8170,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-smith-machine-incline-100af028-start/attempt_2e454cab58514d84.jpg",
+          "sha256": "fd728511ad2a2215a736fd683bfcd5ae6d5de28b428d72ea302a01f2eaf41c37"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T23:06:20+00:00",
+  "balanceAfter": 8130,
+  "actualCredits": 40,
+  "evidenceFile": "form-media/ui-quotes/observed-24d8b5445c224c72.json",
+  "evidenceSha256": "83a01416427351303c3568793c1e942b157c6e0d716cfccdbc24ea44220a225c",
+  "terminalFailureIds": []
+}

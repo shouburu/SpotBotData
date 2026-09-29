@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-open-barbell-curls-lying-a-583ae142-start",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-curls-lying-a-583ae142-start-e42b8651.json"
+    },
+    {
+      "shot": "r8-open-barbell-hack-squat-3ece9677-start",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-hack-squat-3ece9677-start-43f80bb0.json"
+    },
+    {
+      "shot": "r8-open-barbell-incline-bench-b61b23bf-start",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-incline-bench-b61b23bf-start-4b5b6c4f.json"
+    },
+    {
+      "shot": "r8-open-barbell-incline-shoul-672ee504-start",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-incline-shoul-672ee504-start-d40d59b5.json"
+    }
+  ]
+}

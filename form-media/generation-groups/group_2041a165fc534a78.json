@@ -1,0 +1,60 @@
+{
+  "id": "group_2041a165fc534a78",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:51:34+00:00",
+  "balanceBefore": 7490,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_cross_body_hammer_cur_f1ff06f0",
+      "shot": "r8-open-cross-body-hammer-cur-f1ff06f0-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "2642021ad5df566a5d76e9aafb0a75bc5de304d5cc19c075475f9ecb1dd6d0cf",
+      "quoteFile": "form-media/ui-quotes/r8-open-cross-body-hammer-cur-f1ff06f0-motion-dac1f4a6.json",
+      "quoteSha256": "9069b6deb2fb5eebb09ffba0797c5181d9e233907bbe3a3101dedb9a7b93327c",
+      "quoteCredits": 12,
+      "balance": 7490,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_str_cross_bench_pullover",
+      "shot": "r8-cat-str-cross-bench-pullover-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "ee1763988ddb804cd91034cef81c6737604a010a336ba863f55607a8be50e379",
+      "quoteFile": "form-media/ui-quotes/r8-cat-str-cross-bench-pullover-motion-e000f47c.json",
+      "quoteSha256": "8c92ec030291ff8c1b17aaaa4f3ea67075c627c4d23b6232267624792a2b5546",
+      "quoteCredits": 12,
+      "balance": 7490,
+      "references": []
+    },
+    {
+      "exerciseId": "open_close_grip_dumbbell_p_d4c7ad57",
+      "shot": "r8-open-close-grip-dumbbell-p-d4c7ad57-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "39ffd230e7b60a32da91ba48da12af9d71d4f2ab0a6922a173d5ed7e31c95c9e",
+      "quoteFile": "form-media/ui-quotes/r8-open-close-grip-dumbbell-p-d4c7ad57-motion-fa780cdb.json",
+      "quoteSha256": "32721a64929286331d33fdb2ee92cfa098f108bc3a891852c8aa835460211d9c",
+      "quoteCredits": 12,
+      "balance": 7490,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cuban_press_c166fd65",
+      "shot": "r8-open-cuban-press-c166fd65-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "1f6fd1aa81d682b2f69a8acdc92f2f10021f4806466366ec71c1c82efff20a38",
+      "quoteFile": "form-media/ui-quotes/r8-open-cuban-press-c166fd65-motion-c821f4cb.json",
+      "quoteSha256": "3b0195d994680a8f21351058650db589576ab96d2f1c3bab5b4444c7ed094174",
+      "quoteCredits": 12,
+      "balance": 7490,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:53:15+00:00",
+  "balanceAfter": 7442,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-b70bffbeeadc4f91.json",
+  "evidenceSha256": "863afe519d4df0f1df5834aca4ac1b111898c1e2d009c0bd3c5a5a3c92160788"
+}

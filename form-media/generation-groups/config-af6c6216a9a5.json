@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-hack-squat-76a66305-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-hack-squat-76a66305-motion-3525ed30.json"
+    },
+    {
+      "shot": "r9-open-hang-clean-1e812852-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-hang-clean-1e812852-motion-d8cce2e3.json"
+    },
+    {
+      "shot": "r9-open-leverage-deadlift-ba90f5c3-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-deadlift-ba90f5c3-motion-a8a27f6a.json"
+    },
+    {
+      "shot": "r9-open-one-leg-barbell-squat-589d24d2-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-one-leg-barbell-squat-589d24d2-motion-5b3770c4.json"
+    }
+  ]
+}

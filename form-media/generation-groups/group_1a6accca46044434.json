@@ -1,0 +1,62 @@
+{
+  "id": "group_1a6accca46044434",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:26:17+00:00",
+  "balanceBefore": 4658,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "shot": "r10-open-thigh-adductor-933feed1-start-v2",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "8eb610ed4fdcb98216a1f519bde3b237a8d14d13df53f2c175b5378c937aaf78",
+      "quoteFile": "form-media/ui-quotes/r10-open-thigh-adductor-933feed1-start-v2-45154de6.json",
+      "quoteSha256": "03d17e71999b7e9a50f82e628e92ff1055fdbc81820c760b7ad805eb55163f76",
+      "quoteCredits": 0,
+      "balance": 4658,
+      "references": []
+    },
+    {
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r10-open-decline-smith-press-ab9938f7-start-v2",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "8457ba332722b6712228ec4f531b8f51a79adad94444ad332af2a4be9d753644",
+      "quoteFile": "form-media/ui-quotes/r10-open-decline-smith-press-ab9938f7-start-v2-19760f0e.json",
+      "quoteSha256": "e082ecb86b52a1928a6f8772306edc9ffea4b088c1d5b612700f3223e0ad6467",
+      "quoteCredits": 0,
+      "balance": 4658,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_machine_chest_press",
+      "shot": "r10-ex-machine-chest-press-start-v2",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "3ce7ecf96a1cc1833db8059806aec73e4d1944619727c1d8fe31a0d8f8ff2cea",
+      "quoteFile": "form-media/ui-quotes/r10-ex-machine-chest-press-start-v2-57ccb7e6.json",
+      "quoteSha256": "3ed8613bc03305cb3e754a0f459ade799d6d2d3a0a44f7df5cf4f1bcb5f4adb3",
+      "quoteCredits": 0,
+      "balance": 4658,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r10-ex-calf-raise-seated-start-v2",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "e8784eefebe05f2451374897a3c3e2fc125223258a0749896ad3cf7c96469fe8",
+      "quoteFile": "form-media/ui-quotes/r10-ex-calf-raise-seated-start-v2-e3d82d27.json",
+      "quoteSha256": "2e6e5434c0643284b88bea701e08317d4b69f7db6e3d177ca966a25746e95110",
+      "quoteCredits": 0,
+      "balance": 4658,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:27:39+00:00",
+  "balanceAfter": 4658,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-cce6a139e0724114.json",
+  "evidenceSha256": "a5e373beeb938cf803ff4d9f515f37d617324abb46c6b7fc8af3b0bf226b4c36",
+  "terminalFailureIds": []
+}

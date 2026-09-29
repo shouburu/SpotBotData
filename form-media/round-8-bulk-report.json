@@ -1,0 +1,62 @@
+{
+  "roundId": "round-8",
+  "generatedAt": "2026-09-16T07:04:49.446850+00:00",
+  "status": "generation-complete-awaiting-human-review",
+  "targetExerciseCount": 250,
+  "deliveredVideoExerciseCount": 250,
+  "deliveredVideoCount": 252,
+  "assetKinds": {
+    "external": 1,
+    "image": 70,
+    "video": 252
+  },
+  "missingExerciseIds": [],
+  "unresolvedAttemptIds": [],
+  "budget": {
+    "limit": 10000,
+    "reserved": 0,
+    "spent": 4572,
+    "remaining": 5428
+  },
+  "roundCreditsSpent": 3024,
+  "videoBytes": 194044768,
+  "posterBytes": 8136010,
+  "maxVideoBytes": 1101108,
+  "aiEditorialCounts": {
+    "needs-correction": 196,
+    "needs-review": 32,
+    "candidate": 24
+  },
+  "candidateExerciseIds": [
+    "ex_overhead_tricep_extension",
+    "ex_romanian_deadlift",
+    "ex_sumo_deadlift",
+    "ex_upright_row",
+    "open_barbell_glute_bridge_0e7afdbd",
+    "open_barbell_lunge_be010510",
+    "open_barbell_shoulder_pres_9239eb32",
+    "open_bent_over_dumbbell_re_d9ec09e5",
+    "open_box_squat_bc96e223",
+    "open_cable_preacher_curl_bf1c5a4b",
+    "open_cross_body_hammer_cur_f1ff06f0",
+    "open_dumbbell_bicep_curl_6db34986",
+    "open_dumbbell_one_arm_shou_a06dd4c2",
+    "open_dumbbell_rear_lunge_1148a3d4",
+    "open_front_incline_dumbbel_42b15f9b",
+    "open_incline_dumbbell_curl_4fe643b7",
+    "open_kneeling_single_arm_h_f7d656f5",
+    "open_leverage_iso_row_6edb7a52",
+    "open_machine_bicep_curl_487dd689",
+    "open_preacher_curl_c27d722a",
+    "open_reverse_grip_triceps__efa89ab2",
+    "open_seated_dumbbell_curl_a84cfc1d",
+    "open_seated_dumbbell_inner_19b43d61",
+    "open_seated_one_arm_cable__82dd1806"
+  ],
+  "humanApprovalClaimed": false,
+  "validation": {
+    "manualWeb": "Phone-sized and wider view inspected; refreshed Needs Review badges and live budget observed. No human decisions submitted during verification.",
+    "mediaReview": "One-second keyframe contact sheets; full playback and trainer review remain separate.",
+    "deferred": "Automated tests, lint, type checks, builds, native/device verification and theme sweeps not run."
+  }
+}

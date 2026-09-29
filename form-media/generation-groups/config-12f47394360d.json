@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-calf-raise-seated-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-calf-raise-seated-start-73a81e89.json"
+    },
+    {
+      "shot": "r9-ex-cable-lateral-raise-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-cable-lateral-raise-start-19d4cca0.json"
+    },
+    {
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rear-delt-fly-dc550f7f-start-1bfd4841.json"
+    },
+    {
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-shoulder-press-7ddeefb0-start-4e927127.json"
+    }
+  ]
+}

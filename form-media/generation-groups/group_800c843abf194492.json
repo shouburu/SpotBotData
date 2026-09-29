@@ -1,0 +1,62 @@
+{
+  "id": "group_800c843abf194492",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T21:48:25+00:00",
+  "balanceBefore": 9016,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r9-ex-skullcrusher-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "5be7fa388e67c2a474795a871dcf56ac3be3f92524545194fe56a9762982b4b3",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-start-554708e5.json",
+      "quoteSha256": "6b7e6dd47cac2dd5155982e35da6bdb18bcff5a957f73ff7a1db0909e9aed5f8",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_pullover",
+      "shot": "r9-ex-pullover-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "d6fd1a75d4717fb308f1ffc58db45a5018754baddd935a32c983a400298e2f89",
+      "quoteFile": "form-media/ui-quotes/r9-ex-pullover-start-4c65a173.json",
+      "quoteSha256": "194bc1e2b47340e840cc154a260928291f7bc98219e5cbc25d78a322bd06a99c",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r9-ex-dumbbell-fly-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "a4badf51baf5506cb13a8f103cc1697a015f5d366f8b53c471de133aca76728b",
+      "quoteFile": "form-media/ui-quotes/r9-ex-dumbbell-fly-start-74bc07e6.json",
+      "quoteSha256": "e2fe032d31b16d2cdd01a26845e6262a6bf0239d6347b449f8ba10b85d86d883",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "ecaf0b39cf31ab541284e2106274b278dc4f5588fa610b79c4ba32d421ac1975",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-start-ae0510fb.json",
+      "quoteSha256": "f474ad6685d15aeb19aa05edc9628461a54ac6498637a5bed917bc3c402bb154",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T21:49:37+00:00",
+  "balanceAfter": 9016,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-482653761c7f425c.json",
+  "evidenceSha256": "a0bef7d628b043a2d020bda7ebe6800d7e2fd112591bc48ab22f0ef4f2a4a89d",
+  "terminalFailureIds": []
+}

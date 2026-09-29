@@ -1,0 +1,76 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-3",
+  "reviews": [
+    {
+      "shot": "r2-squat-illustrated-motion",
+      "exerciseId": "ex_squat",
+      "outputPath": "form-media/assets/delivery/round-2/r2-squat-illustrated-motion-4e311c44.mp4",
+      "outputSha256": "ce24a03460ac964d411aa376bfa68e6d8ccc7ba723e7fc6a3c8e4c7551623c80",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-10T15:03:33.528777+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "userAcceptance": "Previously accepted by the user; user separately requested a depth check. This record does not change that decision.",
+      "evidence": [
+        "The existing contact sheet and full-size bottom frame at 4.0 seconds show a shallow hip-and-knee bend with the near thigh still sloping substantially upward toward the hip.",
+        "The bar remains supported across the upper back and the sampled shoes retain their positions; the concern is depth clarity rather than a visible equipment or balance failure.",
+        "The catalog instructs comfortable depth, which does not impose a universal measured angle."
+      ],
+      "limitations": [
+        "Oblique camera and a rack safety arm overlapping the hip prevent reliable measurement of exact depth or joint angles.",
+        "AI editorial source and selected-frame review, not trainer assessment or exhaustive continuous playback.",
+        "A shallow demonstration can be a valid modification; its instructional limitation is presenting it as the generic depth example without explanation."
+      ],
+      "notes": "Preserve the accepted Graphic original. A new side-view Graphic candidate with approximately thigh-parallel example depth is justified for the explicit user concern, subject to preserved foot contact and controlled trunk. Do not force an extreme depth or change the catalog comfortable-depth wording.",
+      "evidenceFiles": [
+        "reports/form-media/attempt_4e311c446d414a04/keyframes.jpg",
+        "reports/form-media/attempt_4e311c446d414a04/standing-review-4.0s.jpg"
+      ],
+      "sources": [
+        {
+          "url": "https://www.nsca.com/education/articles/kinetic-select/anaerobic-and-muscle-endurance-development/",
+          "claim": "Demonstrates a squat descending until the top of the thighs is parallel to the floor."
+        },
+        {
+          "url": "https://www.nsca.com/education/articles/ptq/a-coach-and-trainers-challenge-individual-variables-in-health-fitness-and-nutrition/",
+          "claim": "Individual hip structure and biomechanics affect available squat depth."
+        }
+      ]
+    },
+    {
+      "shot": "r2-overhead-press-studio-motion",
+      "exerciseId": "ex_overhead_press",
+      "outputPath": "form-media/assets/delivery/round-3/r3-overhead-press-studio-user-trim-0-6.mp4",
+      "outputSha256": "a8ef75e8a0a419b538de09502667a0eb4964ef434aaf4a47057d5ca9a1de43e3",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-10T15:09:42.651142+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "userAcceptance": "The user conditionally requested the exact 0\u20136-second interval; this derivative remains separately pending for review.",
+      "evidence": [
+        "The derivative is exactly 6.0 seconds, 720\u00d71280 H.264, with 473501 video bytes and 17558 poster bytes. It uses source interval 0\u20136 seconds at original speed, without added holds or generated content.",
+        "The half-second contact sheet shows the bar rise from front shoulders to an overhead phase and return to the front shoulders before the end. The unwanted 6\u20138-second source tail is absent.",
+        "The full-size final sample at 5.95 seconds retains a visible supported front-shoulder bar, closed grips and both shoes inside the frame.",
+        "Earlier full-size source samples at 3.25 and 4.50 seconds show the overhead phase and descending bar with both hands visible."
+      ],
+      "limitations": [
+        "The source has soft elbow extension and a slightly oblique camera; this edit does not establish a measured terminal lockout or certify bracing.",
+        "Review used a derivative contact sheet, a full-size final sample and selected source frames, not exhaustive continuous playback or trainer approval.",
+        "The existing Studio styling is intentionally retained for this explicitly requested interim edit; the separate new generation supplies Graphic 3D."
+      ],
+      "notes": "Candidate: exact requested trim delivered without changing the source or user decisions. The Graphic replacement still requires independent review.",
+      "evidenceFiles": [
+        "reports/form-media/r3-overhead-press-studio-user-trim-0-6/keyframes.jpg",
+        "reports/form-media/r3-overhead-press-studio-user-trim-0-6/ai-editorial-final.jpg",
+        "reports/form-media/attempt_b6a8bba9943043be/standing-review-3.25s.jpg",
+        "reports/form-media/attempt_b6a8bba9943043be/standing-review-4.50s.jpg"
+      ],
+      "sourceAttemptId": "attempt_b6a8bba9943043be",
+      "sourceAssetId": "r2-overhead-press-studio-motion-b6a8bba9",
+      "provenanceFile": "form-media/edits.json"
+    }
+  ]
+}

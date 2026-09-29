@@ -1,0 +1,1694 @@
+{
+  "schemaVersion": 1,
+  "appliedAt": "2026-09-23T00:43:24+00:00",
+  "authorization": "User: remove Farmer’s Walk, and Suitcase Carry.",
+  "removedWithoutReplacement": [
+    "ex_farmers_walk",
+    "cat_cond_suitcase_carry"
+  ],
+  "previousCatalogVersion": "2026.09.22.2",
+  "previousCatalogRevision": 12,
+  "previousCatalogSha256": "86a8a7d1db2acc5b2627b7c842ff0aa107dd4a1fea3492c3474b2065b8dcf69f",
+  "catalogExercises": {
+    "ex_farmers_walk": {
+      "id": "ex_farmers_walk",
+      "name": "Farmer's Walk",
+      "muscle_group": "Full Body",
+      "movementType": "other",
+      "instructions": [
+        "Pick up a dumbbell in each hand with the trunk braced.",
+        "Walk through a clear measured path with short steady steps and level shoulders, then set the weights down under control.",
+        "Optional frame carry: stand centered between a suitable rickshaw frame's handles, lift with the trunk braced, walk through a clear measured course and lower the frame under control at the finish. Track the frame type, handle height and load consistently; frame loads are not directly interchangeable with two dumbbells."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength",
+          "conditioning"
+        ],
+        "goals": [
+          "athleticism",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "full body"
+        ],
+        "secondaryMuscles": [
+          "forearms",
+          "traps",
+          "abdominals"
+        ],
+        "equipment": [
+          "dumbbells"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "distance",
+        "loadBehavior": "required",
+        "aliases": [
+          "Rickshaw Carry"
+        ],
+        "defaultPrescription": {
+          "sets": 3,
+          "restSeconds": 60,
+          "distanceMeters": 20
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial application of the user-approved 186-row simplification; not independent trainer review.",
+          "reviewedAt": "2026-09-21"
+        }
+      }
+    },
+    "cat_cond_suitcase_carry": {
+      "id": "cat_cond_suitcase_carry",
+      "name": "Suitcase Carry",
+      "muscle_group": "Core",
+      "movementType": "other",
+      "instructions": [
+        "Hold one dumbbell beside the body and stand tall.",
+        "Walk a clear measured path without leaning toward or away from the weight, then set it down and repeat the other side.",
+        "The entered distance applies to each side."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "conditioning"
+        ],
+        "goals": [
+          "endurance",
+          "athleticism",
+          "weight-loss",
+          "general"
+        ],
+        "primaryMuscles": [
+          "abdominals"
+        ],
+        "secondaryMuscles": [
+          "forearms",
+          "shoulders"
+        ],
+        "equipment": [
+          "dumbbells"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "distance",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 3,
+          "restSeconds": 45,
+          "distanceMeters": 15
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Corrected metadata.secondaryMuscles: Suitcase carry is unilateral offset load; add forearms/shoulders and explicit distance per side.; Corrected instructions: Suitcase carry is unilateral offset load; add forearms/shoulders and explicit distance per side. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        },
+        "perSide": true
+      }
+    }
+  },
+  "catalogReviews": {
+    "ex_farmers_walk": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-21",
+      "instructionReview": "Bilateral dumbbell carry uses load+distance; add grip/trunk supporting anatomy and controlled put-down. User-approved second simplification: Rickshaw Carry. Standard default prescription and tracking retained; useful optional setup and counting guidance consolidated. Historical loads and counts are not converted.",
+      "evidence": {
+        "identity": "Farmer's Walk; distance execution; dumbbells.",
+        "instructions": "Setup: Pick up a dumbbell in each hand with the trunk braced.",
+        "equipment": "Required default setup: dumbbells. Load entry: required. Alternative arrangements are optional instructions.",
+        "tracking": "20 metres for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: full body. Supporting: forearms, traps, abdominals.",
+        "eligibility": "beginner; activities strength, conditioning; goals athleticism, endurance, general.",
+        "prescription": "3 sets; 20 metres for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected metadata.secondaryMuscles: Bilateral dumbbell carry uses load+distance; add grip/trunk supporting anatomy and controlled put-down.",
+        "User-approved second simplification: Rickshaw Carry. Standard default prescription and tracking retained; useful optional setup and counting guidance consolidated. Historical loads and counts are not converted."
+      ]
+    },
+    "cat_cond_suitcase_carry": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Suitcase carry is unilateral offset load; add forearms/shoulders and explicit distance per side.",
+      "evidence": {
+        "identity": "Suitcase Carry; distance execution; dumbbells.",
+        "instructions": "Setup: Hold one dumbbell beside the body and stand tall.",
+        "equipment": "Required setup: dumbbells. Load entry: required.",
+        "tracking": "15 metres per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: abdominals. Supporting: forearms, shoulders.",
+        "eligibility": "beginner; activities conditioning; goals endurance, athleticism, weight-loss, general.",
+        "prescription": "3 sets; 15 metres per side; 45 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected metadata.secondaryMuscles: Suitcase carry is unilateral offset load; add forearms/shoulders and explicit distance per side.",
+        "Corrected instructions: Suitcase carry is unilateral offset load; add forearms/shoulders and explicit distance per side.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    }
+  },
+  "mediaDecisions": {
+    "ex_farmers_walk": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_cond_suitcase_carry": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    }
+  },
+  "changedSourceDecisionsBefore": [
+    {
+      "sourceId": "Farmers_Walk",
+      "sourceName": "Farmer's Walk",
+      "status": "mapped",
+      "canonicalId": "ex_farmers_walk",
+      "reason": "Existing canonical movement retained; existing instructions, apparatus, prescription and ID preserved. Mapping review: Two-sided loaded farmers carry includes dumbbells as allowed source implement, matching reviewed canonical apparatus.",
+      "sourceRecordSha256": "228428682e1acbc3f9babc2a224077196e90ce1352921f33da9ffedd58e4a726"
+    },
+    {
+      "sourceId": "Rickshaw_Carry",
+      "sourceName": "Rickshaw Carry",
+      "status": "mapped",
+      "canonicalId": "ex_farmers_walk",
+      "reason": "User-approved second simplification: Rickshaw Carry consolidated into Farmer's Walk (ex_farmers_walk), per the 186-row review approved 2026-09-21. Source evidence is archived and historical loads/counts remain unchanged.",
+      "sourceRecordSha256": "986256a5ac5726d80b1e1488dc05279c0f6efdd8a81893c1956fb19e7841b0f6"
+    }
+  ],
+  "changedSourceIds": [
+    "Farmers_Walk",
+    "Rickshaw_Carry"
+  ],
+  "starterChangesBefore": {
+    "starter_strength_dumbbells": {
+      "name": "Dumbbell Full Body",
+      "description": "A balanced strength session with a bench and dumbbells. Choose loads that allow controlled repetitions.",
+      "removedEntries": [
+        {
+          "exerciseId": "ex_farmers_walk",
+          "sets": 3,
+          "restSeconds": 60,
+          "distanceMeters": 20
+        }
+      ]
+    },
+    "starter_conditioning_gym": {
+      "name": "Gym Conditioning Circuit",
+      "description": "Ropes, sled work, and carries. Record the appropriate time, distance, and external load for each station.",
+      "removedEntries": [
+        {
+          "exerciseId": "ex_farmers_walk",
+          "sets": 3,
+          "restSeconds": 60,
+          "distanceMeters": 20
+        },
+        {
+          "exerciseId": "cat_cond_suitcase_carry",
+          "sets": 3,
+          "restSeconds": 45,
+          "distanceMeters": 15,
+          "perSide": true
+        }
+      ]
+    }
+  },
+  "previousRound11": {
+    "id": "round-11",
+    "title": "Round 11 · Barbell, dumbbell and plate-loaded coverage",
+    "status": "planning",
+    "createdAt": "2026-09-23T00:37:29+00:00",
+    "exerciseIds": [
+      "ex_farmers_walk",
+      "open_plate_pinch_20caa82c",
+      "cat_cond_suitcase_carry",
+      "ex_clean_and_jerk",
+      "ex_snatch",
+      "ex_arnold_press",
+      "open_inverted_row_1ce9a06f",
+      "open_barbell_ab_rollout_on_2e4a93ea",
+      "open_standing_overhead_bar_1c42b3f8",
+      "open_barbell_seated_calf_r_83fae18e",
+      "open_barbell_side_bend_38a746c7",
+      "open_barbell_side_split_sq_ad876f76",
+      "open_barbell_walking_lunge_3e9b169b",
+      "open_bent_arm_barbell_pull_bd488038",
+      "open_clean_5137c876",
+      "open_clean_and_press_7da75b45",
+      "open_decline_dumbbell_benc_7264c18d",
+      "open_decline_dumbbell_flye_14b2de63",
+      "open_dumbbell_clean_45633ce4",
+      "ex_dumbbell_fly",
+      "open_dumbbell_lunges_09699238",
+      "open_dumbbell_shrug_5ed42a42",
+      "open_incline_dumbbell_flye_f858d67d",
+      "open_landmine_180s_8bd8af32",
+      "ex_machine_chest_press",
+      "ex_power_clean",
+      "open_power_snatch_3f9ccaec",
+      "open_dumbbell_lying_pronat_95605e7c",
+      "open_smith_machine_calf_ra_ccc5bca6",
+      "open_standing_dumbbell_cal_ed527460",
+      "open_stiff_legged_dumbbell_5da667b0",
+      "ex_bench_press"
+    ],
+    "originalProductionExerciseIds": [
+      "ex_farmers_walk",
+      "open_plate_pinch_20caa82c",
+      "cat_cond_suitcase_carry",
+      "ex_clean_and_jerk",
+      "ex_snatch",
+      "ex_arnold_press",
+      "open_inverted_row_1ce9a06f",
+      "open_barbell_ab_rollout_on_2e4a93ea",
+      "open_standing_overhead_bar_1c42b3f8",
+      "open_barbell_seated_calf_r_83fae18e",
+      "open_barbell_side_bend_38a746c7",
+      "open_barbell_side_split_sq_ad876f76",
+      "open_barbell_walking_lunge_3e9b169b",
+      "open_bent_arm_barbell_pull_bd488038",
+      "open_clean_5137c876",
+      "open_clean_and_press_7da75b45",
+      "open_decline_dumbbell_benc_7264c18d",
+      "open_decline_dumbbell_flye_14b2de63",
+      "open_dumbbell_clean_45633ce4",
+      "ex_dumbbell_fly",
+      "open_dumbbell_lunges_09699238",
+      "open_dumbbell_shrug_5ed42a42",
+      "open_incline_dumbbell_flye_f858d67d",
+      "open_landmine_180s_8bd8af32",
+      "ex_machine_chest_press",
+      "ex_power_clean",
+      "open_power_snatch_3f9ccaec",
+      "open_dumbbell_lying_pronat_95605e7c",
+      "open_smith_machine_calf_ra_ccc5bca6",
+      "open_standing_dumbbell_cal_ed527460",
+      "open_stiff_legged_dumbbell_5da667b0",
+      "ex_bench_press"
+    ],
+    "reviewExerciseCount": 32,
+    "budgetPeriodId": "google-flow-2026-09-21",
+    "phase": "production-planning",
+    "requiresEditorialPass": true,
+    "neverGeneratedVideoExerciseIds": [
+      "ex_farmers_walk",
+      "open_plate_pinch_20caa82c",
+      "cat_cond_suitcase_carry",
+      "ex_clean_and_jerk",
+      "ex_snatch"
+    ],
+    "acceptedExternalPreservedExerciseIds": [
+      "ex_clean_and_jerk",
+      "ex_snatch",
+      "ex_bench_press"
+    ],
+    "selectionPolicy": "Keep all prior selections and user reviews. Only a newly AI-screened candidate enters Needs Review; never auto-accept generated video."
+  },
+  "previousPlan": {
+    "schemaVersion": 1,
+    "id": "round-11",
+    "createdAt": "2026-09-23T00:37:29+00:00",
+    "catalogVersion": "2026.09.22.2",
+    "catalogRevision": 12,
+    "exerciseIds": [
+      "ex_farmers_walk",
+      "open_plate_pinch_20caa82c",
+      "cat_cond_suitcase_carry",
+      "ex_clean_and_jerk",
+      "ex_snatch",
+      "ex_arnold_press",
+      "open_inverted_row_1ce9a06f",
+      "open_barbell_ab_rollout_on_2e4a93ea",
+      "open_standing_overhead_bar_1c42b3f8",
+      "open_barbell_seated_calf_r_83fae18e",
+      "open_barbell_side_bend_38a746c7",
+      "open_barbell_side_split_sq_ad876f76",
+      "open_barbell_walking_lunge_3e9b169b",
+      "open_bent_arm_barbell_pull_bd488038",
+      "open_clean_5137c876",
+      "open_clean_and_press_7da75b45",
+      "open_decline_dumbbell_benc_7264c18d",
+      "open_decline_dumbbell_flye_14b2de63",
+      "open_dumbbell_clean_45633ce4",
+      "ex_dumbbell_fly",
+      "open_dumbbell_lunges_09699238",
+      "open_dumbbell_shrug_5ed42a42",
+      "open_incline_dumbbell_flye_f858d67d",
+      "open_landmine_180s_8bd8af32",
+      "ex_machine_chest_press",
+      "ex_power_clean",
+      "open_power_snatch_3f9ccaec",
+      "open_dumbbell_lying_pronat_95605e7c",
+      "open_smith_machine_calf_ra_ccc5bca6",
+      "open_standing_dumbbell_cal_ed527460",
+      "open_stiff_legged_dumbbell_5da667b0",
+      "ex_bench_press"
+    ],
+    "targetCount": 32,
+    "categoryScope": [
+      "barbell",
+      "dumbbells",
+      "plate-loaded",
+      "weight-plate-adjacent"
+    ],
+    "coreQueueExerciseIds": [
+      "ex_farmers_walk",
+      "cat_cond_suitcase_carry",
+      "ex_clean_and_jerk",
+      "ex_snatch",
+      "ex_arnold_press",
+      "open_inverted_row_1ce9a06f",
+      "open_barbell_ab_rollout_on_2e4a93ea",
+      "open_standing_overhead_bar_1c42b3f8",
+      "open_barbell_seated_calf_r_83fae18e",
+      "open_barbell_side_bend_38a746c7",
+      "open_barbell_side_split_sq_ad876f76",
+      "open_barbell_walking_lunge_3e9b169b",
+      "open_bent_arm_barbell_pull_bd488038",
+      "open_clean_5137c876",
+      "open_clean_and_press_7da75b45",
+      "open_decline_dumbbell_benc_7264c18d",
+      "open_decline_dumbbell_flye_14b2de63",
+      "open_dumbbell_clean_45633ce4",
+      "ex_dumbbell_fly",
+      "open_dumbbell_lunges_09699238",
+      "open_dumbbell_shrug_5ed42a42",
+      "open_incline_dumbbell_flye_f858d67d",
+      "open_landmine_180s_8bd8af32",
+      "ex_machine_chest_press",
+      "ex_power_clean",
+      "open_power_snatch_3f9ccaec",
+      "open_dumbbell_lying_pronat_95605e7c",
+      "open_standing_dumbbell_cal_ed527460",
+      "open_stiff_legged_dumbbell_5da667b0",
+      "ex_bench_press"
+    ],
+    "weightPlateAdjacentExerciseIds": [
+      "open_plate_pinch_20caa82c",
+      "open_smith_machine_calf_ra_ccc5bca6"
+    ],
+    "neverGeneratedVideoExerciseIds": [
+      "ex_farmers_walk",
+      "open_plate_pinch_20caa82c",
+      "cat_cond_suitcase_carry",
+      "ex_clean_and_jerk",
+      "ex_snatch"
+    ],
+    "generatedWithoutAcceptedVideoExerciseIds": [
+      "ex_arnold_press",
+      "open_inverted_row_1ce9a06f",
+      "open_barbell_ab_rollout_on_2e4a93ea",
+      "open_standing_overhead_bar_1c42b3f8",
+      "open_barbell_seated_calf_r_83fae18e",
+      "open_barbell_side_bend_38a746c7",
+      "open_barbell_side_split_sq_ad876f76",
+      "open_barbell_walking_lunge_3e9b169b",
+      "open_bent_arm_barbell_pull_bd488038",
+      "open_clean_5137c876",
+      "open_clean_and_press_7da75b45",
+      "open_decline_dumbbell_benc_7264c18d",
+      "open_decline_dumbbell_flye_14b2de63",
+      "open_dumbbell_clean_45633ce4",
+      "ex_dumbbell_fly",
+      "open_dumbbell_lunges_09699238",
+      "open_dumbbell_shrug_5ed42a42",
+      "open_incline_dumbbell_flye_f858d67d",
+      "open_landmine_180s_8bd8af32",
+      "ex_machine_chest_press",
+      "ex_power_clean",
+      "open_power_snatch_3f9ccaec",
+      "open_dumbbell_lying_pronat_95605e7c",
+      "open_smith_machine_calf_ra_ccc5bca6",
+      "open_standing_dumbbell_cal_ed527460",
+      "open_stiff_legged_dumbbell_5da667b0",
+      "ex_bench_press"
+    ],
+    "acceptedExternalPreservedExerciseIds": [
+      "ex_clean_and_jerk",
+      "ex_snatch",
+      "ex_bench_press"
+    ],
+    "coverage": [
+      {
+        "exerciseId": "ex_bench_press",
+        "name": "Barbell Bench Press",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": true,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r2-bench-crossfit-short",
+          "r2-bench-overhead-illustrated-still-587ba2ed"
+        ]
+      },
+      {
+        "exerciseId": "ex_incline_bench_press",
+        "name": "Incline Dumbbell Press",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r5-incline-db-press-anatomical-cycle-v1"
+        ]
+      },
+      {
+        "exerciseId": "ex_decline_bench_press",
+        "name": "Decline Barbell Bench Press",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r6-ex-decline-bench-press-motion-eaf6a380"
+        ]
+      },
+      {
+        "exerciseId": "ex_dumbbell_fly",
+        "name": "Dumbbell Fly",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "ex_machine_chest_press",
+        "name": "Machine Chest Press",
+        "categories": [
+          "plate-loaded"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "ex_pullover",
+        "name": "Dumbbell Pullover",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-pullover-long-arm-single-cycle-trim-v1"
+        ]
+      },
+      {
+        "exerciseId": "ex_barbell_row",
+        "name": "Barbell Row",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r7-barbell-row-complete-cycle"
+        ]
+      },
+      {
+        "exerciseId": "ex_t_bar_row",
+        "name": "Landmine Row",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-landmine-row-complete-cycle"
+        ]
+      },
+      {
+        "exerciseId": "ex_dumbbell_row",
+        "name": "Single-Arm Dumbbell Row",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r5-single-arm-db-row-cycle-v1"
+        ]
+      },
+      {
+        "exerciseId": "ex_machine_row",
+        "name": "Machine Row",
+        "categories": [
+          "plate-loaded"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r6-machine-row-close-cycle"
+        ]
+      },
+      {
+        "exerciseId": "ex_squat",
+        "name": "Barbell Squat",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r4-squat-anatomical-motion-c5d6dea2"
+        ]
+      },
+      {
+        "exerciseId": "ex_front_squat",
+        "name": "Front Squat",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-ex-front-squat-motion-087d5ed7"
+        ]
+      },
+      {
+        "exerciseId": "ex_deadlift",
+        "name": "Barbell Deadlift",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-deadlift-motion-df192556"
+        ]
+      },
+      {
+        "exerciseId": "ex_romanian_deadlift",
+        "name": "Romanian Deadlift",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-romanian-deadlift-veo-quality-single-cycle-trim"
+        ]
+      },
+      {
+        "exerciseId": "ex_sumo_deadlift",
+        "name": "Sumo Deadlift",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-sumo-deadlift-motion-7cd9d486"
+        ]
+      },
+      {
+        "exerciseId": "ex_hip_thrust",
+        "name": "Barbell Hip Thrust",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-hip-thrust-complete-cycle-v2"
+        ]
+      },
+      {
+        "exerciseId": "ex_overhead_press",
+        "name": "Overhead Press",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r3-overhead-press-studio-user-trim-0-6"
+        ]
+      },
+      {
+        "exerciseId": "ex_dumbbell_shoulder_press",
+        "name": "Dumbbell Shoulder Press",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-dumbbell-shoulder-press-motion-00231293"
+        ]
+      },
+      {
+        "exerciseId": "ex_arnold_press",
+        "name": "Arnold Press",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "ex_lateral_raise",
+        "name": "Lateral Raise",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-ex-lateral-raise-motion-861b669e"
+        ]
+      },
+      {
+        "exerciseId": "ex_front_raise",
+        "name": "Front Raise",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-front-raise-motion-0b93dfcd"
+        ]
+      },
+      {
+        "exerciseId": "ex_upright_row",
+        "name": "Upright Row",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-upright-row-motion-76f4aace"
+        ]
+      },
+      {
+        "exerciseId": "ex_shrugs",
+        "name": "Barbell Shrugs",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-shrugs-motion-7dcbe5f4"
+        ]
+      },
+      {
+        "exerciseId": "ex_bicep_curl",
+        "name": "Barbell Bicep Curl",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r5-barbell-curl-cycle-v1"
+        ]
+      },
+      {
+        "exerciseId": "ex_dumbbell_curl",
+        "name": "Alternating Dumbbell Curl",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r6-ex-dumbbell-curl-motion-4bccd9b9"
+        ]
+      },
+      {
+        "exerciseId": "ex_preacher_curl",
+        "name": "Preacher Curl",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-ex-preacher-curl-motion-3ac0f65c"
+        ]
+      },
+      {
+        "exerciseId": "ex_concentration_curl",
+        "name": "Concentration Curl",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r6-ex-concentration-curl-motion-487b2b4e"
+        ]
+      },
+      {
+        "exerciseId": "ex_skullcrusher",
+        "name": "Skullcrushers",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-ex-skullcrusher-motion-b0786602"
+        ]
+      },
+      {
+        "exerciseId": "ex_overhead_tricep_extension",
+        "name": "Overhead Tricep Extension",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-overhead-tricep-extension-motion-2cff875d"
+        ]
+      },
+      {
+        "exerciseId": "ex_tricep_kickback",
+        "name": "Dumbbell Tricep Kickback",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-tricep-kickback-motion-2da95657"
+        ]
+      },
+      {
+        "exerciseId": "ex_wrist_curl",
+        "name": "Wrist Curl",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-ex-wrist-curl-motion-83f0bc05"
+        ]
+      },
+      {
+        "exerciseId": "ex_clean_and_jerk",
+        "name": "Clean and Jerk",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": false,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": true,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r2-clean-jerk-trainheroic"
+        ]
+      },
+      {
+        "exerciseId": "ex_snatch",
+        "name": "Snatch",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": false,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": true,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-snatch-youtube-search"
+        ]
+      },
+      {
+        "exerciseId": "ex_power_clean",
+        "name": "Power Clean",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "ex_thruster",
+        "name": "Thruster",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-ex-thruster-motion-f01bbcc5"
+        ]
+      },
+      {
+        "exerciseId": "ex_farmers_walk",
+        "name": "Farmer's Walk",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": false,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "cat_cond_suitcase_carry",
+        "name": "Suitcase Carry",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": false,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_barbell_ab_rollout_59a93cd6",
+        "name": "Barbell Pike Roll-In",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-barbell-ab-rollout-59a93cd6-motion-bc9c0fe4"
+        ]
+      },
+      {
+        "exerciseId": "open_barbell_ab_rollout_on_2e4a93ea",
+        "name": "Barbell Ab Rollout - On Knees",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_barbell_glute_bridge_0e7afdbd",
+        "name": "Barbell Glute Bridge",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-barbell-glute-bridge-first-cycle-trim-v2"
+        ]
+      },
+      {
+        "exerciseId": "open_barbell_incline_bench_b61b23bf",
+        "name": "Barbell Incline Bench Press",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-open-barbell-incline-bench-b61b23bf-motion-212025ec"
+        ]
+      },
+      {
+        "exerciseId": "open_barbell_lunge_be010510",
+        "name": "Barbell Lunge",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-open-barbell-lunge-be010510-motion-23b8fc31"
+        ]
+      },
+      {
+        "exerciseId": "open_barbell_seated_calf_r_83fae18e",
+        "name": "Barbell Seated Calf Raise",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_barbell_side_bend_38a746c7",
+        "name": "Barbell Side Bend",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_barbell_side_split_sq_ad876f76",
+        "name": "Barbell Side Split Squat",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_barbell_step_ups_78799b06",
+        "name": "Barbell Step Ups",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r5-barbell-stepup-anatomical-motion-7d4da4ca"
+        ]
+      },
+      {
+        "exerciseId": "open_barbell_walking_lunge_3e9b169b",
+        "name": "Barbell Walking Lunge",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+        "name": "Bent-Arm Barbell Pullover",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_bent_over_two_dumbbel_0c77d209",
+        "name": "Bent-Over Dumbbell Row",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-bent-over-dumbbell-row-first-cycle-trim-v1"
+        ]
+      },
+      {
+        "exerciseId": "open_box_squat_bc96e223",
+        "name": "Box Squat",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-open-box-squat-bc96e223-motion-cf62ac90"
+        ]
+      },
+      {
+        "exerciseId": "open_clean_5137c876",
+        "name": "Clean",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_clean_and_press_7da75b45",
+        "name": "Clean and Press",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_decline_dumbbell_benc_7264c18d",
+        "name": "Decline Dumbbell Bench Press",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": [
+          "r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50"
+        ]
+      },
+      {
+        "exerciseId": "open_decline_dumbbell_flye_14b2de63",
+        "name": "Decline Dumbbell Flyes",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_dumbbell_bench_press_94bb9ae4",
+        "name": "Dumbbell Bench Press",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-dumbbell-bench-press-94bb9ae4-motion-5c9e09da"
+        ]
+      },
+      {
+        "exerciseId": "open_dumbbell_bicep_curl_6db34986",
+        "name": "Dumbbell Bicep Curl",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-open-dumbbell-bicep-curl-6db34986-motion-a2ece775"
+        ]
+      },
+      {
+        "exerciseId": "open_dumbbell_clean_45633ce4",
+        "name": "Dumbbell Clean",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_dumbbell_incline_row_8f4625d1",
+        "name": "Dumbbell Incline Row",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-dumbbell-incline-row-single-cycle-trim-v1"
+        ]
+      },
+      {
+        "exerciseId": "open_dumbbell_lunges_09699238",
+        "name": "Dumbbell Lunges",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": [
+          "r10-open-dumbbell-lunges-09699238-motion-1eaa53e1"
+        ]
+      },
+      {
+        "exerciseId": "open_dumbbell_lying_pronat_95605e7c",
+        "name": "Prone Dumbbell Shoulder External Rotation",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_dumbbell_rear_lunge_1148a3d4",
+        "name": "Dumbbell Rear Lunge",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-dumbbell-rear-lunge-1148a3d4-motion-558ca6a5"
+        ]
+      },
+      {
+        "exerciseId": "open_dumbbell_shrug_5ed42a42",
+        "name": "Dumbbell Shrug",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_dumbbell_side_bend_3f401794",
+        "name": "Dumbbell Side Bend",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-dumbbell-side-bend-cycle-ff2a3af4"
+        ]
+      },
+      {
+        "exerciseId": "open_dumbbell_squat_ef95231f",
+        "name": "Dumbbell Squat",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-dumbbell-squat-standing-cycle-trim-v1"
+        ]
+      },
+      {
+        "exerciseId": "open_dumbbell_step_ups_04b3396f",
+        "name": "Dumbbell Step Ups",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-dumbbell-step-ups-04b3396f-motion-977d472e"
+        ]
+      },
+      {
+        "exerciseId": "open_good_morning_a5c85ff9",
+        "name": "Good Morning",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-good-morning-single-cycle-trim-v1"
+        ]
+      },
+      {
+        "exerciseId": "open_hang_clean_1e812852",
+        "name": "Hang Clean",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-hang-clean-1e812852-motion-c1b25c44"
+        ]
+      },
+      {
+        "exerciseId": "open_hang_snatch_5089a95c",
+        "name": "Hang Snatch",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-hang-snatch-5089a95c-motion-e38e4476"
+        ]
+      },
+      {
+        "exerciseId": "open_incline_dumbbell_curl_4fe643b7",
+        "name": "Incline Dumbbell Curl",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-open-incline-dumbbell-curl-4fe643b7-motion-7cf86150"
+        ]
+      },
+      {
+        "exerciseId": "open_incline_dumbbell_flye_f858d67d",
+        "name": "Incline Dumbbell Fly",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_inverted_row_1ce9a06f",
+        "name": "Bar Inverted Row",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_landmine_180s_8bd8af32",
+        "name": "Landmine 180's",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_leverage_incline_ches_0c70165e",
+        "name": "Plate Loaded Incline Chest Press",
+        "categories": [
+          "plate-loaded"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-incline-leverage-single-cycle-trim-v1"
+        ]
+      },
+      {
+        "exerciseId": "open_machine_shoulder_mili_71dc7774",
+        "name": "Machine Shoulder Press",
+        "categories": [
+          "plate-loaded"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-machine-shoulder-press-complete-cycle"
+        ]
+      },
+      {
+        "exerciseId": "open_one_leg_barbell_squat_589d24d2",
+        "name": "Barbell Bulgarian Split Squat",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-bulgarian-split-squat-cycle-5a64c606"
+        ]
+      },
+      {
+        "exerciseId": "open_overhead_squat_2f8e8608",
+        "name": "Overhead Squat",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-overhead-squat-cycle-8b3dfb80"
+        ]
+      },
+      {
+        "exerciseId": "open_plate_pinch_20caa82c",
+        "name": "Plate Pinch",
+        "categories": [
+          "weight-plate-adjacent"
+        ],
+        "everGeneratedVideo": false,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_power_jerk_56e87432",
+        "name": "Power Jerk",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-power-jerk-56e87432-motion-6c025c02"
+        ]
+      },
+      {
+        "exerciseId": "open_power_snatch_3f9ccaec",
+        "name": "Power Snatch",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_reverse_flyes_aa2536c5",
+        "name": "Reverse Flyes",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-open-reverse-flyes-aa2536c5-motion-776aa534"
+        ]
+      },
+      {
+        "exerciseId": "open_seated_barbell_twist_625c8c53",
+        "name": "Seated Barbell Twist",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-open-seated-barbell-twist-625c8c53-motion-67d9ea5a"
+        ]
+      },
+      {
+        "exerciseId": "open_single_arm_linear_jam_b53226fa",
+        "name": "Single-Arm Linear Jammer",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-single-arm-linear-jam-b53226fa-motion-83ba81a2"
+        ]
+      },
+      {
+        "exerciseId": "open_smith_machine_calf_ra_ccc5bca6",
+        "name": "Smith Machine Calf Raise",
+        "categories": [
+          "weight-plate-adjacent"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_split_jerk_a3d273a6",
+        "name": "Split Jerk",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-split-jerk-a3d273a6-motion-09114dc4"
+        ]
+      },
+      {
+        "exerciseId": "open_split_squat_with_dumb_9b0798a5",
+        "name": "Dumbbell Bulgarian Split Squat",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r8-open-split-squat-with-dumb-9b0798a5-motion-1e2aacb3"
+        ]
+      },
+      {
+        "exerciseId": "open_standing_dumbbell_cal_ed527460",
+        "name": "Standing Dumbbell Calf Raise",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+        "name": "Barbell Overhead Triceps Extension",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "pending",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_stiff_legged_dumbbell_5da667b0",
+        "name": "Stiff-Legged Dumbbell Deadlift",
+        "categories": [
+          "dumbbells"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": false,
+        "acceptedExternal": false,
+        "reviewStatus": "rejected",
+        "selectedAssetIds": []
+      },
+      {
+        "exerciseId": "open_upright_barbell_row_5464c784",
+        "name": "Upright Barbell Row",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-upright-barbell-row-5464c784-motion-76b2214e"
+        ]
+      },
+      {
+        "exerciseId": "open_weighted_jump_squat_f4b3559a",
+        "name": "Barbell Jump Squat",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-open-weighted-jump-squat-f4b3559a-motion-30cd2f55"
+        ]
+      },
+      {
+        "exerciseId": "cat_barbell_push_press",
+        "name": "Barbell Push Press",
+        "categories": [
+          "barbell"
+        ],
+        "everGeneratedVideo": true,
+        "acceptedGeneratedVideo": true,
+        "acceptedExternal": false,
+        "reviewStatus": "accepted",
+        "selectedAssetIds": [
+          "r9-cat-barbell-push-press-motion-c83e4482"
+        ]
+      }
+    ],
+    "budgetPeriodId": "google-flow-2026-09-21",
+    "creditLimit": 10000,
+    "reviewPolicy": "Study prior user rejections; enforce exact machine/implement, persistent working-muscle glow, clear framing and one complete unbouncy repetition. Screen delivered files before exposing new candidates. Preserve accepted external guidance until a new generated video is separately approved.",
+    "generationStatus": "not-started"
+  },
+  "ledgerSha256": "f10e51b7ae6a4063ba6cad094be728b57e4d559ba30848195d6f2c3c44e2aada",
+  "budgetBefore": {
+    "limit": 10000,
+    "reserved": 0,
+    "spent": 5587,
+    "remaining": 4413,
+    "lifetimeSpent": 10159,
+    "historicalSpent": 4572,
+    "periodId": "google-flow-2026-09-21",
+    "periodStartedAt": "2026-09-21T19:37:27+00:00",
+    "unresolvedAttemptCount": 0
+  },
+  "policy": "Local active-catalog and review-queue removal only. Historical workouts and credit records remain intact; no cloud publication."
+}

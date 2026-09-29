@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-open-machine-bicep-curl-487dd689-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-machine-bicep-curl-487dd689-motion-8cd4eee0.json"
+    },
+    {
+      "shot": "r8-open-machine-preacher-curl-3b839f7c-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-machine-preacher-curl-3b839f7c-motion-5d42d845.json"
+    },
+    {
+      "shot": "r8-open-machine-shoulder-mili-71dc7774-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-machine-shoulder-mili-71dc7774-motion-6e110502.json"
+    },
+    {
+      "shot": "r8-open-machine-triceps-exten-c66a3615-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-machine-triceps-exten-c66a3615-motion-7049f8c5.json"
+    }
+  ]
+}

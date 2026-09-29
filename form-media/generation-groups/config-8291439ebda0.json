@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r11-bent-arm-barbell-pullover-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-bent-arm-barbell-pullover-t2v-8cafd01b.json"
+    },
+    {
+      "shot": "r11-decline-dumbbell-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-decline-dumbbell-fly-t2v-eec6f68b.json"
+    },
+    {
+      "shot": "r11-landmine-180-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-landmine-180-t2v-e9d16701.json"
+    },
+    {
+      "shot": "r11-prone-dumbbell-external-rotation-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-prone-dumbbell-external-rotation-t2v-b35cb61a.json"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r10-ex-leg-press-start",
+      "quoteFile": "form-media/ui-quotes/r10-ex-leg-press-start-58d802a6.json"
+    },
+    {
+      "shot": "r10-open-hack-squat-76a66305-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-hack-squat-76a66305-start-3a4b5859.json"
+    },
+    {
+      "shot": "r10-open-thigh-abductor-05f17f36-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-thigh-abductor-05f17f36-start-374cc2b9.json"
+    },
+    {
+      "shot": "r10-open-thigh-adductor-933feed1-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-thigh-adductor-933feed1-start-85f88c9c.json"
+    }
+  ]
+}

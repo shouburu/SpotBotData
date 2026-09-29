@@ -1,0 +1,60 @@
+{
+  "id": "group_9a3510660fda496a",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:49:44+00:00",
+  "balanceBefore": 7538,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_close_grip_ez_bar_pre_7bfa7d02",
+      "shot": "r8-open-close-grip-ez-bar-pre-7bfa7d02-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "282d250f77d8367476be9e1fb2c1aaeffb53e57eb61398b1a156ee5b242c8a8a",
+      "quoteFile": "form-media/ui-quotes/r8-open-close-grip-ez-bar-pre-7bfa7d02-motion-2627c074.json",
+      "quoteSha256": "8ca9812edfaa42e0ab8c8787cf1ca240293561683be71891c4fa2d7b0ddda355",
+      "quoteCredits": 12,
+      "balance": 7538,
+      "references": []
+    },
+    {
+      "exerciseId": "open_close_grip_front_lat__495e493d",
+      "shot": "r8-open-close-grip-front-lat--495e493d-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "7e75c12466125f85b097e8c09f34f6b4b80316b5e28ef5faecfc7e70b90f7b0b",
+      "quoteFile": "form-media/ui-quotes/r8-open-close-grip-front-lat--495e493d-motion-93458554.json",
+      "quoteSha256": "138933a1d1f16afaf473d10d6a5a818983b71c0314d57c8a6e74403aeccc823d",
+      "quoteCredits": 12,
+      "balance": 7538,
+      "references": []
+    },
+    {
+      "exerciseId": "open_close_grip_push_up_of_9056d7cb",
+      "shot": "r8-open-close-grip-push-up-of-9056d7cb-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "4f51e5af316473b44d2c688bf304229ff20e4292467fa7f4bd2d6cb554d83581",
+      "quoteFile": "form-media/ui-quotes/r8-open-close-grip-push-up-of-9056d7cb-motion-814f08f0.json",
+      "quoteSha256": "a0198862279ff8d5379b109e3c25fbfb8ddbcf359f5b6fae86b4109ac36a0fd5",
+      "quoteCredits": 12,
+      "balance": 7538,
+      "references": []
+    },
+    {
+      "exerciseId": "open_close_grip_standing_b_580c6737",
+      "shot": "r8-open-close-grip-standing-b-580c6737-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "6e81c463f259c211e6c19c87d568de896402979c9728075abc966ff1c8b1f443",
+      "quoteFile": "form-media/ui-quotes/r8-open-close-grip-standing-b-580c6737-motion-2dafe080.json",
+      "quoteSha256": "6b45ec2c304b2677942d04eae692ceea15a346d764df931b5d0641c792a49dac",
+      "quoteCredits": 12,
+      "balance": 7538,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:51:20+00:00",
+  "balanceAfter": 7490,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-cf69ef6af6bd4057.json",
+  "evidenceSha256": "5faf6dd905049888291f7967c0e4fd0aa1e6d72b558d903f0f820ba7aebb5962"
+}

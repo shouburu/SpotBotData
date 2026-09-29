@@ -1,0 +1,34 @@
+{
+  "id": "group_cba9b54206744fb7",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:05:31+00:00",
+  "balanceBefore": 4720,
+  "quotedCredits": 10,
+  "members": [
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r10-ex-dumbbell-fly-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "f472e5fb3f21a0f2f018dd8928ceed407015d739bbd62042f4e8cc3c09e39324",
+      "quoteFile": "form-media/ui-quotes/r10-ex-dumbbell-fly-motion-9713f0e0.json",
+      "quoteSha256": "b6f3ce39a5cfaf98cbdbb88d36def60a66b0d4a0394cc780be8659089af7fe37",
+      "quoteCredits": 10,
+      "balance": 4720,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-dumbbell-fly-start/attempt_27e46e75c7274a86.jpg",
+          "sha256": "fed204e0b7fc45eb0fe50dbf2431027c02477114311a70ef4dfebf09c835ac61"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:07:07+00:00",
+  "balanceAfter": 4710,
+  "actualCredits": 10,
+  "evidenceFile": "form-media/ui-quotes/observed-23ddbe1e32b74bc8.json",
+  "evidenceSha256": "7bf16cb0a41002734876477f02087104b93372e146b9982d95285f35e9c6d892",
+  "terminalFailureIds": []
+}

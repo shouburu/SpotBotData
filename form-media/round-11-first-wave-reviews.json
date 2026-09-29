@@ -1,0 +1,126 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-11",
+  "reviews": [
+    {
+      "assetId": "r11-arnold-press-t2v-dbbb50f8",
+      "attemptId": "attempt_dbbb50f808004ee8",
+      "exerciseId": "ex_arnold_press",
+      "shot": "r11-arnold-press-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-arnold-press-t2v-dbbb50f8.mp4",
+      "outputSha256": "57e5efcb26591e330b16386dbcc73c6f0de9e0cd61478126a664508903751de7",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:20:47.268425+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both dumbbells start near the cheeks and rotate outward, but neither reaches the required near-straight overhead endpoint. The clip returns to the start after a partial shoulder-level raise."
+      ],
+      "limitations": [
+        "Exact delivery inspected at 3 fps. This fails the full-range requirement; no human or trainer acceptance implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_dbbb50f808004ee8/review-3fps-01.jpg",
+        "reports/form-media/attempt_dbbb50f808004ee8/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-bar-inverted-row-t2v-9b605b3b",
+      "attemptId": "attempt_9b605b3bceb049f0",
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "shot": "r11-bar-inverted-row-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-bar-inverted-row-t2v-9b605b3b.mp4",
+      "outputSha256": "398bf252629066ef31789c9f6ab4ea03422a4247143d6ec8562300f5dbe52413",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:20:47.268425+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Mannequin starts nearly standing at the bar rather than hanging low beneath it; arms are bent throughout most of the row. At the end, the hands leave the fixed bar and jump to the rack\u2019s overhead crossbar."
+      ],
+      "limitations": [
+        "Exact delivery inspected at 3 fps. Equipment contact and starting geometry are incorrect."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_9b605b3bceb049f0/review-3fps-01.jpg",
+        "reports/form-media/attempt_9b605b3bceb049f0/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-decline-dumbbell-bench-t2v-1b359127",
+      "attemptId": "attempt_1b35912728544ec8",
+      "exerciseId": "open_decline_dumbbell_benc_7264c18d",
+      "shot": "r11-decline-dumbbell-bench-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-decline-dumbbell-bench-t2v-1b359127.mp4",
+      "outputSha256": "7e44bc7194faba6e88f55df2a136110376f2f2d9ec115c4d72403f4d04ea7b41",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:20:47.268425+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Original clip starts with extended arms, lowers to the lower chest, presses to the top, then descends again before ending. It therefore shows an unwanted extra partial repetition."
+      ],
+      "limitations": [
+        "The first complete cycle was preserved in a separate original-speed edit; only that edit is proposed for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_1b35912728544ec8/review-3fps-01.jpg",
+        "reports/form-media/attempt_1b35912728544ec8/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-decline-dumbbell-bench-one-rep-v1",
+      "attemptId": "attempt_1b35912728544ec8",
+      "exerciseId": "open_decline_dumbbell_benc_7264c18d",
+      "shot": "r11-decline-dumbbell-bench-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-decline-dumbbell-bench-one-rep-v1.mp4",
+      "outputSha256": "2ad8cba6cd11f9bc0450ff60c665598de5bf49a198c459ac18da0079c6135c80",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:20:47.268425+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact edited clip shows one top-to-bottom-to-top decline dumbbell press at original speed. Both hands remain on dumbbells, the handles stay near perpendicular to the torso, and the pectoral highlight remains visible. It stops before the unwanted second descent."
+      ],
+      "limitations": [
+        "The framing prioritizes the chest and arm path; the lower legs extend outside the frame. AI editorial screen only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-11-preparation/decline-one-rep-exact-3fps.jpg",
+        "reports/round-11-preparation/decline-4p4.png"
+      ]
+    },
+    {
+      "assetId": "r11-dumbbell-lunges-t2v-bf9fda19",
+      "attemptId": "attempt_bf9fda19c91a454b",
+      "exerciseId": "open_dumbbell_lunges_09699238",
+      "shot": "r11-dumbbell-lunges-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-dumbbell-lunges-t2v-bf9fda19.mp4",
+      "outputSha256": "f60ea2f41b97625aa5cf4f0af8f3051c4014c2756e9c2e3fc6d0f511bcceaa11",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:20:47.268425+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The right foot steps forward, both knees bend to a clear lunge depth, and the same foot returns beside the other. The model holds a dumbbell in each hand throughout, without a second repetition; the front quadriceps remains highlighted."
+      ],
+      "limitations": [
+        "The body presentation turns from front toward three-quarter while stepping, although the camera stays fixed. AI editorial screen only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_bf9fda19c91a454b/review-3fps-01.jpg",
+        "reports/form-media/attempt_bf9fda19c91a454b/review-3fps-02.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "group_40b5f1a86b6c4be6",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:40:43+00:00",
+  "balanceBefore": 4658,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "ex_machine_chest_press",
+      "shot": "r10-ex-machine-chest-press-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "fbfff578ff8833f927ca4f054c87905718fe1bcfe30700fad83fd78b403818f0",
+      "quoteFile": "form-media/ui-quotes/r10-ex-machine-chest-press-motion-211019af.json",
+      "quoteSha256": "8e4a753bf91797aad3ea523d24e36025d582c70ddb4947b9ce9149bd1fc0e004",
+      "quoteCredits": 10,
+      "balance": 4658,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-machine-chest-press-start-v2/attempt_e43e7a6ffe0140e1.jpg",
+          "sha256": "edb584c7e8d086e799386b0889ebf599e0c0381809395a15b39988f71a6a5b60"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r10-ex-calf-raise-seated-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "556af5a72af8f96180147b8c64af5b8eab80e0240cecd548a26ffb39d4add6e8",
+      "quoteFile": "form-media/ui-quotes/r10-ex-calf-raise-seated-motion-dd3651a7.json",
+      "quoteSha256": "cd44e37c42d6423b786e1f02597ba496a2054f549429e32b3b6094fc6e7beeb2",
+      "quoteCredits": 10,
+      "balance": 4658,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-calf-raise-seated-start-v2/attempt_a0409a8f37d3443a.jpg",
+          "sha256": "d512cbc47911384c7edfda9b5eb0001395331afba03611096b8f8baca1d95a06"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "shot": "r10-open-dumbbell-shrug-5ed42a42-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "3cc83900787e59e3203d4a8552a92ad28b9d842ae140e4190c4200e7bbc6733b",
+      "quoteFile": "form-media/ui-quotes/r10-open-dumbbell-shrug-5ed42a42-motion-1aacf061.json",
+      "quoteSha256": "54e898061a6df7049c654188fa41d3ea800d3c64ae8d27b668e7295033c51ca6",
+      "quoteCredits": 10,
+      "balance": 4658,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-dumbbell-shrug-5ed42a42-start-v2/attempt_d0cdd43ce17a47a9.jpg",
+          "sha256": "962a4d12252b0863759ca67dbdcec41fcbde53bcef4c58c5c3eef3ca03b1acef"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_cable_crunch",
+      "shot": "r10-ex-cable-crunch-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "c1a0639bcc785889aa322017d55a32024ae8a6d163ead92ff43b50926d12d703",
+      "quoteFile": "form-media/ui-quotes/r10-ex-cable-crunch-motion-c008d195.json",
+      "quoteSha256": "28ab8da40e0206f529bbb73d0be9dfdee6b86fbdc51b2cf1353a38ed65345ffd",
+      "quoteCredits": 10,
+      "balance": 4658,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-cable-crunch-start-v2/attempt_4e8a0d9081814240.jpg",
+          "sha256": "3ede34ae15ab5b41c3d331daa24d88e5e538ad67d24a11af536f07d59aaf02f5"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:42:34+00:00",
+  "balanceAfter": 4618,
+  "actualCredits": 40,
+  "evidenceFile": "form-media/ui-quotes/observed-2c9af95cedfe4bd1.json",
+  "evidenceSha256": "4ca487b6a5aa92a5a3911a87d58822db74b8fd46f9687696f1e22ce1dcc0aef2",
+  "terminalFailureIds": []
+}

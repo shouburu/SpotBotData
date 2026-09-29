@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-incline-dumbbell-flye-f858d67d-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-incline-dumbbell-flye-f858d67d-start-e00a63ec.json"
+    },
+    {
+      "shot": "r9-open-leverage-deadlift-ba90f5c3-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-deadlift-ba90f5c3-start-d3ff7385.json"
+    },
+    {
+      "shot": "r9-open-one-arm-high-pulley-c-13c8cfb4-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-one-arm-high-pulley-c-13c8cfb4-start-7b4fe59d.json"
+    },
+    {
+      "shot": "r9-open-pallof-press-69ae4277-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-pallof-press-69ae4277-start-99c74d04.json"
+    }
+  ]
+}

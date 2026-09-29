@@ -1,0 +1,13 @@
+{
+  "attemptId": "attempt_1ab62c945f894268",
+  "exerciseId": "ex_machine_chest_press",
+  "shot": "r6-ex-machine-chest-press-start",
+  "providerSubmissionReached": false,
+  "reason": "Editor initialization failed at settings-trigger visibility before prompt entry/submission; CLI exited 23 on /about. No prompt_submitted event or provider generation ID. Flow balance unchanged.",
+  "logPath": "reports/form-media/attempt_1ab62c945f894268/stderr.log",
+  "logSha256": "81673f2722404135135d9892552c54069c47b7deeee61e658682a25cbd6e73de",
+  "balanceBefore": 8856,
+  "balanceAfter": 8856,
+  "balanceObservedAt": "2026-09-15T21:00:18.739Z",
+  "visibleBalanceText": "8,856 Google Flow credits"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "group_02a58184f3bf44e2",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:58:38+00:00",
+  "balanceBefore": 5666,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_seated_one_arm_dumbbe_b9ecc8a6",
+      "shot": "r8-open-seated-one-arm-dumbbe-b9ecc8a6-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "fc60ad5ad0ef383d249be2e1cdae2dee75405b864aff9b9b9ab6e2809a79f418",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-one-arm-dumbbe-b9ecc8a6-motion-72432266.json",
+      "quoteSha256": "8149eed14688586d71a92889437dcd211ebd31d51bcc27cfb61a5f838e4f4e7b",
+      "quoteCredits": 12,
+      "balance": 5666,
+      "references": []
+    },
+    {
+      "exerciseId": "open_seated_one_arm_cable__82dd1806",
+      "shot": "r8-open-seated-one-arm-cable--82dd1806-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "261b8e12a93e708332d08755dc080b7f6719de52fbcac818fedb926048593661",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-one-arm-cable--82dd1806-motion-2ecf6177.json",
+      "quoteSha256": "739a08262b7060620894cb9880f76bf9570f09b17f000e0728052ecfe0bc922f",
+      "quoteCredits": 12,
+      "balance": 5666,
+      "references": []
+    },
+    {
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r8-open-seated-palm-up-barbel-87a8d029-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "e2352f4bbd2508b21188d2e2c0f0fd5554ca1cd508242bbb2163dc8c712dfe1b",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-palm-up-barbel-87a8d029-motion-a1469b40.json",
+      "quoteSha256": "f4411eca6c92fd288d3c9573d21294abb60f907f4fdc2de0542ddb1ad90a5795",
+      "quoteCredits": 12,
+      "balance": 5666,
+      "references": []
+    },
+    {
+      "exerciseId": "open_seated_palms_down_bar_c6486466",
+      "shot": "r8-open-seated-palms-down-bar-c6486466-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "3bfa8656b671f9ae940918b989c968ad187ae58aa00a45d6a67ed95c7bc4ae44",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-palms-down-bar-c6486466-motion-559ace9f.json",
+      "quoteSha256": "2cf7aa853f960567f0103f5d1e6c0eb79d05913b50da6e842f4189fa6a7f3938",
+      "quoteCredits": 12,
+      "balance": 5666,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T07:00:22+00:00",
+  "balanceAfter": 5618,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-c20ae1348d184e96.json",
+  "evidenceSha256": "f3842a1510a0c33f61486837de929bd8f679258fdaa178ce712ebed4d16876bf"
+}

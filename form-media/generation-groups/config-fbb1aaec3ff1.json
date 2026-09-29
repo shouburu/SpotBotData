@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-cable-fly-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-cable-fly-motion-f8cb75db.json"
+    },
+    {
+      "shot": "r9-ex-t-bar-row-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-t-bar-row-motion-76ad0d53.json"
+    },
+    {
+      "shot": "r9-ex-lateral-raise-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-lateral-raise-motion-ed57c089.json"
+    },
+    {
+      "shot": "r9-ex-reverse-pec-deck-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-pec-deck-motion-66511005.json"
+    }
+  ]
+}

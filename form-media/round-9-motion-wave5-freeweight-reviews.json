@@ -1,0 +1,610 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "assetId": "r9-open-standing-dumbbell-cal-ed527460-motion-2783137c",
+      "attemptId": "attempt_2783137c7e6546d4",
+      "shot": "r9-open-standing-dumbbell-cal-ed527460-motion",
+      "exerciseId": "open_standing_dumbbell_cal_ed527460",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-standing-dumbbell-cal-ed527460-motion-2783137c.mp4",
+      "outputSha256": "fef3fedb08e4509c6952513592848247bbcb06520eb50586aff0de38034901f7",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:59:08+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Exact dense 3 fps delivery sheets show one visible heel rise and lowering with stable forefoot support, fixed dumbbells and persistent orange calf cue.",
+        "Before the heel rise, both knees visibly bend and the body lowers. Detailed 1.833/2/2.167/2.333-second frames show the knees then straightening as heel lift begins, rather than keeping the source knee angle steady.",
+        "The middle heel-raised position is clear and the final heels return to the floor, but the full low-to-high cycle includes this knee-driven dip and extension."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "The knee angle is visually assessed rather than measured. The crop retains the knees and ankle contact, so the movement substitution is visible rather than hidden.",
+        "The delivered six-second clip is an ankle detail; the upper torso is outside the frame by design."
+      ],
+      "notes": "Needs correction: complete heel movement exists, but the preparatory knee dip and straightening overlap its ascent. Compare the separately reviewed Smith/Barbell calf trials before deciding any further paid correction.",
+      "trimAssessment": "Starting after the knees have straightened would omit the complete low-heel starting position; no clear full fixed-knee cycle is available for a faithful contiguous trim.",
+      "inspection": {
+        "method": "Exact delivery dense 3 fps sheets plus full-resolution start/high/return and first-rise timing composites.",
+        "artifacts": [
+          "reports/form-media/attempt_2783137c7e6546d4/review-3fps-01.jpg",
+          "reports/form-media/attempt_2783137c7e6546d4/review-3fps-02.jpg",
+          "reports/form-media/attempt_2783137c7e6546d4/detail-knees-heels.jpg",
+          "reports/form-media/attempt_2783137c7e6546d4/detail-first-rise-timing.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-inverted-row-1ce9a06f-motion-8ca3f348",
+      "attemptId": "attempt_8ca3f348ea1f49c8",
+      "shot": "r9-open-inverted-row-1ce9a06f-motion",
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-inverted-row-1ce9a06f-motion-8ca3f348.mp4",
+      "outputSha256": "617e491bc247905e9c97f2a53baf0117aca00e30a4722eabfb25bcbe81c23c43",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:05:00+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The exact delivery now includes long arms at the start and return, a stable bar, consistent grips and heels on the floor. It contains one controlled excursion and return.",
+        "The high position changes exercise geometry: hands remain well above the head, the elbows spread sideways with near-vertical forearms, and the torso becomes comparatively upright beneath a high bar. This reads as a steep heel-assisted pull-up, rather than an inverted row with the body beneath a low bar and chest moving toward it.",
+        "Detailed 0/2.667/3.333/6.667-second frames make this distinction visible. The issue is not a requirement to touch the chest to the bar; the entire pulling plane is wrong."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "The frontal source hid the side-plane setup error. The next source needs a clear side construction guide, not merely another instruction to pull higher."
+      ],
+      "notes": "Needs correction for exercise identity despite better extension and equipment continuity. Root independently agreed with the exact phase composite. Retain the attempt; a final geometry-guided side-view source is proposed.",
+      "trimAssessment": "No contiguous trim changes the high-bar assisted-pull-up geometry into an inverted row.",
+      "inspection": {
+        "method": "Exact delivery dense 3 fps sheets and full-resolution low/high/return composite; root independent visual agreement.",
+        "artifacts": [
+          "reports/form-media/attempt_8ca3f348ea1f49c8/review-3fps-01.jpg",
+          "reports/form-media/attempt_8ca3f348ea1f49c8/review-3fps-02.jpg",
+          "reports/form-media/attempt_8ca3f348ea1f49c8/detail-row-range.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-smith-machine-calf-ra-ccc5bca6-motion-7703589a",
+      "attemptId": "attempt_7703589a34834c3c",
+      "shot": "r9-open-smith-machine-calf-ra-ccc5bca6-motion",
+      "exerciseId": "open_smith_machine_calf_ra_ccc5bca6",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-machine-calf-ra-ccc5bca6-motion-7703589a.mp4",
+      "outputSha256": "99c30e74925cb3e963cc2c30497f6b287badbfeaf658216301fb1347a6da164b",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:09:55+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Smith calf raise contains a complete high-heel to low-heel to high-heel excursion with coherent forefoot contact and persistent orange calf highlighting.",
+        "The low position around 2–2.667 seconds visibly bends both knees and sends the hips backward. The knees straighten again during the return to high heels, instead of preserving the reference knee angle.",
+        "The 0/2.333/3.667/5-second phase composite confirms the knee change is part of the main cycle, not merely a separate idle-tail movement."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "Knee angles were assessed visually rather than measured. The defect concerns changing knee angle, not the small soft bend permitted by the catalog."
+      ],
+      "notes": "Needs correction for a knee-driven dip accompanying the ankle cycle. The same pattern occurs in the separately reviewed dumbbell trial. Propose one bounded model comparison rather than further identical Omni retries.",
+      "trimAssessment": "No contiguous trim contains the complete heel lowering and return while excluding the knee bend that accompanies the low endpoint.",
+      "inspection": {
+        "method": "Exact delivery dense 3 fps sheets and full-resolution start/low/return composite.",
+        "artifacts": [
+          "reports/form-media/attempt_7703589a34834c3c/review-3fps-01.jpg",
+          "reports/form-media/attempt_7703589a34834c3c/review-3fps-02.jpg",
+          "reports/form-media/attempt_7703589a34834c3c/detail-knees-heels.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-standing-barbell-calf-3952bfa6-motion-12fdf5f4",
+      "attemptId": "attempt_12fdf5f4893b4634",
+      "shot": "r9-open-standing-barbell-calf-3952bfa6-motion",
+      "exerciseId": "open_standing_barbell_calf_3952bfa6",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-standing-barbell-calf-3952bfa6-motion-12fdf5f4.mp4",
+      "outputSha256": "1f057790855b8ca31e0d49ebe8d7d5c2a6387718169d8e581c710a1142721c22",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:09:55+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Standing barbell calf raise contains a complete high-heel to low-heel to high-heel excursion with coherent forefoot contact and persistent orange calf highlighting.",
+        "The low position around 2–2.667 seconds visibly bends both knees and sends the hips backward. The knees straighten again during the return to high heels, instead of preserving the reference knee angle.",
+        "The 0/2.333/3.667/5-second phase composite confirms the knee change is part of the main cycle, not merely a separate idle-tail movement."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "Knee angles were assessed visually rather than measured. The defect concerns changing knee angle, not the small soft bend permitted by the catalog."
+      ],
+      "notes": "Needs correction for a knee-driven dip accompanying the ankle cycle. The same pattern occurs in the separately reviewed dumbbell trial. Propose one bounded model comparison rather than further identical Omni retries.",
+      "trimAssessment": "No contiguous trim contains the complete heel lowering and return while excluding the knee bend that accompanies the low endpoint.",
+      "inspection": {
+        "method": "Exact delivery dense 3 fps sheets and full-resolution start/low/return composite.",
+        "artifacts": [
+          "reports/form-media/attempt_12fdf5f4893b4634/review-3fps-01.jpg",
+          "reports/form-media/attempt_12fdf5f4893b4634/review-3fps-02.jpg",
+          "reports/form-media/attempt_12fdf5f4893b4634/detail-knees-heels.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-smith-machine-overhea-f4f4e023-motion-3294164a",
+      "attemptId": "attempt_3294164a8bed4c98",
+      "shot": "r9-open-smith-machine-overhea-f4f4e023-motion",
+      "exerciseId": "open_smith_machine_overhea_f4f4e023",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-machine-overhea-f4f4e023-motion-3294164a.mp4",
+      "outputSha256": "43c61ce34ca4d9b4b9080668032a6e173b71f2a0feabc3aca9784bddea820e0b",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:12:22+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "One controlled bar lowering and overhead return is visible; both rail collars, closed grips, bench support and planted feet remain coherent.",
+        "The lowest bar position around 2–2.667 seconds remains across the nose/mouth level, well above the front shoulders. Elbows stay near shoulder height instead of lowering enough to reach the catalog endpoint.",
+        "Orange shoulder cues remain visible through the movement. The limiting defect is shallow press range rather than machinery or contact failure."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "Comfortable individual range can vary, but this output does not demonstrate the explicit front-shoulder-height endpoint of the current catalog."
+      ],
+      "notes": "Needs a clearly front-shoulder-height source and low-to-high-to-low cycle; retain the coherent but shallow prior motion.",
+      "trimAssessment": "No trim can add the missing lower range.",
+      "inspection": {
+        "method": "Exact delivery dense 3 fps sheets plus upper-body phase composite.",
+        "artifacts": [
+          "reports/form-media/attempt_3294164a8bed4c98/review-3fps-01.jpg",
+          "reports/form-media/attempt_3294164a8bed4c98/review-3fps-02.jpg",
+          "reports/form-media/attempt_3294164a8bed4c98/detail-contacts-range.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-dumbbell-lunges-09699238-motion-17450128",
+      "attemptId": "attempt_17450128d0a94c52",
+      "shot": "r9-open-dumbbell-lunges-09699238-motion",
+      "exerciseId": "open_dumbbell_lunges_09699238",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-dumbbell-lunges-09699238-motion-17450128.mp4",
+      "outputSha256": "7893f0ba3714d56f72f66777f2fda63f4cea588d6222fcbc2c63fc453de57f98",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:13:45+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "A low split stance, feet-together rise and return to a similar low stance are visible, with stable hanging dumbbells and a readable orange near-thigh cue.",
+        "Both feet relocate toward the center during the rise. The far gray foot advances from its original rear floor contact while the near foot retreats; the far foot then travels backward again as the next low stance forms. This is not a forward lunge returning the same leading foot beside a stationary far foot.",
+        "The 0/1.5/2.167/3.167/4.167/5-second composite retains full knees, ankles and feet and confirms that the fixed anchor foot is not maintained."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "This is intentionally a lower-body detail, so the cropped head is not a rejection reason. Floor-contact and stepping mechanics remain visible."
+      ],
+      "notes": "Needs correction for changing both foot anchors. The materially different side reference and leg identity cue still did not produce the intended forward-lunge stepping pattern. Retain the output; no blind same-prompt retry is proposed.",
+      "trimAssessment": "No complete forward-lunge cycle with a stationary far foot is available for an honest contiguous trim.",
+      "inspection": {
+        "method": "Exact delivery dense 3 fps sheets and six-phase full-width foot-identity composite.",
+        "artifacts": [
+          "reports/form-media/attempt_17450128d0a94c52/review-3fps-01.jpg",
+          "reports/form-media/attempt_17450128d0a94c52/review-3fps-02.jpg",
+          "reports/form-media/attempt_17450128d0a94c52/detail-foot-identity.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-ex-arnold-press-motion-ac9bd9d3",
+      "shot": "r9-ex-arnold-press-motion",
+      "exerciseId": "ex_arnold_press",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-arnold-press-motion-ac9bd9d3.mp4",
+      "outputSha256": "9f5877fc79cf38662d075de8a86b6daf25eea50c39f74f92011d1d0bf2ecc829",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:15:02+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The first sequence lowers both dumbbells from overhead to the front shoulders with inward rotation, then presses and rotates back overhead. The torso and feet remain steady, and orange shoulder cues persist through the working phases.",
+        "The simple dumbbells and closed grips remain coherent. Detailed low-position frames show a normal back-of-hand/finger projection on the near hand, not a released or suspended weight; root independently agreed on this contact assessment.",
+        "After the first full return around 5 seconds, the eight-second raw clip adds another partial lowering/press sequence."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "Forearm rotation is more legible on the near side; the far hand is partly foreshortened. The three-quarter view does not measure exact shoulder angles."
+      ],
+      "attemptId": "attempt_ac9bd9d31f6d4ed3",
+      "notes": "Needs an editorial trim to isolate the valid first complete cycle; the extra tail is not part of the intended single-repetition asset.",
+      "trimAssessment": "Use real source interval 0–5.5 seconds with 0.25-second actual-frame holds at both ends.",
+      "inspection": {
+        "method": "Dense exact-delivery 3 fps sheets, detailed hand/range assessment, and final encoded endpoint for the authored derivative.",
+        "artifacts": [
+          "reports/form-media/attempt_ac9bd9d31f6d4ed3/review-3fps-01.jpg",
+          "reports/form-media/attempt_ac9bd9d31f6d4ed3/review-3fps-02.jpg",
+          "reports/form-media/attempt_ac9bd9d31f6d4ed3/detail-low-grip.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-arnold-press-single-cycle-trim-v1",
+      "shot": "r9-ex-arnold-press-motion",
+      "exerciseId": "ex_arnold_press",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-arnold-press-single-cycle-trim-v1.mp4",
+      "outputSha256": "77d5d53b2a8408095c19799047477a6c50b806e8137b7cbde4ed3cf046481481",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:15:02+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The first sequence lowers both dumbbells from overhead to the front shoulders with inward rotation, then presses and rotates back overhead. The torso and feet remain steady, and orange shoulder cues persist through the working phases.",
+        "The simple dumbbells and closed grips remain coherent. Detailed low-position frames show a normal back-of-hand/finger projection on the near hand, not a released or suspended weight; root independently agreed on this contact assessment.",
+        "This separately encoded derivative retains only source 0–5.5 seconds with 0.25-second still endpoint holds. Both exact delivery sheets and the final encoded frame show one full high-low-high cycle ending overhead, with no additional tail repetition."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "Forearm rotation is more legible on the near side; the far hand is partly foreshortened. The three-quarter view does not measure exact shoulder angles."
+      ],
+      "sourceAttemptId": "attempt_ac9bd9d31f6d4ed3",
+      "notes": "AI candidate for the transparent single-cycle derivative. No reversed or synthetic motion; original master and raw delivery retained, generation cost zero for this edit.",
+      "edit": {
+        "id": "r9-arnold-press-single-cycle-trim-v1",
+        "roundId": "round-9",
+        "sourceRoundId": "round-9",
+        "sourceAssetId": "r9-ex-arnold-press-motion-ac9bd9d3",
+        "sourceAttemptId": "attempt_ac9bd9d31f6d4ed3",
+        "sourcePath": "form-media/assets/masters/r9-ex-arnold-press-motion/attempt_ac9bd9d31f6d4ed3.mp4",
+        "sourceSha256": "b0e434f6b009503509b82b7fff663fc3d2235678d9e6f06874507749680c48a9",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 5.5,
+        "leadHoldSeconds": 0.25,
+        "tailHoldSeconds": 0.25,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=5.5,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.25:stop_mode=clone:stop_duration=0.25",
+        "generationCredits": 0,
+        "createdAt": "2026-09-22T02:14:10+00:00",
+        "path": "form-media/assets/delivery/round-9/r9-arnold-press-single-cycle-trim-v1.mp4",
+        "sha256": "77d5d53b2a8408095c19799047477a6c50b806e8137b7cbde4ed3cf046481481",
+        "bytes": 548124,
+        "width": 720,
+        "height": 1280,
+        "durationSeconds": 6.0,
+        "codec": "h264"
+      },
+      "inspection": {
+        "method": "Dense exact-delivery 3 fps sheets, detailed hand/range assessment, and final encoded endpoint for the authored derivative.",
+        "artifacts": [
+          "reports/form-media/r9-arnold-press-single-cycle-trim-v1/review-3fps-01.jpg",
+          "reports/form-media/r9-arnold-press-single-cycle-trim-v1/review-3fps-02.jpg",
+          "reports/form-media/r9-arnold-press-single-cycle-trim-v1/final-frame.png"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-dumbbell-shrug-5ed42a42-motion-dd95096f",
+      "shot": "r9-open-dumbbell-shrug-5ed42a42-motion",
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-dumbbell-shrug-5ed42a42-motion-dd95096f.mp4",
+      "outputSha256": "57ae522817d070f7ca99a25287e0a2e8254cec4e32e9c8a0b4d6680a74d08afb",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:18:06+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "attemptId": "attempt_dd95096ff1fa4903",
+      "evidence": [
+        "The rear view shows a genuine shoulder elevation and return, with stable dumbbells and a trapezius cue during the working interval.",
+        "At the high position around 1.667–2.333 seconds the far elbow visibly bends and swings backward while its dumbbell rises toward the hip. It returns to a straighter position during lowering. This adds an arm-row component instead of keeping the arms long during the shrug.",
+        "The full working-phase composite distinguishes this from a small fixed soft elbow bend. The glow fades during the idle tail, which is not the main rejection reason."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "The far arm is partly occluded in the rear view, but the changing elbow shape and backward displacement remain visible."
+      ],
+      "notes": "Needs correction for elbow-driven arm movement during the shrug. Rear-view reframing improved shoulder visibility but did not preserve a straight-arm cycle.",
+      "trimAssessment": "The elbow bend occurs at the shoulder-elevation peak; no full shrug cycle excludes it.",
+      "inspection": {
+        "method": "Exact delivery dense 3 fps sheets, working-phase detail and final encoded endpoint for the derivative.",
+        "artifacts": [
+          "reports/form-media/attempt_dd95096ff1fa4903/review-3fps-01.jpg",
+          "reports/form-media/attempt_dd95096ff1fa4903/review-3fps-02.jpg",
+          "reports/form-media/attempt_dd95096ff1fa4903/detail-working-phases.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-ex-pullover-motion-836a2d69",
+      "shot": "r9-ex-pullover-motion",
+      "exerciseId": "ex_pullover",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-pullover-motion-836a2d69.mp4",
+      "outputSha256": "9bc383d317ef096681a698c2e842da6c3f505a0549f13f0f5a8f9681a38f255b",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:18:06+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "attemptId": "attempt_836a2d6931de4fe2",
+      "evidence": [
+        "The exact video shows a full broad shoulder arc from low beyond the head to above the chest and back, with long arms and a small soft elbow bend rather than the previous deep elbow curl.",
+        "The single dumbbell and shared hand contact remain coherent as the apparatus rotates with the shoulder arc. Head, back and pelvis retain bench support, and both feet remain planted. Orange chest cues stay visible.",
+        "After the first full return, the raw eight-second output begins another small overhead rise."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "The far hand is partly hidden by the near hand in the side view, so this is not a detailed grip tutorial. Exact shoulder angles and muscle recruitment are not measured."
+      ],
+      "notes": "Mechanically useful first cycle, but the raw file needs a trim to omit the extra tail movement.",
+      "trimAssessment": "Use source0–6.4 seconds plus0.25-second still endpoint holds.",
+      "inspection": {
+        "method": "Exact delivery dense 3 fps sheets, working-phase detail and final encoded endpoint for the derivative.",
+        "artifacts": [
+          "reports/form-media/attempt_836a2d6931de4fe2/review-3fps-01.jpg",
+          "reports/form-media/attempt_836a2d6931de4fe2/review-3fps-02.jpg",
+          "reports/form-media/attempt_836a2d6931de4fe2/detail-working-phases.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-pullover-long-arm-single-cycle-trim-v1",
+      "shot": "r9-ex-pullover-motion",
+      "exerciseId": "ex_pullover",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-pullover-long-arm-single-cycle-trim-v1.mp4",
+      "outputSha256": "dc9d403e1b55c4ba935247f8fad3fac91040207044b662145d5263a6481637af",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:18:06+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "sourceAttemptId": "attempt_836a2d6931de4fe2",
+      "evidence": [
+        "The exact video shows a full broad shoulder arc from low beyond the head to above the chest and back, with long arms and a small soft elbow bend rather than the previous deep elbow curl.",
+        "The single dumbbell and shared hand contact remain coherent as the apparatus rotates with the shoulder arc. Head, back and pelvis retain bench support, and both feet remain planted. Orange chest cues stay visible.",
+        "Separately encoded derivative contains only real source 0–6.4 seconds with 0.25-second actual-frame holds at both ends. Dense delivery sheets and final encoded frame show the complete return and exclude the subsequent tail rise."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "The far hand is partly hidden by the near hand in the side view, so this is not a detailed grip tutorial. Exact shoulder angles and muscle recruitment are not measured."
+      ],
+      "notes": "AI candidate: complete pullover cycle with transparent real-time trim, zero generation credits, original master retained. No reversal or fabricated movement.",
+      "edit": {
+        "id": "r9-pullover-long-arm-single-cycle-trim-v1",
+        "roundId": "round-9",
+        "sourceRoundId": "round-9",
+        "sourceAssetId": "r9-ex-pullover-motion-836a2d69",
+        "sourceAttemptId": "attempt_836a2d6931de4fe2",
+        "sourcePath": "form-media/assets/masters/r9-ex-pullover-motion/attempt_836a2d6931de4fe2.mp4",
+        "sourceSha256": "327df21333c9a7314c0cbd3c1de9ea2625fd9047e4f2df2e57f51735eb61a1b2",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 6.4,
+        "leadHoldSeconds": 0.25,
+        "tailHoldSeconds": 0.25,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=6.4,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.25:stop_mode=clone:stop_duration=0.25",
+        "generationCredits": 0,
+        "createdAt": "2026-09-22T02:17:16+00:00",
+        "path": "form-media/assets/delivery/round-9/r9-pullover-long-arm-single-cycle-trim-v1.mp4",
+        "sha256": "dc9d403e1b55c4ba935247f8fad3fac91040207044b662145d5263a6481637af",
+        "bytes": 350411,
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 6.916667,
+        "codec": "h264"
+      },
+      "inspection": {
+        "method": "Exact delivery dense 3 fps sheets, working-phase detail and final encoded endpoint for the derivative.",
+        "artifacts": [
+          "reports/form-media/r9-pullover-long-arm-single-cycle-trim-v1/review-3fps-01.jpg",
+          "reports/form-media/r9-pullover-long-arm-single-cycle-trim-v1/review-3fps-02.jpg",
+          "reports/form-media/r9-pullover-long-arm-single-cycle-trim-v1/final-frame.png"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-dumbbell-lunges-09699238-motion-7ca3bad2",
+      "attemptId": "attempt_7ca3bad2ed3f495f",
+      "shot": "r9-open-dumbbell-lunges-09699238-motion",
+      "exerciseId": "open_dumbbell_lunges_09699238",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-dumbbell-lunges-09699238-motion-7ca3bad2.mp4",
+      "outputSha256": "6a5e356f9cfce39b899efa612f02222cf5f14ce1b94d73726f397ffe4a8ca4a1",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:43:19+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The Quality output shows a clear forward step and low lunge with stable hanging dumbbells and readable quadriceps cues.",
+        "After the first low position around2.667seconds it rises partially, lowers into another dip, then rises again. The movement is not a single controlled out-and-back repetition.",
+        "At the final rise the trailing foot steps forward to join the lead foot at its advanced location; the lead foot does not return backward beside the originally stationary foot. The final standing location is forward of the original stance.",
+        "Exact dense sheets and the0/2.667/3.333/4.5/5.333/6.5second composite show the extra dip and wrong stepping return."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "This is evidence about this exact Quality output, not a claim that all Quality generations or all lunge variations must fail."
+      ],
+      "notes": "Needs correction. The explicitly bounded Quality comparison did not solve the same-leg return, and adds a split-stance pulse. Retain the output; no unchanged retry is proposed.",
+      "trimAssessment": "No contiguous interval contains the requested full stationary-foot forward-lunge cycle; trimming cannot turn the trailing-foot advance into the lead-foot return.",
+      "inspection": {
+        "method": "Exact delivery dense3fps sheets and six-phase foot-return composite.",
+        "artifacts": [
+          "reports/form-media/attempt_7ca3bad2ed3f495f/review-3fps-01.jpg",
+          "reports/form-media/attempt_7ca3bad2ed3f495f/review-3fps-02.jpg",
+          "reports/form-media/attempt_7ca3bad2ed3f495f/detail-cycle-return.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-inverted-row-1ce9a06f-motion-ece964c5",
+      "attemptId": "attempt_ece964c50c0b4be8",
+      "shot": "r9-open-inverted-row-1ce9a06f-motion",
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-inverted-row-1ce9a06f-motion-ece964c5.mp4",
+      "outputSha256": "c04f2fcbb3232dbbc26dd630f5938875938fa848c873a50d8bd4538ec17dbe26",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:46:38+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The heels, bar and rack remain visually stable and the body returns to a similar starting incline. The orange back cue persists.",
+        "Across the apparent pull the elbows remain nearly long; the torso rises and rocks closer to the bar without a clear elbow-flexion row. At the high phase around2.333–3seconds the head approaches the bar while the arms are still stretched upward.",
+        "The full-resolution0/2.667/4/6second composite confirms that chest-toward-bar pulling through bent elbows is missing. This is not merely a failure to touch the bar."
+      ],
+      "limitations": [
+        "AI exact-output editorial review only; not human acceptance or trainer validation.",
+        "The source was allowed as a cautious higher-incline trial; that readiness did not predict or establish a valid row. Motion evidence now fails the required pulling mechanism."
+      ],
+      "notes": "Needs correction for missing elbow-flexion row. The final geometry-guide source did not provide a useful full-cycle motion. Seven image attempts are exhausted; hold rather than repeat an unchanged prompt.",
+      "trimAssessment": "No full row cycle exists to isolate; a trim would retain the same arm-straight body rocking.",
+      "inspection": {
+        "method": "Exact delivery3fps sheets and detailed start/high/return composite.",
+        "artifacts": [
+          "reports/form-media/attempt_ece964c50c0b4be8/review-3fps-01.jpg",
+          "reports/form-media/attempt_ece964c50c0b4be8/review-3fps-02.jpg",
+          "reports/form-media/attempt_ece964c50c0b4be8/detail-elbow-range.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-smith-machine-overhea-f4f4e023-motion-6540cebe",
+      "attemptId": "attempt_6540cebed0714561",
+      "shot": "r9-open-smith-machine-overhea-f4f4e023-motion",
+      "exerciseId": "open_smith_machine_overhea_f4f4e023",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-machine-overhea-f4f4e023-motion-6540cebe.mp4",
+      "outputSha256": "b98568d523cd6021181d76c3ea58b4454a40aa40bc37114d04d2c52918e89773",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:49:11+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "One full bar press from below the chin near the front shoulders to comfortable overhead extension and back is visible; the shallow nose-level reversal of the prior output is corrected.",
+        "Both hands keep closed grips and both bar collars travel together on their original rails. Seated pelvis/back and planted feet remain stable without a pronounced torso lean.",
+        "Orange shoulder and upper-arm support cues remain visible throughout the working phases. The full six-second delivery ends in a stable low hold without an extra repetition."
+      ],
+      "limitations": [
+        "AI exact-output editorial candidate only; not human acceptance or trainer validation.",
+        "A small initial bar-lowering adjustment precedes the main press; the final low position is close to the original source rather than the very lowest preparatory settle. Both remain in the front-shoulder region, and this does not create an additional full repetition.",
+        "The outer right bar sleeve remains cropped as in the reference, while both collars, hands and working bar span stay visible."
+      ],
+      "notes": "AI candidate for the full six-second delivery; no trim or motion alteration needed. Human selection remains open.",
+      "inspection": {
+        "method": "Exact delivery dense3fps sheets plus full-resolution initial/low/overhead/return/final composite.",
+        "artifacts": [
+          "reports/form-media/attempt_6540cebed0714561/review-3fps-01.jpg",
+          "reports/form-media/attempt_6540cebed0714561/review-3fps-02.jpg",
+          "reports/form-media/attempt_6540cebed0714561/detail-complete-press.jpg"
+        ]
+      }
+    },
+    {
+      "assetId": "r9-open-standing-barbell-calf-3952bfa6-motion-0e98bf10",
+      "shot": "r9-open-standing-barbell-calf-3952bfa6-motion",
+      "exerciseId": "open_standing_barbell_calf_3952bfa6",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-standing-barbell-calf-3952bfa6-motion-0e98bf10.mp4",
+      "outputSha256": "6ebff7d2e2286f8384bd88cca0dd56de65e86a721ce6aae9dfa22b9929abea6b",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:17:45+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "One complete flat-floor heel raise and controlled return is visible. Forefeet and toes stay grounded as both heels lift and return.",
+        "Both knees remain fully inside the frame and keep a nearly constant softly extended angle, without the pronounced preparatory dip in the earlier calf failures.",
+        "The calf cue stays localized and readable through the active movement. No extra repetition occurs.",
+        "The orange fades only during the final idle tail after the complete return; a shorter independently reviewed derivative preserves the complete active cycle and readable endpoint."
+      ],
+      "limitations": [
+        "AI exact-output editorial candidate only; not user acceptance or trainer validation.",
+        "Lower-body mechanics detail only: barbell, upper-body position, loading, balance assistance and unrack are outside the frame. The adjacent Form instructions must explain the full setup.",
+        "Rear-oblique perspective prevents precise joint-angle measurement; this is a qualitative movement illustration, not measured muscle activation."
+      ],
+      "inspection": {
+        "method": "Exact delivery dense3fps sheets, full-cycle detail composite and final encoded endpoint where applicable.",
+        "artifacts": [
+          "reports/form-media/attempt_0e98bf10df2742e9/review-3fps-01.jpg",
+          "reports/form-media/attempt_0e98bf10df2742e9/review-3fps-02.jpg",
+          "reports/form-media/attempt_0e98bf10df2742e9/detail-steady-knee-full-cycle.jpg"
+        ]
+      },
+      "attemptId": "attempt_0e98bf10df2742e9",
+      "notes": "Candidate for ankle mechanics, with truthful detail caption. Prefer r9-barbell-calf-ankle-detail-single-cycle-trim-v1 to remove the idle color fade.",
+      "trimAssessment": "Verified contiguous0–4.5s contains full heel rise and return; derived separately with0.25s endpoint holds."
+    },
+    {
+      "assetId": "r9-barbell-calf-ankle-detail-single-cycle-trim-v1",
+      "shot": "r9-open-standing-barbell-calf-3952bfa6-motion",
+      "exerciseId": "open_standing_barbell_calf_3952bfa6",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-barbell-calf-ankle-detail-single-cycle-trim-v1.mp4",
+      "outputSha256": "cda0c5d6c38223ceff5c0c2f390d93a0f3b6cebe79bf54771c9245443e5c5c50",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:17:45+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "One complete flat-floor heel raise and controlled return is visible. Forefeet and toes stay grounded as both heels lift and return.",
+        "Both knees remain fully inside the frame and keep a nearly constant softly extended angle, without the pronounced preparatory dip in the earlier calf failures.",
+        "The calf cue stays localized and readable through the active movement. No extra repetition occurs.",
+        "The derivative retains the real contiguous source interval0–4.5 seconds and adds0.25-second cloned endpoint holds; the actual final encoded frame still shows the complete flat-foot return and calf coloring."
+      ],
+      "limitations": [
+        "AI exact-output editorial candidate only; not user acceptance or trainer validation.",
+        "Lower-body mechanics detail only: barbell, upper-body position, loading, balance assistance and unrack are outside the frame. The adjacent Form instructions must explain the full setup.",
+        "Rear-oblique perspective prevents precise joint-angle measurement; this is a qualitative movement illustration, not measured muscle activation."
+      ],
+      "inspection": {
+        "method": "Exact delivery dense3fps sheets, full-cycle detail composite and final encoded endpoint where applicable.",
+        "artifacts": [
+          "reports/form-media/r9-barbell-calf-ankle-detail-single-cycle-trim-v1/review-3fps-01.jpg",
+          "reports/form-media/r9-barbell-calf-ankle-detail-single-cycle-trim-v1/review-3fps-02.jpg",
+          "reports/form-media/r9-barbell-calf-ankle-detail-single-cycle-trim-v1/final-encoded-frame.jpg"
+        ]
+      },
+      "sourceAttemptId": "attempt_0e98bf10df2742e9",
+      "sourceAssetId": "r9-open-standing-barbell-calf-3952bfa6-motion-0e98bf10",
+      "notes": "Preferred compact5-second ankle detail: original retained, zero generation credits, no reversal, crop, synthetic motion or color alteration. Exact derived output re-inspected.",
+      "editDisclosure": {
+        "id": "r9-barbell-calf-ankle-detail-single-cycle-trim-v1",
+        "roundId": "round-9",
+        "sourceRoundId": "round-9",
+        "sourceAssetId": "r9-open-standing-barbell-calf-3952bfa6-motion-0e98bf10",
+        "sourceAttemptId": "attempt_0e98bf10df2742e9",
+        "sourcePath": "form-media/assets/masters/r9-open-standing-barbell-calf-3952bfa6-motion/attempt_0e98bf10df2742e9.mp4",
+        "sourceSha256": "93a8626e1a43d92eb99f8d892ca32edc9a7c8c9f700c6de8e3057a8a990f5ae8",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 4.5,
+        "leadHoldSeconds": 0.25,
+        "tailHoldSeconds": 0.25,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=4.5,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.25:stop_mode=clone:stop_duration=0.25",
+        "generationCredits": 0,
+        "createdAt": "2026-09-22T03:16:53+00:00",
+        "path": "form-media/assets/delivery/round-9/r9-barbell-calf-ankle-detail-single-cycle-trim-v1.mp4",
+        "sha256": "cda0c5d6c38223ceff5c0c2f390d93a0f3b6cebe79bf54771c9245443e5c5c50",
+        "bytes": 381854,
+        "width": 720,
+        "height": 1280,
+        "durationSeconds": 5.0,
+        "codec": "h264"
+      }
+    }
+  ]
+}

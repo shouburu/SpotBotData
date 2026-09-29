@@ -1,0 +1,92 @@
+{
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-start",
+      "assetId": "r9-open-cable-lying-triceps-e-ff29abb1-start-8ad8ed0f",
+      "attemptId": "attempt_8ad8ed0ffd9748bf",
+      "outputPath": "form-media/assets/masters/r9-open-cable-lying-triceps-e-ff29abb1-start/attempt_8ad8ed0ffd9748bf.jpg",
+      "outputSha256": "b3c1c6d3492222ff8e545d4ac6e161e8b1a6bd145c3c00371bffa778f9502131",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:23:04.724989+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Lying supported mannequin with upper arms above shoulders, flexed elbows and bar securely gripped above forehead.",
+        "Single cable runs to floor-fixed pulley beyond the head; triceps orange is clear and extension space visible."
+      ],
+      "limitations": [
+        "Exact full-resolution still inspection only; actual elbow-only motion, pulley position and full return require independent review."
+      ],
+      "actualStartPose": "Elbows bent, forearms toward head; fullbody view can be cropped only after valid motion is reviewed."
+    },
+    {
+      "exerciseId": "open_seated_palms_down_bar_c6486466",
+      "shot": "r9-open-seated-palms-down-bar-c6486466-start",
+      "assetId": "r9-open-seated-palms-down-bar-c6486466-start-2302084d",
+      "attemptId": "attempt_2302084dde6a41a9",
+      "outputPath": "form-media/assets/masters/r9-open-seated-palms-down-bar-c6486466-start/attempt_2302084dde6a41a9.jpg",
+      "outputSha256": "327443ce6f3f99dfe2c6532b1799812d6066ddaee88af42a24c2cdda85a73aa0",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:23:04.725575+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both pronated forearms contact a level bench pad nearly to the wrists; dorsal hands and closed overhand grip visible.",
+        "Continuous bar, wrist lowering/extension room, and orange extensor cue are visible."
+      ],
+      "limitations": [
+        "Exact full-resolution source image inspection only. Motion must preserve support/contact and complete the full single cycle; not trainer approval.",
+        "Some upper arms remain visible despite requested distal-only framing."
+      ],
+      "actualStartPose": "Palms-down hands flexed down beyond pad; bench support replaces catalog thigh support."
+    },
+    {
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-start",
+      "assetId": "r9-open-seated-palm-up-barbel-87a8d029-start-4abc1bd3",
+      "attemptId": "attempt_4abc1bd3664e4c87",
+      "outputPath": "form-media/assets/masters/r9-open-seated-palm-up-barbel-87a8d029-start/attempt_4abc1bd3664e4c87.jpg",
+      "outputSha256": "53363763a5dda44d40a7f0ccdeac1e88e605151210fc7f98cada9292bcf30d41",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:23:04.725960+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Supinated supported forearms end at pad edge; palmar surfaces and closed underhand grip are visible.",
+        "Continuous bar and both wrist joints have visible curl space; orange forearm cue present."
+      ],
+      "limitations": [
+        "Exact full-resolution source image inspection only. Motion must preserve support/contact and complete the full single cycle; not trainer approval.",
+        "Some upper arms remain visible despite requested distal-only framing."
+      ],
+      "actualStartPose": "Palms-up hands slightly lowered beyond level pad; bench support replaces catalog thigh support."
+    },
+    {
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r9-open-cable-wrist-curl-a1feb456-start",
+      "assetId": "r9-open-cable-wrist-curl-a1feb456-start-58fcb388",
+      "attemptId": "attempt_58fcb388cef34f14",
+      "outputPath": "form-media/assets/masters/r9-open-cable-wrist-curl-a1feb456-start/attempt_58fcb388cef34f14.jpg",
+      "outputSha256": "13e70ae3cc4419b66fe079684419868355f76f6b1c9b9b1854f7c5d34eb02c8d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:23:04.726305+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Supinated forearms rest along a level bench pad, with wrists and underhand hands beyond its edge.",
+        "Both closed grips, one short bar and attached cable stay visible with room to flex wrists; forearm orange is visible."
+      ],
+      "limitations": [
+        "Exact full-resolution source image inspection only. Motion must preserve support/contact and complete the full single cycle; not trainer approval.",
+        "Some upper arms remain visible despite requested distal-only framing."
+      ],
+      "actualStartPose": "Palms-up hands low beyond pad; close view omits off-frame pulley and uses bench-pad support."
+    }
+  ]
+}

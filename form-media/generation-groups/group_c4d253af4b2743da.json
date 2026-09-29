@@ -1,0 +1,39 @@
+{
+  "id": "group_c4d253af4b2743da",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T20:11:52+00:00",
+  "balanceBefore": 9618,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_romanian_deadlift",
+      "shot": "r9-ex-romanian-deadlift-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "9e68109a5ee2b29da9fa993776ee2b39deb7b4d9a397324290d1f08b367bfaf7",
+      "quoteFile": "form-media/ui-quotes/r9-ex-romanian-deadlift-start-de70771d.json",
+      "quoteSha256": "e1eef73ff6b54d2ae72614e88a29169bc26301433e8583fcb9a412f7d6ea7356",
+      "quoteCredits": 0,
+      "balance": 9618,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_pullover",
+      "shot": "r9-ex-pullover-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "b27aba8462762b73851f0fce7f3713d21190bbdf8690278d38c6b81264e8d3ae",
+      "quoteFile": "form-media/ui-quotes/r9-ex-pullover-start-33366304.json",
+      "quoteSha256": "a47f867b3828cb0cb5245095214d293e28d6364bc18f2bc1a81720aa436e0307",
+      "quoteCredits": 0,
+      "balance": 9618,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T20:13:01+00:00",
+  "balanceAfter": 9618,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-ef6937ee61f24f27.json",
+  "evidenceSha256": "46fcd250f2693c4aaae3e25dd04a69eb74fe0175c9761f75bea5815165f89a9f"
+}

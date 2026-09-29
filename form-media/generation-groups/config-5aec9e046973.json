@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-calf-press-619d1416-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-calf-press-619d1416-start-12e544bb.json"
+    },
+    {
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-donkey-calf-raises-55a343b9-start-56f139dd.json"
+    },
+    {
+      "shot": "r9-open-external-rotation-wit-c64eb9a6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-external-rotation-wit-c64eb9a6-start-26af867c.json"
+    },
+    {
+      "shot": "r9-open-front-cable-raise-55c6e076-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-front-cable-raise-55c6e076-start-ae476617.json"
+    }
+  ]
+}

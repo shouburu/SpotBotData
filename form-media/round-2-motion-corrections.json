@@ -1,0 +1,108 @@
+{
+  "roundId": "round-2",
+  "jobs": [
+    {
+      "shot": "r2-bench-studio-motion",
+      "exerciseId": "ex_bench_press",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "referenceShot": "r2-bench-studio-start",
+      "promptVersion": "2.1",
+      "reason": "Two clips did not show a clear lower-sternum endpoint. Last permitted correction specifies descent toward feet plus actual chest surface, then up toward shoulders."
+    },
+    {
+      "shot": "r2-bench-illustrated-motion",
+      "exerciseId": "ex_bench_press",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "referenceShot": "r2-bench-illustrated-start",
+      "promptVersion": "2.1",
+      "reason": "Two clips did not show a clear lower-sternum endpoint. Last permitted correction specifies descent toward feet plus actual chest surface, then up toward shoulders."
+    },
+    {
+      "shot": "r2-deadbug-studio-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 10,
+      "referenceShot": "r2-deadbug-studio-start",
+      "referenceDerivativeId": "r2-deadbug-studio-start-canvas-v2",
+      "promptVersion": "2.4",
+      "reason": "First motion mixed limb pairs or repeated the same leg and could clip against the old inner background boundary. Use continuous-edge canvas and explicit timed anatomical pairs."
+    },
+    {
+      "shot": "r2-deadbug-warm-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 10,
+      "referenceShot": "r2-deadbug-warm-start",
+      "referenceDerivativeId": "r2-deadbug-warm-start-canvas-v2",
+      "promptVersion": "2.4",
+      "reason": "First motion mixed limb pairs or repeated the same leg and could clip against the old inner background boundary. Use continuous-edge canvas and explicit timed anatomical pairs."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 10,
+      "referenceShot": "r2-deadbug-illustrated-start",
+      "referenceDerivativeId": "r2-deadbug-illustrated-start-canvas-v2",
+      "promptVersion": "2.4",
+      "reason": "First motion mixed limb pairs or repeated the same leg and could clip against the old inner background boundary. Use continuous-edge canvas and explicit timed anatomical pairs."
+    },
+    {
+      "shot": "r2-seated-db-press-warm-motion",
+      "exerciseId": "open_seated_dumbbell_press_b32f5163",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "referenceShot": "r2-seated-db-press-warm-start",
+      "promptVersion": "2.1",
+      "reason": "First clip had an unclear bent-elbow overhead endpoint; Warm also added a partial pulse. Request explicit comfortable full extension and a timed single complete cycle."
+    },
+    {
+      "shot": "r2-seated-db-press-illustrated-motion",
+      "exerciseId": "open_seated_dumbbell_press_b32f5163",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "referenceShot": "r2-seated-db-press-illustrated-start",
+      "promptVersion": "2.1",
+      "reason": "First clip had an unclear bent-elbow overhead endpoint; Warm also added a partial pulse. Request explicit comfortable full extension and a timed single complete cycle."
+    },
+    {
+      "shot": "r2-outdoor-walk-warm-motion",
+      "exerciseId": "cat_card_outdoor_walk",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "referenceShot": "r2-outdoor-walk-warm-start",
+      "promptVersion": "2.1",
+      "reason": "Initial clip did not show clear forward travel and the frontal overlap made foot placement hard to read. Use two short advancing steps with grounded contacts and separate tracks."
+    },
+    {
+      "shot": "r2-machine-chest-press-illustrated-motion",
+      "exerciseId": "ex_machine_chest_press",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "referenceShot": "r2-machine-chest-press-illustrated-start",
+      "promptVersion": "2.1",
+      "reason": "First clip cropped a grip at full extension and repeated presses. Use wider landscape upper-body reference and one timed cycle."
+    },
+    {
+      "shot": "r2-walking-lunge-illustrated-motion",
+      "exerciseId": "ex_lunge",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "referenceShot": "r2-walking-lunge-illustrated-start",
+      "promptVersion": "2.1",
+      "reason": "Two-step attempt reset position and introduced a second person. Simplify to one advancing step with trailing foot joining at the new forward position; one catalog repetition."
+    }
+  ]
+}

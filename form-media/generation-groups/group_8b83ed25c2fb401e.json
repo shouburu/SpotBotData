@@ -1,0 +1,67 @@
+{
+  "id": "group_8b83ed25c2fb401e",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T01:31:32+00:00",
+  "balanceBefore": 6005,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "4777fcb1d8892ce03aacc7ff6cb73ad1e217029e18699d3dda66cdc75ad2cb98",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-start-a15cbb65.json",
+      "quoteSha256": "c2ce4250c655660b92d14c937cd97d250bdcd3f53eef20a1c6cb44861e843885",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": []
+    },
+    {
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "e27face7d556c8f8738a8a64ebeae9e2c38df199e4a7c17f288dc45710497759",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-start-c18fc3a8.json",
+      "quoteSha256": "d2f5d8acd5dd13e2b1cd3c691dc00af34c01aca81b78e52e1d96d51154b4ca19",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": []
+    },
+    {
+      "exerciseId": "open_leverage_incline_ches_0c70165e",
+      "shot": "r9-open-leverage-incline-ches-0c70165e-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "a1d5e65a59dc1971ed23678a843df1e44873976625ecd35f1663e6273988f778",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-incline-ches-0c70165e-start-c9fb62f8.json",
+      "quoteSha256": "c48d55f7dac9559bced0e97288ce06a3cc019476e45f32197c81d762f86d5a69",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": []
+    },
+    {
+      "exerciseId": "open_standing_cable_chest__ddb29d76",
+      "shot": "r9-open-standing-cable-chest--ddb29d76-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "2057f53f3b4cc9ae4001e1af3de90ca866316b9e32b3a865b0747e1f3f21629c",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-cable-chest--ddb29d76-start-4f4c4c2a.json",
+      "quoteSha256": "e0d96cc30bb3e9b241936c9ac57e01548d6cbae9c8486af1207681232c66de76",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-standing-cable-chest--ddb29d76-start/attempt_3c5aba6eb2954529.jpg",
+          "sha256": "41d48a1fc6f3892ea54475e0f3afd0744c4fb629d8831e36d7c7c94884343ac8"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T01:33:05+00:00",
+  "balanceAfter": 6005,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-fb0c960cc1344fc4.json",
+  "evidenceSha256": "b9bf1808a93a8d9899a95b610987e4b6329976482400ead2d22ff8cb132c6580",
+  "terminalFailureIds": []
+}

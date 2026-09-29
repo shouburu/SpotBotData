@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-dumbbell-shrug-5ed42a42-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-shrug-5ed42a42-start-1ff3f09a.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-squat-ef95231f-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-squat-ef95231f-start-a9551327.json"
+    },
+    {
+      "shot": "r9-open-ez-bar-curl-6570409e-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-ez-bar-curl-6570409e-start-78fd7a5f.json"
+    },
+    {
+      "shot": "r9-open-good-morning-a5c85ff9-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-good-morning-a5c85ff9-start-cc922916.json"
+    }
+  ]
+}

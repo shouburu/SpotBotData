@@ -1,0 +1,60 @@
+{
+  "id": "group_6d765f8218e241c4",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:21:44+00:00",
+  "balanceBefore": 6674,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_landmine_linear_jamme_3eebe237",
+      "shot": "r8-open-landmine-linear-jamme-3eebe237-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "330fbdfc790048dcec21d8b8e9720397e47863f0172dd621dbb8a69fced7b42e",
+      "quoteFile": "form-media/ui-quotes/r8-open-landmine-linear-jamme-3eebe237-motion-a58c63eb.json",
+      "quoteSha256": "da5c18786012a6fcc917cf8eb4cc8d89df0fa79eb448e0ccaa77c971b6feda64",
+      "quoteCredits": 12,
+      "balance": 6674,
+      "references": []
+    },
+    {
+      "exerciseId": "open_leverage_chest_press_ceba3398",
+      "shot": "r8-open-leverage-chest-press-ceba3398-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "f4133b78502e0d6a909f5a17889db1b04be5a606e3401e160b8ff45c015b6e73",
+      "quoteFile": "form-media/ui-quotes/r8-open-leverage-chest-press-ceba3398-motion-3f4aca7a.json",
+      "quoteSha256": "01e3184e1943ccbf7aa5820e9ded3d4e8e7985ffc05bef228134a3cf26cad03b",
+      "quoteCredits": 12,
+      "balance": 6674,
+      "references": []
+    },
+    {
+      "exerciseId": "open_leverage_deadlift_ba90f5c3",
+      "shot": "r8-open-leverage-deadlift-ba90f5c3-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "5bc9d3af7bdf1db434ebc51d0a45d9f34b05e256cbf1922107ffa7dda52a976a",
+      "quoteFile": "form-media/ui-quotes/r8-open-leverage-deadlift-ba90f5c3-motion-da1a57d8.json",
+      "quoteSha256": "eed26f97cb986cc28c8b477e5358a10e0ca19ab7ffb602a82e8116fbe3f9c720",
+      "quoteCredits": 12,
+      "balance": 6674,
+      "references": []
+    },
+    {
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r8-open-leverage-decline-ches-adfbca13-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "bc20ac26018ca2fd06a9614be3407dcc832226885f3fe72f3d3906c2d102ac17",
+      "quoteFile": "form-media/ui-quotes/r8-open-leverage-decline-ches-adfbca13-motion-cc785caf.json",
+      "quoteSha256": "ce54837a27dc73441b4a11a78ae47466e376ce21bd01b731c266038d528a1dde",
+      "quoteCredits": 12,
+      "balance": 6674,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:22:57+00:00",
+  "balanceAfter": 6626,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-329d7ed9ff8043ce.json",
+  "evidenceSha256": "8d740db207644609396e6b2b0e3db71a8f07a80dc0f57b47e96f962298a91d7b"
+}

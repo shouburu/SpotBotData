@@ -1,0 +1,36 @@
+{
+  "id": "group_c13fdc4142c948aa",
+  "status": "completed-with-failures",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T02:16:49+00:00",
+  "balanceBefore": 5568,
+  "quotedCredits": 100,
+  "members": [
+    {
+      "exerciseId": "open_standing_barbell_calf_3952bfa6",
+      "shot": "r9-open-standing-barbell-calf-3952bfa6-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "b25796ac565c9658a90b5282d0f141308a6f95602639b96497d901f7453bb376",
+      "quoteFile": "form-media/ui-quotes/round9-single-calf-quality-live.json",
+      "quoteSha256": "357489530664f0f45d69d56d2bd8ae006faae7dcadd7e4d915a025d5005f950d",
+      "quoteCredits": 100,
+      "balance": 5568,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-standing-barbell-calf-3952bfa6-start/attempt_5f2e72d46856407a.jpg",
+          "sha256": "53193af42f45f004a044362fd3a33f415b18ab84553ae69f424d66f6b6a25d33"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T02:21:16+00:00",
+  "balanceAfter": 5568,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/round9-single-calf-quality-after.json",
+  "evidenceSha256": "6f01e7f3c82c0d1c81e542be68b8cc91461b6bf0cf2a76b14b9b0aa119c4be9b",
+  "terminalFailureIds": [
+    "attempt_d05781297e024d95"
+  ]
+}

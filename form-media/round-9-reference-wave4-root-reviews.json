@@ -1,0 +1,200 @@
+{
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "exerciseId": "open_seated_palms_down_bar_c6486466",
+      "shot": "r9-open-seated-palms-down-bar-c6486466-start",
+      "assetId": "r9-open-seated-palms-down-bar-c6486466-start-fa8e7c67",
+      "attemptId": "attempt_fa8e7c67ae97429d",
+      "outputPath": "form-media/assets/masters/r9-open-seated-palms-down-bar-c6486466-start/attempt_fa8e7c67ae97429d.jpg",
+      "outputSha256": "1c3091a9e71c4af49cb49858585bf0e574f8466c42db7715225d6065f38e764c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:19:19+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Close view shows pronated palms-down grips on one continuous visible bar shaft and supported forearms along the thighs.",
+        "Both wrist joints, closed fingers and the upward/downward wrist movement space are clearly visible. Orange forearm extensor areas remain readable."
+      ],
+      "limitations": [
+        "Full-resolution exact still inspection only; actual wrist-only motion and continuous bar contact must be reviewed independently.",
+        "Outer bar ends are outside this close frame; both working grips and the continuous central shaft are visible. Some elbow/upper-arm anatomy remains at the top edge."
+      ],
+      "actualStartPose": "Palms down; supported forearms with hands slightly lowered beyond the knees."
+    },
+    {
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-start",
+      "assetId": "r9-open-seated-palm-up-barbel-87a8d029-start-b27f3bdb",
+      "attemptId": "attempt_b27f3bdb39bf4024",
+      "outputPath": "form-media/assets/masters/r9-open-seated-palm-up-barbel-87a8d029-start/attempt_b27f3bdb39bf4024.jpg",
+      "outputSha256": "b5459acd057c6c9a2b4d8f1ce70c27bafb79a05cef1f759287856aeba7345095",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:20:45+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both hands show dorsal tendons facing upward and an overhand grip. This is a palms-down reference for an exercise requiring palm-up wrist flexion.",
+        "Independent second AI inspection agreed that the intended underhand grip is not present."
+      ],
+      "limitations": [
+        "Full-resolution exact-master inspection only; not trainer approval."
+      ],
+      "nextApproach": "Rotate supported forearms to true palm-up supination with clearly visible palmar surfaces and creases; retain bar support and closed grips."
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-start",
+      "assetId": "r9-ex-cable-fly-start-26033320",
+      "attemptId": "attempt_260333206ad44aaa",
+      "outputPath": "form-media/assets/masters/r9-ex-cable-fly-start/attempt_260333206ad44aaa.jpg",
+      "outputSha256": "28ab13ab11247866fe679e08ffe344d1d3e700e460c523dc9530825f28bda608",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:23:04+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both closed D-handle grips are together in front of the lower chest, with stable staggered stance and a plausible soft elbow bend.",
+        "Each handle has one taut connection to its own high pulley. The frame provides room to open both arms laterally. Chest orange is prominent."
+      ],
+      "limitations": [
+        "Exact full-resolution still inspection; actual complete movement and unchanged elbow angle require separate video review.",
+        "Actual starting phase is used in the explicitly matched brief."
+      ],
+      "actualStartPose": "Closed handles in front of lower chest."
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "assetId": "r9-ex-reverse-pec-deck-start-00a8dfe7",
+      "attemptId": "attempt_00a8dfe7f2474321",
+      "outputPath": "form-media/assets/masters/r9-ex-reverse-pec-deck-start/attempt_00a8dfe7f2474321.jpg",
+      "outputSha256": "5a041746b39d799d9b3d32090899c226047ba0fa9b0e8a016b1247b90cdefe01",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:23:04+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The actual image shows the OPEN endpoint: seated chest against the pad, both upper arms spread laterally near shoulder height, closed grips on connected vertical machine levers.",
+        "The full working arm/handle envelope is visible, and orange posterior deltoids are readable. The long-arm geometry is clearer than in the prior row-like attempts."
+      ],
+      "limitations": [
+        "Exact full-resolution still inspection; actual complete movement and unchanged elbow angle require separate video review.",
+        "Actual starting phase is used in the explicitly matched brief."
+      ],
+      "actualStartPose": "Open lateral-arm endpoint; the requested forward-arm start did not appear."
+    },
+    {
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-start",
+      "assetId": "r9-open-seated-palm-up-barbel-87a8d029-start-870101fa",
+      "attemptId": "attempt_870101fa15a7404e",
+      "outputPath": "form-media/assets/masters/r9-open-seated-palm-up-barbel-87a8d029-start/attempt_870101fa15a7404e.jpg",
+      "outputSha256": "03def026bf265d03e5e52dc4519492ee0ee172a25cbd02a2600f6ab602f480c2",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:31:43+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The edit leaves the same overhand palm-down grips essentially unchanged; it does not show the requested supination."
+      ],
+      "limitations": [
+        "Exact full-resolution still inspection; not trainer approval."
+      ],
+      "nextApproach": "Reuse the successfully reviewed palm-up dumbbell-wrist reference and replace only the two weights with one bar. Bench support is a standard forearm-support alternative; keep the movement supported and disclose it."
+    },
+    {
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r9-open-cable-wrist-curl-a1feb456-start",
+      "assetId": "r9-open-cable-wrist-curl-a1feb456-start-5f991133",
+      "attemptId": "attempt_5f9911336ef140c9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-wrist-curl-a1feb456-start/attempt_5f9911336ef140c9.jpg",
+      "outputSha256": "55df933aa52113fbc9c749c2999b122f4ee06ccc28ac28b8acc56c465f024936",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:33:33+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both palms face upward with closed grips around a single connected short cable bar; forearms rest against the thighs.",
+        "Wrist joints and both grips are large and readable. The central attachment runs downward and provides a plausible low-cable load. Orange forearm muscle surfaces are visible."
+      ],
+      "limitations": [
+        "Exact full-resolution master inspection only; not trainer approval or a verdict on future motion.",
+        "The pulley is outside this close crop. The video must retain the downward connection and show a meaningful wrist range while the forearms stay supported.",
+        "The reference wrist angle is near neutral/slightly lowered, not an extreme wrist stretch."
+      ],
+      "actualStartPose": "Supported supinated forearms; closed grips with hands near neutral/slightly lowered beyond the knees."
+    },
+    {
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-start",
+      "assetId": "r9-open-seated-palm-up-barbel-87a8d029-start-f7ffe361",
+      "attemptId": "attempt_f7ffe36143ba4c6e",
+      "outputPath": "form-media/assets/masters/r9-open-seated-palm-up-barbel-87a8d029-start/attempt_f7ffe36143ba4c6e.jpg",
+      "outputSha256": "9cb9ae179e83872bd069fa6c88e5dacdf1a485e2ea9b543a06c73adbcb0336d2",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:40:08+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both palms face upward and both hands maintain closed grips around one continuous straight bar. The dumbbells have been replaced without losing forearm support.",
+        "Working wrists, supported distal forearms, central bar and both grips are clearly visible; orange palm-side forearm muscles are readable."
+      ],
+      "limitations": [
+        "Exact full-resolution master inspection only; future wrist-only motion needs independent review.",
+        "Forearms use bench-pad support already documented as an alternative in the catalog. Outer bar ends and some upper anatomy are outside the macro frame."
+      ],
+      "actualStartPose": "Supinated supported forearms; hands near neutral/slightly lowered beyond the bench pad."
+    },
+    {
+      "exerciseId": "open_cable_shoulder_press_7ddeefb0",
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-start",
+      "assetId": "r9-open-cable-shoulder-press-7ddeefb0-start-04f4897f",
+      "attemptId": "attempt_04f4897fe94342ad",
+      "outputPath": "form-media/assets/masters/r9-open-cable-shoulder-press-7ddeefb0-start/attempt_04f4897fe94342ad.jpg",
+      "outputSha256": "f25e1aa3c87af2920d0890935a06d80431a41b8f71c31fc119dce8a84eb4c0e3",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:40:08+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both closed D-handle grips are at ear height with vertical forearms, bent elbows and horizontal upper arms. The image leaves substantial overhead travel space.",
+        "Orange deltoids are readable. Each handle has a downward cable path; a portion is occluded behind the forearm/elbow."
+      ],
+      "limitations": [
+        "Exact full-resolution master inspection only; future motion must confirm stable hand-to-handle-to-cable connection.",
+        "Lower legs and floor pulleys are outside the close frame; the standing torso must remain fixed and the full arm press path visible."
+      ],
+      "actualStartPose": "Standing ear-height handles, palms forward, elbows bent around ninety degrees."
+    },
+    {
+      "exerciseId": "open_dumbbell_lunges_09699238",
+      "shot": "r9-open-dumbbell-lunges-09699238-start",
+      "assetId": "r9-open-dumbbell-lunges-09699238-start-33746c92",
+      "attemptId": "attempt_33746c92be644f2e",
+      "outputPath": "form-media/assets/masters/r9-open-dumbbell-lunges-09699238-start/attempt_33746c92be644f2e.jpg",
+      "outputSha256": "a99a0e22901558219ad4d43840190d4a9b011f4fef98054695bfba6d45ebc75d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:41:24+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Actual image is fully upright with side-by-side feet, closed stable dumbbell grips and visible floor space toward image left for the forward step.",
+        "Orange quadriceps are readable, both feet and the full standing head are visible."
+      ],
+      "limitations": [
+        "Exact still inspection only. The actual view is front-three-quarter rather than strict profile; verify that the moving leg makes a forward step and returns while the other foot stays in place."
+      ],
+      "actualStartPose": "Standing upright, feet side by side, facing image left at a three-quarter angle."
+    }
+  ]
+}

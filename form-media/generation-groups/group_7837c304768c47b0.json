@@ -1,0 +1,67 @@
+{
+  "id": "group_7837c304768c47b0",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T20:47:26+00:00",
+  "balanceBefore": 9328,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r9-ex-skullcrusher-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "d7fccacb78cd2e1e2c4a324f8f5b794144592afc7da6b517df1d9ada1a7e31ac",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-start-370bb6ef.json",
+      "quoteSha256": "2e68ce2c082b780479c1d54d90325eaa509c0d1e0b18f85e0257a2c45ee8d3e4",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_26a6ba9fd6a14cfd.jpg",
+          "sha256": "efee12a5957f0b069e4860cad1711d6fb067a7ed61b22e3e9131a04561a65b50"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_side_bend_3f401794",
+      "shot": "r9-open-dumbbell-side-bend-3f401794-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "ecef9046983ad70df55cfecb46aaf94c835a98dbda9cda25576500449a25433a",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-side-bend-3f401794-start-414d32fe.json",
+      "quoteSha256": "19d817e71897d35501c66028adb189764246205085523ce318dfae047f751741",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    },
+    {
+      "exerciseId": "open_one_leg_barbell_squat_589d24d2",
+      "shot": "r9-open-one-leg-barbell-squat-589d24d2-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "8df7c0754761c40f4318011a295b32300eecaa80504215b9d69f7585f50b36c3",
+      "quoteFile": "form-media/ui-quotes/r9-open-one-leg-barbell-squat-589d24d2-start-8ccb846a.json",
+      "quoteSha256": "5db5dc7dbd661a332526e5c9e8ea07948cb5deff8ad15dee1e6eb00d5727bea4",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    },
+    {
+      "exerciseId": "open_standing_front_barbel_9aba2baf",
+      "shot": "r9-open-standing-front-barbel-9aba2baf-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "ade65d157dfbbb2ad34bb9d9c4f20e644147ac590a84051e7dea323e0bd97bc1",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-front-barbel-9aba2baf-start-3e8868c1.json",
+      "quoteSha256": "f4a788c39ee850cf030ddb99e27525f397c807de113f23ef9b716c6ddca362e8",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T20:49:03+00:00",
+  "balanceAfter": 9328,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-885adbb360044698.json",
+  "evidenceSha256": "d6a2135775e4763fd523e5721490c6fb2a95014e6deefd939094a999f132b4ed",
+  "terminalFailureIds": []
+}

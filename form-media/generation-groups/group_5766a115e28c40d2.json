@@ -1,0 +1,82 @@
+{
+  "id": "group_5766a115e28c40d2",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T23:56:27+00:00",
+  "balanceBefore": 7492,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_stiff_legged_dumbbell_5da667b0",
+      "shot": "r9-open-stiff-legged-dumbbell-5da667b0-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "1060b187f92993165d1fa23c02bbf0bd95b0ce631225d59476c39f770109687f",
+      "quoteFile": "form-media/ui-quotes/r9-open-stiff-legged-dumbbell-5da667b0-motion-782c5d0c.json",
+      "quoteSha256": "d02643006d7919e41b45d99792061bdaeeefba1ac327209b4bae16888493acc9",
+      "quoteCredits": 10,
+      "balance": 7492,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-stiff-legged-dumbbell-5da667b0-start/attempt_503a90d6859046ce.jpg",
+          "sha256": "5aca8a928b061e63f8536147cf8c9c47ad8c7ebae07d3d8423b36c0773c8d03b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_thigh_abductor_05f17f36",
+      "shot": "r9-open-thigh-abductor-05f17f36-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "d0f19f8bb9d60e0fdc7bc3ae38beca701b496a97e47b771138ab6cab665e0bde",
+      "quoteFile": "form-media/ui-quotes/r9-open-thigh-abductor-05f17f36-motion-6856d3b2.json",
+      "quoteSha256": "ff42a7a004e45cc71d8ca6a1e9a678c106f46aa54e9863764160e6e32391e7f6",
+      "quoteCredits": 10,
+      "balance": 7492,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-thigh-abductor-05f17f36-start/attempt_e660c3f7b1f849f8.jpg",
+          "sha256": "fd0e626dbc12505c6480aabeee65118510464c9e5ec650ca783b325db928f41f"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "shot": "r9-open-thigh-adductor-933feed1-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "8d1d766590f793f619eac69aae1ed957b28a9c16efad797f29b6a1f2d5ad0bf9",
+      "quoteFile": "form-media/ui-quotes/r9-open-thigh-adductor-933feed1-motion-cea96598.json",
+      "quoteSha256": "baf0ac1c8362e1d51fef298a787f0ffe235c50b1f41a142d9c8a4f4b9196d814",
+      "quoteCredits": 10,
+      "balance": 7492,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-thigh-adductor-933feed1-start/attempt_0f3e9b489bfe4078.jpg",
+          "sha256": "45dc5db7fb474144e5edf70857ba0183f2c86d8302a86868cdde14fff9ba9bf1"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_trap_bar_deadlift_c526cf24",
+      "shot": "r9-open-trap-bar-deadlift-c526cf24-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "d94776c40befc732612aacb48a35c11b8987d5965c6db4fa57b2e9d3036c74db",
+      "quoteFile": "form-media/ui-quotes/r9-open-trap-bar-deadlift-c526cf24-motion-f4f8e484.json",
+      "quoteSha256": "e3299523af8f42b5fed40482fe444e0c20aa6285e4e943be0f29f7de4e5f222e",
+      "quoteCredits": 10,
+      "balance": 7492,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-trap-bar-deadlift-c526cf24-start/attempt_62f440d022414c7b.jpg",
+          "sha256": "689246cc3bbdb4623abe585668f3952ffa0fd8e9a64002a0cdb426c94d85b515"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T23:57:54+00:00",
+  "balanceAfter": 7452,
+  "actualCredits": 40,
+  "evidenceFile": "form-media/ui-quotes/observed-577ff98c043e4586.json",
+  "evidenceSha256": "41f1d755b5a6f16062b89bbefbc940bbad8035f993d28712fc7acaa646086381",
+  "terminalFailureIds": []
+}

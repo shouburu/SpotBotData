@@ -1,0 +1,8 @@
+Animate the exact supplied Anatomical 3D starting frame for Smith Machine Squat. Show exactly ONE complete repetition in 6 seconds.
+Start: Start at the supplied deep squat with a single bar across the upper back, both collars captured inside the same vertical Smith rails, both feet flat.
+Outward phase: Stand up by extending hips and knees smoothly; the same rigid bar and both collars rise together on the fixed rails until the legs are nearly straight.
+Return phase: Bend hips and knees smoothly to lower back to the exact original deep squat; the same bar/collars descend together.
+Approximate timing: 0–0.5s initial still; 0.5–2.6s outward action; 2.6–3.2s full endpoint still; 3.2–5.5s complete return; 5.5–6s final still.
+No other object slides along the rails. Bar stays on the shoulders and feet remain planted. One rise and one return, with no small bounces at either endpoint.
+The active joint angles move continuously in only one direction during the outward phase, stop briefly only at the full endpoint, then move continuously back to the exact starting positions. No bouncy, springy, twitching, partial, or repeated movement.
+Preserve the same sculpted silver-gray anatomical mannequin, charcoal shorts, fixed camera and rigid equipment. Keep a bright orange glow confined to the quadriceps for the whole clip including both final frames. Show all relevant joints, weight and equipment contacts at both endpoints. Clean plain studio, silent, continuous shot, no text, arrows, cuts, camera motion, or extra weights.

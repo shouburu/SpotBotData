@@ -1,0 +1,9 @@
+Animate the EXACT supplied Anatomical 3D starting frame for Dumbbell Shrug. Show ONE complete controlled repetition over six seconds.
+0.0–0.5s HOLD start: Stand tall with exactly one dumbbell in each hand beside the outer thighs, elbows completely straight, shoulders relaxed and low.
+0.5–2.6s travel monotonically outward: Elevate BOTH shoulders toward the ears in one controlled shrug, lifting the straight arms and weights only a short vertical distance.
+2.6–3.2s HOLD full endpoint.
+3.2–5.5s travel monotonically back: Lower shoulders, straight arms and both weights to the exact initial position at the sides.
+5.5–6.0s HOLD exact restored starting position.
+Elbows never bend, wrists never curl, and weights never swing forward or multiply. Traps remain highlighted for the full clip.
+Temporal constraint: the working joints and the loaded machine travel continuously in ONE direction for each phase; the only direction reversal occurs at the full endpoint. No springing, bouncing, twitching, mini-reps, momentum or abbreviated travel.
+Preserve sculpted silver-gray anatomical muscle fibers, charcoal shorts, fixed close camera and physically connected rigid equipment. A localized bright-orange glow on the traps persists throughout the ENTIRE clip, including final hold. Show both movement endpoints and all contact points in frame. Clean studio, silent, single continuous shot. No text, arrows, extra objects, camera motion or cuts.

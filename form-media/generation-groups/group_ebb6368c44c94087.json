@@ -1,0 +1,79 @@
+{
+  "id": "group_ebb6368c44c94087",
+  "status": "cancelled-before-reservation",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T22:55:27+00:00",
+  "balanceBefore": 4760,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_leg_press",
+      "shot": "r10-ex-leg-press-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "421a03c3bd4e25a3a9382a3f5af3cc78fd6627f768a2cf7ded571fbdfc244aca",
+      "quoteFile": "form-media/ui-quotes/r10-ex-leg-press-start-ff71323d.json",
+      "quoteSha256": "2881e66099d76c74a3c94dffdacef9b495c135b3862d747c50cbe19b9ba2f424",
+      "quoteCredits": 0,
+      "balance": 4760,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-leg-press-start/attempt_7dc95e2220354b57.jpg",
+          "sha256": "83f3e75cb96f786b7d06d6e3aeec8c3d406cb8c721bc68c440bda2b543e77476"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_hack_squat_76a66305",
+      "shot": "r10-open-hack-squat-76a66305-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "08979c416f5f61deb6c6f2447b74f77de87e8f1b1e292fbda3577e6dfff3c679",
+      "quoteFile": "form-media/ui-quotes/r10-open-hack-squat-76a66305-start-abf72112.json",
+      "quoteSha256": "b94ea118b47da5294afe0223f1c8ab58da91a9d16f9da95838ee7bdc9b972e2f",
+      "quoteCredits": 0,
+      "balance": 4760,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-hack-squat-76a66305-start/attempt_0be6ce00605f407c.jpg",
+          "sha256": "8f0b47bf4f634654086c742a3c022311a3e3171d5412cc0ff06ec4c80f9c6bb0"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_thigh_abductor_05f17f36",
+      "shot": "r10-open-thigh-abductor-05f17f36-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "c2b20dab786dd73eb40828efe62157d6db29f2f017ab81901c8306d578fa770d",
+      "quoteFile": "form-media/ui-quotes/r10-open-thigh-abductor-05f17f36-start-6cf21a94.json",
+      "quoteSha256": "dc1583c8f065d38e7aa43e03e69855b96e694450e0ffb92727edc0680895f1bb",
+      "quoteCredits": 0,
+      "balance": 4760,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-thigh-abductor-05f17f36-start/attempt_e660c3f7b1f849f8.jpg",
+          "sha256": "fd0e626dbc12505c6480aabeee65118510464c9e5ec650ca783b325db928f41f"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "shot": "r10-open-thigh-adductor-933feed1-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "d4c6f31cc7be9e80ec9b5a3b1ea7bcebb5024f12201a15f55372b527be6dce0d",
+      "quoteFile": "form-media/ui-quotes/r10-open-thigh-adductor-933feed1-start-2303a81f.json",
+      "quoteSha256": "e047a1335fcb0167a526f73415f29c70ba751ddb387b77ac617fcb2dd63adb5a",
+      "quoteCredits": 0,
+      "balance": 4760,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-thigh-adductor-933feed1-start/attempt_0f3e9b489bfe4078.jpg",
+          "sha256": "45dc5db7fb474144e5edf70857ba0183f2c86d8302a86868cdde14fff9ba9bf1"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "closedAt": "2026-09-22T22:56:30+00:00",
+  "closureReason": "All four workers failed their local gflow patch-status preflight; no attempt was reserved or submitted. Live balance unchanged.",
+  "closureEvidence": "form-media/ui-quotes/observed-6f4b33b2549446a2.json"
+}

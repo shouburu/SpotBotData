@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-machine-chest-press-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-machine-chest-press-start-fea4a3af.json"
+    },
+    {
+      "shot": "r9-open-decline-dumbbell-flye-14b2de63-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-decline-dumbbell-flye-14b2de63-start-a2359327.json"
+    },
+    {
+      "shot": "r9-open-incline-dumbbell-flye-f858d67d-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-incline-dumbbell-flye-f858d67d-start-eb9a60e4.json"
+    },
+    {
+      "shot": "r9-open-ez-bar-skullcrusher-18e6f719-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-ez-bar-skullcrusher-18e6f719-start-f67192ad.json"
+    }
+  ]
+}

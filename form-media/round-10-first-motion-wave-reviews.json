@@ -1,0 +1,143 @@
+{
+  "roundId": "round-10",
+  "reviews": [
+    {
+      "assetId": "r10-ex-leg-press-motion-04ff3851",
+      "attemptId": "attempt_04ff38515e3b416b",
+      "exerciseId": "ex_leg_press",
+      "shot": "r10-ex-leg-press-motion",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-ex-leg-press-motion-04ff3851.mp4",
+      "outputSha256": "5a135b654f9a72698ef3f89def33dfd71fdbb9592503c9d6b5dd7520bfd208af",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:08:48+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The sled completes one full press and return without a visible mid-range reversal, but orange quadriceps involvement fades away in the final idle tail. A contiguous original-speed trim can remove that tail."
+      ],
+      "limitations": [
+        "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-ex-leg-press-motion-04ff3851-delivery-4fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r10-leg-press-full-cycle-glow-trim-v1",
+      "attemptId": "attempt_04ff38515e3b416b",
+      "exerciseId": "ex_leg_press",
+      "shot": "r10-ex-leg-press-motion",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-leg-press-full-cycle-glow-trim-v1.mp4",
+      "outputSha256": "d445f2d519509a8da8b60221bc320ce6886f8f0110df78f61d25a2971fdc83e5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:08:48+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Contiguous original-speed press and full return are retained, followed by a held final bent-knee pose. Orange quadriceps involvement remains visible through the final held frame. No footage was reversed or synthesized."
+      ],
+      "limitations": [
+        "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-leg-press-trim-delivery-4fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r10-open-hack-squat-76a66305-motion-980db092",
+      "attemptId": "attempt_980db092027349fe",
+      "exerciseId": "open_hack_squat_76a66305",
+      "shot": "r10-open-hack-squat-76a66305-motion",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-open-hack-squat-76a66305-motion-980db092.mp4",
+      "outputSha256": "50a9e74768d53d228dfcdaff6fdf5fbfb342261eefa8a0763f2b57247a9b3ed9",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:08:48+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Shoulder carriage rises along its rails as knees and hips extend, then returns to the original deep position. Both feet remain planted and there is one full travel reversal with no springy mid-range pulse."
+      ],
+      "limitations": [
+        "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-open-hack-squat-76a66305-motion-980db092-delivery-4fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r10-open-thigh-abductor-05f17f36-motion-76663264",
+      "attemptId": "attempt_7666326447484107",
+      "exerciseId": "open_thigh_abductor_05f17f36",
+      "shot": "r10-open-thigh-abductor-05f17f36-motion",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-open-thigh-abductor-05f17f36-motion-76663264.mp4",
+      "outputSha256": "5f60fdf68fd2a5d500cba6d5adfd3aeeeab7f5beebb5d739820e49bb8673ab68",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:08:48+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Both thighs open against the separate machine pads and close to the original position in one cycle; torso remains supported. Near-side orange outer-hip involvement stays visible."
+      ],
+      "limitations": [
+        "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-open-thigh-abductor-05f17f36-motion-76663264-delivery-4fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r10-open-machine-triceps-exten-c66a3615-motion-4871503f",
+      "attemptId": "attempt_4871503f635a4230",
+      "exerciseId": "open_machine_triceps_exten_c66a3615",
+      "shot": "r10-open-machine-triceps-exten-c66a3615-motion",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-open-machine-triceps-exten-c66a3615-motion-4871503f.mp4",
+      "outputSha256": "3a7b67c0282adf15fc4737e6003241ff5552be325bac2030833b4953ef2d4f57",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:08:48+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Both hands remain on one horizontal bar and elbows stay supported while the forearms extend and return. The triceps glow persists and no extra partial repetition follows."
+      ],
+      "limitations": [
+        "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-open-machine-triceps-exten-c66a3615-motion-4871503f-delivery-4fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r10-ex-dumbbell-fly-motion-59f5d7e1",
+      "attemptId": "attempt_59f5d7e1843a4e5d",
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r10-ex-dumbbell-fly-motion",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-ex-dumbbell-fly-motion-59f5d7e1.mp4",
+      "outputSha256": "34356a40a45aa8c1c16257b3b5032af47765d9032490cf25495d9cfa76412ae3",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:08:48+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The arms complete a broad fly and return, but the dumbbell shafts rotate markedly during the arc, repeating the reviewer’s principal complaint. Keep it out of the human candidate queue."
+      ],
+      "limitations": [
+        "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-ex-dumbbell-fly-motion-59f5d7e1-delivery-4fps.jpg"
+      ]
+    }
+  ]
+}

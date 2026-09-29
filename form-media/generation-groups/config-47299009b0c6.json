@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-ez-bar-skullcrusher-18e6f719-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-ez-bar-skullcrusher-18e6f719-start-40e93f20.json"
+    },
+    {
+      "shot": "r9-ex-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-cable-fly-start-f6f8f640.json"
+    },
+    {
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-pec-deck-start-02b0a4a6.json"
+    },
+    {
+      "shot": "r9-open-barbell-ab-rollout-59a93cd6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-ab-rollout-59a93cd6-start-d5a33b7a.json"
+    }
+  ]
+}

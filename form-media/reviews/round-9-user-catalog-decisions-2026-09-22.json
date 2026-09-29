@@ -1,0 +1,2678 @@
+{
+  "schemaVersion": 1,
+  "appliedAt": "2026-09-22T22:49:07+00:00",
+  "authorization": "User completed Round 9 reviews and requested Round 10 after applying exercise removals and form/machine feedback.",
+  "removedWithoutReplacement": [
+    "ex_reverse_wrist_curl",
+    "open_cable_internal_rotati_e82490e5",
+    "open_dumbbell_seated_one_l_4de2b240",
+    "open_external_rotation_0d3fb9dd",
+    "open_landmine_linear_jamme_3eebe237",
+    "open_leverage_deadlift_ba90f5c3",
+    "open_leverage_decline_ches_adfbca13",
+    "open_leverage_high_row_c0482620",
+    "open_leverage_shrug_33bef3fa",
+    "open_lying_dumbbell_tricep_02bba023",
+    "open_one_arm_high_pulley_c_13c8cfb4",
+    "open_pallof_press_69ae4277",
+    "open_pallof_press_with_rot_04f5a0ff",
+    "open_standing_barbell_calf_3952bfa6",
+    "open_standing_front_barbel_9aba2baf",
+    "open_standing_leg_curl_cb499e0c"
+  ],
+  "conditionalRename": {
+    "exerciseId": "open_leverage_incline_ches_0c70165e",
+    "from": "Leverage Incline Chest Press",
+    "to": "Plate Loaded Incline Chest Press",
+    "selectedAcceptedAssetId": "r9-incline-leverage-single-cycle-trim-v1"
+  },
+  "beforeCatalogSha256": "ef85ec990b3bfda109de0189f3c343aaad5b014b1ecfd37566b917883e50f8ba",
+  "beforeVersion": "2026.09.22",
+  "beforeRevision": 10,
+  "afterVersion": "2026.09.22.1",
+  "afterRevision": 11,
+  "catalogExercises": {
+    "open_external_rotation_0d3fb9dd": {
+      "id": "open_external_rotation_0d3fb9dd",
+      "name": "Side-Lying Dumbbell Shoulder External Rotation",
+      "muscle_group": "Shoulders",
+      "movementType": "isolation",
+      "instructions": [
+        "Lie on one side on a flat bench. Hold a light dumbbell in the upper hand, keeping that elbow bent to a right angle and resting against the side of the torso.",
+        "Rotate at the shoulder to lift the forearm away from the abdomen, keeping the elbow against the side and the torso still.",
+        "Lower slowly to the starting position. Complete the selected repetitions on each side."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "shoulders"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "dumbbells",
+          "bench"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "External Rotation",
+          "Dumbbell Lying Supination"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "External_Rotation",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Merged Side-Lying Dumbbell Shoulder External Rotation: Both describe side-lying dumbbell shoulder external rotation with the elbow held against the torso; the forearm-supination label was erroneous.; Corrected name. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        },
+        "perSide": true
+      }
+    },
+    "open_leverage_shrug_33bef3fa": {
+      "id": "open_leverage_shrug_33bef3fa",
+      "name": "Leverage Shrug",
+      "muscle_group": "Back",
+      "movementType": "isolation",
+      "instructions": [
+        "Load the pins to an appropriate weight. Position yourself directly between the handles.",
+        "Grasp the top handles with a comfortable grip, and then lower your hips as you take a breath. Look forward with your head and keep your chest up.",
+        "Drive through the floor with your heels, extending your hips and knees as you rise to a standing position. Keep your arms straight throughout the movement, finishing with your shoulders back. This will be your starting position.",
+        "Raise the weight by shrugging the shoulders towards your ears, moving straight up and down.",
+        "Pause at the top of the motion, and then return the weight to the starting position."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "traps"
+        ],
+        "secondaryMuscles": [
+          "forearms"
+        ],
+        "equipment": [
+          "machines"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Leverage_Shrug",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: retain. Retained this apparatus/position and measurement variant. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        }
+      }
+    },
+    "open_pallof_press_69ae4277": {
+      "id": "open_pallof_press_69ae4277",
+      "name": "Pallof Press",
+      "muscle_group": "Core",
+      "movementType": "isolation",
+      "instructions": [
+        "Stand side-on to a cable set near chest height and hold the handle at the chest with both hands.",
+        "Brace the trunk and press the hands forward without turning toward the cable.",
+        "Return the hands to the chest under control. Complete the selected repetitions facing each direction."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "abdominals"
+        ],
+        "secondaryMuscles": [
+          "chest",
+          "shoulders",
+          "triceps"
+        ],
+        "equipment": [
+          "cables"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Pallof_Press",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Corrected perSide.; Corrected instructions. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        },
+        "perSide": true
+      }
+    },
+    "open_pallof_press_with_rot_04f5a0ff": {
+      "id": "open_pallof_press_with_rot_04f5a0ff",
+      "name": "Pallof Press With Rotation",
+      "muscle_group": "Core",
+      "movementType": "compound",
+      "instructions": [
+        "Stand side-on to a cable and hold the handle at the chest with both hands.",
+        "Press forward, then rotate the trunk through a small controlled range while allowing a comfortable hip and foot pivot.",
+        "Return to the forward position and draw the hands back to the chest. One complete sequence is one repetition; complete the selected repetitions on each side."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "abdominals"
+        ],
+        "secondaryMuscles": [
+          "chest",
+          "shoulders",
+          "triceps"
+        ],
+        "equipment": [
+          "cables"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Pallof_Press_With_Rotation",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Corrected instructions.; Rotating Pallof variant step8 mandates failure despite finite target; one rep sequence also ends with extra outward press. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        },
+        "perSide": true
+      }
+    },
+    "open_standing_leg_curl_cb499e0c": {
+      "id": "open_standing_leg_curl_cb499e0c",
+      "name": "Standing Leg Curl",
+      "muscle_group": "Legs",
+      "movementType": "isolation",
+      "instructions": [
+        "Adjust the machine lever to fit your height and lie with your torso bent at the waist facing forward around 30-45 degrees (since an angled position is more favorable for hamstrings recruitment) with the pad of the lever on the back of your right leg (just a few inches under the calves) and the front of the right leg on top of the machine pad.",
+        "Keeping the torso bent forward, ensure your leg is fully stretched and grab the side handles of the machine. Position your toes straight. This will be your starting position.",
+        "As you exhale, curl your right leg up as far as possible without lifting the upper leg from the pad. Once you hit the fully contracted position, hold it for a second.",
+        "As you inhale, bring the legs back to the initial position. Repeat for the recommended amount of repetitions.",
+        "Perform the same exercise now for the left leg.",
+        "Complete the selected repetitions on each side; when alternating, count each side toward its own target."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "hamstrings"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "machines"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Standing_Leg_Curl",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Clarified the user-facing per-side quantity wording.; Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        },
+        "perSide": true
+      }
+    },
+    "open_landmine_linear_jamme_3eebe237": {
+      "id": "open_landmine_linear_jamme_3eebe237",
+      "name": "Landmine Linear Jammer",
+      "muscle_group": "Shoulders",
+      "movementType": "compound",
+      "instructions": [
+        "Secure a barbell in a landmine and fit a rated two-hand jammer handle attachment to the loaded end.",
+        "Raise the bar from the floor, taking the handles to your shoulders. This will be your starting position.",
+        "In an athletic stance, squat by flexing your hips and setting your hips back, keeping your arms flexed.",
+        "Reverse the motion by powerfully extending through the hips, knees, and ankles, while also extending the elbows to straighten the arms. This movement should be done explosively, coming out of the squat to full extension as powerfully as possible.",
+        "Return to the starting position."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength",
+          "conditioning"
+        ],
+        "goals": [
+          "strength",
+          "athleticism",
+          "general"
+        ],
+        "primaryMuscles": [
+          "shoulders"
+        ],
+        "secondaryMuscles": [
+          "abdominals",
+          "calves",
+          "chest",
+          "hamstrings",
+          "quadriceps",
+          "triceps"
+        ],
+        "equipment": [
+          "barbell",
+          "landmine",
+          "landmine handles"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "repRange": "3–5",
+          "restSeconds": 90
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Landmine_Linear_Jammer",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Corrected equipment.; Corrected defaultPrescription. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        }
+      }
+    },
+    "open_leverage_deadlift_ba90f5c3": {
+      "id": "open_leverage_deadlift_ba90f5c3",
+      "name": "Leverage Deadlift",
+      "muscle_group": "Legs",
+      "movementType": "compound",
+      "instructions": [
+        "Adjust and load the leverage-deadlift machine for your height. Stand between its handles with the feet planted and bend the hips and knees to take the low handles.",
+        "Keep the arms long and torso steady as you extend the hips and knees to stand.",
+        "Lower the handles under control by bending at the hips and knees until the machine returns to its starting position."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "quadriceps"
+        ],
+        "secondaryMuscles": [
+          "glutes",
+          "hamstrings"
+        ],
+        "equipment": [
+          "machines"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Leverage_Deadlift",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Corrected instructions.; Added the missing lifting phase. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        }
+      }
+    },
+    "open_standing_barbell_calf_3952bfa6": {
+      "id": "open_standing_barbell_calf_3952bfa6",
+      "name": "Standing Barbell Calf Raise",
+      "muscle_group": "Legs",
+      "movementType": "isolation",
+      "instructions": [
+        "This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the bar on the back of your shoulders (slightly below the neck).",
+        "Hold on to the bar using both arms at each side and lift it off the rack by first pushing with your legs and at the same time straightening your torso.",
+        "Step away from the rack and position your legs using a shoulder width medium stance with the toes slightly pointed out. Keep your head up at all times as looking down will get you off balance and also maintain a straight back. The knees should be kept with a slight bend; never locked. This will be your starting position. Tip: For better range of motion you may also place the ball of your feet on a wooden block but be careful as this option requires more balance and a sturdy block.",
+        "Raise your heels as you breathe out by extending your ankles as high as possible and flexing your calf. Ensure that the knee is kept stationary at all times. There should be no bending at any time. Hold the contracted position by a second before you start to go back down.",
+        "Go back slowly to the starting position as you breathe in by lowering your heels as you bend the ankles until calves are stretched.",
+        "Repeat for the recommended amount of repetitions."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "calves"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "barbell",
+          "squat rack"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Standing_Barbell_Calf_Raise",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        }
+      }
+    },
+    "open_one_arm_high_pulley_c_13c8cfb4": {
+      "id": "open_one_arm_high_pulley_c_13c8cfb4",
+      "name": "One-Arm High-Pulley Cable Side Bends",
+      "muscle_group": "Core",
+      "movementType": "isolation",
+      "instructions": [
+        "Stand beside a high cable and hold the handle near one side of the head with the elbow bent.",
+        "Keep the hips steady and bend the trunk sideways against the cable through a controlled comfortable range.",
+        "Return upright and complete the selected repetitions on each side."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "abdominals"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "cables"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "One-Arm_High-Pulley_Cable_Side_Bends",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Corrected instructions.; Cable side-bend step7 prescribes failure despite the reviewed finite target. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        },
+        "perSide": true
+      }
+    },
+    "open_leverage_decline_ches_adfbca13": {
+      "id": "open_leverage_decline_ches_adfbca13",
+      "name": "Leverage Decline Chest Press",
+      "muscle_group": "Chest",
+      "movementType": "compound",
+      "instructions": [
+        "Use a plate-loaded decline chest press machine. Adjust the seat so the handles begin beside the lower chest and the machine guides the press slightly downward relative to the torso.",
+        "Press the handles forward and downward along the machine path by extending the elbows.",
+        "After a brief pause at the top, return the weight just above the start position, keeping tension on the muscles by not returning the weight to the stops until the set is complete."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "chest"
+        ],
+        "secondaryMuscles": [
+          "shoulders",
+          "triceps"
+        ],
+        "equipment": [
+          "machines"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Leverage_Decline_Chest_Press",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Made the decline pressing path explicit. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        }
+      }
+    },
+    "open_leverage_incline_ches_0c70165e": {
+      "id": "open_leverage_incline_ches_0c70165e",
+      "name": "Leverage Incline Chest Press",
+      "muscle_group": "Chest",
+      "movementType": "compound",
+      "instructions": [
+        "Use a plate-loaded incline chest press machine. Adjust the seat so the handles begin beside the upper chest and the machine guides the press upward relative to the torso.",
+        "Press the handles forward and upward along the machine path by extending the elbows.",
+        "After a brief pause at the top, return the weight just above the start position, keeping tension on the muscles by not returning the weight to the stops until the set is complete."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "chest"
+        ],
+        "secondaryMuscles": [
+          "shoulders",
+          "triceps"
+        ],
+        "equipment": [
+          "machines"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Leverage_Incline_Chest_Press",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Made the incline pressing path explicit. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        }
+      }
+    },
+    "open_lying_dumbbell_tricep_02bba023": {
+      "id": "open_lying_dumbbell_tricep_02bba023",
+      "name": "Lying Dumbbell Tricep Extension",
+      "muscle_group": "Arms",
+      "movementType": "isolation",
+      "instructions": [
+        "Lie on a flat bench while holding two dumbbells directly in front of you. Your arms should be fully extended at a 90-degree angle from your torso and the floor. The palms should be facing in and the elbows should be tucked in. This is the starting position.",
+        "As you breathe in and you keep the upper arms stationary with the elbows in, slowly lower the weight until the dumbbells are near your ears.",
+        "At that point, while keeping the elbows in and the upper arms stationary, use the triceps to bring the weight back up to the starting position as you breathe out.",
+        "Repeat for the recommended amount of repetitions.",
+        "Optional decline support: use a stable decline bench with secure leg supports and a controlled dumbbell setup. Keep the upper arms steady and the lowering path clear of the face.",
+        "For single-arm work, steady the working upper arm with the free hand. A comfortable underhand grip may lower beside the head, or an overhand grip may lower across toward the opposite upper chest. Keep the weight clear of the face and complete the selected count with each arm using an appropriate one-arm load."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "triceps"
+        ],
+        "secondaryMuscles": [
+          "chest",
+          "shoulders"
+        ],
+        "equipment": [
+          "dumbbells",
+          "bench"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Dumbbell Tricep Extension -Pronated Grip",
+          "Decline Dumbbell Triceps Extension",
+          "One Arm Supinated Dumbbell Triceps Extension",
+          "One Arm Pronated Dumbbell Triceps Extension"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–10"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Lying_Dumbbell_Tricep_Extension",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial application of the user-approved 186-row simplification; not independent trainer review.",
+          "reviewedAt": "2026-09-21"
+        }
+      }
+    },
+    "open_standing_front_barbel_9aba2baf": {
+      "id": "open_standing_front_barbel_9aba2baf",
+      "name": "Standing Front Barbell Raise Over Head",
+      "muscle_group": "Shoulders",
+      "movementType": "isolation",
+      "instructions": [
+        "To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
+        "Your feet should be shoulder width apart from each other. Your elbows should be slightly bent. This is the starting position.",
+        "Lift the barbell up until it is directly over your head while exhaling. Make sure to keep your elbows slightly bent when performing each repetition.",
+        "Once you feel the contraction, begin to lower the barbell back down to the starting position as you inhale.",
+        "Repeat for the recommended amount of repetitions."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "shoulders"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "barbell"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–10"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Standing_Front_Barbell_Raise_Over_Head",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: retain. Retained this apparatus/position and measurement variant. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        }
+      }
+    },
+    "open_dumbbell_seated_one_l_4de2b240": {
+      "id": "open_dumbbell_seated_one_l_4de2b240",
+      "name": "Dumbbell Seated One-Leg Calf Raise",
+      "muscle_group": "Legs",
+      "movementType": "isolation",
+      "instructions": [
+        "Sit on a stable bench with the ball of one foot on a flat nonslip weight plate and the heel free. Rest a dumbbell across the lower thigh just above the knee, holding it steady.",
+        "Lift the heel to rise onto the ball of the foot, keeping the knee in place.",
+        "Lower the heel slowly through a comfortable range. Count each movement on one side as one repetition. Complete the selected repetitions on each side."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "calves"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "dumbbells",
+          "bench",
+          "weight plate"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Dumbbell_Seated_One-Leg_Calf_Raise",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Corrected equipment.; Corrected instructions. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        },
+        "perSide": true
+      }
+    },
+    "ex_reverse_wrist_curl": {
+      "id": "ex_reverse_wrist_curl",
+      "name": "Reverse Wrist Curl",
+      "muscle_group": "Arms",
+      "movementType": "isolation",
+      "instructions": [
+        "Kneel facing a bench, holding a dumbbell in each hand. Rest the forearms on the bench with palms downward and wrists just beyond the edge.",
+        "Lift the backs of both hands, then lower through a small controlled range.",
+        "Optional support: sit with the forearms on the thighs instead of a bench, leaving the wrists free beyond the knees. For one-hand work, complete the selected repetition count with each hand while preserving the palms-down wrist-extension direction."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "general"
+        ],
+        "primaryMuscles": [
+          "forearms"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "dumbbells",
+          "bench"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Palms-Down Dumbbell Wrist Curl Over A Bench",
+          "Seated Dumbbell Palms-Down Wrist Curl",
+          "Seated One-Arm Dumbbell Palms-Down Wrist Curl"
+        ],
+        "defaultPrescription": {
+          "sets": 3,
+          "restSeconds": 60,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial application of the user-approved 176-row form-variation consolidation; not independent trainer review.",
+          "reviewedAt": "2026-09-21"
+        }
+      }
+    },
+    "open_cable_internal_rotati_e82490e5": {
+      "id": "open_cable_internal_rotati_e82490e5",
+      "name": "Cable Internal Rotation",
+      "muscle_group": "Shoulders",
+      "movementType": "compound",
+      "instructions": [
+        "Sit sideways on a stable bench beside a cable pulley set at elbow height. Hold the handle in the near hand with the elbow against the side and bent to a right angle.",
+        "Rotate the forearm inward across the abdomen without moving the elbow away from the body.",
+        "Return slowly toward the pulley. Complete the selected repetitions on each arm."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "shoulders"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "cables",
+          "bench"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Cable_Internal_Rotation",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: repair. Corrected perSide.; Corrected instructions. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        },
+        "perSide": true
+      }
+    },
+    "open_leverage_high_row_c0482620": {
+      "id": "open_leverage_high_row_c0482620",
+      "name": "Leverage High Row",
+      "muscle_group": "Back",
+      "movementType": "compound",
+      "instructions": [
+        "Load an appropriate weight onto the pins and adjust the seat height so that you can just reach the handles above you. Adjust the knee pad to help keep you down. Grasp the handles with a pronated grip. This will be your starting position.",
+        "Pull the handles towards your torso, retracting your shoulder blades as you flex the elbow.",
+        "Pause at the bottom of the motion, and then slowly return the handles to the starting position.",
+        "For multiple repetitions, avoid completely returning the weight to the stops to keep tension on the muscles being worked."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "middle back"
+        ],
+        "secondaryMuscles": [
+          "lats"
+        ],
+        "equipment": [
+          "machines"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "6–8"
+        },
+        "source": {
+          "name": "free-exercise-db",
+          "id": "Leverage_High_Row",
+          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
+          "license": "Unlicense",
+          "url": "https://github.com/yuhonas/free-exercise-db"
+        },
+        "review": {
+          "method": "AI editorial review: retain. Retained this apparatus/position and measurement variant. Editable SpotBot dose; not trainer or clinical validation.",
+          "reviewedAt": "2026-09-09"
+        }
+      }
+    }
+  },
+  "catalogReviews": {
+    "open_external_rotation_0d3fb9dd": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "The side-lying movement rotates the shoulder with the elbow held against the torso; it is not forearm supination. A bench and light dumbbell support the explicitly per-side repetitions.",
+      "evidence": {
+        "identity": "Side-Lying Dumbbell Shoulder External Rotation; reps execution; dumbbells, bench.",
+        "instructions": "Setup: Lie on one side on a flat bench. Hold a light dumbbell in the upper hand, keeping that elbow bent to a right angle and resting against the side of the torso.",
+        "equipment": "Required setup: dumbbells, bench. Load entry: required.",
+        "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: shoulders. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Corrected instructions."
+      ]
+    },
+    "open_leverage_shrug_33bef3fa": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Leverage shrug includes initial standing pickup then shoulder elevation; clear separation makes repetition count valid.",
+      "evidence": {
+        "identity": "Leverage Shrug; reps execution; machines.",
+        "instructions": "Setup: Load the pins to an appropriate weight. Position yourself directly between the handles.",
+        "equipment": "Required setup: machines. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: traps. Supporting: forearms.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_pallof_press_69ae4277": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Pallof press repeats facing the opposite direction but has no perSide flag.",
+      "evidence": {
+        "identity": "Pallof Press; reps execution; cables.",
+        "instructions": "Setup: Stand side-on to a cable set near chest height and hold the handle at the chest with both hands.",
+        "equipment": "Required setup: cables. Load entry: required.",
+        "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: abdominals. Supporting: chest, shoulders, triceps.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected perSide.",
+        "Corrected instructions.",
+        "Pallof press repeats facing the opposite direction but has no perSide flag."
+      ]
+    },
+    "open_pallof_press_with_rot_04f5a0ff": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Rotating Pallof variant step8 mandates failure despite finite target; one rep sequence also ends with extra outward press.",
+      "evidence": {
+        "identity": "Pallof Press With Rotation; reps execution; cables.",
+        "instructions": "Setup: Stand side-on to a cable and hold the handle at the chest with both hands.",
+        "equipment": "Required setup: cables. Load entry: required.",
+        "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: abdominals. Supporting: chest, shoulders, triceps.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected instructions.",
+        "Rotating Pallof variant step8 mandates failure despite finite target; one rep sequence also ends with extra outward press."
+      ]
+    },
+    "open_standing_leg_curl_cb499e0c": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Read all instruction steps and current anatomy, apparatus, measurement, per-side, difficulty and dose; no specific correction identified in this pass.",
+      "evidence": {
+        "identity": "Standing Leg Curl; reps execution; machines.",
+        "instructions": "Setup: Adjust the machine lever to fit your height and lie with your torso bent at the waist facing forward around 30-45 degrees (since an angled position is more favorable for hamstrings recruitment) with the pad of the lever on the back of your right leg (just a few inches under the calves) and the front of the right leg on top of the machine pad.",
+        "equipment": "Required setup: machines. Load entry: required.",
+        "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: hamstrings. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Clarified the user-facing per-side quantity wording.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_landmine_linear_jamme_3eebe237": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Linear jammer requires a bilateral landmine handle attachment and technical power dose; generic landmine alone is incomplete.",
+      "evidence": {
+        "identity": "Landmine Linear Jammer; reps execution; barbell, landmine, landmine handles.",
+        "instructions": "Setup: Secure a barbell in a landmine and fit a rated two-hand jammer handle attachment to the loaded end.",
+        "equipment": "Required setup: barbell, landmine, landmine handles. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: shoulders. Supporting: abdominals, calves, chest, hamstrings, quadriceps, triceps.",
+        "eligibility": "intermediate; activities strength, conditioning; goals strength, athleticism, general.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 90 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected equipment.",
+        "Corrected defaultPrescription.",
+        "Corrected activities.",
+        "Corrected goals.",
+        "Declared the specific bilateral handle attachment required by the jammer."
+      ]
+    },
+    "open_leverage_deadlift_ba90f5c3": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Instructions jump directly from grasping bottom handles to returning weight; add the missing leg/hip extension to standing before controlled lowering.",
+      "evidence": {
+        "identity": "Leverage Deadlift; reps execution; machines.",
+        "instructions": "Setup: Adjust and load the leverage-deadlift machine for your height. Stand between its handles with the feet planted and bend the hips and knees to take the low handles.",
+        "equipment": "Required setup: machines. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: quadriceps. Supporting: glutes, hamstrings.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected instructions.",
+        "Added the missing lifting phase.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_standing_barbell_calf_3952bfa6": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Read all instruction steps and current anatomy, apparatus, measurement, per-side, difficulty and dose; no specific correction identified in this pass.",
+      "evidence": {
+        "identity": "Standing Barbell Calf Raise; reps execution; barbell, squat rack.",
+        "instructions": "Setup: This exercise is best performed inside a squat rack for safety purposes. To begin, first set the bar on a rack that best matches your height. Once the correct height is chosen and the bar is loaded, step under the bar and place the bar on the back of your shoulders (slightly below the neck).",
+        "equipment": "Required setup: barbell, squat rack. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: calves. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_one_arm_high_pulley_c_13c8cfb4": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Cable side-bend step7 prescribes failure despite the reviewed finite target.",
+      "evidence": {
+        "identity": "One-Arm High-Pulley Cable Side Bends; reps execution; cables.",
+        "instructions": "Setup: Stand beside a high cable and hold the handle near one side of the head with the elbow bent.",
+        "equipment": "Required setup: cables. Load entry: required.",
+        "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: abdominals. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected instructions.",
+        "Cable side-bend step7 prescribes failure despite the reviewed finite target."
+      ]
+    },
+    "open_leverage_decline_ches_adfbca13": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Plate-loaded decline chest press should name the downward pressing path, not rely on indistinguishable generic prose.",
+      "evidence": {
+        "identity": "Leverage Decline Chest Press; reps execution; machines.",
+        "instructions": "Setup: Use a plate-loaded decline chest press machine. Adjust the seat so the handles begin beside the lower chest and the machine guides the press slightly downward relative to the torso.",
+        "equipment": "Required setup: machines. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: shoulders, triceps.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Made the decline pressing path explicit."
+      ]
+    },
+    "open_leverage_incline_ches_0c70165e": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Plate-loaded incline press should describe upward pressing path, distinguishing it from horizontal/decline machine variants.",
+      "evidence": {
+        "identity": "Leverage Incline Chest Press; reps execution; machines.",
+        "instructions": "Setup: Use a plate-loaded incline chest press machine. Adjust the seat so the handles begin beside the upper chest and the machine guides the press upward relative to the torso.",
+        "equipment": "Required setup: machines. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: shoulders, triceps.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Made the incline pressing path explicit."
+      ]
+    },
+    "open_lying_dumbbell_tricep_02bba023": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-21",
+      "instructionReview": "Two neutral-grip dumbbells lower near ears on a bench with fixed upper arms; bilateral triceps loading matches. Grip consolidation: retained base movement guidance; Dumbbell Tricep Extension -Pronated Grip is now an alias, not a separate exercise. User-approved second simplification: Decline Dumbbell Triceps Extension; One Arm Supinated Dumbbell Triceps Extension; One Arm Pronated Dumbbell Triceps Extension. Standard default prescription and tracking retained; useful optional setup and counting guidance consolidated. Historical loads and counts are not converted.",
+      "evidence": {
+        "identity": "Lying Dumbbell Tricep Extension; reps execution; dumbbells, bench.",
+        "instructions": "Setup: Lie on a flat bench while holding two dumbbells directly in front of you. Your arms should be fully extended at a 90-degree angle from your torso and the floor. The palms should be facing in and the elbows should be tucked in. This is the starting position.",
+        "equipment": "Required default setup: dumbbells, bench. Load entry: required. Alternative arrangements are optional instructions.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: chest, shoulders.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags.",
+        "User-approved second simplification: Decline Dumbbell Triceps Extension; One Arm Supinated Dumbbell Triceps Extension; One Arm Pronated Dumbbell Triceps Extension. Standard default prescription and tracking retained; useful optional setup and counting guidance consolidated. Historical loads and counts are not converted."
+      ]
+    },
+    "open_standing_front_barbel_9aba2baf": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Standing barbell front raise continues overhead with slight fixed elbow bend and controlled return; distinct apparatus/ROM metadata matches.",
+      "evidence": {
+        "identity": "Standing Front Barbell Raise Over Head; reps execution; barbell.",
+        "instructions": "Setup: To begin, stand straight with a barbell in your hands. You should grip the bar with palms facing down and a closer than shoulder width grip apart from each other.",
+        "equipment": "Required setup: barbell. Load entry: required.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: shoulders. Supporting: none asserted.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_dumbbell_seated_one_l_4de2b240": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Required foot block absent. Instruction says raise toes although calf raise lifts heels; correct movement cue.",
+      "evidence": {
+        "identity": "Dumbbell Seated One-Leg Calf Raise; reps execution; dumbbells, bench, weight plate.",
+        "instructions": "Setup: Sit on a stable bench with the ball of one foot on a flat nonslip weight plate and the heel free. Rest a dumbbell across the lower thigh just above the knee, holding it steady.",
+        "equipment": "Required setup: dumbbells, bench, weight plate. Load entry: required.",
+        "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: calves. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected equipment.",
+        "Corrected instructions.",
+        "Added foot block and corrected heel-raise motion.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "ex_reverse_wrist_curl": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-21",
+      "instructionReview": "Palms-down wrist extension distinguishes wrist curl; clarify bench approach and dumbbells in both hands. User-approved form-variation consolidation: Seated Dumbbell Palms-Down Wrist Curl; Seated One-Arm Dumbbell Palms-Down Wrist Curl. Standard identity, default prescription and tracking retained; optional setup and counting guidance preserved where applicable.",
+      "evidence": {
+        "identity": "Reverse Wrist Curl; reps execution; dumbbells, bench.",
+        "instructions": "Setup: Kneel facing a bench, holding a dumbbell in each hand. Rest the forearms on the bench with palms downward and wrists just beyond the edge.",
+        "equipment": "Required setup: dumbbells, bench. Load entry: required. Optional arrangements are explained in instructions.",
+        "tracking": "8-12 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: forearms. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, general.",
+        "prescription": "3 sets; 8-12 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected instructions: Palms-down wrist extension distinguishes wrist curl; clarify bench approach and dumbbells in both hands.",
+        "User-approved form-variation consolidation: Seated Dumbbell Palms-Down Wrist Curl; Seated One-Arm Dumbbell Palms-Down Wrist Curl. Standard identity, default prescription and tracking retained; optional setup and counting guidance preserved where applicable."
+      ]
+    },
+    "open_cable_internal_rotati_e82490e5": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Cable shoulder internal rotation is unilateral; select seated bench setup and add per-arm targets.",
+      "evidence": {
+        "identity": "Cable Internal Rotation; reps execution; cables, bench.",
+        "instructions": "Setup: Sit sideways on a stable bench beside a cable pulley set at elbow height. Hold the handle in the near hand with the elbow against the side and bent to a right angle.",
+        "equipment": "Required setup: cables, bench. Load entry: required.",
+        "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: shoulders. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected perSide.",
+        "Corrected instructions."
+      ]
+    },
+    "open_leverage_high_row_c0482620": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Leverage high row starts with high handles and thigh restraint; retain high diagonal pulling machine variant.",
+      "evidence": {
+        "identity": "Leverage High Row; reps execution; machines.",
+        "instructions": "Setup: Load an appropriate weight onto the pins and adjust the seat height so that you can just reach the handles above you. Adjust the knee pad to help keep you down. Grasp the handles with a pronated grip. This will be your starting position.",
+        "equipment": "Required setup: machines. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: middle back. Supporting: lats.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    }
+  },
+  "exercises": {
+    "open_external_rotation_0d3fb9dd": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:16:23+00:00",
+      "reviewedAssetIds": [
+        "r9-open-external-rotation-0d3fb9dd-start-037dee02",
+        "r9-open-external-rotation-0d3fb9dd-motion-26ba02a4",
+        "r9-open-external-rotation-0d3fb9dd-motion-7c294315",
+        "r9-side-lying-external-rotation-single-cycle-trim-v1"
+      ]
+    },
+    "open_leverage_shrug_33bef3fa": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:02:07+00:00",
+      "reviewedAssetIds": [
+        "r8-open-leverage-shrug-33bef3fa-motion-626786a3",
+        "r9-open-leverage-shrug-33bef3fa-start-b2a1349a",
+        "r9-open-leverage-shrug-33bef3fa-motion-bc7370f6",
+        "r9-open-leverage-shrug-33bef3fa-motion-40cf3968",
+        "r9-open-leverage-shrug-33bef3fa-motion-c915a7c3",
+        "r9-open-leverage-shrug-33bef3fa-start-0a5c07b3",
+        "r9-open-leverage-shrug-33bef3fa-start-486391ac",
+        "r9-open-leverage-shrug-33bef3fa-start-d7ea2a6a",
+        "r9-open-leverage-shrug-33bef3fa-motion-8e91ddac",
+        "r9-open-leverage-shrug-33bef3fa-start-396f6600",
+        "r9-open-leverage-shrug-33bef3fa-start-e37a4b1f",
+        "r9-open-leverage-shrug-33bef3fa-motion-4a249f74",
+        "r9-open-leverage-shrug-33bef3fa-motion-c42d135a",
+        "r9-open-leverage-shrug-33bef3fa-motion-20853ee9",
+        "r9-leverage-shrug-complete-cycle"
+      ]
+    },
+    "open_pallof_press_69ae4277": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:06:09+00:00",
+      "reviewedAssetIds": [
+        "r8-open-pallof-press-69ae4277-motion-823e8acd",
+        "r9-open-pallof-press-69ae4277-start-acb93627",
+        "r9-open-pallof-press-69ae4277-motion-52207e14",
+        "r9-open-pallof-press-69ae4277-motion-a56b3af5",
+        "r9-pallof-press-complete-cycle"
+      ]
+    },
+    "open_pallof_press_with_rot_04f5a0ff": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:06:16+00:00",
+      "reviewedAssetIds": [
+        "r8-open-pallof-press-with-rot-04f5a0ff-motion-cb8c8ea1",
+        "r9-open-pallof-press-with-rot-04f5a0ff-start-93f6e1ba",
+        "r9-open-pallof-press-with-rot-04f5a0ff-start-79fcb629",
+        "r9-open-pallof-press-with-rot-04f5a0ff-motion-2a94bd82"
+      ]
+    },
+    "open_standing_leg_curl_cb499e0c": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:36:35+00:00",
+      "reviewedAssetIds": [
+        "r9-open-standing-leg-curl-cb499e0c-start-c999dbc2",
+        "r9-open-standing-leg-curl-cb499e0c-motion-123c36dd",
+        "r9-standing-leg-curl-complete-cycle"
+      ]
+    },
+    "open_landmine_linear_jamme_3eebe237": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from database",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T21:58:26+00:00",
+      "reviewedAssetIds": [
+        "r8-open-landmine-linear-jamme-3eebe237-motion-9e3ea166",
+        "r9-open-landmine-linear-jamme-3eebe237-start-0a7cd6ce",
+        "r9-open-landmine-linear-jamme-3eebe237-motion-7372cef7",
+        "r9-open-landmine-linear-jamme-3eebe237-motion-721561d1",
+        "r9-landmine-linear-jammer-cycle-721561d1"
+      ]
+    },
+    "open_leverage_deadlift_ba90f5c3": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise ",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T21:58:53+00:00",
+      "reviewedAssetIds": [
+        "r8-open-leverage-deadlift-ba90f5c3-motion-410e13bf",
+        "r9-open-leverage-deadlift-ba90f5c3-start-453f7778",
+        "r9-open-leverage-deadlift-ba90f5c3-motion-e2efc4c1",
+        "r9-open-leverage-deadlift-ba90f5c3-motion-46f20137"
+      ]
+    },
+    "open_standing_barbell_calf_3952bfa6": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:22:17+00:00",
+      "reviewedAssetIds": [
+        "r9-open-standing-barbell-calf-3952bfa6-start-c43cd425",
+        "r9-open-standing-barbell-calf-3952bfa6-motion-7036949b",
+        "r9-open-standing-barbell-calf-3952bfa6-start-5f2e72d4",
+        "r9-open-standing-barbell-calf-3952bfa6-motion-12fdf5f4",
+        "r9-open-standing-barbell-calf-3952bfa6-start-3ebf7d4c",
+        "r9-open-standing-barbell-calf-3952bfa6-motion-0e98bf10",
+        "r9-barbell-calf-ankle-detail-single-cycle-trim-v1"
+      ]
+    },
+    "open_one_arm_high_pulley_c_13c8cfb4": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:04:41+00:00",
+      "reviewedAssetIds": [
+        "r8-open-one-arm-high-pulley-c-13c8cfb4-motion-497d86fb",
+        "r9-open-one-arm-high-pulley-c-13c8cfb4-start-aeaceb59",
+        "r9-open-one-arm-high-pulley-c-13c8cfb4-start-0a3d6564",
+        "r9-open-one-arm-high-pulley-c-13c8cfb4-start-fb6f360b",
+        "r9-open-one-arm-high-pulley-c-13c8cfb4-motion-1949c78c"
+      ]
+    },
+    "open_leverage_decline_ches_adfbca13": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T21:59:17+00:00",
+      "reviewedAssetIds": [
+        "r8-open-leverage-decline-ches-adfbca13-motion-323d6ab1",
+        "r9-open-leverage-decline-ches-adfbca13-start-53b2008e",
+        "r9-open-leverage-decline-ches-adfbca13-start-f3d387b9",
+        "r9-open-leverage-decline-ches-adfbca13-start-5719df1b",
+        "r9-open-leverage-decline-ches-adfbca13-motion-a75e4846",
+        "r9-open-leverage-decline-ches-adfbca13-motion-b2cc6e4e",
+        "r9-open-leverage-decline-ches-adfbca13-start-ecb22081",
+        "r9-open-leverage-decline-ches-adfbca13-start-cc79dc60",
+        "r9-open-leverage-decline-ches-adfbca13-motion-b62521ac",
+        "r9-open-leverage-decline-ches-adfbca13-start-511142cc",
+        "r9-open-leverage-decline-ches-adfbca13-motion-59034a41"
+      ]
+    },
+    "open_leverage_incline_ches_0c70165e": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r9-incline-leverage-single-cycle-trim-v1"
+      ],
+      "notes": "if you rename this to Plate Loaded Incline Chest Press then consider it accepted. ",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:01:52+00:00",
+      "reviewedAssetIds": [
+        "r8-open-leverage-incline-ches-0c70165e-motion-9d75fd27",
+        "r9-open-leverage-incline-ches-0c70165e-start-53c8a5ed",
+        "r9-open-leverage-incline-ches-0c70165e-start-c043bb8d",
+        "r9-open-leverage-incline-ches-0c70165e-motion-165499b1",
+        "r9-open-leverage-incline-ches-0c70165e-motion-33ea16be",
+        "r9-open-leverage-incline-ches-0c70165e-start-99275c88",
+        "r9-open-leverage-incline-ches-0c70165e-motion-39a6118a",
+        "r9-incline-leverage-single-cycle-trim-v1"
+      ]
+    },
+    "open_lying_dumbbell_tricep_02bba023": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:02:32+00:00",
+      "reviewedAssetIds": [
+        "r8-open-lying-dumbbell-tricep-02bba023-motion-307f9f55",
+        "r9-open-lying-dumbbell-tricep-02bba023-start-e7225bb1",
+        "r9-open-lying-dumbbell-tricep-02bba023-motion-9739caaa"
+      ]
+    },
+    "open_standing_front_barbel_9aba2baf": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:36:07+00:00",
+      "reviewedAssetIds": [
+        "r9-open-standing-front-barbel-9aba2baf-start-b92f7d80",
+        "r9-open-standing-front-barbel-9aba2baf-motion-ec285851",
+        "r9-open-standing-front-barbel-9aba2baf-motion-0758380e",
+        "r9-open-standing-front-barbel-9aba2baf-start-6ab1d4f3",
+        "r9-open-standing-front-barbel-9aba2baf-motion-8f07e05d",
+        "r9-open-standing-front-barbel-9aba2baf-motion-2123ca0d",
+        "r9-open-standing-front-barbel-9aba2baf-start-e99894c7",
+        "r9-open-standing-front-barbel-9aba2baf-start-35ff8d6f",
+        "r9-open-standing-front-barbel-9aba2baf-motion-fd3cfd5d"
+      ]
+    },
+    "open_dumbbell_seated_one_l_4de2b240": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T14:36:25+00:00",
+      "reviewedAssetIds": [
+        "r8-open-dumbbell-seated-one-l-4de2b240-motion-26635d26",
+        "r9-open-dumbbell-seated-one-l-4de2b240-start-94a1de0e",
+        "r9-open-dumbbell-seated-one-l-4de2b240-motion-23266d2b",
+        "r9-open-dumbbell-seated-one-l-4de2b240-motion-5b7d4054",
+        "r9-open-dumbbell-seated-one-l-4de2b240-start-3872d177",
+        "r9-open-dumbbell-seated-one-l-4de2b240-start-55230602",
+        "r9-open-dumbbell-seated-one-l-4de2b240-motion-5c77004c"
+      ]
+    },
+    "ex_reverse_wrist_curl": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from database",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-7",
+        "reviewStatus": "rejected",
+        "notes": "all example i see online dont rotate the wrists they just lift them.",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-16T04:06:04+00:00"
+      },
+      "reviewedAt": "2026-09-22T21:50:08+00:00",
+      "reviewedAssetIds": [
+        "r6-ex-reverse-wrist-curl-start-2f3cb58e",
+        "r6-ex-reverse-wrist-curl-start-23431289",
+        "r6-ex-reverse-wrist-curl-motion-7470001f",
+        "r8-ex-reverse-wrist-curl-start-564fd657",
+        "r8-ex-reverse-wrist-curl-motion-e2a447d6",
+        "r9-ex-reverse-wrist-curl-motion-11b7edee",
+        "r9-ex-reverse-wrist-curl-start-5f382ade",
+        "r9-ex-reverse-wrist-curl-motion-6d68687f",
+        "r9-ex-reverse-wrist-curl-start-3246a1b0",
+        "r9-ex-reverse-wrist-curl-motion-382e1341"
+      ]
+    },
+    "open_cable_internal_rotati_e82490e5": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from the database",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T14:19:08+00:00",
+      "reviewedAssetIds": [
+        "r8-open-cable-internal-rotati-e82490e5-motion-485bda47",
+        "r9-open-cable-internal-rotati-e82490e5-start-0cc95660",
+        "r9-open-cable-internal-rotati-e82490e5-motion-7806c716",
+        "r9-open-cable-internal-rotati-e82490e5-motion-f29a3b1f",
+        "r9-open-cable-internal-rotati-e82490e5-start-f70b18ef",
+        "r9-open-cable-internal-rotati-e82490e5-motion-f6af2a90"
+      ]
+    },
+    "open_leverage_high_row_c0482620": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact delivered video passed AI editorial screening; human review and asset selection remain yours.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T21:59:26+00:00",
+      "reviewedAssetIds": [
+        "r8-open-leverage-high-row-c0482620-motion-91d4c1e0",
+        "r9-open-leverage-high-row-c0482620-motion-071572ad",
+        "r9-open-leverage-high-row-c0482620-start-4acb2e4d",
+        "r9-open-leverage-high-row-c0482620-start-08af7f11",
+        "r9-open-leverage-high-row-c0482620-motion-82949e20",
+        "r9-open-leverage-high-row-c0482620-motion-ec56f86e",
+        "r9-open-leverage-high-row-c0482620-start-666e8d3e",
+        "r9-open-leverage-high-row-c0482620-motion-f8c21bdb",
+        "r9-leverage-high-row-single-cycle-trim"
+      ]
+    }
+  },
+  "sourceDecisions": [
+    {
+      "sourceId": "Cable_Internal_Rotation",
+      "sourceName": "Cable Internal Rotation",
+      "status": "imported",
+      "canonicalId": "open_cable_internal_rotati_e82490e5",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "cables",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "fbd708e6e7660bbc502a78dcac875fec4f6b065aaa1deea6e53b89066dd2f688"
+    },
+    {
+      "sourceId": "Decline_Dumbbell_Triceps_Extension",
+      "sourceName": "Decline Dumbbell Triceps Extension",
+      "status": "mapped",
+      "canonicalId": "open_lying_dumbbell_tricep_02bba023",
+      "reason": "User-approved second simplification: Decline Dumbbell Triceps Extension consolidated into Lying Dumbbell Tricep Extension (open_lying_dumbbell_tricep_02bba023), per the 186-row review approved 2026-09-21. Source evidence is archived and historical loads/counts remain unchanged.",
+      "sourceRecordSha256": "a819edc534849739f81767f55f7dfc9677d049449e194d5493229664f899b66a"
+    },
+    {
+      "sourceId": "Dumbbell_Lying_Supination",
+      "sourceName": "Dumbbell Lying Supination",
+      "status": "mapped",
+      "canonicalId": "open_external_rotation_0d3fb9dd",
+      "reason": "Merged by editorial identity review: Both describe side-lying dumbbell shoulder external rotation with the elbow held against the torso; the forearm-supination label was erroneous.",
+      "normalization": {
+        "equipment": [
+          "dumbbells",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "b637de1fa113a48fac3911e8e986b89003f82791a9f1ef8eb7d4c95f4f7c0dab"
+    },
+    {
+      "sourceId": "Dumbbell_Seated_One-Leg_Calf_Raise",
+      "sourceName": "Dumbbell Seated One-Leg Calf Raise",
+      "status": "imported",
+      "canonicalId": "open_dumbbell_seated_one_l_4de2b240",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "dumbbells",
+          "bench",
+          "weight plate"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "2629174129d90ee68cf634b0f71c0f7b786ee1301c601c6d23e079018374baf5"
+    },
+    {
+      "sourceId": "Dumbbell_Tricep_Extension_-Pronated_Grip",
+      "sourceName": "Dumbbell Tricep Extension -Pronated Grip",
+      "status": "mapped",
+      "canonicalId": "open_lying_dumbbell_tricep_02bba023",
+      "reason": "User-directed grip consolidation: same base movement, position and apparatus; grip choice is not a separate catalog identity.",
+      "normalization": {
+        "equipment": [
+          "dumbbells",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "9078d6449e0f3e783eead07dbf121a98521001943f4c6cb5ef4e11225b443e7c"
+    },
+    {
+      "sourceId": "External_Rotation",
+      "sourceName": "External Rotation",
+      "status": "imported",
+      "canonicalId": "open_external_rotation_0d3fb9dd",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "dumbbells",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "67aa76b767956e61ac67898503731e4e7f195beff42fd5ab568b154b3f95d305"
+    },
+    {
+      "sourceId": "Landmine_Linear_Jammer",
+      "sourceName": "Landmine Linear Jammer",
+      "status": "imported",
+      "canonicalId": "open_landmine_linear_jamme_3eebe237",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "landmine",
+          "landmine handles"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "8fea1452f1d489ffef9af0b6c14e0d21558b8ce1a0d46e09eb25db5e14a46548"
+    },
+    {
+      "sourceId": "Leverage_Deadlift",
+      "sourceName": "Leverage Deadlift",
+      "status": "imported",
+      "canonicalId": "open_leverage_deadlift_ba90f5c3",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "machines"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "bcf821ac8d4ca6e88e1b1b6c0d1066eb20a2c40c50af03a1bcce3008ab88fbca"
+    },
+    {
+      "sourceId": "Leverage_Decline_Chest_Press",
+      "sourceName": "Leverage Decline Chest Press",
+      "status": "imported",
+      "canonicalId": "open_leverage_decline_ches_adfbca13",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "machines"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "2632c1c3f3040c425cca34d3a3d97c1b47565da74685f1fa3576f2be4edfdc99"
+    },
+    {
+      "sourceId": "Leverage_High_Row",
+      "sourceName": "Leverage High Row",
+      "status": "imported",
+      "canonicalId": "open_leverage_high_row_c0482620",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "machines"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "239a99c7847b8672739423c02fd83235c47002965acf28f764a62f02d1b0c957"
+    },
+    {
+      "sourceId": "Leverage_Shrug",
+      "sourceName": "Leverage Shrug",
+      "status": "imported",
+      "canonicalId": "open_leverage_shrug_33bef3fa",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "machines"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "6295612815d6bd04f1c8f12f05c6b89ea27ab8af9e3ec1f699c6f75bc09fec38"
+    },
+    {
+      "sourceId": "Lying_Dumbbell_Tricep_Extension",
+      "sourceName": "Lying Dumbbell Tricep Extension",
+      "status": "imported",
+      "canonicalId": "open_lying_dumbbell_tricep_02bba023",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "dumbbells",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "5c9dd8df498be9b988226e66ebedb4dc87082b668642645d1e0af04cbb3824ad"
+    },
+    {
+      "sourceId": "One-Arm_High-Pulley_Cable_Side_Bends",
+      "sourceName": "One-Arm High-Pulley Cable Side Bends",
+      "status": "imported",
+      "canonicalId": "open_one_arm_high_pulley_c_13c8cfb4",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "cables"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "3c13b4d65a1832e9dd4719f1a168b60e82a14c752db896b8a164c371d5b28238"
+    },
+    {
+      "sourceId": "One_Arm_Pronated_Dumbbell_Triceps_Extension",
+      "sourceName": "One Arm Pronated Dumbbell Triceps Extension",
+      "status": "mapped",
+      "canonicalId": "open_lying_dumbbell_tricep_02bba023",
+      "reason": "User-approved second simplification: One Arm Pronated Dumbbell Triceps Extension consolidated into Lying Dumbbell Tricep Extension (open_lying_dumbbell_tricep_02bba023), per the 186-row review approved 2026-09-21. Source evidence is archived and historical loads/counts remain unchanged.",
+      "sourceRecordSha256": "587c974b17247129a958b9bbb7b9e91473d2f0017d76fc6e3cf96e8e98694d59"
+    },
+    {
+      "sourceId": "One_Arm_Supinated_Dumbbell_Triceps_Extension",
+      "sourceName": "One Arm Supinated Dumbbell Triceps Extension",
+      "status": "mapped",
+      "canonicalId": "open_lying_dumbbell_tricep_02bba023",
+      "reason": "User-approved second simplification: One Arm Supinated Dumbbell Triceps Extension consolidated into Lying Dumbbell Tricep Extension (open_lying_dumbbell_tricep_02bba023), per the 186-row review approved 2026-09-21. Source evidence is archived and historical loads/counts remain unchanged.",
+      "sourceRecordSha256": "ff8434b1e79f3bc1df4a5913230aa6a50c8ec236451f3a94de65481e65d6e40e"
+    },
+    {
+      "sourceId": "Pallof_Press",
+      "sourceName": "Pallof Press",
+      "status": "imported",
+      "canonicalId": "open_pallof_press_69ae4277",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "cables"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "626ba8bbfccb116f98842eb361b85afb8ba1eb467f513ac964490a6b5ba0ecd6"
+    },
+    {
+      "sourceId": "Pallof_Press_With_Rotation",
+      "sourceName": "Pallof Press With Rotation",
+      "status": "imported",
+      "canonicalId": "open_pallof_press_with_rot_04f5a0ff",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "cables"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "0b3091aaaf53ddaac6be9aa697f1ba16fecbc81071b5b5f60d4ea5fe33fb26eb"
+    },
+    {
+      "sourceId": "Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench",
+      "sourceName": "Palms-Down Dumbbell Wrist Curl Over A Bench",
+      "status": "mapped",
+      "canonicalId": "ex_reverse_wrist_curl",
+      "reason": "Existing canonical movement retained; existing instructions, apparatus, prescription and ID preserved. Mapping review: Both bilateral palms-down dumbbell wrist curls with forearms on a bench; same joint action and support.",
+      "sourceRecordSha256": "782d083586c9d870ea550381fab612f167750ebb9f29523999d3ac1eecac2547"
+    },
+    {
+      "sourceId": "Seated_Dumbbell_Palms-Down_Wrist_Curl",
+      "sourceName": "Seated Dumbbell Palms-Down Wrist Curl",
+      "status": "mapped",
+      "canonicalId": "ex_reverse_wrist_curl",
+      "reason": "User-approved catalog consolidation: Seated Dumbbell Palms-Down Wrist Curl is an optional form/setup variation under Reverse Wrist Curl (ex_reverse_wrist_curl), per the 176-row review approved 2026-09-21. Original source evidence and historical tracking remain preserved.",
+      "sourceRecordSha256": "5ed72139f2b0429d6633d891e95688a5620d2f40a0f97a97f2eb042b63c2b026"
+    },
+    {
+      "sourceId": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl",
+      "sourceName": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+      "status": "mapped",
+      "canonicalId": "ex_reverse_wrist_curl",
+      "reason": "User-approved catalog consolidation: Seated One-Arm Dumbbell Palms-Down Wrist Curl is an optional form/setup variation under Reverse Wrist Curl (ex_reverse_wrist_curl), per the 176-row review approved 2026-09-21. Original source evidence and historical tracking remain preserved.",
+      "sourceRecordSha256": "28c2b5538cfb677685c447a65e9fc8db2af4981404ddf628558788b516da75e2"
+    },
+    {
+      "sourceId": "Standing_Barbell_Calf_Raise",
+      "sourceName": "Standing Barbell Calf Raise",
+      "status": "imported",
+      "canonicalId": "open_standing_barbell_calf_3952bfa6",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "squat rack"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "72c7ad36e91d6ad64c13c3c4d3584efeddd9b07b00e14033b9afdb859f08232d"
+    },
+    {
+      "sourceId": "Standing_Front_Barbell_Raise_Over_Head",
+      "sourceName": "Standing Front Barbell Raise Over Head",
+      "status": "imported",
+      "canonicalId": "open_standing_front_barbel_9aba2baf",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "caef5eaebf425d3d96e3501cf4ad25dc82ce9e9aa2764d317122cc84d916f2c4"
+    },
+    {
+      "sourceId": "Standing_Leg_Curl",
+      "sourceName": "Standing Leg Curl",
+      "status": "imported",
+      "canonicalId": "open_standing_leg_curl_cb499e0c",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "machines"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "48bd127978f6929081fe89fe921a0b1e07d6fbed56b4b1dca858a4983e564aa0"
+    }
+  ],
+  "previousActiveRound": {
+    "id": "round-9",
+    "title": "Round 9 · AI-screened videos",
+    "status": "ready-for-review-with-holds",
+    "createdAt": "2026-09-21T19:39:59+00:00",
+    "exerciseIds": [
+      "open_leverage_high_row_c0482620",
+      "ex_leg_press",
+      "ex_skullcrusher",
+      "ex_front_squat",
+      "ex_cable_fly",
+      "ex_pec_deck",
+      "ex_dumbbell_fly",
+      "ex_machine_chest_press",
+      "ex_pullover",
+      "ex_t_bar_row",
+      "ex_straight_arm_pulldown",
+      "ex_romanian_deadlift",
+      "ex_hip_thrust",
+      "ex_calf_raise_seated",
+      "ex_arnold_press",
+      "ex_lateral_raise",
+      "ex_reverse_pec_deck",
+      "ex_cable_lateral_raise",
+      "ex_preacher_curl",
+      "ex_wrist_curl",
+      "ex_reverse_wrist_curl",
+      "ex_cable_crunch",
+      "open_ab_crunch_machine_b8bf3488",
+      "open_barbell_ab_rollout_59a93cd6",
+      "open_barbell_glute_bridge_0e7afdbd",
+      "open_bent_arm_barbell_pull_bd488038",
+      "open_bent_over_two_dumbbel_0c77d209",
+      "open_cable_hip_adduction_deb67de6",
+      "open_cable_internal_rotati_e82490e5",
+      "open_cable_lying_triceps_e_ff29abb1",
+      "open_cable_rear_delt_fly_dc550f7f",
+      "open_cable_rope_overhead_t_cbb7aa38",
+      "open_cable_shoulder_press_7ddeefb0",
+      "open_cable_shrugs_c5ea5dc6",
+      "open_cable_wrist_curl_a1feb456",
+      "open_calf_press_619d1416",
+      "open_clean_5137c876",
+      "open_clean_and_press_7da75b45",
+      "open_decline_dumbbell_benc_7264c18d",
+      "open_decline_dumbbell_flye_14b2de63",
+      "open_decline_smith_press_ab9938f7",
+      "open_dip_machine_74e49ff5",
+      "open_donkey_calf_raises_55a343b9",
+      "open_dumbbell_bench_press_94bb9ae4",
+      "open_dumbbell_clean_45633ce4",
+      "open_dumbbell_incline_row_8f4625d1",
+      "open_dumbbell_lunges_09699238",
+      "open_dumbbell_lying_pronat_95605e7c",
+      "open_dumbbell_rear_lunge_1148a3d4",
+      "open_dumbbell_seated_one_l_4de2b240",
+      "open_dumbbell_shrug_5ed42a42",
+      "open_dumbbell_side_bend_3f401794",
+      "open_dumbbell_squat_ef95231f",
+      "open_dumbbell_step_ups_04b3396f",
+      "open_ez_bar_curl_6570409e",
+      "open_ez_bar_skullcrusher_18e6f719",
+      "open_external_rotation_0d3fb9dd",
+      "open_external_rotation_wit_c64eb9a6",
+      "open_front_cable_raise_55c6e076",
+      "open_good_morning_a5c85ff9",
+      "open_hack_squat_76a66305",
+      "open_hang_clean_1e812852",
+      "open_hang_snatch_5089a95c",
+      "open_incline_dumbbell_flye_f858d67d",
+      "open_inverted_row_1ce9a06f",
+      "open_landmine_180s_8bd8af32",
+      "open_landmine_linear_jamme_3eebe237",
+      "open_leverage_deadlift_ba90f5c3",
+      "open_leverage_decline_ches_adfbca13",
+      "open_leverage_incline_ches_0c70165e",
+      "open_leverage_shrug_33bef3fa",
+      "open_lying_dumbbell_tricep_02bba023",
+      "open_machine_shoulder_mili_71dc7774",
+      "open_machine_triceps_exten_c66a3615",
+      "open_one_arm_high_pulley_c_13c8cfb4",
+      "open_one_legged_cable_kick_20e79891",
+      "open_one_leg_barbell_squat_589d24d2",
+      "open_overhead_squat_2f8e8608",
+      "open_pallof_press_69ae4277",
+      "open_pallof_press_with_rot_04f5a0ff",
+      "open_power_jerk_56e87432",
+      "open_power_snatch_3f9ccaec",
+      "open_pull_through_c80507cd",
+      "open_seated_leg_curl_f6ac64a8",
+      "open_single_arm_linear_jam_b53226fa",
+      "open_smith_machine_bench_p_4ee3a150",
+      "open_smith_machine_bent_ov_01d0d0f3",
+      "open_smith_machine_calf_ra_ccc5bca6",
+      "open_smith_machine_incline_100af028",
+      "open_smith_machine_overhea_f4f4e023",
+      "open_smith_machine_squat_37823d7a",
+      "open_smith_machine_stiff_l_73127ddd",
+      "open_smith_machine_upright_8cdb2f40",
+      "open_smith_single_leg_spli_c8f7e55e",
+      "open_split_jerk_a3d273a6",
+      "open_standing_barbell_calf_3952bfa6",
+      "open_standing_cable_chest__ddb29d76",
+      "open_standing_calf_raises_6f81c277",
+      "open_standing_dumbbell_cal_ed527460",
+      "open_standing_front_barbel_9aba2baf",
+      "open_standing_leg_curl_cb499e0c",
+      "open_standing_overhead_bar_1c42b3f8",
+      "open_stiff_legged_dumbbell_5da667b0",
+      "open_thigh_abductor_05f17f36",
+      "open_thigh_adductor_933feed1",
+      "open_trap_bar_deadlift_c526cf24",
+      "open_upright_barbell_row_5464c784",
+      "open_upright_cable_row_272fd28c",
+      "open_weighted_jump_squat_f4b3559a",
+      "cat_barbell_push_press"
+    ],
+    "originalProductionExerciseIds": [
+      "open_leverage_high_row_c0482620",
+      "ex_leg_press",
+      "ex_skullcrusher",
+      "ex_front_squat",
+      "ex_cable_fly",
+      "ex_pec_deck",
+      "ex_dumbbell_fly",
+      "ex_machine_chest_press",
+      "ex_pullover",
+      "ex_t_bar_row",
+      "ex_straight_arm_pulldown",
+      "ex_romanian_deadlift",
+      "ex_hip_thrust",
+      "ex_calf_raise_seated",
+      "ex_arnold_press",
+      "ex_lateral_raise",
+      "ex_reverse_pec_deck",
+      "ex_cable_lateral_raise",
+      "ex_preacher_curl",
+      "ex_wrist_curl",
+      "ex_reverse_wrist_curl",
+      "ex_cable_crunch",
+      "open_ab_crunch_machine_b8bf3488",
+      "open_barbell_ab_rollout_59a93cd6",
+      "open_barbell_glute_bridge_0e7afdbd",
+      "open_bent_arm_barbell_pull_bd488038",
+      "open_bent_over_two_dumbbel_0c77d209",
+      "open_cable_hip_adduction_deb67de6",
+      "open_cable_internal_rotati_e82490e5",
+      "open_cable_lying_triceps_e_ff29abb1",
+      "open_cable_rear_delt_fly_dc550f7f",
+      "open_cable_rope_overhead_t_cbb7aa38",
+      "open_cable_shoulder_press_7ddeefb0",
+      "open_cable_shrugs_c5ea5dc6",
+      "open_cable_wrist_curl_a1feb456",
+      "open_calf_press_619d1416",
+      "open_clean_5137c876",
+      "open_clean_and_press_7da75b45",
+      "open_decline_dumbbell_benc_7264c18d",
+      "open_decline_dumbbell_flye_14b2de63",
+      "open_decline_smith_press_ab9938f7",
+      "open_dip_machine_74e49ff5",
+      "open_donkey_calf_raises_55a343b9",
+      "open_dumbbell_bench_press_94bb9ae4",
+      "open_dumbbell_clean_45633ce4",
+      "open_dumbbell_incline_row_8f4625d1",
+      "open_dumbbell_lunges_09699238",
+      "open_dumbbell_lying_pronat_95605e7c",
+      "open_dumbbell_rear_lunge_1148a3d4",
+      "open_dumbbell_seated_one_l_4de2b240",
+      "open_dumbbell_shrug_5ed42a42",
+      "open_dumbbell_side_bend_3f401794",
+      "open_dumbbell_squat_ef95231f",
+      "open_dumbbell_step_ups_04b3396f",
+      "open_ez_bar_curl_6570409e",
+      "open_ez_bar_skullcrusher_18e6f719",
+      "open_external_rotation_0d3fb9dd",
+      "open_external_rotation_wit_c64eb9a6",
+      "open_finger_curls_ada5939a",
+      "open_front_cable_raise_55c6e076",
+      "open_good_morning_a5c85ff9",
+      "open_hack_squat_76a66305",
+      "open_hang_clean_1e812852",
+      "open_hang_snatch_5089a95c",
+      "open_incline_dumbbell_flye_f858d67d",
+      "open_inverted_row_1ce9a06f",
+      "open_landmine_180s_8bd8af32",
+      "open_landmine_linear_jamme_3eebe237",
+      "open_leverage_deadlift_ba90f5c3",
+      "open_leverage_decline_ches_adfbca13",
+      "open_leverage_incline_ches_0c70165e",
+      "open_leverage_shrug_33bef3fa",
+      "open_lying_dumbbell_tricep_02bba023",
+      "open_machine_shoulder_mili_71dc7774",
+      "open_machine_triceps_exten_c66a3615",
+      "open_one_arm_high_pulley_c_13c8cfb4",
+      "open_one_legged_cable_kick_20e79891",
+      "open_one_leg_barbell_squat_589d24d2",
+      "open_overhead_squat_2f8e8608",
+      "open_pallof_press_69ae4277",
+      "open_pallof_press_with_rot_04f5a0ff",
+      "open_power_jerk_56e87432",
+      "open_power_snatch_3f9ccaec",
+      "open_pull_through_c80507cd",
+      "open_seated_leg_curl_f6ac64a8",
+      "open_seated_palm_up_barbel_87a8d029",
+      "open_seated_palms_down_bar_c6486466",
+      "open_single_arm_linear_jam_b53226fa",
+      "open_smith_machine_bench_p_4ee3a150",
+      "open_smith_machine_bent_ov_01d0d0f3",
+      "open_smith_machine_calf_ra_ccc5bca6",
+      "open_smith_machine_incline_100af028",
+      "open_smith_machine_overhea_f4f4e023",
+      "open_smith_machine_squat_37823d7a",
+      "open_smith_machine_stiff_l_73127ddd",
+      "open_smith_machine_upright_8cdb2f40",
+      "open_smith_single_leg_spli_c8f7e55e",
+      "open_split_jerk_a3d273a6",
+      "open_standing_barbell_calf_3952bfa6",
+      "open_standing_cable_chest__ddb29d76",
+      "open_standing_calf_raises_6f81c277",
+      "open_standing_dumbbell_cal_ed527460",
+      "open_standing_front_barbel_9aba2baf",
+      "open_standing_leg_curl_cb499e0c",
+      "open_standing_overhead_bar_1c42b3f8",
+      "open_stiff_legged_dumbbell_5da667b0",
+      "open_thigh_abductor_05f17f36",
+      "open_thigh_adductor_933feed1",
+      "open_trap_bar_deadlift_c526cf24",
+      "open_upright_barbell_row_5464c784",
+      "open_upright_cable_row_272fd28c",
+      "open_weighted_jump_squat_f4b3559a",
+      "cat_barbell_push_press"
+    ],
+    "reviewExerciseCount": 110,
+    "budgetPeriodId": "google-flow-2026-09-21",
+    "maxAttemptsPerShot": 7,
+    "attemptLimitAuthorization": "User requested retries of clearly failed videos until AI is satisfied within a fresh10000-credit period. Operational ceiling7 per exercise/shot; retry only after exact-output evidence and a specific correction. Budget remains authoritative.",
+    "phase": "human-review-with-quality-holds",
+    "requiresEditorialPass": true,
+    "reviewQueueNote": "Three explicitly retired forearm exercises removed from this same Round 9. Original production cohort and spending remain historical; surviving human decisions and media are unchanged. New-review readiness follows exact asset versions.",
+    "shotAttemptLimitExceptions": {
+      "r9-ex-calf-raise-seated-start": {
+        "maxAttempts": 8,
+        "authorization": "Operator-scoped source exception under user request to retry clearly failed outputs within10000-credit period. Seven sources failed below-edge foot geometry. One materially different broad flat-platform low endpoint is authorized from batch-13-repairs.json. Same source shot, full history preserved; motion limit remains7. No automatic retry.",
+        "authorizedAt": "2026-09-22T02:36:54+00:00",
+        "proposal": "reports/round-9-preparation/machine-wave7-reviewed/batch-13-repairs.json"
+      },
+      "r9-open-standing-calf-raises-6f81c277-start": {
+        "maxAttempts": 8,
+        "authorization": "Operator-scoped reference exception under user reviewed-retry request and10000-credit cap: one flat-platform source after seven malformed or unsuitable ledge references. SeatedCalf actual flat source demonstrated coherent feet. Same shot/history; pending exact output review before any matching motion. No automatic retry or motion limit change.",
+        "authorizedAt": "2026-09-22T02:45:24+00:00",
+        "proposal": "reports/round-9-preparation/calf-flat-platform-calibration/proposals.json"
+      },
+      "r9-open-donkey-calf-raises-55a343b9-start": {
+        "maxAttempts": 8,
+        "authorization": "Operator-scoped reference exception under user reviewed-retry request and10000-credit cap: one flat-platform source after seven malformed or unsuitable ledge references. SeatedCalf actual flat source demonstrated coherent feet. Same shot/history; pending exact output review before any matching motion. No automatic retry or motion limit change.",
+        "authorizedAt": "2026-09-22T02:45:24+00:00",
+        "proposal": "reports/round-9-preparation/calf-flat-platform-calibration/proposals.json"
+      },
+      "r9-open-calf-press-619d1416-start": {
+        "maxAttempts": 8,
+        "authorization": "Operator-scoped reference exception under user reviewed-retry request and10000-credit cap: one flat-platform source after seven malformed or unsuitable ledge references. SeatedCalf actual flat source demonstrated coherent feet. Same shot/history; pending exact output review before any matching motion. No automatic retry or motion limit change.",
+        "authorizedAt": "2026-09-22T02:45:24+00:00",
+        "proposal": "reports/round-9-preparation/calf-flat-platform-calibration/proposals.json"
+      },
+      "r9-ex-skullcrusher-motion": {
+        "maxAttempts": 8,
+        "authorization": "One operator-scoped eighth motion under user reviewed-retry authorization and10000-credit cap. Transfer a reviewed successful cognate physical source to canonical equipment, then exact review before a previously untried source/model pairing. Skull: straight-bar low reference+Omni8; FlatFly: level-bench bilateral closed reference+Omni6. Prior failures/history remain; no automatic retry.",
+        "authorizedAt": "2026-09-22T02:50:39+00:00",
+        "proposal": "reports/round-9-preparation/successful-cognate-source-transfer/proposals.json",
+        "evidence": "reports/round-9-preparation/held-skull-flat-fly-hypothesis-audit.json"
+      },
+      "r9-ex-dumbbell-fly-motion": {
+        "maxAttempts": 8,
+        "authorization": "One operator-scoped eighth motion under user reviewed-retry authorization and10000-credit cap. Transfer a reviewed successful cognate physical source to canonical equipment, then exact review before a previously untried source/model pairing. Skull: straight-bar low reference+Omni8; FlatFly: level-bench bilateral closed reference+Omni6. Prior failures/history remain; no automatic retry.",
+        "authorizedAt": "2026-09-22T02:50:39+00:00",
+        "proposal": "reports/round-9-preparation/successful-cognate-source-transfer/proposals.json",
+        "evidence": "reports/round-9-preparation/held-skull-flat-fly-hypothesis-audit.json"
+      },
+      "r9-ex-cable-fly-motion": {
+        "maxAttempts": 8,
+        "authorization": "One explicit first Quality8 comparison at livequote<=100 using exact reviewed long-front source; seven prior attempts used Omni/Fast only. Preserves all failures and existing shot; no automatic repeat. Operator choice under user reviewed-retry10000-credit authorization.",
+        "authorizedAt": "2026-09-22T02:58:04+00:00",
+        "proposal": "reports/round-9-preparation/cable-fly-single-quality-comparison/proposals.json"
+      }
+    },
+    "productionOutcome": "partial",
+    "productionStoppedAt": "2026-09-22T03:24:32+00:00",
+    "reviewReadyExerciseIds": [
+      "cat_barbell_push_press",
+      "ex_arnold_press",
+      "ex_cable_crunch",
+      "ex_cable_lateral_raise",
+      "ex_calf_raise_seated",
+      "ex_dumbbell_fly",
+      "ex_front_squat",
+      "ex_hip_thrust",
+      "ex_lateral_raise",
+      "ex_leg_press",
+      "ex_machine_chest_press",
+      "ex_pec_deck",
+      "ex_preacher_curl",
+      "ex_pullover",
+      "ex_reverse_pec_deck",
+      "ex_reverse_wrist_curl",
+      "ex_romanian_deadlift",
+      "ex_skullcrusher",
+      "ex_straight_arm_pulldown",
+      "ex_t_bar_row",
+      "ex_wrist_curl",
+      "open_ab_crunch_machine_b8bf3488",
+      "open_barbell_ab_rollout_59a93cd6",
+      "open_barbell_glute_bridge_0e7afdbd",
+      "open_bent_arm_barbell_pull_bd488038",
+      "open_bent_over_two_dumbbel_0c77d209",
+      "open_cable_hip_adduction_deb67de6",
+      "open_cable_internal_rotati_e82490e5",
+      "open_cable_lying_triceps_e_ff29abb1",
+      "open_cable_rope_overhead_t_cbb7aa38",
+      "open_cable_shoulder_press_7ddeefb0",
+      "open_cable_shrugs_c5ea5dc6",
+      "open_cable_wrist_curl_a1feb456",
+      "open_decline_dumbbell_benc_7264c18d",
+      "open_decline_smith_press_ab9938f7",
+      "open_dip_machine_74e49ff5",
+      "open_dumbbell_bench_press_94bb9ae4",
+      "open_dumbbell_incline_row_8f4625d1",
+      "open_dumbbell_rear_lunge_1148a3d4",
+      "open_dumbbell_seated_one_l_4de2b240",
+      "open_dumbbell_side_bend_3f401794",
+      "open_dumbbell_squat_ef95231f",
+      "open_dumbbell_step_ups_04b3396f",
+      "open_external_rotation_0d3fb9dd",
+      "open_external_rotation_wit_c64eb9a6",
+      "open_ez_bar_curl_6570409e",
+      "open_ez_bar_skullcrusher_18e6f719",
+      "open_front_cable_raise_55c6e076",
+      "open_good_morning_a5c85ff9",
+      "open_hack_squat_76a66305",
+      "open_hang_clean_1e812852",
+      "open_hang_snatch_5089a95c",
+      "open_incline_dumbbell_flye_f858d67d",
+      "open_landmine_linear_jamme_3eebe237",
+      "open_leverage_deadlift_ba90f5c3",
+      "open_leverage_decline_ches_adfbca13",
+      "open_leverage_high_row_c0482620",
+      "open_leverage_incline_ches_0c70165e",
+      "open_leverage_shrug_33bef3fa",
+      "open_lying_dumbbell_tricep_02bba023",
+      "open_machine_shoulder_mili_71dc7774",
+      "open_machine_triceps_exten_c66a3615",
+      "open_one_arm_high_pulley_c_13c8cfb4",
+      "open_one_leg_barbell_squat_589d24d2",
+      "open_one_legged_cable_kick_20e79891",
+      "open_overhead_squat_2f8e8608",
+      "open_pallof_press_69ae4277",
+      "open_pallof_press_with_rot_04f5a0ff",
+      "open_power_jerk_56e87432",
+      "open_pull_through_c80507cd",
+      "open_seated_leg_curl_f6ac64a8",
+      "open_single_arm_linear_jam_b53226fa",
+      "open_smith_machine_bench_p_4ee3a150",
+      "open_smith_machine_bent_ov_01d0d0f3",
+      "open_smith_machine_incline_100af028",
+      "open_smith_machine_overhea_f4f4e023",
+      "open_smith_machine_squat_37823d7a",
+      "open_smith_machine_stiff_l_73127ddd",
+      "open_smith_machine_upright_8cdb2f40",
+      "open_smith_single_leg_spli_c8f7e55e",
+      "open_split_jerk_a3d273a6",
+      "open_standing_barbell_calf_3952bfa6",
+      "open_standing_cable_chest__ddb29d76",
+      "open_standing_calf_raises_6f81c277",
+      "open_standing_front_barbel_9aba2baf",
+      "open_standing_leg_curl_cb499e0c",
+      "open_stiff_legged_dumbbell_5da667b0",
+      "open_thigh_abductor_05f17f36",
+      "open_thigh_adductor_933feed1",
+      "open_trap_bar_deadlift_c526cf24",
+      "open_upright_barbell_row_5464c784",
+      "open_upright_cable_row_272fd28c",
+      "open_weighted_jump_squat_f4b3559a"
+    ],
+    "heldExerciseIds": [
+      "ex_cable_fly",
+      "open_cable_rear_delt_fly_dc550f7f",
+      "open_calf_press_619d1416",
+      "open_clean_5137c876",
+      "open_clean_and_press_7da75b45",
+      "open_decline_dumbbell_flye_14b2de63",
+      "open_donkey_calf_raises_55a343b9",
+      "open_dumbbell_clean_45633ce4",
+      "open_dumbbell_lunges_09699238",
+      "open_dumbbell_lying_pronat_95605e7c",
+      "open_dumbbell_shrug_5ed42a42",
+      "open_inverted_row_1ce9a06f",
+      "open_landmine_180s_8bd8af32",
+      "open_power_snatch_3f9ccaec",
+      "open_smith_machine_calf_ra_ccc5bca6",
+      "open_standing_dumbbell_cal_ed527460",
+      "open_standing_overhead_bar_1c42b3f8"
+    ],
+    "productionSummary": {
+      "targetExercises": 110,
+      "aiCandidateExercises": 93,
+      "aiCandidateAssets": 98,
+      "motionQualityHolds": 14,
+      "sourceQualityHolds": 2,
+      "providerHolds": 1,
+      "spentCredits": 5340,
+      "remainingCredits": 4660,
+      "report": "form-media/round-9-report.md"
+    },
+    "removedFromReviewExerciseIds": [
+      "open_finger_curls_ada5939a",
+      "open_seated_palm_up_barbel_87a8d029",
+      "open_seated_palms_down_bar_c6486466"
+    ],
+    "reviewQueueUpdatedAt": "2026-09-22T22:20:48+00:00",
+    "originalProductionSummary": {
+      "targetExercises": 113,
+      "aiCandidateExercises": 95,
+      "aiCandidateAssets": 100,
+      "motionQualityHolds": 15,
+      "sourceQualityHolds": 2,
+      "providerHolds": 1,
+      "spentCredits": 5340,
+      "remainingCredits": 4660,
+      "report": "form-media/round-9-report.md"
+    }
+  },
+  "assetIds": [
+    "r6-ex-reverse-wrist-curl-start-2f3cb58e",
+    "r6-ex-reverse-wrist-curl-start-23431289",
+    "r6-ex-reverse-wrist-curl-motion-7470001f",
+    "r8-ex-reverse-wrist-curl-start-564fd657",
+    "r8-ex-reverse-wrist-curl-motion-e2a447d6",
+    "r8-open-cable-internal-rotati-e82490e5-motion-485bda47",
+    "r8-open-dumbbell-seated-one-l-4de2b240-motion-26635d26",
+    "r8-open-landmine-linear-jamme-3eebe237-motion-9e3ea166",
+    "r8-open-leverage-deadlift-ba90f5c3-motion-410e13bf",
+    "r8-open-leverage-decline-ches-adfbca13-motion-323d6ab1",
+    "r8-open-leverage-high-row-c0482620-motion-91d4c1e0",
+    "r8-open-leverage-shrug-33bef3fa-motion-626786a3",
+    "r8-open-lying-dumbbell-tricep-02bba023-motion-307f9f55",
+    "r8-open-one-arm-high-pulley-c-13c8cfb4-motion-497d86fb",
+    "r8-open-pallof-press-69ae4277-motion-823e8acd",
+    "r8-open-pallof-press-with-rot-04f5a0ff-motion-cb8c8ea1",
+    "r9-open-leverage-high-row-c0482620-motion-071572ad",
+    "r9-open-leverage-high-row-c0482620-start-4acb2e4d",
+    "r9-open-leverage-high-row-c0482620-start-08af7f11",
+    "r9-open-leverage-high-row-c0482620-motion-82949e20",
+    "r9-open-leverage-high-row-c0482620-motion-ec56f86e",
+    "r9-ex-reverse-wrist-curl-motion-11b7edee",
+    "r9-open-leverage-high-row-c0482620-start-666e8d3e",
+    "r9-open-standing-front-barbel-9aba2baf-start-b92f7d80",
+    "r9-open-leverage-high-row-c0482620-motion-f8c21bdb",
+    "r9-open-lying-dumbbell-tricep-02bba023-start-e7225bb1",
+    "r9-open-dumbbell-seated-one-l-4de2b240-start-94a1de0e",
+    "r9-leverage-high-row-single-cycle-trim",
+    "r9-open-standing-barbell-calf-3952bfa6-start-c43cd425",
+    "r9-open-dumbbell-seated-one-l-4de2b240-motion-23266d2b",
+    "r9-open-cable-internal-rotati-e82490e5-start-0cc95660",
+    "r9-open-one-arm-high-pulley-c-13c8cfb4-start-aeaceb59",
+    "r9-open-leverage-deadlift-ba90f5c3-start-453f7778",
+    "r9-open-pallof-press-69ae4277-start-acb93627",
+    "r9-open-pallof-press-with-rot-04f5a0ff-start-93f6e1ba",
+    "r9-ex-reverse-wrist-curl-start-5f382ade",
+    "r9-open-external-rotation-0d3fb9dd-start-037dee02",
+    "r9-open-landmine-linear-jamme-3eebe237-start-0a7cd6ce",
+    "r9-open-pallof-press-with-rot-04f5a0ff-start-79fcb629",
+    "r9-open-one-arm-high-pulley-c-13c8cfb4-start-0a3d6564",
+    "r9-ex-reverse-wrist-curl-motion-6d68687f",
+    "r9-open-cable-internal-rotati-e82490e5-motion-7806c716",
+    "r9-open-dumbbell-seated-one-l-4de2b240-motion-5b7d4054",
+    "r9-open-external-rotation-0d3fb9dd-motion-26ba02a4",
+    "r9-open-leverage-deadlift-ba90f5c3-motion-e2efc4c1",
+    "r9-open-landmine-linear-jamme-3eebe237-motion-7372cef7",
+    "r9-open-pallof-press-69ae4277-motion-52207e14",
+    "r9-open-standing-leg-curl-cb499e0c-start-c999dbc2",
+    "r9-open-leverage-shrug-33bef3fa-start-b2a1349a",
+    "r9-open-leverage-decline-ches-adfbca13-start-53b2008e",
+    "r9-open-dumbbell-seated-one-l-4de2b240-start-3872d177",
+    "r9-ex-reverse-wrist-curl-start-3246a1b0",
+    "r9-open-leverage-decline-ches-adfbca13-start-f3d387b9",
+    "r9-open-dumbbell-seated-one-l-4de2b240-start-55230602",
+    "r9-open-one-arm-high-pulley-c-13c8cfb4-start-fb6f360b",
+    "r9-open-leverage-decline-ches-adfbca13-start-5719df1b",
+    "r9-open-leverage-decline-ches-adfbca13-motion-a75e4846",
+    "r9-open-leverage-shrug-33bef3fa-motion-bc7370f6",
+    "r9-open-standing-leg-curl-cb499e0c-motion-123c36dd",
+    "r9-standing-leg-curl-complete-cycle",
+    "r9-open-standing-front-barbel-9aba2baf-motion-ec285851",
+    "r9-open-external-rotation-0d3fb9dd-motion-7c294315",
+    "r9-open-one-arm-high-pulley-c-13c8cfb4-motion-1949c78c",
+    "r9-side-lying-external-rotation-single-cycle-trim-v1",
+    "r9-open-landmine-linear-jamme-3eebe237-motion-721561d1",
+    "r9-open-leverage-deadlift-ba90f5c3-motion-46f20137",
+    "r9-open-leverage-shrug-33bef3fa-motion-40cf3968",
+    "r9-open-pallof-press-69ae4277-motion-a56b3af5",
+    "r9-landmine-linear-jammer-cycle-721561d1",
+    "r9-pallof-press-complete-cycle",
+    "r9-open-leverage-decline-ches-adfbca13-motion-b2cc6e4e",
+    "r9-open-pallof-press-with-rot-04f5a0ff-motion-2a94bd82",
+    "r9-open-standing-front-barbel-9aba2baf-motion-0758380e",
+    "r9-open-standing-barbell-calf-3952bfa6-motion-7036949b",
+    "r9-ex-reverse-wrist-curl-motion-382e1341",
+    "r9-open-cable-internal-rotati-e82490e5-motion-f29a3b1f",
+    "r9-open-lying-dumbbell-tricep-02bba023-motion-9739caaa",
+    "r9-open-leverage-shrug-33bef3fa-motion-c915a7c3",
+    "r9-open-dumbbell-seated-one-l-4de2b240-motion-5c77004c",
+    "r9-open-standing-front-barbel-9aba2baf-start-6ab1d4f3",
+    "r9-open-standing-barbell-calf-3952bfa6-start-5f2e72d4",
+    "r9-open-cable-internal-rotati-e82490e5-start-f70b18ef",
+    "r9-open-leverage-shrug-33bef3fa-start-0a5c07b3",
+    "r9-open-leverage-shrug-33bef3fa-start-486391ac",
+    "r9-open-leverage-decline-ches-adfbca13-start-ecb22081",
+    "r9-open-leverage-shrug-33bef3fa-start-d7ea2a6a",
+    "r9-open-leverage-decline-ches-adfbca13-start-cc79dc60",
+    "r9-open-leverage-decline-ches-adfbca13-motion-b62521ac",
+    "r9-open-standing-front-barbel-9aba2baf-motion-8f07e05d",
+    "r9-open-standing-barbell-calf-3952bfa6-motion-12fdf5f4",
+    "r9-open-cable-internal-rotati-e82490e5-motion-f6af2a90",
+    "r9-open-leverage-shrug-33bef3fa-motion-8e91ddac",
+    "r9-open-standing-front-barbel-9aba2baf-motion-2123ca0d",
+    "r9-open-standing-front-barbel-9aba2baf-start-e99894c7",
+    "r9-open-leverage-shrug-33bef3fa-start-396f6600",
+    "r9-open-standing-front-barbel-9aba2baf-start-35ff8d6f",
+    "r9-open-leverage-shrug-33bef3fa-start-e37a4b1f",
+    "r9-open-leverage-decline-ches-adfbca13-start-511142cc",
+    "r9-open-leverage-decline-ches-adfbca13-motion-59034a41",
+    "r9-open-leverage-shrug-33bef3fa-motion-4a249f74",
+    "r9-open-standing-front-barbel-9aba2baf-motion-fd3cfd5d",
+    "r9-open-leverage-shrug-33bef3fa-motion-c42d135a",
+    "r9-open-leverage-shrug-33bef3fa-motion-20853ee9",
+    "r9-open-standing-barbell-calf-3952bfa6-start-3ebf7d4c",
+    "r9-leverage-shrug-complete-cycle",
+    "r9-open-standing-barbell-calf-3952bfa6-motion-0e98bf10",
+    "r9-barbell-calf-ankle-detail-single-cycle-trim-v1"
+  ],
+  "ledgerSha256": "856ebaed2299af7d7268939513c31977ae4d7979aca1417738b57e8d54bf1e30",
+  "policy": "Local catalog/snapshot change only; no cloud publication or physical deletion of historical media, review and generation records."
+}

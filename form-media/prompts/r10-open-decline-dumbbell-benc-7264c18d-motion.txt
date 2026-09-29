@@ -1,0 +1,8 @@
+Animate the exact supplied Anatomical 3D starting frame for Decline Dumbbell Bench Press. Show exactly ONE complete repetition in 6 seconds.
+Start: Lie on the exact decline bench with feet secured and both dumbbells beside the lower chest, elbows bent.
+Outward phase: Press both dumbbells in one smooth rising path above the lower chest until the elbows are nearly straight.
+Return phase: Lower both dumbbells in one smooth path until the elbows and weights return exactly to the initial lower-chest position.
+Approximate timing: 0–0.5s initial still; 0.5–2.6s outward action; 2.6–3.2s full endpoint still; 3.2–5.5s complete return; 5.5–6s final still.
+The head, back, hips and legs stay supported by the decline bench. Both rigid dumbbell shafts stay side-to-side, perpendicular to the body’s long axis, with no wrist twist or fly arc.
+The active joint angles move continuously in only one direction during the outward phase, stop briefly only at the full endpoint, then move continuously back to the exact starting positions. No bouncy, springy, twitching, partial, or repeated movement.
+Preserve the same sculpted silver-gray anatomical mannequin, charcoal shorts, fixed camera and rigid equipment. Keep a bright orange glow confined to the chest for the whole clip including both final frames. Show all relevant joints, weight and equipment contacts at both endpoints. Clean plain studio, silent, continuous shot, no text, arrows, cuts, camera motion, or extra weights.

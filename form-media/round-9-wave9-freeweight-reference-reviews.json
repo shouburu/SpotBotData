@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "attemptId": "attempt_3ebf7d4c407d4762",
+      "shot": "r9-open-standing-barbell-calf-3952bfa6-start",
+      "exerciseId": "open_standing_barbell_calf_3952bfa6",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-barbell-calf-3952bfa6-start/attempt_3ebf7d4c407d4762.jpg",
+      "outputSha256": "cce8fe4da2743dbed990613d05b44af1e2bec9cb04d5bedb61ae9c03bcc951d2",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:12:05+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The new close reference visibly includes both knees, substantial thigh above them, both calf bellies, and both entire feet down to the floor. It does not crop away the knee joints.",
+        "Both feet have flat heel-and-forefoot floor contact; no block or plate appears. Knees are long with a small relaxed softness rather than a crouch.",
+        "Orange is localized to posterior calf muscle bellies. The rear-oblique view makes heel separation from the floor readable while preserving knee-angle evidence."
+      ],
+      "limitations": [
+        "AI exact-source readiness only; not human acceptance, trainer review, or proof that generated motion will keep the knees steady.",
+        "This is a lower-body mechanics detail; the barbell, upper-body support and unrack are outside the frame and must not be claimed as shown.",
+        "The distant foot is partly overlapped in projection by the near leg, but its heel, forefoot and floor contact remain readable."
+      ],
+      "notes": "Ready for the explicitly authorized single Omni6 flat–high–flat trial from this exact source. Reject actual knee dipping rather than concealing it with further crop.",
+      "inspection": {
+        "method": "Exact full-resolution master visually inspected against requested low pose and catalog block-optional instructions.",
+        "artifacts": [
+          "form-media/assets/masters/r9-open-standing-barbell-calf-3952bfa6-start/attempt_3ebf7d4c407d4762.jpg"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+Create one high-quality instructional starting-frame image of Barbell Squat. Polished instructional3D render. One adult gender-neutral mannequin with realistic ordinary athletic proportions, smooth featureless face, matte porcelain light-gray surface, charcoal fitted sleeveless top and shorts. Soft studio lighting, pale warm-gray seamless background, grounded natural shadows. Physically plausible matte charcoal equipment.
+
+The supplied image is a reference for the rendering look, clothing, material and ordinary body proportions ONLY. Completely replace its exercise, pose, equipment and camera with the exercise described here. Do not import the reference bench or bar into another exercise. 
+
+START POSE: Begin standing with the bar securely across the upper back after setup, with rack safeties already positioned.
+CAMERA AND FRAMING: Nearly side-on, with a small front offset to separate both knees and foot contacts. Around hip height with minimal perspective distortion. Fit the whole head-to-foot body and bar through the complete squat, close to the frame edges with a small safety margin. Include only the immediately relevant rack uprights/safeties. Keep visible: Upper-back bar placement, Hip and knee paths, Whole-foot floor contact, Full comfortable bottom and standing return, Rack clearance. The body should fill most of the portrait height; use no wide gym establishing shot.
+
+No generated text, labels, arrows, body markers, muscle colors, skeletons, split screens or decorative objects. Stable believable anatomy and equipment. No extra limbs, fused hands, detached apparatus or impossible contacts. Keep the chosen pose clear enough for a phone.

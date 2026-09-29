@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="768" viewBox="0 0 1376 768" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Bench Press — schematic muscle emphasis and joint guides</title>
+  <desc id="description">A transparent overlay traced for the 1376 by 768 overhead bench-press still, with the lifter's head at the bottom. Orange indicates the chest as the primary catalog muscle group. Blue indicates visible shoulder regions as a supporting group. Triceps are also a catalog supporting group, but are not masked because this view does not show them reliably. White lines connect visible shoulder, elbow and wrist positions. Regions are schematic emphasis, not anatomical segmentation, measured activation or prescribed joint angles.</desc>
+  <!-- Asset-specific geometry. Do not reuse over another pose, crop, or aspect. -->
+  <!-- Primary muscle: chest, projected over the garment; keep the bar unobscured. -->
+  <g id="primary-chest" fill="#F58A38" fill-opacity="0.38" stroke="#FFA15B" stroke-opacity="0.72" stroke-width="2" stroke-linejoin="round">
+    <path id="chest-image-left" d="M616 431 C637 425 661 428 682 437 L682 479 C661 485 643 493 623 501 C613 481 611 455 616 431Z"/>
+    <path id="chest-image-right" d="M760 431 C739 425 715 428 694 437 L694 479 C715 485 733 493 753 501 C763 481 765 455 760 431Z"/>
+  </g>
+  <!-- Supporting muscle: visible shoulder caps. Hidden triceps intentionally omitted. -->
+  <g id="supporting-shoulders" fill="#61A7ED" fill-opacity="0.34" stroke="#9BC9F5" stroke-opacity="0.76" stroke-width="2" stroke-linejoin="round">
+    <path id="shoulder-image-left" d="M579 471 C594 472 607 486 610 502 L613 524 C593 525 573 516 558 503 C557 489 566 477 579 471Z"/>
+    <path id="shoulder-image-right" d="M797 471 C782 472 769 486 766 502 L763 524 C783 525 803 516 818 503 C819 489 810 477 797 471Z"/>
+  </g>
+  <!-- Editable screen-space joint guides. These depict the generated pose, not a target angle. -->
+  <g id="joint-guides" stroke="#FFFFFF" stroke-opacity="0.85" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path id="arm-guide-image-left" d="M599 497 L494 454 L501 427"/>
+    <path id="arm-guide-image-right" d="M777 497 L882 454 L875 427"/>
+    <g id="joint-markers" fill="#354A57" fill-opacity="0.64" stroke-width="2.5">
+      <circle id="shoulder-point-image-left" cx="599" cy="497" r="6"/>
+      <circle id="elbow-point-image-left" cx="494" cy="454" r="6"/>
+      <circle id="wrist-point-image-left" cx="501" cy="427" r="6"/>
+      <circle id="shoulder-point-image-right" cx="777" cy="497" r="6"/>
+      <circle id="elbow-point-image-right" cx="882" cy="454" r="6"/>
+      <circle id="wrist-point-image-right" cx="875" cy="427" r="6"/>
+    </g>
+  </g>
+</svg>

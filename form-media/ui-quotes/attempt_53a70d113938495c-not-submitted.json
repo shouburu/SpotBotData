@@ -1,0 +1,10 @@
+{
+  "attemptId": "attempt_53a70d113938495c",
+  "exerciseId": "ex_cable_lateral_raise",
+  "shot": "r6-ex-cable-lateral-raise-start",
+  "providerSubmissionReached": false,
+  "reason": "ensure_editor redirected to /about before apply_image_settings, attach_references, send_prompt and submit_images_and_observe. Installed migrated_composer.py lines2498-2520 inspected.",
+  "stdoutSha256": "b0d7c9638edb45d574c8bf98f0829093d6bb0ce5a0774c4f533fa74363690210",
+  "stderrSha256": "9f4a0af2da9a1f7b6fb64dfa5bf30363c811caa87bd4af7cebb3042175e69917",
+  "balanceEvidence": "form-media/ui-quotes/group_6e1e5cf497d54fa5-manual-after.json"
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-reverse-wrist-curl-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-wrist-curl-start-00d6908f.json"
+    },
+    {
+      "shot": "r9-open-barbell-ab-rollout-59a93cd6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-ab-rollout-59a93cd6-start-41c11c63.json"
+    },
+    {
+      "shot": "r9-open-finger-curls-ada5939a-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-finger-curls-ada5939a-start-85493555.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-clean-45633ce4-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-clean-45633ce4-start-afa662a1.json"
+    }
+  ]
+}

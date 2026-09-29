@@ -1,0 +1,1070 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "shot": "r2-deadbug-studio-start",
+      "outputPath": "form-media/assets/masters/r2-deadbug-studio-start/attempt_2275043e08df41a8.jpg",
+      "outputSha256": "b7ca9453b59f3c722237869895c94b2f62bf921594156a06626347b074565cde",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:04:00.917186+00:00",
+      "evidence": [
+        "Actual1376×768 master viewed: head rests on mat, arms reach upward, hips and knees form a recognizable tabletop setup.",
+        "Near and far arms, knees and feet are distinguishable; no stick-figure simplification or misleading markers.",
+        "Head is close to the right boundary and the raised arms are long relative to the remaining horizontal space. The prescribed straight-arm reach behind the head is likely to leave this fixed frame.",
+        "The current crop emphasizes the starting tabletop posture rather than preserving the complete fingertip-to-toe extension path."
+      ],
+      "limitations": [
+        "Endpoint clipping is an inference from the visible anatomy and camera geometry in the still, not an observed generated-motion failure.",
+        "A still cannot verify contralateral limb pairing, controlled return, trunk stability through motion or repetition counting.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Pose is usable, but reject this output as the fixed-camera motion seed. Widen the field of view / reduce figure scale until both full opposite-arm and leg extension endpoints have visible margin, then preserve that framing for motion. The supplied Dead Bug Short had the same endpoint-cropping weakness."
+    },
+    {
+      "shot": "r2-deadbug-warm-start",
+      "outputPath": "form-media/assets/masters/r2-deadbug-warm-start/attempt_73a3bb431a354711.jpg",
+      "outputSha256": "4a854ff2aae7573e1063b83c8151af53150a1c9e8c747225ceff96aaa3a403b2",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:04:00.917515+00:00",
+      "evidence": [
+        "Actual1376×768 master viewed: head rests on mat, arms reach upward, hips and knees form a recognizable tabletop setup.",
+        "Near and far arms, knees and feet are distinguishable; no stick-figure simplification or misleading markers.",
+        "Head is close to the right boundary and the raised arms are long relative to the remaining horizontal space. The prescribed straight-arm reach behind the head is likely to leave this fixed frame.",
+        "The current crop emphasizes the starting tabletop posture rather than preserving the complete fingertip-to-toe extension path."
+      ],
+      "limitations": [
+        "Endpoint clipping is an inference from the visible anatomy and camera geometry in the still, not an observed generated-motion failure.",
+        "A still cannot verify contralateral limb pairing, controlled return, trunk stability through motion or repetition counting.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Pose is usable, but reject this output as the fixed-camera motion seed. Widen the field of view / reduce figure scale until both full opposite-arm and leg extension endpoints have visible margin, then preserve that framing for motion. The supplied Dead Bug Short had the same endpoint-cropping weakness."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-deadbug-illustrated-start/attempt_fdff76fc066f455c.jpg",
+      "outputSha256": "0bded1df46e26c5f6ac5f103b4a403c44c36571eaeeafeff9ea97d0ad9110f4d",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:05:20.909315+00:00",
+      "evidence": [
+        "Actual master viewed: clear volumetric figure in supine tabletop, with head and upper body supported on the mat.",
+        "Both hands, arms, bent knees and shoes are distinguishable; elbows and knees form plausible starting positions.",
+        "The more diagonal elevated camera and smaller figure leave more endpoint space than the studio and warm candidates.",
+        "A full near-arm reach behind the head appears close to the lower-right boundary; the still does not establish a comfortable safety margin for that endpoint."
+      ],
+      "limitations": [
+        "The potential endpoint constraint is inferred from the still, not observed in motion.",
+        "Contralateral pairing and stable return to tabletop remain unverified until an animation is reviewed.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Starting pose and anatomical readability are suitable. Resolve the tight projected arm endpoint with a slightly wider fixed frame before motion, or explicitly inspect a full-extension endpoint before accepting this composition. No limb or equipment defect was observed."
+    },
+    {
+      "shot": "r2-calf-raise-warm-start",
+      "outputPath": "form-media/assets/masters/r2-calf-raise-warm-start/attempt_cf7146bca7cf43e6.jpg",
+      "outputSha256": "e6240862042c64eafd1f23b21763696e1ceebebbccb5de8090c1a530d5636889",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:07:30.994249+00:00",
+      "evidence": [
+        "Actual portrait master viewed: both heels are down on a level surface and both complete feet are in frame.",
+        "Both calves, ankles and knees have coherent volume and clearly separated silhouettes in a rear-side three-quarter view.",
+        "Feet point in a consistent direction with a modest standing separation; no obvious inward/outward ankle collapse or impossible floor contact.",
+        "The intentional lower-body crop preserves the calf-raise action area and leaves room for heel elevation. No distracting markers, text or apparatus."
+      ],
+      "limitations": [
+        "The crop does not establish full-body balance or an upright trunk; accompanying Form text retains that instruction.",
+        "The far toes are partly occluded by perspective; every toe cannot be individually counted in the still.",
+        "Motion must still show controlled rise and return, forefoot contact, consistent ankle alignment and no foot sliding.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Suitable starting frame for a controlled bilateral calf-raise animation. Keep both forefeet anchored while the heels rise and lower slowly; preserve the visible knee and ankle alignment."
+    },
+    {
+      "shot": "r2-calf-raise-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-calf-raise-illustrated-start/attempt_51e4e45f5b6f4a95.jpg",
+      "outputSha256": "9dbdd0288cdc85a837338e42177ccf6c96da09d0d659549d77afb18e35add511",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:07:30.994735+00:00",
+      "evidence": [
+        "Actual portrait master viewed: both heels are down on a level surface and both complete feet are in frame.",
+        "Both calves, ankles and knees have coherent volume and clearly separated silhouettes in a rear-side three-quarter view.",
+        "Feet point in a consistent direction with a modest standing separation; no obvious inward/outward ankle collapse or impossible floor contact.",
+        "The intentional lower-body crop preserves the calf-raise action area and leaves room for heel elevation. No distracting markers, text or apparatus."
+      ],
+      "limitations": [
+        "The crop does not establish full-body balance or an upright trunk; accompanying Form text retains that instruction.",
+        "The far toes are partly occluded by perspective; every toe cannot be individually counted in the still.",
+        "Motion must still show controlled rise and return, forefoot contact, consistent ankle alignment and no foot sliding.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Suitable starting frame for a controlled bilateral calf-raise animation. Keep the forefeet anchored and heel elevation clear. The illustrated version includes more of the hips/lower torso than the requested mid-thigh crop, but its lower-leg action remains readable."
+    },
+    {
+      "shot": "r2-ankle-pump-warm-start",
+      "outputPath": "form-media/assets/masters/r2-ankle-pump-warm-start/attempt_9984b63909ed4074.jpg",
+      "outputSha256": "a6d81951085a6d9a089aeaccfe16f5b71a0de9df4b198d52930e7281fadb6209",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:08:32.894633+00:00",
+      "evidence": [
+        "Actual master viewed: pelvis is on the floor, the working leg extends forward, and the opposite leg is bent beside it. No chair or raised bench.",
+        "The working heel visibly contacts the floor and the ankle/toes form a readable raised-forefoot starting position.",
+        "The intended hip-to-foot detail crop retains the pelvis, knee, ankle, heel and complete toes.",
+        "The working toes are only about 60 pixels from the right boundary of a 1376-pixel image. Pointing the foot away from the shin needs additional horizontal room."
+      ],
+      "limitations": [
+        "Exact plantarflexion range cannot be inferred from the still; only a modest range may fit the current right margin.",
+        "Heel support through motion and a complete point-and-return cycle remain unverified.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Starting anatomy and floor setup are suitable. Add space beyond the foot or explicitly verify the intended fully pointed endpoint before paying for fixed-camera motion. Avoid substituting a tiny toe wiggle for a readable ankle point-and-return."
+    },
+    {
+      "shot": "r2-ankle-pump-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-ankle-pump-illustrated-start/attempt_ee1c5e0f806c4b34.jpg",
+      "outputSha256": "b544e14fa37967fee624712d032f0b0a95638cff3295abfda92e9a7b0948d75f",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:10:53.412363+00:00",
+      "evidence": [
+        "Actual master viewed: pelvis is seated directly on the floor, one leg reaches forward and the other bends beside it.",
+        "Working heel visibly rests on the floor; knee, ankle and complete foot remain readable in the intentional detail crop.",
+        "The working foot has visible margin toward the left side, giving the ankle more room to point than the warm candidate.",
+        "Solid anatomical volume and restrained outlines preserve the foot shape without stick figures or unverified markers."
+      ],
+      "limitations": [
+        "The screen direction is reversed from the prompt: the working leg points left. This does not change the canonical exercise, but motion directions must follow this image.",
+        "A still cannot verify heel support, absence of foot sliding or a complete point-and-return cycle through motion.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Suitable as the ankle-pump motion seed. Keep heel support and the seated pelvis fixed while the working ankle points and returns; retain room on the left for the complete foot."
+    },
+    {
+      "shot": "r2-treadmill-walk-studio-start",
+      "outputPath": "form-media/assets/masters/r2-treadmill-walk-studio-start/attempt_a262cf332c4e476a.jpg",
+      "outputSha256": "758387cc558fa64d519d7cfc8f03a0e75441991d3d177316faa4dbced63eddc1",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:10:53.412715+00:00",
+      "evidence": [
+        "Actual portrait master viewed: complete adult figure with upright trunk, level head, relaxed shoulders and both shoes visible above the belt.",
+        "A clip is visibly attached at the shirt hem, with a thin cord leading toward the console.",
+        "Front foot is in a plausible heel-contact phase; the rear foot is in a plausible trailing forefoot-contact phase.",
+        "Hands are visibly free of the rails. The console and rail do not obscure the trunk or the working leg silhouettes."
+      ],
+      "limitations": [
+        "A still cannot verify belt direction/speed, alternating gait, arm swing, clip behavior or safe stopping before dismount.",
+        "A portion of the far hand is behind the console/rail; its continuity should be checked in the motion output.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Suitable starting frame for an easy treadmill walking loop. Keep the torso location stable over the moving belt, show alternating grounded steps without foot sliding, and retain the safety clip. Starting and stopping instructions remain in Form text."
+    },
+    {
+      "shot": "r2-outdoor-walk-warm-start",
+      "outputPath": "form-media/assets/masters/r2-outdoor-walk-warm-start/attempt_708e039ee9dc4437.jpg",
+      "outputSha256": "3a46b60068a79cb0c65f11cab18669b79849dcd6b6c89d90864500480bf3bfd4",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:11:37.547245+00:00",
+      "evidence": [
+        "Actual portrait master viewed: complete adult figure with upright head and trunk, relaxed shoulders and both feet visible.",
+        "Leading foot is flat on the path and the trailing heel is raised with toe contact; grounded shadows support a readable walking stance.",
+        "The clear minimal path contains no treadmill or unrelated apparatus. Both arms and hands are present with coherent anatomy.",
+        "The close three-quarter framing preserves the body and current stride without generated markers or text."
+      ],
+      "limitations": [
+        "The legs partly overlap in this camera view. Motion must preserve distinct leg paths and avoid a crossing catwalk stride or fused legs.",
+        "Forward travel must remain small enough to keep head and feet inside the existing portrait frame.",
+        "The figure is barefoot; this is a style choice in the candidate, not a footwear recommendation.",
+        "A still cannot verify a steady walking rhythm or alternating foot contacts. AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Suitable starting frame for a few easy steps along the path. Preserve grounded alternating foot contacts, relaxed arms and clear limb separation. Keep the complete body in frame throughout the approach."
+    },
+    {
+      "shot": "r2-deadbug-studio-start",
+      "outputPath": "form-media/assets/masters/r2-deadbug-studio-start/attempt_97616db7b7d44985.jpg",
+      "outputSha256": "1c0d7e51089fafb79ef1a04f73b02c25e673e7e8a9459862f6ada46d3bcfa679",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:47:03.338072+00:00",
+      "evidence": [
+        "Actual corrected portrait master viewed: head is supported and both arms are separately visible reaching upward.",
+        "Both knees are bent, but the thighs angle forward along the mat rather than rising upright above the hips.",
+        "Both shins descend toward feet that appear on or very close to the mat. The image reads as a bent-knee supine setup rather than suspended tabletop.",
+        "The wider portrait addresses some of the prior horizontal crowding, but does not preserve the required starting-leg geometry."
+      ],
+      "limitations": [
+        "The exact contact gap beneath each foot cannot be measured from this single rendered view. The visible pose still does not communicate feet-up tabletop clearly.",
+        "Full extension, contralateral pairing and return remain unverified.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Do not animate this starting pose. Require both thighs upright above the hips, knees bent about 90 degrees, shins parallel to the floor and both feet visibly suspended with a clear air gap. Preserve the head support and wider full-reach framing."
+    },
+    {
+      "shot": "r2-deadbug-warm-start",
+      "outputPath": "form-media/assets/masters/r2-deadbug-warm-start/attempt_d240cba3888549d0.jpg",
+      "outputSha256": "4f951fdcdd52db954f330400bd51cb1f20fc50e934fda0fea584f47afb94aae9",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:48:57.449788+00:00",
+      "evidence": [
+        "Actual corrected portrait master viewed: both arms and legs are visible and the figure lies on a mat.",
+        "The legs read as bent-knee feet-down support rather than suspended tabletop: knees remain forward of the pelvis and shins descend toward feet near the mat.",
+        "The requested upright thighs, knees above hips and parallel elevated shins are not communicated clearly.",
+        "The portrait composition changed the originally correct leg pose while trying to reserve the extension path."
+      ],
+      "limitations": [
+        "This elevated camera reduces depth cues, so exact foot-to-mat distance cannot be measured from the still.",
+        "The starting posture must be unambiguous before motion; contralateral extension and return remain unverified.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Reject as a motion seed. Use the original correct tabletop image for this style as the sole pose reference and preserve its limb geometry. Reframe/widen that known pose instead of using an incorrect portrait as a composition reference. Original illustrated tabletop has the clearest limb separation if a common pose anchor is needed."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-deadbug-illustrated-start/attempt_987a7b52b0bc4e21.jpg",
+      "outputSha256": "8ff2963310e155bb4685087097e813c90c97a7f3aa1d1d1a8f31e40d88476a6d",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:48:57.450208+00:00",
+      "evidence": [
+        "Actual corrected portrait master viewed: both arms and legs are visible and the figure lies on a mat.",
+        "The legs read as bent-knee feet-down support rather than suspended tabletop: knees remain forward of the pelvis and shins descend toward feet near the mat.",
+        "The requested upright thighs, knees above hips and parallel elevated shins are not communicated clearly.",
+        "The portrait composition changed the originally correct leg pose while trying to reserve the extension path."
+      ],
+      "limitations": [
+        "This elevated camera reduces depth cues, so exact foot-to-mat distance cannot be measured from the still.",
+        "The starting posture must be unambiguous before motion; contralateral extension and return remain unverified.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Reject as a motion seed. Use the original correct tabletop image for this style as the sole pose reference and preserve its limb geometry. Reframe/widen that known pose instead of using an incorrect portrait as a composition reference. Original illustrated tabletop has the clearest limb separation if a common pose anchor is needed."
+    },
+    {
+      "shot": "r2-ankle-pump-warm-start",
+      "outputPath": "form-media/assets/masters/r2-ankle-pump-warm-start/attempt_08310dad0fd0419d.jpg",
+      "outputSha256": "659bcbf31c0956c6bd896de56158e547fd8fd0b90a6fe794cd2fbe460f96a755",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:49:48.122634+00:00",
+      "evidence": [
+        "Actual corrected master viewed: pelvis remains on the floor, working leg extends forward and the heel is visibly supported.",
+        "The working foot now faces left with usable forward-pointing clearance; knee, ankle and toes are clearly visible.",
+        "A large cable/weight-stack machine has appeared immediately behind the figure, despite this being an equipment-free floor mobility exercise.",
+        "The added apparatus creates an unnecessary equipment implication and breaks the plain-background reference composition."
+      ],
+      "limitations": [
+        "The pose itself is suitable for a point-and-return demonstration; this rejection concerns the misleading added apparatus.",
+        "A still cannot verify heel support and complete point-and-return through motion.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Do not animate this output. Preserve the original illustrated ankle-pump master as the sole pose/composition reference, including its empty background; change only material/clothing to the warm ceramic style. Keep the corrected foot clearance and floor-supported heel."
+    },
+    {
+      "shot": "r2-deadbug-studio-start",
+      "outputPath": "form-media/assets/masters/r2-deadbug-studio-start/attempt_15f55ecb2e9b4ce3.jpg",
+      "outputSha256": "27aed9326bce3bd8affd08f39495e6fc01daa5e739bc3796a2ec98a50fec46d9",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:58:40.546847+00:00",
+      "evidence": [
+        "Actual final landscape master viewed: the original correct suspended tabletop pose is restored, with both bent legs elevated and both arms raised.",
+        "Head and trunk are supported on the mat; the two arms and two legs are distinguishable.",
+        "The mat is longer, but the figure has not materially decreased in size compared with the first landscape candidate.",
+        "The head remains near the right side, with the shoulder around x900 in a 1376-pixel frame and a long raised arm. There is still insufficient clear margin for a full straight-arm reach behind the head."
+      ],
+      "limitations": [
+        "The clipping risk is a geometric inference from the still, not a claim that an unseen animation has failed.",
+        "A shortened range might fit, but the requested complete extension envelope has not been established.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Final still restores the pose but does not resolve the original full-reach framing issue. Do not treat a longer mat alone as a wider camera view. Not ready as a fixed-camera seed for the prescribed full arm-and-opposite-leg extension."
+    },
+    {
+      "shot": "r2-deadbug-warm-start",
+      "outputPath": "form-media/assets/masters/r2-deadbug-warm-start/attempt_9a4ffdc6e39a46e2.jpg",
+      "outputSha256": "9630c6bbea106bc0d8ba5db4d1af4a9337769b399aadf61ffcfcd383c14fed92",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:00:22.614022+00:00",
+      "evidence": [
+        "Actual final landscape master viewed: suspended tabletop is restored, with supported head, raised straight arms and both shins elevated.",
+        "The figure is somewhat smaller and positioned farther left than in the first warm image; head ends around x1040 rather than x1170 in a 1376-pixel frame.",
+        "The extra right-side space improves the arm extension envelope.",
+        "The hip remains near x540 and the left-pointing leg still has a substantial hip-to-toe length, leaving tight clearance for a straight leg lowered toward the floor."
+      ],
+      "limitations": [
+        "Exact full leg extension clearance is a projection estimate from the still; a conservative range might fit.",
+        "This is not evidence that an unseen animation has clipped, but the requested full extension envelope has not been established.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Correct starting pose and improved arm-side framing. Keep flagged before paid motion because left-side leg clearance remains uncertain. An explicitly authored padded-canvas derivative could resolve the remaining envelope without changing the anatomy; review that exact derivative separately."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-deadbug-illustrated-start/attempt_b5441d325b044211.jpg",
+      "outputSha256": "59b691117d315a54df1216a8a47145b75e6a43461fdfdfa50bd8541f41f5f8be",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:00:59.194507+00:00",
+      "evidence": [
+        "Actual final landscape master viewed: original suspended tabletop is retained, with separately readable hands, arms, knees and shoes.",
+        "Head and trunk remain supported; anatomical volumes and joint positions are coherent.",
+        "The mat extends farther left, but the figure scale and head/shoulder placement remain effectively unchanged from the first illustrated image.",
+        "The previously tight projected arm reach toward the lower-right boundary has not been resolved by a wider camera view."
+      ],
+      "limitations": [
+        "Exact endpoint position is inferred from the still; no generated motion is being judged here.",
+        "A partial comfortable reach might fit, but the requested complete extension envelope is not clearly reserved.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Good pose; unresolved endpoint margin. Keep flagged before paid motion. A separately authored and reviewed padded-canvas derivative can preserve this correct pose while adding the missing margin."
+    },
+    {
+      "shot": "r2-ankle-pump-warm-start",
+      "outputPath": "form-media/assets/masters/r2-ankle-pump-warm-start/attempt_7c9a811542ee4cf8.jpg",
+      "outputSha256": "0d58ffe6d9cba60a5f94d5d2a4dd44ca1d8fb6d12edd964f1ee38bf0a27b8361",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:01:47.451072+00:00",
+      "evidence": [
+        "Actual final landscape master viewed: the unrelated weight machine is removed and the background is plain.",
+        "Pelvis is on the floor, the working leg extends forward and the opposite leg bends comfortably beside it.",
+        "The working heel visibly rests on the floor, with the knee, ankle, full foot and toes preserved in the detail crop.",
+        "Working foot points toward the left with useful forward-pointing margin, preserving the previously accepted illustrated composition."
+      ],
+      "limitations": [
+        "Motion must still preserve heel support and a clear point-and-return cycle without foot sliding or changing leg length.",
+        "The upper torso is intentionally cropped; this frame teaches the ankle action alongside the written floor-seated setup.",
+        "AI editorial review only; no trainer review recorded."
+      ],
+      "notes": "Suitable final warm ankle-pump motion seed. Keep the empty background, supported heel and seated pelvis fixed while the forefoot points leftward away from the shin and returns."
+    },
+    {
+      "shot": "r2-deadbug-studio-start",
+      "outputPath": "form-media/assets/references/authored/r2-deadbug-studio-start-canvas-v1.png",
+      "outputSha256": "511b2f49db85cecfce0bcb71c5ebdb21496d5d977dbd7a8b9c7388bf5af818af",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:03:39.973461+00:00",
+      "evidence": [
+        "Exact authored 1920 × 1080 canvas reference viewed, with the original correct tabletop pose visibly retained.",
+        "Both arms are raised, both bent legs are suspended, and the head and trunk remain supported on the mat.",
+        "Both hand/arm and knee/foot pairs remain distinguishable; the illustrated reference has especially clear separation.",
+        "The added horizontal and vertical margins now reserve visible room around the projected full opposite-arm and leg extension path.",
+        "Recorded provenance identifies a pad operation at offset (272, 156) around the original source, with no new AI pose generation."
+      ],
+      "limitations": [
+        "A faint rectangular background join is visible between the original image and the added canvas; it is strongest in the illustrated reference. Inspect the resulting video for visible seams or a persistent rectangular panel.",
+        "Studio and warm have some far-limb overlap in the neutral pose; motion must retain distinct contralateral limb pairing rather than fuse or swap limbs.",
+        "Actual endpoint containment, stable trunk position and complete tabletop returns still require review of the generated animation.",
+        "AI editorial review of a motion reference only; not content acceptance or trainer review."
+      ],
+      "notes": "Ready to use this exact authored derivative as the fixed-camera motion reference. Preserve the complete expanded canvas; do not crop or zoom back to the original image rectangle. Show one arm and the opposite leg extending together, return to tabletop, then alternate. Background-join handling is a visual-quality check for motion, not an anatomy failure."
+    },
+    {
+      "shot": "r2-deadbug-warm-start",
+      "outputPath": "form-media/assets/references/authored/r2-deadbug-warm-start-canvas-v1.png",
+      "outputSha256": "478c7db8dd49e0213366547801608daf6dfd60705dd8a8180cbce8f2dd335fce",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:03:39.974011+00:00",
+      "evidence": [
+        "Exact authored 1920 × 1080 canvas reference viewed, with the original correct tabletop pose visibly retained.",
+        "Both arms are raised, both bent legs are suspended, and the head and trunk remain supported on the mat.",
+        "Both hand/arm and knee/foot pairs remain distinguishable; the illustrated reference has especially clear separation.",
+        "The added horizontal and vertical margins now reserve visible room around the projected full opposite-arm and leg extension path.",
+        "Recorded provenance identifies a pad operation at offset (272, 156) around the original source, with no new AI pose generation."
+      ],
+      "limitations": [
+        "A faint rectangular background join is visible between the original image and the added canvas; it is strongest in the illustrated reference. Inspect the resulting video for visible seams or a persistent rectangular panel.",
+        "Studio and warm have some far-limb overlap in the neutral pose; motion must retain distinct contralateral limb pairing rather than fuse or swap limbs.",
+        "Actual endpoint containment, stable trunk position and complete tabletop returns still require review of the generated animation.",
+        "AI editorial review of a motion reference only; not content acceptance or trainer review."
+      ],
+      "notes": "Ready to use this exact authored derivative as the fixed-camera motion reference. Preserve the complete expanded canvas; do not crop or zoom back to the original image rectangle. Show one arm and the opposite leg extending together, return to tabletop, then alternate. Background-join handling is a visual-quality check for motion, not an anatomy failure."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-start",
+      "outputPath": "form-media/assets/references/authored/r2-deadbug-illustrated-start-canvas-v1.png",
+      "outputSha256": "2543f99d887544b2d8eaf25f4f6583f9de84cb4defe5e2120218627036e97589",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:03:39.974544+00:00",
+      "evidence": [
+        "Exact authored 1920 × 1080 canvas reference viewed, with the original correct tabletop pose visibly retained.",
+        "Both arms are raised, both bent legs are suspended, and the head and trunk remain supported on the mat.",
+        "Both hand/arm and knee/foot pairs remain distinguishable; the illustrated reference has especially clear separation.",
+        "The added horizontal and vertical margins now reserve visible room around the projected full opposite-arm and leg extension path.",
+        "Recorded provenance identifies a pad operation at offset (272, 156) around the original source, with no new AI pose generation."
+      ],
+      "limitations": [
+        "A faint rectangular background join is visible between the original image and the added canvas; it is strongest in the illustrated reference. Inspect the resulting video for visible seams or a persistent rectangular panel.",
+        "Studio and warm have some far-limb overlap in the neutral pose; motion must retain distinct contralateral limb pairing rather than fuse or swap limbs.",
+        "Actual endpoint containment, stable trunk position and complete tabletop returns still require review of the generated animation.",
+        "AI editorial review of a motion reference only; not content acceptance or trainer review."
+      ],
+      "notes": "Ready to use this exact authored derivative as the fixed-camera motion reference. Preserve the complete expanded canvas; do not crop or zoom back to the original image rectangle. Show one arm and the opposite leg extending together, return to tabletop, then alternate. Background-join handling is a visual-quality check for motion, not an anatomy failure."
+    },
+    {
+      "shot": "r2-deadbug-studio-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "outputPath": "form-media/assets/delivery/round-2/r2-deadbug-studio-motion-ac6e31e9.mp4",
+      "outputSha256": "90b3320c702d2421d7722b15229998045c66bdbf5e0c32506526dbc0b9633ce9",
+      "sha256": "90b3320c702d2421d7722b15229998045c66bdbf5e0c32506526dbc0b9633ce9",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:10:12.713723+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "Contact sheet and exact 2.0-second delivery frame show both arms lowering together during the first single-leg extension.",
+        "At 6.5 seconds the same visibly near leg is extended again while the far knee remains bent; the two diagonal pairs do not alternate as required.",
+        "The extended far hand is abruptly truncated at the former source-image rectangle boundary inside the full video frame, around x1098 of1280, rather than at the actual video edge.",
+        "The 9.8-second delivery frame returns to both arms raised and both knees bent above the hips. Head/trunk support and the fixed camera remain broadly stable in sampled frames."
+      ],
+      "limitations": [
+        "Review uses the one-frame-per-second contact sheet and selected full-size delivery frames, not continuous playback or every-frame anatomical validation.",
+        "No anatomical left/right labels are assumed from the camera; failure is based on visible near/far limb pairing and repeated leg identity.",
+        "The background join has become a material internal clipping boundary in motion, beyond the faint cosmetic seam observed in the still.",
+        "AI editorial only; no user acceptance or trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_ac6e31e98ff54171/keyframes.jpg",
+        "reports/form-media/attempt_ac6e31e98ff54171/ai-editorial-first-extension.jpg",
+        "reports/form-media/attempt_ac6e31e98ff54171/ai-editorial-second-extension.jpg",
+        "reports/form-media/attempt_ac6e31e98ff54171/ai-editorial-return.jpg"
+      ],
+      "notes": "Rejected for incorrect limb sequencing and an internally clipped hand. Smallest corrective direction: move only one arm plus the opposite leg while the other pair remains in tabletop, return fully, then swap pairs; treat the entire canvas as one continuous scene with no inner rectangular crop or mask."
+    },
+    {
+      "shot": "r2-deadbug-warm-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "outputPath": "form-media/assets/delivery/round-2/r2-deadbug-warm-motion-48077ddf.mp4",
+      "outputSha256": "eaeb15168562980518853d68176aff1434c8c8532d8ae2cf24235282f4830362",
+      "sha256": "eaeb15168562980518853d68176aff1434c8c8532d8ae2cf24235282f4830362",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:11:51.528622+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "At the exact 2.5-second frame, the visible near arm and near leg extend together, rather than an opposite arm/leg pair.",
+        "At 7.5 seconds the other arm extends but the same visibly near leg extends again; the leg identity does not alternate.",
+        "The 9.85-second final sample has both knees bent but one arm lying beside the torso, so the final tabletop return is incomplete.",
+        "The first extension shows an abruptly truncated fingertip edge near the old source-image boundary. Camera, mat and head support otherwise remain stable in the inspected frames."
+      ],
+      "limitations": [
+        "Review uses the contact sheet and selected full-size delivery frames, not continuous playback or every-frame anatomical validation.",
+        "Near/far limb identity is based on visible shoulder and hip origins; anatomical left/right is not assumed.",
+        "The hand edge is a visual artifact in the sampled frame; its exact generation cause was not determined.",
+        "AI editorial only; no user acceptance or trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_48077ddfbc0c420b/keyframes.jpg",
+        "reports/form-media/attempt_48077ddfbc0c420b/ai-editorial-first-extension.jpg",
+        "reports/form-media/attempt_48077ddfbc0c420b/ai-editorial-second-extension.jpg",
+        "reports/form-media/attempt_48077ddfbc0c420b/ai-editorial-return.jpg"
+      ],
+      "notes": "Rejected for same-side first pairing, repeating the same leg, and missing the final arm return. Smallest corrective direction: near arm with far leg, return; then far arm with near leg, return both hands above the shoulders and knees above the hips. Preserve complete fingers across the entire scene."
+    },
+    {
+      "shot": "r2-deadbug-studio-start",
+      "outputPath": "form-media/assets/references/authored/r2-deadbug-studio-start-canvas-v2.png",
+      "outputSha256": "822b2099cac30b63265c2c00aa6f8e51e4029cfcbb6475ec9977ba2192e7ded6",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:13:19.113191+00:00",
+      "evidence": [
+        "Exact 1920 × 1080 authored canvas-v2 reference viewed: correct suspended tabletop and supported head/trunk are retained.",
+        "Both arms, bent knees and feet remain distinguishable, with the previously reviewed full-reach margins.",
+        "Nearest-edge continuation removes the strong rectangular background color boundary seen in canvas-v1.",
+        "No body marker, new apparatus or anatomical alteration is visible. Provenance identifies only authored canvas/background continuation."
+      ],
+      "limitations": [
+        "Faint stretched edge texture remains in the extended background; check the resulting motion for seams, panels or abrupt hand/foot truncation.",
+        "A revised background does not establish correct contralateral motion or prevent the model from repeating one leg; these require separate motion review.",
+        "AI editorial reference review only; no user acceptance or trainer approval."
+      ],
+      "notes": "Ready to use this exact v2 derivative for a corrective motion attempt. Preserve the complete canvas and animate a single continuous scene. Validate opposite-limb pairing, both returns and all fingertips/toes in the resulting delivery."
+    },
+    {
+      "shot": "r2-deadbug-warm-start",
+      "outputPath": "form-media/assets/references/authored/r2-deadbug-warm-start-canvas-v2.png",
+      "outputSha256": "86305c418d5a7cffdaa56019d59d2bdc9c4f530268d0350504b19ca0308110f9",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:13:19.113742+00:00",
+      "evidence": [
+        "Exact 1920 × 1080 authored canvas-v2 reference viewed: correct suspended tabletop and supported head/trunk are retained.",
+        "Both arms, bent knees and feet remain distinguishable, with the previously reviewed full-reach margins.",
+        "Nearest-edge continuation removes the strong rectangular background color boundary seen in canvas-v1.",
+        "No body marker, new apparatus or anatomical alteration is visible. Provenance identifies only authored canvas/background continuation."
+      ],
+      "limitations": [
+        "Faint stretched edge texture remains in the extended background; check the resulting motion for seams, panels or abrupt hand/foot truncation.",
+        "A revised background does not establish correct contralateral motion or prevent the model from repeating one leg; these require separate motion review.",
+        "AI editorial reference review only; no user acceptance or trainer approval."
+      ],
+      "notes": "Ready to use this exact v2 derivative for a corrective motion attempt. Preserve the complete canvas and animate a single continuous scene. Validate opposite-limb pairing, both returns and all fingertips/toes in the resulting delivery."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-start",
+      "outputPath": "form-media/assets/references/authored/r2-deadbug-illustrated-start-canvas-v2.png",
+      "outputSha256": "e41a105e32fa4ada8e96358c069efb89619b43953698ecbad002a4fbe1aad0b4",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:13:19.114267+00:00",
+      "evidence": [
+        "Exact 1920 × 1080 authored canvas-v2 reference viewed: correct suspended tabletop and supported head/trunk are retained.",
+        "Both arms, bent knees and feet remain distinguishable, with the previously reviewed full-reach margins.",
+        "Nearest-edge continuation removes the strong rectangular background color boundary seen in canvas-v1.",
+        "No body marker, new apparatus or anatomical alteration is visible. Provenance identifies only authored canvas/background continuation."
+      ],
+      "limitations": [
+        "Faint stretched edge texture remains in the extended background; check the resulting motion for seams, panels or abrupt hand/foot truncation.",
+        "A revised background does not establish correct contralateral motion or prevent the model from repeating one leg; these require separate motion review.",
+        "AI editorial reference review only; no user acceptance or trainer approval."
+      ],
+      "notes": "Ready to use this exact v2 derivative for a corrective motion attempt. Preserve the complete canvas and animate a single continuous scene. Validate opposite-limb pairing, both returns and all fingertips/toes in the resulting delivery."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "outputPath": "form-media/assets/delivery/round-2/r2-deadbug-illustrated-motion-9a204e67.mp4",
+      "outputSha256": "38ac1a9515080958cedbbe65259f78bfcc9ee9c800e3d3355bb8032013cee6f1",
+      "sha256": "38ac1a9515080958cedbbe65259f78bfcc9ee9c800e3d3355bb8032013cee6f1",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:16:49.596576+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The 2.5-second frame shows the near arm and near leg extending together, rather than opposite limbs.",
+        "The 7.0-second frame changes to the far arm but repeats extension of the same near leg; the far knee remains bent in both sampled extensions.",
+        "The 9.8-second frame restores both arms above the shoulders and both knees to tabletop.",
+        "The full figure remains inside the sampled outer frame; the v1 rectangular background panel is conspicuous throughout."
+      ],
+      "limitations": [
+        "AI editorial inspection of the generated keyframe sheet and three additional full-resolution samples, not trainer approval or continuous playback.",
+        "No anatomical left/right label is inferred from the oblique view; near/far describes visibility."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_9a204e67b8604051/keyframes.jpg",
+        "reports/form-media/attempt_9a204e67b8604051/ai-editorial-first-extension.jpg",
+        "reports/form-media/attempt_9a204e67b8604051/ai-editorial-second-extension.jpg",
+        "reports/form-media/attempt_9a204e67b8604051/ai-editorial-return.jpg"
+      ],
+      "notes": "Reject this version for incorrect limb pairing and failure to alternate legs. Smallest correction: extend one arm with the opposite leg while the other pair remains in tabletop, return fully, then swap diagonal pairs. Use the continuous v2 reference background."
+    },
+    {
+      "shot": "r2-calf-raise-warm-motion",
+      "exerciseId": "ex_calf_raise_standing",
+      "outputPath": "form-media/assets/delivery/round-2/r2-calf-raise-warm-motion-07a491fb.mp4",
+      "outputSha256": "aac002380931cf5efcb82d9c8b2aaf76a70aba0c45ac90cb77bcf8cebde3c90e",
+      "sha256": "aac002380931cf5efcb82d9c8b2aaf76a70aba0c45ac90cb77bcf8cebde3c90e",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:16:49.597030+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The keyframe sequence shows both heels rising together, a brief high position, then a gradual return to the floor.",
+        "The 3.5-second full-resolution peak shows both heels elevated with the balls of the feet contacting the floor and without an obvious ankle collapse.",
+        "The 7.8-second sample shows both heels fully lowered and the feet planted.",
+        "The intentional thigh-to-feet crop keeps both complete feet and the relevant ankle motion visible; the background remains stable."
+      ],
+      "limitations": [
+        "AI editorial inspection of the generated keyframe sheet and two additional full-resolution samples, not trainer approval or continuous playback.",
+        "The intentional detail view cannot establish upper-body posture or balance strategy."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_07a491fb964048cf/keyframes.jpg",
+        "reports/form-media/attempt_07a491fb964048cf/ai-editorial-peak.jpg",
+        "reports/form-media/attempt_07a491fb964048cf/ai-editorial-return.jpg"
+      ],
+      "notes": "Candidate for human review: one readable bilateral calf-raise cycle with stable forefoot contact and a complete lowered finish. No corrective generation indicated by these samples."
+    },
+    {
+      "shot": "r2-calf-raise-illustrated-motion",
+      "exerciseId": "ex_calf_raise_standing",
+      "outputPath": "form-media/assets/delivery/round-2/r2-calf-raise-illustrated-motion-0f0acba9.mp4",
+      "outputSha256": "9eb498addc2665885528b14a6343f380408d6b68858808d4aecf96fa040f0edc",
+      "sha256": "9eb498addc2665885528b14a6343f380408d6b68858808d4aecf96fa040f0edc",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:21:52.860603+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The keyframe sequence shows a bilateral heel rise, high pause and controlled heel lowering.",
+        "At 2.8 seconds both heels are visibly elevated while the balls of both feet remain on the floor.",
+        "At 7.8 seconds both heels are fully lowered, with complete feet visible and no obvious ankle collapse.",
+        "The intentional lower-body crop clearly shows the relevant movement with a stable plain background."
+      ],
+      "limitations": [
+        "AI editorial inspection of the generated keyframe sheet and additional full-resolution samples, not trainer approval or continuous playback.",
+        "The detail crop cannot establish upper-body posture or balance strategy."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_0f0acba96fc2481d/keyframes.jpg",
+        "reports/form-media/attempt_0f0acba96fc2481d/ai-editorial-peak.jpg",
+        "reports/form-media/attempt_0f0acba96fc2481d/ai-editorial-return.jpg"
+      ],
+      "notes": "Candidate for human review: one complete, readable bilateral calf raise. No corrective generation indicated by these samples."
+    },
+    {
+      "shot": "r2-ankle-pump-warm-motion",
+      "exerciseId": "cat_mob_ankle_pump",
+      "outputPath": "form-media/assets/delivery/round-2/r2-ankle-pump-warm-motion-5b80d482.mp4",
+      "outputSha256": "794dd05c02fd621117d81346633844aaab0ad7fcc0fd2f704509a8ed2737cd31",
+      "sha256": "794dd05c02fd621117d81346633844aaab0ad7fcc0fd2f704509a8ed2737cd31",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:21:52.861236+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The sequence shows the visible extended foot pointing away and drawing back toward the shin while the heel rests on the floor.",
+        "The 1.3-second frame shows a plantar-flexed position; the 7.8-second frame returns the toes toward the shin.",
+        "The extended leg, complete foot and heel contact remain visible with ample toe clearance.",
+        "No machine, text or overlay artifact appears in the simple seated-floor composition."
+      ],
+      "limitations": [
+        "AI editorial inspection of the generated keyframe sheet and additional full-resolution samples, not trainer approval or continuous playback.",
+        "Only one ankle is demonstrated; companion text should tell the user to repeat on the other side.",
+        "There is slight settling of the leg posture; the ankle movement remains distinct and the heel stays at the floor in the inspected samples."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_5b80d482ccb6464a/keyframes.jpg",
+        "reports/form-media/attempt_5b80d482ccb6464a/ai-editorial-point.jpg",
+        "reports/form-media/attempt_5b80d482ccb6464a/ai-editorial-return.jpg"
+      ],
+      "notes": "Candidate for human review: readable ankle pointing and return with grounded heel and complete foot visibility."
+    },
+    {
+      "shot": "r2-ankle-pump-illustrated-motion",
+      "exerciseId": "cat_mob_ankle_pump",
+      "outputPath": "form-media/assets/delivery/round-2/r2-ankle-pump-illustrated-motion-781718c8.mp4",
+      "outputSha256": "c9d2f4a4e3239d2e45a7150d7e95e2d5ef4902d18bf0ef69ea8831c49d38eb81",
+      "sha256": "c9d2f4a4e3239d2e45a7150d7e95e2d5ef4902d18bf0ef69ea8831c49d38eb81",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:21:52.861579+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The first cycle clearly points the toes away around 2 seconds, then brings them toward the shin by 3.5 seconds.",
+        "The 3.5, 3.6 and 4.0-second samples show a readable neutral hold with the heel resting on the floor.",
+        "A new point has begun by 4.4 seconds; the 7.8 and 7.9-second samples end with the foot still partly pointed rather than in the preceding neutral position.",
+        "The full ankle and toes stay visible; the initial slight knee bend settles during the clip."
+      ],
+      "limitations": [
+        "AI editorial inspection of the generated keyframe sheet and additional full-resolution samples, not trainer approval or continuous playback.",
+        "The neutral hold is approximately half a second, not a long end pause.",
+        "The ending pose of the complete first cycle is functionally neutral but not pixel-identical to the original frame because the knee settles.",
+        "Only one ankle is demonstrated."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_781718c873fa40fe/keyframes.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-point.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-return.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-first-return.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-last-frame.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-neutral-start.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-hold-2p8.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-hold-3p2.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-hold-3p6.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-hold-4p0.jpg",
+        "reports/form-media/attempt_781718c873fa40fe/ai-editorial-hold-4p4.jpg"
+      ],
+      "notes": "Keep this full 8-second delivery as needs-review for its unfinished later cycle. A non-reversed authored trim from 0.00 through 4.00 seconds preserves the complete first point-and-return and approximately 0.5 seconds of neutral hold, without another generation. Review any exact trimmed delivery separately."
+    },
+    {
+      "shot": "r2-treadmill-walk-studio-motion",
+      "exerciseId": "cat_card_treadmill_walking",
+      "outputPath": "form-media/assets/delivery/round-2/r2-treadmill-walk-studio-motion-048a27a0.mp4",
+      "outputSha256": "169175c8bc8d8355014e4a0e07960044b1033c11e86d7e4aaa6fa8804597b7db",
+      "sha256": "169175c8bc8d8355014e4a0e07960044b1033c11e86d7e4aaa6fa8804597b7db",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:21:52.862094+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The keyframe sequence shows alternating comfortable walking steps while the figure remains upright within the treadmill belt area.",
+        "The 4.2 and 7.8-second full-resolution samples show plausible separate foot placements, one supporting foot and the other transitioning through the stride.",
+        "The head, both complete feet and treadmill belt stay in frame; hands remain free of the rails in the samples.",
+        "The safety clip and cord remain visible against the clothing and console."
+      ],
+      "limitations": [
+        "AI editorial inspection of the generated keyframe sheet and additional full-resolution samples, not trainer approval or continuous playback.",
+        "This is a steady walking segment; it does not demonstrate setting the speed, attaching the clip or slowing the belt before dismounting, which should remain in the Form text.",
+        "The plain belt surface and sampled frames cannot prove exact belt speed or exclude every transient foot-slide artifact."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_048a27a072b24080/keyframes.jpg",
+        "reports/form-media/attempt_048a27a072b24080/ai-editorial-midstride.jpg",
+        "reports/form-media/attempt_048a27a072b24080/ai-editorial-endpoint.jpg"
+      ],
+      "notes": "Candidate for human review as an accompanying steady treadmill-walking segment. Start/stop and safety-clip setup still require the written guidance."
+    },
+    {
+      "shot": "r2-outdoor-walk-warm-motion",
+      "exerciseId": "cat_card_outdoor_walk",
+      "outputPath": "form-media/assets/delivery/round-2/r2-outdoor-walk-warm-motion-6ccdebf7.mp4",
+      "outputSha256": "86e68dea9679c8fb6fc479383123ee22876e1abf0832f48a295e3c0933a8895a",
+      "sha256": "86e68dea9679c8fb6fc479383123ee22876e1abf0832f48a295e3c0933a8895a",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:21:52.862545+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The sequence shows several alternating steps with relaxed shoulders and the full figure remaining inside the frame.",
+        "Against the fixed path line, the figure stays around the same area across repeated strides; forward travel is not clearly established.",
+        "The 5.8 and 7.8-second samples have substantial near/far leg overlap and a narrow-looking foot path, reducing readability as an ordinary walking demonstration.",
+        "The sampled frames show no missing limbs, obvious limb fusion or clipped feet."
+      ],
+      "limitations": [
+        "AI editorial inspection of the generated keyframe sheet and additional full-resolution samples, not trainer approval or continuous playback.",
+        "The oblique front view can create apparent leg overlap; these samples alone do not establish anatomical scissoring.",
+        "Continuous playback and human judgment are needed to distinguish brief support-foot sliding from a merely subtle forward displacement.",
+        "The barefoot figure is a simplified form illustration rather than a complete outdoor footwear or route-setup example."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_6ccdebf7ab294106/keyframes.jpg",
+        "reports/form-media/attempt_6ccdebf7ab294106/ai-editorial-midstride.jpg",
+        "reports/form-media/attempt_6ccdebf7ab294106/ai-editorial-opposite-stride.jpg",
+        "reports/form-media/attempt_6ccdebf7ab294106/ai-editorial-endpoint.jpg"
+      ],
+      "notes": "Needs review for unclear forward travel and overlapping stride presentation. If corrected, show two short forward steps on parallel tracks, with each planted foot fixed to the path while the body passes over it; a clearer side-oblique view would improve leg separation. No anatomical failure is inferred solely from apparent overlap."
+    },
+    {
+      "shot": "r2-ankle-pump-illustrated-motion",
+      "exerciseId": "cat_mob_ankle_pump",
+      "editId": "r2-ankle-pump-illustrated-motion-trim-v1",
+      "outputPath": "form-media/assets/delivery/round-2/r2-ankle-pump-illustrated-motion-trim-v1.mp4",
+      "outputSha256": "bc25ef590f7d05543e02a8189c79c9cd3a08f18b975692648ad221c06631e1b4",
+      "sha256": "bc25ef590f7d05543e02a8189c79c9cd3a08f18b975692648ad221c06631e1b4",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:25:00.215344+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The exact trimmed delivery keyframe sheet shows the complete first point-and-return cycle with the heel remaining on the floor.",
+        "The 2.0-second full-resolution sample clearly points the toes away from the shin; the 3.9-second endpoint sample returns the toes toward the shin in a readable neutral position.",
+        "The full visible leg, heel and toes stay within the frame; the incomplete later cycle from the retained 8-second option is absent.",
+        "The edit provenance records a 0.00–4.00-second source trim at original speed with no reversed frames or added holds."
+      ],
+      "limitations": [
+        "AI editorial inspection of this delivery keyframe sheet and two exact full-resolution samples, not trainer approval or continuous playback.",
+        "The natural ending neutral hold is approximately 0.5 seconds; the slight initial knee settling means the endpoint is not pixel-identical to the starting pose.",
+        "Only one ankle is demonstrated; the Form text should tell the user to repeat on the other side."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-ankle-pump-illustrated-motion-trim-v1/keyframes.jpg",
+        "reports/form-media/r2-ankle-pump-illustrated-motion-trim-v1/ai-editorial-point.jpg",
+        "reports/form-media/r2-ankle-pump-illustrated-motion-trim-v1/ai-editorial-endpoint.jpg",
+        "form-media/edits.json"
+      ],
+      "notes": "Candidate for human review. This 4-second authored trim preserves a complete ankle-pump cycle and a short neutral finish without another generation. The separately retained full 8-second delivery remains needs-review for its unfinished later cycle."
+    },
+    {
+      "shot": "r2-cable-row-studio-motion",
+      "exerciseId": "ex_seated_cable_row",
+      "editId": "r2-cable-row-studio-motion-trim-v1",
+      "outputPath": "form-media/assets/delivery/round-2/r2-cable-row-studio-motion-trim-v1.mp4",
+      "outputSha256": "13b0d2d506b506f220badda68920225a77dd1875714cff684a8a9009d70d272b",
+      "sha256": "13b0d2d506b506f220badda68920225a77dd1875714cff684a8a9009d70d272b",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:30:49.499185+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "Compared with catalog Form: feet braced, knees bent, tall torso, handle pulled toward the lower ribs and controlled forward reach.",
+        "The exact delivery keyframe sheet shows a complete forward reach, pull and return, with both hands remaining on the same handle and feet on the bracing plates.",
+        "The 3.4-second sample brings the handle toward the lower ribs with bent elbows; the 4.85-second endpoint restores an extended-arm forward reach.",
+        "The torso remains largely steady without an obvious rounded-back rock; cable and handle stay connected in the inspected samples.",
+        "Edit provenance records original-speed trimming with 0.25-second cloned endpoint holds and no reversed or interpolated movement."
+      ],
+      "limitations": [
+        "AI editorial inspection of this delivery keyframe sheet and exact start, peak and endpoint frames, not trainer approval or continuous playback.",
+        "The source composition crops the upper head, so full head/neck alignment cannot be judged.",
+        "The endpoint reaches slightly farther forward than the starting frame; the clip is a complete instructional cycle rather than a pixel-matched seamless loop."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-cable-row-studio-motion-trim-v1/keyframes.jpg",
+        "reports/form-media/r2-cable-row-studio-motion-trim-v1/ai-editorial-start.jpg",
+        "reports/form-media/r2-cable-row-studio-motion-trim-v1/ai-editorial-peak.jpg",
+        "reports/form-media/r2-cable-row-studio-motion-trim-v1/ai-editorial-endpoint.jpg",
+        "catalog.json",
+        "form-media/edits.json"
+      ],
+      "notes": "Candidate for human review. The trim preserves a complete seated cable-row pull and controlled return with stable contacts."
+    },
+    {
+      "shot": "r2-cable-row-warm-motion",
+      "exerciseId": "ex_seated_cable_row",
+      "editId": "r2-cable-row-warm-motion-trim-v1",
+      "outputPath": "form-media/assets/delivery/round-2/r2-cable-row-warm-motion-trim-v1.mp4",
+      "outputSha256": "76f1974eb2c56216ccb10dece3abd26150c4927982ae359a0605ca222101589c",
+      "sha256": "76f1974eb2c56216ccb10dece3abd26150c4927982ae359a0605ca222101589c",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:30:49.499582+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "Compared with catalog Form: seated with feet braced and knees bent, handle drawn toward the lower ribs, then arms reach forward with the torso largely steady.",
+        "The exact delivery keyframe sheet shows one complete pull and return with continuous two-hand handle contact and stable foot bracing.",
+        "The 4.1-second sample shows the pulled-in handle and bent elbows; the 6.35-second endpoint shows the arms reaching forward again.",
+        "The relevant shoulder, elbow, wrist and leg joints remain visible, and no hand detachment or obvious cable break appears in the samples.",
+        "Edit provenance records original-speed trimming with 0.25-second cloned endpoint holds and no reversed or interpolated movement."
+      ],
+      "limitations": [
+        "AI editorial inspection of this delivery keyframe sheet and exact start, peak and endpoint frames, not trainer approval or continuous playback.",
+        "The source composition crops the upper head, so full head/neck alignment cannot be judged.",
+        "The visible background weight stack does not show clear synchronized plate travel; this review supports the body-form and contact demonstration, not a verified mechanical simulation.",
+        "The final reach is somewhat longer than the initial reach; no seamless-loop claim is made."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-cable-row-warm-motion-trim-v1/keyframes.jpg",
+        "reports/form-media/r2-cable-row-warm-motion-trim-v1/ai-editorial-start.jpg",
+        "reports/form-media/r2-cable-row-warm-motion-trim-v1/ai-editorial-peak.jpg",
+        "reports/form-media/r2-cable-row-warm-motion-trim-v1/ai-editorial-endpoint.jpg",
+        "catalog.json",
+        "form-media/edits.json"
+      ],
+      "notes": "Candidate for human review of body form. The trim preserves a complete pull and return; retain the mechanical-simulation limitation about the background weight stack."
+    },
+    {
+      "shot": "r2-lat-pulldown-studio-motion",
+      "exerciseId": "ex_lat_pulldown",
+      "editId": "r2-lat-pulldown-studio-motion-trim-v1",
+      "outputPath": "form-media/assets/delivery/round-2/r2-lat-pulldown-studio-motion-trim-v1.mp4",
+      "outputSha256": "5977949b798cef5153669e0a05dcfbcf51042c20d4075b4ac2f5eae4f3d98d5e",
+      "sha256": "5977949b798cef5153669e0a05dcfbcf51042c20d4075b4ac2f5eae4f3d98d5e",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:30:49.499785+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "Compared with catalog Form: thighs are under a securing pad, both hands grip the overhead bar, the bar moves toward the upper chest, and the arms extend again under control.",
+        "The exact delivery keyframe sheet shows the entire overhead-to-upper-chest pull followed by a return overhead.",
+        "The 3.4-second sample places the bar in front of the upper chest/collarbone area with both elbows bent; the 6.1-second endpoint restores the overhead arm position.",
+        "Both hands retain the same bar grips, the thighs stay below the pad, and both feet remain planted in the full-resolution samples.",
+        "The torso stays mostly still with only a small positional change; the bar remains in front of the head, and the full bar, hands and feet stay visible.",
+        "Edit provenance records original-speed trimming with 0.25-second cloned endpoint holds and no reversed or interpolated movement."
+      ],
+      "limitations": [
+        "AI editorial inspection of this delivery keyframe sheet and exact start, peak and endpoint frames, not trainer approval or continuous playback.",
+        "The top pulley is partly outside the frame and the weight stack is not shown, so load mechanics are not verified.",
+        "The short segment demonstrates the pull itself; pad adjustment and choosing the load remain text/setup guidance."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-lat-pulldown-studio-motion-trim-v1/keyframes.jpg",
+        "reports/form-media/r2-lat-pulldown-studio-motion-trim-v1/ai-editorial-start.jpg",
+        "reports/form-media/r2-lat-pulldown-studio-motion-trim-v1/ai-editorial-peak.jpg",
+        "reports/form-media/r2-lat-pulldown-studio-motion-trim-v1/ai-editorial-endpoint.jpg",
+        "catalog.json",
+        "form-media/edits.json"
+      ],
+      "notes": "Candidate for human review. The trim shows a complete front lat pulldown and overhead return with continuous hand contact and stable seating."
+    },
+    {
+      "shot": "r2-deadbug-studio-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "outputPath": "form-media/assets/delivery/round-2/r2-deadbug-studio-motion-046db349.mp4",
+      "outputSha256": "eb78470171ed3908ba68eabbc640aa7b015774cee4c27f0a3df3fd4bd8d48a32",
+      "sha256": "eb78470171ed3908ba68eabbc640aa7b015774cee4c27f0a3df3fd4bd8d48a32",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:49:02.815731+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The corrected 2.4-prompt delivery keyframe sequence still fails the alternating opposite-limb instruction.",
+        "At 2.1 seconds both arms extend overhead while the near leg extends; the inactive arm does not remain vertical.",
+        "At 6.5 seconds the same near leg extends again, the far arm reaches overhead, and the near arm drops toward the thigh rather than remaining vertical.",
+        "At 9.8 seconds both arms and knees do return to the suspended tabletop pose.",
+        "All sampled hands and feet remain visible within the full frame, and the former rectangular v1 canvas panel is absent."
+      ],
+      "limitations": [
+        "AI editorial inspection of the actual delivery keyframe sheet and three exact full-resolution samples, not trainer approval or continuous playback.",
+        "Near/far describes visibility; anatomical left/right is not inferred from the oblique view."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_046db349de304203/keyframes.jpg",
+        "reports/form-media/attempt_046db349de304203/ai-editorial-first-extension.jpg",
+        "reports/form-media/attempt_046db349de304203/ai-editorial-second-extension.jpg",
+        "reports/form-media/attempt_046db349de304203/ai-editorial-return.jpg"
+      ],
+      "notes": "Reject for the repeated leg and moving inactive arm. Framing and background continuity are improved, but a timeline trim cannot repair the limb-pair errors. No automatic further generation is authorized by this review."
+    },
+    {
+      "shot": "r2-deadbug-warm-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "outputPath": "form-media/assets/delivery/round-2/r2-deadbug-warm-motion-2c14c0d1.mp4",
+      "outputSha256": "a5b45e8dc04973b7f9684421713410ceeb8d7d287c2ca675f13953241669d573",
+      "sha256": "a5b45e8dc04973b7f9684421713410ceeb8d7d287c2ca675f13953241669d573",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:50:30.740745+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The 2.1-second frame shows a contralateral near-leg and far-arm extension while the near arm stays vertical and the far knee stays bent.",
+        "The 6.2-second frame repeats that same near-leg and far-arm pair rather than switching to the other diagonal.",
+        "At both extension samples the reaching fingertips stretch into long horizontal streaks extending to the right frame edge, visibly corrupting the hand.",
+        "The 3.8-second inter-repetition sample and 9.8-second ending sample both restore the suspended tabletop pose.",
+        "The former large rectangular background panel is no longer conspicuous; the hand streaks remain a separate visible render defect."
+      ],
+      "limitations": [
+        "AI editorial inspection of the actual delivery keyframe sheet and four exact full-resolution samples, not trainer approval or continuous playback.",
+        "Near/far describes visibility rather than an asserted anatomical left/right label."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_2c14c0d19c3e484c/keyframes.jpg",
+        "reports/form-media/attempt_2c14c0d19c3e484c/ai-editorial-first-extension.jpg",
+        "reports/form-media/attempt_2c14c0d19c3e484c/ai-editorial-between-return.jpg",
+        "reports/form-media/attempt_2c14c0d19c3e484c/ai-editorial-second-extension.jpg",
+        "reports/form-media/attempt_2c14c0d19c3e484c/ai-editorial-return.jpg"
+      ],
+      "notes": "Reject for repeated diagonal pair and stretched-fingertip corruption. Although the first pair is now contralateral and returns correctly, trimming it would retain the hand defect, so no complete-cycle salvage trim is recommended."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "outputPath": "form-media/assets/delivery/round-2/r2-deadbug-illustrated-motion-36d654fc.mp4",
+      "outputSha256": "0fadd959ef688cfe85fe4ec11507594dae122567abed8bbb5cf1b92c27781e7a",
+      "sha256": "0fadd959ef688cfe85fe4ec11507594dae122567abed8bbb5cf1b92c27781e7a",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:53:47.941614+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "At 2.0 seconds the near leg extends with the far arm while the near arm remains vertical and the far knee stays in tabletop: this is a readable opposite-limb pair.",
+        "At 6.1 seconds the same near-leg/far-arm pair repeats; the clip does not switch to the other diagonal as specified.",
+        "The 3.3, 3.8 and 4.0-second samples restore and hold the complete tabletop pose; the 9.8-second ending also returns fully.",
+        "Both hands and feet stay intact and visible in the extension samples, without the stretched-finger defect of the Warm corrective."
+      ],
+      "limitations": [
+        "AI editorial inspection of the exact delivery keyframe sheet and full-resolution samples, not trainer approval or continuous playback.",
+        "The background retains faint edge-smear texture, but no conspicuous rectangular color panel."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_36d654fcf2a1474c/keyframes.jpg",
+        "reports/form-media/attempt_36d654fcf2a1474c/ai-editorial-first-extension.jpg",
+        "reports/form-media/attempt_36d654fcf2a1474c/ai-editorial-between-return.jpg",
+        "reports/form-media/attempt_36d654fcf2a1474c/ai-editorial-second-extension.jpg",
+        "reports/form-media/attempt_36d654fcf2a1474c/ai-editorial-return.jpg",
+        "reports/form-media/attempt_36d654fcf2a1474c/ai-editorial-hold-3p3.jpg",
+        "reports/form-media/attempt_36d654fcf2a1474c/ai-editorial-hold-4p0.jpg"
+      ],
+      "notes": "The full 10-second clip needs review because it repeats one diagonal rather than alternating. Its intact first opposite-limb extension and return can be preserved as a separately labeled one-diagonal demonstration trimmed from 0.00 to 4.00 seconds. Do not describe this full clip as two alternating repetitions."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-motion",
+      "exerciseId": "cat_cal_dead_bug",
+      "outputPath": "form-media/assets/delivery/round-2/r2-deadbug-illustrated-motion-one-diagonal-v1.mp4",
+      "outputSha256": "071704a5ee3cefaa179d2b52985cf549342c69f16f116c5d5c3e2b7a3b998585",
+      "sha256": "071704a5ee3cefaa179d2b52985cf549342c69f16f116c5d5c3e2b7a3b998585",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:53:47.941941+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The exact 4.5-second authored delivery contains one complete opposite-arm/opposite-leg extension and return, with 0.25-second cloned holds around the source 0.00–4.00-second interval.",
+        "At 2.25 seconds the near leg and far arm extend while the near arm stays vertical and the far knee remains bent; hands and feet are intact and fully visible.",
+        "At 4.35 seconds both arms are vertical and both knees are suspended in tabletop, providing a complete ending.",
+        "The explicit title is Graphic 3D · One diagonal repetition, and the alt text instructs alternating sides for subsequent repetitions according to the adjacent Form guidance.",
+        "Current dashboard video construction uses manual controls with no autoplay or loop attribute; no looping or playback-rate alteration was added."
+      ],
+      "limitations": [
+        "AI editorial inspection of the exact delivery keyframe sheet and full-resolution samples, not trainer approval or continuous playback.",
+        "This clip intentionally demonstrates only one diagonal; it does not demonstrate alternation. Keep the adjacent Form instruction and human reference available for the alternating sequence.",
+        "Faint background edge-smear texture remains visible, without affecting the intact figure."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-deadbug-illustrated-motion-one-diagonal-v1/keyframes.jpg",
+        "reports/form-media/r2-deadbug-illustrated-motion-one-diagonal-v1/ai-editorial-extension.jpg",
+        "reports/form-media/r2-deadbug-illustrated-motion-one-diagonal-v1/ai-editorial-endpoint.jpg",
+        "form-media/edits.json",
+        "form-media/dashboard/app.js"
+      ],
+      "notes": "Candidate for human review as ONE diagonal repetition only. The original 10-second repeated-diagonal version remains needs-review. No generated anatomy edits, reversal, interpolation or new generation credits were used.",
+      "editId": "r2-deadbug-illustrated-motion-one-diagonal-v1"
+    },
+    {
+      "shot": "r2-outdoor-walk-warm-motion",
+      "exerciseId": "cat_card_outdoor_walk",
+      "outputPath": "form-media/assets/delivery/round-2/r2-outdoor-walk-warm-motion-df9cc4d2.mp4",
+      "outputSha256": "b0104ff84e02673dbeb09823bcfe3f0e3dd7f521455582d6e847e906be4d8ff3",
+      "sha256": "b0104ff84e02673dbeb09823bcfe3f0e3dd7f521455582d6e847e906be4d8ff3",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:55:15.555615+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The corrected sequence takes a few alternating-looking steps and now settles into a balanced standing finish, held through the final samples.",
+        "The 0.0 and 3.5-second full-resolution samples repeat a similar crossed-leg stride near the same fixed path location.",
+        "The 7.8-second standing finish remains around that same area; the requested visible advance of roughly two foot-lengths is not established.",
+        "The 3.5-second sample still presents conspicuous near/far leg crossover, reducing the clarity of separate parallel walking tracks.",
+        "The 1.8-second intermediate sample and 7.8-second finish show intact feet, hands and head within the frame; the barefoot appearance is preserved."
+      ],
+      "limitations": [
+        "AI editorial inspection of the exact delivery keyframe sheet and four full-resolution samples, not trainer approval or continuous playback.",
+        "Oblique perspective can create apparent leg overlap; this does not by itself establish anatomical scissoring or a medical gait concern.",
+        "The plain path and sampled evidence cannot certify every support-foot contact or exact forward displacement."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_df9cc4d27ad1409b/keyframes.jpg",
+        "reports/form-media/attempt_df9cc4d27ad1409b/ai-editorial-start.jpg",
+        "reports/form-media/attempt_df9cc4d27ad1409b/ai-editorial-first-step.jpg",
+        "reports/form-media/attempt_df9cc4d27ad1409b/ai-editorial-second-step.jpg",
+        "reports/form-media/attempt_df9cc4d27ad1409b/ai-editorial-endpoint.jpg"
+      ],
+      "notes": "Keep needs-review for unclear forward travel and overlapping stride presentation. The stable ending is an improvement, but a timeline trim cannot create missing forward progression. Text or still guidance remains the simpler option for this round; this review does not request further generation."
+    },
+    {
+      "shot": "r2-bench-warm-motion",
+      "exerciseId": "ex_bench_press",
+      "outputPath": "form-media/assets/delivery/round-2/r2-bench-warm-motion-92d81c77.mp4",
+      "outputSha256": "5a5ea848eb49e4c67e07ecadc30fbde642551e16e062cad7e117e5232a7d1f02",
+      "sha256": "5a5ea848eb49e4c67e07ecadc30fbde642551e16e062cad7e117e5232a7d1f02",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T14:07:22+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "Independent full-resolution delivery inspection at 3.0, 3.5 and 4.0 seconds, plus the frozen master at 3.5 seconds.",
+        "At the held 3.0–3.5-second bottom, the bar is visibly separated from the torso silhouette and projects above the face/upper-chest region; a clear lower-sternum endpoint is not demonstrated.",
+        "The 4.0-second frame is already rising; the master shows the same bottom ambiguity, so delivery encoding is not responsible."
+      ],
+      "limitations": [
+        "The oblique projection does not prove the exact three-dimensional bar-to-body gap or establish neck contact.",
+        "Canonical Form requests a comfortable chest-level position, not literal chest contact or a measured lower-sternum point.",
+        "This is independent AI editorial inspection of sampled frames, not trainer approval or user acceptance."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_92d81c7704104fb3/independent-bottom-3p0.jpg",
+        "reports/form-media/attempt_92d81c7704104fb3/independent-bottom-3p5.jpg",
+        "reports/form-media/attempt_92d81c7704104fb3/independent-bottom-4p0.jpg",
+        "reports/form-media/attempt_92d81c7704104fb3/independent-master-bottom-3p5.jpg"
+      ],
+      "notes": "Downgrade confidence to needs-review because the decisive lowering endpoint remains ambiguous. Preserve the earlier central candidate record and all user fields. Prefer a clear real side-view reference or successful detail still for endpoint teaching; no further generation is requested by this review."
+    }
+  ]
+}

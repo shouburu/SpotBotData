@@ -1,0 +1,33 @@
+{
+  "id": "group_b17d511b7c9545c5",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T20:10:36+00:00",
+  "balanceBefore": 9618,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r9-ex-skullcrusher-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "243c0e6d5a2e9832f361d3d6705561d706c5a8c19c6a9c037e23abbeb05209c5",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-start-df00d678.json",
+      "quoteSha256": "840048a1e22931df171e774de0e19bace9de25e276862b046c2acec98eb1b2c2",
+      "quoteCredits": 0,
+      "balance": 9618,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_647bf0bee92c4d5b.jpg",
+          "sha256": "6f785e05b1a87bc172d94aedb0e31f33f2873fefd00c163d061e0ef4159fc3a9"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T20:11:35+00:00",
+  "balanceAfter": 9618,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-c8e9fa1c7e694eb0.json",
+  "evidenceSha256": "1fe8108329082f5d2f52990438e452c63ba9f59030ccff31be572ede8972518b"
+}

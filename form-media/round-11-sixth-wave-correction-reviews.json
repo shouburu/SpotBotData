@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-11",
+  "reviews": [
+    {
+      "assetId": "r11-bar-inverted-row-t2v-fdddc18b",
+      "attemptId": "attempt_fdddc18be09345b2",
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "shot": "r11-bar-inverted-row-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-bar-inverted-row-t2v-fdddc18b.mp4",
+      "outputSha256": "314c38217661270f41619ec5a54edda79aa07365ea7c566879f9e4715095b1ba",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:42:13.901694+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The figure holds an overhead rack bar rather than the lower fixed row bar, with a diagonal upright body instead of a near-horizontal under-bar start. The contact bar and setup do not teach a bar inverted row."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_fdddc18be09345b2/review-3fps-01.jpg",
+        "reports/form-media/attempt_fdddc18be09345b2/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-dumbbell-shrug-t2v-1c56de67",
+      "attemptId": "attempt_1c56de67e3fb4aa2",
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "shot": "r11-dumbbell-shrug-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-dumbbell-shrug-t2v-1c56de67.mp4",
+      "outputSha256": "20580c19f05aee7e7a18fd68b386ab80135ba53067cd126bab55f14746a39f2e",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:42:13.902263+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both shoulders elevate, but both elbows visibly flex and the dumbbells rise forward toward the hips. A shrug should keep the arms straight and move the weights only with the shoulder girdle."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_1c56de67e3fb4aa2/review-3fps-01.jpg",
+        "reports/form-media/attempt_1c56de67e3fb4aa2/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-arnold-press-t2v-6be4d20e",
+      "attemptId": "attempt_6be4d20e00a74ccc",
+      "exerciseId": "ex_arnold_press",
+      "shot": "r11-arnold-press-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-arnold-press-t2v-6be4d20e.mp4",
+      "outputSha256": "4615aa44058e3cd6c194f8e8e9bf673d6ff0ca236048e399571137c3120761f5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:42:13.902652+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The dumbbells rise above the head, an improvement over the prior draft, but the elbows remain substantially bent at the top and the weights do not reach a clear nearly straight overhead lockout. The full Arnold press range is not shown."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_6be4d20e00a74ccc/review-3fps-01.jpg",
+        "reports/form-media/attempt_6be4d20e00a74ccc/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-standing-dumbbell-calf-t2v-837b2f16",
+      "attemptId": "attempt_837b2f16d89b4710",
+      "exerciseId": "open_standing_dumbbell_cal_ed527460",
+      "shot": "r11-standing-dumbbell-calf-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-standing-dumbbell-calf-t2v-837b2f16.mp4",
+      "outputSha256": "e55b75d8aec7960c0784887bc59707573e3097f623c526cb48ab2b94bf042a0b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:42:13.902908+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The apparatus becomes a broad stepped platform. The heels appear supported by the lower level rather than hanging free beyond the upper step edge at the low endpoint. The required below-edge heel range is therefore unclear."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_837b2f16d89b4710/review-3fps-01.jpg",
+        "reports/form-media/attempt_837b2f16d89b4710/review-3fps-02.jpg"
+      ]
+    }
+  ]
+}

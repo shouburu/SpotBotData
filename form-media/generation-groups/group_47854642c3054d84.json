@@ -1,0 +1,66 @@
+{
+  "id": "group_47854642c3054d84",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T20:34:56+00:00",
+  "balanceBefore": 9398,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_leverage_high_row_c0482620",
+      "shot": "r9-open-leverage-high-row-c0482620-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "a5e5969052f9eb225f1b8ddbb29052a8b5556dbdd08f156d6b8b6b0ea48d674e",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-high-row-c0482620-start-bba51f12.json",
+      "quoteSha256": "8abe509fd260b2b00f06c6b4ac9093f82111f67db9e6cb5c84ce0e0f8a56c7bc",
+      "quoteCredits": 0,
+      "balance": 9398,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_pullover",
+      "shot": "r9-ex-pullover-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "5e0409271e93fa535285a48d5bdd1d30fce2971840f62fdf04d6aa9324d295a1",
+      "quoteFile": "form-media/ui-quotes/r9-ex-pullover-start-59551e1e.json",
+      "quoteSha256": "f8dd7cc9e0abfb68305a14ac66728174934e97975c1b07bf406a06d0ad016865",
+      "quoteCredits": 0,
+      "balance": 9398,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-pullover-start/attempt_afbc37b58bd74138.jpg",
+          "sha256": "806b0e233bcd05b271eb0cd981c44aa11c2798cdea6afe2478eb534c5fcc7498"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_hip_thrust",
+      "shot": "r9-ex-hip-thrust-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "5080b92083939df3417401513b5808a85dbda453066ee686fa2575be91a50d5f",
+      "quoteFile": "form-media/ui-quotes/r9-ex-hip-thrust-start-5a3d770d.json",
+      "quoteSha256": "c1c9419d5929cab01f292e923a7640e1f50a49acd392ce1e5829f0ead74c9aaf",
+      "quoteCredits": 0,
+      "balance": 9398,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r9-ex-dumbbell-fly-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "4541d441b8f54b25649434a7952f64a3642780f95b45cdd3d9643ef29d9f452d",
+      "quoteFile": "form-media/ui-quotes/r9-ex-dumbbell-fly-start-5b1c9d3f.json",
+      "quoteSha256": "a049184eb58f5f4f0bed2668f9be31a2f04f1bc75d1dd7ef626145c93fa5c626",
+      "quoteCredits": 0,
+      "balance": 9398,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T20:36:27+00:00",
+  "balanceAfter": 9398,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-5bfed83b194c4277.json",
+  "evidenceSha256": "764a2204acb7c193f70bb7b61ee49bbcb31123c4cf200ddca0bdea5c74047edd"
+}

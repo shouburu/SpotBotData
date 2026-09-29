@@ -1,0 +1,27 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "kind": "image",
+  "videoMode": "i2v",
+  "aspect": "9:16",
+  "count": 1,
+  "durationSeconds": null,
+  "model": "nano-pro",
+  "modelKey": "GEM_PIX_2",
+  "family": "Nano Banana Pro",
+  "credits": 0,
+  "visiblePriceText": "Generating will use 0 credits",
+  "settingsText": "image\nImage\nvideocam\nVideo\ncrop_16_9\n16:9\ncrop_landscape\n4:3\ncrop_square\n1:1\ncrop_portrait\n3:4\ncrop_9_16\n9:16\n\ud83c\udf4c Nano Banana Pro\narrow_drop_down\nx1\nx2\nx3\nx4\nGenerating will use 0 credits",
+  "selectedSettings": [
+    "imageImage",
+    "crop_9_169:16",
+    "x1"
+  ],
+  "resolutions": [],
+  "balance": 9298,
+  "visibleBalanceText": "9,298 Google Flow credits",
+  "observedAt": "2026-09-21T21:06:20.808430+00:00"
+}

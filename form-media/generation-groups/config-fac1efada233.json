@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-cable-wrist-curl-a1feb456-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-wrist-curl-a1feb456-start-1ed8adcf.json"
+    },
+    {
+      "shot": "r9-open-calf-press-619d1416-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-calf-press-619d1416-start-8fd262e4.json"
+    },
+    {
+      "shot": "r9-open-external-rotation-wit-c64eb9a6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-external-rotation-wit-c64eb9a6-start-1aedc115.json"
+    },
+    {
+      "shot": "r9-open-hack-squat-76a66305-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-hack-squat-76a66305-start-8cb63ccd.json"
+    }
+  ]
+}

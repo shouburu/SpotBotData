@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-shoulder-press-7ddeefb0-motion-db28b4a8.json"
+    },
+    {
+      "shot": "r9-open-cable-wrist-curl-a1feb456-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-wrist-curl-a1feb456-motion-439d6b86.json"
+    },
+    {
+      "shot": "r9-open-donkey-calf-raises-55a343b9-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-donkey-calf-raises-55a343b9-motion-be1bf070.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-incline-row-8f4625d1-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-incline-row-8f4625d1-motion-c7d636c7.json"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Form media · SpotBot</title>
+  <link rel="stylesheet" href="/styles.css">
+  <script src="/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#exercise-detail">Skip to exercise review</a>
+  <header class="app-header">
+    <div class="identity"><a href="/" class="wordmark" aria-label="SpotBot form media home">SpotBot<span class="brand-mark" aria-hidden="true"></span></a><span class="header-divider" aria-hidden="true"></span><h1>Form media</h1><span class="local-label">Local review</span></div>
+    <div class="header-tools"><span id="catalog-version" class="subtle">Loading catalog…</span><button id="refresh" class="button secondary" type="button">Refresh</button></div>
+  </header>
+  <section class="queue-summary" aria-label="Review progress and generation budget">
+    <div id="queue-progress" class="queue-copy">Preparing the review queue…</div>
+    <div id="budget" class="budget-summary" aria-label="Generation credit budget"></div>
+  </section>
+  <div id="load-error" class="load-error" role="alert" hidden></div>
+  <div class="workspace">
+    <aside class="catalog-panel" aria-label="Exercise catalog">
+      <button type="button" id="catalog-toggle" class="catalog-toggle" aria-expanded="false" aria-controls="catalog-browser"><span>Browse exercises</span><span id="mobile-result-count" class="subtle"></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></button>
+      <div id="catalog-browser" class="catalog-browser">
+        <div class="catalog-controls">
+          <div class="catalog-heading"><h2>Exercises</h2><span id="result-count" class="subtle"></span></div>
+          <label class="search-field"><span class="sr-only">Search exercises, equipment, or muscles</span><svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><input type="search" id="search" placeholder="Search exercises" autocomplete="off"></label>
+          <div class="scope-control" role="group" aria-label="Exercise scope"><button id="scope-pilot" type="button" aria-pressed="true">Pilot sample</button><button id="scope-all" type="button" aria-pressed="false">All exercises</button></div>
+          <button id="show-needs-review" type="button" class="button secondary">Show media needing review</button>
+          <details class="filter-details"><summary>Filters <span id="active-filter-count"></span></summary><div class="filter-grid">
+            <label>Generated in<select id="filter-generated-round"><option value="">All generation rounds</option></select></label>
+            <label>Activity<select id="filter-activity"><option value="">All activities</option></select></label>
+            <label>Format<select id="filter-format"><option value="">All formats</option></select></label>
+            <label>Review status<select id="filter-status"><option value="">All statuses</option><option value="pending">Pending</option><option value="needs-review">Needs review</option><option value="accepted">Accepted</option><option value="rejected">Rejected</option></select></label>
+            <button id="clear-filters" class="text-button" type="button">Clear filters</button>
+          </div></details>
+        </div>
+        <nav id="exercise-list" class="exercise-list" aria-label="Select an exercise" aria-busy="true"><div class="list-loading"><span></span><span></span><span></span><span></span></div></nav>
+      </div>
+      <div class="catalog-footnote">Pending: awaiting media. Needs review: new media or deferred decision.</div>
+    </aside>
+    <main id="exercise-detail" class="exercise-detail" tabindex="-1" aria-busy="true"><div class="detail-loading"><div class="loading-title"></div><div class="loading-stage"></div><p class="subtle">Loading exercise guidance and media…</p></div></main>
+  </div>
+  <div id="announcement" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+</body>
+</html>

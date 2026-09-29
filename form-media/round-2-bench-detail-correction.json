@@ -1,0 +1,24 @@
+{
+  "roundId": "round-2",
+  "jobs": [
+    {
+      "shot": "r2-bench-warm-detail-start",
+      "exerciseId": "ex_bench_press",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_27ddf3bf85de42c0",
+      "promptVersion": "2.1",
+      "reason": "Anchor the repeatedly missed lower-sternum endpoint in the actual bottom-position reference and add full elbow-bottom margin while retaining a close upper-body view."
+    },
+    {
+      "shot": "r2-bench-warm-detail-motion",
+      "exerciseId": "ex_bench_press",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "referenceShot": "r2-bench-warm-detail-start",
+      "promptVersion": "2.1",
+      "reason": "After exact corrected still hash is ready-to-animate, show one bottom-to-top press and controlled return to the same visible lower-sternum endpoint. Keep the existing full-body Warm context candidate."
+    }
+  ]
+}

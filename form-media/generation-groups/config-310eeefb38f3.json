@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-overhead-squat-2f8e8608-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-overhead-squat-2f8e8608-motion-8c981e3e.json"
+    },
+    {
+      "shot": "r9-open-pallof-press-69ae4277-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-pallof-press-69ae4277-motion-07d5a00a.json"
+    },
+    {
+      "shot": "r9-open-pallof-press-with-rot-04f5a0ff-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-pallof-press-with-rot-04f5a0ff-motion-cb6d12fc.json"
+    },
+    {
+      "shot": "r9-open-pull-through-c80507cd-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-pull-through-c80507cd-motion-ca03ca2b.json"
+    }
+  ]
+}

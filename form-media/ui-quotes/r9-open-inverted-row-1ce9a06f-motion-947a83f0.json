@@ -1,0 +1,34 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "kind": "video",
+  "videoMode": "i2v",
+  "aspect": "16:9",
+  "count": 1,
+  "durationSeconds": 8,
+  "model": "omni-flash",
+  "modelKey": "abra_i2v_8s",
+  "family": "Omni 1.1 Flash",
+  "credits": 12,
+  "visiblePriceText": "Generating will use 12 credits",
+  "settingsText": "image\nImage\nvideocam\nVideo\ncrop_free\nFrames\nchrome_extension\nIngredients\ncrop_16_9\n16:9\ncrop_9_16\n9:16\nOmni 1.1 Flash\narrow_drop_down\n360p\ninfo\n720p\n4s\n6s\n8s\n10s\nx1\nx2\nx3\nx4\nGenerating will use 12 credits",
+  "selectedSettings": [
+    "videocamVideo",
+    "crop_freeFrames",
+    "crop_16_916:9",
+    "720p",
+    "8s",
+    "x1"
+  ],
+  "resolutions": [
+    "720p"
+  ],
+  "balance": 5953,
+  "visibleBalanceText": "5,953 Google Flow credits",
+  "observedAt": "2026-09-22T01:56:18.592371+00:00",
+  "exerciseId": "open_inverted_row_1ce9a06f",
+  "shot": "r9-open-inverted-row-1ce9a06f-motion"
+}

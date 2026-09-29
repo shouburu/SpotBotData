@@ -1,0 +1,80 @@
+{
+  "id": "group_bb521899248b4f02",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T04:32:50+00:00",
+  "balanceBefore": 8582,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "ex_chest_dip",
+      "shot": "r8-ex-chest-dip-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "3b7d03bca43022f37a89e04ade48f09bfd55bd7ab16e9e26afc6597afabe743f",
+      "quoteFile": "form-media/ui-quotes/r8-ex-chest-dip-motion-213249995792.json",
+      "quoteSha256": "d829f6078e7756fa83eb5b51796bc7731746f5feb05076dccb06cbc405dffd13",
+      "quoteCredits": 12,
+      "balance": 8582,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-chest-dip-start/attempt_0ae2354b309447aa.jpg",
+          "sha256": "67532223abcbb05f47e40e764c4a99dc0755505a882bd087c9c2b86537838b9b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_pullover",
+      "shot": "r8-ex-pullover-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "61d6675473dfe11d2cbab38319b1dd53a116cb364f414da58a384553d719b7e3",
+      "quoteFile": "form-media/ui-quotes/r8-ex-pullover-motion-213249996173.json",
+      "quoteSha256": "3efe08243c6d95fee4889472e84d0cad86c422ec86192da158cbf0e4b91541eb",
+      "quoteCredits": 12,
+      "balance": 8582,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-pullover-start/attempt_4d5640dba6b14cbd.jpg",
+          "sha256": "6a184f0cfb0eb4f77da9a9091b937ac358f702417e73c378c94a1b2402b758f5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_pull_up",
+      "shot": "r8-ex-pull-up-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "860af7cbc3a31de41d94b8db3ed56c73e6773dcf455212975b823b88dc846a07",
+      "quoteFile": "form-media/ui-quotes/r8-ex-pull-up-motion-213249996303.json",
+      "quoteSha256": "82a626f4adeb200ecb2e6fb8068ae258b67a9ba04642074fcf0d0e76e1c43fbe",
+      "quoteCredits": 12,
+      "balance": 8582,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-pull-up-start/attempt_6540bf4f2719403c.jpg",
+          "sha256": "987ceefb3608c2abb181aa0724f23fcea3233d880f8a488077a32fabdba65267"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_straight_arm_pulldown",
+      "shot": "r8-ex-straight-arm-pulldown-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "ef48661b467a0f39462952db16f0c8663e8172aafc75d8c90c3233d94c2f7548",
+      "quoteFile": "form-media/ui-quotes/r8-ex-straight-arm-pulldown-motion-213249996412.json",
+      "quoteSha256": "9ad45b834e61d1b4361b55c677db763d9893a1db2f5dcc93d16657048166ea47",
+      "quoteCredits": 12,
+      "balance": 8582,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-straight-arm-pulldown-start/attempt_d9ab82db7d9c43ed.jpg",
+          "sha256": "047dffc123ef05edf28934d4eebdf0e9e55f90b101803a333c30272d178f78da"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T04:36:28+00:00",
+  "balanceAfter": 8534,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/group_bb521899248b4f02-after.json",
+  "evidenceSha256": "11f974b34b2584b9ec91a9fefba94886fa267c724dd07867cf2b51677f81a1c4"
+}

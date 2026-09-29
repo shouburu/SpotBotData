@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-cable-fly-start-ec6bcc05.json"
+    },
+    {
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-pec-deck-start-7b0319e3.json"
+    },
+    {
+      "shot": "r9-ex-lateral-raise-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-lateral-raise-start-f321d7ef.json"
+    },
+    {
+      "shot": "r9-ex-wrist-curl-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-wrist-curl-start-3a86899f.json"
+    }
+  ]
+}

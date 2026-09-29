@@ -1,0 +1,52 @@
+{
+  "id": "group_186f62ec4d0b4ac5",
+  "status": "failed-before-submission",
+  "roundId": "round-6",
+  "createdAt": "2026-09-15T20:53:14+00:00",
+  "balanceBefore": 8856,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_machine_chest_press",
+      "shot": "r6-ex-machine-chest-press-start",
+      "profile": "spotbot_media_1",
+      "promptSha256": "5116c0593d3e6088966a732e51dd713795fff326d25a0295a3ea8e14e99f0cc4",
+      "quoteFile": "form-media/ui-quotes/r6-ex-machine-chest-press-start-135314531822.json",
+      "quoteSha256": "e53d9a1abfb2589a8b1fc2de9093a5258f79902393a3bbccad48fc167c3d99a8",
+      "quoteCredits": 0,
+      "balance": 8856,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-machine-chest-press-start/attempt_4ea7814e492e47a3.jpg",
+          "sha256": "4c419318cd214d97475702fd2afc7aeab36a2c8c3d615ca1babfa0aee0a5152b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_pec_deck",
+      "shot": "r6-ex-pec-deck-start",
+      "profile": "spotbot_media_2",
+      "promptSha256": "437cf1acc6771728b07e95960c9ae60c0f989e36339dd45637fea010e43cf29c",
+      "quoteFile": "form-media/ui-quotes/r6-ex-pec-deck-start-135314532110.json",
+      "quoteSha256": "88154ee85e1d9de2bea76b436e53681d8918ec0d6fd9220804fdd6d52dd85e8d",
+      "quoteCredits": 0,
+      "balance": 8856,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_barbell_row",
+      "shot": "r6-ex-barbell-row-start",
+      "profile": "spotbot_media_3",
+      "promptSha256": "35c1d289349c1143be9c1c8dbbe9489722a10ffbf82313c7149499bb10dabaee",
+      "quoteFile": "form-media/ui-quotes/r6-ex-barbell-row-start-135314532228.json",
+      "quoteSha256": "0192e8846d5c1933aee573e137e4633eb28338b76ed3662d6826284ff9bfce48",
+      "quoteCredits": 0,
+      "balance": 8856,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "actualCredits": 0,
+  "balanceAfter": 8856,
+  "settledAt": "2026-09-15T21:01:15+00:00"
+}

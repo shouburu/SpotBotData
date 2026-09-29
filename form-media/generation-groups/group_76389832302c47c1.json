@@ -1,0 +1,60 @@
+{
+  "id": "group_76389832302c47c1",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:49:54+00:00",
+  "balanceBefore": 5906,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_rocking_standing_calf_28001de0",
+      "shot": "r8-open-rocking-standing-calf-28001de0-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "93f3d2bc9a96213a2ef46b56b91e80b56b15feb528a77769c26c34efa3637d07",
+      "quoteFile": "form-media/ui-quotes/r8-open-rocking-standing-calf-28001de0-motion-b83b9916.json",
+      "quoteSha256": "13786530d4b761a78d3c9b558fee9bc26d80ba04527cba2c1bbfe2668166b9a2",
+      "quoteCredits": 12,
+      "balance": 5906,
+      "references": []
+    },
+    {
+      "exerciseId": "open_rope_straight_arm_pul_913579c1",
+      "shot": "r8-open-rope-straight-arm-pul-913579c1-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "dd1a90a58308b659489920731b983c19a6da5b818f1c4b8ab3952d35677b3012",
+      "quoteFile": "form-media/ui-quotes/r8-open-rope-straight-arm-pul-913579c1-motion-a79ca856.json",
+      "quoteSha256": "f946a2e89c90a789f0f4f71f08386060e39c7ea19ab3a582b8b7a1c801691b81",
+      "quoteCredits": 12,
+      "balance": 5906,
+      "references": []
+    },
+    {
+      "exerciseId": "open_arnold_dumbbell_press_efb17b3d",
+      "shot": "r8-open-arnold-dumbbell-press-efb17b3d-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "38aa5bed3b0cfab7a19da66677184c8dafea78da6a4227d5f5308e5db7af3849",
+      "quoteFile": "form-media/ui-quotes/r8-open-arnold-dumbbell-press-efb17b3d-motion-75f18547.json",
+      "quoteSha256": "246181c847aa794e91a17d88a06595085ead91d8c05fdc82731972d9fd1af49e",
+      "quoteCredits": 12,
+      "balance": 5906,
+      "references": []
+    },
+    {
+      "exerciseId": "open_barbell_shoulder_pres_9239eb32",
+      "shot": "r8-open-barbell-shoulder-pres-9239eb32-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "c6718e138934b3ea2dd5f8a422f9db3e273b57ce885fe69e08e8121b6b176dab",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-shoulder-pres-9239eb32-motion-6a77788f.json",
+      "quoteSha256": "45144e715ffd2ca1419cb2e733962fec278b689c0b6fb2b5edac08e9edd49fdf",
+      "quoteCredits": 12,
+      "balance": 5906,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:51:35+00:00",
+  "balanceAfter": 5858,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-2634baacd92e4d98.json",
+  "evidenceSha256": "001809813d9f4c934800bb9e4f00a6be2c3db1e193ea134a9c717d43ab1cfc76"
+}

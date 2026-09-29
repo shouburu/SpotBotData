@@ -1,0 +1,13 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observedAt": "2026-09-15T18:35:53.003862+00:00",
+  "observer": "Codex via CUA",
+  "attemptId": "attempt_c0504d6c69224ebd",
+  "balance": 9216,
+  "visibleBalanceText": "9,216 Google Flow credits",
+  "outcome": "Local generation timed out without an output. Fresh Flow project shows uploaded reference as newest item, no step-up result or pending generation. Same-account balance unchanged; zero-credit quote reconciles to zero actual charge.",
+  "providerAcceptance": "Not confirmed: do not treat blank diagnostics as proof no request was sent.",
+  "incidentPath": "/Users/shouburu/Library/Application Support/gflow-cli/incidents/2026-09-15/20260915T183336Z-cf6553b5-9aa3-4042-8cdc-6755323d88ba-c3ee9f36c9-bd0e70",
+  "incidentNetworkSha256": "2c457f1badb4986d46ed2107f47b23b32ab37511d8cc7e9feabd57faaa5b00e8",
+  "retryPolicy": "Counts toward three-attempt ceiling. Do not automatically retry this exercise; inspect project for any delayed output before a deliberate retry."
+}

@@ -1,0 +1,60 @@
+{
+  "id": "group_1754c22e82884335",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:48:07+00:00",
+  "balanceBefore": 7586,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_calf_press_on_the_leg_17f193ab",
+      "shot": "r8-open-calf-press-on-the-leg-17f193ab-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "37d98ba773df5b66791a510042e5f0597f2052ff8b10bedcea914b827827309b",
+      "quoteFile": "form-media/ui-quotes/r8-open-calf-press-on-the-leg-17f193ab-motion-925799fd.json",
+      "quoteSha256": "209976455d04f89d90cb42a0aa1d6b7af0de0c50adb083021a12e58771d566a1",
+      "quoteCredits": 12,
+      "balance": 7586,
+      "references": []
+    },
+    {
+      "exerciseId": "open_calf_machine_shoulder_2e10a679",
+      "shot": "r8-open-calf-machine-shoulder-2e10a679-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "85a15f4f5b088a3912913b56754d4ba899a6721eb2cbf8853b73e1a2d273d90d",
+      "quoteFile": "form-media/ui-quotes/r8-open-calf-machine-shoulder-2e10a679-motion-6ad8989d.json",
+      "quoteSha256": "178d8aca5f14936c21174fa3a4b6b8392cbcd27612295d22800999f79113d3b0",
+      "quoteCredits": 12,
+      "balance": 7586,
+      "references": []
+    },
+    {
+      "exerciseId": "open_close_grip_ez_bar_cur_5047f80e",
+      "shot": "r8-open-close-grip-ez-bar-cur-5047f80e-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "6f0640300d552fedceae161208643b46f1982160324ce06acd09ec13eee66aa6",
+      "quoteFile": "form-media/ui-quotes/r8-open-close-grip-ez-bar-cur-5047f80e-motion-da63e2ff.json",
+      "quoteSha256": "c4111e2bcf4c93f5e01fa72d4964c703d95003f6234e6be44f1ba00d09f8de51",
+      "quoteCredits": 12,
+      "balance": 7586,
+      "references": []
+    },
+    {
+      "exerciseId": "open_close_grip_ez_bar_cur_2a1cff07",
+      "shot": "r8-open-close-grip-ez-bar-cur-2a1cff07-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "95209119ec8cf16ef003023480a1c07a4ca26fd2344f599d686d26927ca2877c",
+      "quoteFile": "form-media/ui-quotes/r8-open-close-grip-ez-bar-cur-2a1cff07-motion-eb06f41e.json",
+      "quoteSha256": "32613e977a98a9a2b1f95609903468b9e423fa156285881d926d52f8247bcf48",
+      "quoteCredits": 12,
+      "balance": 7586,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:49:31+00:00",
+  "balanceAfter": 7538,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-ca6d6158fe2a473c.json",
+  "evidenceSha256": "832a791c7503445f2a148936092d31f1b816d48179833a24894bdca6c38d2de9"
+}

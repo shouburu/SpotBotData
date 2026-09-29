@@ -1,0 +1,27 @@
+{
+  "id": "group_532dc7e2a1204776",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T07:02:25+00:00",
+  "balanceBefore": 5570,
+  "quotedCredits": 12,
+  "members": [
+    {
+      "exerciseId": "open_seated_two_arm_palms__f67f97ee",
+      "shot": "r8-open-seated-two-arm-palms--f67f97ee-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "64ccd3a8bbc9cd861aca937f4de661d11ce693a44d9489efb134f6a030cc96ef",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-two-arm-palms--f67f97ee-motion-35fb3258.json",
+      "quoteSha256": "a2e7f00102e6953f375c4ed0b079815468469c4e26a806916b4bb88d7d5eaa9a",
+      "quoteCredits": 12,
+      "balance": 5570,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T07:03:31+00:00",
+  "balanceAfter": 5558,
+  "actualCredits": 12,
+  "evidenceFile": "form-media/ui-quotes/observed-09e1eb6e2c674631.json",
+  "evidenceSha256": "fef681a86c90ac2f5ed62a539908fbb890ed1a2607e9a4cf302be5d78873fac0"
+}

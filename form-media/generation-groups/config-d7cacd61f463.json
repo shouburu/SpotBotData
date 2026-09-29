@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r11-arnold-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-arnold-press-t2v-e64459d6.json"
+    },
+    {
+      "shot": "r11-bar-inverted-row-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-bar-inverted-row-t2v-26439b78.json"
+    },
+    {
+      "shot": "r11-dumbbell-shrug-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-dumbbell-shrug-t2v-7fcd492c.json"
+    },
+    {
+      "shot": "r11-standing-dumbbell-calf-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-standing-dumbbell-calf-t2v-c8e836be.json"
+    }
+  ]
+}

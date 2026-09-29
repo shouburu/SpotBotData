@@ -1,0 +1,60 @@
+{
+  "id": "group_3310b6e37c174d00",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:07:44+00:00",
+  "balanceBefore": 7058,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_elevated_cable_rows_a67dc740",
+      "shot": "r8-open-elevated-cable-rows-a67dc740-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "84ccf5df608a2d001140dabc7dfd9ae504a7cbf904daf3101b9658e3ebf7a4d3",
+      "quoteFile": "form-media/ui-quotes/r8-open-elevated-cable-rows-a67dc740-motion-41cf17e7.json",
+      "quoteSha256": "9876267390ecbabaed7b1ca9bf951e25fbdafc9b3cc58537f04de4b8ba899af2",
+      "quoteCredits": 12,
+      "balance": 7058,
+      "references": []
+    },
+    {
+      "exerciseId": "open_external_rotation_wit_c64eb9a6",
+      "shot": "r8-open-external-rotation-wit-c64eb9a6-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "a40e5756a37a172d24354330771b2b939d9d488f7d0eccb5d29318378f564329",
+      "quoteFile": "form-media/ui-quotes/r8-open-external-rotation-wit-c64eb9a6-motion-131c9e71.json",
+      "quoteSha256": "5ba8322cce29483504fbba483d722b2a322b839cac0ed6a4771c808d932b2a14",
+      "quoteCredits": 12,
+      "balance": 7058,
+      "references": []
+    },
+    {
+      "exerciseId": "open_finger_curls_ada5939a",
+      "shot": "r8-open-finger-curls-ada5939a-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "77a048e877d6517c308ec08e32b4ec9c6e674bdb175208b26ef6f6807d5672a4",
+      "quoteFile": "form-media/ui-quotes/r8-open-finger-curls-ada5939a-motion-8ebcf6a0.json",
+      "quoteSha256": "cfefbb9a3f50c0cc4722534f1d739dc8e14a2b0e6fb62a862abd17b11333380a",
+      "quoteCredits": 12,
+      "balance": 7058,
+      "references": []
+    },
+    {
+      "exerciseId": "open_flat_bench_cable_flye_dae790fe",
+      "shot": "r8-open-flat-bench-cable-flye-dae790fe-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "a0a71d9b31d47475694c159f62e08cff7c200d8a34dc88eec01dbf1c79c92d32",
+      "quoteFile": "form-media/ui-quotes/r8-open-flat-bench-cable-flye-dae790fe-motion-9535ff30.json",
+      "quoteSha256": "40de0dec8c51e3dd89585ccaa0dbc89758cf308784e598afd7226cec654178ae",
+      "quoteCredits": 12,
+      "balance": 7058,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:08:55+00:00",
+  "balanceAfter": 7010,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-f396cfd47f374db3.json",
+  "evidenceSha256": "5a5dba6ead42e20b0346d2cef2271bed732c87bb9aa49ac03a1bfaa11eec1409"
+}

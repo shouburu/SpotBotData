@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-open-flexor-incline-dumbbe-dedd85c5-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-flexor-incline-dumbbe-dedd85c5-motion-03aa9e5f.json"
+    },
+    {
+      "shot": "r8-open-one-arm-dumbbell-benc-5cf5e4d5-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-one-arm-dumbbell-benc-5cf5e4d5-motion-197481de.json"
+    },
+    {
+      "shot": "r8-open-one-arm-dumbbell-prea-30ebd1a2-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-one-arm-dumbbell-prea-30ebd1a2-motion-98b5ee57.json"
+    },
+    {
+      "shot": "r8-open-one-arm-lat-pulldown-a710d63d-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-one-arm-lat-pulldown-a710d63d-motion-9c046d5d.json"
+    }
+  ]
+}

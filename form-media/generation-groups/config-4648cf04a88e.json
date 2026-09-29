@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-cable-hip-adduction-deb67de6-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-hip-adduction-deb67de6-motion-adc04ef8.json"
+    },
+    {
+      "shot": "r9-open-cable-internal-rotati-e82490e5-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-internal-rotati-e82490e5-motion-ee6c5445.json"
+    },
+    {
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-motion-899a071d.json"
+    },
+    {
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-shoulder-press-7ddeefb0-motion-7d531a7b.json"
+    }
+  ]
+}

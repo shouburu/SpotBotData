@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-front-squat-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-front-squat-start-f882635d.json"
+    },
+    {
+      "shot": "r9-ex-skullcrusher-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-start-38f43799.json"
+    },
+    {
+      "shot": "r9-ex-leg-press-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-leg-press-start-3760c65c.json"
+    },
+    {
+      "shot": "r9-open-leverage-high-row-c0482620-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-high-row-c0482620-start-408ad6ad.json"
+    }
+  ]
+}

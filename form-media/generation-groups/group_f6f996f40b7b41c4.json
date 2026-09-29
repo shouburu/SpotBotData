@@ -1,0 +1,60 @@
+{
+  "id": "group_f6f996f40b7b41c4",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:11:18+00:00",
+  "balanceBefore": 8282,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r8-ex-reverse-pec-deck-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "23cb2cacd643b6c9e6ee8a5e1b9b9e53f85067ef9627ca12e8e50dadbc6fb2a3",
+      "quoteFile": "form-media/ui-quotes/r8-ex-reverse-pec-deck-start-becf1b8c.json",
+      "quoteSha256": "93f72a6fa57f2cebdd6f152b99831ab2c6e005b643780ff259d7aa1f07bfad64",
+      "quoteCredits": 0,
+      "balance": 8282,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_preacher_curl",
+      "shot": "r8-ex-preacher-curl-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "d20433eff045ff5a7834edf413fcf57d62b0ba858ea4f727eac0d7a5482afd51",
+      "quoteFile": "form-media/ui-quotes/r8-ex-preacher-curl-start-bdf57231.json",
+      "quoteSha256": "b2aab61863b844adacab575bae78711095865f45791a77ec650c08f3840345c2",
+      "quoteCredits": 0,
+      "balance": 8282,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_cable_crunch",
+      "shot": "r8-ex-cable-crunch-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "6e931a127d80bee43d8e14b6eba90f91ce56501aa29a85ff432281f06c9bb098",
+      "quoteFile": "form-media/ui-quotes/r8-ex-cable-crunch-start-624364a0.json",
+      "quoteSha256": "2f1d365e0fc79190a06b68d37c21f2e4a3fb6cf29e269cccbf04d6f824892043",
+      "quoteCredits": 0,
+      "balance": 8282,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_cal_reverse_lunge",
+      "shot": "r8-cat-cal-reverse-lunge-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "6e00e4d6f34444c6704cf196b71539bff89127d12e2c2deb70832c6699ac84f2",
+      "quoteFile": "form-media/ui-quotes/r8-cat-cal-reverse-lunge-start-98218ff4.json",
+      "quoteSha256": "3c6008fb8c206105a4bc1cf4c084a223825946ac33fe53a725dce2ace95adb79",
+      "quoteCredits": 0,
+      "balance": 8282,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:12:31+00:00",
+  "balanceAfter": 8282,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-5d6104abf8c6424b.json",
+  "evidenceSha256": "41d95c33e34462b474c432653cfa8418da123cabe2173331160b28b6d4b8231e"
+}

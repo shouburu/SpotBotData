@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-start-91d67328.json"
+    },
+    {
+      "shot": "r9-open-incline-dumbbell-flye-f858d67d-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-incline-dumbbell-flye-f858d67d-start-e629f443.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-lunges-09699238-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lunges-09699238-start-e50c5e4a.json"
+    },
+    {
+      "shot": "r9-open-barbell-glute-bridge-0e7afdbd-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-glute-bridge-0e7afdbd-start-5405d6cd.json"
+    }
+  ]
+}

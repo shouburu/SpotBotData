@@ -1,0 +1,66 @@
+{
+  "id": "group_dc5f4565f7ab4243",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T20:05:15+00:00",
+  "balanceBefore": 9762,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_leverage_high_row_c0482620",
+      "shot": "r9-open-leverage-high-row-c0482620-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "7329f75fc6c6b00d0b494dcd048a48b987ad92bcfc4c75c752167f3c67a4530c",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-high-row-c0482620-motion-3b56ca6b.json",
+      "quoteSha256": "19b65acaddaa9bb31260debb34ec053137f617d7e10a2ac35f17dcfa0bd268bf",
+      "quoteCredits": 12,
+      "balance": 9762,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-leverage-high-row-c0482620-start/attempt_08af7f1164b344c5.jpg",
+          "sha256": "1cf58cbe90a4c6f09bd5f9808eb198477b6adb60a3a7bae2dffe06e53f225172"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_pullover",
+      "shot": "r9-ex-pullover-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "8cf621ea1ac2c0c1c050662b71f3c628b2516b0cdb115b0c62a42917f80c8450",
+      "quoteFile": "form-media/ui-quotes/r9-ex-pullover-motion-e4a00199.json",
+      "quoteSha256": "438582ecfc783747beb6423730df41ac97b259baf0a5a7c7752a498d82f5ae45",
+      "quoteCredits": 12,
+      "balance": 9762,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_romanian_deadlift",
+      "shot": "r9-ex-romanian-deadlift-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "53d639685a7e503259cc175526ab55991698c95057877e56cac1e3af8c5e69dd",
+      "quoteFile": "form-media/ui-quotes/r9-ex-romanian-deadlift-motion-9e411db1.json",
+      "quoteSha256": "bd69d46459ba1b3e7aa57a68f7cbce557e52efd22e799ccd9ce5d1cf682c3296",
+      "quoteCredits": 12,
+      "balance": 9762,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_hip_thrust",
+      "shot": "r9-ex-hip-thrust-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "1b3731b0613ddf7f163fdf9266fb327e87a7635c3c74abd85058236a587321f3",
+      "quoteFile": "form-media/ui-quotes/r9-ex-hip-thrust-motion-91d05e05.json",
+      "quoteSha256": "221672bec446adf6921f12746f36055822252dbcc5f881b2b21f7251ec58655b",
+      "quoteCredits": 12,
+      "balance": 9762,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T20:06:31+00:00",
+  "balanceAfter": 9714,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-a29e88fb95e84dba.json",
+  "evidenceSha256": "2af6ce7096a3c2fd72501dc64f283e76efb683c2e1f6571676a41c9c2d6c10f1"
+}

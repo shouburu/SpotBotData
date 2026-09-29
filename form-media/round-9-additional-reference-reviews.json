@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "attemptId": "attempt_177567e33b3840ab",
+      "assetId": "r9-ex-romanian-deadlift-start-177567e3",
+      "shot": "r9-ex-romanian-deadlift-start",
+      "exerciseId": "ex_romanian_deadlift",
+      "outputPath": "form-media/assets/masters/r9-ex-romanian-deadlift-start/attempt_177567e33b3840ab.jpg",
+      "outputSha256": "be882b9b91e3767af60f3c93b15a7d0ca8b52351ccfa3b68c5265358cbb55be3",
+      "reviewedOutput": {
+        "path": "form-media/assets/masters/r9-ex-romanian-deadlift-start/attempt_177567e33b3840ab.jpg",
+        "sha256": "be882b9b91e3767af60f3c93b15a7d0ca8b52351ccfa3b68c5265358cbb55be3",
+        "role": "master"
+      },
+      "alsoInspectedDelivery": {
+        "path": "form-media/assets/delivery/round-9/r9-ex-romanian-deadlift-start-177567e3.webp",
+        "sha256": "1c960019517c2673b67281d26e301def6a216dcf14e4676d8676b9e29df11fbe"
+      },
+      "status": "ready-to-animate",
+      "evidence": [
+        "A clear hip-hinge pose is present: hips back and high, torso substantially inclined toward horizontal, long arms, softly bent knees and planted feet. The back remains visually controlled.",
+        "The bar is at the upper-shin region just below the knees rather than the requested mid-shin. This is a prompt-depth difference, not an automatic form failure: the current catalog specifies a controlled hinge before the back rounds without a required shin depth.",
+        "Orange covers broad posterior thigh muscle regions; side-rear framing exposes these and leaves substantial standing headroom. The far hand is partly occluded by the camera perspective, so continuous contact must be checked in the motion."
+      ],
+      "notes": "Animate the actual reference hinge \u2192 fully standing \u2192 identical reference hinge. Do not describe this still as a mid-shin bar position or force a deeper return. Check that the right bar end remains inside the frame and the feet, grip and posterior glow stay stable.",
+      "limitations": [
+        "Exact master and its delivery derivative visually inspected. Still readiness is permission to try animation, not approval of unseen movement, human acceptance, or trainer validation."
+      ],
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T20:15:17.406279+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "roundId": "round-9"
+    },
+    {
+      "attemptId": "attempt_afbc37b58bd74138",
+      "assetId": "r9-ex-pullover-start-afbc37b5",
+      "shot": "r9-ex-pullover-start",
+      "exerciseId": "ex_pullover",
+      "outputPath": "form-media/assets/masters/r9-ex-pullover-start/attempt_afbc37b58bd74138.jpg",
+      "outputSha256": "806b0e233bcd05b271eb0cd981c44aa11c2798cdea6afe2478eb534c5fcc7498",
+      "reviewedOutput": {
+        "path": "form-media/assets/masters/r9-ex-pullover-start/attempt_afbc37b58bd74138.jpg",
+        "sha256": "806b0e233bcd05b271eb0cd981c44aa11c2798cdea6afe2478eb534c5fcc7498",
+        "role": "master"
+      },
+      "alsoInspectedDelivery": {
+        "path": "form-media/assets/delivery/round-9/r9-ex-pullover-start-afbc37b5.webp",
+        "sha256": "e78bd269fc41c3ecfbca3acde40b305fdaac51ea6e16cdb5fbed4e66872968ea"
+      },
+      "status": "needs-correction",
+      "evidence": [
+        "The dumbbell now reaches beyond the crown, and its upper head is held with the lower head hanging below the hands. Both feet, head support and the full current low weight are visible; this fixes the repeated above-face geometry in the motion attempts.",
+        "The bench/body fill nearly the whole landscape image width and the shoulder level is in the upper half of the image. There is not enough space above the chest for these same long arms and dumbbell to rise fully vertical without cropping or camera movement. The complete future movement envelope was a required reference gate.",
+        "The image shows a pronounced visible lumbar gap and raised rib cage. Because the catalog specifically asks full back support and limits lowering before the back arches, retain the new behind-head reach only after reducing this arch or using a slightly less extreme comfortable shoulder endpoint."
+      ],
+      "notes": "Reframe the full body/bench lower in the landscape canvas or slightly smaller, with generous space above the chest for the complete long-arm raised pose. Keep the dumbbell beyond the crown, supported head and feet; reduce the lumbar arch/rib flare. Do not animate the current fixed crop as if it already contains the full raised endpoint.",
+      "limitations": [
+        "Exact master and its delivery derivative visually inspected. Still readiness is permission to try animation, not approval of unseen movement, human acceptance, or trainer validation."
+      ],
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T20:15:17.406537+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "roundId": "round-9"
+    },
+    {
+      "attemptId": "attempt_1f13cb68cec44910",
+      "assetId": "r9-ex-pullover-start-1f13cb68",
+      "exerciseId": "ex_pullover",
+      "shot": "r9-ex-pullover-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-ex-pullover-start/attempt_1f13cb68cec44910.jpg",
+      "outputSha256": "3c2dc5a9cb3d90fb7db2dfeaf9f89fc9be18ad2a5e78d0e9a81b99f341265db9",
+      "reviewedOutput": {
+        "path": "form-media/assets/masters/r9-ex-pullover-start/attempt_1f13cb68cec44910.jpg",
+        "sha256": "3c2dc5a9cb3d90fb7db2dfeaf9f89fc9be18ad2a5e78d0e9a81b99f341265db9",
+        "role": "master"
+      },
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:41:36.648741+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "One coherent vertical hex dumbbell has one upper head, one shaft and one hanging lower head; the visible hand contacts the upper-head edge and the two arms remain joined.",
+        "The true side profile exposes the shoulder arc, supported head/back/pelvis, both planted feet and broad space beyond the crown.",
+        "The visible chest muscle is orange while the remaining anatomy is gray."
+      ],
+      "notes": "Use the actual high diagonal start, not an invented vertical-arm start. The palms and far hand are partly hidden in this true profile, so the reference is suitable for a motion trial with strict retained two-hand upper-head contact checks; the image alone does not prove the cupped underside grip.",
+      "limitations": [
+        "The visible hand wraps the upper-head side/edge; exact underside support and far-hand contact are partly occluded. This is a specific motion-review risk, not a claim that both cupped palms are fully visible.",
+        "Exact master and an enlarged hand-contact detail were inspected. Readiness permits an I2V trial only, not human acceptance, trainer validation or approval of unseen motion."
+      ],
+      "inspectionPaths": [
+        "form-media/assets/masters/r9-ex-pullover-start/attempt_1f13cb68cec44910.jpg",
+        "reports/form-media/attempt_1f13cb68cec44910/hand-contact-detail.png"
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/pullover-side-profile/r9-ex-pullover-motion-side-profile.txt",
+      "chosenMotionPromptSha256": "65938db120ac0f09dca608121e0308bc70e9c89362fa0add0309cc2a03c9d157",
+      "actualPoseBinding": {
+        "attemptId": "attempt_1f13cb68cec44910",
+        "path": "form-media/assets/masters/r9-ex-pullover-start/attempt_1f13cb68cec44910.jpg",
+        "sha256": "3c2dc5a9cb3d90fb7db2dfeaf9f89fc9be18ad2a5e78d0e9a81b99f341265db9",
+        "pose": "High diagonal joined-arm start, one vertical hex dumbbell contacted at its upper head; true side profile. The visible hand wraps the head edge; palms/far hand partly occluded."
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Seated Ankle Pump — motion schematic</title>
+<style>
+:root{color-scheme:light;--ink:#27352f;--muted:#58675e;--accent:#256b57;--line:#d0d8d1;--paper:#f3f3ee;font-family:ui-sans-serif,system-ui,sans-serif}*{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink)}main{max-width:760px;margin:auto;padding:20px}h1{font-size:20px;line-height:1.25;margin:0 0 6px;font-weight:650}p{font-size:14px;line-height:1.5;margin:0;color:var(--muted)}svg{display:block;width:100%;height:auto;margin:14px 0 10px;overflow:visible}svg text{font-family:inherit;fill:var(--muted);font-size:17px}.controls{display:flex;gap:8px;align-items:center;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:14px}button{min-height:44px;border:1px solid var(--accent);border-radius:7px;padding:9px 16px;background:var(--accent);color:#fff;font-family:inherit;font-weight:600;font-size:14px;cursor:pointer}button.secondary{background:transparent;color:var(--accent)}button:hover{filter:brightness(.93)}button:focus-visible,input:focus-visible{outline:3px solid #c08335;outline-offset:4px}label{display:block;font-size:13px;margin-top:16px;color:var(--muted)}input{width:100%;accent-color:var(--accent);min-height:32px;cursor:pointer}.phase{font-size:14px;flex:1;text-align:right;min-width:100px}.note{border-top:1px solid var(--line);padding-top:13px;margin-top:10px;font-size:12px}::selection{background:#d1e5db;color:var(--ink)}@media(max-width:400px){main{padding:16px}.phase{font-size:13px}svg text{font-size:18px}}
+</style>
+</head>
+<body><main>
+<h1>Seated Ankle Pump</h1>
+<p>Sit on the floor with one leg extended and the heel supported. Point away, then return toward the shin through a comfortable range.</p>
+<svg viewBox="0 0 640 390" role="img" aria-labelledby="figure-title figure-description">
+<title id="figure-title">Side view of a floor-seated ankle pump</title>
+<desc id="figure-description">A geometric figure sits on the floor with one extended leg. The highlighted foot points away and returns toward the shin while the heel stays supported. Use Play or scrub the movement below.</desc>
+<line x1="42" y1="325" x2="596" y2="325" stroke="#b9c5bc" stroke-width="2"/>
+<g fill="none" stroke="#596e61" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+<path id="leg" d="M204 300 L349.882 305.857 L487.771 311.393"/><path d="M204 317.5 L204 300 L185 185"/>
+<path d="M188 317.5 L220 317.5"/><path d="M188 193 L149 248 L150 317.5"/>
+</g>
+<circle cx="178" cy="144" r="25" fill="none" stroke="#596e61" stroke-width="12"/>
+<g fill="#f3f3ee" stroke="#596e61" stroke-width="3"><circle cx="204" cy="300" r="8"/><circle id="knee" cx="349.882" cy="305.857" r="8"/><circle id="ankle" cx="487.771" cy="311.393" r="8"/></g>
+<path id="foot" d="M0 23 L0 0 L72 0" transform="translate(487.771 311.393) rotate(-72)" fill="none" stroke="#256b57" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<circle id="heel" cx="509.646" cy="318.5" r="4" fill="#256b57"/>
+<path id="heel-guide" d="M500 349 L509.646 332" fill="none" stroke="#8a998e" stroke-width="1.5"/>
+<text x="500" y="373" text-anchor="middle">Heel supported</text>
+<text x="265" y="244" text-anchor="middle">Leg stays steady</text>
+</svg>
+<div class="controls"><button id="play" type="button" aria-pressed="false">Play</button><button id="restart" class="secondary" type="button">Restart</button><span class="phase" id="phase">Return toward shin</span></div>
+<label for="timeline">Movement position · drag to inspect</label><input id="timeline" type="range" min="0" max="1000" value="0" aria-valuetext="Start: foot toward shin">
+<p>One point-and-return cycle is one repetition. Complete the target on each ankle.</p>
+<p class="note">Motion schematic · anatomy and range are simplified, not prescribed angles. This is a draft teaching aid awaiting form review.</p>
+<noscript><p>The starting position is shown above. Enable JavaScript to play or scrub the movement.</p></noscript>
+</main>
+<script>
+(()=>{'use strict';const duration=5000,foot=document.getElementById('foot'),leg=document.getElementById('leg'),knee=document.getElementById('knee'),ankle=document.getElementById('ankle'),heel=document.getElementById('heel'),heelGuide=document.getElementById('heel-guide'),play=document.getElementById('play'),restart=document.getElementById('restart'),timeline=document.getElementById('timeline'),phase=document.getElementById('phase');let elapsed=0,lastTime=0,frameId=0,playing=false;
+const smooth=t=>t*t*(3-2*t);function pose(ms){if(ms<500)return[0,'Return toward shin'];if(ms<2000)return[smooth((ms-500)/1500),'Point away'];if(ms<2500)return[1,'Pause'];if(ms<4500)return[1-smooth((ms-2500)/2000),'Return toward shin'];return[0,'Pause'];}
+function render(){const[value,label]=pose(elapsed),degrees=-72+58*value,angle=degrees*Math.PI/180;
+// The foot is one rigid shape. Its round heel stays on the floor while the
+// extended leg rotates slightly at the hip; neither segment changes length.
+const ankleY=318.5-23*Math.cos(angle),ankleX=204+Math.sqrt(284**2-(ankleY-300)**2),kneeX=204+(ankleX-204)*146/284,kneeY=300+(ankleY-300)*146/284,heelX=ankleX-23*Math.sin(angle);
+foot.setAttribute('transform',`translate(${ankleX} ${ankleY}) rotate(${degrees})`);leg.setAttribute('d',`M204 300 L${kneeX} ${kneeY} L${ankleX} ${ankleY}`);knee.setAttribute('cx',kneeX);knee.setAttribute('cy',kneeY);ankle.setAttribute('cx',ankleX);ankle.setAttribute('cy',ankleY);heel.setAttribute('cx',heelX);heelGuide.setAttribute('d',`M500 349 L${heelX} 332`);timeline.value=String(Math.round(elapsed/duration*1000));timeline.setAttribute('aria-valuetext',`${label}, ${Math.round(elapsed/duration*100)} percent through cycle`);phase.textContent=label;}
+function pause(){playing=false;cancelAnimationFrame(frameId);play.textContent='Play';play.setAttribute('aria-pressed','false');}
+function tick(now){if(!playing)return;if(lastTime)elapsed=(elapsed+Math.min(now-lastTime,100))/duration%1*duration;lastTime=now;render();frameId=requestAnimationFrame(tick);}
+play.addEventListener('click',()=>{if(playing){pause();return;}playing=true;lastTime=0;play.textContent='Pause';play.setAttribute('aria-pressed','true');frameId=requestAnimationFrame(tick);});restart.addEventListener('click',()=>{elapsed=0;lastTime=0;render();});timeline.addEventListener('input',()=>{pause();elapsed=Number(timeline.value)/1000*duration;render();});document.addEventListener('visibilitychange',()=>{if(document.hidden)pause();});new IntersectionObserver(entries=>{if(!entries[0].isIntersecting)pause();}).observe(document.querySelector('svg'));matchMedia('(prefers-reduced-motion: reduce)').addEventListener('change',event=>{if(event.matches)pause();});render();})();
+</script></body></html>

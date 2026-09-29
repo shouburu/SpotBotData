@@ -1,0 +1,85 @@
+{
+  "id": "group_789d584400d040b1",
+  "status": "completed-with-failures",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T21:35:04+00:00",
+  "balanceBefore": 9066,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_dumbbell_lunges_09699238",
+      "shot": "r9-open-dumbbell-lunges-09699238-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "6c8d703425ba6a1d87bd0be69ed004d4af80fb4fce716ecdde64eda45ea04117",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lunges-09699238-motion-wire-46db4017.json",
+      "quoteSha256": "75f57aef7a38a26823170f7884e780b267fbae897828951ea96a6d568c7650b6",
+      "quoteCredits": 10,
+      "balance": 9066,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-lunges-09699238-start/attempt_5ff5974bfd644edc.jpg",
+          "sha256": "b0f8ab7adcee4cb3a1aca5ae5f485434822346ed79af19cc1d1777252b566412"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_seated_one_l_4de2b240",
+      "shot": "r9-open-dumbbell-seated-one-l-4de2b240-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "c4a27f1562ea9771b40b200b0eb56abe7a3297bce94578dda70d58ec97530bdb",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-seated-one-l-4de2b240-motion-wire-493bb1b8.json",
+      "quoteSha256": "8e399a81e584d7ab23bd837a287e04ea0d0e88de473c37e2a95d79831633cfba",
+      "quoteCredits": 10,
+      "balance": 9066,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-seated-one-l-4de2b240-start/attempt_94a1de0e3d284f48.jpg",
+          "sha256": "299c0942f898ba8001d317ae8ff4a6bad7389c07b7e663ef55ce611f921ae1ef"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "shot": "r9-open-dumbbell-shrug-5ed42a42-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "c357d1d1077d26a1cacda4343188606cd2bedbdbbffc779bc3db3a94df68edbe",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-shrug-5ed42a42-motion-wire-05991915.json",
+      "quoteSha256": "a380ad609bdeb50051845e69a483113b38577a0ecda1ced2878d49ca0b97ea2a",
+      "quoteCredits": 10,
+      "balance": 9066,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-shrug-5ed42a42-start/attempt_aad8f517bd2c480e.jpg",
+          "sha256": "08a6e34f19549744242fa83626a65834a4938bd3f4d88dd22d6e6cd82dd11c37"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_squat_ef95231f",
+      "shot": "r9-open-dumbbell-squat-ef95231f-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "9bbe036c6b2f744eda4f1d3618b73b05c444a207220f66744161174b44c8097d",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-squat-ef95231f-motion-wire-48c349cc.json",
+      "quoteSha256": "1181e7815aa2616ee4ab34b7e224e83ed7be4593d752d4f330395459b3c1f16d",
+      "quoteCredits": 10,
+      "balance": 9066,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-squat-ef95231f-start/attempt_1171f4f3c5a543be.jpg",
+          "sha256": "4f23cd4e52de34af0dfb094299ed601b70a01663cde552759d3426c5f1d9de4f"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T21:43:16+00:00",
+  "balanceAfter": 9046,
+  "actualCredits": 20,
+  "evidenceFile": "form-media/ui-quotes/round-9-wire-four-reconcile.json",
+  "evidenceSha256": "23441573de047f1997693a840858c23773def24eb28363a39e97d7ae3daddcd8",
+  "terminalFailureIds": [
+    "attempt_14be2427cf324e34",
+    "attempt_90476e9966fd4a15"
+  ]
+}

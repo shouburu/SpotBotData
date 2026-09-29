@@ -1,0 +1,82 @@
+{
+  "id": "group_eedc55f56c404fdb",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:52:31+00:00",
+  "balanceBefore": 4563,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_smith_machine_stiff_l_73127ddd",
+      "shot": "r10-open-smith-machine-stiff-l-73127ddd-start-v3",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "c5dcf62d326b7f6b41935871352276d7764b4ed1b91d5c9e5fdc82dd667edcda",
+      "quoteFile": "form-media/ui-quotes/r10-open-smith-machine-stiff-l-73127ddd-start-v3-9489ea08.json",
+      "quoteSha256": "7f8ca1d100be4a697d014e6b58e45a952fa09f0fdd0c8ac82d2664f531ef8fff",
+      "quoteCredits": 0,
+      "balance": 4563,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-smith-machine-stiff-l-73127ddd-start/attempt_12b81eaca67d451c.jpg",
+          "sha256": "b02159de9cf0dcd1c03035dd2dad905cc352085dff366227d3bfac613b95bb2b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_standing_dumbbell_cal_ed527460",
+      "shot": "r10-open-standing-dumbbell-cal-ed527460-start-v3",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "ea54765399efc1ffd5bedfea69687957bb508ad1299539b7f190df6debbcc2d2",
+      "quoteFile": "form-media/ui-quotes/r10-open-standing-dumbbell-cal-ed527460-start-v3-00f12b58.json",
+      "quoteSha256": "ad8ca420e94af73f5043f0c0a54306ef735ca60a0647970d8c893b05bc405c2d",
+      "quoteCredits": 0,
+      "balance": 4563,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-standing-dumbbell-cal-ed527460-start/attempt_bc444b948cb44f95.jpg",
+          "sha256": "cc49980ce02cc9bc92815f085b432ea7f50e6855e95d740800959ca0cefc622b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r10-ex-cable-fly-start-v3",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "ffeb0806f4ea4111fa86091bc3ca517aaa2f0252e02b2956d67e30bd9e455954",
+      "quoteFile": "form-media/ui-quotes/r10-ex-cable-fly-start-v3-7ff745d3.json",
+      "quoteSha256": "6b8f7d360ddb96d6dbba3b81f73a054662f48465299af322a940e35c7ad10e5f",
+      "quoteCredits": 0,
+      "balance": 4563,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-cable-fly-start/attempt_12e00f095087418f.jpg",
+          "sha256": "0d7d75b8a60f5c852d99c58c769f623d6c77263add02b62cf2baf1ed9aef7ed8"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "shot": "r10-open-thigh-adductor-933feed1-start-v3",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "6508f98928feca4668c9cd570e8f57419232a4c48011c00e651d979cbcecaf4c",
+      "quoteFile": "form-media/ui-quotes/r10-open-thigh-adductor-933feed1-start-v3-075f9424.json",
+      "quoteSha256": "a31516aa26ff499de261f159185d465891e0a6a911bcc3a6fc7ac0d6bb0c0f69",
+      "quoteCredits": 0,
+      "balance": 4563,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-thigh-adductor-933feed1-start-v2/attempt_43fef8b62d9244e9.jpg",
+          "sha256": "9662c58f3c3a696f2fa0c10c4f407eba0e0f35bb332514dab3607e29991afe2c"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:54:08+00:00",
+  "balanceAfter": 4563,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-51ee3658590d42e7.json",
+  "evidenceSha256": "21e867b571465f1688644850c35dcfb54ad880680a68b3edc4b6d03949c9d92a",
+  "terminalFailureIds": []
+}

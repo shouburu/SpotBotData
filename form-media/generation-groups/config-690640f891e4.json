@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-smith-machine-stiff-l-73127ddd-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-stiff-l-73127ddd-start-c2786b8a.json"
+    },
+    {
+      "shot": "r9-open-smith-machine-upright-8cdb2f40-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-upright-8cdb2f40-start-39c5adf4.json"
+    },
+    {
+      "shot": "r9-open-smith-single-leg-spli-c8f7e55e-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-single-leg-spli-c8f7e55e-start-3f720e3c.json"
+    },
+    {
+      "shot": "r9-ex-machine-chest-press-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-machine-chest-press-start-eb811d82.json"
+    }
+  ]
+}

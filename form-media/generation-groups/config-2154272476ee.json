@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-smith-machine-stiff-l-73127ddd-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-stiff-l-73127ddd-start-f443afdb.json"
+    },
+    {
+      "shot": "r9-open-standing-dumbbell-cal-ed527460-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-dumbbell-cal-ed527460-start-53aa33b4.json"
+    },
+    {
+      "shot": "r9-open-upright-barbell-row-5464c784-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-upright-barbell-row-5464c784-start-c8b782c1.json"
+    },
+    {
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-lying-triceps-e-ff29abb1-start-0dfbf92d.json"
+    }
+  ]
+}

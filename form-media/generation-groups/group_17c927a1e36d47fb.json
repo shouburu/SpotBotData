@@ -1,0 +1,82 @@
+{
+  "id": "group_17c927a1e36d47fb",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T01:56:28+00:00",
+  "balanceBefore": 5953,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "shot": "r9-open-inverted-row-1ce9a06f-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "20d1218c6b87a35830e4bf1c25be70310250e1a9e256a72f0cc8bb1e111ead1f",
+      "quoteFile": "form-media/ui-quotes/r9-open-inverted-row-1ce9a06f-motion-947a83f0.json",
+      "quoteSha256": "a7c0e3f9f2380942068ba9d026307cf1f3650ad5bfaee97fc2850059f4ded87d",
+      "quoteCredits": 12,
+      "balance": 5953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-inverted-row-1ce9a06f-start/attempt_84ff27eeae1c4cbc.jpg",
+          "sha256": "3460dc726fe3ab3e714d87a6b0ae85b0be644ee2bcfac2514b8da0dbaddf9b0c"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_single_arm_linear_jam_b53226fa",
+      "shot": "r9-open-single-arm-linear-jam-b53226fa-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "978a496036c9607f9b4e870f3111c3dd0cba30ed6fb5bb178c932fc6888ea04c",
+      "quoteFile": "form-media/ui-quotes/r9-open-single-arm-linear-jam-b53226fa-motion-63624ffb.json",
+      "quoteSha256": "e4654c0194d2fc90290734934ce6f118530bd0cdc5db36afc6a7d7f802660f1c",
+      "quoteCredits": 12,
+      "balance": 5953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-single-arm-linear-jam-b53226fa-start/attempt_dd3e99878b0448c0.jpg",
+          "sha256": "6b519396cc5e71a9bd5573c4eae940354303d72b0c9bad21c9b0e0e039f8313d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_smith_machine_bent_ov_01d0d0f3",
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "dc3920a26351c7e9ba42d58b9bc80e17149c8ab80e3d830eb3a97a57c96c12a9",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-bent-ov-01d0d0f3-motion-1fc504a6.json",
+      "quoteSha256": "0771905a89fe98bb6a7e9849694c1e4ed395918b895921c710bd93b3b3fa3630",
+      "quoteCredits": 12,
+      "balance": 5953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-start/attempt_f9fa8999b28a4747.jpg",
+          "sha256": "5ce714a58794f842db4028e6c44833952ec20e25da620411a99cccfde704ab92"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_leverage_incline_ches_0c70165e",
+      "shot": "r9-open-leverage-incline-ches-0c70165e-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "44113c7c19dd3cbadc9c458c3c42a33968eed2f72b861097477c9ed195b72a71",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-incline-ches-0c70165e-motion-8d47419d.json",
+      "quoteSha256": "a32369ecec121ed075a1f54861a1b4ec18bd786bd2e10a753426e2f3f8f26429",
+      "quoteCredits": 12,
+      "balance": 5953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-leverage-incline-ches-0c70165e-start/attempt_99275c881df244b1.jpg",
+          "sha256": "7fa3e6c52ed04724389b635c8aa4590561358398129df7e7db467a342739aec9"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T01:58:04+00:00",
+  "balanceAfter": 5905,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-61e0922d107f4e5a.json",
+  "evidenceSha256": "b7028530a38526e2fb896713010de2912220f25f60220d2c2fac9255190eaac5",
+  "terminalFailureIds": []
+}

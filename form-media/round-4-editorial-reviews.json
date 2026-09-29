@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-4",
+  "reviews": [
+    {
+      "shot": "r4-lateral-raise-anatomical-start",
+      "exerciseId": "ex_lateral_raise",
+      "outputPath": "form-media/assets/masters/r4-lateral-raise-anatomical-start/attempt_706cdb1bd9e949b6.jpg",
+      "outputSha256": "918f008c3963c04a191b8292c25a3acfa38458f1c6a25b103df8dfcfb986c768",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T16:39:25+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both separate dumbbells, natural standing start and coherent grips are present.",
+        "Full-body distant composition ignores the requested upper-thigh crop; smooth generic material and broad color caps lack the reference anatomical muscle-fiber detail."
+      ],
+      "limitations": [
+        "Hold motion until a closer, more anatomically detailed still is reviewed."
+      ]
+    },
+    {
+      "shot": "r4-lateral-raise-anatomical-motion",
+      "exerciseId": "ex_lateral_raise",
+      "outputPath": "form-media/assets/masters/r4-lateral-raise-anatomical-motion/attempt_0482029913ef428c.mp4",
+      "outputSha256": "6dc4fd0551d24117d3094a829499149eebe58f12550a79fb85a511bf666f2051",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T16:47:05+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Detailed gray anatomy and shoulder coloring remain readable; lowered start and return are visible.",
+        "One-second delivery contact sheet shows upper arms stopping diagonally below the shoulder line and an extra partial lift after the first return.",
+        "Dashboard delivery played from 0 to 8 seconds without a media error."
+      ],
+      "limitations": [
+        "Reject as a complete shoulder-height Lateral Raise instruction; retain only as a flagged style draft.",
+        "A trim cannot manufacture the missing horizontal raised endpoint."
+      ]
+    },
+    {
+      "shot": "r4-lateral-raise-anatomical-motion",
+      "exerciseId": "ex_lateral_raise",
+      "outputPath": "form-media/assets/delivery/round-4/r4-lateral-raise-anatomical-motion-04820299.mp4",
+      "outputSha256": "0550be09ccdaca8002606263dce02936cd9dc39d26387c4a813f2948418ac546",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T16:48:06.901553+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Detailed gray anatomy and shoulder coloring remain readable; lowered start and return are visible.",
+        "One-second delivery contact sheet shows upper arms stopping diagonally below the shoulder line and an extra partial lift after the first return.",
+        "Dashboard delivery played from 0 to 8 seconds without a media error."
+      ],
+      "limitations": [
+        "Reject as a complete shoulder-height Lateral Raise instruction; retain only as a flagged style draft.",
+        "A trim cannot manufacture the missing horizontal raised endpoint."
+      ]
+    },
+    {
+      "shot": "r4-lateral-raise-anatomical-motion",
+      "exerciseId": "ex_lateral_raise",
+      "outputPath": "form-media/assets/delivery/round-4/r4-lateral-raise-anatomical-motion-66a6b920.mp4",
+      "outputSha256": "aff3c04cc15e88d701d21bc63e2b99b23900cd2c3f6e7bf4fa220a5039431afd",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T16:55:10.939894+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Independent exact-master review and delivery contact sheet show one bilateral raise to approximately shoulder height, descending phase and stable lowered finish.",
+        "Both dumbbells stay in frame; gray muscle detail and orange shoulder regions remain attached in inspected phases.",
+        "Dashboard native player reached 8 seconds, ended normally, readyState 4, with no media error."
+      ],
+      "limitations": [
+        "AI editorial candidate; not trainer or user approval.",
+        "Slight head-top crop and feet outside the upper-body teaching crop.",
+        "Timing differs from prompt with a longer quiet finish; exact joint angles are not measured."
+      ]
+    },
+    {
+      "shot": "r4-seated-db-press-anatomical-motion",
+      "exerciseId": "open_seated_dumbbell_press_b32f5163",
+      "outputPath": "form-media/assets/delivery/round-4/r4-seated-db-press-anatomical-motion-de3c3b17.mp4",
+      "outputSha256": "1736c1df9eb036d761158b97ab3930b393c17308052d9e4c5d172b03602289fc",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T16:59:48.960179+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "One complete supported press from shoulder height through nearly straight overhead arms and return.",
+        "Independent top-frame inspection shows distinct dumbbells with a visible gap; no fused rod. Feet and bench support remain stable in the contact sheet.",
+        "Dashboard video played through 8 seconds, ended normally with readyState 4 and no media error."
+      ],
+      "limitations": [
+        "AI editorial candidate, not trainer or user approval.",
+        "Weights do not visibly touch at the top as the catalog wording requests; still a recognizable full press.",
+        "Shorter shorts than the shared reference remain a cosmetic variation."
+      ]
+    },
+    {
+      "shot": "r4-cable-row-anatomical-motion",
+      "exerciseId": "ex_seated_cable_row",
+      "outputPath": "form-media/assets/delivery/round-4/r4-cable-row-anatomical-motion-a10b5c29.mp4",
+      "outputSha256": "1872eaef18636aa83868685cd63427835983b73bd946ea0605da548c043fc06a",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T17:06:29.228592+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Contact sheet shows a recognizable pull and return with maintained foot support.",
+        "The model generated the word Form, a leader line and orange marker near the upper back, contrary to the all-gray unannotated style."
+      ],
+      "limitations": [
+        "Hold as correction evidence, not the recommended new-style candidate.",
+        "Remove the contextual mention of accompanying Form text from the generation prompt; the model appears to have rendered that production instruction."
+      ]
+    },
+    {
+      "shot": "r4-cable-row-anatomical-motion",
+      "exerciseId": "ex_seated_cable_row",
+      "outputPath": "form-media/assets/delivery/round-4/r4-cable-row-anatomical-motion-81725360.mp4",
+      "outputSha256": "cd2ae0a7004197629580fa1c16fbbec8ad5150b4e6fa03efd403afab27b883f1",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T17:11:30.803044+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Independent exact-master and contact-sheet review show lower-rib pull and full forward return, without labels or color artifacts.",
+        "Feet, hips and cable contacts remain coherent. Dashboard native playback ended normally at 8 seconds with no media error."
+      ],
+      "limitations": [
+        "Small trunk-angle change remains, but inspected frames show no large assisting swing.",
+        "AI editorial candidate; user and trainer review pending."
+      ]
+    },
+    {
+      "shot": "r4-squat-anatomical-start",
+      "exerciseId": "ex_squat",
+      "outputPath": "form-media/assets/masters/r4-squat-anatomical-start/attempt_efde0bd9d4ad4baa.jpg",
+      "outputSha256": "fe9792c1d0ecbc73eb1a97a1e605bd0518ee0fd9343dbe3d16b600844e4610ad",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T17:11:30.803519+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Standing back-squat setup with whole shoes grounded, coherent bar and hand support, and orange front-thigh regions.",
+        "Near-side left-facing view makes the hip-knee-ankle chain substantially clearer; full plate outline and standing headroom remain visible."
+      ],
+      "limitations": [
+        "Camera still has a small front offset rather than a perfectly orthographic profile.",
+        "Motion must show useful depth, no rack intersection, stable bar support and complete standing return."
+      ]
+    },
+    {
+      "shot": "r4-squat-anatomical-motion",
+      "exerciseId": "ex_squat",
+      "outputPath": "form-media/assets/delivery/round-4/r4-squat-anatomical-motion-31fded1c.mp4",
+      "outputSha256": "2bfad34a9738e62ced461b1752072347bbfc2230807372a8ff2ad6d33a612786",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T17:14:21.451709+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Sampled motion is only a shallow squat despite the requested meaningful depth.",
+        "Safety-rail geometry visually overlaps the buttock during the lowered phase.",
+        "Color and full standing return are present, but polish does not resolve the teaching or equipment problem."
+      ],
+      "limitations": [
+        "Not the recommended squat candidate.",
+        "Revise the starting scene to clear the whole motion volume and describe the visible endpoint more explicitly."
+      ]
+    },
+    {
+      "shot": "r4-squat-anatomical-start",
+      "exerciseId": "ex_squat",
+      "outputPath": "form-media/assets/masters/r4-squat-anatomical-start/attempt_efde0bd9d4ad4baa.jpg",
+      "outputSha256": "fe9792c1d0ecbc73eb1a97a1e605bd0518ee0fd9343dbe3d16b600844e4610ad",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T17:14:35.694373+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Actual motion revealed the safety rail intruding into the buttock during descent; static pose review did not establish sufficient clearance."
+      ],
+      "limitations": [
+        "Supersedes the prior ready-to-animate starting-frame gate.",
+        "Move the rack out of the complete motion volume before further animation."
+      ]
+    },
+    {
+      "shot": "r4-squat-anatomical-start",
+      "exerciseId": "ex_squat",
+      "outputPath": "form-media/assets/masters/r4-squat-anatomical-start/attempt_27dc073b4ed6473f.jpg",
+      "outputSha256": "e8f36419d693a16af64c47a9f63d29da203d363ff8f64945b51e95bca402d69d",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T17:19:07.417612+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Rack has been removed from the complete movement volume.",
+        "Standing pose, grounded shoes, bar/hand support and coherent orange thigh regions are preserved from the prior setup."
+      ],
+      "limitations": [
+        "Near-side view retains a small front offset.",
+        "Motion must independently establish meaningful depth, stable feet and a complete return."
+      ]
+    },
+    {
+      "shot": "r4-squat-anatomical-motion",
+      "exerciseId": "ex_squat",
+      "outputPath": "form-media/assets/delivery/round-4/r4-squat-anatomical-motion-c5d6dea2.mp4",
+      "outputSha256": "c5f0157569df596a5e2a78db242de770a97623489a15a18f43fd488556bbfce6",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T17:26:29.938068+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Independent exact-master review and contact sheet show meaningful hip/knee flexion, grounded feet, stable bar support, no rack interference and full standing return.",
+        "Native dashboard video played through 8 seconds and ended normally with no media error."
+      ],
+      "limitations": [
+        "Thighs remain somewhat above horizontal: this does not fully meet the specific prompt depth target.",
+        "Useful comfortable-depth comparison under catalog guidance; do not describe it as parallel-depth or competition-form instruction.",
+        "AI editorial candidate, pending user and trainer review."
+      ]
+    },
+    {
+      "shot": "r4-deadlift-anatomical-motion",
+      "exerciseId": "ex_deadlift",
+      "outputPath": "form-media/assets/delivery/round-4/r4-deadlift-anatomical-motion-5bcc600b.mp4",
+      "outputSha256": "6cec30284bdf6c21ba1d3b25f60c9eb5bd61ce7b48cf240f78a3fb7fe2af224a",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T17:26:52.944305+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Independent exact-master review shows one grounded floor lift, upright standing hold and controlled floor return.",
+        "Both plate rims are grounded by approximately 7.3 seconds and remain grounded through 7.95; grips and feet remain coherent.",
+        "The head settles slightly downward without a clear neck twist or torso rotation in inspected ending frames.",
+        "Native dashboard playback ended normally at 8 seconds with no media error."
+      ],
+      "limitations": [
+        "Retain the complete eight-second ending; a trim at seven seconds could omit floor contact.",
+        "Exact bar-to-midfoot distances, joint angles and bracing cannot be certified from the render.",
+        "AI editorial candidate, pending user and trainer review."
+      ]
+    }
+  ]
+}

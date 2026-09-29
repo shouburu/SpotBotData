@@ -1,0 +1,5 @@
+Restyle the supplied SEATED CABLE ROW image into the Warm ceramic look: realistic adult proportions, warm sand-colored ceramic body, muted teal fitted training kit, soft cream studio lighting, physically plausible charcoal equipment.
+
+Preserve the reference image's exact seated body pose and dedicated low-cable rowing station. Keep both feet on the correct bracing plates, knees softly bent, hips on the seat, torso upright, both hands gripping the same row handle. Keep ONE taut cable from that handle to ONE clearly visible low pulley IN FRONT of the person, with a coherent route. Preserve the close side camera and the lower-rib endpoint clearance. Do not add a second pulley, footplate set or machine behind the seated body. Do not replace the station with a rowing ergometer.
+
+Keep the same frame geometry; change only rendering materials and clothing color. Clean landscape16:9. No text, markers, arrows, muscle colors or split panels.

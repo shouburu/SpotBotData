@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-standing-front-barbel-9aba2baf-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-front-barbel-9aba2baf-start-a89c414d.json"
+    },
+    {
+      "shot": "r9-open-smith-machine-calf-ra-ccc5bca6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-calf-ra-ccc5bca6-start-794d1d84.json"
+    },
+    {
+      "shot": "r9-open-smith-single-leg-spli-c8f7e55e-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-single-leg-spli-c8f7e55e-start-6fb2171f.json"
+    },
+    {
+      "shot": "r9-open-standing-barbell-calf-3952bfa6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-barbell-calf-3952bfa6-start-482fb8cf.json"
+    }
+  ]
+}

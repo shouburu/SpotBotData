@@ -1,0 +1,72 @@
+{
+  "id": "group_1b19935b63d744d7",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T21:58:33+00:00",
+  "balanceBefore": 9016,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "9035dd44f6c74ac37ea3104ef03b5ebf341c858e2d2a24a93d005ec663527fdd",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-start-d02d0f51.json",
+      "quoteSha256": "96cadd7d6bdcd600e457d2231a368f2bb131ef3588d1a4903369cd00e629ba02",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-bent-arm-barbell-pull-bd488038-start/attempt_9b642efebe5c41a7.jpg",
+          "sha256": "3a4cf940996f1f3a9e23fc6d1738d302cb17bdfb902c9c8dc7cbe243ccbd999c"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_decline_dumbbell_flye_14b2de63",
+      "shot": "r9-open-decline-dumbbell-flye-14b2de63-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "318f383adabe5f40ea6dc7ba5fcd5bc76790d273f511b37a097b2b32dbca8b30",
+      "quoteFile": "form-media/ui-quotes/r9-open-decline-dumbbell-flye-14b2de63-start-5dd8bd39.json",
+      "quoteSha256": "358a6ef18c28582fb51dba12802567aeab0b2acdcfa1b6f024d511befb1ab1cc",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-decline-dumbbell-flye-14b2de63-start/attempt_98129bdd4a674089.jpg",
+          "sha256": "3599ced996bf161ccc0d4fde858b174acc9242fb334bb456e41419b745942cc6"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_incline_dumbbell_flye_f858d67d",
+      "shot": "r9-open-incline-dumbbell-flye-f858d67d-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "95327b9801c353824b351131bb8257ed8fbeb14133c22c7925e71161b60f72fa",
+      "quoteFile": "form-media/ui-quotes/r9-open-incline-dumbbell-flye-f858d67d-start-5b284f66.json",
+      "quoteSha256": "99127e93ad6cf23599132b2c6100b7c198023ce4cb5026f2fb78cecb0fe1f01d",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_straight_arm_pulldown",
+      "shot": "r9-ex-straight-arm-pulldown-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "9cfb7b9ca81b28d70d9c6ee684ff6fc614005fe96e132ac18ed490c8a6e87350",
+      "quoteFile": "form-media/ui-quotes/r9-ex-straight-arm-pulldown-start-9aeb8070.json",
+      "quoteSha256": "651ddfe8c28b7a974d07a275c22fd83ab8ea73fa538692ffbbb0ac64535152f8",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T22:00:06+00:00",
+  "balanceAfter": 9016,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-d32fa31bf7444c66.json",
+  "evidenceSha256": "f24eb9332d4f8712e86adc87698210ca4bb24d55092296bad47e41fce21e72ed",
+  "terminalFailureIds": []
+}

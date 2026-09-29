@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-ex-reverse-pec-deck-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-reverse-pec-deck-start-34fa3912.json"
+    },
+    {
+      "shot": "r8-ex-preacher-curl-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-preacher-curl-start-fcc10d87.json"
+    },
+    {
+      "shot": "r8-ex-cable-crunch-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-cable-crunch-start-d0ae1171.json"
+    },
+    {
+      "shot": "r8-cat-cal-reverse-lunge-start",
+      "quoteFile": "form-media/ui-quotes/r8-cat-cal-reverse-lunge-start-2d79756b.json"
+    }
+  ]
+}

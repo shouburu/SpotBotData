@@ -1,0 +1,31 @@
+{
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "exerciseId": "ex_pullover",
+      "shot": "r9-ex-pullover-start",
+      "outputPath": "form-media/assets/masters/r9-ex-pullover-start/attempt_f301d5d159eb4d4a.jpg",
+      "outputSha256": "059fd7a992d131b9b03ebbc42d4c4d14f4b8d69f31feb336cd9d0b8f7960f0f4",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:10:06+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "reference-ai-editorial",
+      "evidence": [
+        "One anatomically coherent figure lies with head, back and pelvis supported on the bench, both feet planted. The single vertical dumbbell is supported at its upper head beyond the crown.",
+        "The low behind-head starting pose has a small elbow bend and controlled rib position; the large empty upper half can contain the complete arc to above the chest.",
+        "Orange pectoral surfaces are visible; secondary triceps coloring is plausible and does not replace the primary muscle."
+      ],
+      "limitations": [
+        "Static reference review only; motion still needs exact-output review. Near-straight starting elbows must preserve a soft bend during the arc."
+      ],
+      "chosenMotionPrompt": {
+        "path": "reports/round-9-preparation/lying-reference-prompts/r9-ex-pullover-motion-9.5-proposal.txt",
+        "sha256": "e19a5000936a5b1b561189565468ded3dca5f8a3363ccef2cfd7e753342e2462"
+      },
+      "inspectionPaths": [
+        "form-media/assets/masters/r9-ex-pullover-start/attempt_f301d5d159eb4d4a.jpg"
+      ]
+    }
+  ]
+}

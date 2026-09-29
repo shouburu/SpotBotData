@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-open-seated-side-lateral-r-25a5c310-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-side-lateral-r-25a5c310-motion-5faf206c.json"
+    },
+    {
+      "shot": "r8-open-dumbbell-one-arm-shou-a06dd4c2-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-one-arm-shou-a06dd4c2-motion-bc1a57a6.json"
+    },
+    {
+      "shot": "r8-open-dumbbell-one-arm-tric-dcdb19fa-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-one-arm-tric-dcdb19fa-motion-5bdb1566.json"
+    },
+    {
+      "shot": "r8-open-seated-triceps-press-fd223bdc-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-triceps-press-fd223bdc-motion-779285f3.json"
+    }
+  ]
+}

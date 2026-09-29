@@ -1,0 +1,802 @@
+{
+  "roundId": "round-3",
+  "styleVersion": "3.0",
+  "selectedStyleId": "illustrated",
+  "selectedStyleLabel": "Graphic 3D",
+  "authorization": "Explicit user-requested revisions after Round 2 review. Remove Ankle Pump and the agreed similar movements before generation. Root submits one output at a time after exact starting-frame review.",
+  "creditContext": {
+    "cumulativeLimit": 1000,
+    "spentBeforeRound": 588,
+    "remainingBeforeRound": 412,
+    "estimatedFirstPassCredits": 108,
+    "estimatedAfterFirstPass": 696,
+    "estimatesAreNotLiveQuotes": true,
+    "submissionRule": "Verify the current live quote and reserve it against the existing cumulative cap before each submission. All rejected attempts and reference generation count. Stop if unknown or over budget.",
+    "retryRule": "At most two explicitly reviewed corrective regenerations per shot. Never automatically regenerate an accepted selection or an unresolved submission."
+  },
+  "jobs": [
+    {
+      "shot": "r3-lat-pulldown-illustrated-start",
+      "exerciseId": "ex_lat_pulldown",
+      "name": "Lat Pulldown",
+      "kind": "image",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.2",
+      "promptFile": "form-media/prompts/r3-lat-pulldown-illustrated-start.txt",
+      "promptSha256": "45ff9d3b0b2aa8d45e8873353e71d9e9a2ce1964f138d9a9bbdca724dbaf18c2",
+      "referenceShot": null,
+      "duration": null,
+      "model": "nano-pro",
+      "title": "Graphic 3D · Lowered position reference",
+      "alt": "Lat Pulldown shown at the completed pull, with the bar below the chin near the upper chest. This is the lower endpoint, not the exercise setup.",
+      "reason": "The user approved the Studio motion; recreate the useful movement in the chosen Graphic 3D standard.",
+      "teachingCoverage": "One front pulldown and controlled overhead return.",
+      "canonicalInstructions": [
+        "Secure the thigh pad and grip the overhead bar.",
+        "Pull the bar toward the upper chest while keeping the torso mostly still, then let the arms extend under control."
+      ],
+      "reviewGates": [
+        "Exact generated master path and SHA are independently reviewed before any paid motion submission.",
+        "Bar center is visibly below the whole chin near the upper sternum/top of the navy shirt; face and jaw are clear above it.",
+        "Elbows are lower than shoulders with a natural unchanged symmetric grip; no forced wrist or elbow geometry.",
+        "Bar remains in front of the torso without penetration, and its cable attachment is continuous and taut.",
+        "Hips, pad, feet, body proportions, equipment and Graphic 3D styling remain coherent.",
+        "Full bar width and overhead return space remain in frame; no zoom or new crop.",
+        "Reuse the existing logical starting-frame shot, respecting its existing attempt count; do not create a new shot to reset the retry allowance."
+      ],
+      "estimatedCredits": 0,
+      "estimateOnly": true,
+      "referenceFiles": [
+        {
+          "path": "form-media/assets/masters/r3-lat-pulldown-illustrated-start/attempt_edb49ceb940a4b94.jpg",
+          "sha256": "73169865dd9871b1965d590632feab07954cb7c09ba932936fa81866bdf6229d",
+          "role": "Exact Graphic 3D body, clothing, equipment, camera and lighting; edit only the upper-limb pose, bar height and working cable length"
+        }
+      ],
+      "productionDisposition": "review-ready",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r3-lat-pulldown-illustrated-motion",
+      "exerciseId": "ex_lat_pulldown",
+      "name": "Lat Pulldown",
+      "kind": "video",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.3",
+      "promptFile": "form-media/prompts/r3-lat-pulldown-illustrated-motion.txt",
+      "promptSha256": "6466cf3a7a4b097762e16cb1da4185f41e4096f803668b4b860dd3e9f998b69b",
+      "referenceShot": "r3-lat-pulldown-illustrated-start",
+      "duration": 8,
+      "model": "omni-flash",
+      "title": "Graphic 3D · Release and pulldown cycle",
+      "alt": "Lat Pulldown release and pulldown cycle: begins with the bar lowered near the upper chest, extends the arms overhead, then returns to the same lowered pose.",
+      "reason": "The user approved the Studio motion; recreate the useful movement in the chosen Graphic 3D standard.",
+      "teachingCoverage": "One controlled overhead release and pull from the lowered position. The canonical Form text retains the overhead setup instructions.",
+      "canonicalInstructions": [
+        "Secure the thigh pad and grip the overhead bar.",
+        "Pull the bar toward the upper chest while keeping the torso mostly still, then let the arms extend under control."
+      ],
+      "reviewGates": [
+        "Use the same logical motion shot: this would be attempt 3, the final permitted attempt after two existing completed attempts.",
+        "Verify the current live quote and reserve against the cumulative budget only after the exact new bottom-frame review passes.",
+        "Opening and final endpoints match the approved below-chin upper-chest pose.",
+        "The release reaches comfortable nearly straight arms overhead; both hands and bar ends remain visible.",
+        "One release and one pull occur in the intended order with no extra pulse; no playback reversal is used.",
+        "Cable, grip, pad, hips, feet and torso remain stable throughout the actual output.",
+        "The operator caption explicitly says the clip starts lowered, while canonical setup guidance remains unchanged."
+      ],
+      "estimatedCredits": 12,
+      "estimateOnly": true,
+      "caption": "Starts from the lowered position. Release overhead under control, then pull back toward the upper chest.",
+      "endFrameSameAsStart": false,
+      "generationModeNote": "Supported start-only fallback after confirmed pre-submission end-frame refusal on the migrated Flow frontend. Exact starting pose reviewed; actual ending and middle phases still require review.",
+      "productionDisposition": "review-ready",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r3-treadmill-walk-illustrated-start",
+      "exerciseId": "cat_card_treadmill_walking",
+      "name": "Treadmill Walking",
+      "kind": "image",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.0",
+      "promptFile": "form-media/prompts/r3-treadmill-walk-illustrated-start.txt",
+      "promptSha256": "57a2c5d3fad5ac65e9ec8600d583cf7118b79c91db320196a4335cdd20454e75",
+      "referenceShot": null,
+      "duration": null,
+      "model": "nano-pro",
+      "title": "Graphic 3D · Starting position",
+      "alt": "Treadmill Walking: A Graphic 3D starting posture for the revised movement demonstration.",
+      "reason": "The user approved the Studio walking demonstration; replace the style without changing the accepted simple walking phase.",
+      "teachingCoverage": "Steady walking phase; setup and stopping are written guidance.",
+      "canonicalInstructions": [
+        "Attach the safety clip and start with a slow belt speed.",
+        "Walk at a comfortable steady pace with an upright posture, then slow the belt before stepping off."
+      ],
+      "reviewGates": [
+        "Complete person, belt contacts and safety cord are visible.",
+        "At least one foot provides coherent walking support; no running or sliding.",
+        "Belt motion and walker position remain plausible."
+      ],
+      "estimatedCredits": 0,
+      "estimateOnly": true,
+      "referenceFiles": [
+        {
+          "path": "form-media/assets/masters/r2-squat-illustrated-start/attempt_17f3be4061f64afc.jpg",
+          "sha256": "3605a9e4a65b7ebc96e88b1f1833f199ea6d5930e00bdfbfc5b18e32e41db500",
+          "role": "Graphic 3D mannequin identity and visual treatment only"
+        },
+        {
+          "path": "form-media/assets/masters/r2-treadmill-walk-studio-start/attempt_a262cf332c4e476a.jpg",
+          "sha256": "758387cc558fa64d519d7cfc8f03a0e75441991d3d177316faa4dbced63eddc1",
+          "role": "Successful exercise pose, equipment and composition; replace prior material and clothing"
+        }
+      ],
+      "productionDisposition": "review-ready"
+    },
+    {
+      "shot": "r3-treadmill-walk-illustrated-motion",
+      "exerciseId": "cat_card_treadmill_walking",
+      "name": "Treadmill Walking",
+      "kind": "video",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.0",
+      "promptFile": "form-media/prompts/r3-treadmill-walk-illustrated-motion.txt",
+      "promptSha256": "6837fd0857d8f789e81466ee1beaf61184fa7ee07d5a7efb27499efcfd4a8f38",
+      "referenceShot": "r3-treadmill-walk-illustrated-start",
+      "duration": 8,
+      "model": "omni-flash",
+      "title": "Graphic 3D · Movement",
+      "alt": "Treadmill Walking: Steady walking phase; setup and stopping are written guidance.",
+      "reason": "The user approved the Studio walking demonstration; replace the style without changing the accepted simple walking phase.",
+      "teachingCoverage": "Steady walking phase; setup and stopping are written guidance.",
+      "canonicalInstructions": [
+        "Attach the safety clip and start with a slow belt speed.",
+        "Walk at a comfortable steady pace with an upright posture, then slow the belt before stepping off."
+      ],
+      "reviewGates": [
+        "Complete person, belt contacts and safety cord are visible.",
+        "At least one foot provides coherent walking support; no running or sliding.",
+        "Belt motion and walker position remain plausible."
+      ],
+      "estimatedCredits": 12,
+      "estimateOnly": true,
+      "productionDisposition": "review-ready"
+    },
+    {
+      "shot": "r3-leg-press-illustrated-start",
+      "exerciseId": "ex_leg_press",
+      "name": "Leg Press",
+      "kind": "image",
+      "aspect": "16:9",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.0",
+      "promptFile": "form-media/prompts/r3-leg-press-illustrated-start.txt",
+      "promptSha256": "1f062eaa6bc3f24034966822072d35cb1824b29b62b860af5ec338e9221e3181",
+      "referenceShot": null,
+      "duration": null,
+      "model": "nano-pro",
+      "title": "Graphic 3D · Starting position",
+      "alt": "Leg Press: A Graphic 3D starting posture for the revised movement demonstration.",
+      "reason": "The user said the prior movement is good and requested another style; reuse its successful fixed-seat sled geometry in Graphic 3D.",
+      "teachingCoverage": "One controlled sled lowering and press to the original extension.",
+      "canonicalInstructions": [
+        "Adjust the seat to keep the lower back supported throughout the movement.",
+        "Lower the sled through a comfortable knee bend, then press away without locking the knees forcefully."
+      ],
+      "reviewGates": [
+        "Fixed seat versus moving sled is unambiguous.",
+        "Both soles stay on one platform; lower back and hips remain supported.",
+        "A complete controlled cycle ends without forceful knee lockout."
+      ],
+      "estimatedCredits": 0,
+      "estimateOnly": true,
+      "referenceFiles": [
+        {
+          "path": "form-media/assets/masters/r2-squat-illustrated-start/attempt_17f3be4061f64afc.jpg",
+          "sha256": "3605a9e4a65b7ebc96e88b1f1833f199ea6d5930e00bdfbfc5b18e32e41db500",
+          "role": "Graphic 3D mannequin identity and visual treatment only"
+        },
+        {
+          "path": "form-media/assets/masters/r2-leg-press-warm-start/attempt_571b0695b5274884.jpg",
+          "sha256": "6159035f6e504550e61705b6a8b7c6acb25b18ffa32a65c3430a3ca820bb3e2f",
+          "role": "Successful exercise pose, equipment and composition; replace prior material and clothing"
+        }
+      ],
+      "productionDisposition": "review-ready"
+    },
+    {
+      "shot": "r3-leg-press-illustrated-motion",
+      "exerciseId": "ex_leg_press",
+      "name": "Leg Press",
+      "kind": "video",
+      "aspect": "16:9",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.0",
+      "promptFile": "form-media/prompts/r3-leg-press-illustrated-motion.txt",
+      "promptSha256": "04014b63c75a916286482a917ec21b308573b8a06721f19a3d7c169323a7bb18",
+      "referenceShot": "r3-leg-press-illustrated-start",
+      "duration": 8,
+      "model": "omni-flash",
+      "title": "Graphic 3D · Movement",
+      "alt": "Leg Press: One controlled sled lowering and press to the original extension.",
+      "reason": "The user said the prior movement is good and requested another style; reuse its successful fixed-seat sled geometry in Graphic 3D.",
+      "teachingCoverage": "One controlled sled lowering and press to the original extension.",
+      "canonicalInstructions": [
+        "Adjust the seat to keep the lower back supported throughout the movement.",
+        "Lower the sled through a comfortable knee bend, then press away without locking the knees forcefully."
+      ],
+      "reviewGates": [
+        "Fixed seat versus moving sled is unambiguous.",
+        "Both soles stay on one platform; lower back and hips remain supported.",
+        "A complete controlled cycle ends without forceful knee lockout."
+      ],
+      "estimatedCredits": 12,
+      "estimateOnly": true,
+      "productionDisposition": "review-ready"
+    },
+    {
+      "shot": "r3-low-stepup-illustrated-start",
+      "exerciseId": "cat_cal_low_stepup",
+      "name": "Low Step-Up",
+      "kind": "image",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.0",
+      "promptFile": "form-media/prompts/r3-low-stepup-illustrated-start.txt",
+      "promptSha256": "ae4d4747c659b7e7611f7636870f9dad8ec41bb2a2f3c3d90aaa9af42f8d4242",
+      "referenceShot": null,
+      "duration": null,
+      "model": "nano-pro",
+      "title": "Graphic 3D · Starting position",
+      "alt": "Low Step-Up: A Graphic 3D starting posture for the revised movement demonstration.",
+      "reason": "The user liked the ascent detail and requested another style; deliberately retain ascent-only teaching coverage in Graphic 3D.",
+      "teachingCoverage": "Ascent detail only; written Form supplies trailing-foot-first descent and repetition convention.",
+      "canonicalInstructions": [
+        "Place one foot fully on a low stable box whose height lets you step up without hopping.",
+        "Push through that foot to bring both feet onto the box, then step the trailing foot down first and return to the starting stance under control.",
+        "One ascent and descent counts as one repetition; complete the entered count leading with each leg."
+      ],
+      "reviewGates": [
+        "Head fits both initial and fully upright top positions.",
+        "Lead foot stays planted; trailing foot joins it on the box without a hop.",
+        "Both feet are fully supported at the final top hold.",
+        "Label as ascent detail; never imply this excerpt shows a full repetition."
+      ],
+      "estimatedCredits": 0,
+      "estimateOnly": true,
+      "referenceFiles": [
+        {
+          "path": "form-media/assets/masters/r2-squat-illustrated-start/attempt_17f3be4061f64afc.jpg",
+          "sha256": "3605a9e4a65b7ebc96e88b1f1833f199ea6d5930e00bdfbfc5b18e32e41db500",
+          "role": "Graphic 3D mannequin identity and visual treatment only"
+        },
+        {
+          "path": "form-media/assets/references/authored/r2-low-stepup-warm-start-canvas-v2.png",
+          "sha256": "1d936dc078401b73ba2ffa98755f72368a4cd1d54a5a584d01400ec236e06b6f",
+          "role": "Successful exercise pose, equipment and composition; replace prior material and clothing"
+        }
+      ],
+      "productionDisposition": "review-ready",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r3-low-stepup-illustrated-motion",
+      "exerciseId": "cat_cal_low_stepup",
+      "name": "Low Step-Up",
+      "kind": "video",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.0",
+      "promptFile": "form-media/prompts/r3-low-stepup-illustrated-motion.txt",
+      "promptSha256": "de75e1b73618487e7f3d65ca27219b95d34372872f48ec6609bc0ae7728d3214",
+      "referenceShot": "r3-low-stepup-illustrated-start",
+      "duration": 8,
+      "model": "omni-flash",
+      "title": "Graphic 3D · Ascent detail only",
+      "alt": "Low Step-Up: Ascent detail only; written Form supplies trailing-foot-first descent and repetition convention.",
+      "reason": "The user liked the ascent detail and requested another style; deliberately retain ascent-only teaching coverage in Graphic 3D.",
+      "teachingCoverage": "Ascent detail only; written Form supplies trailing-foot-first descent and repetition convention.",
+      "canonicalInstructions": [
+        "Place one foot fully on a low stable box whose height lets you step up without hopping.",
+        "Push through that foot to bring both feet onto the box, then step the trailing foot down first and return to the starting stance under control.",
+        "One ascent and descent counts as one repetition; complete the entered count leading with each leg."
+      ],
+      "reviewGates": [
+        "Head fits both initial and fully upright top positions.",
+        "Lead foot stays planted; trailing foot joins it on the box without a hop.",
+        "Both feet are fully supported at the final top hold.",
+        "Label as ascent detail; never imply this excerpt shows a full repetition."
+      ],
+      "estimatedCredits": 12,
+      "estimateOnly": true,
+      "productionDisposition": "review-ready",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r3-machine-chest-press-illustrated-start",
+      "exerciseId": "ex_machine_chest_press",
+      "name": "Machine Chest Press",
+      "kind": "image",
+      "aspect": "16:9",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.2",
+      "promptFile": "form-media/prompts/r3-machine-chest-press-illustrated-start.txt",
+      "promptSha256": "a8e0bf2b0096a8e12e728f912ea93bebbd58f4d7998d32f261ddd01fbec44631",
+      "referenceShot": null,
+      "duration": null,
+      "model": "nano-pro",
+      "title": "Graphic 3D · Extended-arm endpoint reference",
+      "alt": "Machine Chest Press shown after pressing, with both arms comfortably extended on the same grips and the back supported. This is the press endpoint, not the seat-adjustment setup.",
+      "reason": "The first new image centered the person but was nearly straight frontal, making the forward press hard to read. Keep the body centered while changing to a clear 35–45-degree front three-quarter view with room for both forward hand paths.",
+      "teachingCoverage": "One centered upper-body machine press and return; seat adjustment remains in Form text.",
+      "canonicalInstructions": [
+        "Adjust the seat so the handles align with the middle of the chest.",
+        "Keep the back supported as you press forward and return under control."
+      ],
+      "reviewGates": [
+        "Reuse the same logical starting-frame shot. Two completed attempts already exist; this would be its third and final allowed attempt.",
+        "Independently review the actual generated master path and SHA before any paid motion submission.",
+        "Both arms clearly show comfortable nearly straight endpoints at this camera angle; do not infer a passed endpoint merely from the far arm.",
+        "Unchanged arm proportions and plausible wrists; no joint hyperextension, enlarged hand or shortened upper arm to fake reach.",
+        "Both closed hands remain on the same vertical grips; rigid moving levers retain their lengths, bends and connections around the same implied pivots.",
+        "Head, sternum, back and hips remain centered and supported, with no torso slide or reaching lean.",
+        "Both shoulders, elbows, complete hands and grips remain distinct and within the frame.",
+        "If this final still remains ambiguous or introduces incorrect geometry, stop this branch with needs-review and do not spend on its dependent motion. No new logical shot may reset its retry limit."
+      ],
+      "estimatedCredits": 0,
+      "estimateOnly": true,
+      "referenceFiles": [
+        {
+          "path": "form-media/assets/masters/r3-machine-chest-press-illustrated-start/attempt_54e076930fd747a5.jpg",
+          "sha256": "22ded69b6f5bfc4c077eaa65158f5e4c5a1ad8495e5d92a8c05319335b126f60",
+          "role": "Exact centered three-quarter Graphic 3D composition, identity, seat, machine and support contacts; extend both arms by moving the same paired levers along their existing arcs"
+        }
+      ],
+      "productionDisposition": "blocked-review-gate",
+      "holdReason": "Three still attempts failed to establish a clearly readable extended-arm endpoint. Preserve prior outputs and exact reviews; no dependent paid motion or automatic retry. Revisit production approach after operator review."
+    },
+    {
+      "shot": "r3-machine-chest-press-illustrated-motion",
+      "exerciseId": "ex_machine_chest_press",
+      "name": "Machine Chest Press",
+      "kind": "video",
+      "aspect": "16:9",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.2",
+      "promptFile": "form-media/prompts/r3-machine-chest-press-illustrated-motion.txt",
+      "promptSha256": "6343ca68525ab656001d0a7b0ee7d88b8cd3ffd670ec8c8ff1f5dd7b16476d5f",
+      "referenceShot": "r3-machine-chest-press-illustrated-start",
+      "duration": 8,
+      "model": "omni-flash",
+      "title": "Graphic 3D · Return and press cycle",
+      "alt": "Machine Chest Press return and press cycle: starts with both arms extended, returns the handles toward the middle chest, then presses back to the same supported extended-arm endpoint.",
+      "reason": "The user rejected the off-center person. Recompose around a centered person and both hands, then show one supported press.",
+      "teachingCoverage": "One supported handle return and press beginning with the arms extended. Canonical Form retains seat adjustment, middle-chest handle alignment and supported press/return guidance.",
+      "canonicalInstructions": [
+        "Adjust the seat so the handles align with the middle of the chest.",
+        "Keep the back supported as you press forward and return under control."
+      ],
+      "reviewGates": [
+        "Reuse the same logical motion shot. One completed attempt exists; this would be attempt 2, with one further corrective attempt remaining afterward.",
+        "Only submit after independent review of the exact new endpoint master passes and the exact first-plus-end mode quote is known and reserved.",
+        "Opening and final endpoints match the reviewed extended master, with both elbows clearly nearly straight.",
+        "The intermediate return visibly reaches the readable middle-chest bent-elbow position, without handles passing behind the torso.",
+        "Both moving levers retain rigid geometry and plausible arcs; hands stay attached and no fly or torso movement substitutes for pressing.",
+        "One return and one press with readable pauses and a quiet tail; no extra pulse, reversal or cut.",
+        "Review both elbows, grip contacts and machine connections densely through both directions, not only the endpoints.",
+        "Title and caption explicitly say the clip begins extended; setup remains in adjacent unchanged Form text."
+      ],
+      "estimatedCredits": 12,
+      "estimateOnly": true,
+      "caption": "Starts with the arms extended. Return the handles toward the middle chest under control, then press back to the same extended position. Follow Form for seat adjustment and setup.",
+      "endFrameSameAsStart": true,
+      "productionDisposition": "blocked-review-gate",
+      "holdReason": "Three still attempts failed to establish a clearly readable extended-arm endpoint. Preserve prior outputs and exact reviews; no dependent paid motion or automatic retry. Revisit production approach after operator review."
+    },
+    {
+      "shot": "r3-cable-row-illustrated-start",
+      "exerciseId": "ex_seated_cable_row",
+      "name": "Seated Cable Row",
+      "kind": "image",
+      "aspect": "16:9",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.1",
+      "promptFile": "form-media/prompts/r3-cable-row-illustrated-start.txt",
+      "promptSha256": "082b3106e920a2c88756876d4693e86969df0e8b1f1bdecea5eae131bc3c38f6",
+      "referenceShot": null,
+      "duration": null,
+      "model": "nano-pro",
+      "title": "Graphic 3D · Starting position · Take 2",
+      "alt": "Seated Cable Row: A Graphic 3D starting posture for the revised movement demonstration.",
+      "reason": "The first image achieved true side profile but put the knees near a right angle. Preserve the successful camera and Graphic style; move the braced foot plates forward so the seated-row legs have a gentle unlocked bend.",
+      "teachingCoverage": "One strict-side seated row to lower ribs and controlled forward return.",
+      "canonicalInstructions": [
+        "Sit tall with feet braced and knees softly bent.",
+        "Pull the handle toward the lower ribs, then reach forward under control without rounding or rocking the torso."
+      ],
+      "reviewGates": [
+        "Camera is true side profile throughout.",
+        "Handle reaches lower ribs without torso rocking.",
+        "Feet stay braced, hips seated and cable taut."
+      ],
+      "estimatedCredits": 0,
+      "estimateOnly": true,
+      "referenceFiles": [
+        {
+          "path": "form-media/assets/masters/r2-squat-illustrated-start/attempt_17f3be4061f64afc.jpg",
+          "sha256": "3605a9e4a65b7ebc96e88b1f1833f199ea6d5930e00bdfbfc5b18e32e41db500",
+          "role": "Graphic 3D mannequin identity and visual treatment only"
+        }
+      ],
+      "productionDisposition": "review-ready",
+      "catalogGuidanceChangedAt": "2026-09-21",
+      "currentCatalogName": "Cable Row"
+    },
+    {
+      "shot": "r3-cable-row-illustrated-motion",
+      "exerciseId": "ex_seated_cable_row",
+      "name": "Seated Cable Row",
+      "kind": "video",
+      "aspect": "16:9",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.0",
+      "promptFile": "form-media/prompts/r3-cable-row-illustrated-motion.txt",
+      "promptSha256": "29f85e5d538d0459e30255e0e619326fd9d9808f4a28d5611658ecfccb5eedb3",
+      "referenceShot": "r3-cable-row-illustrated-start",
+      "duration": 8,
+      "model": "omni-flash",
+      "title": "Graphic 3D · Movement",
+      "alt": "Seated Cable Row: One strict-side seated row to lower ribs and controlled forward return.",
+      "reason": "The user requested a strict side profile to make the row easier to read; apply Graphic 3D as the chosen overall standard.",
+      "teachingCoverage": "One strict-side seated row to lower ribs and controlled forward return.",
+      "canonicalInstructions": [
+        "Sit tall with feet braced and knees softly bent.",
+        "Pull the handle toward the lower ribs, then reach forward under control without rounding or rocking the torso."
+      ],
+      "reviewGates": [
+        "Camera is true side profile throughout.",
+        "Handle reaches lower ribs without torso rocking.",
+        "Feet stay braced, hips seated and cable taut."
+      ],
+      "estimatedCredits": 12,
+      "estimateOnly": true,
+      "productionDisposition": "review-ready",
+      "catalogGuidanceChangedAt": "2026-09-21",
+      "currentCatalogName": "Cable Row"
+    },
+    {
+      "shot": "r3-overhead-press-illustrated-start",
+      "exerciseId": "ex_overhead_press",
+      "name": "Overhead Press",
+      "kind": "image",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.3",
+      "promptFile": "form-media/prompts/r3-overhead-press-illustrated-start.txt",
+      "promptSha256": "3cea42254f8dacc8e83dd87dd93ae0c6e474a3f2398f57f07440ed4bf63aa42f",
+      "referenceShot": null,
+      "duration": null,
+      "model": "nano-pro",
+      "title": "Graphic 3D · Frontal overhead endpoint reference",
+      "alt": "Overhead Press shown from the front after pressing, with both arms comfortably extended and the whole bar and both shoes visible. This is the overhead endpoint, not the rack setup.",
+      "reason": "Also keep the user-requested 0–6 second Studio edit; this new version supplies the chosen Graphic 3D standard and a quiet tail.",
+      "teachingCoverage": "One standing barbell press and return; rack setup and reracking remain in Form text.",
+      "canonicalInstructions": [
+        "Set a barbell in a rack near shoulder height. Take a grip just outside shoulder width, brace the trunk, and step back with the bar at the front of the shoulders.",
+        "Press overhead while keeping the ribs down and moving the head just enough to let the bar pass.",
+        "Lower to the front of the shoulders without leaning back, then return the bar to the rack after the set."
+      ],
+      "reviewGates": [
+        "Reuse the existing starting-frame shot. Two completed still attempts exist; this is its third and final allowed attempt.",
+        "Text-to-image only: pass no reference files, ingredients, first frame or last frame to the still generation. The prior bent-arm images remain provenance only.",
+        "Inspect the actual new master and exact SHA independently before any paid motion submission.",
+        "Directly frontal view makes both shoulder–elbow–wrist paths separately readable and comfortably almost straight at the overhead endpoint.",
+        "Natural grip just outside shoulder width, stable closed hands, coherent wrists and bar, no forced hyperextension or arm-length distortion.",
+        "Both complete bar ends, plates, hands and shoes are visible with overhead clearance and room for the full path to the front shoulders.",
+        "Ivory/navy Graphic 3D visual treatment remains consistent enough to review; no reference image is used to enforce exact prior identity.",
+        "If either endpoint clarity or anatomy/equipment fails, stop OHP generation. Do not create another still shot or spend on motion from this anchor. Retain the user-requested Studio trim for comparison with its existing review state."
+      ],
+      "estimatedCredits": 0,
+      "estimateOnly": true,
+      "referenceFiles": [],
+      "productionDisposition": "blocked-review-gate",
+      "holdReason": "Two actual motion attempts retain an unclear far elbow; three still attempts did not yield a valid replacement endpoint. Preserve the requested Studio 0–6 edit and all Graphic attempts for operator review. No automatic regeneration."
+    },
+    {
+      "shot": "r3-overhead-press-illustrated-motion",
+      "exerciseId": "ex_overhead_press",
+      "name": "Overhead Press",
+      "kind": "video",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.4",
+      "promptFile": "form-media/prompts/r3-overhead-press-illustrated-motion.txt",
+      "promptSha256": "a7f7e4c05250395b3d0148324c83d8801bfe14147f17d1d7400f4b80369f0e23",
+      "referenceShot": "r3-overhead-press-illustrated-start",
+      "duration": 8,
+      "model": "omni-flash",
+      "title": "Graphic 3D · Press and return · Endpoint correction",
+      "alt": "Overhead Press from the original fixed three-quarter view: one shoulder-height press to a clearly extended overhead pause, followed by a controlled return to the front shoulders.",
+      "reason": "Also keep the user-requested 0–6 second Studio edit; this new version supplies the chosen Graphic 3D standard and a quiet tail.",
+      "teachingCoverage": "One standing press and real return with a two-second overhead inspection pause. Canonical rack setup and reracking remain in Form.",
+      "canonicalInstructions": [
+        "Set a barbell in a rack near shoulder height. Take a grip just outside shoulder width, brace the trunk, and step back with the bar at the front of the shoulders.",
+        "Press overhead while keeping the ribs down and moving the head just enough to let the bar pass.",
+        "Lower to the front of the shoulders without leaning back, then return the bar to the rack after the set."
+      ],
+      "reviewGates": [
+        "Same logical motion shot; only one actual generated OHP motion exists, so this is corrective generated attempt 2. Reconcile any pre-submit ledger failures explicitly rather than inventing a new shot.",
+        "Confirm the exact original shoulder-height master and its existing ready-to-animate evidence before spending. No substitution of the later failed stills.",
+        "Both arms visibly extend through their full natural length; the far elbow cannot retain the previous bent goalpost endpoint.",
+        "Maximum overhead position is held clearly for about two seconds; both complete hands and bar ends remain in frame.",
+        "No bar-through-face penetration, knee drive, backward lean, limb shortening, camera change or equipment deformation.",
+        "The bar returns to the actual front shoulders by about 7 seconds and the final second remains still. No extra pulse or second repetition.",
+        "Review dense ascent, overhead pause and descent frames plus exact endpoints; record uncertainty from projection without inventing numerical angles.",
+        "This proposal does not automatically authorize a third generated motion or any further still. If the second output is unclear, hold it for review and retain prior comparisons."
+      ],
+      "estimatedCredits": 12,
+      "estimateOnly": true,
+      "caption": "Starts at the front shoulders. Press overhead, pause with both arms extended, then lower under control. Follow Form for rack setup and reracking.",
+      "endFrameSameAsStart": false,
+      "referenceAttemptId": "attempt_844e1c7739084186",
+      "pinnedSingleStartReference": {
+        "attemptId": "attempt_844e1c7739084186",
+        "path": "form-media/assets/masters/r3-overhead-press-illustrated-start/attempt_844e1c7739084186.jpg",
+        "sha256": "3612f2f37fb2d66601a61c2276bdfe61cee7d6cb8caa60d04649c75a2e9f563c",
+        "role": "Only first-frame reference: original valid shoulder-height Graphic 3D master; do not resolve the latest completed still"
+      },
+      "productionDisposition": "blocked-review-gate",
+      "holdReason": "Two actual motion attempts retain an unclear far elbow; three still attempts did not yield a valid replacement endpoint. Preserve the requested Studio 0–6 edit and all Graphic attempts for operator review. No automatic regeneration."
+    },
+    {
+      "shot": "r3-deadlift-illustrated-start",
+      "exerciseId": "ex_deadlift",
+      "name": "Barbell Deadlift",
+      "kind": "image",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.1",
+      "promptFile": "form-media/prompts/r3-deadlift-illustrated-start.txt",
+      "promptSha256": "90e1ea667dff8ea4cece2c976f35613462733bd948fd21d57c2dd8fe10b2e167",
+      "referenceShot": null,
+      "duration": null,
+      "model": "nano-pro",
+      "title": "Graphic 3D · Starting position · Take 2",
+      "alt": "Barbell Deadlift: A Graphic 3D starting posture for the revised movement demonstration.",
+      "reason": "The first Graphic image copied a hanging bar position and floating plates. Generate a new scene without the standing squat reference: establish full-diameter grounded plates first, then pose the adult to grip the fixed floor-height shaft.",
+      "teachingCoverage": "One conventional floor deadlift and controlled return, supplementary to the accepted expert reference.",
+      "canonicalInstructions": [
+        "Stand with the bar over the middle of the feet.",
+        "Hinge and bend the knees to grip it, brace the trunk, then stand with the bar close to the legs; reverse the movement to lower."
+      ],
+      "reviewGates": [
+        "Full-diameter grounded plates place the shaft near mid-shin; no ankle-height small discs.",
+        "Start is a hip hinge with hips above knees and both hands just outside legs.",
+        "Bar stays close to legs, torso remains controlled, top has no backward lean.",
+        "Both plates return to the floor under retained hand contact."
+      ],
+      "estimatedCredits": 0,
+      "estimateOnly": true,
+      "referenceFiles": [],
+      "productionDisposition": "review-ready",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r3-deadlift-illustrated-motion",
+      "exerciseId": "ex_deadlift",
+      "name": "Barbell Deadlift",
+      "kind": "video",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.0",
+      "promptFile": "form-media/prompts/r3-deadlift-illustrated-motion.txt",
+      "promptSha256": "55bbf796543673745250171bef0db6ad6c19dc83190cfcc26624f790f4a184b6",
+      "referenceShot": "r3-deadlift-illustrated-start",
+      "duration": 8,
+      "model": "omni-flash",
+      "title": "Graphic 3D · Movement",
+      "alt": "Barbell Deadlift: One conventional floor deadlift and controlled return, supplementary to the accepted expert reference.",
+      "reason": "The user explicitly requested a Graphic 3D option alongside the excellent accepted real reference. Prior undersized-plate stills must not be reused.",
+      "teachingCoverage": "One conventional floor deadlift and controlled return, supplementary to the accepted expert reference.",
+      "canonicalInstructions": [
+        "Stand with the bar over the middle of the feet.",
+        "Hinge and bend the knees to grip it, brace the trunk, then stand with the bar close to the legs; reverse the movement to lower."
+      ],
+      "reviewGates": [
+        "Full-diameter grounded plates place the shaft near mid-shin; no ankle-height small discs.",
+        "Start is a hip hinge with hips above knees and both hands just outside legs.",
+        "Bar stays close to legs, torso remains controlled, top has no backward lean.",
+        "Both plates return to the floor under retained hand contact."
+      ],
+      "estimatedCredits": 12,
+      "estimateOnly": true,
+      "productionDisposition": "review-ready",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r3-squat-illustrated-start",
+      "exerciseId": "ex_squat",
+      "name": "Barbell Squat",
+      "kind": "image",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.2",
+      "promptFile": "form-media/prompts/r3-squat-illustrated-start.txt",
+      "promptSha256": "958d083cc6fb2a4251379719fcd325a3992e388ed08f1593f7160efe18a6746e",
+      "referenceShot": null,
+      "duration": null,
+      "model": "nano-pro",
+      "title": "Graphic 3D · Squat depth position",
+      "alt": "A Graphic 3D squat depth example with controlled torso and both whole feet planted. This demonstrates a deeper position; use a comfortable individual depth rather than a measured universal target.",
+      "reason": "The first image retained the old oblique squat camera. Use a different Graphic identity reference, exact side profile and natural far-side occlusion; keep rack hardware out of the near hip/knee depth-assessment silhouette.",
+      "teachingCoverage": "One side-view squat to a clearly demonstrated comfortable example depth and return; no universal depth prescription.",
+      "canonicalInstructions": [
+        "Set the rack safeties and place the bar securely across the upper back.",
+        "Brace, bend the hips and knees to a comfortable depth, and stand by pressing through the whole foot."
+      ],
+      "reviewGates": [
+        "Near thigh visibly approximately parallel with near hip around knee level.",
+        "Both whole shoes retain their positions and heel/forefoot floor contact.",
+        "Trunk and pelvis remain controlled with coherent anatomy; no forced extreme crouch.",
+        "Original true-side frame and standing headroom are preserved."
+      ],
+      "estimatedCredits": 0,
+      "estimateOnly": true,
+      "referenceFiles": [
+        {
+          "path": "form-media/assets/masters/r3-squat-illustrated-start/attempt_cdca61d7874d4726.jpg",
+          "sha256": "97c4a1f5de11d04731ba49e810266c787f35d6d2ab484e2718914ab23ede986a",
+          "role": "Preserve exact true-side Graphic appearance and camera; change standing pose to the specified controlled parallel-depth bottom"
+        }
+      ],
+      "productionDisposition": "review-ready"
+    },
+    {
+      "shot": "r3-squat-illustrated-motion",
+      "exerciseId": "ex_squat",
+      "name": "Barbell Squat",
+      "kind": "video",
+      "aspect": "9:16",
+      "styleId": "illustrated",
+      "styleLabel": "Graphic 3D",
+      "styleVersion": "3.0",
+      "roundId": "round-3",
+      "promptVersion": "3.3",
+      "promptFile": "form-media/prompts/r3-squat-illustrated-motion.txt",
+      "promptSha256": "285822aff235cba88796f22e0bef5d41b0c0d333e4e3a6f29a56ab7389817593",
+      "referenceShot": "r3-squat-illustrated-start",
+      "duration": 8,
+      "model": "omni-flash",
+      "title": "Graphic 3D · Rise and lower from depth position",
+      "alt": "Starting at the demonstrated squat depth, the figure stands upright and lowers under control to the same bottom position. This detail begins and ends at depth; Form retains comfortable-depth guidance.",
+      "reason": "The accepted Graphic clip shows a shallow bend. A clearer side-view option will demonstrate approximately thigh-parallel depth while preserving the catalog instruction to use a comfortable depth.",
+      "teachingCoverage": "One rise and controlled lowering from the depth position; explicit bottom-to-standing-to-bottom coverage.",
+      "canonicalInstructions": [
+        "Set the rack safeties and place the bar securely across the upper back.",
+        "Brace, bend the hips and knees to a comfortable depth, and stand by pressing through the whole foot."
+      ],
+      "reviewGates": [
+        "Starts and finishes at the exact reviewed bottom reference.",
+        "Full upright middle position is readable.",
+        "Both shoes remain planted and bar support/anatomy stay stable through real controlled ascent and descent.",
+        "No extra tail cycle or shallow final substitute."
+      ],
+      "estimatedCredits": 12,
+      "estimateOnly": true,
+      "endFrameSameAsStart": false,
+      "generationModeNote": "Supported start-only fallback after confirmed pre-submission end-frame refusal on the migrated Flow frontend. Exact starting pose reviewed; actual ending and middle phases still require review.",
+      "productionDisposition": "review-ready"
+    }
+  ],
+  "nonGenerationActions": [
+    {
+      "exerciseId": "ex_overhead_press",
+      "action": "Create the exact user-requested original-speed source interval 0–6 seconds from r2-overhead-press-studio-motion-b6a8bba9; no added source tail and no generated replacement of the return. Retain as a separately labeled interim Studio edit.",
+      "sourceAttemptId": "attempt_b6a8bba9943043be",
+      "sourceAssetId": "r2-overhead-press-studio-motion-b6a8bba9",
+      "trimStartSeconds": 0,
+      "trimEndSeconds": 6,
+      "leadHoldSeconds": 0,
+      "tailHoldSeconds": 0,
+      "estimatedCredits": 0
+    },
+    {
+      "exerciseId": "ex_plank",
+      "action": "Restore the user preference for Round 1 plank-v1 and retain its original review history. No new image is needed.",
+      "preferredAssetIds": [
+        "plank-v1"
+      ],
+      "estimatedCredits": 0
+    },
+    {
+      "exerciseId": "cat_card_outdoor_walk",
+      "action": "Use text only as explicitly requested; do not spend credits or display optional rejected motion as a default.",
+      "estimatedCredits": 0
+    },
+    {
+      "exerciseId": "cat_cal_dead_bug",
+      "action": "Keep the accepted user-supplied expert reference; do not regenerate the rejected half-sequence.",
+      "preferredAssetIds": [
+        "r2-deadbug-user-reference"
+      ],
+      "estimatedCredits": 0
+    },
+    {
+      "exerciseId": "ex_deadlift",
+      "action": "Keep the approved CrossFit reference beside any new Graphic 3D option; new generated media must earn its own review.",
+      "preferredAssetIds": [
+        "r2-deadlift-crossfit-short"
+      ],
+      "estimatedCredits": 0
+    },
+    {
+      "exerciseId": "cat_mob_ankle_pump",
+      "action": "Remove from active catalog and queue under the root catalog-removal change; preserve production and review history only. No regeneration.",
+      "estimatedCredits": 0
+    }
+  ],
+  "scopeNotes": [
+    "Nine existing exercises, eighteen logical generation shots. No new exercises added.",
+    "Accepted Graphic 3D Calf Raise, Seated Dumbbell Press and Mountain Pose need no regeneration.",
+    "Accepted Clean and Jerk, Turkish Get-up, Walking Lunge, Dead Bug and real Bench references remain useful.",
+    "User approved the existing Graphic Squat but explicitly requested a depth check; replacement is a clearer demonstration option, not a claim that every person must reach a universal depth.",
+    "Short edits may isolate a real complete cycle at original speed with separately recorded endpoint holds. Never use reversal or interpolation to invent a missing phase.",
+    "Low Step-Up is intentionally an ascent-only detail. Its label and Form text must state the omitted descent and full repetition convention."
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-3",
+  "proposalVersion": "3.2",
+  "createdAt": "2026-09-10T15:55:08.718892+00:00",
+  "status": "proposal-only-not-submitted",
+  "exerciseId": "ex_machine_chest_press",
+  "canonicalInstructionsUnchanged": [
+    "Adjust the seat so the handles align with the middle of the chest.",
+    "Keep the back supported as you press forward and return under control."
+  ],
+  "rationale": "The first motion reaches a visually ambiguous near-arm maximum despite a readable far-arm extension. A same-camera extended endpoint should establish both arms and the machine contact geometry before another paid motion attempt. Beginning and ending extended supplies explicit endpoint anchors without changing canonical setup.",
+  "referenceInspection": {
+    "graphicReference": {
+      "path": "form-media/assets/masters/r3-machine-chest-press-illustrated-start/attempt_54e076930fd747a5.jpg",
+      "sha256": "22ded69b6f5bfc4c077eaa65158f5e4c5a1ad8495e5d92a8c05319335b126f60"
+    },
+    "failedMotionDelivery": {
+      "path": "form-media/assets/delivery/round-3/r3-machine-chest-press-illustrated-motion-f8170de2.mp4",
+      "sha256": "ac0b1e0201f911755301ea57fe140754f30f8f4856f374d10f7745f0ca43b95e"
+    },
+    "maximumFrameViewed": "reports/form-media/attempt_f8170de27dde4cda/independent-maximum-225.png",
+    "denseFramesViewed": "reports/form-media/attempt_f8170de27dde4cda/independent-press-dense.jpg",
+    "observation": "Dense 16 fps inspection of 1.5–2.5 seconds found no clearer endpoint than the 2.125–2.25 second maximum. The oblique camera foreshortens the near arm; this is an instructional-readability finding, not a numerical 3D joint-angle claim."
+  },
+  "startProposal": {
+    "shot": "r3-machine-chest-press-illustrated-start",
+    "kind": "image",
+    "model": "nano-pro",
+    "aspect": "16:9",
+    "promptVersion": "3.2",
+    "promptFile": "form-media/round-3-chest-extended-reference-proposal-3.2.txt",
+    "promptSha256": "a8e0bf2b0096a8e12e728f912ea93bebbd58f4d7998d32f261ddd01fbec44631",
+    "title": "Graphic 3D · Extended-arm endpoint reference",
+    "alt": "Machine Chest Press shown after pressing, with both arms comfortably extended on the same grips and the back supported. This is the press endpoint, not the seat-adjustment setup.",
+    "referenceFiles": [
+      {
+        "path": "form-media/assets/masters/r3-machine-chest-press-illustrated-start/attempt_54e076930fd747a5.jpg",
+        "sha256": "22ded69b6f5bfc4c077eaa65158f5e4c5a1ad8495e5d92a8c05319335b126f60",
+        "role": "Exact centered three-quarter Graphic 3D composition, identity, seat, machine and support contacts; extend both arms by moving the same paired levers along their existing arcs"
+      }
+    ],
+    "reviewGates": [
+      "Reuse the same logical starting-frame shot. Two completed attempts already exist; this would be its third and final allowed attempt.",
+      "Independently review the actual generated master path and SHA before any paid motion submission.",
+      "Both arms clearly show comfortable nearly straight endpoints at this camera angle; do not infer a passed endpoint merely from the far arm.",
+      "Unchanged arm proportions and plausible wrists; no joint hyperextension, enlarged hand or shortened upper arm to fake reach.",
+      "Both closed hands remain on the same vertical grips; rigid moving levers retain their lengths, bends and connections around the same implied pivots.",
+      "Head, sternum, back and hips remain centered and supported, with no torso slide or reaching lean.",
+      "Both shoulders, elbows, complete hands and grips remain distinct and within the frame.",
+      "If this final still remains ambiguous or introduces incorrect geometry, stop this branch with needs-review and do not spend on its dependent motion. No new logical shot may reset its retry limit."
+    ]
+  },
+  "motionProposal": {
+    "shot": "r3-machine-chest-press-illustrated-motion",
+    "kind": "video",
+    "model": "omni-flash",
+    "aspect": "16:9",
+    "duration": 8,
+    "promptVersion": "3.2",
+    "promptFile": "form-media/round-3-chest-motion-proposal-3.2.txt",
+    "promptSha256": "6343ca68525ab656001d0a7b0ee7d88b8cd3ffd670ec8c8ff1f5dd7b16476d5f",
+    "referenceShot": "r3-machine-chest-press-illustrated-start",
+    "requiresExactReviewedNewExtendedReference": true,
+    "firstAndLastFrames": {
+      "mode": "same-exact-reviewed-extended-anchor",
+      "referenceShot": "r3-machine-chest-press-illustrated-start",
+      "binding": "After the exact final still passes independent review, bind that identical new extended endpoint master path and SHA as both first and last image. Do not reuse the earlier bent-elbow image.",
+      "submission": "Use the guarded first-plus-end runner path, verify its actual live price, and record the exact quote and budget reservation. This proposal does not assume price equivalence."
+    },
+    "title": "Graphic 3D · Return and press cycle",
+    "caption": "Starts with the arms extended. Return the handles toward the middle chest under control, then press back to the same extended position. Follow Form for seat adjustment and setup.",
+    "alt": "Machine Chest Press return and press cycle: starts with both arms extended, returns the handles toward the middle chest, then presses back to the same supported extended-arm endpoint.",
+    "teachingCoverage": "One supported handle return and press beginning with the arms extended. Canonical Form retains seat adjustment, middle-chest handle alignment and supported press/return guidance.",
+    "reviewGates": [
+      "Reuse the same logical motion shot. One completed attempt exists; this would be attempt 2, with one further corrective attempt remaining afterward.",
+      "Only submit after independent review of the exact new endpoint master passes and the exact first-plus-end mode quote is known and reserved.",
+      "Opening and final endpoints match the reviewed extended master, with both elbows clearly nearly straight.",
+      "The intermediate return visibly reaches the readable middle-chest bent-elbow position, without handles passing behind the torso.",
+      "Both moving levers retain rigid geometry and plausible arcs; hands stay attached and no fly or torso movement substitutes for pressing.",
+      "One return and one press with readable pauses and a quiet tail; no extra pulse, reversal or cut.",
+      "Review both elbows, grip contacts and machine connections densely through both directions, not only the endpoints.",
+      "Title and caption explicitly say the clip begins extended; setup remains in adjacent unchanged Form text."
+    ]
+  },
+  "sideViewAlternativeJudgment": {
+    "preferredForThisBoundedAttempt": "Keep the existing centered three-quarter camera and change only the endpoint pose and corresponding lever positions. It can potentially retain both hands and both elbow paths while showing forward travel.",
+    "strictSideViewTradeoff": "A strict side view would make the nearer elbow extension and forward path easier to judge but can hide the farther arm behind the nearer arm or machine. It would not by itself establish both-arm endpoint correctness.",
+    "ifThreeQuarterFails": "Do not silently switch cameras, invent another shot or exceed the third-still limit. Keep this branch needs-review and retain text/existing reviewed reference media. A later separately scoped near-side detail plus another complementary view could teach the geometry, but is not submitted by this proposal."
+  }
+}

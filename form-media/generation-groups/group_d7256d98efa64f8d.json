@@ -1,0 +1,82 @@
+{
+  "id": "group_d7256d98efa64f8d",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T00:50:56+00:00",
+  "balanceBefore": 6473,
+  "quotedCredits": 46,
+  "members": [
+    {
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "shot": "r9-open-thigh-adductor-933feed1-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "b6e73c4985a63fdea1e1c1dc474c18bdff1bc52fefb9dd9fa93df3aa48d38897",
+      "quoteFile": "form-media/ui-quotes/r9-open-thigh-adductor-933feed1-motion-0ebe3242.json",
+      "quoteSha256": "fb61c966c0ac2674032e6bedc6bb0ac503b7ec1c009871217c96827110972a17",
+      "quoteCredits": 12,
+      "balance": 6473,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-thigh-adductor-933feed1-start/attempt_0f3e9b489bfe4078.jpg",
+          "sha256": "45dc5db7fb474144e5edf70857ba0183f2c86d8302a86868cdde14fff9ba9bf1"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_trap_bar_deadlift_c526cf24",
+      "shot": "r9-open-trap-bar-deadlift-c526cf24-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "7f43ed83140bf432970b8ca591ed3259ac863f4e99706d70382eba8dae75bfa1",
+      "quoteFile": "form-media/ui-quotes/r9-open-trap-bar-deadlift-c526cf24-motion-39ae4361.json",
+      "quoteSha256": "c93d06cfacad08f7761d00e56d6c5e0deb7df313fef23126d915f4e0d47d472e",
+      "quoteCredits": 12,
+      "balance": 6473,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-trap-bar-deadlift-c526cf24-start/attempt_62f440d022414c7b.jpg",
+          "sha256": "689246cc3bbdb4623abe585668f3952ffa0fd8e9a64002a0cdb426c94d85b515"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_weighted_jump_squat_f4b3559a",
+      "shot": "r9-open-weighted-jump-squat-f4b3559a-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "87be2fa0624e26a28d32269060a2eae9816df0ea3b1535a3466c91d013ace6b4",
+      "quoteFile": "form-media/ui-quotes/r9-open-weighted-jump-squat-f4b3559a-motion-73b1f04c.json",
+      "quoteSha256": "dccca41f96e1eec822b68c0942d4387cdc29de09548eb532a2fba73ba633ea75",
+      "quoteCredits": 12,
+      "balance": 6473,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-weighted-jump-squat-f4b3559a-start/attempt_7597432983524ff0.jpg",
+          "sha256": "402132e22b6cdeed4f14422b822a4fdde22943110fbac844fbe9a3292f3a68fb"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_wrist_curl",
+      "shot": "r9-ex-wrist-curl-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "c01143855ec152c5e1c081fb00f81cc381978176a832bddcb23be928d2673c93",
+      "quoteFile": "form-media/ui-quotes/r9-ex-wrist-curl-motion-0b73b53d.json",
+      "quoteSha256": "866cf023981201714dd6b71ba44b06d1f26f017f078b2ea107b1f09fe22087f5",
+      "quoteCredits": 10,
+      "balance": 6473,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-wrist-curl-start/attempt_a2f5daff451d4342.jpg",
+          "sha256": "e430db0aa896efeb3e79ca9676bb07c50a40d11a8c7b66c9bf14acf1d714516e"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T00:52:37+00:00",
+  "balanceAfter": 6427,
+  "actualCredits": 46,
+  "evidenceFile": "form-media/ui-quotes/observed-67dc2f3b3ed445cd.json",
+  "evidenceSha256": "9127ce80b9c991673f4037033c2e6b83096a472366e89a04ef17f258a1400b45",
+  "terminalFailureIds": []
+}

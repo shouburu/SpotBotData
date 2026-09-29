@@ -1,0 +1,508 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-3",
+  "recordedAt": "2026-09-10T16:15:53+00:00",
+  "phase": "awaiting-user-review",
+  "catalog": {
+    "version": "2026.09.6",
+    "revision": 4,
+    "activeExerciseCount": 879,
+    "removedRangeOfMotionAndStretching": 112,
+    "yogaPreserved": 39,
+    "pilotCount": 19
+  },
+  "budget": {
+    "limit": 1000,
+    "reserved": 0,
+    "spent": 744,
+    "remaining": 256
+  },
+  "roundCredits": 156,
+  "production": {
+    "ledgerRecords": 32,
+    "generatedStills": 18,
+    "generatedVideos": 13,
+    "confirmedPreSubmissionRefusals": 1,
+    "authoredEdits": 5,
+    "newAssets": 36,
+    "graphicVideoCandidates": 7,
+    "allNewAssetsHaveExactAiReview": true,
+    "masterBytes": 27080940,
+    "deliveryBytesIncludingPosters": 12445986
+  },
+  "selectedLibraryBytes": 6215580,
+  "maximumSelectedPackageBytes": 1221475,
+  "heldExerciseIds": [
+    "ex_machine_chest_press",
+    "ex_overhead_press"
+  ],
+  "graphicCandidateAssetIds": [
+    "r3-treadmill-walk-illustrated-motion-05469431",
+    "r3-leg-press-illustrated-cycle-v1",
+    "r3-low-stepup-illustrated-motion-6b233b7c",
+    "r3-deadlift-illustrated-motion-18fc6772",
+    "r3-cable-row-illustrated-cycle-v1",
+    "r3-lat-pulldown-illustrated-cycle-v1",
+    "r3-squat-illustrated-motion-depth-trim-v1"
+  ],
+  "exercises": [
+    {
+      "exerciseId": "ex_bench_press",
+      "name": "Barbell Bench Press",
+      "format": "external",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [
+        "r2-bench-crossfit-short",
+        "r2-bench-overhead-illustrated-still-587ba2ed"
+      ],
+      "selectedPackageBytes": 36104,
+      "selections": [
+        {
+          "id": "r2-bench-crossfit-short",
+          "kind": "external",
+          "styleId": "external",
+          "roundId": "round-2",
+          "durationSeconds": 38.901,
+          "bytes": 0,
+          "posterBytes": 0,
+          "aiStatus": "candidate",
+          "url": "https://www.youtube.com/watch?v=XSza8hVTlmM&t=30s"
+        },
+        {
+          "id": "r2-bench-overhead-illustrated-still-587ba2ed",
+          "kind": "image",
+          "styleId": "illustrated",
+          "roundId": "round-2",
+          "durationSeconds": null,
+          "bytes": 36104,
+          "posterBytes": 0,
+          "aiStatus": "rejected",
+          "url": "/assets/delivery/round-2/r2-bench-overhead-illustrated-still-587ba2ed.webp"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_calf_raise_standing",
+      "name": "Standing Calf Raise",
+      "format": "video",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [
+        "r2-calf-raise-illustrated-motion-0f0acba9"
+      ],
+      "selectedPackageBytes": 597552,
+      "selections": [
+        {
+          "id": "r2-calf-raise-illustrated-motion-0f0acba9",
+          "kind": "video",
+          "styleId": "illustrated",
+          "roundId": "round-2",
+          "durationSeconds": 8.0,
+          "bytes": 576558,
+          "posterBytes": 20994,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-2/r2-calf-raise-illustrated-motion-0f0acba9.mp4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_plank",
+      "name": "Plank",
+      "format": "image",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [
+        "plank-v1"
+      ],
+      "selectedPackageBytes": 17379,
+      "selections": [
+        {
+          "id": "plank-v1",
+          "kind": "image",
+          "styleId": null,
+          "roundId": "round-1",
+          "durationSeconds": null,
+          "bytes": 14848,
+          "posterBytes": 0,
+          "aiStatus": "accepted",
+          "url": "/assets/delivery/plank-v1.webp"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_clean_and_jerk",
+      "name": "Clean and Jerk",
+      "format": "external",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [
+        "r2-clean-jerk-trainheroic"
+      ],
+      "selectedPackageBytes": 0,
+      "selections": [
+        {
+          "id": "r2-clean-jerk-trainheroic",
+          "kind": "external",
+          "styleId": "external",
+          "roundId": "round-2",
+          "durationSeconds": 35.8,
+          "bytes": 0,
+          "posterBytes": 0,
+          "aiStatus": "candidate",
+          "url": "https://www.youtube.com/shorts/ZsCEUbs1Kzk"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_turkish_get_up",
+      "name": "Turkish Get-up",
+      "format": "external",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [
+        "r2-tgu-rebecca-rouse"
+      ],
+      "selectedPackageBytes": 0,
+      "selections": [
+        {
+          "id": "r2-tgu-rebecca-rouse",
+          "kind": "external",
+          "styleId": "external",
+          "roundId": "round-2",
+          "durationSeconds": 24.801,
+          "bytes": 0,
+          "posterBytes": 0,
+          "aiStatus": "candidate",
+          "url": "https://www.youtube.com/shorts/-Zsx2JTfGsU"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_yoga_mountain",
+      "name": "Yoga — Mountain Pose",
+      "format": "image",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [
+        "r2-mountain-illustrated-still-a3a1223b"
+      ],
+      "selectedPackageBytes": 26332,
+      "selections": [
+        {
+          "id": "r2-mountain-illustrated-still-a3a1223b",
+          "kind": "image",
+          "styleId": "illustrated",
+          "roundId": "round-2",
+          "durationSeconds": null,
+          "bytes": 26332,
+          "posterBytes": 0,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-2/r2-mountain-illustrated-still-a3a1223b.webp"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_card_treadmill_walking",
+      "name": "Treadmill Walking",
+      "format": "video",
+      "reviewStatus": "pending",
+      "productionStatus": "awaiting-user-review",
+      "selectedAssetIds": [
+        "r3-treadmill-walk-illustrated-motion-05469431"
+      ],
+      "selectedPackageBytes": 1221475,
+      "selections": [
+        {
+          "id": "r3-treadmill-walk-illustrated-motion-05469431",
+          "kind": "video",
+          "styleId": "illustrated",
+          "roundId": "round-3",
+          "durationSeconds": 8.0,
+          "bytes": 1185473,
+          "posterBytes": 36002,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-3/r3-treadmill-walk-illustrated-motion-05469431.mp4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_card_outdoor_walk",
+      "name": "Outdoor Walking",
+      "format": "text",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [],
+      "selectedPackageBytes": 0,
+      "selections": []
+    },
+    {
+      "exerciseId": "cat_cal_dead_bug",
+      "name": "Dead Bug",
+      "format": "video",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [
+        "r2-deadbug-user-reference"
+      ],
+      "selectedPackageBytes": 0,
+      "selections": [
+        {
+          "id": "r2-deadbug-user-reference",
+          "kind": "external",
+          "styleId": "external",
+          "roundId": "round-2",
+          "durationSeconds": 19.521,
+          "bytes": 0,
+          "posterBytes": 0,
+          "aiStatus": "candidate",
+          "url": "https://www.youtube.com/shorts/5c-vucY3beU"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_seated_dumbbell_press_b32f5163",
+      "name": "Seated Dumbbell Press",
+      "format": "video",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [
+        "r2-seated-db-press-illustrated-motion-trim-v1"
+      ],
+      "selectedPackageBytes": 387543,
+      "selections": [
+        {
+          "id": "r2-seated-db-press-illustrated-motion-trim-v1",
+          "kind": "video",
+          "styleId": "illustrated",
+          "roundId": "round-2",
+          "durationSeconds": 3.958333,
+          "bytes": 358353,
+          "posterBytes": 29190,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-2/r2-seated-db-press-illustrated-motion-trim-v1.mp4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_seated_cable_row",
+      "name": "Seated Cable Row",
+      "format": "video",
+      "reviewStatus": "pending",
+      "productionStatus": "awaiting-user-review",
+      "selectedAssetIds": [
+        "r3-cable-row-illustrated-cycle-v1"
+      ],
+      "selectedPackageBytes": 453256,
+      "selections": [
+        {
+          "id": "r3-cable-row-illustrated-cycle-v1",
+          "kind": "video",
+          "styleId": "illustrated",
+          "roundId": "round-3",
+          "durationSeconds": 5.5,
+          "bytes": 420760,
+          "posterBytes": 32496,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-3/r3-cable-row-illustrated-cycle-v1.mp4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_lat_pulldown",
+      "name": "Lat Pulldown",
+      "format": "video",
+      "reviewStatus": "pending",
+      "productionStatus": "awaiting-user-review",
+      "selectedAssetIds": [
+        "r3-lat-pulldown-illustrated-cycle-v1"
+      ],
+      "selectedPackageBytes": 558421,
+      "selections": [
+        {
+          "id": "r3-lat-pulldown-illustrated-cycle-v1",
+          "kind": "video",
+          "styleId": "illustrated",
+          "roundId": "round-3",
+          "durationSeconds": 6.25,
+          "bytes": 525117,
+          "posterBytes": 33304,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-3/r3-lat-pulldown-illustrated-cycle-v1.mp4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_leg_press",
+      "name": "Leg Press",
+      "format": "video",
+      "reviewStatus": "pending",
+      "productionStatus": "awaiting-user-review",
+      "selectedAssetIds": [
+        "r3-leg-press-illustrated-cycle-v1"
+      ],
+      "selectedPackageBytes": 539115,
+      "selections": [
+        {
+          "id": "r3-leg-press-illustrated-cycle-v1",
+          "kind": "video",
+          "styleId": "illustrated",
+          "roundId": "round-3",
+          "durationSeconds": 5.25,
+          "bytes": 487533,
+          "posterBytes": 51582,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-3/r3-leg-press-illustrated-cycle-v1.mp4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_machine_chest_press",
+      "name": "Machine Chest Press",
+      "format": "video",
+      "reviewStatus": "needs-review",
+      "productionStatus": "blocked-review-gate",
+      "selectedAssetIds": [],
+      "selectedPackageBytes": 0,
+      "selections": []
+    },
+    {
+      "exerciseId": "ex_squat",
+      "name": "Barbell Squat",
+      "format": "video",
+      "reviewStatus": "pending",
+      "productionStatus": "awaiting-user-review",
+      "selectedAssetIds": [
+        "r3-squat-illustrated-motion-depth-trim-v1"
+      ],
+      "selectedPackageBytes": 532223,
+      "selections": [
+        {
+          "id": "r3-squat-illustrated-motion-depth-trim-v1",
+          "kind": "video",
+          "styleId": "illustrated",
+          "roundId": "round-3",
+          "durationSeconds": 6.5,
+          "bytes": 511437,
+          "posterBytes": 20786,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-3/r3-squat-illustrated-motion-depth-trim-v1.mp4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_deadlift",
+      "name": "Barbell Deadlift",
+      "format": "video",
+      "reviewStatus": "pending",
+      "productionStatus": "awaiting-user-review",
+      "selectedAssetIds": [
+        "r2-deadlift-crossfit-short",
+        "r3-deadlift-illustrated-motion-18fc6772"
+      ],
+      "selectedPackageBytes": 675307,
+      "selections": [
+        {
+          "id": "r2-deadlift-crossfit-short",
+          "kind": "external",
+          "styleId": "external",
+          "roundId": "round-2",
+          "durationSeconds": 57.081,
+          "bytes": 0,
+          "posterBytes": 0,
+          "aiStatus": "candidate",
+          "url": "https://www.youtube.com/watch?v=op9kVnSso6Q&t=28s"
+        },
+        {
+          "id": "r3-deadlift-illustrated-motion-18fc6772",
+          "kind": "video",
+          "styleId": "illustrated",
+          "roundId": "round-3",
+          "durationSeconds": 8.0,
+          "bytes": 654989,
+          "posterBytes": 20318,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-3/r3-deadlift-illustrated-motion-18fc6772.mp4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_overhead_press",
+      "name": "Overhead Press",
+      "format": "video",
+      "reviewStatus": "needs-review",
+      "productionStatus": "blocked-review-gate",
+      "selectedAssetIds": [
+        "r3-overhead-press-studio-user-trim-0-6"
+      ],
+      "selectedPackageBytes": 491059,
+      "selections": [
+        {
+          "id": "r3-overhead-press-studio-user-trim-0-6",
+          "kind": "video",
+          "styleId": "studio",
+          "roundId": "round-3",
+          "durationSeconds": 6.0,
+          "bytes": 473501,
+          "posterBytes": 17558,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-3/r3-overhead-press-studio-user-trim-0-6.mp4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_lunge",
+      "name": "Walking Lunge",
+      "format": "external",
+      "reviewStatus": "accepted",
+      "productionStatus": "carried-forward",
+      "selectedAssetIds": [
+        "r2-walking-lunge-rogue-loaded"
+      ],
+      "selectedPackageBytes": 0,
+      "selections": [
+        {
+          "id": "r2-walking-lunge-rogue-loaded",
+          "kind": "external",
+          "styleId": "external",
+          "roundId": "round-2",
+          "durationSeconds": 29.281,
+          "bytes": 0,
+          "posterBytes": 0,
+          "aiStatus": "candidate",
+          "url": "https://www.youtube.com/watch?v=sXTcmJ_CIQM"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_low_stepup",
+      "name": "Low Step-Up",
+      "format": "video",
+      "reviewStatus": "pending",
+      "productionStatus": "awaiting-user-review",
+      "selectedAssetIds": [
+        "r3-low-stepup-illustrated-motion-6b233b7c"
+      ],
+      "selectedPackageBytes": 679814,
+      "selections": [
+        {
+          "id": "r3-low-stepup-illustrated-motion-6b233b7c",
+          "kind": "video",
+          "styleId": "illustrated",
+          "roundId": "round-3",
+          "durationSeconds": 8.0,
+          "bytes": 658228,
+          "posterBytes": 21586,
+          "aiStatus": "candidate",
+          "url": "/assets/delivery/round-3/r3-low-stepup-illustrated-motion-6b233b7c.mp4"
+        }
+      ]
+    }
+  ],
+  "validation": {
+    "manualWeb": "App YouTube landscape excerpt and portrait playback, unload on Form navigation; dashboard phone/wide layout, embeds, persistence, new MP4 playback.",
+    "automatedChecks": "Deferred; not run",
+    "nativeChecks": "Deferred; new webview dependency requires rebuilt native client",
+    "generatedAssetHosting": "Local only"
+  }
+}

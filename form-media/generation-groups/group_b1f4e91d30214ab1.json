@@ -1,0 +1,60 @@
+{
+  "id": "group_b1f4e91d30214ab1",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:00:19+00:00",
+  "balanceBefore": 8342,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_alternating_cable_sho_0810db95",
+      "shot": "r8-open-alternating-cable-sho-0810db95-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "2c41ddd7179a25a7e4c11b15540305f179a992491d393057aaacc2181be3cc09",
+      "quoteFile": "form-media/ui-quotes/r8-open-alternating-cable-sho-0810db95-start-3317a1ac.json",
+      "quoteSha256": "81e329b2f4d37b98f23efb4aaf2786e41112d329716269e831926f4ccaaa13e3",
+      "quoteCredits": 0,
+      "balance": 8342,
+      "references": []
+    },
+    {
+      "exerciseId": "open_alternating_deltoid_r_8606acdd",
+      "shot": "r8-open-alternating-deltoid-r-8606acdd-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "35bff623be43ea0ece8e4395860e987bf1897e0c99f1a98847497844bf9b1f31",
+      "quoteFile": "form-media/ui-quotes/r8-open-alternating-deltoid-r-8606acdd-start-9ac902c0.json",
+      "quoteSha256": "772fc3df31c0dac48ff8e84ef24069cad77a2c979dc81a4fbf8cfc470aeded2b",
+      "quoteCredits": 0,
+      "balance": 8342,
+      "references": []
+    },
+    {
+      "exerciseId": "open_front_dumbbell_raise_8a526dad",
+      "shot": "r8-open-front-dumbbell-raise-8a526dad-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "245349c6a5f85d012a9cd033a34095a333d440c8afdff102b4df41046c6c9075",
+      "quoteFile": "form-media/ui-quotes/r8-open-front-dumbbell-raise-8a526dad-start-b2d07d50.json",
+      "quoteSha256": "9165320d1e4315bd5dc4f82ead8a15bb5e17398eca10a30ffa973340c7aaff31",
+      "quoteCredits": 0,
+      "balance": 8342,
+      "references": []
+    },
+    {
+      "exerciseId": "open_anti_gravity_press_1a397a57",
+      "shot": "r8-open-anti-gravity-press-1a397a57-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "c327ff818c8687426a4843ef9959e0cef2e18c28041891a0f06ff09da63f0ecb",
+      "quoteFile": "form-media/ui-quotes/r8-open-anti-gravity-press-1a397a57-start-2784f7fb.json",
+      "quoteSha256": "706fcef0832ee832ffa53b5e9928fd12df5dc537381528a5b39c4ba13b6ef2a2",
+      "quoteCredits": 0,
+      "balance": 8342,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:01:29+00:00",
+  "balanceAfter": 8342,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-42d48457c2824c5d.json",
+  "evidenceSha256": "bf3cf54e72df1bfaed58647be66366526404af82179a1ce20c87ba5fa46a2a66"
+}

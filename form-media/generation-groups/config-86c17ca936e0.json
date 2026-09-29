@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-landmine-linear-jamme-3eebe237-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-linear-jamme-3eebe237-motion-9d0c38ee.json"
+    },
+    {
+      "shot": "r9-open-lying-dumbbell-tricep-02bba023-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-lying-dumbbell-tricep-02bba023-motion-a2d1d582.json"
+    },
+    {
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-palm-up-barbel-87a8d029-motion-793b89d8.json"
+    },
+    {
+      "shot": "r9-open-seated-palms-down-bar-c6486466-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-palms-down-bar-c6486466-motion-78479587.json"
+    }
+  ]
+}

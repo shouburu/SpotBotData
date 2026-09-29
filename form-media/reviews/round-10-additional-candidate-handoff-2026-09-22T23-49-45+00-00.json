@@ -1,0 +1,99 @@
+{
+  "createdAt": "2026-09-22T23:49:45+00:00",
+  "roundId": "round-10",
+  "candidates": {
+    "ex_cable_crunch": "r10-ex-cable-crunch-motion-d66bee4a",
+    "open_donkey_calf_raises_55a343b9": "r10-open-donkey-calf-raises-55a343b9-motion-2d1da411",
+    "ex_calf_raise_seated": "r10-seated-calf-full-cycle-glow-trim-v1"
+  },
+  "previousReviewState": {
+    "ex_cable_crunch": {
+      "reviewStatus": "rejected",
+      "notes": "that cable machine doesnt exist, it usually 1 cable with a split rope attachement. more importantly the character barely moves, he should bring his chest towards his knees keeping hips locked.",
+      "selectedAssetIds": [],
+      "reviewedAt": "2026-09-22T14:18:03+00:00",
+      "reviewRoundId": "round-9",
+      "reviewedAssetIds": [
+        "r6-ex-cable-crunch-start-98973bb5",
+        "r6-ex-cable-crunch-motion-dadd8c60",
+        "r8-ex-cable-crunch-start-e80c6c6d",
+        "r8-ex-cable-crunch-start-42f19ab2",
+        "r8-ex-cable-crunch-start-244289d2",
+        "r8-ex-cable-crunch-motion-437fc45c",
+        "r9-ex-cable-crunch-motion-3630d78f"
+      ],
+      "previousRoundReview": {
+        "roundId": "round-7",
+        "reviewStatus": "rejected",
+        "notes": "thats not a cable crunch",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-16T04:21:31+00:00"
+      }
+    },
+    "open_donkey_calf_raises_55a343b9": {
+      "reviewStatus": "rejected",
+      "notes": "AI review — rejected (2026-09-21).\n\nr8-open-donkey-calf-raises-55a343b9-motion-38fbe30d: The mannequin remains upright with no pad loading the hips/lower back; the required bent-over donkey calf raise setup is absent.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "selectedAssetIds": [],
+      "reviewedAt": "2026-09-21T18:06:37+00:00",
+      "reviewRoundId": "round-8",
+      "reviewedAssetIds": [
+        "r8-open-donkey-calf-raises-55a343b9-motion-38fbe30d"
+      ],
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "ex_calf_raise_seated": {
+      "reviewStatus": "rejected",
+      "notes": "once again, the machine in the video is nonsense. this is usually a plate loaded exercise not on a cable machine, im still seeing a cable loaded setup in the back which is confusing.",
+      "selectedAssetIds": [],
+      "reviewedAt": "2026-09-22T21:51:17+00:00",
+      "reviewRoundId": "round-9",
+      "reviewedAssetIds": [
+        "r6-ex-calf-raise-seated-start-074d96d2",
+        "r6-ex-calf-raise-seated-start-07578dce",
+        "r6-ex-calf-raise-seated-start-6d4ff158",
+        "r6-ex-calf-raise-seated-motion-b17708b0",
+        "r8-ex-calf-raise-seated-start-819944a0",
+        "r8-ex-calf-raise-seated-start-3cb697e8",
+        "r8-ex-calf-raise-seated-motion-889f8729",
+        "r9-ex-calf-raise-seated-motion-2c659772",
+        "r9-ex-calf-raise-seated-motion-65aeae54",
+        "r9-ex-calf-raise-seated-start-858f980c",
+        "r9-ex-calf-raise-seated-start-f00a9dca",
+        "r9-ex-calf-raise-seated-motion-727e6703",
+        "r9-ex-calf-raise-seated-motion-5fbab741",
+        "r9-ex-calf-raise-seated-motion-e184b5f9",
+        "r9-ex-calf-raise-seated-start-244c976c",
+        "r9-ex-calf-raise-seated-start-8e71258c",
+        "r9-ex-calf-raise-seated-start-973d316b",
+        "r9-ex-calf-raise-seated-start-288880dd",
+        "r9-ex-calf-raise-seated-start-9a040cd8",
+        "r9-ex-calf-raise-seated-start-b9f5b4d6",
+        "r9-ex-calf-raise-seated-motion-247dc6c9"
+      ],
+      "previousRoundReview": {
+        "roundId": "round-7",
+        "reviewStatus": "rejected",
+        "notes": "the machine in the video is nonsense",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-16T04:07:10+00:00"
+      }
+    }
+  },
+  "budget": {
+    "limit": 10000,
+    "reserved": 0,
+    "spent": 5537,
+    "remaining": 4463,
+    "lifetimeSpent": 10109,
+    "historicalSpent": 4572,
+    "periodId": "google-flow-2026-09-21",
+    "periodStartedAt": "2026-09-21T19:37:27+00:00",
+    "unresolvedAttemptCount": 0
+  }
+}

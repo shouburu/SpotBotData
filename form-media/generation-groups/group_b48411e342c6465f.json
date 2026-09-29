@@ -1,0 +1,62 @@
+{
+  "id": "group_b48411e342c6465f",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:32:04+00:00",
+  "balanceBefore": 4658,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_decline_dumbbell_flye_14b2de63",
+      "shot": "r10-open-decline-dumbbell-flye-14b2de63-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "c5d252261ddb3a384082fa41dd3b5ff0a961a175f28129f8f12bdba261388fc2",
+      "quoteFile": "form-media/ui-quotes/r10-open-decline-dumbbell-flye-14b2de63-start-cd190110.json",
+      "quoteSha256": "8f89bcc33283e44e1e2525f7a1285d03c20ef78b8c4403af518ffbc7fe2bf7f3",
+      "quoteCredits": 0,
+      "balance": 4658,
+      "references": []
+    },
+    {
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r10-open-donkey-calf-raises-55a343b9-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "c138b9d6266dce386998b605fc9303dd44d3ddf1f961173e7bebcf46ddf84c39",
+      "quoteFile": "form-media/ui-quotes/r10-open-donkey-calf-raises-55a343b9-start-6369c53a.json",
+      "quoteSha256": "6617d63b0f298bb5befa959ab5adc43aeb8412072ae0eefbbf31c7951aba201e",
+      "quoteCredits": 0,
+      "balance": 4658,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_lying_pronat_95605e7c",
+      "shot": "r10-open-dumbbell-lying-pronat-95605e7c-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "692a3f4f2f0302b03b3e1edd4b9b94e1b3e1a338af541a07c3c9c54e9d4b23fc",
+      "quoteFile": "form-media/ui-quotes/r10-open-dumbbell-lying-pronat-95605e7c-start-56188161.json",
+      "quoteSha256": "d507e21ac24e7fc928d9fbc5582aa77d64901e2340174f3c3bd7bbdf095ca85e",
+      "quoteCredits": 0,
+      "balance": 4658,
+      "references": []
+    },
+    {
+      "exerciseId": "open_landmine_180s_8bd8af32",
+      "shot": "r10-open-landmine-180s-8bd8af32-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "4db86ddf76ee233cf19a8ed0f14b875e4b61425e7b7e675f150bfb036f72d8cb",
+      "quoteFile": "form-media/ui-quotes/r10-open-landmine-180s-8bd8af32-start-3d7b0e9b.json",
+      "quoteSha256": "c1e0120cf488bad5e69edc3ced08ca2fbf5495dec6ca7e4969ef1b9b141a3e55",
+      "quoteCredits": 0,
+      "balance": 4658,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:33:26+00:00",
+  "balanceAfter": 4658,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-0c8878f50322463b.json",
+  "evidenceSha256": "f6b5e467f563002d30e5483d23687d59302409b5462102ff5e49ce8fdceee0c4",
+  "terminalFailureIds": []
+}

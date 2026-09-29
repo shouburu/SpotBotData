@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-ex-cable-lateral-raise-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-cable-lateral-raise-motion-bdf37ef3.json"
+    },
+    {
+      "shot": "r8-ex-dumbbell-fly-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-dumbbell-fly-motion-25f2971c.json"
+    },
+    {
+      "shot": "r8-ex-power-clean-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-power-clean-motion-aaa53d77.json"
+    },
+    {
+      "shot": "r8-ex-sumo-deadlift-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-sumo-deadlift-motion-a8f3c351.json"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "group_6baab0a022214537",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T21:00:03+00:00",
+  "balanceBefore": 9298,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_pullover",
+      "shot": "r9-ex-pullover-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "582279a4c5432adff7462afcfca0fbf26650b238d7f6d83589e37111277a9e92",
+      "quoteFile": "form-media/ui-quotes/r9-ex-pullover-start-6d7abc98.json",
+      "quoteSha256": "3b9c8d741b138dbd517f310f2e991f3e7c4050e7c5a1d548a07508f5ae2e71ce",
+      "quoteCredits": 0,
+      "balance": 9298,
+      "references": []
+    },
+    {
+      "exerciseId": "open_stiff_legged_dumbbell_5da667b0",
+      "shot": "r9-open-stiff-legged-dumbbell-5da667b0-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "b3dc58d7dc8bcfc84d969c65758d118efe9fbc5323e28cc6083018b9fa257c27",
+      "quoteFile": "form-media/ui-quotes/r9-open-stiff-legged-dumbbell-5da667b0-start-1b438a8d.json",
+      "quoteSha256": "cc3543fc4da1577da5b9785e5db582eeccd811072356e1191671cfeb9da4ff62",
+      "quoteCredits": 0,
+      "balance": 9298,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-stiff-legged-dumbbell-5da667b0-start/attempt_1fd9a2a3a8ca4928.jpg",
+          "sha256": "79e1cdfeb42d2e3cea72da0b480a5054d0327bc98b2718a7e55a7c6547e71264"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_barbell_push_press",
+      "shot": "r9-cat-barbell-push-press-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "dd3f50960e37b0cdb845575b03b05e5b1512eae5f14c4911738b3c1201bcd005",
+      "quoteFile": "form-media/ui-quotes/r9-cat-barbell-push-press-start-7f497d6f.json",
+      "quoteSha256": "1260e7c27ac22d8e0e4e064d88340faa0dd7ce0a6b05ce5fa8e9a88ca1369a2c",
+      "quoteCredits": 0,
+      "balance": 9298,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-cat-barbell-push-press-start/attempt_c2903e8a224d4c7a.jpg",
+          "sha256": "d0d109c7b2dc52d85e2896472b8308e9a25cedba68dcb1cca4b2938597947be4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "c6c59967fdf2811fc8c19c2225dfe993d8016e9b437f7be8db822a9e204e8bf2",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-start-6fad95d4.json",
+      "quoteSha256": "8871ef327bcef1a030c6f52c9f912fa8ec37aa48a6029a375fe1215a024ea698",
+      "quoteCredits": 0,
+      "balance": 9298,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-bent-arm-barbell-pull-bd488038-start/attempt_60aded59fc4b4f9f.jpg",
+          "sha256": "ecf356592117ec85887def875b151ec9de4b8ce19739e815a048deefc2f2f79d"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T21:01:35+00:00",
+  "balanceAfter": 9298,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-4dc9b99e8f63489d.json",
+  "evidenceSha256": "acef41fa8ab89ac11448129e13d64b75ecb52dc3c36c7b25030dbe7737e8f661",
+  "terminalFailureIds": []
+}

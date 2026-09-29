@@ -1,0 +1,1 @@
+Preserve the supplied image EXACTLY in body pose, camera, machine geometry, closed hand grip, lighting and framing. Only change muscle coloring: keep the chest pectoral fibers orange and softly glowing. Remove ALL blue coloring from the shoulders and upper arms, returning those areas to the same silver-gray material as the uncolored body. No other change. One image, no text.

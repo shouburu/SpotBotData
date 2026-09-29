@@ -1,0 +1,60 @@
+{
+  "id": "group_1a95196e3dbc4a4b",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:43:04+00:00",
+  "balanceBefore": 7730,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_cable_one_arm_tricep__b3a24519",
+      "shot": "r8-open-cable-one-arm-tricep--b3a24519-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "5b4e6a8d1b5290754c038a5cc7b6e67977d3a0f9c5adb2a19994122ce5d25f70",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-one-arm-tricep--b3a24519-motion-d498b1e9.json",
+      "quoteSha256": "b12d08ecf5d59a8e129cd3371318bdc32de9c0bd0aeef274aa690d646a751f52",
+      "quoteCredits": 12,
+      "balance": 7730,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_preacher_curl_bf1c5a4b",
+      "shot": "r8-open-cable-preacher-curl-bf1c5a4b-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "475f9eb949410982762557eae89bbb50c0f89859836c13f449ea68d80f7b68c7",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-preacher-curl-bf1c5a4b-motion-c9ac3238.json",
+      "quoteSha256": "f8c20bb773066cef5fb95eda2ccc82f35b996c3427352016d86c0289c1cef194",
+      "quoteCredits": 12,
+      "balance": 7730,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r8-open-cable-rear-delt-fly-dc550f7f-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "83bcbd8d8bb7d1a52f1f88ab0726596bc47ae50321339f7116474a237d24fcf5",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-rear-delt-fly-dc550f7f-motion-4c9ddd61.json",
+      "quoteSha256": "1aae724833cf9f88626c88d50a1d3e134d0864aecbe5804ef8e750ee8538aec2",
+      "quoteCredits": 12,
+      "balance": 7730,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_reverse_crunch_c6685404",
+      "shot": "r8-open-cable-reverse-crunch-c6685404-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "f66a362d4c4600600aedb3b10f07fd40e1e4bbaa6d671f588715468ae6845fcb",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-reverse-crunch-c6685404-motion-4796c661.json",
+      "quoteSha256": "0390c9542e5f3990326214cf0fd25f7ee2755bb8c4bdfcc85f2549e4df9f2805",
+      "quoteCredits": 12,
+      "balance": 7730,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:44:42+00:00",
+  "balanceAfter": 7682,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-6af976d0d87d4fe2.json",
+  "evidenceSha256": "e1dba1b9410913bba431f9cba20d989a353ac8d322b4b9886c4b9f76d4a43d85"
+}

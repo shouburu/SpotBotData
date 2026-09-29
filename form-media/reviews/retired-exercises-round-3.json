@@ -1,0 +1,1925 @@
+{
+  "schemaVersion": 1,
+  "retiredAt": "2026-09-10T15:09:27+00:00",
+  "reason": "User removed ROM drills and stretching; retain yoga. Historical media spending/reviews are kept, active production is prohibited.",
+  "catalogRetirements": [
+    {
+      "canonicalId": "cat_mob_ankle_pump",
+      "name": "Seated Ankle Pump",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_ankle_rock",
+      "name": "Knee-to-Wall Ankle Rock",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_cat_cow",
+      "name": "Cat–Cow Mobility",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_forearm_rotation",
+      "name": "Unloaded Forearm Rotation",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_heel_toe_rock",
+      "name": "Standing Heel-to-Toe Rock",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_hip_circle",
+      "name": "Standing Hip Circle",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_hip_march",
+      "name": "Standing Hip-Flexor March",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_hip_rock",
+      "name": "Half-Kneeling Hip Rock",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_hip_switch",
+      "name": "Seated 90/90 Hip Switch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_neck_nod",
+      "name": "Gentle Neck Nod",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_neck_rotation",
+      "name": "Gentle Neck Rotation",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_open_book",
+      "name": "Open Book Rotation",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_pelvic_tilt",
+      "name": "Seated Pelvic Tilt",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_quadruped_hip_circle",
+      "name": "Quadruped Hip Circle",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_quadruped_rotation",
+      "name": "Quadruped Thoracic Rotation",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_rock_back",
+      "name": "Quadruped Rock Back",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_seated_ankle_roll",
+      "name": "Seated Ankle Inversion and Eversion",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_seated_cat_cow",
+      "name": "Seated Cat–Cow Mobility",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_seated_hip_rotation",
+      "name": "Seated Hip Internal and External Rotation",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_seated_rotation",
+      "name": "Seated Trunk Rotation",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_shoulder_circle",
+      "name": "Controlled Shoulder Circle",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_side_reach",
+      "name": "Standing Side Reach",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_supported_hip_circle",
+      "name": "Supported Standing Hip Circle",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_t_position_wrist_circle",
+      "name": "Standing T-Position Wrist Circle",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_thread_needle",
+      "name": "Thread-the-Needle Reach",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_toe_spread",
+      "name": "Seated Toe Spread",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_wall_slide",
+      "name": "Shoulder Wall Slide",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_wrist_circle",
+      "name": "Wrist Circles",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_wrist_flex_extend",
+      "name": "Wrist Flexion and Extension",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_mob_wrist_rock",
+      "name": "Quadruped Wrist Rock",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_pil_mermaid",
+      "name": "Pilates — Mermaid Side Bend",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_pil_saw",
+      "name": "Pilates — Seated Saw",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_pil_seated_spine_stretch",
+      "name": "Seated Chair Spine Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_pil_spine_stretch",
+      "name": "Pilates — Spine Stretch Forward",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_pil_supine_leg_circle",
+      "name": "Pilates — Supine Single-Leg Circle",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_adductor_groin",
+      "name": "Supine Adductor Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_calf_stretch_hands_against",
+      "name": "Calf Stretch Hands Against Wall",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_chest_and_front_of_shoulde",
+      "name": "Chest And Front Of Shoulder Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_hamstring_stretch",
+      "name": "Supine Strap Hamstring Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_kneeling_forearm_stretch",
+      "name": "Kneeling Forearm Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_lying_prone_quadriceps",
+      "name": "Prone Quadriceps Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_on_your_side_quad_stretch",
+      "name": "On Your Side Quad Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_seated_calf_stretch",
+      "name": "Seated Calf Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_seated_floor_hamstring_str",
+      "name": "Seated Floor Hamstring Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_seated_front_deltoid",
+      "name": "Seated Anterior Shoulder Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_seated_glute",
+      "name": "Seated Floor Figure-Four Glute Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_seated_hamstring_and_calf_",
+      "name": "Seated Hamstring and Calf Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_shoulder_stretch",
+      "name": "Cross-Body Shoulder Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_side_neck_stretch",
+      "name": "Side Neck Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_side_wrist_pull",
+      "name": "Standing Cross-Body Lat Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_single_knee_crossover",
+      "name": "Supine Single-Knee Crossover Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_standing_biceps_stretch",
+      "name": "Standing Biceps Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_standing_lateral_stretch",
+      "name": "Standing Lateral Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_standing_soleus_and_achill",
+      "name": "Standing Soleus And Achilles Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_triceps_stretch",
+      "name": "Triceps Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "cat_str_upper_back_stretch",
+      "name": "Upper Back Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_90_90_hamstring_aff11e09",
+      "name": "90/90 Hamstring",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_all_fours_quad_stretc_041847ee",
+      "name": "All Fours Quad Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_ankle_circles_11efbf7e",
+      "name": "Ankle Circles",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_ankle_on_the_knee_d8a2fe0c",
+      "name": "Ankle On The Knee",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_arm_circles_4e8a8158",
+      "name": "Arm Circles",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_calf_stretch_elbows_a_4b6ee252",
+      "name": "Calf Stretch Elbows Against Wall",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_chair_leg_extended_st_4afef9de",
+      "name": "Chair Leg Extended Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_chair_upper_body_stre_2423e72a",
+      "name": "Chair Upper Body Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_chest_and_front_of_sh_ca323875",
+      "name": "Standing Dowel Shoulder Raise",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_chest_stretch_on_stab_70054527",
+      "name": "Chest Stretch on Stability Ball",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_chin_to_chest_stretch_d05172db",
+      "name": "Chin To Chest Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_dancers_stretch_3d565e2b",
+      "name": "Dancer's Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_dynamic_back_stretch_fa90f009",
+      "name": "Standing Overhead Arm Swing",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_dynamic_chest_stretch_0e07bf33",
+      "name": "Dynamic Chest Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_elbow_circles_d181e606",
+      "name": "Elbow Circles",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_elbows_back_f625b643",
+      "name": "Elbows Back",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_front_leg_raises_536d6ae6",
+      "name": "Front Leg Raises",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_groin_and_back_stretc_6c86ccb2",
+      "name": "Groin and Back Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_hug_a_ball_79c30e3b",
+      "name": "Exercise-Ball Supported Deep Squat Hold",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_intermediate_groin_st_b49af6d6",
+      "name": "Intermediate Groin Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_intermediate_hip_flex_acaaae0b",
+      "name": "Intermediate Hip Flexor and Quad Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_iron_crosses_stretch_d5931f2a",
+      "name": "Prone Scorpion Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_it_band_and_glute_str_17abfb8f",
+      "name": "IT Band and Glute Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_knee_circles_9d6cfc76",
+      "name": "Knee Circles",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_leg_up_hamstring_stre_b413a09d",
+      "name": "Leg-Up Hamstring Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_middle_back_stretch_2ba640da",
+      "name": "Middle Back Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_on_your_back_quad_str_ec0142b3",
+      "name": "Supine Bench Quad Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_one_arm_against_wall_5453c868",
+      "name": "One Arm Against Wall",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_one_handed_hang_e3c02626",
+      "name": "One Handed Hang",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_one_knee_to_chest_58e422cc",
+      "name": "One Knee To Chest",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_overhead_stretch_9439111d",
+      "name": "Overhead Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_peroneals_stretch_5e1ef5bb",
+      "name": "Peroneals Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_posterior_tibialis_st_a70194eb",
+      "name": "Posterior Tibialis Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_pyramid_b5c3abbc",
+      "name": "Exercise Ball Pyramid Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_quad_stretch_735fd6f3",
+      "name": "Side-Lying Strap Quad Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_round_the_world_shoul_221bbfc1",
+      "name": "Round The World Shoulder Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_runners_stretch_f219a810",
+      "name": "Low Lunge Runner Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_seated_overhead_stret_9ca1af1b",
+      "name": "Seated Overhead Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_shoulder_circles_79a56227",
+      "name": "Shoulder Circles",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_shoulder_raise_d7cd20fd",
+      "name": "Unloaded Shoulder Shrug",
+      "reason": "Removed by product direction: gentle unloaded joint-range drill rather than a substantive training movement. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_side_leg_raises_c5014113",
+      "name": "Standing Lateral Leg Swing",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_side_lying_floor_stre_3d86604a",
+      "name": "Side-Lying Floor Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_side_lying_groin_stre_03c3bd7b",
+      "name": "Side Lying Groin Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_spinal_stretch_15fa13a9",
+      "name": "Spinal Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_standing_elevated_qua_ce3d1a59",
+      "name": "Standing Elevated Quad Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_standing_gastrocnemiu_9120cffe",
+      "name": "Standing Gastrocnemius Calf Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_standing_hamstring_an_12f111e7",
+      "name": "Standing Hamstring and Calf Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_standing_hip_flexors_5dbe3451",
+      "name": "Standing Hip-Flexor Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_standing_pelvic_tilt_29b7933c",
+      "name": "Standing Pelvic Tilt",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_standing_toe_touches_d0f8a346",
+      "name": "Standing Toe Touches",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_the_straddle_8bcbd77f",
+      "name": "Seated Straddle Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_torso_rotation_6b55352c",
+      "name": "Torso Rotation",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_tricep_side_stretch_2fa71ccd",
+      "name": "Tricep Side Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_upper_back_leg_grab_f6602e81",
+      "name": "Upper Back-Leg Grab",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_windmills_1db2521f",
+      "name": "Supine Alternating Leg Crossover",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    },
+    {
+      "canonicalId": "open_worlds_greatest_stret_79e4e504",
+      "name": "World's Greatest Stretch",
+      "reason": "Removed by explicit product direction: exclude range-of-motion drills and stretching while retaining yoga. Preserve personal workout history; do not reimport into the active standard catalog.",
+      "retiredAt": "2026-09-10",
+      "revision": 3
+    }
+  ],
+  "exercises": {
+    "cat_mob_cat_cow": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_open_book": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_quadruped_rotation": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_thread_needle": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_seated_rotation": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_hip_rock": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_hip_switch": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_hip_circle": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_quadruped_hip_circle": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_hip_march": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_ankle_rock": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_ankle_pump": {
+      "teachingFormat": "video",
+      "rationale": "Use a floor-seated anatomical render or single-cycle edit to clarify pointing and flexing while the heel stays supported; do not substitute chair seating.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "to be honest i hate this exercises. get remove this whole exercise from the database.",
+      "previousRoundReview": {
+        "reviewStatus": "rejected",
+        "notes": "Cool concept but bad execution. Probably avoid this representation for exercises.  When I looked at youtube videos this looked weird compared to seeing a human do it.",
+        "selectedAssetIds": [
+          "ankle-pump-diagram-1"
+        ],
+        "reviewedAt": "2026-09-10T11:30:59+00:00",
+        "roundId": "round-1"
+      },
+      "productionStatus": "ready-for-review",
+      "reviewRoundId": "round-2",
+      "reviewedAt": "2026-09-10T14:46:37+00:00"
+    },
+    "cat_mob_heel_toe_rock": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_shoulder_circle": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_wall_slide": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_wrist_rock": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_wrist_circle": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_wrist_flex_extend": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_neck_rotation": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_neck_nod": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_side_reach": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_pelvic_tilt": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_rock_back": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_hamstring_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_standing_biceps_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_triceps_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_shoulder_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_calf_stretch_hands_against": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_standing_soleus_and_achill": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_seated_glute": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_lying_prone_quadriceps": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_seated_floor_hamstring_str": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_upper_back_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_side_neck_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_kneeling_forearm_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_side_wrist_pull": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_chest_and_front_of_shoulde": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_on_your_side_quad_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_standing_lateral_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_seated_calf_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_adductor_groin": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_seated_front_deltoid": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_seated_hamstring_and_calf_": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_pil_spine_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_pil_mermaid": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_pil_saw": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_90_90_hamstring_aff11e09": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_all_fours_quad_stretc_041847ee": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_ankle_circles_11efbf7e": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_ankle_on_the_knee_d8a2fe0c": {
+      "teachingFormat": "image",
+      "rationale": "A timed posture with limited movement should be understandable from one setup/alignment image plus the existing instructions.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_arm_circles_4e8a8158": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_calf_stretch_elbows_a_4b6ee252": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_chair_leg_extended_st_4afef9de": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_chair_upper_body_stre_2423e72a": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_chest_and_front_of_sh_ca323875": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_chest_stretch_on_stab_70054527": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_chin_to_chest_stretch_d05172db": {
+      "teachingFormat": "image",
+      "rationale": "A timed posture with limited movement should be understandable from one setup/alignment image plus the existing instructions.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_dancers_stretch_3d565e2b": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_dynamic_back_stretch_fa90f009": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_dynamic_chest_stretch_0e07bf33": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_elbow_circles_d181e606": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_elbows_back_f625b643": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_front_leg_raises_536d6ae6": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_groin_and_back_stretc_6c86ccb2": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_hug_a_ball_79c30e3b": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_it_band_and_glute_str_17abfb8f": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_intermediate_groin_st_b49af6d6": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_intermediate_hip_flex_acaaae0b": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_iron_crosses_stretch_d5931f2a": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_knee_circles_9d6cfc76": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_leg_up_hamstring_stre_b413a09d": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_middle_back_stretch_2ba640da": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_on_your_back_quad_str_ec0142b3": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_one_arm_against_wall_5453c868": {
+      "teachingFormat": "image",
+      "rationale": "A timed posture with limited movement should be understandable from one setup/alignment image plus the existing instructions.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_one_handed_hang_e3c02626": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_one_knee_to_chest_58e422cc": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_overhead_stretch_9439111d": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_peroneals_stretch_5e1ef5bb": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_posterior_tibialis_st_a70194eb": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_pyramid_b5c3abbc": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_quad_stretch_735fd6f3": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_round_the_world_shoul_221bbfc1": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_runners_stretch_f219a810": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_seated_overhead_stret_9ca1af1b": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_shoulder_circles_79a56227": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_shoulder_raise_d7cd20fd": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_side_lying_floor_stre_3d86604a": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_side_leg_raises_c5014113": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_side_lying_groin_stre_03c3bd7b": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_spinal_stretch_15fa13a9": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_standing_elevated_qua_ce3d1a59": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_standing_gastrocnemiu_9120cffe": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_standing_hamstring_an_12f111e7": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_standing_hip_flexors_5dbe3451": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_standing_pelvic_tilt_29b7933c": {
+      "teachingFormat": "image",
+      "rationale": "A timed posture with limited movement should be understandable from one setup/alignment image plus the existing instructions.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_standing_toe_touches_d0f8a346": {
+      "teachingFormat": "image",
+      "rationale": "A timed posture with limited movement should be understandable from one setup/alignment image plus the existing instructions.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_the_straddle_8bcbd77f": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_torso_rotation_6b55352c": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_tricep_side_stretch_2fa71ccd": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_upper_back_leg_grab_f6602e81": {
+      "teachingFormat": "image",
+      "rationale": "A timed posture with limited movement should be understandable from one setup/alignment image plus the existing instructions.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_windmills_1db2521f": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_worlds_greatest_stret_79e4e504": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_seated_cat_cow": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_pil_seated_spine_stretch": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_pil_supine_leg_circle": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_seated_hip_rotation": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_seated_ankle_roll": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 1,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_forearm_rotation": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_toe_spread": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_str_single_knee_crossover": {
+      "teachingFormat": "image",
+      "rationale": "The defining feature is a held position or stretch setup; a labelled alignment still should communicate it with minimal download cost.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_supported_hip_circle": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "cat_mob_t_position_wrist_circle": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    }
+  }
+}

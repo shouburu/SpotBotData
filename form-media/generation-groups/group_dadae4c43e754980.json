@@ -1,0 +1,82 @@
+{
+  "id": "group_dadae4c43e754980",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T21:16:12+00:00",
+  "balanceBefore": 9166,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "ex_hip_thrust",
+      "shot": "r9-ex-hip-thrust-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "489258674586aff06bdca00b72efaae299244d416642fad44467c8726335bc89",
+      "quoteFile": "form-media/ui-quotes/r9-ex-hip-thrust-motion-3c6d47cf.json",
+      "quoteSha256": "d61681aded13f7d99ff07ce3a97b1cf59a73ddc4b7957fa64f1424b022af62c7",
+      "quoteCredits": 10,
+      "balance": 9166,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-hip-thrust-start/attempt_0a452e76f29d476c.jpg",
+          "sha256": "9f2479aca3a2aebf183fc6d3f1003cab727bd31c9f3bcf0fed7b508609d52103"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "8a3d993dd70af223aa67b9889e5bf356040dc60d46b1ca6747316fbfc51ab222",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-motion-db0a7a8c.json",
+      "quoteSha256": "b309f5bff4c20eb3aed3b999c713bece9b2c1eb38b9ca2c3144817e52a7b8709",
+      "quoteCredits": 10,
+      "balance": 9166,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-bent-arm-barbell-pull-bd488038-start/attempt_f11d188493874f50.jpg",
+          "sha256": "06400b51304c411a9478f39247902346aa954af51197e10e81c1a6390041b82b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_decline_dumbbell_benc_7264c18d",
+      "shot": "r9-open-decline-dumbbell-benc-7264c18d-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "a169156940f2fb19c06611f185b2a3d5f510e1641feaaf87e2ed4441d1e77a29",
+      "quoteFile": "form-media/ui-quotes/r9-open-decline-dumbbell-benc-7264c18d-motion-b8177a2d.json",
+      "quoteSha256": "265620b443680d3c0c5df849e28b30d4cf13fa714cc9439782147c7e73b21ed9",
+      "quoteCredits": 10,
+      "balance": 9166,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-decline-dumbbell-benc-7264c18d-start/attempt_c8edf0e3ace243d9.jpg",
+          "sha256": "03e02a7cc6a192e54004961db78c2f6dd8b9948eafa08f09dd50b9bc32429cdb"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_decline_dumbbell_flye_14b2de63",
+      "shot": "r9-open-decline-dumbbell-flye-14b2de63-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "68a1bab666e2175f8f150cc659a6b030378c67077ba385b9d3e91c3bd5e1c3cf",
+      "quoteFile": "form-media/ui-quotes/r9-open-decline-dumbbell-flye-14b2de63-motion-3a7e034a.json",
+      "quoteSha256": "41050d693b7b571f1f5c99f3f30fbe717898c53bb7fcdea44c5071b9c309bfab",
+      "quoteCredits": 10,
+      "balance": 9166,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-decline-dumbbell-flye-14b2de63-start/attempt_ab754ebe4f0c42d0.jpg",
+          "sha256": "b09703cb868b73b1102ec303c47eb5fb8dbd880be6b9ec4b5838599a0ded8c34"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T21:18:12+00:00",
+  "balanceAfter": 9126,
+  "actualCredits": 40,
+  "evidenceFile": "form-media/ui-quotes/observed-c1780c24b20e49be.json",
+  "evidenceSha256": "d8d7b00df0170fc1cba22eabae9defa3147f1eb94d315f15eaf1806bdb2470d6",
+  "terminalFailureIds": []
+}

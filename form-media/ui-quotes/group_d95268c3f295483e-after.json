@@ -1,0 +1,10 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "Codex via CUA",
+  "observedAt": "2026-09-15T20:34:43.581Z",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "groupId": "group_d95268c3f295483e",
+  "balance": 8916,
+  "visibleBalanceText": "8,916 Google Flow credits",
+  "evidence": "Freshly reloaded same-account Flow project, Account details panel after all group outputs returned."
+}

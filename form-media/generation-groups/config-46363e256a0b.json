@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-ex-cable-lateral-raise-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-cable-lateral-raise-start-d02444f0.json"
+    },
+    {
+      "shot": "r8-ex-dumbbell-fly-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-dumbbell-fly-start-2f1d144d.json"
+    },
+    {
+      "shot": "r8-ex-tricep-kickback-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-tricep-kickback-start-0c625b26.json"
+    },
+    {
+      "shot": "r8-ex-front-squat-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-front-squat-start-cd43f621.json"
+    }
+  ]
+}

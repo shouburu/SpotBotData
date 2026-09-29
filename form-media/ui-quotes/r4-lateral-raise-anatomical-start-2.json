@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sourceType": "flow-ui-observation",
+  "source": "Flow current project composer settings and account details, read through CUA; Nano Banana Pro / Image / 16:9 / x1.",
+  "observer": "Codex via CUA",
+  "observedAt": "2026-09-15T16:39:49+00:00",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "exerciseId": "ex_lateral_raise",
+  "shot": "r4-lateral-raise-anatomical-start",
+  "modelKey": "GEM_PIX_2",
+  "kind": "image",
+  "family": "Nano Banana Pro",
+  "aspect": "16:9",
+  "count": 1,
+  "durationSeconds": null,
+  "resolutions": [],
+  "balance": 9336,
+  "credits": 0,
+  "visiblePriceText": "Generating will use 0 credits",
+  "visibleBalanceText": "9,336 Google Flow credits",
+  "profile": "shouburu",
+  "projectUrl": "https://flow.google.com/project/b23491b8-5ff2-412b-abea-314075feb75f"
+}

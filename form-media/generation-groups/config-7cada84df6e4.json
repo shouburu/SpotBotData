@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-landmine-180s-8bd8af32-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-180s-8bd8af32-start-8c40dd1d.json"
+    },
+    {
+      "shot": "r9-open-landmine-linear-jamme-3eebe237-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-linear-jamme-3eebe237-start-74d02553.json"
+    },
+    {
+      "shot": "r9-open-single-arm-linear-jam-b53226fa-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-single-arm-linear-jam-b53226fa-start-694dee63.json"
+    },
+    {
+      "shot": "r9-open-weighted-jump-squat-f4b3559a-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-weighted-jump-squat-f4b3559a-start-56de9f1b.json"
+    }
+  ]
+}

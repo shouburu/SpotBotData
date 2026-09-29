@@ -1,0 +1,1856 @@
+{
+  "observedAt": "2026-09-10T16:10:58.446457+00:00",
+  "source": "Flow projectInitialData modelConfig creditMapping for current account tier",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "balance": 9298,
+  "offers": [
+    {
+      "kind": "image",
+      "family": "🍌 Nano Banana Pro",
+      "modelKey": "GEM_PIX_2",
+      "credits": 0,
+      "durationSeconds": null,
+      "resolutions": [],
+      "aspects": [
+        "SQUARE",
+        "PORTRAIT",
+        "LANDSCAPE",
+        "PORTRAIT_3_4",
+        "LANDSCAPE_4_3",
+        "PORTRAIT",
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "IMAGE_REQUIREMENT_TEXT"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_BASE_IMAGE"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES",
+          "IMAGE_REQUIREMENT_BASE_IMAGE"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES",
+          "IMAGE_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES",
+          "IMAGE_REQUIREMENT_CHARACTERS",
+          "IMAGE_REQUIREMENT_BASE_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "image",
+      "family": "🍌 Nano Banana 2",
+      "modelKey": "NARWHAL",
+      "credits": 0,
+      "durationSeconds": null,
+      "resolutions": [],
+      "aspects": [
+        "SQUARE",
+        "PORTRAIT",
+        "LANDSCAPE",
+        "PORTRAIT_3_4",
+        "LANDSCAPE_4_3",
+        "PORTRAIT",
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "IMAGE_REQUIREMENT_TEXT"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_BASE_IMAGE"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES",
+          "IMAGE_REQUIREMENT_BASE_IMAGE"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES",
+          "IMAGE_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES",
+          "IMAGE_REQUIREMENT_CHARACTERS",
+          "IMAGE_REQUIREMENT_BASE_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "image",
+      "family": "🍌 Nano Banana 2 Lite",
+      "modelKey": "HARBOR_SEAL",
+      "credits": 0,
+      "durationSeconds": null,
+      "resolutions": [],
+      "aspects": [
+        "SQUARE",
+        "PORTRAIT",
+        "LANDSCAPE",
+        "PORTRAIT_3_4",
+        "LANDSCAPE_4_3",
+        "PORTRAIT",
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "IMAGE_REQUIREMENT_TEXT"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_BASE_IMAGE"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES",
+          "IMAGE_REQUIREMENT_BASE_IMAGE"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES",
+          "IMAGE_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "IMAGE_REQUIREMENT_TEXT",
+          "IMAGE_REQUIREMENT_REFERENCES",
+          "IMAGE_REQUIREMENT_CHARACTERS",
+          "IMAGE_REQUIREMENT_BASE_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "image",
+      "family": "2K",
+      "modelKey": "GEM_PIX_2_UPSAMPLE_2K",
+      "credits": 0,
+      "durationSeconds": null,
+      "resolutions": [],
+      "aspects": [
+        "SQUARE",
+        "PORTRAIT",
+        "LANDSCAPE",
+        "PORTRAIT_3_4",
+        "LANDSCAPE_4_3",
+        "PORTRAIT",
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "UPSAMPLE_IMAGE_RESOLUTION2K"
+        ]
+      ]
+    },
+    {
+      "kind": "image",
+      "family": "4k",
+      "modelKey": "GEM_PIX_2_UPSAMPLE_4K",
+      "credits": 0,
+      "durationSeconds": null,
+      "resolutions": [],
+      "aspects": [
+        "SQUARE",
+        "PORTRAIT",
+        "LANDSCAPE",
+        "PORTRAIT_3_4",
+        "LANDSCAPE_4_3",
+        "PORTRAIT",
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "UPSAMPLE_IMAGE_RESOLUTION4K"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_t2v_4s",
+      "credits": 7,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_t2v_6s",
+      "credits": 10,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_t2v_8s",
+      "credits": 12,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_t2v_10s",
+      "credits": 15,
+      "durationSeconds": 10,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_r2v_4s",
+      "credits": 7,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_r2v_6s",
+      "credits": 10,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_r2v_8s",
+      "credits": 12,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_r2v_10s",
+      "credits": 15,
+      "durationSeconds": 10,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_edit",
+      "credits": 20,
+      "durationSeconds": null,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS",
+          "VIDEO_REQUIREMENT_VIDEO_EDIT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_i2v_4s",
+      "credits": 7,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_i2v_6s",
+      "credits": 10,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_i2v_8s",
+      "credits": 12,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_i2v_10s",
+      "credits": 15,
+      "durationSeconds": 10,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "omni_flash_i2v_4s_first_last",
+      "credits": 7,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "omni_flash_i2v_6s_first_last",
+      "credits": 10,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "omni_flash_i2v_8s_first_last",
+      "credits": 12,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "omni_flash_i2v_10s_first_last",
+      "credits": 15,
+      "durationSeconds": 10,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_t2v_4s_360p",
+      "credits": 4,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_t2v_6s_360p",
+      "credits": 5,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_t2v_8s_360p",
+      "credits": 6,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_t2v_10s_360p",
+      "credits": 7,
+      "durationSeconds": 10,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_r2v_4s_360p",
+      "credits": 4,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_r2v_6s_360p",
+      "credits": 5,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_r2v_8s_360p",
+      "credits": 6,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_r2v_10s_360p",
+      "credits": 7,
+      "durationSeconds": 10,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_edit_360p",
+      "credits": 10,
+      "durationSeconds": null,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS",
+          "VIDEO_REQUIREMENT_VIDEO_EDIT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_i2v_4s_360p",
+      "credits": 4,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_i2v_6s_360p",
+      "credits": 5,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_i2v_8s_360p",
+      "credits": 6,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "abra_i2v_10s_360p",
+      "credits": 7,
+      "durationSeconds": 10,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "omni_flash_i2v_4s_first_last_360p",
+      "credits": 4,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "omni_flash_i2v_6s_first_last_360p",
+      "credits": 5,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "omni_flash_i2v_8s_first_last_360p",
+      "credits": 6,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni 1.1 Flash",
+      "modelKey": "omni_flash_i2v_10s_first_last_360p",
+      "credits": 7,
+      "durationSeconds": 10,
+      "resolutions": [
+        "VIDEO_RESOLUTION_360P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_t2v_lite",
+      "credits": 5,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_i2v_lite",
+      "credits": 5,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_r2v_lite",
+      "credits": 5,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_interpolation_lite",
+      "credits": 5,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_extension_lite",
+      "credits": 5,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_EXTENSION"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_t2v_lite_4s",
+      "credits": 5,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_i2v_s_lite_4s",
+      "credits": 5,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_i2v_s_lite_4s_fl",
+      "credits": 5,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_t2v_lite_6s",
+      "credits": 5,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_i2v_s_lite_6s",
+      "credits": 5,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Lite",
+      "modelKey": "veo_3_1_i2v_s_lite_6s_fl",
+      "credits": 5,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_t2v_fast_ultra",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_t2v_fast_portrait_ultra",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_r2v_fast_landscape_ultra",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_r2v_fast_portrait_ultra",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE",
+          "VIDEO_REQUIREMENT_CHARACTERS"
+        ],
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_REFERENCES",
+          "VIDEO_REQUIREMENT_AUDIO_REFERENCE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_i2v_s_fast_ultra",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_i2v_s_fast_portrait_ultra",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_i2v_s_fast_ultra_fl",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_i2v_s_fast_portrait_ultra_fl",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_extend_fast_landscape_ultra",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_EXTENSION"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_extend_fast_portrait_ultra",
+      "credits": 10,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_EXTENSION"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_t2v_fast_4s",
+      "credits": 10,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_i2v_s_fast_4s",
+      "credits": 10,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_i2v_s_fast_4s_fl",
+      "credits": 10,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_t2v_fast_6s",
+      "credits": 10,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_i2v_s_fast_6s",
+      "credits": 10,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Fast",
+      "modelKey": "veo_3_1_i2v_s_fast_6s_fl",
+      "credits": 10,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_t2v_portrait",
+      "credits": 100,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_t2v",
+      "credits": 100,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_i2v_s_portrait",
+      "credits": 100,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_i2v_s",
+      "credits": 100,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_i2v_s_fl",
+      "credits": 100,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_i2v_s_portrait_fl",
+      "credits": 100,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_extend_landscape",
+      "credits": 100,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_EXTENSION"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_extend_portrait",
+      "credits": 100,
+      "durationSeconds": 8,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_EXTENSION"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_t2v_quality_4s",
+      "credits": 100,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_i2v_s_quality_4s",
+      "credits": 100,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_i2v_s_quality_4s_fl",
+      "credits": 100,
+      "durationSeconds": 4,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_t2v_quality_6s",
+      "credits": 100,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_i2v_s_quality_6s",
+      "credits": 100,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Quality",
+      "modelKey": "veo_3_1_i2v_s_quality_6s_fl",
+      "credits": 100,
+      "durationSeconds": 6,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_TEXT",
+          "VIDEO_REQUIREMENT_START_IMAGE",
+          "VIDEO_REQUIREMENT_END_IMAGE"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Upsampler 1080P",
+      "modelKey": "veo_3_1_upsampler_1080p",
+      "credits": 0,
+      "durationSeconds": 60,
+      "resolutions": [
+        "VIDEO_RESOLUTION_1080P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_UPSAMPLE1080"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Omni - Upsampler 360p",
+      "modelKey": "omni_upsampler_360p",
+      "credits": 0,
+      "durationSeconds": 60,
+      "resolutions": [
+        "VIDEO_RESOLUTION_720P"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_UPSAMPLE720"
+        ]
+      ]
+    },
+    {
+      "kind": "video",
+      "family": "Veo 3.1 - Upsampler 4K",
+      "modelKey": "veo_3_1_upsampler_4k",
+      "credits": 50,
+      "durationSeconds": 60,
+      "resolutions": [
+        "VIDEO_RESOLUTION_4K"
+      ],
+      "aspects": [
+        "LANDSCAPE",
+        "PORTRAIT"
+      ],
+      "requirements": [
+        [
+          "VIDEO_REQUIREMENT_UPSAMPLE4K"
+        ]
+      ]
+    }
+  ]
+}

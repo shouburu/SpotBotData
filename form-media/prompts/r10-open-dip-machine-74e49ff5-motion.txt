@@ -1,0 +1,8 @@
+Animate the exact supplied Anatomical 3D starting frame for Dip Machine. Show exactly ONE complete repetition in 6 seconds.
+Start: Sit against the backrest gripping the two connected side handles beside the lower ribs, elbows bent.
+Outward phase: Press both handles downward along the matched lever paths until the elbows are nearly straight and hands are near the hips.
+Return phase: Let both handles rise back on the same lever paths until the original bent-elbow starting pose is restored.
+Approximate timing: 0–0.5s initial still; 0.5–2.6s outward action; 2.6–3.2s full endpoint still; 3.2–5.5s complete return; 5.5–6s final still.
+The paired levers and handles remain physically connected and move symmetrically; trunk and hips remain on the seat. No free-space parallel bars or invented moving seat.
+The active joint angles move continuously in only one direction during the outward phase, stop briefly only at the full endpoint, then move continuously back to the exact starting positions. No bouncy, springy, twitching, partial, or repeated movement.
+Preserve the same sculpted silver-gray anatomical mannequin, charcoal shorts, fixed camera and rigid equipment. Keep a bright orange glow confined to the triceps for the whole clip including both final frames. Show all relevant joints, weight and equipment contacts at both endpoints. Clean plain studio, silent, continuous shot, no text, arrows, cuts, camera motion, or extra weights.

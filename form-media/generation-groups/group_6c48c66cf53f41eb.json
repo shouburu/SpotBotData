@@ -1,0 +1,64 @@
+{
+  "id": "group_6c48c66cf53f41eb",
+  "status": "completed-with-failures",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T20:40:46+00:00",
+  "balanceBefore": 9358,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_cable_shrugs_c5ea5dc6",
+      "shot": "r9-open-cable-shrugs-c5ea5dc6-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "23df7a99433d994cb377f61357f370c9a1762f1ebad4646699f94306818f5017",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-shrugs-c5ea5dc6-motion-3e318033.json",
+      "quoteSha256": "df81dc480c19e97c20846d798858a66a4fe65fca198ea827160bcc54c53c541c",
+      "quoteCredits": 10,
+      "balance": 9358,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dip_machine_74e49ff5",
+      "shot": "r9-open-dip-machine-74e49ff5-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "9dd69e49d8e5a22b578d79bd0121e9fff932bce2be43dc19c71ac9983acd34f4",
+      "quoteFile": "form-media/ui-quotes/r9-open-dip-machine-74e49ff5-motion-ba8ac63c.json",
+      "quoteSha256": "f78b0b8f9061b26b1ed182c723f9679e96a3a6291a4c7cbeb1ced7a403e1fd3c",
+      "quoteCredits": 10,
+      "balance": 9358,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_bench_press_94bb9ae4",
+      "shot": "r9-open-dumbbell-bench-press-94bb9ae4-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "040f074be1e11f496754c9f70a71f6dd5ef475a46b662e1c5859bad418bf7406",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-bench-press-94bb9ae4-motion-551045d3.json",
+      "quoteSha256": "0d17178dbfeeec6781fbda6f615a64affeb83a2c66c5af0cec0328da1e5ffade",
+      "quoteCredits": 10,
+      "balance": 9358,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_incline_row_8f4625d1",
+      "shot": "r9-open-dumbbell-incline-row-8f4625d1-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "e29ee995922c4dbdc847a04641bfa15858883a3f99391953811fce4a9f18959c",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-incline-row-8f4625d1-motion-92162029.json",
+      "quoteSha256": "14c9e7f9db8f78542aad312ee4dbb14c33b05e2f38e41a9a1a94d3eca047bd11",
+      "quoteCredits": 10,
+      "balance": 9358,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T20:45:33+00:00",
+  "balanceAfter": 9328,
+  "actualCredits": 30,
+  "evidenceFile": "form-media/ui-quotes/round-9-second-fast-group-reconcile.json",
+  "evidenceSha256": "180ebbe047cb497ca5be662c53ef8e36a6f09e856ed0b4acfb5434f4daffba57",
+  "terminalFailureIds": [
+    "attempt_afc4ab7e37d7417a"
+  ]
+}

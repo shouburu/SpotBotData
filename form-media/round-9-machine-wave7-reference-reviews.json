@@ -1,0 +1,1384 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "attemptId": "attempt_69a3e0e7fc504bb2",
+      "exerciseId": "open_dip_machine_74e49ff5",
+      "shot": "r9-open-dip-machine-74e49ff5-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-dip-machine-74e49ff5-start/attempt_69a3e0e7fc504bb2.jpg",
+      "outputSha256": "cb84439881e1d85e24af1afe537bfb46532cd9bf7c4fdb13e947bec5fdd50e54",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:23:16+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact source shows both arms almost straight, handles low beside the hips, pelvis on the seat, back against the pad and both feet supported. This is a clear completed seated dip press-down endpoint.",
+        "The near hand closes around a horizontal grip visibly attached to its long rigid lever; the far working hand is partly occluded by the body in this three-quarter view, but the support/lever arrangement is plausible and does not visibly detach.",
+        "Orange follows the posterior upper-arm triceps region. The fixed framing includes head, hands, elbows, seat and feet, with space above the hands for the handles to rise during elbow flexion."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "The near-side working grip is clearer than the far-side grip; exact video must preserve both closed grips and show the full elbow range."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-dip-machine-74e49ff5-start/attempt_69a3e0e7fc504bb2.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Pressed-down almost straight elbows -> handles rise as elbows bend to about a right angle -> same fully pressed-down source pose.",
+        "mustPreserve": [
+          "Seat/back/foot support",
+          "Closed grips on connected fixed-pivot levers",
+          "Near-straight elbows at the final endpoint",
+          "Orange triceps throughout"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-dip-machine-74e49ff5-motion-attempt_69a3e0e7fc504bb2-i2v.txt",
+      "motionPromptSha256": "5bf2a605e056bda1b21598f1cb78178b82febfe319945dd63d47a531420e28ba",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-dip-machine-74e49ff5-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_8cfeaa424f9d4b57",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_8cfeaa424f9d4b57.jpg",
+      "outputSha256": "282a50bc727165dbc4565912aa5a3535a5746d31d7868c7f362ae189e03c26ea",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:23:16+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact source again shows the heels conspicuously ABOVE the forefoot ledge, with the toes down and ankles plantarflexed. It is a plausible high calf-raise endpoint, but it did not produce the requested low dorsiflexed anchor.",
+        "The knees, forefeet, hip pad and hand supports are readable, and orange is localized to the posterior calves. There is no need to repair the whole apparatus or change the exercise.",
+        "The existing paid high-source approaches repeatedly failed to descend through a clear full ankle range. A narrow free pose edit is needed before another paid motion attempt, so the missing low endpoint is established visibly rather than only requested in text."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_8cfeaa424f9d4b57.jpg"
+      ],
+      "correctionPrompt": "Edit only the ankle endpoint and the body height needed to make it physically consistent in this exact donkey calf machine image. The current heels are HIGH; replace that ankle pose with a distinctly LOW heel position. Keep the balls of both feet touching the same top edge of the small rectangular step. Place BOTH heel bottoms visibly BELOW the horizontal TOP SURFACE of that step, hanging in the open air behind it. The foot soles must now slope UPWARD from the LOW heels toward the HIGH supported balls of the feet, the opposite slope to the supplied image. Toes and forefeet remain on the step; heels must not rest on the floor or a beam. Keep the knees almost straight at the same small soft angle and lower the pelvis and its contacting hip pad consistently, keeping natural leg lengths and the rigid lever connected to its fixed pivot. Keep hands supported, torso hinged forward, gray anatomical body and orange posterior calves. Show the entire knees, calves, feet and their ledge clearly, plus hip pad and hand support. No extra feet, text, arrows, labels or ghost positions. This single still must visibly show the low, stretched ankle endpoint before animation.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-donkey-calf-raises-55a343b9-start-after-attempt_8cfeaa424f9d4b57-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_7fe13d68cbb64b0a",
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_7fe13d68cbb64b0a.jpg",
+      "outputSha256": "e6996e420cdece0736f6841144879495dcbed9b32bfafc882611a3b00f1e3ade",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:29:10+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both elbows remain visibly bent in this supposed extended anchor, with the hands near the top border. The requested almost-straight elbow endpoint and extra overhead clearance were not created.",
+        "The gray anatomical style, localized orange triceps, two closed rope-end grips and cable running to a low rear pulley are useful, but another motion attempt from this same bent/source framing would repeat the demonstrated incomplete-extension problem.",
+        "A fresh side-view source with visible upper-arm/forearm alignment and clear space above the hands is the distinct next approach; no new paid motion from this source."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_7fe13d68cbb64b0a.jpg"
+      ],
+      "correctionPrompt": "Create a NEW Anatomical 3D instructional reference still in portrait 9:16: a gray realistic muscle-fiber mannequin standing side-on facing image-right, demonstrating the COMPLETED OVERHEAD ROPE TRICEPS EXTENSION. Both upper arms point diagonally upward beside the head. Both elbows are comfortably ALMOST STRAIGHT, so each upper arm and forearm form one long nearly straight line. Both closed hands hold the two rubber ends of a short rope well above and slightly forward of the head. Show the complete hands and leave at least one full hand-length of empty background above them. A single rope center clip joins one taut cable passing behind the body to a recognizable fixed floor-height pulley at image-left. The cable does not pass through the body. Stable slightly staggered feet, upright torso, natural limb lengths. Near-side camera with only a small rear offset so the near elbow extension is unmistakable and both rope grips can be distinguished. Frame the whole body plus full overhead movement path. Orange illumination follows ONLY the posterior upper-arm triceps bellies; neck, torso, forearms and legs stay gray. Plain warm-gray studio background, soft even light, matte dark equipment. One static completed-extension pose, no text, arrows, duplicate limbs, inset views or ghost poses.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-cable-rope-overhead-t-cbb7aa38-start-after-attempt_7fe13d68cbb64b0a-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_0a5c07b3c54f49f0",
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_0a5c07b3c54f49f0.jpg",
+      "outputSha256": "8cfd05296577d48199d1a1b90cee866c3b2ce7b87a212689d5c379545f5ac4fa",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:29:10+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The shoulders remain near their neutral height with long visible neck clearance; they are not distinctly elevated toward the ears as requested.",
+        "The current straight arms, closed connected grips and lower machine geometry are plausible, but direct comparison with the previous source shows essentially the same neutral pose. Previous paid motion from that anchor bent the elbows into a row.",
+        "Use a materially different rear-oblique elevated-shoulder source to establish the missing shoulder endpoint, preserving long arms; do not pay for another same-neutral-source trial."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_0a5c07b3c54f49f0.jpg"
+      ],
+      "correctionPrompt": "Create a NEW Anatomical 3D instructional reference still showing the TOP of a LEVER MACHINE SHOULDER SHRUG, portrait 9:16. Use a fixed rear-three-quarter camera, close enough to make both shoulder heights and elbow angles easy to judge; include the whole head, torso, both full arms, working grips and planted feet. A silver-gray anatomical mannequin stands tall on a simple plate-loaded shrug machine platform and holds two low handles beside the thighs. BOTH shoulders are visibly raised upward toward the ears: the upper trapezius is bunched, the neck-to-shoulder gap is clearly shortened, and the head stays upright at its normal height. This is the completed high shoulder endpoint, not relaxed neutral shoulders. BOTH elbows remain almost perfectly straight and arms hang long down beside the torso; no elbow flare or rowing bend. Each closed hand grips one solid handle connected to a rigid loaded lever with a clear fixed pivot, handles raised only the small distance created by the shoulder shrug. Equipment is consistent and leaves room for the shoulders/handles to descend a few centimeters. Orange follows the upper trapezius muscle bellies on both sides; arms and the rest of the body remain gray. Restrained fiber detail, neutral shorts, plain warm-gray background and soft studio lighting. No text, arrows, ghost positions or camera effects.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-leverage-shrug-33bef3fa-start-after-attempt_0a5c07b3c54f49f0-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_244c976ccab14e98",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_244c976ccab14e98.jpg",
+      "outputSha256": "b9a04b5ba0736396a79b190ce54506bd397547e6251197ba92e4cdf79cd90788",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:29:10+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The new close view clearly improves the recognizable plate-loaded machine, distal-thigh pad contact, anchored forefeet and visible calf/ankle region.",
+        "Both heels are still raised well ABOVE the fixed foot ledge with the soles sloping down toward the toes. This is a high plantarflexed endpoint rather than the requested low heel endpoint.",
+        "The prior video lost thigh-pad contact during descent. A narrow low-heel pose edit should preserve this improved apparatus and show the pad still resting on the thighs at the actual low endpoint before another paid trial."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_244c976ccab14e98.jpg"
+      ],
+      "correctionPrompt": "Keep this exact close side-view plate-loaded seated calf machine, framing, seated pelvis, fixed foot ledge, round weight plates and gray anatomical style. Change the current HIGH heel pose to a clearly LOW heel pose. Keep the balls of both feet on exactly the same top edge of the fixed ledge. Move both heels downward into the open air behind the ledge until the heel bottoms are visibly BELOW the ledge TOP SURFACE. The soles must slope UPWARD from the low heels to the high supported forefeet, opposite to the current supplied pose. Keep the soles off the floor and all beams; do not move the ledge or slide the forefeet. The loaded padded lever must rest directly on both distal thighs above the knees in this lower pose, with NO AIR GAP under the pad. Adjust the knees/thigh and lever angle only as needed to preserve natural limb lengths and uninterrupted pad contact; pelvis stays seated. Hands stay passive on the fixed grips. Preserve the plate-loaded design and real fixed pivot. Keep orange only on the posterior calf muscle bellies; Achilles tendons, shins and thighs remain gray. One low dorsiflexed static pose, no text, arrows or ghost positions.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-ex-calf-raise-seated-start-after-attempt_244c976ccab14e98-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_cc2eb5e812654ea7",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_cc2eb5e812654ea7.jpg",
+      "outputSha256": "91316007cd36033f80de9c8dd20094449e7b39786b7249eee93f0f2da9da3ba7",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:30:09+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The narrow edit again preserved the same high-heel plantarflexed pose: both heels sit above the step top and the soles descend toward the toes. The required low endpoint is still absent.",
+        "Gray anatomy, orange posterior calves, long knees, closed support grips and hip-pad contact are usable. The failure is a repeated ignored ankle-pose change, not a claim that the depicted high endpoint is anatomically invalid.",
+        "A fresh strict side-view image with a raised narrow ledge and explicit heel-below-forefoot geometry is a materially different free reference approach. Keep the paid shot held rather than repeat the earlier high-source motion strategy."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_cc2eb5e812654ea7.jpg"
+      ],
+      "correctionPrompt": "Create a NEW instructional Anatomical 3D still, portrait 9:16, strict side view with a very small rear offset to separate both feet. Show a donkey calf machine at the BOTTOM STRETCHED ankle position. A gray muscle-fiber mannequin hinges forward at the hips, rests a loaded padded lever across the back of the pelvis, and holds fixed front hand supports. Both knees are comfortably almost straight. The balls of both feet stand on the narrow top edge of a sturdy raised foot ledge, approximately 25 cm above the floor. Both heels HANG LOWER THAN THE BALLS OF THE FEET and lower than the ledge top, still clear of the floor. Show each foot as a clear upward diagonal from a LOW rear heel to the HIGH supported forefoot. This is ankle dorsiflexion, the lowered-heel stretch, not standing on tiptoes. Place the heel bottoms about 8 cm BELOW the ledge top and keep open air behind and below both heels. Do not put a support plate under the heels. Whole knees, ankles and feet are unobstructed, and the hip pad and hand supports stay visible. Use a simple believable rigid hip-load lever connected to a fixed pivot and visible weight plates, with enough room to rise at the ankles. Orange illumination follows the posterior calf muscle bellies only; shins, thighs and tendons stay gray. Natural limb proportions, matte dark equipment, plain light-gray background, soft studio lighting. One LOW-HEEL still, no words, arrows, markers or ghost poses.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-donkey-calf-raises-55a343b9-start-after-attempt_cc2eb5e812654ea7-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_331469ff9def4f71",
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_331469ff9def4f71.jpg",
+      "outputSha256": "6e6503aa1c367b3967c17d852f8855ca127399e4eb19ccd76a3742fca23c8e5c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:35:02+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The fresh side/rear view shows both elbows almost straight with upper arms and forearms aligned diagonally overhead. The complete hands and rope ends have clear empty background above them.",
+        "Both hands remain closed on one rope attachment; its center clip connects to one cable descending behind the body to a visible floor-height pulley. The planted split stance and upright torso are plausible.",
+        "Orange correctly marks the posterior triceps. The full elbow flexion path behind the head and the return to this extended endpoint fit inside the framing."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "The far elbow and grip partly overlap the near arm in projection; the delivered video must preserve the two distinct arms and closed rope grips."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_331469ff9def4f71.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Nearly straight overhead elbows -> bend both elbows to lower rope behind head -> fully return to exact extended source alignment.",
+        "mustPreserve": [
+          "Full comfortable elbow extension at final return",
+          "Raised upper arms and planted stance",
+          "Closed grips and continuous low-rear cable",
+          "Orange triceps"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-cable-rope-overhead-t-cbb7aa38-motion-attempt_331469ff9def4f71-i2v.txt",
+      "motionPromptSha256": "fe3ebc6af53f4958685b6b4705e6d0a739d92806d8e7bfba800a80f849f6403c",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-cable-rope-overhead-t-cbb7aa38-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_99275c881df244b1",
+      "exerciseId": "open_leverage_incline_ches_0c70165e",
+      "shot": "r9-open-leverage-incline-ches-0c70165e-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-incline-ches-0c70165e-start/attempt_99275c881df244b1.jpg",
+      "outputSha256": "7fa3e6c52ed04724389b635c8aa4590561358398129df7e7db467a342739aec9",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:35:02+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both hands are forward and above the upper chest with almost straight elbows, providing a visible forward/up incline press endpoint rather than the earlier lateral fly position.",
+        "The closed grips attach to rigid plate-loaded levers, and the pelvis/back remain against the inclined seat/back pad. There is room to bring the handles back toward the upper chest along the guided arc.",
+        "Orange clearly marks the pectorals; some plausible assisting upper-arm coloring is present. The source includes the complete working arms and their upper movement envelope."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "Some assisting upper-arm orange is visible as well as the primary pectorals; the far arm is partly overlapped by the near arm in this oblique view.",
+        "A portion of the nonworking upper-left frame and foot tips touch the image border; the working grips, elbows, torso support and forward/back press path remain visible."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-incline-ches-0c70165e-start/attempt_99275c881df244b1.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Forward/up near-straight arms -> bend elbows and bring handles back/down to upper chest -> press forward/up to same extended source.",
+        "mustPreserve": [
+          "Supported back and pelvis",
+          "Rigid connected grips and fixed pivots",
+          "Forward/up press path and full extension",
+          "Orange pectorals"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-leverage-incline-ches-0c70165e-motion-attempt_99275c881df244b1-i2v.txt",
+      "motionPromptSha256": "44113c7c19dd3cbadc9c458c3c42a33968eed2f72b861097477c9ed195b72a71",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-leverage-incline-ches-0c70165e-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_5852359c217247ae",
+      "exerciseId": "open_standing_cable_chest__ddb29d76",
+      "shot": "r9-open-standing-cable-chest--ddb29d76-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-cable-chest--ddb29d76-start/attempt_5852359c217247ae.jpg",
+      "outputSha256": "455e75eb12b089fbad980e7d72e682a9cab9908f20026b2249513e5920f2b8c3",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:35:02+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both arms now reach forward at chest height with only a small comfortable elbow bend, giving a much clearer completed chest-press endpoint than the prior bent-elbow motion.",
+        "Both hands close around separate D-handles attached to cable clips; the two cables extend rearward toward the station. The stance is stable and staggered with both feet visible.",
+        "Pectoral orange is correctly localized and the complete arm/hand path back toward the chest fits in frame. The apparent near/far overlap is a normal consequence of the front-side view."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "One rear cable continues out of the left image boundary, so its full pulley assembly is not visible; its working handle/clip and resistance direction remain visible.",
+        "Exact motion must preserve both cable connections and demonstrate a true elbow-bending press return, rather than a straight-arm fly."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-cable-chest--ddb29d76-start/attempt_5852359c217247ae.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Nearly straight forward press endpoint -> elbows bend, handles return beside chest -> full forward press to same source reach.",
+        "mustPreserve": [
+          "Staggered feet and upright torso",
+          "Both closed cable grips",
+          "Complete elbow bend and return to source extension",
+          "Orange pectorals"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-standing-cable-chest--ddb29d76-motion-attempt_5852359c217247ae-i2v.txt",
+      "motionPromptSha256": "ae2633a812a99e35aaf31ffd35f4bb80e424efaef85fcd40ed20e3b0b7aa561f",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-standing-cable-chest--ddb29d76-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_486391ac0e4349f7",
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_486391ac0e4349f7.jpg",
+      "outputSha256": "c060dddb53da51b727391960dec22472f383c526dfa2b1845f99074afbefdfa8",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:35:02+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fresh rear angle makes the upper trapezius and long nearly straight arms easy to see, with closed grips and a plausible near-side connected lever.",
+        "The shoulders still remain relatively low with substantial neck-to-shoulder clearance; the requested visibly elevated top shrug endpoint is not established.",
+        "A narrow elevation edit can preserve this more useful rear angle while lifting the shoulder girdle and handles together. It should be reviewed before any paid motion, because previous neutral-source attempts substituted elbow flexion for the shrug."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_486391ac0e4349f7.jpg"
+      ],
+      "correctionPrompt": "Edit the shoulder POSITION in this exact rear-oblique machine shrug image. Keep the head fixed at exactly its current height and orientation. Lift BOTH shoulder joints toward the ears by a natural clear shrug, about 4 to 5 cm, so the visible neck-to-shoulder gaps shorten and the orange upper trapezius bunches upward. The arms remain LONG AND STRAIGHT: raise each entire straight arm and its gripped handle by the same small shoulder-elevation distance, without bending or flaring either elbow. Preserve both closed grips, connected rigid machine levers and their fixed pivots; show any small lever rotation consistently with the raised handles. Feet, hips and torso stay in the same positions. Keep the exact rear camera, gray fibers and orange trapezius; no other colors or anatomy changes. The result must visibly have HIGH shrugged shoulders, not the current neutral low-shoulder pose. No text, arrows, ghost positions or extra parts.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-leverage-shrug-33bef3fa-start-after-attempt_486391ac0e4349f7-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_52c1e72c47504102",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r9-open-calf-press-619d1416-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_52c1e72c47504102.jpg",
+      "outputSha256": "569135fb7f07c06eed56f739ce19bf6464fe9216916af99f42a2e0a9c1b91a5a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:43:13+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The near and far knees remain visibly bent rather than nearly straight, and both heels rest on the middle of a broad plate. This is not the intended stable-knee, free-heel ankle endpoint.",
+        "The close framing and posterior-calf orange are useful, but this geometry still cues the knee-driven leg press that failed in the prior paid clip.",
+        "A separately authored, manually inspected pose guide now defines the supported pelvis, near-straight knees and forefoot-only lower-edge contact. Use it as a geometry reference alongside this anatomical style reference; no motion should be submitted until the replacement source is reviewed."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_52c1e72c47504102.jpg"
+      ],
+      "correctionPrompt": "Use reference 1 for realistic gray anatomical rendering, localized orange posterior calf muscles and the exercise equipment category. Use reference 2 ONLY for the corrected physical pose and contact geometry. Rebuild the seated lower-body pose so BOTH hips-knees-ankles form long almost-straight legs, with the knees comfortably unlocked by only a small angle. Move/reframe the supported chair and footplate as necessary while preserving natural limb lengths and a plausible guided load. BOTH balls of the feet rest securely at the LOWER EDGE of the plate. BOTH heels hang freely behind and below that edge, without touching the plate, floor or a beam, matching the guide's low heel versus supported forefoot relationship. Show the supported pelvis, both complete knees, ankles, forefeet and free heels closely enough to judge these contacts; both knees stay far from the torso. Gray anatomy with orange posterior calf muscle bellies, neutral thighs/shins/tendons, simple real metal equipment and soft studio light. Render a polished anatomical still, NOT a line drawing. Do not copy any text, arrows, colors, circles, stick limbs or labels from the construction guide. Show only one physical pose.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-calf-press-619d1416-start-after-attempt_52c1e72c47504102-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_7687c894371541f5",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_7687c894371541f5.jpg",
+      "outputSha256": "6b3b38b9bee944ddbac2c5c6d40b30eb7a580eb9ca3cd8ce27b9e631fa7195cb",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:43:13+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The new apparatus and rear-side angle are clearer, but both heels are again higher than the ledge and forefeet. The fresh text-only request still produced a high-tip-toe endpoint.",
+        "Knees are long, the hip pad/hand support and orange posterior calves are readable. Keep these useful appearance/equipment properties while correcting the ankle endpoint.",
+        "A manually authored low-heel construction guide now supplies explicit opposite geometry. This is an internal reference strategy; the diagram must not become the user-facing exercise asset."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_7687c894371541f5.jpg"
+      ],
+      "correctionPrompt": "Reference 1 supplies the realistic gray anatomical appearance and supported machine setup. Reference 2 supplies ONLY the desired lower-leg/foot geometry. Change BOTH feet in the anatomical scene to match the construction guide: balls of the feet remain on the top edge of the narrow raised support, and heel bottoms hang distinctly BELOW that top edge in open air. The soles rise from LOW heels toward HIGH supported forefeet; do not leave the original high heels. Mirror the guide horizontally if required by the existing camera. Both knees remain long and almost straight with a small comfortable soft angle. Lower the pelvis and its contacting loaded pad consistently while the torso stays hinged forward and hands keep firm support. Keep natural leg lengths, closed grips, the real lever and fixed pivot. Orange remains localized to posterior calf muscle bellies; all other body parts and tendons stay gray. Preserve polished 3D anatomy and soft studio lighting. Reframe only enough to show both knees and complete feet/ledge clearly. Do not copy the guide's text, arrows, joint circles, flat drawing style or stick limbs. One single anatomical pose.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-donkey-calf-raises-55a343b9-start-after-attempt_7687c894371541f5-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_8e71258c60bf4d96",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_8e71258c60bf4d96.jpg",
+      "outputSha256": "252235c3a4e3608b9c5b773f1d273f6c5b7e2cc4ca2cb42ed21da25720eff27f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:43:13+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The improved plate-loaded machine, close view and thigh-pad contact remain intact, but both heels are again visibly raised above the fixed ledge. The low pose edit did not change the endpoint.",
+        "The next source must establish both low heels and continued pad-on-thigh contact together, because the previous paid low phase visibly unloaded the pad.",
+        "An authored seated guide now shows the bent knee, seated pelvis, contacting thigh pad, anchored forefoot and below-ledge heel. It is an internal construction reference only, not publishable exercise media."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_8e71258c60bf4d96.jpg"
+      ],
+      "correctionPrompt": "Reference 1 supplies the exact polished anatomical style, close view and recognizable plate-loaded equipment. Reference 2 supplies ONLY the desired physical contact geometry. Keep the pelvis seated and the knees bent as in the guide. BOTH forefeet stay anchored on the fixed ledge, but BOTH heel bottoms must hang BELOW the ledge TOP in open air, making the soles slope upward from low heels to supported forefeet. The supplied anatomical image has high heels; visibly change that endpoint. The loaded pad remains in uninterrupted direct contact with the distal thighs above the knees in this lower position, with no air gap. Adjust the thigh and connected lever angle only as needed for natural proportions and that contact. Preserve real plates, fixed pivot, fixed ledge and passive hands. Posterior calf muscle bellies orange; shins, thighs, tendons and other tissues gray. Both whole knees, ankles, feet and forefoot contact remain visible. Do not copy any diagram text, arrows, circles, flat colors or stick-like shapes. Produce one realistic gray anatomical 3D still.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-ex-calf-raise-seated-start-after-attempt_8e71258c60bf4d96-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_986fdd37e2a74399",
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_986fdd37e2a74399.jpg",
+      "outputSha256": "9ea2ca0d365d051604b567b9404956738f0a43dd0621c645f88edb07ca81f867",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:43:13+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both closed handles now have the requested opposite-side crossed cable connections, but the arms are lowered diagonally toward waist level with high pulleys.",
+        "That lowered-arm pose does not establish the shoulder-height horizontal rear-delt fly endpoint. The frontal camera also emphasizes orange front/middle deltoid surfaces rather than clearly showing the posterior deltoids.",
+        "A fresh rear-oblique horizontal-arm source is needed. The useful crossed attachment concept should remain while changing actual arm height and rear-muscle visibility."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_986fdd37e2a74399.jpg"
+      ],
+      "correctionPrompt": "Create one NEW polished Anatomical 3D still, portrait 9:16, viewed from a fixed REAR three-quarter angle so both posterior shoulder muscle bellies are clearly visible. A realistic silver-gray mannequin stands between two cable towers with stable feet. Both arms extend WIDE OUT TO THE SIDES at SHOULDER HEIGHT, forming a horizontal T across the shoulders; each elbow has only a small comfortable soft bend. Both closed hands hold one D-handle. The right hand is connected by one taut cable to the LEFT tower pulley in front of the body; the left hand is connected to the RIGHT tower pulley. The two cables cross in FRONT of the chest, without penetrating the body, and remain attached to the same opposite-side pulleys. Position the pulleys at approximately shoulder height. The hands are never down by the waist, and the arms are not in a downward press. Show the entire shoulder-height arm span, both elbows, both closed grips and the relevant pulley connections with spare frame room. Both orange posterior deltoid muscle bellies show the working rear-shoulder region; chest and front of arms stay gray. Natural proportions, neutral shorts, plain light studio and matte dark-metal towers, soft even lighting. Exactly one horizontal open-arm pose; no labels, arrows, text, ghost positions or camera effects.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-cable-rear-delt-fly-dc550f7f-start-after-attempt_986fdd37e2a74399-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_f9fa8999b28a4747",
+      "exerciseId": "open_smith_machine_bent_ov_01d0d0f3",
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-start/attempt_f9fa8999b28a4747.jpg",
+      "outputSha256": "5ce714a58794f842db4028e6c44833952ec20e25da620411a99cccfde704ab92",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:47:53+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual source shows both elbows bent backward and the bar close to the lower abdomen, establishing a contracted row endpoint rather than the previous straight-arm/deadlift start.",
+        "Both hands close around the same rail-connected bar, feet are planted, knees soft and the torso leans forward from the hips. There is unobstructed rail space below the bar for the hanging-arm phase.",
+        "Relevant upper-back/lat orange is visible at the sides and shoulder region; gray anatomy and equipment proportions are consistent enough to animate."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "The front-oblique view foreshortens the hip-hinge depth and partially hides the rear muscle surfaces. The exact video must keep this torso/hip position fixed and lower the bar by elbow extension, not stand up.",
+        "The existing source/job uses 16:9. A later deliberate delivery crop may improve phone readability if the full working motion remains visible."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-start/attempt_f9fa8999b28a4747.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Bar contracted to lower abdomen -> elbows straighten and bar lowers along rails -> elbows bend and bar returns fully to abdomen, fixed torso.",
+        "mustPreserve": [
+          "Torso and hip hinge fixed at source angle",
+          "Same bar/grips/rails/collars",
+          "Full elbow extension then contracted return",
+          "Back muscle orange"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-smith-machine-bent-ov-01d0d0f3-motion-attempt_f9fa8999b28a4747-i2v.txt",
+      "motionPromptSha256": "dc3920a26351c7e9ba42d58b9bc80e17149c8ab80e3d830eb3a97a57c96c12a9",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-smith-machine-bent-ov-01d0d0f3-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_d7ea2a6af46d44df",
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_d7ea2a6af46d44df.jpg",
+      "outputSha256": "12465673f02c3b989c4883a18606b952385ee927cb7275dc778adeddb8b1a7b6",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:47:53+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact rear-oblique source has long nearly straight arms, closed low-handle grips, planted feet and clearly visible orange upper trapezius. The near-side handle is visibly connected to a loaded rigid lever.",
+        "Shoulders remain in a neutral/lowered position rather than the originally requested high endpoint. The parent explicitly authorized a bounded six-second trial using this actual neutral pose and the materially clearer rear view.",
+        "This source can anchor a neutral-to-high-to-neutral shoulder-only cycle, provided delivered video independently proves real shoulder elevation without bending the elbows."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "The source does not itself prove a complete high shrug endpoint; this is readiness for a bounded motion trial, not evidence that the resulting movement is correct.",
+        "The far-side lever connection is partially hidden behind the body; exact video must preserve both grips and their connected load without floating parts."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_d7ea2a6af46d44df.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual neutral/lowered shoulders -> shoulders elevate toward ears with long straight arms -> return to exact neutral source.",
+        "mustPreserve": [
+          "Elbows long and almost straight",
+          "Head, hips and feet steady",
+          "Both connected loaded grips",
+          "Orange upper trapezius"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-leverage-shrug-33bef3fa-motion-attempt_d7ea2a6af46d44df-i2v.txt",
+      "motionPromptSha256": "c34ce0ae3ef2599b3b8f6ac4cbdea868cc70cad7f655c666f8bb8d34cfb085ac",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-leverage-shrug-33bef3fa-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_456fbfa1480a4002",
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_456fbfa1480a4002.jpg",
+      "outputSha256": "3e382d3f35e5882e82ae30cbe0abcee2534e231d5f2585fd09493ab79e4ed083",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:47:53+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact close source again shows both heels well above the narrow forefoot ledge in a high plantarflexed pose, not the requested below-ledge low position.",
+        "The near-straight knees, forefoot contact, posterior calf orange and close knee-to-foot view are useful. Preserve them while establishing the missing low ankle endpoint.",
+        "An internal long-knee/low-heel construction guide now explicitly shows heel-below-forefoot geometry. The actual new anatomical source still requires visual review before the six-second motion trial."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_456fbfa1480a4002.jpg"
+      ],
+      "correctionPrompt": "Use reference 1 for the polished anatomical appearance, close machine view and exact gray/orange material. Use reference 2 ONLY for the changed lower-leg and foot geometry. BOTH forefeet stay on the same top edge of the fixed narrow ledge, while BOTH heels hang distinctly BELOW that top edge in open air. The soles slope upward from low heels to high supported forefeet; replace the original high-tip-toe pose. Mirror the guide horizontally if needed for this rear-side camera. Keep both knees almost straight at the same small soft angle, without crouching. Lower the pelvis/upper body and its contacting shoulder-load carriage consistently, preserving real limb proportions and support. Both entire knees, calves, ankles, feet and their fixed forefoot contact remain in the close frame. Orange posterior calf muscle bellies; all shins, thighs and tendons gray. Do not copy any diagram text, arrows, joint circles, flat colors or stick shapes. One single realistic 3D anatomical low-heel pose.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-standing-calf-raises-6f81c277-start-after-attempt_456fbfa1480a4002-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_ecb220818be74538",
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_ecb220818be74538.jpg",
+      "outputSha256": "cba7aeb7ed5b1716a7fff93ad88a08c5ae2c5b13e094f5bf4254a4403d10ccc2",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:47:53+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The new source clearly improves the forward/lower-chest press direction, back/pelvis support, closed grips and rigid lever connections.",
+        "The near elbow remains visibly bent: the upper arm angles down/forward before the forearm travels almost horizontally to the hand. Detail inspection confirms this is substantially short of a straight-arm press endpoint, despite the intended extended anchor.",
+        "Correct the elbow endpoint while preserving the improved machine and support geometry. Keep the previous failed Quality trial's explicit model-selection gate; no automatic paid retry from this partial endpoint."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "Joint-angle description is a visual approximation, not a measured biomechanical assessment. The visibly bent elbow is the reason for this narrowly targeted reference repair."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_ecb220818be74538.jpg"
+      ],
+      "correctionPrompt": "Edit this exact anatomical machine scene to the COMPLETED PRESS position. Keep the back and pelvis on the same pads, feet fixed, orange pectorals, closed grips and same two rigid levers with their fixed pivots. Move both hands and their connected handles farther FORWARD and slightly DOWN from the lower chest until BOTH ELBOWS are comfortably ALMOST STRAIGHT. In particular the near arm currently has a clear bend between the sloping upper arm and horizontal forearm; remove that bend so shoulder, elbow and wrist form one long nearly straight line. Preserve natural upper-arm and forearm lengths; do not stretch the limbs or shift the shoulders off the support. The rigid levers rotate consistently about their original upper pivots to reach the new hand positions. Keep the same forward/down chest-press path and shoulder-width hand separation, not a fly. Use a slightly more side-on camera only if needed to make the near elbow alignment unmistakable, keeping full hand reach visible with clearance. One static fully pressed anatomical frame, no words, arrows, ghost poses or extra parts.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-leverage-decline-ches-adfbca13-start-after-attempt_ecb220818be74538-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_973d316b9b22478e",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_973d316b9b22478e.jpg",
+      "outputSha256": "f317b67c0ffc22a3c3e483a192101fed7e4bb9e90ae43e865ca4a6170b5eb8b2",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:56:04+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The guide-second edit again preserved high raised heels. The improved pad-on-thigh contact, plate-loaded apparatus and forefoot support remain useful.",
+        "Both intended references were uploaded and bound in the checked three-attempt logs; no missing local second reference was found. Reversing the order is a bounded geometry-priority hypothesis, not a proven diagnosis of provider weighting.",
+        "Use the construction guide first and anatomical appearance second; exact replacement review is still required before motion. Keep the guide internal."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_973d316b9b22478e.jpg"
+      ],
+      "correctionPrompt": "The FIRST reference is the authoritative POSE AND CONTACT blueprint. Reconstruct that physical geometry as a polished realistic Anatomical 3D scene. The SECOND reference supplies ONLY gray muscle-fiber appearance, orange calf coloring and useful equipment details; do NOT preserve its incorrect ankle endpoint. Keep the pelvis seated and both knees bent. The loaded padded lever rests directly on both distal thighs above the knees with no air gap. Preserve the recognizable plate-loaded machine, fixed pivot and passive hands. Both balls of the feet remain on the fixed ledge while both heels hang distinctly below its top in open air. Match the first guide's relationship of LOW heel to HIGH fixed forefoot: soles slope upward from low heels toward supported balls of the feet. Apply the guide to both legs, mirror it if required by the camera, and preserve natural human proportions rather than diagram proportions. Keep gray anatomy with orange only on posterior calf muscle bellies, neutral shins/thighs/tendons, soft studio lighting and solid matte equipment. Include the whole knees, ankles, feet and actual support contacts. Render one physical 3D pose. Do not copy the guide's text, arrows, joint circles, flat colors or line/stick drawing style.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-ex-calf-raise-seated-start-after-attempt_973d316b9b22478e-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_9e293fa07c0841c3",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_9e293fa07c0841c3.jpg",
+      "outputSha256": "99ca6abcc337f5c0fa1a0ff738196732da6a1e71ba4c20c638edb6b87a361306",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:56:04+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The guide-second result moved both feet off the ledge entirely. Both feet now float below/in front of the support with toes pointed downward, losing the essential forefoot contact.",
+        "Both intended references were uploaded and bound in the checked three-attempt logs; no missing local second reference was found. Reversing the order is a bounded geometry-priority hypothesis, not a proven diagnosis of provider weighting.",
+        "Use the construction guide first and anatomical appearance second; exact replacement review is still required before motion. Keep the guide internal."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_9e293fa07c0841c3.jpg"
+      ],
+      "correctionPrompt": "The FIRST reference is the authoritative POSE AND CONTACT blueprint. Reconstruct that physical geometry as a polished realistic Anatomical 3D scene. The SECOND reference supplies ONLY gray muscle-fiber appearance, orange calf coloring and useful equipment details; do NOT preserve its incorrect ankle endpoint. Keep both knees long and almost straight, torso hinged forward, pelvis under a contacting loaded hip pad and hands on fixed supports. BOTH forefeet must bear weight on top of the raised ledge; do not float either foot. Both heels hang below the ledge top in open air. Preserve plausible rigid machine/pivot connections. The second reference is the last source with valid support, used only for its anatomical appearance and machine. Match the first guide's relationship of LOW heel to HIGH fixed forefoot: soles slope upward from low heels toward supported balls of the feet. Apply the guide to both legs, mirror it if required by the camera, and preserve natural human proportions rather than diagram proportions. Keep gray anatomy with orange only on posterior calf muscle bellies, neutral shins/thighs/tendons, soft studio lighting and solid matte equipment. Include the whole knees, ankles, feet and actual support contacts. Render one physical 3D pose. Do not copy the guide's text, arrows, joint circles, flat colors or line/stick drawing style.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-donkey-calf-raises-55a343b9-start-after-attempt_9e293fa07c0841c3-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_94d5967a92a24e04",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r9-open-calf-press-619d1416-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_94d5967a92a24e04.jpg",
+      "outputSha256": "9da6997fe7200dc917a1e54bcbaa07f1e0f8fbc147ea61ef17d28aa7e5129903",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:56:04+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The guide-second result retained the visibly bent knees and heels resting on the middle of the plate. It did not establish the near-straight knee/free-heel ankle setup.",
+        "Both intended references were uploaded and bound in the checked three-attempt logs; no missing local second reference was found. Reversing the order is a bounded geometry-priority hypothesis, not a proven diagnosis of provider weighting.",
+        "Use the construction guide first and anatomical appearance second; exact replacement review is still required before motion. Keep the guide internal."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_94d5967a92a24e04.jpg"
+      ],
+      "correctionPrompt": "The FIRST reference is the authoritative POSE AND CONTACT blueprint. Reconstruct that physical geometry as a polished realistic Anatomical 3D scene. The SECOND reference supplies ONLY gray muscle-fiber appearance, orange calf coloring and useful equipment details; do NOT preserve its incorrect ankle endpoint. The pelvis stays supported in a seat. BOTH knees are almost straight and unlocked by only a small comfortable angle, as the guide shows. Both forefeet contact the LOWER EDGE of the plate, while both heels hang freely behind and below that edge, clear of the plate and all beams. Rebuild chair-to-plate spacing as needed to keep real limb proportions and a plausible guided load; do not keep the second image's bent-knee pose. Match the first guide's relationship of LOW heel to HIGH fixed forefoot: soles slope upward from low heels toward supported balls of the feet. Apply the guide to both legs, mirror it if required by the camera, and preserve natural human proportions rather than diagram proportions. Keep gray anatomy with orange only on posterior calf muscle bellies, neutral shins/thighs/tendons, soft studio lighting and solid matte equipment. Include the whole knees, ankles, feet and actual support contacts. Render one physical 3D pose. Do not copy the guide's text, arrows, joint circles, flat colors or line/stick drawing style.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-calf-press-619d1416-start-after-attempt_94d5967a92a24e04-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_a0058c5a008040ae",
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_a0058c5a008040ae.jpg",
+      "outputSha256": "de5cdc2401fbe0e7f59574367022277ecbb89b7adca17ab26cfaa6449d83f77c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:56:04+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The guide-second result again retains both heels high above the ledge, essentially the same plantarflexed source. The knees, close view, forefoot support and posterior-calf orange remain useful.",
+        "Both intended references were uploaded and bound in the checked three-attempt logs; no missing local second reference was found. Reversing the order is a bounded geometry-priority hypothesis, not a proven diagnosis of provider weighting.",
+        "Use the construction guide first and anatomical appearance second; exact replacement review is still required before motion. Keep the guide internal."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_a0058c5a008040ae.jpg"
+      ],
+      "correctionPrompt": "The FIRST reference is the authoritative POSE AND CONTACT blueprint. Reconstruct that physical geometry as a polished realistic Anatomical 3D scene. The SECOND reference supplies ONLY gray muscle-fiber appearance, orange calf coloring and useful equipment details; do NOT preserve its incorrect ankle endpoint. Both knees stay long and almost straight with a small comfortable soft angle. Both balls of the feet stay fixed on the ledge top; both heels hang below that top in clear open air. Lower the supported torso and contacting shoulder-load carriage consistently without squatting or changing limb lengths. Retain the close view of both complete knees, calves, ankles and feet. Match the first guide's relationship of LOW heel to HIGH fixed forefoot: soles slope upward from low heels toward supported balls of the feet. Apply the guide to both legs, mirror it if required by the camera, and preserve natural human proportions rather than diagram proportions. Keep gray anatomy with orange only on posterior calf muscle bellies, neutral shins/thighs/tendons, soft studio lighting and solid matte equipment. Include the whole knees, ankles, feet and actual support contacts. Render one physical 3D pose. Do not copy the guide's text, arrows, joint circles, flat colors or line/stick drawing style.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-standing-calf-raises-6f81c277-start-after-attempt_a0058c5a008040ae-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_f707719e0e454d9b",
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_f707719e0e454d9b.jpg",
+      "outputSha256": "c53172d8a0a6a49e04f5d93c9f24d28ecec424cce89535df4cbf3872a9daffd5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:56:04+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The arms are now at shoulder height with closed grips, but the two cables visibly cross behind the lower back and lead to low pulleys. This does not provide the intended front-crossed horizontal resistance direction.",
+        "The mannequin also became a segmented robot rather than the established fibrous anatomical body. Muscle coloring is visible, but it does not make the incorrect working cable geometry acceptable.",
+        "An internal top-view plan now establishes both opposite-hand towers in front of the chest and a crossing in front of the body. Use an earlier fibrous source as secondary appearance reference, not the robot render."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_f707719e0e454d9b.jpg"
+      ],
+      "correctionPrompt": "The FIRST reference is an overhead construction plan defining the correct spatial layout. Render that same layout as a realistic Anatomical 3D scene from a rear-three-quarter camera BEHIND the person, not as an overhead diagram. Both cable towers and their SHOULDER-HEIGHT working pulleys are IN FRONT of the person's chest. Both arms reach wide horizontally at shoulder height with softly straight elbows. Each closed hand holds one D-handle connected to the OPPOSITE FRONT pulley. The cables cross IN FRONT OF THE CHEST, as the plan shows, and never behind the back or between the legs. From the rear camera, portions of cables may correctly be hidden by the torso; do not draw them through or over the back to force an X visible there. Show both hands and enough of the front towers to understand the routing. Use the SECOND reference only for realistic gray muscle fibers, natural body proportions and equipment finish. Show orange posterior deltoid muscle bellies on the backs of the shoulders, all other muscles gray. Stable feet, plain studio, soft lighting. No robot shells, segmented toy joints, text, arrows, circles, flat diagram style or ghost poses. One shoulder-height open-arm anatomical still.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-cable-rear-delt-fly-dc550f7f-start-after-attempt_f707719e0e454d9b-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_cc79dc60e1cb429c",
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_cc79dc60e1cb429c.jpg",
+      "outputSha256": "50ef4f1ac3c3f179a98f75bcd56dd76ce57c9b9ef7f43343c7a9f2fffefc451d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:56:04+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual source is an intermediate press pose: both elbows remain partly bent. It must not be described as the completed straight-arm endpoint.",
+        "The closed grips, rigid connected levers, supported back/pelvis, planted feet, forward/lower-chest direction and pectoral orange are usable. The framing permits both a return toward the chest and additional forward reach.",
+        "The parent explicitly authorized one bounded Omni trial using a brief setup to the full bent-elbow bottom, followed by a complete press and return. Only a genuinely complete subsequent cycle may be retained by trimming; no approval of incomplete source-to-source motion is implied."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "Initial source pose is midrange; the setup must be excluded from the final one-repetition delivery if a valid complete cycle follows.",
+        "Reference readiness only covers physical identity and available movement envelope. Exact output must prove comfortable full elbow extension, full return and stable working contacts."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_cc79dc60e1cb429c.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Intermediate source -> brief setup to handles beside lower chest -> full forward/down press -> full return to that same chest-level bottom; retain only actual complete cycle.",
+        "mustPreserve": [
+          "Full bottom established after setup",
+          "Both elbows nearly straight at peak",
+          "Return to the same actual full bottom",
+          "Connected levers, supported torso and orange pectorals"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-leverage-decline-ches-adfbca13-motion-attempt_cc79dc60e1cb429c-i2v.txt",
+      "motionPromptSha256": "0c3eb7789d44e9ea9a98a6c9c6acd3194be85ad60c3b65df4681c20fd0c5a219",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-leverage-decline-ches-adfbca13-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_396f660014784db6",
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_396f660014784db6.jpg",
+      "outputSha256": "6152a2424280bf4468cd2dac83eb2d92594614d97af76873f47cb8bba234920c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:27:43+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact image retains a neutral lowered shoulder girdle closely resembling the anatomical second reference; the ear-to-shoulder gaps are not visibly shortened into an elevated shrug.",
+        "Long elbows, closed connected grips, planted feet, gray muscle fibers and orange upper trapezius remain useful. The source still does not supply the materially different high endpoint intended to avoid prior arm-driven motion failures.",
+        "Guide-first plus anatomical appearance did not visibly alter this pose. A guide-only render with written styling removes the conflicting neutral-pose image; this is a new bounded hypothesis, not proof of provider weighting."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_396f660014784db6.jpg"
+      ],
+      "correctionPrompt": "Use this single construction drawing as a POSE AND CONTACT blueprint. Create a completely new photorealistic anatomical 3D studio illustration of that pose, not a flat drawing. Realistic adult proportions, matte gray visible muscle fibers, black shorts, softly glowing orange upper trapezius only, neutral taupe background and soft light. Rear view of a standing mannequin between two connected load-machine handles. Both shoulder girdles are HIGH, pulled close to the ears in a strong shrug, neck shortened by the shoulders rising. Both elbows remain fully long and straight, with closed hands hanging directly below the shoulders on the same rigid handles. Feet flat, legs straight, hips and head neutral. Reconstruct a plausible metal lever machine and plates around the same contacts; no need to reproduce the simplified guide hardware. Preserve the clearly elevated shoulders and completely straight arms. Full body, both handles and movement room visible. Do not draw a neutral relaxed-shoulder pose. No labels, diagram lines, arrows, circles, cartoon anatomy or duplicate figures.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-leverage-shrug-33bef3fa-start-after-attempt_396f660014784db6-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_288880dd054a4f44",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_288880dd054a4f44.jpg",
+      "outputSha256": "c87c5e8907ee87e9b817b6f6e91659a6faee14363af4b98cd01a07a75eea48d3",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:27:43+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact image again shows both heels substantially ABOVE the forefoot ledge; the feet slope downward to the toe contacts. It did not create the requested low dorsiflexed endpoint despite reversing the guide order.",
+        "The plate-loaded machine, supported pelvis and pad touching the distal thighs are otherwise clearer and remain useful. Another paid high-source clip would repeat the unresolved limited-descent strategy.",
+        "A guide-only render with written anatomical styling removes the conflicting raised-heel appearance image while retaining an explicit low-heel geometry input."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_288880dd054a4f44.jpg"
+      ],
+      "correctionPrompt": "Transform this SINGLE geometry drawing into a new realistic anatomical 3D studio illustration. Preserve its exact knee, foot and support geometry; do not copy its flat style, labels or simplified proportions. Gray realistic muscle fibers, black shorts, softly glowing orange posterior calf muscle bellies, plain neutral background, soft studio light. The adult mannequin is seated with bent knees and a padded plate-loaded metal lever resting directly on the distal thighs just above the knees. Both balls of the feet rest on a narrow fixed ledge. Both heels hang freely in open air distinctly BELOW the TOP of that ledge; the feet rise from low heels up toward the anchored forefeet. This is a LOWERED-HEEL ankle position, not standing on tiptoe. Leave empty space underneath each heel. Reconstruct realistic metal equipment with visible round plates while preserving all five contacts: seat-pelvis, thigh-pad, and fixed left/right forefoot support. Close side view includes hips, both knees, ankles, feet, pad and ledge. Do not raise the heels or extend the knees. No stick figures, labels, arrows, circles, text or multiple poses.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-ex-calf-raise-seated-start-after-attempt_288880dd054a4f44-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_e0f7552aa36c4dc5",
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_e0f7552aa36c4dc5.jpg",
+      "outputSha256": "366e8af1f6a55cee8f44ae3f6330d58029591f56b10f756e3239fa8508215444",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:29:28+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact master shows a standing rear-oblique open-arm endpoint with long softly bent elbows, both grips present and orange posterior shoulder regions.",
+        "The two taut opposite-hand cables now route to high pulleys in front of the mannequin and cross in front of the upper body, matching the catalog default instead of the prior low-behind-back route.",
+        "Feet and torso are stable, and the inward return travels into available space in front of the chest; both wide hands remain inside the source frame."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "The near outer hand has limited border clearance at the wide endpoint; motion must preserve the fixed framing without extending farther outward.",
+        "One cable crossing and the far grip are partly occluded by the body in this rear view; require continuous correct connections and no arm folding in the delivered motion."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_e0f7552aa36c4dc5.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual wide open-arm endpoint -> long arms travel together in front of chest with the same soft elbow angles -> return to identical wide endpoint.",
+        "mustPreserve": [
+          "Opposite-hand connections to the same high front pulleys",
+          "Closed grips and constant softly bent elbow angles",
+          "Orange posterior deltoids",
+          "Planted feet and unchanged torso orientation",
+          "Hands inside frame throughout"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-cable-rear-delt-fly-dc550f7f-motion-attempt_e0f7552aa36c4dc5-i2v.txt",
+      "motionPromptSha256": "65332d11024c038072b287e6413af189eb5a86905ca26abda630f4e9a1b6dbe9",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-cable-rear-delt-fly-dc550f7f-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_822e81d6393548f4",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r9-open-calf-press-619d1416-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_822e81d6393548f4.jpg",
+      "outputSha256": "1a131343d47fd6d3e7ac5f6b76d35f23d52f062b9a7f8d0cabc40f3a80c9aa89",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:29:28+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact guide-first master again preserves substantial knee bend instead of a near-straight supported leg position. Both feet lie flat on the middle of the plate, preventing the intended below-edge low heel endpoint.",
+        "Calf orange, seat support and sled rails remain coherent, but this image would again invite a leg-press knee movement rather than isolate a full ankle cycle.",
+        "Use the low-ankle guide alone with written Anatomical 3D styling, removing the conflicting bent-knee and flat-foot appearance image."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_822e81d6393548f4.jpg"
+      ],
+      "correctionPrompt": "Turn this single internal geometry drawing into a new realistic anatomical 3D illustration. Copy its LEG AND FOOT POSE, not its flat drawing style or simplified proportions. Matte gray human muscle fibers, black shorts, soft orange posterior calf muscle bellies, plain studio background and soft light. An adult mannequin lies supported on a reclining leg-press seat. Both knees are almost straight with only a small comfortable bend; the hips and pelvis remain supported. Place ONLY the balls of both feet on the LOWER EDGE of a fixed metal footplate. Both heels hang freely BELOW AND BEHIND that edge in empty air, lower than the forefoot contact, creating a clearly dorsiflexed ankle. The heels do not rest flat on the middle of the plate. Reconstruct a plausible real sled, rails and safety supports around this exact pose. Tight side/rear framing contains the supported pelvis, both entire knee angles, both ankles and every toe/edge contact. Keep knees nearly straight, do not draw a squat. No raised heels, flat soles in the plate middle, cartoon limbs, lines, arrows, text or labels.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-calf-press-619d1416-start-after-attempt_822e81d6393548f4-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_a514f9f9fae94978",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_a514f9f9fae94978.jpg",
+      "outputSha256": "90d85ab909be6c8cbd37af8138ba6de2a6e8794c47e9c4e1f095ff34c2e767b2",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:30:30+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact master adds malformed/duplicated hanging foot shapes below the narrow bar while retaining another forefoot on top. The working feet no longer have a coherent single heel/forefoot contact each.",
+        "A new image with the geometric guide as the ONLY input removes the conflicting raised-heel anatomical source; exact anatomical style and correct support will still require review. No paid motion is justified from this source."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_a514f9f9fae94978.jpg"
+      ],
+      "correctionPrompt": "Use the sole construction drawing as a literal side-view knee/ankle/contact blueprint. Render a NEW realistic Anatomical 3D studio image, with natural adult human proportions, matte gray muscle fibers, black shorts, orange posterior calf muscle bellies only, neutral plain background and soft lighting. Do not copy diagram lines, labels, flat colors, joint circles or simplified proportions. Both knees are comfortably nearly straight. Each foot has ONE heel, one ankle and one set of toes. Each forefoot rests securely on a narrow fixed ledge, while its heel hangs freely in open air distinctly BELOW the ledge top. The foot therefore slopes upward from the low heel toward the supported forefoot; it is not on tiptoe. No duplicated feet, floating toes or obstructing hardware below the heels. The torso hinges forward with hands gripping fixed front support handles. A padded plate-loaded lever rests directly on the upper pelvis; the torso and hands stay supported. Reconstruct a plausible donkey calf machine while preserving the guide lower-leg pose. Use a close SIDE or rear-oblique view that clearly shows the pad/pelvis load contact, both whole knee angles and both feet. Preserve a clear LOWERED-HEEL endpoint with heel below toe support. No raised heels, deep bent knees, labels, arrows, text, multiple poses or cartoon anatomy.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-donkey-calf-raises-55a343b9-start-after-attempt_a514f9f9fae94978-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_453b962216494b05",
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_453b962216494b05.jpg",
+      "outputSha256": "91c8e77a42738fc08c7c3b332e94d49d07a003691bd344fac3a1ee175972c2ab",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:30:30+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact guide-first output still shows high plantarflexed heels rather than the requested below-ledge low endpoint.",
+        "A new image with the geometric guide as the ONLY input removes the conflicting raised-heel anatomical source; exact anatomical style and correct support will still require review. No paid motion is justified from this source."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_453b962216494b05.jpg"
+      ],
+      "correctionPrompt": "Use the sole construction drawing as a literal side-view knee/ankle/contact blueprint. Render a NEW realistic Anatomical 3D studio image, with natural adult human proportions, matte gray muscle fibers, black shorts, orange posterior calf muscle bellies only, neutral plain background and soft lighting. Do not copy diagram lines, labels, flat colors, joint circles or simplified proportions. Both knees are comfortably nearly straight. Each foot has ONE heel, one ankle and one set of toes. Each forefoot rests securely on a narrow fixed ledge, while its heel hangs freely in open air distinctly BELOW the ledge top. The foot therefore slopes upward from the low heel toward the supported forefoot; it is not on tiptoe. No duplicated feet, floating toes or obstructing hardware below the heels. The mannequin stands upright beneath a supported calf-machine shoulder yoke, with hands on its fixed side handles. Reconstruct recognizable real calf-machine metal equipment around the exact low-foot geometry. Use a close SIDE or rear-oblique view including both knees, ankles, forefoot contacts and low heels, with the frame open below the heels. Preserve a clear LOWERED-HEEL endpoint with heel below toe support. No raised heels, deep bent knees, labels, arrows, text, multiple poses or cartoon anatomy.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-standing-calf-raises-6f81c277-start-after-attempt_453b962216494b05-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_511142cc6eeb4b0a",
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_511142cc6eeb4b0a.jpg",
+      "outputSha256": "ba2082de7d6d6f6602f1b3f6bee1f713838eb87bc2dea998e9845c5069cb9822",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:32:01+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact generated master preserves the reviewed extracted full-extension pose: both elbows form long near-straight arm lines and each closed hand grips a continuous loaded machine lever.",
+        "The back and pelvis remain supported, both feet are planted, and there is inward travel room for handles to return toward the lower chest. Orange pectoral muscle bellies remain readable despite some near-arm overlap.",
+        "This creates a genuine endpoint reference rather than the earlier intermediate bent-elbow source; the subsequent cycle still requires independent video review."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "The oblique near arm overlaps part of the lower pectoral region; orange is nevertheless visible above and below it.",
+        "Minor appearance and unused frame shape differences from the original machine are acceptable only while working pivots, levers and grips remain stable."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_511142cc6eeb4b0a.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual near-straight press endpoint -> elbows bend and handles return beside lower chest -> full return to the same near-straight source endpoint.",
+        "mustPreserve": [
+          "Full elbow extension before and after the bend",
+          "Loaded rigid lever connections",
+          "Back and pelvis support",
+          "Orange pectorals",
+          "Stationary camera and feet"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-leverage-decline-ches-adfbca13-motion-attempt_511142cc6eeb4b0a-i2v.txt",
+      "motionPromptSha256": "092fcbf8f1ede5bf273e2752cbdc3097b6265027f93ff5de4b1adc1e8faca250",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-leverage-decline-ches-adfbca13-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_e37a4b1f21034722",
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_e37a4b1f21034722.jpg",
+      "outputSha256": "db3726a78134c032384f80dd630fc35df9b85cdae064e9cc4288383faf3c34f4",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:33:15+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact new guide-only source uses a directly rear camera, realistic gray muscle fibers, clear orange upper traps and a plausible bilateral plate-loaded lever rig. Both hands are closed on their handles, elbows remain long, and both feet are flat.",
+        "The shoulder position is neutral or only mildly elevated, not the explicitly high endpoint requested. The matching motion therefore truthfully starts neutral and returns neutral; no high-source claim transfers.",
+        "Direct rear symmetry, long elbow visibility and distinct plate-loaded lever geometry provide a useful alternative reference to the previous oblique neutral source. Root explicitly allowed a bounded actual-pose neutral-to-high-to-neutral trial if contacts are valid."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "No source image guarantees elbow isolation during motion; the previous neutral-source attempt bent and flared the elbows and was rejected. The new delivered video must independently show shoulder elevation without arm-driven lifting.",
+        "Machine geometry differs from the previous image but retains the canonical standing loaded-lever shrug movement."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_e37a4b1f21034722.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual neutral shoulders with long arms -> visible shoulder girdle elevation toward ears without elbow bending -> exact neutral source.",
+        "mustPreserve": [
+          "Both elbow angles remain nearly straight",
+          "Head and pelvis stay still while shoulders move",
+          "Bilateral closed lever handles and fixed pivots",
+          "Orange upper trapezius",
+          "Planted feet and stable knees"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-leverage-shrug-33bef3fa-motion-attempt_e37a4b1f21034722-i2v.txt",
+      "motionPromptSha256": "1f8e20bb803250adda78013bfcca28c4f2b6ff960561e136532bec187593c5a8",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-leverage-shrug-33bef3fa-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_9a040cd8ec7b4f47",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_9a040cd8ec7b4f47.jpg",
+      "outputSha256": "426a305a4c3a591b979e80681054b45165f9dadd6106609d2426555704d7526f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:34:42+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact guide-only image has an incoherent second foot: one forefoot rests on the ledge while another long forefoot hangs downward into empty air. It does not show two anatomically coherent lowered heels with fixed toe support.",
+        "The loaded pad touches the distal thighs, pelvis stays seated and plates are recognizable; the unresolved defect is foot anatomy/contact.",
+        "Proposed simplification for root consideration: a fresh flat broad platform low endpoint with heels down, then a complete heel-lift-and-return cycle. This avoids forcing an unsupported below-edge foot construction; the generated source must still be reviewed before any motion."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_9a040cd8ec7b4f47.jpg"
+      ],
+      "correctionPrompt": "A realistic Anatomical 3D instructional still of a seated calf machine at the bottom of an ankle repetition. Side-oblique close view of a gray muscle-fiber adult mannequin with black shorts, seated pelvis and knees bent about 90 degrees. A padded loaded metal lever with visible round plates rests directly on both thighs just above the knees. BOTH FEET REST COMPLETELY FLAT on one broad horizontal platform, including both heels and both forefeet. There are exactly two normal feet, one per leg, pointing forward, side by side. No foot hangs off an edge. The posterior calf muscle bellies softly glow orange. Show the seat, thighs, loaded pad, both knees, calves, ankles, complete feet and platform with space for the heels to rise later. Plain neutral studio background and soft light. Natural proportions, stable real metal equipment. No tiptoe pose, dangling foot, duplicated anatomy, text or diagram markings.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-ex-calf-raise-seated-start-after-attempt_9a040cd8ec7b4f47-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_8711b64bfe954e45",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r9-open-calf-press-619d1416-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_8711b64bfe954e45.jpg",
+      "outputSha256": "425d88b092c22ef33fa7522106a6d065d50899ac26f08b100021b2abf326186d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:37:52+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact guide-only master still has deeply bent knees instead of the required near-straight steady leg position. The feet contact the middle of the plate, not a useful unambiguous ankle-only low endpoint.",
+        "The torso and feet are skin-colored while the lower limbs use simplified gray muscle segments; posterior calf orange is present, but anatomy and styling no longer consistently match the reference standard.",
+        "No paid animation from this source: its knee bend invites another leg press."
+      ],
+      "limitations": [
+        "Exact single master still inspected. AI editorial review, not human or trainer approval."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_8711b64bfe954e45.jpg"
+      ],
+      "nextApproach": "Hold further source or paid retries pending the separately authorized Seated Calf flat-platform calibration. If it produces coherent flat soles, propose that materially simpler endpoint with explicit source-limit authorization where needed.",
+      "adoptionNote": "Do not animate this source. No additional source-limit exception or new shot ID is authorized by this review."
+    },
+    {
+      "attemptId": "attempt_e6d5c6627cc34d1d",
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_e6d5c6627cc34d1d.jpg",
+      "outputSha256": "d5feda6fbcc509c387baa7d589db63e83106c3b6a741666c61b11ea48073d2a5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:37:52+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact guide-only source visibly duplicates the feet: a forward forefoot rests on the ledge while a second forefoot and toes hang downward from each ankle/heel region. These are not anatomical low heels.",
+        "The standing near-straight legs and orange posterior calf bellies remain clear, but the working foot anatomy/contact is unusable."
+      ],
+      "limitations": [
+        "Exact single master still inspected. AI editorial review, not human or trainer approval."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_e6d5c6627cc34d1d.jpg"
+      ],
+      "nextApproach": "Hold further source or paid retries pending the separately authorized Seated Calf flat-platform calibration. If it produces coherent flat soles, propose that materially simpler endpoint with explicit source-limit authorization where needed.",
+      "adoptionNote": "Do not animate this source. No additional source-limit exception or new shot ID is authorized by this review."
+    },
+    {
+      "attemptId": "attempt_b9c98cd3dd0a414a",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_b9c98cd3dd0a414a.jpg",
+      "outputSha256": "369cbd1ce3d9598b43b36948fe1ca7ec610228e731c8c7087d3779940ea384a1",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:37:52+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The guide-only master again invents a second downward-hanging forefoot while another foot lies forward on the platform. This cannot represent a real single heel and toe contact per leg.",
+        "Near-straight knees, hand support and posterior calf coloring are present; the working ankle/foot geometry remains unsuitable for animation."
+      ],
+      "limitations": [
+        "Exact single master still inspected. AI editorial review, not human or trainer approval."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_b9c98cd3dd0a414a.jpg"
+      ],
+      "nextApproach": "Hold further source or paid retries pending the separately authorized Seated Calf flat-platform calibration. If it produces coherent flat soles, propose that materially simpler endpoint with explicit source-limit authorization where needed.",
+      "adoptionNote": "Do not animate this source. No additional source-limit exception or new shot ID is authorized by this review."
+    },
+    {
+      "attemptId": "attempt_b9f5b4d6413741d0",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_b9f5b4d6413741d0.jpg",
+      "outputSha256": "f35fa7307d7ac50203b65b74a11d029935288e5ed2f59985fb81058b8611949b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:42:44+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact flat-platform master has two anatomically coherent feet, each with one heel and one forward forefoot. Both complete soles, including heels, contact the same broad platform.",
+        "Both knees remain bent, the pelvis is supported on the seat, and the loaded pad visibly rests on both distal thighs. Round weight plates are clearly present.",
+        "Orange posterior calf bellies are readable; the close framing includes both whole knees, ankles, feet, pad contacts and platform. There is vertical room for heel lift without changing camera."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "The frame also includes a background stack/guide assembly; it must remain static unless genuinely part of the same loaded mechanism. The essential plate-loaded pad and forefoot contacts are the motion gate.",
+        "The low endpoint is flat-foot neutral rather than below-edge dorsiflexion. The matching demonstration must return completely flat, and should not imply an additional below-platform stretch."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_b9f5b4d6413741d0.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual flat soles on broad platform -> ankle plantarflexion raises both heels with forefeet fixed -> both heels fully return onto platform.",
+        "mustPreserve": [
+          "One normal foot per leg",
+          "Both fixed forefeet",
+          "Continuous thigh-pad and seat-pelvis contact",
+          "Knees remain bent rather than extending into a leg press",
+          "Visible orange posterior calves",
+          "Plate-loaded lever continuity"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-ex-calf-raise-seated-motion-attempt_b9f5b4d6413741d0-i2v.txt",
+      "motionPromptSha256": "ca191832ce90d87b70378d325ababc8c254f79875d11a20cdd163c12139144ad",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-ex-calf-raise-seated-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_9ba34fcac1dc4f80",
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_9ba34fcac1dc4f80.jpg",
+      "outputSha256": "2244e76a57b9f406ce4bbcd1bcedde8a72acf9efb0d4fe7f01178042c438321c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:54:09+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact side-view source has high elbows above the crown, upper arms nearly vertical beside the head and bent forearms with rope grips behind the head. This is a materially clearer elbow-extension endpoint than the earlier diagonal-arm reference.",
+        "The visible closed grip, rope center attachment and continuous cable lead to a low pulley behind the body; planted staggered feet and torso are stable.",
+        "Orange posterior triceps are readable and ample empty space remains above the elbows for a full overhead forearm extension."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "The far upper limb and second rope grip overlap the near limb in the strict side projection; require stable two-arm anatomy and continuous rope connection in the exact delivered motion."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_9ba34fcac1dc4f80.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual high-elbow bent forearms behind head -> elbows extend fully overhead while upper arms remain high -> same rope-behind-head bent endpoint.",
+        "mustPreserve": [
+          "High nearly stationary elbows",
+          "Upper arms beside head",
+          "Closed rope grips and single cable connection",
+          "Orange posterior triceps",
+          "Planted feet and still torso",
+          "Full overhead hand path in frame"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-cable-rope-overhead-t-cbb7aa38-motion-attempt_9ba34fcac1dc4f80-i2v.txt",
+      "motionPromptSha256": "26e13f92ec33e4107a7ac7f2265443468a36685da65c8fd693cd6ada21b68614",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-cable-rope-overhead-t-cbb7aa38-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_26c763b265ad45f0",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r9-open-calf-press-619d1416-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_26c763b265ad45f0.jpg",
+      "outputSha256": "bcc8acbd0623de4d065662b2ad7b9ab65320be091c7792ecfa14c8e4c0cf80e5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:00:30+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exact master shows supported pelvis and back, both legs nearly straight with a small knee bend, and coherent flat soles against a near-vertical footplate.",
+        "Both ankles and entire knee angles are visible; the plate and short horizontal rails provide a plausible ankle-extension movement envelope.",
+        "Orange highlights occupy posterior calf bellies; other major muscle regions remain gray."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "The true source is a flat sole-to-plate endpoint, not heels hanging below a plate ledge; motion must return to this actual flat contact and must not claim a deeper stretch.",
+        "Head and part of torso are cropped, but the working knees, ankles and contacts remain visible. Large upper whitespace can be cropped after exact motion review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_26c763b265ad45f0.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "flat soles on plate, fixed near-straight knees \u2192 ankles plantarflex with heels away from plate \u2192 same flat soles on plate",
+        "mustPreserve": [
+          "Both forefeet stay on their original plate points; only ankle angles change.",
+          "Knees retain their small comfortable bend and pelvis/back remain supported.",
+          "Orange posterior calf regions remain visible throughout."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-calf-press-619d1416-motion-attempt_26c763b265ad45f0-i2v.txt",
+      "motionPromptSha256": "8a83ca971bfb966830d116e32f23b886ae4d3bfef89518bef1a7c872b5c399b5",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-calf-press-619d1416-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_3bfcd0f03ec04c3a",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_3bfcd0f03ec04c3a.jpg",
+      "outputSha256": "105b95cc33b95c4dbc60bcee4bc5e0be42a418e2ee26e3cd0e483fc798b44032",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:00:30+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exact master shows two coherent whole feet flat on the broad platform, nearly straight knees, and a forward hinged supported torso.",
+        "The plate-loaded padded lever visibly contacts the upper pelvis/lower back while both hands contact fixed supports; heel lift has visible room.",
+        "Orange is clearly localized to the posterior calves, with other main muscle regions gray."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "Torso hinge is moderately forward rather than horizontal; preserve the actual stable supported angle rather than adding a hinge repetition.",
+        "Flat-platform start cannot demonstrate below-edge heel drop. Require a complete flat-to-raised-to-flat cycle with continuous loaded-pad contact."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_3bfcd0f03ec04c3a.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "both heels flat on platform \u2192 heels rise on fixed forefeet \u2192 both heels return fully flat",
+        "mustPreserve": [
+          "Forefeet remain anchored, nearly straight knees remain steady and body hinge remains fixed.",
+          "Pelvis lifts the contacting loaded pad slightly through ankle extension; hands do not push the body up.",
+          "Posterior calves stay orange through the full cycle."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-donkey-calf-raises-55a343b9-motion-attempt_3bfcd0f03ec04c3a-i2v.txt",
+      "motionPromptSha256": "0208ea333010c6f4d014375d92c6864775f1c77316b5da6bba1bd5b173f81870",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-donkey-calf-raises-55a343b9-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_91e2ab6137a347c8",
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_91e2ab6137a347c8.jpg",
+      "outputSha256": "c2dd9819d0443336371911669bbdcbb6f066fe3d035156311afe8df8a35f879a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:00:30+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exact master shows two complete anatomically coherent feet flat on the same broad platform and nearly straight stable knees.",
+        "Both shoulder pads visibly contact the upper shoulders; the recognizable upright load-guided machine has room for a small vertical yoke lift.",
+        "Both knee angles, calves, ankles and whole feet are visible, with bright orange confined to posterior calf bellies."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "Upper head and upper machine frame are cropped; the shoulder-pad contact and all lower-limb working joints remain visible.",
+        "Flat-platform start is the actual low endpoint. This demonstrates plantarflexion and full return to flat feet, not below-platform dorsiflexion."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_91e2ab6137a347c8.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "flat heels on platform \u2192 both heels rise while knees stay steady \u2192 same fully flat heel contact",
+        "mustPreserve": [
+          "Fixed forefeet and steady near-straight knees; no squat or arm-driven lift.",
+          "Shoulder pads maintain contact while the loaded yoke follows the supported body.",
+          "Orange calf cue remains visible throughout."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-standing-calf-raises-6f81c277-motion-attempt_91e2ab6137a347c8-i2v.txt",
+      "motionPromptSha256": "584df222dac83a310fffb93182d004f4b53c52a62efee33a308662401be88a6e",
+      "motionPromptVersion": "9.machine-wave7-reviewed-reference",
+      "motionShot": "r9-open-standing-calf-raises-6f81c277-motion",
+      "adoptionNote": "Exact source is ready; model/credit selection and canonical adoption remain with root. Review delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_199632861c4343b7",
+      "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+      "shot": "r9-open-standing-overhead-bar-1c42b3f8-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-overhead-bar-1c42b3f8-start/attempt_199632861c4343b7.jpg",
+      "outputSha256": "bba210a137903cb44886f21198d985b1f810aba9e6fcb741a8fd818098e01f23",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:02:44+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact master still has bent elbows with the bar above and behind the head, not the requested fully extended high endpoint. The upper arms are substantially more vertical than the prior failed diagonal source.",
+        "The uppermost bar tip lies near the top border; a full forearm extension around these high elbow joints would need appreciably more space above. This risks repeating the prior cropped full reach.",
+        "Orange posterior triceps and the upright fixed-foot posture are readable. The useful elbow geometry should be preserved while the camera is widened."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation.",
+        "Side view overlaps the far arm and grip. The current bar appears as a short tan hollow rod; the next edit asks for a coherent straight gray metal bar without changing hand contacts."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-overhead-bar-1c42b3f8-start/attempt_199632861c4343b7.jpg"
+      ],
+      "correctionPrompt": "Edit this exact image. KEEP the mannequin's present bent-elbow pose, high upper arms beside the ears, planted feet and orange posterior triceps unchanged. Move the camera BACK so there is a large clear margin above both elbows: the empty space above each elbow must be at least one complete forearm-and-hand length plus the bar radius. The later straight-arm overhead reach must fit entirely inside this same fixed frame. Keep both hands closed on the same narrow overhand grip of ONE coherent straight gray metal bar; show its complete ends and keep its geometry stable. Plain studio background, gray anatomical fibers and black shorts. Do not attempt to straighten the arms in this edit; fix framing and coherent metal bar only. No labels, arrows, text or extra limbs.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-standing-overhead-bar-1c42b3f8-start-after-attempt_199632861c4343b7-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_03b410ceb7b64237",
+      "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+      "shot": "r9-open-standing-overhead-bar-1c42b3f8-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-overhead-bar-1c42b3f8-start/attempt_03b410ceb7b64237.jpg",
+      "outputSha256": "61c5ca4a8dc158f5042a21fcc9492411314cb2ff280f95bbd7ac262f2473c7f1",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:10:22+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The requested wider camera did not appear: the same tightly framed bent-elbow figure remains, with insufficient overhead movement space.",
+        "The bar has become a long vertical pole held near its top, with its upper end outside the frame. This is not a coherent horizontal barbell in a two-handed overhand grip.",
+        "The fixed-foot posture, high upper-arm geometry and posterior triceps coloring remain useful, but the incorrect bar orientation and cropped path prevent paid-motion adoption."
+      ],
+      "limitations": [
+        "Exact single master still inspected; motion, continued contact and complete-cycle behavior require independent output review. This is AI editorial review, not human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-overhead-bar-1c42b3f8-start/attempt_03b410ceb7b64237.jpg"
+      ],
+      "correctionPrompt": "Create a NEW anatomical instructional studio image of an adult gray muscular mannequin standing upright with both arms fully extended vertically overhead. BOTH hands hold the middle of ONE SHORT STRAIGHT GRAY METAL BAR in a close overhand grip. The bar runs HORIZONTALLY from left to right across the image, perpendicular to the upright body; both bar ends are visible and balanced on either side of the two hands. Rear three-quarter camera clearly separates both hands and elbows and shows the orange triceps on the backs of the upper arms. Both upper arms stay beside the ears, elbows nearly straight, feet planted. Frame the entire figure SMALLER: include a generous empty margin above the horizontal bar and on both sides, with the whole body and feet visible. Plain light studio background, realistic matte gray muscle fibers, black shorts and restrained orange triceps only. No vertical pole, diagonal stick, cable, text or diagram marks.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave7-reviewed/r9-open-standing-overhead-bar-1c42b3f8-start-after-attempt_03b410ceb7b64237-repair.txt",
+      "adoptionNote": "Reference correction and exact replacement review are required before paid motion."
+    },
+    {
+      "attemptId": "attempt_7abc9efe4a4940f8",
+      "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+      "shot": "r9-open-standing-overhead-bar-1c42b3f8-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-overhead-bar-1c42b3f8-start/attempt_7abc9efe4a4940f8.jpg",
+      "outputSha256": "25620fabcf90c2ac56092b5bc476fe8ae58a0d9f669c6abf5fa251b35a681c59",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:16:55+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact transferred source replaced the cable with a coherent horizontal straight metal bar and provided overhead headroom.",
+        "It also changed the standing figure into a seated figure and dropped both upper arms almost horizontal, with elbows outward at shoulder height and the bar behind the neck.",
+        "This is a behind-neck shoulder-press starting geometry, not the required triceps-extension pose with upper arms high beside the ears. Animating it as triceps extension would reintroduce the prior upper-arm-drop error."
+      ],
+      "limitations": [
+        "Single exact master still inspected; no paid video was generated from this source and no motion verdict is implied.",
+        "Source transfer from a successful related exercise did not preserve the required joint geometry in this output."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-overhead-bar-1c42b3f8-start/attempt_7abc9efe4a4940f8.jpg"
+      ],
+      "nextApproach": "Hold for a materially different source construction or reliable external instruction. Do not adopt this source or automatically retry a wording-only edit. Root requested this as the final distinct source7 hypothesis; the current evidence does not justify paying for motion.",
+      "adoptionNote": "Not ready to animate. No new correction prompt or generation proposal is staged."
+    }
+  ]
+}

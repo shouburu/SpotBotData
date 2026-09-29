@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="896" viewBox="0 0 1200 896" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Plank — schematic muscle emphasis and alignment guides</title>
+  <desc id="description">A transparent overlay traced for the 1200 by 896 side-view plank still, with the head on the left. Orange indicates the abdominal region as the primary catalog muscle group. Blue indicates the visible shoulder and gluteal region as supporting groups. A dashed white guide connects the approximate shoulder, hip and ankle positions; a solid guide follows the visible supporting arm. Regions are schematic emphasis, not anatomical segmentation or measured activation. Guides describe this image and do not prescribe exact joint angles.</desc>
+  <!-- Asset-specific geometry. Preserve the full original crop and aspect. -->
+  <!-- Primary muscle: abdominal wall, projected over the garment. -->
+  <g id="primary-abdominals" fill="#F58A38" fill-opacity="0.38" stroke="#FFA15B" stroke-opacity="0.72" stroke-width="2" stroke-linejoin="round">
+    <path id="abdominal-region" d="M437 412 C475 418 521 425 567 418 C581 431 588 447 586 481 C538 490 484 486 437 477 C430 458 431 431 437 412Z"/>
+  </g>
+  <!-- Supporting muscles: visible shoulder cap and gluteal region. -->
+  <g id="supporting-muscles" fill="#61A7ED" fill-opacity="0.34" stroke="#9BC9F5" stroke-opacity="0.76" stroke-width="2" stroke-linejoin="round">
+    <path id="shoulder-region" d="M330 382 C344 365 382 359 404 375 C419 389 420 411 409 432 C389 440 366 436 349 425 C337 414 330 399 330 382Z"/>
+    <path id="gluteal-region" d="M608 386 C640 376 668 385 691 403 C705 415 714 434 707 455 C684 462 658 455 633 442 C617 425 608 405 608 386Z"/>
+  </g>
+  <!-- Editable screen-space guides; not an idealized straight-line correction. -->
+  <g id="alignment-guides" stroke="#FFFFFF" stroke-opacity="0.86" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path id="trunk-leg-guide" d="M371 408 L648 447 L1044 508" stroke-dasharray="11 9"/>
+    <path id="support-arm-guide" d="M371 408 L367 585 L183 596"/>
+    <g id="joint-markers" fill="#354A57" fill-opacity="0.64" stroke-width="2.5">
+      <circle id="shoulder-point" cx="371" cy="408" r="6"/>
+      <circle id="hip-point" cx="648" cy="447" r="6"/>
+      <circle id="ankle-point" cx="1044" cy="508" r="6"/>
+      <circle id="elbow-point" cx="367" cy="585" r="6"/>
+      <circle id="wrist-point" cx="183" cy="596" r="6"/>
+    </g>
+  </g>
+</svg>

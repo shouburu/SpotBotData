@@ -1,0 +1,1347 @@
+{
+  "roundId": "round-5",
+  "status": "in-production",
+  "styleVersion": "5.0",
+  "selectedStyleId": "anatomical",
+  "budgetContext": {
+    "cumulativeLimit": 2000,
+    "spentBefore": 840,
+    "liveQuoteRequired": true,
+    "maximumAttemptsPerShot": 3
+  },
+  "correctionBacklog": [
+    {
+      "exerciseId": "ex_lateral_raise",
+      "reason": "User saw two partial raises; require one smooth raise and complete return to sides.",
+      "status": "queued",
+      "countsToward15New": false
+    },
+    {
+      "exerciseId": "ex_seated_cable_row",
+      "reason": "User requires back muscle glow; choose rear three-quarter teaching view.",
+      "status": "queued",
+      "countsToward15New": false
+    },
+    {
+      "exerciseId": "ex_deadlift",
+      "reason": "User requires muscle glow including primary glute involvement; use anatomically attached schematic cutaway, not glowing shorts.",
+      "status": "queued",
+      "countsToward15New": false
+    }
+  ],
+  "jobs": [
+    {
+      "shot": "r5-incline-db-press-anatomical-start",
+      "exerciseId": "ex_incline_bench_press",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.2",
+      "promptSha256": "5d72568574f24d515a65175402348d4f64e993d21a24554df923e6a2c5facc9d",
+      "endFrameSameAsStart": false,
+      "name": "Incline Dumbbell Press",
+      "kind": "image",
+      "aspect": "9:16",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-incline-db-press-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-lateral-raise-anatomical-start/attempt_a938b9a686274852.jpg"
+      ],
+      "canonicalInstructions": [
+        "Set the bench to a comfortable incline and plant both feet. Hold the dumbbells beside the upper chest.",
+        "Press the dumbbells above the upper chest without flaring the ribs, then lower them under control to the starting position."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on pectoralis major, especially upper chest. Subtler blue emissive glow on triceps and anterior deltoids. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Incline Dumbbell Press with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "completedAttemptId": "attempt_2c82a656c26c416c",
+      "generatedAssetId": "r5-incline-db-press-anatomical-start-2c82a656",
+      "attemptIds": [
+        "attempt_cb9545169d6a4b82",
+        "attempt_e6c7cb8e20404504",
+        "attempt_2c82a656c26c416c"
+      ],
+      "latestAttemptId": "attempt_2c82a656c26c416c"
+    },
+    {
+      "shot": "r5-incline-db-press-anatomical-motion",
+      "exerciseId": "ex_incline_bench_press",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.3",
+      "promptSha256": "778255d9edd80a81de90d8b19fc99ab7fead7b8c25dee5af2e490e03da56f167",
+      "endFrameSameAsStart": false,
+      "name": "Incline Dumbbell Press",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-incline-db-press-anatomical-motion.txt",
+      "referenceShot": "r5-incline-db-press-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Set the bench to a comfortable incline and plant both feet. Hold the dumbbells beside the upper chest.",
+        "Press the dumbbells above the upper chest without flaring the ribs, then lower them under control to the starting position."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on pectoralis major, especially upper chest. Subtler blue emissive glow on triceps and anterior deltoids. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Incline Dumbbell Press with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-for-review",
+      "completedAttemptId": "attempt_3a1d8c2640614926",
+      "generatedAssetId": "r5-incline-db-press-anatomical-motion-3a1d8c26",
+      "attemptIds": [
+        "attempt_d3d339dac2b14c5b",
+        "attempt_3a1d8c2640614926"
+      ],
+      "latestAttemptId": "attempt_3a1d8c2640614926",
+      "candidateAssetId": "r5-incline-db-press-anatomical-cycle-v1",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate."
+    },
+    {
+      "shot": "r5-pushup-anatomical-start",
+      "exerciseId": "ex_pushup",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.1",
+      "promptSha256": "fc8bb37e20463c26e7a7f8000987c15a62117d8115a3730d9774be85e52ce953",
+      "endFrameSameAsStart": false,
+      "name": "Push-up",
+      "kind": "image",
+      "aspect": "16:9",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-pushup-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-lateral-raise-anatomical-start/attempt_a938b9a686274852.jpg"
+      ],
+      "canonicalInstructions": [
+        "Place hands under or just outside the shoulders and form a straight line from head to heels.",
+        "Bend the elbows to lower the chest, then press the floor away without letting the hips sag."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on pectoralis major. Subtler blue emissive glow on triceps and anterior deltoids. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Push-up with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "completedAttemptId": "attempt_80714570d0e14b4a",
+      "generatedAssetId": "r5-pushup-anatomical-start-80714570",
+      "attemptIds": [
+        "attempt_80714570d0e14b4a"
+      ],
+      "latestAttemptId": "attempt_80714570d0e14b4a",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r5-pushup-anatomical-motion",
+      "exerciseId": "ex_pushup",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.8",
+      "promptSha256": "421ec2a44c821202c978800b496704571c9361fe6a0645d471568c27a28d2715",
+      "endFrameSameAsStart": false,
+      "name": "Push-up",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-pushup-anatomical-motion.txt",
+      "referenceShot": "r5-pushup-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Place hands under or just outside the shoulders and form a straight line from head to heels.",
+        "Bend the elbows to lower the chest, then press the floor away without letting the hips sag."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on pectoralis major. Subtler blue emissive glow on triceps and anterior deltoids. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Push-up with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-for-review",
+      "attemptIds": [
+        "attempt_0c5d3ae3c5914e80",
+        "attempt_ed72e5117ccc439b"
+      ],
+      "latestAttemptId": "attempt_ed72e5117ccc439b",
+      "candidateAssetId": "r5-pushup-anatomical-motion-ed72e511",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate.",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r5-pullup-anatomical-start",
+      "exerciseId": "ex_pull_up",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.9",
+      "promptSha256": "cc0eeb14a0ebfff671afff8108f7aa0352ea61f87f57eb5327d8edf8520f65b8",
+      "endFrameSameAsStart": false,
+      "name": "Pull-up",
+      "kind": "image",
+      "aspect": "9:16",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-pullup-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Take an overhand grip on a secure pull-up bar.",
+        "Pull the elbows down until the chin clears the bar comfortably, then lower with control without swinging."
+      ],
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on latissimus dorsi on both sides of back. Subtler blue emissive glow on biceps and forearms. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Pull-up with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "needs-correction",
+      "attemptIds": [
+        "attempt_57df480aacda4173",
+        "attempt_bd86f02ab2af45f9",
+        "attempt_2d07fa662e544222"
+      ],
+      "latestAttemptId": "attempt_2d07fa662e544222",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r5-pullup-anatomical-motion",
+      "exerciseId": "ex_pull_up",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.9",
+      "promptSha256": "1aafb5f2f98363e9ed6de3e20b5a4fedc28ab9db160f02aa53ce808e9bd1adfc",
+      "endFrameSameAsStart": false,
+      "name": "Pull-up",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-pullup-anatomical-motion.txt",
+      "referenceShot": "r5-pullup-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Take an overhand grip on a secure pull-up bar.",
+        "Pull the elbows down until the chin clears the bar comfortably, then lower with control without swinging."
+      ],
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on latissimus dorsi on both sides of back. Subtler blue emissive glow on biceps and forearms. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Pull-up with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "needs-correction",
+      "attemptIds": [
+        "attempt_83cb514ad2bd4c5b",
+        "attempt_1f719f28436d40ae"
+      ],
+      "latestAttemptId": "attempt_1f719f28436d40ae",
+      "holdReason": "Two partial-motion failures; third starting image invalid, still retry limit exhausted. Needs a properly framed overhead-hang reference.",
+      "candidateAssetId": null,
+      "dispositionReason": "Two shallow repeated-motion takes; three starting-image attempts exhausted, latest reference invalid. Needs a new overhead-hang reference with true chin clearance.",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r5-front-squat-anatomical-start",
+      "exerciseId": "ex_front_squat",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.4",
+      "promptSha256": "de267c7cc84b7e6f653563afb6ef48cd02b6a14d50820f4bdea85abb13da68d9",
+      "endFrameSameAsStart": false,
+      "name": "Front Squat",
+      "kind": "image",
+      "aspect": "9:16",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-front-squat-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-squat-anatomical-start/attempt_27dc073b4ed6473f.jpg"
+      ],
+      "canonicalInstructions": [
+        "Support the bar on the front shoulders with elbows lifted and safeties set.",
+        "Sit between the hips while keeping the torso tall, then stand without allowing the elbows to drop."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps on front thighs. Subtler blue emissive glow on hamstrings and calves; visible glute regions only. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Front Squat with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "needs-correction",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_c4df5d9be6994a82",
+        "attempt_25994e59536b40bb",
+        "attempt_ef1bf34d124b42b8"
+      ],
+      "latestAttemptId": "attempt_ef1bf34d124b42b8"
+    },
+    {
+      "shot": "r5-front-squat-anatomical-motion",
+      "exerciseId": "ex_front_squat",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.4",
+      "promptSha256": "9c1f57c4eef2d81f482bfeb4f9c11f6e098d5432a6c627a006e8bf1e499527b0",
+      "endFrameSameAsStart": false,
+      "name": "Front Squat",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-front-squat-anatomical-motion.txt",
+      "referenceShot": "r5-front-squat-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Support the bar on the front shoulders with elbows lifted and safeties set.",
+        "Sit between the hips while keeping the torso tall, then stand without allowing the elbows to drop."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps on front thighs. Subtler blue emissive glow on hamstrings and calves; visible glute regions only. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Front Squat with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "held-reference-limit",
+      "attemptIds": []
+    },
+    {
+      "shot": "r5-bulgarian-split-squat-anatomical-start",
+      "exerciseId": "ex_bulgarian_split_squat",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.6",
+      "promptSha256": "299b2eb4e6e756ccf685bdecb0b87e353b0dffe3bedf525db4d39c9214f4c0a8",
+      "endFrameSameAsStart": false,
+      "name": "Bulgarian Split Squat",
+      "kind": "image",
+      "aspect": "16:9",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-bulgarian-split-squat-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r5-bulgarian-split-squat-anatomical-start/attempt_71d16d53d0c949ea.jpg"
+      ],
+      "canonicalInstructions": [
+        "Place the rear foot on a stable bench and set the front foot far enough forward for balance.",
+        "Lower straight down through a comfortable range, then push through the front foot to stand.",
+        "Complete the target repetitions on each leg; the entered rep count applies to each side."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps of front leg. Subtler blue emissive glow on front-leg glute region, hamstrings and calf. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Bulgarian Split Squat with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_83cd3dea324c4d92",
+        "attempt_71d16d53d0c949ea",
+        "attempt_d58150897b754ffa"
+      ],
+      "latestAttemptId": "attempt_d58150897b754ffa",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r5-bulgarian-split-squat-anatomical-motion",
+      "exerciseId": "ex_bulgarian_split_squat",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.8",
+      "promptSha256": "aa7e483d37a4a83b88123503f5b243d5831a618614c97bddd4fe6718f1d97beb",
+      "endFrameSameAsStart": false,
+      "name": "Bulgarian Split Squat",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-bulgarian-split-squat-anatomical-motion.txt",
+      "referenceShot": "r5-bulgarian-split-squat-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Place the rear foot on a stable bench and set the front foot far enough forward for balance.",
+        "Lower straight down through a comfortable range, then push through the front foot to stand.",
+        "Complete the target repetitions on each leg; the entered rep count applies to each side."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps of front leg. Subtler blue emissive glow on front-leg glute region, hamstrings and calf. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Bulgarian Split Squat with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "needs-correction",
+      "deliveryEditRequired": "Trim technical initial rise; delivery must begin at actual top and retain one full lower-and-rise cycle. If absent, reject.",
+      "attemptIds": [
+        "attempt_381b891cb1b34e37",
+        "attempt_1a62f341f6f5473c"
+      ],
+      "latestAttemptId": "attempt_1a62f341f6f5473c",
+      "holdReason": "Two motions clip upright head and lose glow; three still attempts exhausted. Requires a new approved reference in a later round.",
+      "candidateAssetId": null,
+      "dispositionReason": "Upright head clipped and thigh glow dims in both motions; three reference attempts exhausted. Needs a correctly framed upright reference.",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r5-reverse-lunge-anatomical-start",
+      "exerciseId": "cat_cal_reverse_lunge",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.4",
+      "promptSha256": "dd5e8324a22c207eb13309db06c207dc88f60a8c7aa6aef280455274639f7cd3",
+      "endFrameSameAsStart": false,
+      "name": "Reverse Lunge",
+      "kind": "image",
+      "aspect": "9:16",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-reverse-lunge-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-squat-anatomical-start/attempt_27dc073b4ed6473f.jpg"
+      ],
+      "canonicalInstructions": [
+        "Step one foot backward and bend both knees through a comfortable range.",
+        "Push through the front foot to return to standing, then alternate legs.",
+        "Each backward step and return counts as one repetition; enter the total across both sides."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps. Subtler blue emissive glow on glute regions, hamstrings and calves. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Reverse Lunge with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_3a691dbeb86c4fbb"
+      ],
+      "latestAttemptId": "attempt_3a691dbeb86c4fbb"
+    },
+    {
+      "shot": "r5-reverse-lunge-anatomical-motion",
+      "exerciseId": "cat_cal_reverse_lunge",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.8",
+      "promptSha256": "a388e01d82b6d65c6456477c76496fae1b709772b781129d3f458f68061b560d",
+      "endFrameSameAsStart": false,
+      "name": "Reverse Lunge",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-reverse-lunge-anatomical-motion.txt",
+      "referenceShot": "r5-reverse-lunge-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Step one foot backward and bend both knees through a comfortable range.",
+        "Push through the front foot to return to standing, then alternate legs.",
+        "Each backward step and return counts as one repetition; enter the total across both sides."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "hamstrings",
+        "calves"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps. Subtler blue emissive glow on glute regions, hamstrings and calves. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Reverse Lunge with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-for-review",
+      "attemptIds": [
+        "attempt_a1da491475584080",
+        "attempt_5516d73134fc4139"
+      ],
+      "latestAttemptId": "attempt_5516d73134fc4139",
+      "candidateAssetId": "r5-reverse-lunge-anatomical-motion-5516d731",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate."
+    },
+    {
+      "shot": "r5-pike-pushup-anatomical-start",
+      "exerciseId": "cat_cal_pike_pushup",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.4",
+      "promptSha256": "b6a77a27681d0ebd1a1a7a1beb81a63c8662d9860381a87dd3caa1e0c3578815",
+      "endFrameSameAsStart": false,
+      "name": "Pike Push-Up",
+      "kind": "image",
+      "aspect": "16:9",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-pike-pushup-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg"
+      ],
+      "canonicalInstructions": [
+        "Begin with the hands on the floor and hips raised in a pike, keeping the knees softly bent if needed.",
+        "Bend the elbows to lower the head toward the floor in front of the hands, using only a range you can control.",
+        "Press through the hands to return to the pike position. Count the lowering and press as one repetition."
+      ],
+      "primaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on deltoids and triceps. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Pike Push-Up with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_ae87cfea5a1f4a0a"
+      ],
+      "latestAttemptId": "attempt_ae87cfea5a1f4a0a"
+    },
+    {
+      "shot": "r5-pike-pushup-anatomical-motion",
+      "exerciseId": "cat_cal_pike_pushup",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.7",
+      "promptSha256": "3ecd7196ca8b492be0c88d88a84f5eb16eeb27458cc51e094a7ef5197ab49649",
+      "endFrameSameAsStart": false,
+      "name": "Pike Push-Up",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-pike-pushup-anatomical-motion.txt",
+      "referenceShot": "r5-pike-pushup-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Begin with the hands on the floor and hips raised in a pike, keeping the knees softly bent if needed.",
+        "Bend the elbows to lower the head toward the floor in front of the hands, using only a range you can control.",
+        "Press through the hands to return to the pike position. Count the lowering and press as one repetition."
+      ],
+      "primaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on deltoids and triceps. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Pike Push-Up with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-for-review",
+      "attemptIds": [
+        "attempt_c3f6f3cca1d14b1d"
+      ],
+      "latestAttemptId": "attempt_c3f6f3cca1d14b1d",
+      "candidateAssetId": "r5-pike-pushup-anatomical-motion-c3f6f3cc",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate."
+    },
+    {
+      "shot": "r5-chest-dip-anatomical-start",
+      "exerciseId": "ex_chest_dip",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.9",
+      "promptSha256": "863ec78a250bfcc34db2e4148c8e43d373628f4644ffed915c656bf863710d27",
+      "endFrameSameAsStart": false,
+      "name": "Chest Dip",
+      "kind": "image",
+      "aspect": "9:16",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-chest-dip-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Support yourself on parallel bars with shoulders held down.",
+        "Lean slightly forward, lower through a comfortable elbow bend, and press back up without bouncing at the bottom."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on pectoralis major. Subtler blue emissive glow on triceps and anterior deltoids. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Chest Dip with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "retired-form-variation",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_9a4d3e00d4c94092",
+        "attempt_9cc993792d954e9d"
+      ],
+      "latestAttemptId": "attempt_9cc993792d954e9d",
+      "preRetirementDisposition": null,
+      "disposition": "retired-form-variation",
+      "retiredAt": "2026-09-21",
+      "replacementExerciseId": "ex_tricep_dip",
+      "preRetirementProductionDisposition": "ready-to-animate"
+    },
+    {
+      "shot": "r5-chest-dip-anatomical-motion",
+      "exerciseId": "ex_chest_dip",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.8",
+      "promptSha256": "9faf3f3b90ee2ec936ba5fbe024866d5bba81ed373a38939df3f46de53df267d",
+      "endFrameSameAsStart": false,
+      "name": "Chest Dip",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-chest-dip-anatomical-motion.txt",
+      "referenceShot": "r5-chest-dip-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Support yourself on parallel bars with shoulders held down.",
+        "Lean slightly forward, lower through a comfortable elbow bend, and press back up without bouncing at the bottom."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on pectoralis major. Subtler blue emissive glow on triceps and anterior deltoids. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Chest Dip with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "retired-form-variation",
+      "attemptIds": [
+        "attempt_d70d4079e95947ea",
+        "attempt_48195bdae82d4c17",
+        "attempt_3c0c3b68760d4888"
+      ],
+      "latestAttemptId": "attempt_3c0c3b68760d4888",
+      "holdReason": "Two motion takes still pulse shallowly despite explicit 90-degree endpoint. Rebuild pose/depth reference before more motion spending.",
+      "candidateAssetId": null,
+      "dispositionReason": "Three motion attempts remained shallow repeated pulses despite a second clearer reference. Motion retry limit reached.",
+      "preRetirementDisposition": null,
+      "disposition": "retired-form-variation",
+      "retiredAt": "2026-09-21",
+      "replacementExerciseId": "ex_tricep_dip",
+      "preRetirementProductionDisposition": "needs-correction"
+    },
+    {
+      "shot": "r5-barbell-stepup-anatomical-start",
+      "exerciseId": "open_barbell_step_ups_78799b06",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.5",
+      "promptSha256": "490c11f4d6f211713ef9542a89316b6e4bcee2e9f159ed41ad0775b0fcbccfc2",
+      "endFrameSameAsStart": false,
+      "name": "Barbell Step Ups",
+      "kind": "image",
+      "aspect": "9:16",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-barbell-stepup-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-squat-anatomical-start/attempt_27dc073b4ed6473f.jpg"
+      ],
+      "canonicalInstructions": [
+        "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck) and stand upright behind an elevated platform (such as the one used for spotting behind a flat bench). This is your starting position.",
+        "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
+        "Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.",
+        "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg.",
+        "Complete the selected repetitions on each side; when alternating, count each side toward its own target."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps. Subtler blue emissive glow on glute regions, hamstrings and calves. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Barbell Step Ups with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_c0504d6c69224ebd",
+        "attempt_11c7ce30d1c549df"
+      ],
+      "latestAttemptId": "attempt_11c7ce30d1c549df"
+    },
+    {
+      "shot": "r5-barbell-stepup-anatomical-motion",
+      "exerciseId": "open_barbell_step_ups_78799b06",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.7",
+      "promptSha256": "a6c3f10a85bc20c09240eb96efb5a18a1b4e4a57f0d73a6239ed533b1fc84eb7",
+      "endFrameSameAsStart": false,
+      "name": "Barbell Step Ups",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-barbell-stepup-anatomical-motion.txt",
+      "referenceShot": "r5-barbell-stepup-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Stand up straight while holding a barbell placed on the back of your shoulders (slightly below the neck) and stand upright behind an elevated platform (such as the one used for spotting behind a flat bench). This is your starting position.",
+        "Place the right foot on the elevated platform. Step on the platform by extending the hip and the knee of your right leg. Use the heel mainly to lift the rest of your body up and place the foot of the left leg on the platform as well. Breathe out as you execute the force required to come up.",
+        "Step down with the left leg by flexing the hip and knee of the right leg as you inhale. Return to the original standing position by placing the right foot of to next to the left foot on the initial position.",
+        "Repeat with the right leg for the recommended amount of repetitions and then perform with the left leg.",
+        "Complete the selected repetitions on each side; when alternating, count each side toward its own target."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps. Subtler blue emissive glow on glute regions, hamstrings and calves. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Barbell Step Ups with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-for-review",
+      "attemptIds": [
+        "attempt_7d4da4ca3295434b"
+      ],
+      "latestAttemptId": "attempt_7d4da4ca3295434b",
+      "candidateAssetId": "r5-barbell-stepup-anatomical-motion-7d4da4ca",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate."
+    },
+    {
+      "shot": "r5-incline-pushup-anatomical-start",
+      "exerciseId": "cat_cal_incline_pushup",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.4",
+      "promptSha256": "aa766e2e79bde7e052d797250d453240fedc13573bdb7341edfbea6748048c9a",
+      "endFrameSameAsStart": false,
+      "name": "Incline Push-Up",
+      "kind": "image",
+      "aspect": "16:9",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-incline-pushup-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg"
+      ],
+      "canonicalInstructions": [
+        "Place the hands on a stable raised bench and step the feet back.",
+        "Lower the chest toward the support, then press away without letting the hips sag."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on pectoralis major. Subtler blue emissive glow on triceps and anterior deltoids. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Incline Push-Up with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_e4691cbb40ef46aa"
+      ],
+      "latestAttemptId": "attempt_e4691cbb40ef46aa"
+    },
+    {
+      "shot": "r5-incline-pushup-anatomical-motion",
+      "exerciseId": "cat_cal_incline_pushup",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.7",
+      "promptSha256": "d54bc724c0dc591d1a4ec819ed3a5747abc3e383d6f12ab02d2bf37a083e6bc3",
+      "endFrameSameAsStart": false,
+      "name": "Incline Push-Up",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-incline-pushup-anatomical-motion.txt",
+      "referenceShot": "r5-incline-pushup-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Place the hands on a stable raised bench and step the feet back.",
+        "Lower the chest toward the support, then press away without letting the hips sag."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on pectoralis major. Subtler blue emissive glow on triceps and anterior deltoids. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Incline Push-Up with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-for-review",
+      "attemptIds": [
+        "attempt_32143855c9f6428c"
+      ],
+      "latestAttemptId": "attempt_32143855c9f6428c",
+      "candidateAssetId": "r5-incline-pushup-cycle-v1",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate."
+    },
+    {
+      "shot": "r5-leg-extension-anatomical-start",
+      "exerciseId": "ex_leg_extension",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.4",
+      "promptSha256": "b9ec38f0ac689255954197721f5538352c40cd720580ff52fee8ac08c9ac6bba",
+      "endFrameSameAsStart": false,
+      "name": "Leg Extension",
+      "kind": "image",
+      "aspect": "16:9",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-leg-extension-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-squat-anatomical-start/attempt_27dc073b4ed6473f.jpg"
+      ],
+      "canonicalInstructions": [
+        "Align the machine pivot with the knees and position the shin pad above the ankles.",
+        "Extend the knees without swinging, then lower slowly."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps on both front thighs. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Leg Extension with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_5ed0c34413cf4d15"
+      ],
+      "latestAttemptId": "attempt_5ed0c34413cf4d15"
+    },
+    {
+      "shot": "r5-leg-extension-anatomical-motion",
+      "exerciseId": "ex_leg_extension",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.8",
+      "promptSha256": "e4b5723cee042753da307e343f7855873411b2d74d4f9d4402d1242a8be301fc",
+      "endFrameSameAsStart": false,
+      "name": "Leg Extension",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-leg-extension-anatomical-motion.txt",
+      "referenceShot": "r5-leg-extension-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Align the machine pivot with the knees and position the shin pad above the ankles.",
+        "Extend the knees without swinging, then lower slowly."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on quadriceps on both front thighs. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Leg Extension with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-for-review",
+      "attemptIds": [
+        "attempt_a79f82f9df1e436f",
+        "attempt_c2229bef462e4f19"
+      ],
+      "latestAttemptId": "attempt_c2229bef462e4f19",
+      "candidateAssetId": "r5-leg-extension-cycle-v1",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate."
+    },
+    {
+      "shot": "r5-lying-leg-curl-anatomical-start",
+      "exerciseId": "ex_leg_curl",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.4",
+      "promptSha256": "44ef0c9d1fa85fbbc2703ac5a24b9853d79b4adf8a16b63f6207f2f56ba287e9",
+      "endFrameSameAsStart": false,
+      "name": "Lying Leg Curl",
+      "kind": "image",
+      "aspect": "16:9",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-lying-leg-curl-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg"
+      ],
+      "canonicalInstructions": [
+        "Lie face down on a leg-curl machine. Align the knees with its pivot and position the ankle pad above the heels.",
+        "Curl the heels toward the hips without lifting the pelvis, then return slowly."
+      ],
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on hamstrings on backs of both thighs. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Lying Leg Curl with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_5d93bff6cebe4089"
+      ],
+      "latestAttemptId": "attempt_5d93bff6cebe4089"
+    },
+    {
+      "shot": "r5-lying-leg-curl-anatomical-motion",
+      "exerciseId": "ex_leg_curl",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.8",
+      "promptSha256": "bc808b494338bb2401e987421bcea904e901b0967116daa4f99e5198526d40e3",
+      "endFrameSameAsStart": false,
+      "name": "Lying Leg Curl",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-lying-leg-curl-anatomical-motion.txt",
+      "referenceShot": "r5-lying-leg-curl-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Lie face down on a leg-curl machine. Align the knees with its pivot and position the ankle pad above the heels.",
+        "Curl the heels toward the hips without lifting the pelvis, then return slowly."
+      ],
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on hamstrings on backs of both thighs. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Lying Leg Curl with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-for-review",
+      "attemptIds": [
+        "attempt_5743a226bdce4967",
+        "attempt_4ad26c3fbfdd40f4"
+      ],
+      "latestAttemptId": "attempt_4ad26c3fbfdd40f4",
+      "candidateAssetId": "r5-lying-leg-curl-cycle-v1",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate."
+    },
+    {
+      "shot": "r5-barbell-curl-anatomical-start",
+      "exerciseId": "ex_bicep_curl",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.5",
+      "promptSha256": "681ae88c18233fd02c5b49ca481d3cc2cd4afe38e09842414bae19c714f86b5e",
+      "endFrameSameAsStart": false,
+      "name": "Barbell Bicep Curl",
+      "kind": "image",
+      "aspect": "9:16",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-barbell-curl-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Stand tall with an underhand grip on the bar.",
+        "Bend the elbows while keeping the upper arms near the sides, then lower without swinging the torso."
+      ],
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on biceps brachii on fronts of upper arms. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Barbell Bicep Curl with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-to-animate",
+      "referencePlan": "Text-only pose correction removes the conflicting overhand deadlift grip; inspect style continuity before animation.",
+      "attemptIds": [
+        "attempt_143cf29b3857473b",
+        "attempt_a7ef790bfd0d4a15"
+      ],
+      "latestAttemptId": "attempt_a7ef790bfd0d4a15",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r5-barbell-curl-anatomical-motion",
+      "exerciseId": "ex_bicep_curl",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.8",
+      "promptSha256": "95338022146121228ff9ed9496603d6eaa57379ef097504b9c659c7227f3670f",
+      "endFrameSameAsStart": false,
+      "name": "Barbell Bicep Curl",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-barbell-curl-anatomical-motion.txt",
+      "referenceShot": "r5-barbell-curl-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Stand tall with an underhand grip on the bar.",
+        "Bend the elbows while keeping the upper arms near the sides, then lower without swinging the torso."
+      ],
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on biceps brachii on fronts of upper arms. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Barbell Bicep Curl with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "ready-for-review",
+      "attemptIds": [
+        "attempt_1d627b7257734d97",
+        "attempt_191abb5d14ec49f9"
+      ],
+      "latestAttemptId": "attempt_191abb5d14ec49f9",
+      "candidateAssetId": "r5-barbell-curl-cycle-v1",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate.",
+      "catalogGuidanceChangedAt": "2026-09-21"
+    },
+    {
+      "shot": "r5-hammer-curl-anatomical-start",
+      "exerciseId": "ex_hammer_curl",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.4",
+      "promptSha256": "ad97b70ab9c7dd1eb7099df673b57c5a2d0a141bb58828b0ee428072ba617fb6",
+      "endFrameSameAsStart": false,
+      "name": "Hammer Curl",
+      "kind": "image",
+      "aspect": "9:16",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-hammer-curl-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg"
+      ],
+      "canonicalInstructions": [
+        "Stand with a dumbbell in each hand and palms facing inward.",
+        "Curl both weights together without moving the upper arms forward, then lower slowly while keeping the same grip."
+      ],
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on biceps brachii on fronts of upper arms. Subtler blue emissive glow on forearm muscles. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Hammer Curl with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "retired-form-variation",
+      "referencePlan": "Use an Anatomical reference without conflicting colored shoulder regions; shape/pose remains exercise-specific.",
+      "attemptIds": [
+        "attempt_ab114b376c314a8c"
+      ],
+      "latestAttemptId": "attempt_ab114b376c314a8c",
+      "preRetirementDisposition": null,
+      "disposition": "retired-form-variation",
+      "retiredAt": "2026-09-21",
+      "replacementExerciseId": "open_dumbbell_bicep_curl_6db34986",
+      "preRetirementProductionDisposition": "ready-to-animate"
+    },
+    {
+      "shot": "r5-hammer-curl-anatomical-motion",
+      "exerciseId": "ex_hammer_curl",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.7",
+      "promptSha256": "8004548f2bcdbb421e51a1c28e0c26f6053fabb6de60764ebcf0f267aa49b64c",
+      "endFrameSameAsStart": false,
+      "name": "Hammer Curl",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-hammer-curl-anatomical-motion.txt",
+      "referenceShot": "r5-hammer-curl-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Stand with a dumbbell in each hand and palms facing inward.",
+        "Curl both weights together without moving the upper arms forward, then lower slowly while keeping the same grip."
+      ],
+      "primaryMuscles": [
+        "biceps"
+      ],
+      "secondaryMuscles": [
+        "forearms"
+      ],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on biceps brachii on fronts of upper arms. Subtler blue emissive glow on forearm muscles. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Hammer Curl with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "retired-form-variation",
+      "attemptIds": [
+        "attempt_4ffd8ac4673640b3"
+      ],
+      "latestAttemptId": "attempt_4ffd8ac4673640b3",
+      "candidateAssetId": "r5-hammer-curl-cycle-v1",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate.",
+      "preRetirementDisposition": null,
+      "disposition": "retired-form-variation",
+      "retiredAt": "2026-09-21",
+      "replacementExerciseId": "open_dumbbell_bicep_curl_6db34986",
+      "preRetirementProductionDisposition": "ready-for-review"
+    },
+    {
+      "shot": "r5-triceps-pushdown-anatomical-start",
+      "exerciseId": "open_triceps_pushdown_e68b25c2",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.6",
+      "promptSha256": "e5452e5d0b1a3200415a74840330403e7f54da8eb2d0bfb53b9d15eab9884db5",
+      "endFrameSameAsStart": false,
+      "name": "Straight-Bar Triceps Pushdown",
+      "kind": "image",
+      "aspect": "9:16",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-triceps-pushdown-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Attach a straight bar to a high cable and take an overhand grip. Stand with the upper arms beside the torso and elbows bent.",
+        "Keep the upper arms still and extend the elbows to press the bar downward.",
+        "Return under control to the bent-elbow start and repeat."
+      ],
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on triceps on backs of upper arms. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Straight-Bar Triceps Pushdown with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "retired-form-variation",
+      "referencePlan": "Text-only pose correction removes straight-arm deadlift reference bias; inspect style continuity before motion.",
+      "attemptIds": [
+        "attempt_2eebd5ab27ea4556",
+        "attempt_45a18fe5c3474c9e",
+        "attempt_c044d7b8645b40e1"
+      ],
+      "latestAttemptId": "attempt_c044d7b8645b40e1",
+      "preRetirementDisposition": null,
+      "disposition": "retired-form-variation",
+      "retiredAt": "2026-09-21",
+      "replacementExerciseId": "ex_tricep_extension",
+      "preRetirementProductionDisposition": "ready-to-animate"
+    },
+    {
+      "shot": "r5-triceps-pushdown-anatomical-motion",
+      "exerciseId": "open_triceps_pushdown_e68b25c2",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.7",
+      "promptSha256": "1937f17ac5089f23882fbffde5ad791b11a2b84951345c62d4e4c7736d02fc8e",
+      "endFrameSameAsStart": false,
+      "name": "Straight-Bar Triceps Pushdown",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-triceps-pushdown-anatomical-motion.txt",
+      "referenceShot": "r5-triceps-pushdown-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Attach a straight bar to a high cable and take an overhand grip. Stand with the upper arms beside the torso and elbows bent.",
+        "Keep the upper arms still and extend the elbows to press the bar downward.",
+        "Return under control to the bent-elbow start and repeat."
+      ],
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [],
+      "anatomicalAccentPolicy": "Anatomically attached soft orange emissive glow on triceps on backs of upper arms. No secondary blue regions for this exercise. Keep muscle fiber detail readable inside each glow. Small restrained halo, not bright bloom or detached stickers. Glow remains clearly visible and attached to the actual muscle surface throughout. All other surfaces remain silver gray. Keep shorts fully opaque; show only anatomically visible muscle regions. No glowing shorts fabric, no whole-body glow. Natural occlusion, no floating markers. ",
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Straight-Bar Triceps Pushdown with orange primary and blue supporting muscle involvement cues.",
+      "productionDisposition": "retired-form-variation",
+      "attemptIds": [
+        "attempt_80314923ff804d2c"
+      ],
+      "latestAttemptId": "attempt_80314923ff804d2c",
+      "candidateAssetId": "r5-triceps-pushdown-cycle-v1",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate.",
+      "preRetirementDisposition": null,
+      "disposition": "retired-form-variation",
+      "retiredAt": "2026-09-21",
+      "replacementExerciseId": "ex_tricep_extension",
+      "preRetirementProductionDisposition": "ready-for-review"
+    },
+    {
+      "shot": "r5-single-arm-db-row-anatomical-start",
+      "exerciseId": "ex_dumbbell_row",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.4",
+      "promptSha256": "fba96249353049c89d6d32b0f17b931f3889c5e741e7f00eed9bdfa27d156519",
+      "endFrameSameAsStart": false,
+      "name": "Single-Arm Dumbbell Row",
+      "kind": "image",
+      "aspect": "16:9",
+      "duration": null,
+      "model": "nano-pro",
+      "promptFile": "form-media/prompts/r5-single-arm-db-row-anatomical-start.txt",
+      "referenceShot": null,
+      "referenceFiles": [
+        "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg"
+      ],
+      "canonicalInstructions": [
+        "Brace one hand on a stable bench and hold a dumbbell in the other hand with the back steady.",
+        "Pull the dumbbell toward the hip, then lower until the arm extends without twisting the trunk.",
+        "Complete the target repetitions with each arm; the entered rep count applies to each side."
+      ],
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "title": "Anatomical 3D · Starting position",
+      "alt": "Single-Arm Dumbbell Row with working lat in orange and supporting arm muscles in blue.",
+      "productionDisposition": "ready-to-animate",
+      "attemptIds": [
+        "attempt_c68006e29734480b"
+      ],
+      "latestAttemptId": "attempt_c68006e29734480b"
+    },
+    {
+      "shot": "r5-single-arm-db-row-anatomical-motion",
+      "exerciseId": "ex_dumbbell_row",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "roundId": "round-5",
+      "promptVersion": "5.8",
+      "promptSha256": "198407324cd24e922ff715335d14aa50d697f096700ed3edaae284371b7480b9",
+      "endFrameSameAsStart": false,
+      "name": "Single-Arm Dumbbell Row",
+      "kind": "video",
+      "aspect": "16:9",
+      "duration": 8,
+      "model": "omni-flash",
+      "promptFile": "form-media/prompts/r5-single-arm-db-row-anatomical-motion.txt",
+      "referenceShot": "r5-single-arm-db-row-anatomical-start",
+      "referenceFiles": [],
+      "canonicalInstructions": [
+        "Brace one hand on a stable bench and hold a dumbbell in the other hand with the back steady.",
+        "Pull the dumbbell toward the hip, then lower until the arm extends without twisting the trunk.",
+        "Complete the target repetitions with each arm; the entered rep count applies to each side."
+      ],
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "biceps",
+        "forearms"
+      ],
+      "title": "Anatomical 3D · One full repetition · muscle glow",
+      "alt": "Single-Arm Dumbbell Row with working lat in orange and supporting arm muscles in blue.",
+      "productionDisposition": "ready-for-review",
+      "poseVariant": "Left hand and knee bench-supported; right foot on floor. Fits canonical bench-supported row instructions.",
+      "attemptIds": [
+        "attempt_570cf994f7fb4fea",
+        "attempt_a7b6a579ce7d4c04"
+      ],
+      "latestAttemptId": "attempt_a7b6a579ce7d4c04",
+      "candidateAssetId": "r5-single-arm-db-row-cycle-v1",
+      "dispositionReason": "AI editorial candidate only; user and trainer review remain separate."
+    }
+  ],
+  "replacementNote": "Single-Arm Dumbbell Row added to maintain 15 new motion studies after Front Squat exhausted its three starting-frame attempts. Front Squat stays visible as failed reference work, not a sixteenth promised video."
+}

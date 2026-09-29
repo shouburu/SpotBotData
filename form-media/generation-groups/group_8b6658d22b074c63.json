@@ -1,0 +1,62 @@
+{
+  "id": "group_8b6658d22b074c63",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T20:50:52+00:00",
+  "balanceBefore": 9328,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "e3a859d138e25bc43a4d966e6cb857cb5f733d7f776799e79b7a494dacd8978b",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-start-a8f84ee4.json",
+      "quoteSha256": "9714e4f28d89009c5ebfcd616089af5f3c651a35a729c2c1c51d4304fa44c794",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    },
+    {
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r9-open-decline-smith-press-ab9938f7-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "9be5200f05f318973c8183577b916934832146442216f30bdefbab9894952413",
+      "quoteFile": "form-media/ui-quotes/r9-open-decline-smith-press-ab9938f7-start-2bb7ff7e.json",
+      "quoteSha256": "1db43002cb6fa44f821b6b150d0dbf27cc8ab5281aea9a86ab0be427be6e172b",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    },
+    {
+      "exerciseId": "open_smith_machine_bench_p_4ee3a150",
+      "shot": "r9-open-smith-machine-bench-p-4ee3a150-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "9cee4572d14448b46178a6306d936d0eb2d38f2464b2ce942674af4772c04849",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-bench-p-4ee3a150-start-80a77d8c.json",
+      "quoteSha256": "e636b2382672455c42a2b1b5811b4cc91c986a0f30a3b94f964c1660985213f1",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    },
+    {
+      "exerciseId": "open_smith_machine_bent_ov_01d0d0f3",
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "058e9eea94516e3f79b536b6c6981c929c694e6d956c0f937d6aeb1756bbb436",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-bent-ov-01d0d0f3-start-174f29ff.json",
+      "quoteSha256": "cb1d9515cbd597c79be1f5aabca3e172f4470f0988ef8eaf273c452d0a2b50be",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T20:52:04+00:00",
+  "balanceAfter": 9328,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-dc0c473d73164abf.json",
+  "evidenceSha256": "28edd3fc3d92cad3c8b04a42fcd2880feb79cf121d9e3c7175a820f059247f8f",
+  "terminalFailureIds": []
+}

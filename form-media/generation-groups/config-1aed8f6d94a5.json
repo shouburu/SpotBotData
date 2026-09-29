@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-ez-bar-skullcrusher-18e6f719-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-ez-bar-skullcrusher-18e6f719-motion-fcdc1cf7.json"
+    },
+    {
+      "shot": "r9-open-finger-curls-ada5939a-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-finger-curls-ada5939a-motion-10730c7d.json"
+    },
+    {
+      "shot": "r9-open-incline-dumbbell-flye-f858d67d-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-incline-dumbbell-flye-f858d67d-motion-cceb659f.json"
+    },
+    {
+      "shot": "r9-open-landmine-180s-8bd8af32-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-180s-8bd8af32-motion-41e73f7c.json"
+    }
+  ]
+}

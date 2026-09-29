@@ -1,0 +1,1599 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "attemptId": "attempt_c4b14639e3174ea3",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_c4b14639e3174ea3.jpg",
+      "outputSha256": "abd9932c233e649024f849dbde6d9274a1ca92d94e11f1dd5e7f9fcfe674d817",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:06:33+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin holds a forward hip hinge with hands on fixed support grips and a loaded padded lever contacting the posterior pelvis/hip region.",
+        "Both forefeet rest on the raised block and both heels are visibly high, giving a clear high calf-raise endpoint with room to lower behind the block edge.",
+        "Orange is localized to the posterior calf muscle bellies. The linked lever and working ankle range are visible."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The depicted rig includes both a plate-loaded hip lever and an adjacent stack. Animate the visible loaded lever consistently; do not invent a second moving load path."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_c4b14639e3174ea3.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "High donkey-calf tiptoe \u2192 controlled lower heels behind block \u2192 identical high tiptoe.",
+        "mustPreserve": [
+          "Forefeet remain on the block and hands on fixed supports.",
+          "Hip pad remains in contact; knee bend and hip hinge remain essentially unchanged.",
+          "The body and loaded lever rise with the heels rather than bending the knees."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-donkey-calf-raises-55a343b9-motion-attempt_c4b14639e3174ea3-reviewed-i2v.txt",
+      "motionPromptSha256": "6424dbaf3737b540d6e046d5694ad034f2c930a2297ec86fe9cb8958c66b0429",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-donkey-calf-raises-55a343b9-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_5b694e6bad6a4b72",
+      "exerciseId": "open_external_rotation_wit_c64eb9a6",
+      "shot": "r9-open-external-rotation-wit-c64eb9a6-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_5b694e6bad6a4b72.jpg",
+      "outputSha256": "643f0ebae905bb11d3a15ad514990c71ee02a7ce58a86810668881d152f0ee42",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:06:33+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The mannequin faces the visible elbow-height tower rather than showing an unambiguous side-on external-rotation setup.",
+        "The handle is next to the front tower while a second continuous horizontal cable line extends left across the body and out of frame. The image does not establish one coherent load path from working hand to a lateral pulley.",
+        "The forearm points forward in a curl-like position; animating this source would not clearly teach the intended far-arm external rotation."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_5b694e6bad6a4b72.jpg"
+      ],
+      "correctionPrompt": "Create a fresh Anatomical 3D still of cable external shoulder rotation, portrait 9:16. Show the mannequin from the front, body facing the camera, and ONE elbow-height pulley on the LEFT SIDE OF THE IMAGE. The working arm is the FAR arm on the RIGHT SIDE OF THE IMAGE. Its upper arm rests against that side of the torso, elbow bent 90 degrees. Start with that forearm across the front of the abdomen and its hand gripping the one handle. A SINGLE visible cable runs horizontally from that handle to the left pulley, passing in front of and clear of the body. No second cable continues past the handle. Both feet planted. Show localized orange over the working posterior shoulder rotator region with a restrained anatomical cutaway if needed; otherwise gray muscle fibers and charcoal shorts. Leave room on image right for the forearm to rotate outward without moving the elbow. No labels or extra poses.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-external-rotation-wit-c64eb9a6-start-after-attempt_5b694e6bad6a4b72-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_0db0eb6693ef4373",
+      "exerciseId": "open_front_cable_raise_55c6e076",
+      "shot": "r9-open-front-cable-raise-55c6e076-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-front-cable-raise-55c6e076-start/attempt_0db0eb6693ef4373.jpg",
+      "outputSha256": "cf62b915cc8e34b6e52e2d4dfde4f0920db5f3815bf281ff50123c4f52e4ae88",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:06:33+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The working arm is raised straight forward to shoulder height with a soft elbow bend and a secure visible handle grip; the other arm rests beside the body.",
+        "A single cable connects that handle to the low pulley behind the mannequin, providing a readable opposing line of pull. Both feet are planted.",
+        "Orange shoulder muscle tissue marks the working anterior/lateral deltoid region, and the full lowering arc to the thigh fits the frame."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The cable overlaps the near-leg silhouette in projection; the video must retain a clear continuous path in front of the body surface without intersecting it. Orange spans some adjacent deltoid region, which is acceptable here."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-front-cable-raise-55c6e076-start/attempt_0db0eb6693ef4373.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Shoulder-height front raise \u2192 lower handle to front thigh \u2192 identical shoulder-height front raise.",
+        "mustPreserve": [
+          "Keep the working arm and same grip; no side switching.",
+          "Elbow angle and torso remain steady while the arm lowers and raises at the shoulder.",
+          "Cable remains attached to the original low rear pulley."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-front-cable-raise-55c6e076-motion-attempt_0db0eb6693ef4373-reviewed-i2v.txt",
+      "motionPromptSha256": "af38e2547b39f4ca8533eed5666d53222fd6051e580e679ca4daab4fea376bde",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-front-cable-raise-55c6e076-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_0be6ce00605f407c",
+      "exerciseId": "open_hack_squat_76a66305",
+      "shot": "r9-open-hack-squat-76a66305-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-hack-squat-76a66305-start/attempt_0be6ce00605f407c.jpg",
+      "outputSha256": "8f0b47bf4f634654086c742a3c022311a3e3171d5412cc0ff06ec4c80f9c6bb0",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:17:22+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The body rests against an angled hack-squat carriage with shoulder pads over the shoulders and both feet on the separate fixed platform.",
+        "Hips and knees are bent in a clear low squat position. The carriage has space to move upward along the rails while the feet remain fixed.",
+        "Orange quadriceps muscle bellies are visible on both front thighs; working hands and support contacts are readable."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The supported low pose is around a right-angle knee bend rather than an extreme deep squat. Use this actual comfortable depth and review the full rise and exact return."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-hack-squat-76a66305-start/attempt_0be6ce00605f407c.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Low supported hack squat \u2192 extend hips/knees to rise with carriage \u2192 identical low squat.",
+        "mustPreserve": [
+          "Back and shoulders remain in contact with the same carriage pads.",
+          "Both feet stay flat on the fixed foot platform.",
+          "The carriage moves with the torso; this must not become a moving-footplate seated leg press."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-hack-squat-76a66305-motion-attempt_0be6ce00605f407c-reviewed-i2v.txt",
+      "motionPromptSha256": "3f1692bb6f151dd0a8063c938b1f90a1535504a5f0463999d81e97c565630def",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-hack-squat-76a66305-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_453f777881b34724",
+      "exerciseId": "open_leverage_deadlift_ba90f5c3",
+      "shot": "r9-open-leverage-deadlift-ba90f5c3-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-deadlift-ba90f5c3-start/attempt_453f777881b34724.jpg",
+      "outputSha256": "81da66c2ce06319faca616561c4d09bc1004eacd66f9b5e2d66f0ec15beaaf28",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:17:22+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin holds a clear low deadlift position with bent hips and knees, arms long and both feet planted on the fixed base platform.",
+        "Both hands hold the same connected handle assembly, which joins the visible lever/pivot apparatus. The hands and apparatus have room above for a stand-and-return movement.",
+        "Orange front-thigh quadriceps regions are visible, with some involved posterior-thigh coloring."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The generated machine uses a stack-linked pivot/lever assembly rather than a conventional plate-loaded layout. Its existing pivot and handle geometry must remain rigid in the video; no new slider or detached handle may appear."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-deadlift-ba90f5c3-start/attempt_453f777881b34724.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Low supported-hand deadlift stance \u2192 stand fully with hips/knees extended and arms long \u2192 original low stance.",
+        "mustPreserve": [
+          "Feet stay planted and both hands remain on the connected handles.",
+          "Extend hips and knees together without curling or rowing the handles.",
+          "Same lever, fixed pivot and cable/stack relationships must remain continuous."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-leverage-deadlift-ba90f5c3-motion-attempt_453f777881b34724-reviewed-i2v.txt",
+      "motionPromptSha256": "be67ac58a3890596078816cded4e155f2f3b1b9fc4fbbb48073af756b1bc34d8",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-leverage-deadlift-ba90f5c3-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_acb936272ca94737",
+      "exerciseId": "open_pallof_press_69ae4277",
+      "shot": "r9-open-pallof-press-69ae4277-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-pallof-press-69ae4277-start/attempt_acb936272ca94737.jpg",
+      "outputSha256": "d5fca3b575c2a8212df873979df515fef823d7edc68f4fc50b91a9aef832c676",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:17:22+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin stands side-on to a lateral chest-height pulley with the trunk facing forward, rather than facing directly toward the tower.",
+        "Both hands grasp one shared handle in a bent-elbow position close to the chest. A single visible cable connects the handle to the lateral pulley.",
+        "Abdominal and oblique muscle regions are orange, and the forward arm extension fits within the fixed frame."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The handle begins slightly forward of the sternum rather than touching it. Preserve this actual bent-elbow endpoint and require full comfortable forward elbow extension in the video."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-pallof-press-69ae4277-start/attempt_acb936272ca94737.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Bent-elbow handle near chest \u2192 extend both arms forward without trunk rotation \u2192 exact original bent-elbow handle position.",
+        "mustPreserve": [
+          "Keep both hands on one shared handle and one cable to the lateral pulley.",
+          "Hips, ribs and feet keep their original forward direction.",
+          "Do not turn to face the machine during the press."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-pallof-press-69ae4277-motion-attempt_acb936272ca94737-reviewed-i2v.txt",
+      "motionPromptSha256": "35a8342f9f2aa341bd2000c0e50c33787f59c2605d00ce1534dbd613d931593f",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-pallof-press-69ae4277-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_1156b01422c249a2",
+      "exerciseId": "open_external_rotation_wit_c64eb9a6",
+      "shot": "r9-open-external-rotation-wit-c64eb9a6-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_1156b01422c249a2.jpg",
+      "outputSha256": "06d6a4ecbe64cb593447c4c5f63da79cf572a61864d7a92071b87da71dd84fc8",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:17:22+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The repair now has one cable, but the working arm is the arm nearest the pulley. From the shown forearm-across-abdomen position, outward rotation toward that pulley would be assisted by the cable, not the intended far-arm external-rotation resistance.",
+        "The prominent orange region includes the pectoral/chest tissue rather than clearly showing posterior shoulder external rotators. This is a meaningful muscle-involvement mismatch, not a minor secondary highlight."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_1156b01422c249a2.jpg"
+      ],
+      "correctionPrompt": "Edit this reference while keeping the SAME bent working arm, same grip and same relaxed nonworking arm. MOVE THE ENTIRE PULLEY TOWER from the LEFT edge of the image to the RIGHT edge. The bent working arm on the left side of the image must now be the FARTHER arm from that pulley. Keep its elbow tucked at the waist at 90 degrees and forearm across the abdomen. Draw exactly one horizontal cable from the existing handle to the relocated right-side pulley, clear in front of the body. Outward rotation of the working forearm toward image left will now pull AGAINST the cable. Remove all orange from pectoral/chest tissue and the anterior shoulder. Show only the working posterior shoulder external-rotator region in orange, using a small anatomically correct cutaway if necessary; the chest stays gray. Preserve grounded feet and a full visible outward forearm arc. One figure, no labels or extra cables.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-external-rotation-wit-c64eb9a6-start-after-attempt_1156b01422c249a2-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_aeaceb591eaa4845",
+      "exerciseId": "open_one_arm_high_pulley_c_13c8cfb4",
+      "shot": "r9-open-one-arm-high-pulley-c-13c8cfb4-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-one-arm-high-pulley-c-13c8cfb4-start/attempt_aeaceb591eaa4845.jpg",
+      "outputSha256": "295771bd534f471afc620a01af6e43254a16e3fb2b8467d4662aedb865295f07",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:17:22+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The nonworking arm is misplaced: the visible right-side shoulder ends in a stump while a relaxed arm emerges from the opposite side below the chest. The source does not retain ordinary two-arm anatomy.",
+        "The working hand is on the far side of the head from the high pulley, and the cable route crosses the skull region. A near-side hand setup is needed to keep the side-load path clear of the head."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-one-arm-high-pulley-c-13c8cfb4-start/attempt_aeaceb591eaa4845.jpg"
+      ],
+      "correctionPrompt": "Create a fresh Anatomical 3D reference still for a one-arm high-pulley cable side bend. One complete mannequin with exactly TWO normal arms, both attached to their correct shoulders. Put the high pulley on the RIGHT side of the image. The NEAR arm on the RIGHT holds ONE handle beside the right temple, with its elbow bent and hand clear of the head. A short diagonal cable runs from this hand directly up-right to the pulley without crossing or touching the skull. The left nonworking arm hangs normally from the left shoulder. Stand upright with both feet planted, hips centered and room to bend the trunk toward image left, away from the pulley. Orange abdominal oblique muscle bellies; gray remaining muscle fibers, charcoal shorts, plain studio. No extra limbs, labels or cuts.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-one-arm-high-pulley-c-13c8cfb4-start-after-attempt_aeaceb591eaa4845-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_93f6e1ba137441b0",
+      "exerciseId": "open_pallof_press_with_rot_04f5a0ff",
+      "shot": "r9-open-pallof-press-with-rot-04f5a0ff-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-pallof-press-with-rot-04f5a0ff-start/attempt_93f6e1ba137441b0.jpg",
+      "outputSha256": "3fa782dd659b4b47bd33d7c1dacde78efd2eb52c67c3d19d95d2e71792f38a95",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:17:22+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The image shows two separate handle grips held apart instead of both hands sharing one handle at the chest.",
+        "The cable disappears behind the torso/near arm and its connection to the two grips is unclear. This does not provide a clean source for the press-rotate-unrotate-retract sequence."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-pallof-press-with-rot-04f5a0ff-start/attempt_93f6e1ba137441b0.jpg"
+      ],
+      "correctionPrompt": "Use this supplied standard Pallof Press image as the physical reference for Pallof Press With Rotation. Preserve its one shared handle gripped by BOTH hands, one visible cable to the lateral chest-height pulley, forward-facing trunk, grounded feet and orange abdominal/oblique regions. Keep only this single bent-elbow near-chest starting pose. Leave a little more free space around the hands and torso for a subsequent forward press and small controlled trunk rotation. Do not add another handle, another cable or a second pose. This image establishes only the common starting position; do not depict a turned or arms-extended endpoint. Same Anatomical 3D style and fixed camera.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-pallof-press-with-rot-04f5a0ff-start-after-attempt_93f6e1ba137441b0-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_a5881446f8c94d89",
+      "exerciseId": "open_pull_through_c80507cd",
+      "shot": "r9-open-pull-through-c80507cd-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-pull-through-c80507cd-start/attempt_a5881446f8c94d89.jpg",
+      "outputSha256": "50a5ceb35ace6d916f084f57cd6e62858a499a5ed1f89c3cdcbac3c1abdf4a36",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:23:28+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin faces away from the low rear pulley in a visible hip hinge with soft knees, planted feet and long arms.",
+        "Both hands grip the rope ends between the thighs; the visible rear clip continues by one cable to the low pulley.",
+        "Orange is localized over the gluteal muscle region; the full stance and available standing height fit the frame."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The rope junction is partly occluded by the thighs; delivered motion must preserve a continuous rope-to-cable connection.",
+        "The source uses a moderate hinge, so the return should match this actual depth rather than invent a deeper endpoint."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-pull-through-c80507cd-start/attempt_a5881446f8c94d89.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual forward hinge \u2192 stand tall by extending hips \u2192 same forward hinge; one complete cycle.",
+        "mustPreserve": [
+          "Both feet stay planted.",
+          "Arms remain long and hands keep the same rope grips.",
+          "Rope stays between the legs, connected to the low pulley behind the body.",
+          "Only hips extend and hinge; no arm row, shoulder lift, backward lean or second repetition."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-pull-through-c80507cd-motion-attempt_a5881446f8c94d89-reviewed-i2v.txt",
+      "motionPromptSha256": "538fcd550d7597ec628bd33c75422d086d4db21ab58f572f056e9505a4735f62",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-pull-through-c80507cd-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_fdba5d93ef3e4dc7",
+      "exerciseId": "open_upright_cable_row_272fd28c",
+      "shot": "r9-open-upright-cable-row-272fd28c-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-upright-cable-row-272fd28c-start/attempt_fdba5d93ef3e4dc7.jpg",
+      "outputSha256": "ab8ac600e9fee5b234a13773847c7f315bf18b1beb0cde5c56d1a07742fa4746",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:23:28+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both hands visibly hold the same straight cable bar with an overhand grip; its central clip connects by one continuous cable to the low pulley.",
+        "The bar is already raised to the upper torso and both elbows lead outward above the forearms, providing a clear contracted endpoint.",
+        "The torso is tall and feet planted; the bar can lower toward the thighs without leaving the frame.",
+        "Orange occupies the upper-trapezius region at the shoulder-neck junction, consistent with the catalog primary muscle."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The photographed pose is the raised endpoint, not the catalog low starting position; the authored cycle explicitly starts high.",
+        "Perspective makes the far elbow appear slightly higher; the animation should not increase the endpoint height."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-upright-cable-row-272fd28c-start/attempt_fdba5d93ef3e4dc7.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual upper-torso raised bar \u2192 lower fully to thigh-level long arms \u2192 same upper-torso raised bar; one complete cycle.",
+        "mustPreserve": [
+          "Torso and feet remain stationary.",
+          "Both overhand grips stay fixed to the same bar.",
+          "Single low cable stays attached to the central bar clip.",
+          "Elbows lead the return upward only to the pictured height; no shrug-only motion, grip flip or torso swing."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-upright-cable-row-272fd28c-motion-attempt_fdba5d93ef3e4dc7-reviewed-i2v.txt",
+      "motionPromptSha256": "5cdf746c577146b210523684cbe522c309dc198d272440eb248424d65336772f",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-upright-cable-row-272fd28c-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_79fcb6295b104205",
+      "exerciseId": "open_pallof_press_with_rot_04f5a0ff",
+      "shot": "r9-open-pallof-press-with-rot-04f5a0ff-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-pallof-press-with-rot-04f5a0ff-start/attempt_79fcb6295b104205.jpg",
+      "outputSha256": "64e9d09cbea241fb9a686e3fe3241b6a24adbd87e9e851385faa777ab85ec10a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:25:18+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both hands share one handle at the lower-sternum region, with elbows bent; one visible cable joins its clip to the lateral chest-height pulley.",
+        "The cable tower is beside the mannequin, and the torso is upright with space in front and away from the tower for the press-and-small-rotation sequence.",
+        "Orange marks the abdominal and oblique regions while the limbs and chest remain gray."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The hands begin a little forward of the sternum rather than touching the chest; the return should match the actual source position.",
+        "A still cannot establish that all four required movement phases will remain distinct in the delivered video."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-pallof-press-with-rot-04f5a0ff-start/attempt_79fcb6295b104205.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Exact near-chest handle \u2192 press forward \u2192 small rotation away from the pulley \u2192 unrotate \u2192 return handle to exact near-chest start; one full sequence.",
+        "mustPreserve": [
+          "One handle remains shared by both hands with one continuous lateral cable.",
+          "Small controlled trunk rotation permits a comfortable hip and foot pivot, without stepping or twisting fixed knees.",
+          "Unrotate before retracting the handle.",
+          "Do not repeat the press or make a second rotational cycle."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-pallof-press-with-rot-04f5a0ff-motion-attempt_79fcb6295b104205-reviewed-i2v.txt",
+      "motionPromptSha256": "137f4aafc9449d8c6103986e04e13a3ff6487b6a53cad7ae32812ff6074aaa0c",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-pallof-press-with-rot-04f5a0ff-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_6da265f454d843e2",
+      "exerciseId": "open_external_rotation_wit_c64eb9a6",
+      "shot": "r9-open-external-rotation-wit-c64eb9a6-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_6da265f454d843e2.jpg",
+      "outputSha256": "b3b8a3880cb955ddb69158702bb3d7ba3afb41ea9f9ed584718aa7df7aa495f0",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:25:18+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The tower is correctly on the side opposite the working arm, but the working-handle clip still connects to a cable running off the LEFT edge, away from that tower.",
+        "A second horizontal line also extends toward the RIGHT tower behind the hand/forearm; the source does not show one coherent handle-to-pulley load path."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The working-arm pose and elbow-height source can be retained; the clear fault is cable/handle routing."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_6da265f454d843e2.jpg"
+      ],
+      "correctionPrompt": "Edit this exact image with a narrow mechanical correction. Keep the mannequin, body pose, both arms, face, planted feet, orange shoulder cutaway, gray material, background, camera and RIGHT-side cable tower unchanged. The working arm is on image LEFT and its forearm crosses the abdomen to the hand near image center. Rebuild the D-handle bracket so the hand grips its vertical padded bar and the metal attachment point faces image RIGHT toward the tower. Draw exactly ONE cable from that right-facing handle attachment directly rightward to the elbow-height pulley on the RIGHT tower. Keep this cable unobstructed in front of the near nonworking forearm if their projections overlap. Completely REMOVE the existing cable running from the hand off the LEFT edge, including its old left-facing clip and stop ball. Remove any duplicate horizontal cable. The final image must have only one clearly continuous rightward handle-to-pulley cable, with the load coming from the side opposite the working shoulder. The working elbow remains against the image-left ribs, bent 90 degrees, hand across the abdomen. Preserve the visible orange shoulder muscle cutaway without adding chest, neck or arm coloring. Show one still frame only, no text or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-external-rotation-wit-c64eb9a6-start-after-attempt_6da265f454d843e2-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_0a3d656488c747b5",
+      "exerciseId": "open_one_arm_high_pulley_c_13c8cfb4",
+      "shot": "r9-open-one-arm-high-pulley-c-13c8cfb4-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-one-arm-high-pulley-c-13c8cfb4-start/attempt_0a3d656488c747b5.jpg",
+      "outputSha256": "b7cb164522dd5796f463b2cf7b4cd1f163e481d0e9c5b3f07ec651f9168a202e",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:25:18+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The repair now has normal two-arm anatomy and the working hand beside the pulley-side temple, with useful side-bend clearance.",
+        "Its handle clip points downward and the cable runs to the LOW pulley near the feet, despite the high-pulley exercise and visible unused pulley above the head. This reverses the intended high side-load setup.",
+        "Orange is appropriately localized to the oblique side-abdominal regions and can be preserved."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-one-arm-high-pulley-c-13c8cfb4-start/attempt_0a3d656488c747b5.jpg"
+      ],
+      "correctionPrompt": "Edit this exact image, changing only the cable connection needed for a HIGH-PULLEY side bend. Preserve the entire mannequin, its ordinary two arms, the upright torso, planted feet, gray anatomy, orange oblique regions, working hand beside the image-right temple, fixed camera and right-side tower. Replace the D-handle bracket and clip orientation so the handle remains in the same hand but its attachment points UP AND RIGHT. Route exactly one taut cable diagonally upward-right from that attachment to the existing HIGH pulley above the head on the right tower. The cable must stay beside the head with clear space and must not cross the skull or arm. Completely erase the current downward cable leading to the low pulley and erase the old downward-pointing clip and stop ball. The low pulley may remain unused hardware but must have no cable leading to the hand. Retain exactly one complete head, torso, two arms and two legs with the same physical pose. Do not move the working hand overhead or change its bent elbow. No labels, arrows or text.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-one-arm-high-pulley-c-13c8cfb4-start-after-attempt_0a3d656488c747b5-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_d99b984ccf3d4398",
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_d99b984ccf3d4398.jpg",
+      "outputSha256": "2629029f7231f1bd89e6d778ef1f3f1383186d5716fa5a45f1217a46ae762eb6",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:14:01+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both upper arms are elevated and the elbows are visibly bent; both hands grip the ends of one rope, with its central clip connected down to a low pulley behind the body.",
+        "The posterior upper-arm triceps regions are orange and the rest of the torso is gray.",
+        "The feet are planted and the loaded cable runs behind the body with no overhead load anchor."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The arms are somewhat spread rather than tightly beside the ears; preserve a comfortable upper-arm position without substituting a pulldown.",
+        "The overhead extension envelope is relatively close to the upper/right frame edges; the delivered clip must retain both complete hands and elbows.",
+        "The floor return segment connects the low pulley to another base pulley; preserve that visible route without adding another hand cable."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_d99b984ccf3d4398.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Exact bent-elbow overhead rope position \u2192 straighten elbows overhead \u2192 same bent-elbow rope position.",
+        "mustPreserve": [
+          "Upper arms remain elevated at the source shoulder position.",
+          "Hands retain the same rope-end grips and one low rear cable.",
+          "Feet and torso remain fixed."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-cable-rope-overhead-t-cbb7aa38-motion-attempt_d99b984ccf3d4398-reviewed-i2v.txt",
+      "motionPromptSha256": "d012efb70bff6e2da974248bd833bbf325cbfe222cf5aa87e75000d871b0300f",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-cable-rope-overhead-t-cbb7aa38-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_96733fdd8d3540b4",
+      "exerciseId": "open_cable_hip_adduction_deb67de6",
+      "shot": "r9-open-cable-hip-adduction-deb67de6-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-hip-adduction-deb67de6-start/attempt_96733fdd8d3540b4.jpg",
+      "outputSha256": "5ead4aa3bc3b47bba1526c5a65bd4b0a016bced840b00f6d82a07c4979a573ea",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:14:01+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exactly the leg nearest the tower is cuffed, and its ankle has one clearly connected cable to the low pulley. The opposite leg is planted and uncuffed.",
+        "The cuffed foot is slightly out toward the tower and clear of the floor, with space to cross the front of the standing leg.",
+        "The inner thigh of the cuffed leg is orange, and the hand on the machine provides a visible balance contact."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The orange region also includes much of the anterior thigh; the primary inner-thigh involvement is visible, but this is not a narrowly isolated adductor map.",
+        "The image uses the mannequin\u2019s left leg rather than a right-leg-only example; the catalog movement is side-symmetric and the motion must follow the actual cuffed leg."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-cable-hip-adduction-deb67de6-start/attempt_96733fdd8d3540b4.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual cuffed leg out toward pulley \u2192 bring that cuffed leg inward across the standing leg \u2192 exact original outward position.",
+        "mustPreserve": [
+          "Only the cuffed leg moves; uncuffed leg remains planted.",
+          "Cuff and single cable stay attached to the same ankle.",
+          "Pelvis and torso do not rotate."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-cable-hip-adduction-deb67de6-motion-attempt_96733fdd8d3540b4-reviewed-i2v.txt",
+      "motionPromptSha256": "89cc256bbd9ccd2c535a4ced83e0d2a8bf18c3857ee01f5b64ba8bd329121e0e",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-cable-hip-adduction-deb67de6-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_adf1b445ca944737",
+      "exerciseId": "open_dip_machine_74e49ff5",
+      "shot": "r9-open-dip-machine-74e49ff5-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-dip-machine-74e49ff5-start/attempt_adf1b445ca944737.jpg",
+      "outputSha256": "99d1d34e970e97142b4dc73d3b4395d4e8866440b6759f3565bd2ecc7d6c9b95",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:14:01+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Pelvis rests on the seat, the back is supported, and both feet have visible support on the machine base.",
+        "Both hands hold side grips connected to the machine levers, with elbows visibly bent about a right angle rather than the prior near-straight-arm source.",
+        "Orange includes visible posterior-lateral triceps bellies on the upper arms; there is room for the hands to descend through an elbow-extension press."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The highlight also includes anterior upper-arm tissue; posterior triceps involvement is visible but not isolated.",
+        "The generated linkage is simplified. The paid clip must preserve its actual pivots and rigid grip connections while the hands descend, rather than lift the pelvis or detach handles."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-dip-machine-74e49ff5-start/attempt_adf1b445ca944737.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual seated bent-elbow side handles \u2192 press down to nearly straight elbows \u2192 exact bent-elbow start.",
+        "mustPreserve": [
+          "Pelvis and back remain in seat contact.",
+          "Hands stay closed around the same side grips.",
+          "Rigid levers move around their existing pivots; no new hardware."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-dip-machine-74e49ff5-motion-attempt_adf1b445ca944737-reviewed-i2v.txt",
+      "motionPromptSha256": "a44c8179b17124f614cef33cc2aa9c2453a771f6ee25ebc4873f14645fca7a61",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-dip-machine-74e49ff5-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_ef3d0db7d7364a58",
+      "exerciseId": "open_cable_shrugs_c5ea5dc6",
+      "shot": "r9-open-cable-shrugs-c5ea5dc6-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-cable-shrugs-c5ea5dc6-start/attempt_ef3d0db7d7364a58.jpg",
+      "outputSha256": "ee311fcd204f8e56b2e7da21bb9a9fe89d80d585d7c53a596f77eba03b613ccb",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:14:01+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both hands have a fixed overhand grip on one straight bar at the thighs, with arms nearly straight and shoulders lowered.",
+        "The center of the bar connects by one clip and cable to the visible low pulley.",
+        "Orange is localized to the upper trapezius muscle regions, with room for the small shoulder elevation."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-cable-shrugs-c5ea5dc6-start/attempt_ef3d0db7d7364a58.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual relaxed shoulders/long arms \u2192 shrug shoulders upward \u2192 lower to exact original relaxed position.",
+        "mustPreserve": [
+          "Elbows remain straight; bar is never curled or pressed.",
+          "Single cable and center clip remain attached.",
+          "Feet, knees and torso remain steady."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-cable-shrugs-c5ea5dc6-motion-attempt_ef3d0db7d7364a58-reviewed-i2v.txt",
+      "motionPromptSha256": "63831ce3410ab4797ed24d1f05b4e2a46831744dddc536240b6768663edd60ce",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-cable-shrugs-c5ea5dc6-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_e660c3f7b1f849f8",
+      "exerciseId": "open_thigh_abductor_05f17f36",
+      "shot": "r9-open-thigh-abductor-05f17f36-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-thigh-abductor-05f17f36-start/attempt_e660c3f7b1f849f8.jpg",
+      "outputSha256": "fd0e626dbc12505c6480aabeee65118510464c9e5ec650ca783b325db928f41f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:18:42+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both knees begin comfortably close, both resistance pads contact the outside of the distal thighs, and feet rest on the attached machine rests.",
+        "Pelvis and back are seated/supported, the visible hand holds the side grip, and the pad arms have recognizable rigid pivot connections.",
+        "Orange anatomical regions are localized over the outer hips; the front three-quarter view gives room for both knees to open."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The outer-hip cue is an anatomical overlay through the shorts; the far hand and parts of the linkage are occluded by the body."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-thigh-abductor-05f17f36-start/attempt_e660c3f7b1f849f8.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Knees close against outside-thigh pads \u2192 open both thighs against the pads \u2192 return to the same close position.",
+        "mustPreserve": [
+          "Outside-thigh pad contact",
+          "Feet on their moving rests",
+          "Seated pelvis and supported back",
+          "Fixed machine base and pivots"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-thigh-abductor-05f17f36-motion-attempt_e660c3f7b1f849f8-reviewed-i2v.txt",
+      "motionPromptSha256": "d0f19f8bb9d60e0fdc7bc3ae38beca701b496a97e47b771138ab6cab665e0bde",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-thigh-abductor-05f17f36-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_2f06dcc1aaba4a82",
+      "exerciseId": "open_machine_shoulder_mili_71dc7774",
+      "shot": "r9-open-machine-shoulder-mili-71dc7774-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-machine-shoulder-mili-71dc7774-start/attempt_2f06dcc1aaba4a82.jpg",
+      "outputSha256": "7114318ba53cbf7756beaf62c345863d48303bbc8b5fbbca25295afe6dbd9e4b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:18:42+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both hands grip connected press handles, elbows are bent near 90 degrees, and the long rigid lever arms visibly connect to high fixed pivots.",
+        "The pelvis is seated, back is supported and both feet are planted on the base footrests.",
+        "Orange deltoid regions are visible and there is ample empty space above the hands for overhead extension."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The start handles are beside the head rather than below shoulder height; the motion must return to this actual comfortable bent-elbow endpoint."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-machine-shoulder-mili-71dc7774-start/attempt_2f06dcc1aaba4a82.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Bent elbows with handles beside head \u2192 press to nearly straight arms overhead \u2192 lower to the same bent-elbow start.",
+        "mustPreserve": [
+          "Closed grips on existing handles",
+          "Rigid press levers with fixed pivots",
+          "Back, pelvis and foot support",
+          "Deltoid muscle cue"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-machine-shoulder-mili-71dc7774-motion-attempt_2f06dcc1aaba4a82-reviewed-i2v.txt",
+      "motionPromptSha256": "f223ea7058f2eab1c7533b3924e607d9ab9821363cbb94580ad8731733b0fdcc",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-machine-shoulder-mili-71dc7774-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_0f3e9b489bfe4078",
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "shot": "r9-open-thigh-adductor-933feed1-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-thigh-adductor-933feed1-start/attempt_0f3e9b489bfe4078.jpg",
+      "outputSha256": "45dc5db7fb474144e5edf70857ba0183f2c86d8302a86868cdde14fff9ba9bf1",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:18:42+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both thighs begin spread, with resistance pads positioned inside the knees and feet supported on the attached bars.",
+        "Both working pad assemblies visibly join rigid arms around the central pivot, leaving room for the thighs to close.",
+        "The seated pelvis and back are supported; orange includes the visible inner-thigh muscle regions."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The body is smoother than the fibrous reference style, while highlighted muscle shapes remain clear.",
+        "Orange extends over substantial anterior thigh as well as the medial adductor region; this is disclosed secondary coloring rather than isolated activation intensity.",
+        "The far hand and some inside-pad surfaces are naturally occluded."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-thigh-adductor-933feed1-start/attempt_0f3e9b489bfe4078.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Thighs open \u2192 draw both knees inward against the inner-thigh pads \u2192 return to the original open width.",
+        "mustPreserve": [
+          "Inside-thigh pad contact",
+          "Feet on attached bars",
+          "Seated and back support",
+          "Fixed central pivot and rigid arms"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-thigh-adductor-933feed1-motion-attempt_0f3e9b489bfe4078-reviewed-i2v.txt",
+      "motionPromptSha256": "8d1d766590f793f619eac69aae1ed957b28a9c16efad797f29b6a1f2d5ad0bf9",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-thigh-adductor-933feed1-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_cd705c1452d54adb",
+      "exerciseId": "open_machine_triceps_exten_c66a3615",
+      "shot": "r9-open-machine-triceps-exten-c66a3615-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-machine-triceps-exten-c66a3615-start/attempt_cd705c1452d54adb.jpg",
+      "outputSha256": "bc59e2819a77d223757afe5f18a008a669e91dd51679e729dd71498fbef3b05b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:24:09+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The arms begin nearly extended with the backs of the upper arms supported on the pad and hands holding connected handles.",
+        "The prominent rotor center appears above and behind the visible elbow line in this oblique view. The image does not clearly establish that the supported elbows and rigid handles can share the required flexion arc; near/far projection and hidden linkage remain uncertain.",
+        "A free source-clarity repair should expose the actual elbow-aligned pivot and full forearm arc before judging the paid movement."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "Orange posterior-lateral upper-arm regions and the seated support are otherwise usable; the requested repair is limited to machine geometry.",
+        "Oblique projection does not establish an impossible machine; this is a source-clarity hold, not a definitive hidden-linkage diagnosis."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-machine-triceps-exten-c66a3615-start/attempt_cd705c1452d54adb.jpg"
+      ],
+      "correctionPrompt": "Edit this exact image into a mechanically coherent seated Machine Triceps Extension starting reference. Preserve the mannequin, gray anatomical material, orange posterior-lateral triceps regions, shorts, seat, planted feet, upper-arm pad and nearly straight starting elbows. Correct ONLY the working machine geometry: move the center of the large side rotor down and forward until its axle is aligned with the far elbow joint at the lower edge of the upper-arm support. The machine axle must run through the same transverse line as BOTH elbow joints. Join each existing hand grip to a rigid lever rotating around that elbow-aligned axle. The grip-to-pivot distance must equal the user's forearm length. The handles must have unobstructed room to rotate upward toward the shoulders while the upper arms and elbows remain stationary on the pad. Show both real hand grips clearly connected to these levers. No second pivot above the elbow line, no detached or flexible lever, no additional cable passing through the body. Keep the same side three-quarter camera and full body framing, with no text or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-machine-triceps-exten-c66a3615-start-after-attempt_cd705c1452d54adb-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion.",
+      "evidenceAmendmentNote": "Clarified limits of static projection and equipment-drive mismatch after independent editorial review; status unchanged."
+    },
+    {
+      "attemptId": "attempt_c999dbc239d743da",
+      "exerciseId": "open_standing_leg_curl_cb499e0c",
+      "shot": "r9-open-standing-leg-curl-cb499e0c-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-leg-curl-cb499e0c-start/attempt_c999dbc239d743da.jpg",
+      "outputSha256": "209b4b32073c91fe3556824477c530335d30aca1d7ee7e522b0872a01084b214",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:20:58+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "One working knee is flexed near 90 degrees with a roller contacting the back of the lower calf; the opposite foot is planted on the fixed step.",
+        "The working thigh contacts the front support, both hands grip supports and the torso maintains a modest forward lean.",
+        "The posterior working-thigh hamstring region is orange and the lower-leg sweep is visible with room to extend."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The full roller linkage near the knee is partly occluded by the working thigh; actual motion must keep that linkage stable and the pad contact continuous.",
+        "The source shows only one side, so text guidance must retain the per-side repetition convention."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-leg-curl-cb499e0c-start/attempt_c999dbc239d743da.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Flexed working knee \u2192 lower the heel by straightening the knee \u2192 curl back to the same flexed endpoint.",
+        "mustPreserve": [
+          "Working thigh on support",
+          "Roller on posterior lower calf",
+          "Opposite planted foot",
+          "Hands on supports",
+          "Steady hip and torso"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-standing-leg-curl-cb499e0c-motion-attempt_c999dbc239d743da-reviewed-i2v.txt",
+      "motionPromptSha256": "4f9538fa2646ff7b78c8033b221324413173f6ee50564ffffd5969257e2bac28",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-standing-leg-curl-cb499e0c-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_b2a1349ac7c84fa7",
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_b2a1349ac7c84fa7.jpg",
+      "outputSha256": "9300817813e781dc0d5d72f38e5b15b71cd873b6382e2f440a82141e1c52b6ad",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:20:58+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin is already tall in the standing working position, with long elbows, lowered shoulders and both feet planted.",
+        "Both hands visibly hold handles continuously attached to the plate-loaded machine arms.",
+        "The upper trapezius region is orange and both shoulder/handle paths have room for a modest vertical shrug."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "Some pivot connections are outside or behind the near frame members; the delivered movement must preserve rigid plausible linkage rather than inventing a new machine.",
+        "The lower front neck stays gray while the lateral upper-trapezius region glows."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_b2a1349ac7c84fa7.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Shoulders naturally lowered \u2192 shoulders shrug upward with long elbows \u2192 same lowered shoulders.",
+        "mustPreserve": [
+          "Continuous handle grips",
+          "Long elbows",
+          "Fixed knees and hips",
+          "Planted feet",
+          "Rigid loaded levers"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-leverage-shrug-33bef3fa-motion-attempt_b2a1349ac7c84fa7-reviewed-i2v.txt",
+      "motionPromptSha256": "a53fffb4ba52cd612bbdd4ff1d0c4053e3472efabaed229b9f11c6ddb5025e02",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-leverage-shrug-33bef3fa-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_5b4b08f43efa499e",
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_5b4b08f43efa499e.jpg",
+      "outputSha256": "5eddab453c4b5d5bba195eff94b66fe3e5084fa386274cf03e15229c80c09dd5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:20:58+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The high calf-raise pose has raised heels, long softly extended knees, machine grips and visible posterior-calf orange.",
+        "Both forefeet are placed well inside a large solid platform, leaving the heels above solid material. This prevents the catalog's lowered heel stretch with heels extending off the calf block.",
+        "Keep the body and machine, but give both heels a genuinely unobstructed descent behind a narrow forefoot ledge."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_5b4b08f43efa499e.jpg"
+      ],
+      "correctionPrompt": "Edit this exact Standing Machine Calf Raise reference. Preserve the mannequin's raised-heel posture, anatomy, orange posterior calves, shoulder-pad contact, hand grips, machine and camera. Correct the foot platform only: replace the deep solid box underneath the whole feet with a NARROW rigid raised calf ledge supporting just the balls of both feet and toes. Its rear edge must pass immediately behind both forefoot contact patches. Remove all platform material directly below both heels so the heels clearly hang over open air and can descend below the forefoot support height. Both balls of the feet remain securely planted on the ledge and the heels remain raised in this starting still. Keep knees softly extended, torso tall and both shoulders under the padded load. Show the complete narrow ledge, its stable support, both feet and empty heel-clearance space. No text, arrows or new equipment.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-standing-calf-raises-6f81c277-start-after-attempt_5b4b08f43efa499e-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_035ce4c9bae54bfe",
+      "exerciseId": "open_seated_leg_curl_f6ac64a8",
+      "shot": "r9-open-seated-leg-curl-f6ac64a8-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-seated-leg-curl-f6ac64a8-start/attempt_035ce4c9bae54bfe.jpg",
+      "outputSha256": "226660207217a17fd92e6bc1030b2fe41056c72485e7a66ed1ad930f9a97920d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:20:58+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The lap pad secures the thighs and the back is supported, with orange visible along posterior-lateral thigh.",
+        "The working roller is across the FRONTS of the lower shins and feet rather than beneath the backs of the lower calves. This is the load contact of a leg-extension setup, not the requested seated hamstring curl.",
+        "The replacement must make the lower calves rest on top of the roller and show space to curl the heels down and back."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-seated-leg-curl-f6ac64a8-start/attempt_035ce4c9bae54bfe.jpg"
+      ],
+      "correctionPrompt": "Correct this image to a SEATED HAMSTRING CURL machine reference, preserving the seated mannequin, backrest, lap restraint, hand supports, gray material and orange posterior-thigh muscle cue. Keep both thighs horizontal and the knees nearly straight with feet forward. Move the resistance roller from the FRONT of the shins to directly BENEATH the BACKS of the lower calves, a few inches above the heels: both lower calves must visibly rest ON TOP of the padded roller. Leave the entire front of both shins clear. Join the roller to a rigid machine lever with its axis beside the knees and leave open space for the roller and heels to sweep down and back toward the seat as the knees bend. The lap pad remains pressed above the knees so the thighs cannot lift. Use a slightly clearer side three-quarter view if necessary to make the calf-on-top-of-roller contact unmistakable. Keep the primary orange on the posterior thighs, not the front quadriceps. No text or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-seated-leg-curl-f6ac64a8-start-after-attempt_035ce4c9bae54bfe-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_53b2008e415d41d9",
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_53b2008e415d41d9.jpg",
+      "outputSha256": "73c20f8eb193b2f77dcb73c77797a4e02c4d983519c6ea739778e0fa4ba3fffe",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:24:09+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The source has recognizable connected press levers, lower-chest grips, supported seating and localized orange chest muscles.",
+        "The forward hand extension would approach the left frame edge; a clearer three-quarter view with more forward clearance is needed to show the whole decline press path.",
+        "The visible drive is a weight stack rather than catalog plates. That alone is not a movement rejection; while widening the source, use the catalog plate setup if practical."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "A static oblique view cannot prove the final lever trajectory. The corrected source should make its forward/slightly downward path readable without relying on hidden linkage assumptions."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_53b2008e415d41d9.jpg"
+      ],
+      "correctionPrompt": "Edit this into the catalog's PLATE-LOADED Leverage Decline Chest Press reference. Keep the gray anatomical mannequin, orange pectoral muscles, seated support, planted feet and bent-elbow lower-chest starting grip. Replace the weight-stack drive with visible round weight plates on load pins rigidly joined to the two pressing lever arms. The fixed pivots and arm geometry must guide the handles FORWARD and slightly DOWNWARD relative to the supported torso, with no overhead press trajectory. Every held grip must clearly connect to its own rigid loaded lever. Use a slightly wider side three-quarter composition within the portrait frame, showing enough empty space in front of BOTH hands for nearly straight elbows without touching the image edge. Both handles begin beside the lower chest, just clear of resting stops. Keep back and pelvis supported. No movement arrows, ghost positions, labels or extra handles.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-leverage-decline-ches-adfbca13-start-after-attempt_53b2008e415d41d9-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion.",
+      "evidenceAmendmentNote": "Clarified limits of static projection and equipment-drive mismatch after independent editorial review; status unchanged."
+    },
+    {
+      "attemptId": "attempt_53c8a5ed45d445fe",
+      "exerciseId": "open_leverage_incline_ches_0c70165e",
+      "shot": "r9-open-leverage-incline-ches-0c70165e-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-incline-ches-0c70165e-start/attempt_53c8a5ed45d445fe.jpg",
+      "outputSha256": "600dcbfe204ab4b3cdd1a649cc42dfd676e09e79a5ebf05edbb34e6ab6d84e2f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:22:59+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both hands hold connected plate-loaded press handles at upper-chest height, with feet planted and back supported.",
+        "A large translucent orange duplicated lever/arm shape crosses the working arm and torso. This is an ambiguous ghost overlay rather than anatomical muscle involvement.",
+        "Remove the ghost graphic and keep the solid real equipment and single pair of arms before animation."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-incline-ches-0c70165e-start/attempt_53c8a5ed45d445fe.jpg"
+      ],
+      "correctionPrompt": "Clean this exact Leverage Incline Chest Press reference while preserving its pose and real machine. Remove ALL translucent orange ghost arms, duplicate lever positions and arrow-like overlays crossing the mannequin and the right press lever. There must be exactly two solid mannequin arms and two solid connected working press levers, each with one actual closed hand grip. The ONLY orange is on the anatomical pectoral muscle bellies, including upper chest; all machine metal and other body parts stay opaque gray or black. Preserve both visible loaded weight pins, upper-chest starting handles, bent elbows, reclined back support, seated pelvis and planted feet. Preserve clear space for both handles to press forward and diagonally upward, never vertically overhead. Fixed portrait three-quarter view, no text, labels, arrows or ghost positions.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-leverage-incline-ches-0c70165e-start-after-attempt_53c8a5ed45d445fe-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_8601af56ffa74b90",
+      "exerciseId": "open_one_legged_cable_kick_20e79891",
+      "shot": "r9-open-one-legged-cable-kick-20e79891-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-one-legged-cable-kick-20e79891-start/attempt_8601af56ffa74b90.jpg",
+      "outputSha256": "a3da4d3dcce00b7b6be1041e7fc9098ed607450360cc6d88aae4255019b68cbb",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:22:59+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working ankle cuff has one clear cable connection to a front low pulley, the opposite foot is planted and orange glute regions are visible.",
+        "The working knee is bent roughly 90 degrees, giving a leg-curl silhouette rather than the catalog's slightly bent knee held steady through hip extension.",
+        "The far support hand is cut by the right image edge. A wider view should preserve both real support contacts and the entire hip-driven movement path."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "A bent-knee hip extension can be a real variation; the repair is to match this catalog movement's slight knee bend and make its distinction from a curl clear."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-one-legged-cable-kick-20e79891-start/attempt_8601af56ffa74b90.jpg"
+      ],
+      "correctionPrompt": "Edit this exact One-Legged Cable Kickback reference to match its catalog form. Preserve the same cuffed working leg, single low-pulley cable, planted support foot, square pelvis, mild torso hinge, gray anatomical style and orange working glute. Straighten the working knee from its deep curl to a SOFT SLIGHT bend, about 15 degrees from straight, while keeping the whole working thigh modestly behind the hip and its foot off the floor. This is a hip-extension starting endpoint, not a knee curl. The calf should continue almost along the thigh instead of folding up toward it. Keep the single ankle cuff and cable on that same leg, connected to the existing front LOW pulley. Slightly widen the portrait composition to include BOTH closed support hands on the frame and all feet, cuff and cable attachment. Keep the torso and pelvis neutral without a lumbar arch. No extra cuffs, cables, limbs, labels or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-one-legged-cable-kick-20e79891-start-after-attempt_8601af56ffa74b90-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_b339c9c721d74ac7",
+      "exerciseId": "open_standing_cable_chest__ddb29d76",
+      "shot": "r9-open-standing-cable-chest--ddb29d76-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-cable-chest--ddb29d76-start/attempt_b339c9c721d74ac7.jpg",
+      "outputSha256": "ebf75e5b0a6b14c71d1c13dbc5ce720da3ac6912e41eabd1307a2b376ba1010f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:22:59+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The source has chest muscle coloring and a staggered stance, but both hands are visibly open rather than gripping the handles.",
+        "The handles float across the wrists/forearms, so the required hand-equipment connection is absent.",
+        "The cable origins are substantially above the shoulders rather than the catalog's chest-height pulleys."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-cable-chest--ddb29d76-start/attempt_b339c9c721d74ac7.jpg"
+      ],
+      "correctionPrompt": "Portrait 9:16 Anatomical 3D reference still for a standing Cable Chest Press. One silver-gray muscle-fiber mannequin in charcoal shorts, gray studio and soft lighting. Only the pectoral muscle bellies glow orange. Show a fixed side three-quarter view of a stable staggered stance one step IN FRONT of a dual cable station. Both pulley outlets are at MID-CHEST HEIGHT, behind the body. Both elbows are bent and each CLOSED HAND firmly wraps around the center grip of exactly one D-handle beside the chest. Clearly show the fingers encircling each actual grip. Each handle's single clip connects to exactly one taut cable leading backward to its own chest-height pulley. No dangling handle over a wrist, no open hand and no high pulley. Back remains neutral, shoulders controlled and feet planted. Leave generous empty space ahead of both hands for a forward press to nearly straight elbows. Include both real hand grips, both cable runs and both feet inside the frame. No motion, labels, arrows or duplicated equipment.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-standing-cable-chest--ddb29d76-start-after-attempt_b339c9c721d74ac7-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_ae2f1958a92646bb",
+      "exerciseId": "open_machine_triceps_exten_c66a3615",
+      "shot": "r9-open-machine-triceps-exten-c66a3615-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-machine-triceps-exten-c66a3615-start/attempt_ae2f1958a92646bb.jpg",
+      "outputSha256": "e30fb7aaafd67be3d9beb08bd5efa9e9fa867787c692ff8cdc82a0b08b59952b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:25:28+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The revised image makes a single transverse axle readable beside the supported elbow line, with the handle levers visibly joined to it.",
+        "Both elbows are nearly extended, both hands grip connected handles, and the backs of the upper arms rest against the sloped support.",
+        "The seated pelvis and feet are supported, with orange posterior-lateral upper-arm muscle regions visible and space to bend the forearms toward the shoulders."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The oblique drawing still overlaps the visible axle and elbow silhouettes; actual video must demonstrate stable supported elbows and unobstructed forearm arcs rather than passing through the shaft.",
+        "Orange also includes a narrow anterior upper-arm region; the posterior-lateral triceps remains clearly indicated."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-machine-triceps-exten-c66a3615-start/attempt_ae2f1958a92646bb.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Nearly extended supported elbows \u2192 bend the forearms toward the shoulders \u2192 extend back to the same starting position.",
+        "mustPreserve": [
+          "Upper arms and elbows stationary on pad",
+          "Closed handle grips",
+          "Rigid lever/axle geometry",
+          "Seated pelvis and planted feet",
+          "Posterior-lateral triceps cue"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-machine-triceps-exten-c66a3615-motion-attempt_ae2f1958a92646bb-reviewed-i2v.txt",
+      "motionPromptSha256": "ac27c821c7bf74f8b85a0bdab1e7b83a3b0f9113da9b4a26d27fa5392055bbf7",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-machine-triceps-exten-c66a3615-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_bf8020d025f341ec",
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_bf8020d025f341ec.jpg",
+      "outputSha256": "a32a33f293bd97168a6d7265126261c7ac66f0be1d29342530817bf3fcc550b7",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:28:54+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The deep solid box has been replaced with a narrow rigid raised ledge supporting the forefeet, leaving the heels visibly beyond its rear support edge.",
+        "The high starting pose preserves long softly extended knees, hand grips and shoulder-pad contact.",
+        "Both posterior calves are orange and the heels, knees and relevant machine contact remain visible."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The oblique view compresses the ledge depth; the actual delivered movement must show heels lowering through free space without contacting or moving the ledge.",
+        "Part of the outer machine frame is cropped, but working foot, shoulder and grip contacts remain visible."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_bf8020d025f341ec.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Heels high \u2192 lower through the comfortable ankle stretch with forefeet fixed \u2192 raise back to the same high endpoint.",
+        "mustPreserve": [
+          "Fixed forefoot contact on narrow ledge",
+          "Shoulders under loaded pad",
+          "Steady softly extended knees",
+          "Closed grips",
+          "Rigid stationary ledge"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-standing-calf-raises-6f81c277-motion-attempt_bf8020d025f341ec-reviewed-i2v.txt",
+      "motionPromptSha256": "6a728c1e29d4c5256a8d3825809d93375984ab737dcdde3c137cbacfaf94e901",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-standing-calf-raises-6f81c277-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_c043bb8d44de4c6a",
+      "exerciseId": "open_leverage_incline_ches_0c70165e",
+      "shot": "r9-open-leverage-incline-ches-0c70165e-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-incline-ches-0c70165e-start/attempt_c043bb8d44de4c6a.jpg",
+      "outputSha256": "e0567d3a5fac987a3ec191248f1774ed80c5ac9667ce37b1b745f4752ca4362a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:28:54+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The translucent orange ghost graphic has been removed; the image now shows only two solid arms and the actual connected machine levers.",
+        "Hands are closed on upper-chest-height handles, with plate loads and rigid lever connections visible.",
+        "Back and pelvis are seated/supported, feet planted, chest muscles orange, and there is forward/upward movement room."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The portrait framing naturally crops distant nonworking frame edges; the actual hand and elbow path must remain fully visible."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-incline-ches-0c70165e-start/attempt_c043bb8d44de4c6a.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Bent elbows with handles beside upper chest \u2192 press forward and upward until nearly straight \u2192 return to source grip height.",
+        "mustPreserve": [
+          "Closed grips on two actual handles",
+          "Solid connected plate-loaded levers",
+          "Supported back and pelvis",
+          "Planted feet",
+          "Pectoral orange"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-leverage-incline-ches-0c70165e-motion-attempt_c043bb8d44de4c6a-reviewed-i2v.txt",
+      "motionPromptSha256": "8ab1d68a325eaa2c233191e9cd30f5a4a73411bfa3ff83d36437ce6137a23546",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-leverage-incline-ches-0c70165e-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_03002cff712041ab",
+      "exerciseId": "open_seated_leg_curl_f6ac64a8",
+      "shot": "r9-open-seated-leg-curl-f6ac64a8-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-seated-leg-curl-f6ac64a8-start/attempt_03002cff712041ab.jpg",
+      "outputSha256": "d08c8fedb07186a9259caf8c8161db374b59c410152bf7641be73a8f8127883e",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:28:54+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The replacement still places the resistance roller over the front of the lower shins rather than under the posterior calves.",
+        "The key wrong load-contact geometry survives the edit, so this source would continue to encourage a leg extension.",
+        "A fresh clean side view is needed with visibly straight forward legs resting on top of the calf roller."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-seated-leg-curl-f6ac64a8-start/attempt_03002cff712041ab.jpg"
+      ],
+      "correctionPrompt": "Create a NEW side-view Anatomical 3D still of a seated HAMSTRING CURL machine. A silver-gray muscle-fiber mannequin sits facing RIGHT, back supported, thighs horizontal, both knees nearly straight, both lower legs extending HORIZONTALLY forward to the right. A lap pad presses DOWN on the thighs just above the knees. A SECOND cylindrical roller is BELOW the back of the lower calves, just above the heels: the calf undersides REST ON TOP OF this roller. Show a clear visible gap above the fronts of the shins; nothing rests on top of the shins. The toes point forward and the roller is visibly underneath the nearly horizontal legs. Its rigid support arm connects to a knee-height side pivot and has open space below the knees for heels and roller to sweep DOWN and BACK under the seat. Hands hold side supports, pelvis stays seated. Orange anatomical muscle fibers appear along the posterior-lateral thighs; all front quadriceps stay gray. Use a simple recognizable seated leg-curl machine, quiet gray studio, volumetric 3D lighting and an unobstructed true side three-quarter portrait composition. No leg-extension pad in front of the shins, no bent-down start, no text or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-seated-leg-curl-f6ac64a8-start-after-attempt_03002cff712041ab-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_f3d387b9aeb14f57",
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_f3d387b9aeb14f57.jpg",
+      "outputSha256": "5cafc96034a293c58bd92a58cd89090994b276f7c3b2b23466fa4022584f77ee",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:28:54+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The new composition shows a connected plate-loaded machine, clear grips and improved forward space.",
+        "Its heavy outlines and flat illustrated shading replace the approved volumetric Anatomical 3D video style.",
+        "Preserve the clearer pose and machine composition while rendering them as solid 3D materials under studio lighting."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The equipment-drive difference is no longer the concern. Actual decline press path still requires independent video review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_f3d387b9aeb14f57.jpg"
+      ],
+      "correctionPrompt": "Rerender the EXACT pose, camera composition and connected machine in this reference as a high-quality VOLUMETRIC ANATOMICAL 3D scene, matching the approved SpotBot style. Replace the comic outlines, flat illustration and white cutout background with silver-gray sculpted muscle fibers, matte charcoal shorts, solid dark-gray metal, realistic black weight plates, a gray studio background and soft physically shaded lighting with contact shadows. Remove all black ink contour strokes. Keep only the pectoral muscle bellies glowing orange. Preserve both closed grips beside the lower chest, bent elbows, supported back and pelvis, planted feet, visible plate-loaded lever connections, and the clear forward movement space. The machine's path should guide a forward and slightly downward decline press relative to the torso. Do not add ghost poses, arrows, labels, text or change body proportions.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-leverage-decline-ches-adfbca13-start-after-attempt_f3d387b9aeb14f57-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_3c5aba6eb2954529",
+      "exerciseId": "open_standing_cable_chest__ddb29d76",
+      "shot": "r9-open-standing-cable-chest--ddb29d76-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-cable-chest--ddb29d76-start/attempt_3c5aba6eb2954529.jpg",
+      "outputSha256": "41d48a1fc6f3892ea54475e0f3afd0744c4fb629d8831e36d7c7c94884343ac8",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:30:17+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both hands now close around actual D-handle grips, with exactly one visible cable attachment to each handle.",
+        "The mannequin holds a stable staggered stance, bent elbows and a neutral torso, with clear forward hand space.",
+        "Both pectoral muscle bellies are orange and the camera shows the elbow path and cable loading direction."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The visible pulley is near shoulder level rather than exactly mid-chest, and the other pulley origin is outside the crop; both cables visibly lead back toward the station. This modest setup difference is not a separate-movement rejection.",
+        "The source elbows are relatively close to the ribs and the rear heel is lightly raised. Preserve that stance without forcing a wide-elbow position.",
+        "Actual motion must maintain closed grips and avoid clipping the farther hand at extension."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-cable-chest--ddb29d76-start/attempt_3c5aba6eb2954529.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Bent elbows with handles in front of the lower chest \u2192 press forward to nearly straight elbows \u2192 return to source position.",
+        "mustPreserve": [
+          "Both closed D-handle grips",
+          "Exactly one cable per handle",
+          "Stable staggered feet and torso",
+          "Pectoral orange",
+          "Full hand path inside frame"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-standing-cable-chest--ddb29d76-motion-attempt_3c5aba6eb2954529-reviewed-i2v.txt",
+      "motionPromptSha256": "013497845529ca8da6b8c894681c54eae8c590e7b94851f955b9dc70adef5783",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-standing-cable-chest--ddb29d76-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_4285ddeff5af473b",
+      "exerciseId": "open_one_legged_cable_kick_20e79891",
+      "shot": "r9-open-one-legged-cable-kick-20e79891-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-one-legged-cable-kick-20e79891-start/attempt_4285ddeff5af473b.jpg",
+      "outputSha256": "754ae01a32a4c0e1bfdb732e47291fb6773268b5c93eb7636f0658408d056be5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:30:17+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The replacement retains almost the same deeply flexed working knee as the rejected source rather than the requested slight knee bend.",
+        "The far support grip is still cropped at the right edge.",
+        "A fresh source should show the cuffed leg nearly straight behind the hip and both support hands, avoiding further edits anchored to this curled pose."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "This is a catalog-pose and grip-visibility correction; bent-knee hip extension itself is not declared invalid."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-one-legged-cable-kick-20e79891-start/attempt_4285ddeff5af473b.jpg"
+      ],
+      "correctionPrompt": "Create a NEW Anatomical 3D reference still for One-Legged Cable Kickback, portrait 9:16. Silver-gray muscle-fiber mannequin in charcoal shorts, gray studio, soft volumetric lighting. A single ankle cuff is fastened to the RIGHT ankle. The RIGHT thigh extends a modest 15 degrees backward from the hip and the entire RIGHT leg is almost straight, with only a soft 10\u201315 degree knee bend. The calf continues nearly in line with the thigh; the heel is low behind the body, NOT folded up toward the buttock. Keep the cuffed foot off the floor. The LEFT leg bears the body weight with its foot planted. Both CLOSED HANDS hold a fixed cable-station support in front of the body; show both hands entirely inside frame. Torso leans forward slightly with a neutral spine and square pelvis. Exactly one taut cable connects the RIGHT cuff to one visible front LOW pulley. Orange anatomical muscle fibers indicate the right gluteal region through a shaped shorts overlay; front thigh and groin stay gray and opaque. Use a wider rear-side three-quarter composition showing the whole body, both support grips, both feet, cuff, low pulley and clear space to bring the working leg forward under the hip. No bent-knee curl, raised heel near the buttock, extra cuffs, text or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-one-legged-cable-kick-20e79891-start-after-attempt_4285ddeff5af473b-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_fb6f360ba0e64422",
+      "exerciseId": "open_one_arm_high_pulley_c_13c8cfb4",
+      "shot": "r9-open-one-arm-high-pulley-c-13c8cfb4-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-one-arm-high-pulley-c-13c8cfb4-start/attempt_fb6f360ba0e64422.jpg",
+      "outputSha256": "0a65c0bb24c462ce63fdc50129ba4731ad5c520c1c937702b9edc43547f9b89d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:31:35+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual working hand remains beside the image-right temple with its elbow bent, holding one D-handle.",
+        "One clear taut cable now leads UP and right from that handle to the HIGH pulley, outside the head silhouette; the previous low-cable connection is gone.",
+        "The mannequin has ordinary two-arm anatomy, planted feet and an upright torso with visible orange oblique regions, plus room to bend away from the tower."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The source is smoother and less luminous than some prior Anatomical 3D references, but its gray anatomy and orange side-abdominal muscle regions remain legible.",
+        "Only one side is demonstrated; the catalog text retains its per-side instruction."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-one-arm-high-pulley-c-13c8cfb4-start/attempt_fb6f360ba0e64422.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Upright beside the high pulley \u2192 controlled trunk bend away toward image-left \u2192 return upright.",
+        "mustPreserve": [
+          "Working hand beside temple",
+          "Bent elbow angle",
+          "Single high cable clear of head",
+          "Steady hips and planted feet",
+          "Orange oblique cue"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-one-arm-high-pulley-c-13c8cfb4-motion-attempt_fb6f360ba0e64422-reviewed-i2v.txt",
+      "motionPromptSha256": "3bd9638d0599dd7a9d89803c0bff3a161bd74a7e0553e3f9edce728a4bf2276a",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-one-arm-high-pulley-c-13c8cfb4-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_31c45172c97d4485",
+      "exerciseId": "open_seated_leg_curl_f6ac64a8",
+      "shot": "r9-open-seated-leg-curl-f6ac64a8-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-seated-leg-curl-f6ac64a8-start/attempt_31c45172c97d4485.jpg",
+      "outputSha256": "78feede4380d4bc61ecd16046054b4f8353953212fdedae30e383f4d9470b9bf",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:33:23+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The new side view shows nearly straight horizontal legs, a separate lap restraint, stable seating and enough space for knee flexion.",
+        "The cylindrical ankle roller is still ABOVE the shins, pressing on their front surfaces. The backs of the lower calves are unsupported below it, so this remains the wrong resistance contact for a seated curl.",
+        "The clearer geometry permits a narrowly targeted edit: move that exact cylinder below the lower calves while preserving the rest of the source."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "Orange includes posterior thigh and substantial anterior thigh/calf. The geometry repair should also gray out the front quadriceps to avoid reinforcing the wrong movement."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-seated-leg-curl-f6ac64a8-start/attempt_31c45172c97d4485.jpg"
+      ],
+      "correctionPrompt": "Edit this exact side-view image with TWO precise corrections only. First, move the single gray cylindrical roller currently ABOVE the ankles DOWN to the underside of the lower calves. In the current image the cylinder center is around 85% of image width and 53% of image height; put its center at about the same horizontal position but around 60% of image height, BELOW the legs. The TOP curved surface of the cylinder must touch the BOTTOM surfaces of both lower calves just above the heels. Neither shin may be covered from above. Erase the old cylinder above the shins and reconnect the SAME rigid lever arm to the relocated roller so it rotates around the existing knee-height pivot. Keep the thighs and knees in their current nearly straight horizontal position. The small upper lap pad remains pressing down on the thighs and must NOT move. Second, make the front quadriceps and front shins gray; retain orange only on the visible posterior-thigh hamstrings. Preserve the seat, torso, hands, feet, camera and full gray 3D scene. There must be exactly two pads: upper restraint on thighs, lower working roller beneath calves. No text or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-seated-leg-curl-f6ac64a8-start-after-attempt_31c45172c97d4485-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_4102a2d7d7c24b8d",
+      "exerciseId": "open_one_legged_cable_kick_20e79891",
+      "shot": "r9-open-one-legged-cable-kick-20e79891-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-one-legged-cable-kick-20e79891-start/attempt_4102a2d7d7c24b8d.jpg",
+      "outputSha256": "34ef15c5d5e91f2c78492203a6eee4788e33784298cc3fdc66f596e39682af11",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:34:53+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The cuffed working leg is now nearly straight with a soft knee bend and its foot held modestly behind the hip, instead of curled toward the buttock.",
+        "Both hands visibly grip the support, the opposite foot is planted, and one cuff cable leads to the front low pulley.",
+        "The gluteal muscle regions are orange and the source has space for the working leg to come forward under the hip and return."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "Orange includes both glutes and posterior thighs, including the planted leg, rather than isolating only the working glute. These are plausible involved/stabilizing regions and do not override the clear primary cue.",
+        "The source is a rear view with mild torso rotation toward the support. Actual motion must keep the pelvis steady and avoid twisting farther."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-one-legged-cable-kick-20e79891-start/attempt_4102a2d7d7c24b8d.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Cuffed leg slightly behind hip \u2192 bring that nearly straight leg forward under the hip \u2192 extend back to the same rear endpoint.",
+        "mustPreserve": [
+          "Same single cuff and low cable",
+          "Slight knee bend held constant",
+          "Both support grips",
+          "Planted opposite foot",
+          "Steady pelvis and torso"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-one-legged-cable-kick-20e79891-motion-attempt_4102a2d7d7c24b8d-reviewed-i2v.txt",
+      "motionPromptSha256": "2589370353932971c4424f0b3017d0e6f19d862f0e8c253f75d642455dd41bb3",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-one-legged-cable-kick-20e79891-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_5719df1bb4e54740",
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_5719df1bb4e54740.jpg",
+      "outputSha256": "243f5e7a48c55c1be1fd098821eaa58e4f1f68b77699ff75041bb199a857687d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:34:53+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The outlined illustration has been replaced with volumetric gray anatomical rendering, studio shading and visible orange pectoral muscles.",
+        "Both hands grip connected loaded levers, with back and pelvis seated/supported and feet planted.",
+        "The lower-chest start and wider composition leave more room for forward hand extension than the original source."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The exact slightly downward decline path and full hand clearance must be confirmed in the delivered video; a static oblique view alone does not prove the mechanism's movement.",
+        "The facial surface is smoother than the muscle-fiber torso, an acceptable minor material difference."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_5719df1bb4e54740.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Bent elbows and lower-chest handles \u2192 forward/slightly downward press to nearly straight elbows \u2192 same supported start.",
+        "mustPreserve": [
+          "Closed grips on two connected levers",
+          "All weight plates fixed to their pins",
+          "Supported back and pelvis",
+          "Planted feet",
+          "Pectoral orange"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-leverage-decline-ches-adfbca13-motion-attempt_5719df1bb4e54740-reviewed-i2v.txt",
+      "motionPromptSha256": "3762fd4842b21cacd13a9578bc3d2a12b79b25ca8829198ac7ac8c1bd5d4d910",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-leverage-decline-ches-adfbca13-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_f6d0d670e4b4485b",
+      "exerciseId": "open_seated_leg_curl_f6ac64a8",
+      "shot": "r9-open-seated-leg-curl-f6ac64a8-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-seated-leg-curl-f6ac64a8-start/attempt_f6d0d670e4b4485b.jpg",
+      "outputSha256": "4156be472800a1774182129b529e934e8b674f7e6bc41353a5611638a5eec617",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:40:28+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The working cylinder is now beneath the lower calves, with its upper curved surface contacting their backs and the front shins clear.",
+        "The lap restraint remains above the thighs, knees are nearly straight in the forward start, and the supported body has room for the heels to sweep down/back.",
+        "The posterior thighs remain orange while the prominent front-quadriceps coloring has been removed."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The roller's connecting lever is largely occluded by the extended legs in this side projection. Actual video must reveal a stable connected knee-centered arc; a detached or floating roller would fail.",
+        "Orange also extends along posterior lower-leg muscles. Primary hamstring involvement is clearly visible; these secondary regions are disclosed.",
+        "Only the nearer side handle grip is fully visible."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-seated-leg-curl-f6ac64a8-start/attempt_f6d0d670e4b4485b.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Nearly straight forward legs \u2192 curl heels down and back toward the seat \u2192 return to the same nearly straight forward start.",
+        "mustPreserve": [
+          "Roller beneath posterior lower calves",
+          "Lap restraint against thighs",
+          "Back and seated pelvis support",
+          "Stationary thighs",
+          "Knee-centered rigid lever arc"
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-seated-leg-curl-f6ac64a8-motion-attempt_f6d0d670e4b4485b-reviewed-i2v.txt",
+      "motionPromptSha256": "095b80a8d92b3df3a67a1d742c8e63e62721e9a207219ef5122dc0e271d2a1ed",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-seated-leg-curl-f6ac64a8-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_3c059117d29a4d99",
+      "exerciseId": "open_external_rotation_wit_c64eb9a6",
+      "shot": "r9-open-external-rotation-wit-c64eb9a6-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_3c059117d29a4d99.jpg",
+      "outputSha256": "1739167d3530030171bf33dfae0cb8d1f14d40219fb66fd974a75f01000a31b3",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:40:28+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working hand and elbow pose are coherent and the right-side tower remains visible.",
+        "The only hand cable still points off the LEFT image edge, on the same side as the working shoulder, instead of crossing toward the opposite-side right tower.",
+        "That resistance direction does not load the intended outward external rotation. A fresh source should show the outward endpoint with one clearly connected opposite-side load cable."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_3c059117d29a4d99.jpg"
+      ],
+      "correctionPrompt": "Create a NEW Anatomical 3D reference still of RIGHT-arm External Rotation with Cable. Gray muscle-fiber mannequin in charcoal shorts, gray studio and soft lighting. Show the torso mostly front-on and the entire body. The cable tower is on IMAGE RIGHT, on the mannequin's anatomical LEFT side. The working anatomical RIGHT arm is on IMAGE LEFT. Its upper arm hangs vertically against the right ribs and its elbow stays bent exactly 90 degrees. Show the OPEN external-rotation endpoint: the right forearm extends horizontally toward IMAGE LEFT with the hand modestly outside the torso, while the elbow remains glued to the ribs. That closed right hand holds ONE vertical D-handle grip. Its metal attachment faces IMAGE RIGHT. Exactly ONE straight taut cable runs from that handle RIGHTWARD ACROSS THE FRONT of the abdomen to the elbow-height pulley on the IMAGE-RIGHT tower. Show this complete handle-to-pulley path unobstructed; no cable may run from the hand off the left edge. The free left hand rests on the hip below the cable line. Shoulders stay low, torso still and feet planted. Use a subtle anatomical cutaway to show orange posterior-lateral shoulder external-rotator muscle involvement on the working side, with other body areas gray. Leave space for the working hand to rotate inward across the abdomen while the elbow remains fixed. No labels, arrows, second cable, extra grip or overhead pose.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-external-rotation-wit-c64eb9a6-start-after-attempt_3c059117d29a4d99-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_666db2ea48c44b9e",
+      "exerciseId": "open_external_rotation_wit_c64eb9a6",
+      "shot": "r9-open-external-rotation-wit-c64eb9a6-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_666db2ea48c44b9e.jpg",
+      "outputSha256": "1064c470d59fa08f765c9cc1d5ced80034709ca2ce0284b7cfdb8dbf9d5b705a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:23:30+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual anatomical right hand is opened outward on image-left with a bent elbow next to the ribs. Its single D-handle cable crosses the front of the torso to the opposite-side image-right elbow-height pulley; this finally establishes the correct resistance direction.",
+        "The working shoulder on image-left is gray. Orange instead highlights the opposite resting shoulder and nearby side of the torso on image-right, which misleadingly identifies the inactive side as the working region.",
+        "Keep the now-correct handle, cable, pulley, elbow pose and available inward hand sweep. A narrow color-only edit is appropriate before motion; no geometry redesign is needed."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_666db2ea48c44b9e.jpg"
+      ],
+      "correctionPrompt": "Edit ONLY the orange muscle coloring in this exact anatomical image. Preserve every pose, body proportion, hand, D-handle, cable connection, pulley, camera and background pixel arrangement. The ACTIVE ARM holds the handle on the LEFT SIDE OF THE IMAGE. Put a restrained orange involvement cue on that image-LEFT shoulder muscle region, surrounding the upper arm's attachment to the torso. The opposite arm rests its hand on the hip at image-RIGHT: return that entire inactive shoulder, upper arm and adjacent torso to the same gray material as the rest of the body. Leave no orange on image-RIGHT. Do not mirror the image, move the active elbow, reverse the cable, change the grip or introduce labels. This is the same open external-rotation endpoint, with only the correct working-side muscle cue.",
+      "correctionPromptPath": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-external-rotation-wit-c64eb9a6-start-after-attempt_666db2ea48c44b9e-correction.txt",
+      "adoptionNote": "Correct the source image and review the replacement before paid motion."
+    },
+    {
+      "attemptId": "attempt_375c4da373b147b7",
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_375c4da373b147b7.jpg",
+      "outputSha256": "dca579076f5e0a4df6abe2713e4b62fc2623ac1203465ce7577add2dba9a40b0",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:23:30+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both posterior calf muscle bellies are clearly orange. Both full knees are visible with a small, steady-looking bend, and the source is a high bilateral heel raise.",
+        "Both forefeet contact the narrow ledge while both raised heels extend behind it. There is visible empty space for the heels to lower behind the ledge; the former solid-platform obstruction is absent.",
+        "The frame includes pelvis, thighs, knees, complete lower legs, feet and ledge with room for the lower heel endpoint. Some hand support is visible, but head and upper shoulder-pad setup are outside the detail frame."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "This is a lower-body detail. Shoulder-pad setup and the full upper-body posture cannot be verified here and must remain in accompanying form instructions. Actual motion must preserve the visible knees and forefoot contacts."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_375c4da373b147b7.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual high heels with fixed forefeet \u2192 low heels behind ledge with steady knees \u2192 original high heels.",
+        "mustPreserve": [
+          "Unchanged slight knee angles; no squat.",
+          "Both forefeet stay on narrow ledge; both heels lower behind it and fully rise.",
+          "Localized orange posterior calf bellies.",
+          "All working knees, ankles and feet remain visible."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-standing-calf-raises-6f81c277-motion-attempt_375c4da373b147b7-reviewed-6s-i2v.txt",
+      "motionPromptSha256": "23589e94afcfa6f035c0dc8a0990b0d83bbb2db308bce8ca674d3ff15cf05580",
+      "motionPromptVersion": "9.machine-reviewed-calf-detail-6s",
+      "motionShot": "r9-open-standing-calf-raises-6f81c277-motion",
+      "adoptionNote": "Ready for exact-reference six-second I2V detail trial. Review the actual delivered movement independently."
+    },
+    {
+      "attemptId": "attempt_400d217987c64307",
+      "exerciseId": "open_external_rotation_wit_c64eb9a6",
+      "shot": "r9-open-external-rotation-wit-c64eb9a6-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_400d217987c64307.jpg",
+      "outputSha256": "0b89d84c1bb0d085bd809d27603601e6bca8c4a870870091f2b7452200f02eab",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:36:25+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The color-only repair preserves the correct open external-rotation pose: the anatomical right working arm is on image-left, the elbow is bent about 90 degrees beside the ribs, and the hand holds the single outward D-handle.",
+        "The one cable runs from that working handle across the front of the torso to the opposite-side elbow-height pulley on image-right. The load now opposes outward rotation, and the full inward hand sweep has visible space.",
+        "Orange is now on the active image-left shoulder region and the inactive opposite shoulder is gray. Feet and pelvis are stable, the free hand rests on the hip, and the full body and working equipment contacts are visible."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this is not continuous movement evidence, human approval or trainer validation.",
+        "The orange shoulder cue has a broad translucent halo extending into the adjacent upper arm/side of the torso. It identifies the working shoulder region but does not isolate individual rotator-cuff muscles; this is not measured activation intensity.",
+        "The frontal view cannot expose the full posterior rotator-cuff surface. The delivered movement must be reviewed for a pinned elbow and rotation at the shoulder rather than elbow flexion or a side raise."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-external-rotation-wit-c64eb9a6-start/attempt_400d217987c64307.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Actual open outward working hand on image-left \u2192 hand rotates inward across the front of the torso with elbow pinned \u2192 same outward hand endpoint.",
+        "mustPreserve": [
+          "Working anatomical right elbow stays next to the ribs at about 90 degrees.",
+          "Only the forearm rotates inward/outward about the upper arm; no elbow curl, side raise or torso twist.",
+          "One grip, one cable, fixed opposite-side elbow-height pulley.",
+          "Orange stays on the active image-left shoulder; opposite shoulder remains gray."
+        ]
+      },
+      "motionPromptFile": "reports/round-9-preparation/machine-wave3-reviewed/r9-open-external-rotation-wit-c64eb9a6-motion-attempt_400d217987c64307-reviewed-i2v.txt",
+      "motionPromptSha256": "093acf2ee4ec48399f9c5be116077262af23933f976c3087bb98ac5062de69e6",
+      "motionPromptVersion": "9.machine-reviewed-reference-1",
+      "motionShot": "r9-open-external-rotation-wit-c64eb9a6-motion",
+      "adoptionNote": "Ready for exact-reference I2V. Review the actual delivered movement independently."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "attemptId": "attempt_a24f8b0a2dd64b7f",
+  "exerciseId": "ex_pec_deck",
+  "shot": "r6-ex-pec-deck-start",
+  "providerSubmissionReached": false,
+  "reason": "Editor initialization failed at settings-trigger visibility before prompt entry/submission; CLI exited 23 on /about. No prompt_submitted event or provider generation ID. Flow balance unchanged.",
+  "logPath": "reports/form-media/attempt_a24f8b0a2dd64b7f/stderr.log",
+  "logSha256": "b4f7deda3469e89c18007e4d47fea9e2e3220f5a72a2e167875ff077ec691cc4",
+  "balanceBefore": 8856,
+  "balanceAfter": 8856,
+  "balanceObservedAt": "2026-09-15T21:00:18.739Z",
+  "visibleBalanceText": "8,856 Google Flow credits"
+}

@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-3",
+  "reviews": [
+    {
+      "shot": "r3-lat-pulldown-illustrated-motion",
+      "exerciseId": "ex_lat_pulldown",
+      "outputPath": "form-media/assets/delivery/round-3/r3-lat-pulldown-illustrated-motion-d976223c.mp4",
+      "outputSha256": "4f22c574715540201fada781453e7b67b8e78b6d42a78c317f744c77738c31eb",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewer": "Codex — independent motion review",
+      "reviewedAt": "2026-09-10T15:26:46+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Inspected the 8-second master timeline at 2 fps, the delivery timeline, delivery upper-body samples at 4 fps over approximately 1.5–3.5 seconds, and the full-resolution master frame at 2.25 seconds. Master SHA256 afde14cbcea43c40745922e2f5b18075dcc32d11684cecb332a6c365add23927.",
+        "The bar descends once and returns overhead; the seated hips, thigh restraint, shoe support, grip and camera remain stable in the sampled phases. The ivory mannequin and navy kit match Graphic 3D.",
+        "The lowest phase around 2.25–2.75 seconds remains across the mouth/chin region. The bar never visibly clears below the chin toward the upper-chest endpoint; upper arms remain spread roughly horizontally. This makes the intended pulldown range unclear despite otherwise smooth motion.",
+        "Both bar ends and hands stay inside the frame. The return reaches the original near-extended overhead position around 5–6 seconds and holds through the end."
+      ],
+      "limitations": [
+        "Reject as the final instructional motion because the lower endpoint is missing; a trim cannot create the absent range of motion.",
+        "The frontal oblique projection partly overlaps the bar with the face, so these samples do not establish physical penetration or exact joint angles. The failure is the unreadable upper-chest endpoint, not a claim of injury.",
+        "AI editorial review of sampled phases, not every-frame analysis, user acceptance or trainer approval. No derivative or user selection was changed."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_d976223c40a044a8/keyframes.jpg",
+        "reports/form-media/attempt_d976223c40a044a8/master-timeline-2fps.jpg",
+        "reports/form-media/attempt_d976223c40a044a8/bottom-detail-4fps.jpg",
+        "reports/form-media/attempt_d976223c40a044a8/master-bottom-2_25.jpg"
+      ],
+      "trimRecommendation": null
+    },
+    {
+      "shot": "r3-treadmill-walk-illustrated-motion",
+      "exerciseId": "cat_card_treadmill_walking",
+      "outputPath": "form-media/assets/delivery/round-3/r3-treadmill-walk-illustrated-motion-05469431.mp4",
+      "outputSha256": "9451faefd6578675bfe14f022e665e072aa6ef36348912e400df0f430e8d37c2",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex — independent motion review",
+      "reviewedAt": "2026-09-10T15:27:55+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Inspected the complete 8-second master timeline at 2 fps, the delivery overview, and delivery foot/belt contact samples at 4 fps across the full clip. Master SHA256 7f3daeeebc7cc1188966dded39a41cac9a331a2323809142576ba7f37e7e9545; delivery is 720×1280 and 1,185,473 bytes.",
+        "Alternating strides show a supporting shoe on the belt while the other foot swings forward. Sampled heel contacts, flat-foot support and rear toe-off are coherent; no sampled running flight phase or conspicuous shoe sliding appears.",
+        "The walker remains in the same usable belt area with an upright trunk, mild walking bob and relaxed arms. The complete head, hips, knees and shoes stay visible, and the fixed treadmill geometry remains stable.",
+        "The shirt safety clip and cord remain visibly present toward the console. Near-rail overlap does not hide the leg movement or create an obvious fixed hand attachment. The navy kit and ivory figure follow the selected Graphic 3D treatment."
+      ],
+      "limitations": [
+        "This demonstrates the steady walking phase only. Attaching the clip, choosing a comfortable speed, slowing the belt and stepping off remain in the adjacent canonical Form text.",
+        "Belt texture does not permit a measured belt-speed or exact slip assessment. Far hand/rail overlap and intermediate frames are not fully resolved by these selected samples.",
+        "AI editorial candidate for operator review, not every-frame biomechanical analysis, a prescribed pace, user acceptance or trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_054694312cc8452c/keyframes.jpg",
+        "reports/form-media/attempt_054694312cc8452c/master-timeline-2fps.jpg",
+        "reports/form-media/attempt_054694312cc8452c/foot-contacts-4fps.jpg"
+      ],
+      "trimRecommendation": null
+    },
+    {
+      "shot": "r3-leg-press-illustrated-motion",
+      "exerciseId": "ex_leg_press",
+      "outputPath": "form-media/assets/delivery/round-3/r3-leg-press-illustrated-motion-e05aa841.mp4",
+      "outputSha256": "bed9894ed9c4aafd5bfaa00e4b1b288bc92684a1990df03fecdf684ca48497a5",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewer": "Codex — independent motion review",
+      "reviewedAt": "2026-09-10T15:29:44+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Inspected the 8-second master timeline at 2 fps, the complete delivery timeline at 4 fps, and full-resolution master frames at 3.0, 4.75 and 5.25 seconds. Master SHA256 f0e9b8df59a167fed301e7249690f34a124402e183463585d30c30f2375e5e8c; delivery is 1280×720 and 738,548 bytes.",
+        "The first lowering and press form a useful complete cycle: readable near-extension start, controlled lowering through a substantial knee bend around 2–3 seconds, return to near extension by approximately 4 seconds, and a stable top phase through 4.75 seconds.",
+        "The back pad, seat and floor base stay fixed while the foot-platform sled moves along its diagonal rails. Both soles remain on the same platform, and hips/lower back remain supported. Head, knees, shoes and near-hand contact remain visible; no sampled forceful extension snap appears.",
+        "An unwanted second lowering starts after the first top hold, visibly underway at 5.25 seconds; a second press follows. The raw clip therefore does not meet the one-repetition delivery standard."
+      ],
+      "limitations": [
+        "Use a source-speed 0–4.75-second edit with 0.25-second holds at the actual endpoints to preserve the first full cycle and omit the extra repetition. This recommendation has not itself created or approved a derivative.",
+        "The far hand and hidden sled attachment remain occluded. Exact joint angles, pad pressure and force cannot be measured from this rendered side projection.",
+        "AI sampled-phase editorial review only, separate from user/trainer acceptance. The useful first cycle still requires review of the actual encoded edit before marking that edit a candidate."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_e05aa8410145446d/keyframes.jpg",
+        "reports/form-media/attempt_e05aa8410145446d/master-timeline-2fps.jpg",
+        "reports/form-media/attempt_e05aa8410145446d/delivery-cycle-4fps.jpg",
+        "reports/form-media/attempt_e05aa8410145446d/master-bottom-3s.jpg",
+        "reports/form-media/attempt_e05aa8410145446d/master-phase-4_75.jpg",
+        "reports/form-media/attempt_e05aa8410145446d/master-phase-5_25.jpg"
+      ],
+      "trimRecommendation": {
+        "sourceAttemptId": "attempt_e05aa8410145446d",
+        "startSeconds": 0,
+        "endSeconds": 4.75,
+        "holdSeconds": 0.25,
+        "speed": 1,
+        "reason": "Retain the first complete lowering/press and readable top hold; exclude the second lowering visible at 5.25 seconds."
+      }
+    },
+    {
+      "shot": "r3-leg-press-illustrated-motion",
+      "assetId": "r3-leg-press-illustrated-cycle-v1",
+      "exerciseId": "ex_leg_press",
+      "outputPath": "form-media/assets/delivery/round-3/r3-leg-press-illustrated-cycle-v1.mp4",
+      "outputSha256": "8241e9ba9796e3a7caf0ba064905b13c194a6806e62c295951de13f8d05dd751",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex — independent motion review",
+      "reviewedAt": "2026-09-10T15:33:20+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Reviewed the actual registered authored derivative, including its full 4 fps timeline and final delivered frame. FFprobe measures 5.250000 seconds, 126 frames at 24 fps, 1280×720 H.264, 487,533 video bytes; the poster adds 51,582 bytes.",
+        "The derivative preserves source seconds 0–4.75 at 1× speed, adding a 0.25-second cloned still hold at each actual endpoint. The full first lowering and press remain, while the unwanted second lowering is absent.",
+        "The final delivered pose matches the readable first near-extension return. Hips and back remain supported on the fixed pad; both soles stay on the moving platform; the near-hand grip and all relevant leg joints remain visible.",
+        "The sampled lowering, bottom knee bend and press retain their original sequence, with stable seat, floor base and sled rail context. No sampled equipment/body jump was introduced by the trim. Source master and raw delivery remain preserved."
+      ],
+      "limitations": [
+        "The far hand and hidden sled attachment remain occluded, as in the master. Exact angles, pad pressure and force cannot be measured from this rendered side projection.",
+        "This is a sampled-phase AI editorial candidate for operator review, separate from user acceptance or trainer approval. No user review decision or selected asset was changed."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r3-leg-press-illustrated-cycle-v1/keyframes.jpg",
+        "reports/form-media/r3-leg-press-illustrated-cycle-v1/delivery-cycle-4fps.jpg",
+        "reports/form-media/r3-leg-press-illustrated-cycle-v1/delivery-final-pose.jpg"
+      ],
+      "trimRecommendation": null,
+      "edit": {
+        "sourceAttemptId": "attempt_e05aa8410145446d",
+        "startSeconds": 0,
+        "endSeconds": 4.75,
+        "leadHoldSeconds": 0.25,
+        "tailHoldSeconds": 0.25,
+        "playbackRate": 1,
+        "generationCredits": 0
+      }
+    },
+    {
+      "shot": "r3-lat-pulldown-illustrated-motion",
+      "assetId": "r3-lat-pulldown-illustrated-motion-6d6d68f5",
+      "attemptId": "attempt_6d6d68f5a4444015",
+      "exerciseId": "ex_lat_pulldown",
+      "outputPath": "form-media/assets/delivery/round-3/r3-lat-pulldown-illustrated-motion-6d6d68f5.mp4",
+      "outputSha256": "49f72daf56e76fb599619778546cbaf681c13fe9eb9ce4e0766edf24105eadc1",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewer": "Codex — independent motion review",
+      "reviewedAt": "2026-09-10T15:37:21+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Inspected the registered 8-second delivery overview, full master timeline at 2 fps, delivery upper-body samples at 4 fps over 1.5–4 seconds, delivery return samples at 4 fps over 4.5–8 seconds, and the full-resolution master frame at 2.75 seconds. Master SHA256 9e349d21d5af4bcae7fa7ffc4326aa7a45071bf38ad5d2a7c3a872b3abc570a2; delivery is 720×1280 and 623,263 bytes.",
+        "The corrective 3.1 wording did not produce the intended endpoint: the bar holds across the mouth/chin region around 2–3.5 seconds, rather than visibly below the chin near the upper chest. The jaw remains partly obscured and the elbows do not settle close to the ribs. The exact 2.75-second master frame confirms this is present in the master, not introduced by delivery compression.",
+        "The bar returns overhead around 5 seconds but makes another shallow dip around 6–6.5 seconds before rising again. This is an extra pulse instead of the requested single controlled pull and stable final hold.",
+        "The camera, seated hips, thigh restraint, feet, grip and equipment remain stable in the reviewed phases. Both hands and both bar ends stay visible and the styling remains consistent with the selected Graphic 3D reference."
+      ],
+      "limitations": [
+        "Reject as final instructional motion. A trim could remove the extra pulse but cannot create the missing lower endpoint, so there is no useful complete instructional-cycle trim to recommend.",
+        "Projection overlap does not establish physical bar/face penetration or exact joint angles. The concrete teaching failure is the absent readable below-chin/upper-chest range.",
+        "AI sampled-phase editorial review, separate from operator acceptance or trainer approval. No generation, edit, user selection or user decision was changed."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_6d6d68f5a4444015/keyframes.jpg",
+        "reports/form-media/attempt_6d6d68f5a4444015/master-timeline-2fps.jpg",
+        "reports/form-media/attempt_6d6d68f5a4444015/bottom-detail-4fps.jpg",
+        "reports/form-media/attempt_6d6d68f5a4444015/master-bottom-2_75.jpg",
+        "reports/form-media/attempt_6d6d68f5a4444015/return-detail-4fps.jpg"
+      ],
+      "trimRecommendation": null
+    },
+    {
+      "shot": "r3-lat-pulldown-illustrated-start",
+      "attemptId": "attempt_7c4ebf501152449c",
+      "exerciseId": "ex_lat_pulldown",
+      "outputPath": "form-media/assets/masters/r3-lat-pulldown-illustrated-start/attempt_7c4ebf501152449c.jpg",
+      "outputSha256": "15444d24745f5599db6af892f2371821ba61d8bf3c74600ce72b40792bbcc608",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex — independent motion review",
+      "reviewedAt": "2026-09-10T15:56:54+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Inspected the exact completed 768×1376 JPEG master, 524,475 bytes, and verified its SHA against the settled attempt record.",
+        "The complete bar is now below the whole chin at the base-of-neck/clavicle level near the upper chest, with the jaw readable above it. This is visibly lower than the mouth/chin endpoints in the two rejected Graphic 3D motion attempts.",
+        "Both elbows are clearly below shoulder level with bent arms, plausible wrists and the original symmetric grip. Both hands remain wrapped around the same rigid bar; its center attachment connects to a taut overhead cable.",
+        "The ivory mannequin, navy kit, seated hips, thigh restraint, supported shoes and matte station preserve the original Graphic 3D reference. The torso remains mostly upright rather than swinging backward.",
+        "The fixed portrait preserves both bar ends, all relevant upper-limb joints, seat/pad context and the empty overhead region needed for the planned full release. This reference deliberately shows the lowered endpoint, not the initial exercise setup."
+      ],
+      "limitations": [
+        "The bar is slightly above the navy neckline rather than visibly touching the sternum. Exact bar-to-chest distance is not established; canonical guidance asks for movement toward the upper chest and does not require literal chest contact.",
+        "The front cable/attachment overlaps part of the face in projection. This single view does not prove penetration or exact depth, and that region must remain coherent in motion.",
+        "Readiness applies only to this exact lower-position reference. It does not establish that the generated clip will reach full overhead extension, return accurately, or avoid extra pulses.",
+        "AI editorial assessment only, separate from user acceptance or trainer approval. No manifest selection, user decision or generation was changed."
+      ],
+      "animationReviewFocus": [
+        "Same exact reviewed image anchors the opening and final lower positions; caption explicitly states that the clip starts lowered.",
+        "During the middle phase both arms release under control to a comfortable nearly straight overhead position, with both hands and full bar in frame.",
+        "The bar then returns in front to the same readable below-chin endpoint, without a mouth/chin stop, extra dip or shallow pulse.",
+        "Hips, thigh pad, shoes, torso, cable and unchanged hand contact remain coherent throughout. No reversed footage substitutes for a phase."
+      ],
+      "evidenceFiles": [
+        "form-media/assets/masters/r3-lat-pulldown-illustrated-start/attempt_7c4ebf501152449c.jpg"
+      ],
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r3-lat-pulldown-illustrated-motion",
+      "exerciseId": "ex_lat_pulldown",
+      "reviewerType": "ai",
+      "reviewer": "Codex — independent motion review",
+      "reviewedAt": "2026-09-10T16:12:00+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "attemptId": "attempt_0763b08f1f12405c",
+      "assetId": "r3-lat-pulldown-illustrated-motion-0763b08f",
+      "outputPath": "form-media/assets/delivery/round-3/r3-lat-pulldown-illustrated-motion-0763b08f.mp4",
+      "outputSha256": "4d6e4cde5cb64b38d87b017fec97ee45ccd52cd22f989bef1e979f50f54efbae",
+      "status": "needs-review",
+      "evidence": [
+        "Reviewed the full master timeline at 2 fps, full delivery upper-body timeline at 4 fps, first return at 8 fps from 5–6.25 seconds, and full-resolution master frames at 3,5.25,5.5 and5.75 seconds. Master SHA256 f4f35e541d1f6bdc30561f6afe036e24967717736591d54dcf9e7fcabb34010c; the 8-second portrait delivery is 670,798 bytes.",
+        "The lower-position anchor resolves the missing range. The first phase releases the bar above the head to comfortable nearly straight arms around 2.5–3.75 seconds; the bar, both hands, elbows and shoulders remain visible.",
+        "The pull returns in front to a bar position clearly below the chin near the upper chest around 5.5–5.75 seconds. Both elbows descend below the shoulders. This endpoint is substantially clearer and lower than the two rejected mouth/chin stops.",
+        "The full first release/pull keeps hips seated, thighs beneath the pad and shoes supported. Hand contacts, cable attachment and equipment remain coherent in the sampled phases without a backward torso swing.",
+        "After the first complete return, the bar rises again toward the chin around 6–6.75 seconds and pulls down again by 7.5 seconds. This unwanted shallow extra cycle should be omitted."
+      ],
+      "limitations": [
+        "The clip intentionally starts lowered, then releases overhead and pulls down; the surrounding caption must say this while the Form text retains overhead setup instructions.",
+        "Cable/face projection overlap and far-side body detail cannot establish exact depth or joint angles. The reference does not require measured chest contact.",
+        "AI sampled-phase editorial assessment only, separate from user/trainer acceptance. The full raw output remains retained; its authorized derivative is reviewed separately."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_0763b08f1f12405c/keyframes.jpg",
+        "reports/form-media/attempt_0763b08f1f12405c/master-timeline-2fps.jpg",
+        "reports/form-media/attempt_0763b08f1f12405c/delivery-cycle-4fps.jpg",
+        "reports/form-media/attempt_0763b08f1f12405c/first-return-8fps.jpg",
+        "reports/form-media/attempt_0763b08f1f12405c/master-top-3s.jpg",
+        "reports/form-media/attempt_0763b08f1f12405c/master-bottom-5_25s.jpg",
+        "reports/form-media/attempt_0763b08f1f12405c/master-bottom-5_5s.jpg",
+        "reports/form-media/attempt_0763b08f1f12405c/master-bottom-5_75s.jpg"
+      ],
+      "trimRecommendation": {
+        "sourceAttemptId": "attempt_0763b08f1f12405c",
+        "startSeconds": 0,
+        "endSeconds": 5.75,
+        "holdSeconds": 0.25,
+        "playbackRate": 1,
+        "derivedAssetId": "r3-lat-pulldown-illustrated-cycle-v1",
+        "reason": "Retain the full overhead release and return to the clear lower endpoint; omit the late shallow extra cycle."
+      }
+    },
+    {
+      "shot": "r3-lat-pulldown-illustrated-motion",
+      "exerciseId": "ex_lat_pulldown",
+      "reviewerType": "ai",
+      "reviewer": "Codex — independent motion review",
+      "reviewedAt": "2026-09-10T16:12:00+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "assetId": "r3-lat-pulldown-illustrated-cycle-v1",
+      "outputPath": "form-media/assets/delivery/round-3/r3-lat-pulldown-illustrated-cycle-v1.mp4",
+      "outputSha256": "b08c80fe497e29ce9aa1d743c8233a8a64fade79a8c4eb5cd5b327fd51770d3a",
+      "status": "candidate",
+      "evidence": [
+        "Reviewed the actual registered derivative full upper-body timeline at 4 fps and its final delivered full-resolution frame. FFprobe confirms 6.250000 seconds, 150 frames at 24 fps, 720×1280 H.264, 525,117 video bytes plus 33,304 poster bytes.",
+        "The edit retains source 0–5.75 seconds at 1× speed with a 0.25-second cloned still hold at each endpoint. It shows one complete lower-to-overhead release and upper-chest pulldown, omitting the later shallow cycle without reversing or accelerating movement.",
+        "The overhead phase remains fully visible with nearly straight arms. The final delivered frame shows the bar clearly below the chin near the upper chest, elbows below shoulders and a readable face above the bar. There is slight natural pose variation from the first lower frame, while both endpoints teach the same lowered position.",
+        "The seated support, thigh pad, shoes, grip and cable remain coherent in the reviewed delivery phases. The fixed camera and Graphic 3D identity are preserved; no new equipment/body jump is visible from the authored trim."
+      ],
+      "limitations": [
+        "Display with the explicit starts-lowered caption. This is a release-and-pulldown cycle rather than an exercise-setup clip; canonical Form setup remains written.",
+        "Cable/face overlap, exact bar depth and exact joint angles are unresolved by this fixed rendered view. No measured chest contact or trainer approval is claimed.",
+        "AI editorial candidate based on sampled phases and exact encoded endpoint, not every-frame biomechanical validation or user acceptance. User choices and review decisions remain unchanged."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r3-lat-pulldown-illustrated-cycle-v1/keyframes.jpg",
+        "reports/form-media/r3-lat-pulldown-illustrated-cycle-v1/delivery-cycle-4fps.jpg",
+        "reports/form-media/r3-lat-pulldown-illustrated-cycle-v1/delivery-final-pose.jpg"
+      ],
+      "trimRecommendation": null,
+      "edit": {
+        "sourceAttemptId": "attempt_0763b08f1f12405c",
+        "startSeconds": 0,
+        "endSeconds": 5.75,
+        "leadHoldSeconds": 0.25,
+        "tailHoldSeconds": 0.25,
+        "playbackRate": 1,
+        "generationCredits": 0
+      }
+    }
+  ]
+}

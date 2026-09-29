@@ -1,0 +1,60 @@
+{
+  "id": "group_0b3168ea55a14107",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:17:58+00:00",
+  "balanceBefore": 6770,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_jm_press_054ce262",
+      "shot": "r8-open-jm-press-054ce262-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "47acce89e066fbbf65aed6b19adca0f8692420415191adbb2bf833d9c878c880",
+      "quoteFile": "form-media/ui-quotes/r8-open-jm-press-054ce262-motion-05f9deed.json",
+      "quoteSha256": "61188434c89b67937de70d146c4df61fbfb18d9a4deaa3a19fec141ca89307cf",
+      "quoteCredits": 12,
+      "balance": 6770,
+      "references": []
+    },
+    {
+      "exerciseId": "open_jefferson_squats_2cba53f4",
+      "shot": "r8-open-jefferson-squats-2cba53f4-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "8ddd6c1e023cd18b5d359eb8928b36a8417b1a1b252acce6593a680aef626e1d",
+      "quoteFile": "form-media/ui-quotes/r8-open-jefferson-squats-2cba53f4-motion-e8016126.json",
+      "quoteSha256": "f4287fdbf84536b04cc1e0f687c049e34c09f1ff7dca7d8272993785ba8d52bc",
+      "quoteCredits": 12,
+      "balance": 6770,
+      "references": []
+    },
+    {
+      "exerciseId": "open_kneeling_cable_crunch_c71e16b5",
+      "shot": "r8-open-kneeling-cable-crunch-c71e16b5-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "221d0a5f46b96d991daa9a07eff6a6888bfdb134d67d1f606ee2ec83328f4d87",
+      "quoteFile": "form-media/ui-quotes/r8-open-kneeling-cable-crunch-c71e16b5-motion-12b7f12b.json",
+      "quoteSha256": "c1e55000fafede3e4cfeb54dd2a0e751b3428a883c6db902e2cd3b3980a6e62a",
+      "quoteCredits": 12,
+      "balance": 6770,
+      "references": []
+    },
+    {
+      "exerciseId": "open_kneeling_cable_tricep_d8f3f7c7",
+      "shot": "r8-open-kneeling-cable-tricep-d8f3f7c7-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "4da1f703ba5c292df228095b839a173854f2e4a90747699624bb72f29c99a073",
+      "quoteFile": "form-media/ui-quotes/r8-open-kneeling-cable-tricep-d8f3f7c7-motion-0abe577c.json",
+      "quoteSha256": "8dada42026227b66705c191af00468a452f54717dc03eb1d682b53ad82501ad4",
+      "quoteCredits": 12,
+      "balance": 6770,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:19:39+00:00",
+  "balanceAfter": 6722,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-e2240a6872fb4462.json",
+  "evidenceSha256": "1d4d3886ed5a46d336dfc533aaa299b2b675feec27e4e9844b3498758ee2c940"
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-wrist-curl-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-wrist-curl-motion-862c8b34.json"
+    },
+    {
+      "shot": "r9-ex-reverse-wrist-curl-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-wrist-curl-motion-3f599573.json"
+    },
+    {
+      "shot": "r9-ex-cable-crunch-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-cable-crunch-motion-e180b3ee.json"
+    },
+    {
+      "shot": "r9-open-ab-crunch-machine-b8bf3488-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-ab-crunch-machine-b8bf3488-motion-b97d2876.json"
+    }
+  ]
+}

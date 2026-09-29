@@ -1,0 +1,84 @@
+{
+  "id": "group_86075e28880f40e1",
+  "status": "completed-with-failures",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T22:58:25+00:00",
+  "balanceBefore": 8250,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_hack_squat_76a66305",
+      "shot": "r9-open-hack-squat-76a66305-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "3f1692bb6f151dd0a8063c938b1f90a1535504a5f0463999d81e97c565630def",
+      "quoteFile": "form-media/ui-quotes/r9-open-hack-squat-76a66305-motion-3525ed30.json",
+      "quoteSha256": "d23040db2f9703c52c2d928771c2650b0781e8ff5bcab2e3a941ee12822bbdcc",
+      "quoteCredits": 10,
+      "balance": 8250,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-hack-squat-76a66305-start/attempt_0be6ce00605f407c.jpg",
+          "sha256": "8f0b47bf4f634654086c742a3c022311a3e3171d5412cc0ff06ec4c80f9c6bb0"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_hang_clean_1e812852",
+      "shot": "r9-open-hang-clean-1e812852-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "d77319f02decd1a1d6b0a96ee489a30bb79e565a449e42bb19ca5aa3456af98f",
+      "quoteFile": "form-media/ui-quotes/r9-open-hang-clean-1e812852-motion-d8cce2e3.json",
+      "quoteSha256": "0a55d160ad2a41149055b74691204eeb54fe0bd0c6c1c823c07d5be04768e63a",
+      "quoteCredits": 10,
+      "balance": 8250,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-hang-clean-1e812852-start/attempt_4460ca257c7b4daf.jpg",
+          "sha256": "ec9968b4ca05cb6e570efe1d32c6c822efe03aa7f8bc6f12c9fa19ce3797db1f"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_leverage_deadlift_ba90f5c3",
+      "shot": "r9-open-leverage-deadlift-ba90f5c3-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "be67ac58a3890596078816cded4e155f2f3b1b9fc4fbbb48073af756b1bc34d8",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-deadlift-ba90f5c3-motion-a8a27f6a.json",
+      "quoteSha256": "79eb930fac821526f6bbaf2de1aa5ed4a937b545ae6e950669b7aa359852399a",
+      "quoteCredits": 10,
+      "balance": 8250,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-leverage-deadlift-ba90f5c3-start/attempt_453f777881b34724.jpg",
+          "sha256": "81da66c2ce06319faca616561c4d09bc1004eacd66f9b5e2d66f0ec15beaaf28"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_one_leg_barbell_squat_589d24d2",
+      "shot": "r9-open-one-leg-barbell-squat-589d24d2-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "f99a5575aa77facc181873a091497544d5e16e89467dca3aa6abd4e879bd3cc5",
+      "quoteFile": "form-media/ui-quotes/r9-open-one-leg-barbell-squat-589d24d2-motion-5b3770c4.json",
+      "quoteSha256": "e48007954012833b4c8340e2414656c7c4b83e5b2f7544578f6f8f4bc6a8aa49",
+      "quoteCredits": 10,
+      "balance": 8250,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-one-leg-barbell-squat-589d24d2-start/attempt_e01319f35799437e.jpg",
+          "sha256": "f5916fc3ceb6f7b6fd2260108fc56124466f0eb87c0fd28fe2c53a03d1f64bc9"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T23:00:31+00:00",
+  "balanceAfter": 8220,
+  "actualCredits": 30,
+  "evidenceFile": "form-media/ui-quotes/observed-80053711ed374ef2.json",
+  "evidenceSha256": "d27485914295f92811f85032a3883b0d461d91fefd63732318197cf79eff228b",
+  "terminalFailureIds": [
+    "attempt_00b5f7dc8a0a43cc"
+  ]
+}

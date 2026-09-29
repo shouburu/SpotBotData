@@ -1,0 +1,60 @@
+{
+  "id": "group_2dc28922a7ea4c91",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:03:54+00:00",
+  "balanceBefore": 7154,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_dumbbell_side_bend_3f401794",
+      "shot": "r8-open-dumbbell-side-bend-3f401794-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "f591b63bc1879d4b0be9a264b04ceecf488bcacbd79f8745281ffd78666c8af9",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-side-bend-3f401794-motion-11b1435e.json",
+      "quoteSha256": "8a3e35312ae29b8e4918f3a08e13f92356d7ff0921585ac724bfb786fd9cf7eb",
+      "quoteCredits": 12,
+      "balance": 7154,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_squat_ef95231f",
+      "shot": "r8-open-dumbbell-squat-ef95231f-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "01fd59047f1a14af217dff5054a070288df175fa0710b8a3154b7db67b97797b",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-squat-ef95231f-motion-aca7358d.json",
+      "quoteSha256": "e5b02de6c47afb4e02bdedd254af334215f13191e94996ecd770cd029eb49eaa",
+      "quoteCredits": 12,
+      "balance": 7154,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_squat_to_a_b_6630f7a5",
+      "shot": "r8-open-dumbbell-squat-to-a-b-6630f7a5-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "748e15b38620e260f9fb8268e5de728bc7b3360dfb78833e0339859ab64dbe7f",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-squat-to-a-b-6630f7a5-motion-5c1ccc6d.json",
+      "quoteSha256": "72df695f74576cd961aa46f832b9fdef47a24eece7f4445257a82802f833a249",
+      "quoteCredits": 12,
+      "balance": 7154,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_step_ups_04b3396f",
+      "shot": "r8-open-dumbbell-step-ups-04b3396f-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "f45e7d6bc9eb714974f48fe0ef7169a4ce2178360cbb5b2fd63a556d6d81df9d",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-step-ups-04b3396f-motion-17322993.json",
+      "quoteSha256": "9cb44f5334770b9eaaac645b0d762fb119f3e11d87cce23e1f134ca6c59ad9c2",
+      "quoteCredits": 12,
+      "balance": 7154,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:05:35+00:00",
+  "balanceAfter": 7106,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-6efcac6941ed40d3.json",
+  "evidenceSha256": "37e623a63a0d16cf1823dc3bd9a7096afb0489fcca74c55fd80df0dd170eacdb"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "group_16bacd79331f4396",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T04:59:00+00:00",
+  "balanceBefore": 8354,
+  "quotedCredits": 12,
+  "members": [
+    {
+      "exerciseId": "open_alternate_incline_dum_e81f916a",
+      "shot": "r8-open-alternate-incline-dum-e81f916a-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "52cda4918b560d93cc2af6f9f2286895a53415d867feae82fad918e5c12554bb",
+      "quoteFile": "form-media/ui-quotes/r8-open-alternate-incline-dum-e81f916a-motion-1353b755.json",
+      "quoteSha256": "670382c0f46678433a8e5098b632e68fa907ec529b4ae0230013f898ab51e087",
+      "quoteCredits": 12,
+      "balance": 8354,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-open-alternate-incline-dum-e81f916a-start/attempt_b369e06953394f43.jpg",
+          "sha256": "6d1d171362646313109be8ff60717eed9a992a13253f282509424767b7eb1605"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:00:09+00:00",
+  "balanceAfter": 8342,
+  "actualCredits": 12,
+  "evidenceFile": "form-media/ui-quotes/observed-6ead8a58b465496e.json",
+  "evidenceSha256": "b65027b51d1a2788d67ee2a59a42d97fa8f567d584ad574199a8cc7cb5b84053"
+}

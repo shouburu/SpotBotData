@@ -1,0 +1,60 @@
+{
+  "id": "group_abc803e334ae42ee",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:41:05+00:00",
+  "balanceBefore": 6146,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_pallof_press_with_rot_04f5a0ff",
+      "shot": "r8-open-pallof-press-with-rot-04f5a0ff-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "8d774f4000009fe48c401d451072d1661a9e4c3fd0ac2113754cb2540d58591f",
+      "quoteFile": "form-media/ui-quotes/r8-open-pallof-press-with-rot-04f5a0ff-motion-6338fc69.json",
+      "quoteSha256": "4d3e9761e033ec0c9a7e6513d12bdcbc125ee69dce51a6e8d1bdad6450d677fb",
+      "quoteCredits": 12,
+      "balance": 6146,
+      "references": []
+    },
+    {
+      "exerciseId": "open_palms_down_wrist_curl_959888f3",
+      "shot": "r8-open-palms-down-wrist-curl-959888f3-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "8878b8b5cf41d5703c02a7a94334d22dd0526da41b6cc65b8002e75f18a39a3c",
+      "quoteFile": "form-media/ui-quotes/r8-open-palms-down-wrist-curl-959888f3-motion-8b300cf1.json",
+      "quoteSha256": "6539833ac246d2ee44b195e13f343a1eec7147eaf6a8292d08156d318bca49b4",
+      "quoteCredits": 12,
+      "balance": 6146,
+      "references": []
+    },
+    {
+      "exerciseId": "open_palms_up_barbell_wris_e88bdd6c",
+      "shot": "r8-open-palms-up-barbell-wris-e88bdd6c-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "621797c84948247ce3617dc1625096b5fc911a56dd5f8b7a5cda44b0eae1e971",
+      "quoteFile": "form-media/ui-quotes/r8-open-palms-up-barbell-wris-e88bdd6c-motion-b504f34d.json",
+      "quoteSha256": "a0f02d5d605bc4e8f45b4e725fd32f20302706739b95d8915ff273e1d8340ef2",
+      "quoteCredits": 12,
+      "balance": 6146,
+      "references": []
+    },
+    {
+      "exerciseId": "open_pin_presses_121d9805",
+      "shot": "r8-open-pin-presses-121d9805-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "5bcbfdb67f5190de29be286fae3145ceccccd0974077af4a51cbab4e220c2fa5",
+      "quoteFile": "form-media/ui-quotes/r8-open-pin-presses-121d9805-motion-476a3380.json",
+      "quoteSha256": "41d27c9455c5eb09d0119d6678d1f74c2beec6629b1a95d47efd53c49c4fd39f",
+      "quoteCredits": 12,
+      "balance": 6146,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:42:18+00:00",
+  "balanceAfter": 6098,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-bc5b4d23e3d1487c.json",
+  "evidenceSha256": "b7304881462b5c72fbf87f1164c2703aa21c972e3912d2d35f3359c8465f8f6d"
+}

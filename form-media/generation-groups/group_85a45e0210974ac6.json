@@ -1,0 +1,60 @@
+{
+  "id": "group_85a45e0210974ac6",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:56:41+00:00",
+  "balanceBefore": 7346,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_drag_curl_76d51568",
+      "shot": "r8-open-drag-curl-76d51568-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "2b7af80f114f7c395d3e6dc23c7db86d760ba579c7f90f3505ed9859fe2f957c",
+      "quoteFile": "form-media/ui-quotes/r8-open-drag-curl-76d51568-motion-23eb93ed.json",
+      "quoteSha256": "0d7d95b90b0b33073966f826238179e311f54556996be692f164b0582c734615",
+      "quoteCredits": 12,
+      "balance": 7346,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_bench_press_94bb9ae4",
+      "shot": "r8-open-dumbbell-bench-press-94bb9ae4-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "0d64f2e55591c5da9c267aa157b5f71ee26bbf4e173601abc690a5401100bca5",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-bench-press-94bb9ae4-motion-3bd092d8.json",
+      "quoteSha256": "eddf9df168156d74413e92ade3af4c7826668907e4885e1080f38c3fa96f9d15",
+      "quoteCredits": 12,
+      "balance": 7346,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_bench_press__23c7512d",
+      "shot": "r8-open-dumbbell-bench-press--23c7512d-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "3dc8298dfeb89633b5c6101f7d9141a9be01edbfd2b45f147f5c9aa8d9cb4f53",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-bench-press--23c7512d-motion-71aa8d20.json",
+      "quoteSha256": "ef646e918f82db4451d559e3502667dbd5be6a5d311dfb3feca07ba70dacb6d5",
+      "quoteCredits": 12,
+      "balance": 7346,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_bicep_curl_6db34986",
+      "shot": "r8-open-dumbbell-bicep-curl-6db34986-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "9c29473bfeab1d3948b62f88e08b5e8908bfee8c1aad5743f401b51b9e3485bc",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-bicep-curl-6db34986-motion-c2d5c582.json",
+      "quoteSha256": "fea11e13e825b6a8f44544a35aff55734e75a82be92954dcf26d1996d2d2041a",
+      "quoteCredits": 12,
+      "balance": 7346,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:58:17+00:00",
+  "balanceAfter": 7298,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-ac8f7e74ffea4587.json",
+  "evidenceSha256": "61f28e3a0e661099d1002f074cce40a101a4b87233c24517b8fd986d6c91b0ad"
+}
