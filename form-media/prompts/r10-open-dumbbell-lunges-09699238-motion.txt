@@ -1,8 +1,0 @@
-Animate the exact supplied Anatomical 3D starting frame for Dumbbell Lunges. Show exactly ONE complete repetition in 8 seconds.
-Start: Start tall with both feet together and one dumbbell hanging beside each thigh, arms straight.
-Outward phase: Step the LEFT foot forward into the open floor and lower in one smooth descent until the left knee reaches a deep safe bend and the trailing knee approaches the floor.
-Return phase: Push through the left foot to rise, then move that SAME left foot backward to meet the stationary right foot in the exact original together stance.
-Approximate timing: 0–0.5s initial still; 0.5–3.5s forward step and full descent; 3.5–4.2s full endpoint still; 4.2–7.5s rise and same-foot backward return; 7.5–8s final still.
-Right foot stays planted throughout; two weights hang beside the hips without swinging. One step forward, one descent, one rise, one step BACK by the same left foot; no walking step by the right foot.
-The active joint angles move continuously in only one direction during the outward phase, stop briefly only at the full endpoint, then move continuously back to the exact starting positions. No bouncy, springy, twitching, partial, or repeated movement.
-Preserve the same sculpted silver-gray anatomical mannequin, charcoal shorts, fixed camera and rigid equipment. Keep a bright orange glow confined to the quadriceps for the whole clip including both final frames. Show all relevant joints, weight and equipment contacts at both endpoints. Clean plain studio, silent, continuous shot, no text, arrows, cuts, camera motion, or extra weights.

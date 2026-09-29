@@ -1,9 +1,0 @@
-Animate the EXACT supplied Anatomical 3D starting frame for Bent-Arm Barbell Pullover. Show ONE complete controlled repetition over six seconds.
-0.0–0.5s HOLD start: Lie fully supported on the flat bench with feet planted; the one barbell is above the face/crown with BOTH elbows visibly flexed.
-0.5–2.6s travel monotonically outward: Arc the same barbell backward beyond the crown of the head toward a comfortable shoulder stretch while maintaining that SAME visible elbow bend.
-2.6–3.2s HOLD full endpoint.
-3.2–5.5s travel monotonically back: Arc the barbell forward along the same path to its exact original above-face position, still with elbows bent.
-5.5–6.0s HOLD exact restored starting position.
-Elbow flexion remains nearly constant; the shoulder is the moving joint. It must not become a straight-arm pullover or a chest press, and the rigid bar keeps both plates.
-Temporal constraint: the working joints and the loaded machine travel continuously in ONE direction for each phase; the only direction reversal occurs at the full endpoint. No springing, bouncing, twitching, mini-reps, momentum or abbreviated travel.
-Preserve sculpted silver-gray anatomical muscle fibers, charcoal shorts, fixed close camera and physically connected rigid equipment. A localized bright-orange glow on the lats persists throughout the ENTIRE clip, including final hold. Show both movement endpoints and all contact points in frame. Clean studio, silent, single continuous shot. No text, arrows, extra objects, camera motion or cuts.
