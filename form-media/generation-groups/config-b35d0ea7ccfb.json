@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-reverse-wrist-curl-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-wrist-curl-motion-21e67785.json"
+    },
+    {
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-lying-triceps-e-ff29abb1-motion-d7a00e86.json"
+    },
+    {
+      "shot": "r9-open-cable-wrist-curl-a1feb456-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-wrist-curl-a1feb456-motion-90221f22.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-lying-pronat-95605e7c-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lying-pronat-95605e7c-motion-4f4f74a4.json"
+    }
+  ]
+}

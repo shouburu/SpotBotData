@@ -1,0 +1,62 @@
+{
+  "id": "group_32c6e109de584925",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T21:07:52+00:00",
+  "balanceBefore": 9298,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "shot": "r9-open-inverted-row-1ce9a06f-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "e8340808281cde5ce531418120deed5452f949bf831c774ee9152efcb64329d4",
+      "quoteFile": "form-media/ui-quotes/r9-open-inverted-row-1ce9a06f-start-4724f04c.json",
+      "quoteSha256": "128f90bf0e235680260ea519eae69cf637849559485ce0004f4259247d253eed",
+      "quoteCredits": 0,
+      "balance": 9298,
+      "references": []
+    },
+    {
+      "exerciseId": "open_standing_barbell_calf_3952bfa6",
+      "shot": "r9-open-standing-barbell-calf-3952bfa6-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "e83844642b0176622fbfe98c7eaf2bd968a3013c21b4feacedde8e68efb72353",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-barbell-calf-3952bfa6-start-7ac4660d.json",
+      "quoteSha256": "90e0d3c2fe07c501c34f7a8aea687e77d5db4e7da633cea8d0b1af28112653de",
+      "quoteCredits": 0,
+      "balance": 9298,
+      "references": []
+    },
+    {
+      "exerciseId": "open_standing_dumbbell_cal_ed527460",
+      "shot": "r9-open-standing-dumbbell-cal-ed527460-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "c48b61191a897a3998661af03d5b4ceacf0bb734de89bf966d02b0298250c83c",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-dumbbell-cal-ed527460-start-3badd023.json",
+      "quoteSha256": "4f16920f63d2d58c89066c8bee071ad8c7914178f446c92d7973866abca9a17d",
+      "quoteCredits": 0,
+      "balance": 9298,
+      "references": []
+    },
+    {
+      "exerciseId": "open_trap_bar_deadlift_c526cf24",
+      "shot": "r9-open-trap-bar-deadlift-c526cf24-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "f9c34a449dffbefcdec8f6feac81222f71f9a87e372e51e3b86dd68a983c15e7",
+      "quoteFile": "form-media/ui-quotes/r9-open-trap-bar-deadlift-c526cf24-start-7ec61531.json",
+      "quoteSha256": "70b5b7a5aa7b2eca652cdf999124fdc4e27bd03a2b3f4f56d8e76f10ea88b459",
+      "quoteCredits": 0,
+      "balance": 9298,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T21:09:12+00:00",
+  "balanceAfter": 9298,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-a9e834d89f5d4057.json",
+  "evidenceSha256": "8ad2fdca29569a359d1f946c97aa2d5b7a86661c968853047fcf7d43c079b124",
+  "terminalFailureIds": []
+}

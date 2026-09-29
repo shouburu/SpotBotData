@@ -1,0 +1,157 @@
+{
+  "roundId": "round-10",
+  "reviews": [
+    {
+      "attemptId": "attempt_12e00f095087418f",
+      "exerciseId": "ex_cable_fly",
+      "shot": "r10-ex-cable-fly-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-ex-cable-fly-start/attempt_12e00f095087418f.jpg",
+      "outputSha256": "0d7d75b8a60f5c852d99c58c769f623d6c77263add02b62cf2baf1ed9aef7ed8",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:38:58+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Hands meet low near the abdomen, not at mid-chest; the source would invite the same downward sweep and inconsistent return seen in Round 9."
+      ],
+      "limitations": [
+        "Starting frame only; any motion requires separate review of complete movement and equipment continuity."
+      ]
+    },
+    {
+      "attemptId": "attempt_001e044f92b1416f",
+      "exerciseId": "open_clean_5137c876",
+      "shot": "r10-open-clean-5137c876-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-clean-5137c876-start/attempt_001e044f92b1416f.jpg",
+      "outputSha256": "f19263f5a6f7208a989d50e6a835415cc62dbf20185801d8937846fbb44fcc46",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:38:58+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The loaded bar floats well above the platform rather than beginning on the floor at the shins."
+      ],
+      "limitations": [
+        "Starting frame only; any motion requires separate review of complete movement and equipment continuity."
+      ]
+    },
+    {
+      "attemptId": "attempt_97a7dca82a234202",
+      "exerciseId": "open_clean_and_press_7da75b45",
+      "shot": "r10-open-clean-and-press-7da75b45-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-clean-and-press-7da75b45-start/attempt_97a7dca82a234202.jpg",
+      "outputSha256": "aad52c1e34b447c4d87ba22c3727e7d7b7b868681d36311407dbea8575e4e784",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:38:58+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "One full bar rests on the floor at the shins with a squat setup and ample uncropped overhead space for clean, front rack and press; motion must still prove real catch mechanics."
+      ],
+      "limitations": [
+        "Starting frame only; any motion requires separate review of complete movement and equipment continuity."
+      ]
+    },
+    {
+      "attemptId": "attempt_3a556ac0248b4801",
+      "exerciseId": "open_dumbbell_clean_45633ce4",
+      "shot": "r10-open-dumbbell-clean-45633ce4-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-dumbbell-clean-45633ce4-start/attempt_3a556ac0248b4801.jpg",
+      "outputSha256": "24c73f4455e1037e5f32c0c00098103fc7152f89afed51224e25d5e97d9fee1a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:38:58+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Dumbbells are implausibly upright on their ends while the hands grip the top knobs rather than the centers of horizontal shafts."
+      ],
+      "limitations": [
+        "Starting frame only; any motion requires separate review of complete movement and equipment continuity."
+      ]
+    },
+    {
+      "attemptId": "attempt_9d04b39c6d4d4449",
+      "exerciseId": "open_power_snatch_3f9ccaec",
+      "shot": "r10-open-power-snatch-3f9ccaec-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-power-snatch-3f9ccaec-start/attempt_9d04b39c6d4d4449.jpg",
+      "outputSha256": "d3bfd0a3f21e6c69cb7fa64653b99e5a17770c8c37f3dbd013fb0d8581cf36bf",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:38:58+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Bar is already lifted clear of the floor in the starting frame, so the required ground-to-power-catch sequence has no valid start."
+      ],
+      "limitations": [
+        "Starting frame only; any motion requires separate review of complete movement and equipment continuity."
+      ]
+    },
+    {
+      "attemptId": "attempt_68d70fad3f034c5d",
+      "exerciseId": "open_smith_machine_calf_ra_ccc5bca6",
+      "shot": "r10-open-smith-machine-calf-ra-ccc5bca6-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-smith-machine-calf-ra-ccc5bca6-start/attempt_68d70fad3f034c5d.jpg",
+      "outputSha256": "d3ee8c3679a8731a924780dcace2d0115c90c8d5b3eed7f7031d909f85ac538e",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:38:58+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Smith bar is plausible, but both full feet rest on a large platform; heels do not hang below a plate edge, obscuring the ankle-only motion."
+      ],
+      "limitations": [
+        "Starting frame only; any motion requires separate review of complete movement and equipment continuity."
+      ]
+    },
+    {
+      "attemptId": "attempt_bc444b948cb44f95",
+      "exerciseId": "open_standing_dumbbell_cal_ed527460",
+      "shot": "r10-open-standing-dumbbell-cal-ed527460-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-standing-dumbbell-cal-ed527460-start/attempt_bc444b948cb44f95.jpg",
+      "outputSha256": "cc49980ce02cc9bc92815f085b432ea7f50e6855e95d740800959ca0cefc622b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:38:58+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Two weights and calf highlighting are present, but one heel is already high while the other foot is lower; the bilateral start is asymmetric."
+      ],
+      "limitations": [
+        "Starting frame only; any motion requires separate review of complete movement and equipment continuity."
+      ]
+    },
+    {
+      "attemptId": "attempt_9e1c41f3a7344a95",
+      "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+      "shot": "r10-open-standing-overhead-bar-1c42b3f8-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-standing-overhead-bar-1c42b3f8-start/attempt_9e1c41f3a7344a95.jpg",
+      "outputSha256": "f4efffa5b3674bfc72b3c095ae15a3a8fb29ad766515514dc2cd798ee7ba536d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:38:58+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Bar is in front of the head with elbows wide at shoulder height, not behind the head with fixed near-vertical upper arms."
+      ],
+      "limitations": [
+        "Starting frame only; any motion requires separate review of complete movement and equipment continuity."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "roundId": "round-10",
+  "reviews": [
+    {
+      "assetId": "r10-ex-cable-fly-motion-v4-f9dd7098",
+      "attemptId": "attempt_f9dd7098700d49d3",
+      "exerciseId": "ex_cable_fly",
+      "shot": "r10-ex-cable-fly-motion-v4",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-ex-cable-fly-motion-v4-f9dd7098.mp4",
+      "outputSha256": "99344f6129eb6b0022e2954c4011ba6454f40bb67d561c44d4d85d7ffc1675a7",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T00:09:03+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The arms travel from wide toward the sternum and reopen, but at the close endpoint both elbows bend deeply while hands remain apart. The movement becomes a press-like bend instead of maintaining the softly bent long-arm chest-fly arc; the user requested clear full-range form."
+      ],
+      "limitations": [
+        "Screened the exact delivered file at 4 fps and the full-resolution 2.75-second close endpoint. AI editorial hold; no human or trainer acceptance is implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-ex-cable-fly-motion-v4-f9dd7098-delivery-4fps.jpg",
+        "reports/round-10-preparation/r10-cable-fly-v4-2p75.jpg"
+      ]
+    }
+  ]
+}

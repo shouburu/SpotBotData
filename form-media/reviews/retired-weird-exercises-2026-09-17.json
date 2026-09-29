@@ -1,0 +1,2196 @@
+{
+  "schemaVersion": 1,
+  "retiredAt": "2026-09-18T02:56:41+00:00",
+  "reason": "Removed by explicit user direction: all 40 entries in the exercise weirdness ranking are excluded from the active standard catalog. Preserve personal workout history and historical media/reviews; do not reimport. No replacement movement is implied.",
+  "rankingPath": "docs/exercise-weirdness-ranking.md",
+  "rankingSha256": "110a2afed41aa79863dbb5d052dc0635f69e92d0c9a66898243bd9554b3f18b8",
+  "exerciseIds": [
+    "open_london_bridges_2cb32544",
+    "open_squat_with_plate_move_61c96070",
+    "open_bodyweight_flyes_5c0c269e",
+    "open_one_arm_open_palm_ket_f2e22770",
+    "open_open_palm_kettlebell__d0d6b756",
+    "open_kneeling_jump_squat_5d95a961",
+    "open_lunge_sprint_2064bb35",
+    "open_barbell_rollout_from__b9cc7297",
+    "open_calf_raise_on_a_dumbb_8049fbad",
+    "open_hyperextensions_with__678189b8",
+    "open_dumbbell_seated_box_j_aff3a59d",
+    "open_bent_over_dumbbell_re_d9ec09e5",
+    "open_hanging_bar_good_morn_ed1ce07a",
+    "open_chest_push_single_res_1588efd7",
+    "open_extended_range_one_ar_e7886a25",
+    "open_leg_over_floor_press_b9eef475",
+    "open_calf_machine_shoulder_2e10a679",
+    "open_close_grip_push_up_of_9056d7cb",
+    "open_decline_close_grip_be_96ad3791",
+    "open_gorilla_chin_crunch_3c75601b",
+    "open_front_raise_and_pullo_9436213a",
+    "open_anti_gravity_press_1a397a57",
+    "open_kettlebell_pirate_shi_b728c20f",
+    "open_cable_judo_flip_5081c871",
+    "open_smith_machine_leg_pre_a7996364",
+    "open_car_deadlift_c76d6085",
+    "open_conans_wheel_58c17022",
+    "open_circus_bell_3040d264",
+    "open_power_stairs_bc4ec7fb",
+    "open_atlas_stone_trainer_162558bb",
+    "open_lying_face_down_plate_b23a381c",
+    "open_lying_face_up_plate_n_d46c08c8",
+    "open_standing_towel_tricep_8d8f0cd9",
+    "open_janda_sit_up_94c5e650",
+    "open_wide_grip_rear_pull_u_67095fca",
+    "open_barbell_guillotine_be_4ff392e3",
+    "open_spell_caster_a48b212e",
+    "open_car_drivers_f2a511b0",
+    "open_prone_manual_hamstrin_98bf8cf1",
+    "open_depth_jump_leap_70493535"
+  ],
+  "exercises": {
+    "open_london_bridges_2cb32544": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_squat_with_plate_move_61c96070": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_bodyweight_flyes_5c0c269e": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_one_arm_open_palm_ket_f2e22770": {
+      "teachingFormat": "external",
+      "rationale": "Advanced or multi-phase technique warrants an expert reference with clear transitions; review whether a concise authored sequence can later replace it.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_open_palm_kettlebell__d0d6b756": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_kneeling_jump_squat_5d95a961": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_lunge_sprint_2064bb35": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_barbell_rollout_from__b9cc7297": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_calf_raise_on_a_dumbb_8049fbad": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_hyperextensions_with__678189b8": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_dumbbell_seated_box_j_aff3a59d": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_bent_over_dumbbell_re_d9ec09e5": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_hanging_bar_good_morn_ed1ce07a": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_chest_push_single_res_1588efd7": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_extended_range_one_ar_e7886a25": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_leg_over_floor_press_b9eef475": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_calf_machine_shoulder_2e10a679": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_close_grip_push_up_of_9056d7cb": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_decline_close_grip_be_96ad3791": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_gorilla_chin_crunch_3c75601b": {
+      "teachingFormat": "external",
+      "rationale": "Advanced or multi-phase technique warrants an expert reference with clear transitions; review whether a concise authored sequence can later replace it.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_front_raise_and_pullo_9436213a": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_anti_gravity_press_1a397a57": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "video is nonsense",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-8",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-16T15:51:00+00:00",
+      "reviewedAssetIds": [
+        "r8-open-anti-gravity-press-1a397a57-start-45b39db4",
+        "r8-open-anti-gravity-press-1a397a57-start-03deee5a",
+        "r8-open-anti-gravity-press-1a397a57-motion-df9fe595"
+      ]
+    },
+    "open_kettlebell_pirate_shi_b728c20f": {
+      "teachingFormat": "external",
+      "rationale": "Advanced or multi-phase technique warrants an expert reference with clear transitions; review whether a concise authored sequence can later replace it.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_cable_judo_flip_5081c871": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_smith_machine_leg_pre_a7996364": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_car_deadlift_c76d6085": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_conans_wheel_58c17022": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_circus_bell_3040d264": {
+      "teachingFormat": "external",
+      "rationale": "Advanced or multi-phase technique warrants an expert reference with clear transitions; review whether a concise authored sequence can later replace it.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_power_stairs_bc4ec7fb": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_atlas_stone_trainer_162558bb": {
+      "teachingFormat": "external",
+      "rationale": "Advanced or multi-phase technique warrants an expert reference with clear transitions; review whether a concise authored sequence can later replace it.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_lying_face_down_plate_b23a381c": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_lying_face_up_plate_n_d46c08c8": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_standing_towel_tricep_8d8f0cd9": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_janda_sit_up_94c5e650": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_wide_grip_rear_pull_u_67095fca": {
+      "teachingFormat": "external",
+      "rationale": "Advanced or multi-phase technique warrants an expert reference with clear transitions; review whether a concise authored sequence can later replace it.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_barbell_guillotine_be_4ff392e3": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_spell_caster_a48b212e": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_car_drivers_f2a511b0": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_prone_manual_hamstrin_98bf8cf1": {
+      "teachingFormat": "animation",
+      "rationale": "A bounded isolation movement is a candidate for an authored joint-motion loop; confirm that setup and equipment contact remain clear in a schematic.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_depth_jump_leap_70493535": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    }
+  },
+  "catalogReviews": {
+    "open_london_bridges_2cb32544": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Instructions require a secured Smith bar under a climbing rope, not a generic squat rack; perpendicular-to-ground endpoint contradicts lowering a straight body.",
+      "evidence": {
+        "identity": "London Bridges; reps execution; bodyweight, rope, smith machine.",
+        "instructions": "Setup: Attach a climbing rope securely to a rated high support. Beneath it, lock a Smith-machine bar in place with the safeties so it cannot move.",
+        "equipment": "Required setup: bodyweight, rope, smith machine. Load entry: none.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: lats. Supporting: biceps, forearms, middle back.",
+        "eligibility": "advanced; activities strength, calisthenics; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected equipment.",
+        "Corrected instructions.",
+        "Instructions require a secured Smith bar under a climbing rope, not a generic squat rack; perpendicular-to-ground endpoint contradicts lowering a straight body."
+      ]
+    },
+    "open_squat_with_plate_move_61c96070": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Squat with Plate Movers explicitly stands on/slides a weight plate; add weight plate. Review advanced difficulty for loaded lateral stepping on moving support; define each squat as one rep and direction counting.",
+      "evidence": {
+        "identity": "Squat with Plate Movers; reps execution; barbell, squat rack, weight plate.",
+        "instructions": "Setup: Unrack a light barbell onto the upper back with clear floor space beside the rack. Take a wide stance with one foot on a flat weight plate that can slide under deliberate control.",
+        "equipment": "Required setup: barbell, squat rack, weight plate. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: quadriceps. Supporting: abductors, adductors, calves, glutes, hamstrings.",
+        "eligibility": "advanced; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected equipment.",
+        "Corrected difficulty.",
+        "Corrected defaultPrescription.",
+        "Corrected instructions.",
+        "Added moving plate and advanced coordination requirement.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_bodyweight_flyes_5c0c269e": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Bodyweight fly uses two rolling EZ bars; advanced bodyweight resistance, not lifted bar load.",
+      "evidence": {
+        "identity": "Bodyweight Flyes; reps execution; ez bar.",
+        "instructions": "Setup: Position two equally loaded EZ bars on the ground next to each other. Ensure they are able to roll.",
+        "equipment": "Required setup: ez bar. Load entry: none.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: abdominals, shoulders, triceps.",
+        "eligibility": "advanced; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_one_arm_open_palm_ket_f2e22770": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Read all instruction steps and current anatomy, apparatus, measurement, per-side, difficulty and dose; no specific correction identified in this pass.",
+      "evidence": {
+        "identity": "One-Arm Open Palm Kettlebell Clean; reps execution; kettlebell.",
+        "instructions": "Setup: Place one kettlebell between your feet.",
+        "equipment": "Required setup: kettlebell. Load entry: required.",
+        "tracking": "3–5 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: hamstrings. Supporting: forearms, glutes, lower back, quadriceps, shoulders.",
+        "eligibility": "advanced; activities strength; goals strength, athleticism.",
+        "prescription": "2 sets; 3–5 repetitions per side; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Clarified the user-facing per-side quantity wording.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_open_palm_kettlebell__d0d6b756": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Read all instruction steps and current anatomy, apparatus, measurement, per-side, difficulty and dose; no specific correction identified in this pass.",
+      "evidence": {
+        "identity": "Open Palm Kettlebell Clean; reps execution; kettlebell.",
+        "instructions": "Setup: Place one kettlebell between your feet. Clean the kettlebell by extending through the legs and hips as you raise the kettlebell towards your shoulders.",
+        "equipment": "Required setup: kettlebell. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: hamstrings. Supporting: glutes, lower back, quadriceps, shoulders.",
+        "eligibility": "advanced; activities strength; goals strength, athleticism.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_kneeling_jump_squat_5d95a961": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Choose the loaded canonical variant explicitly (Barbell Kneeling Jump Squat); remove bodyweight alternative from required-load instructions and include conditioning activity if retained.",
+      "evidence": {
+        "identity": "Barbell Kneeling Jump Squat; reps execution; barbell, squat rack.",
+        "instructions": "Setup: Set a barbell on rack hooks at a height you can reach while kneeling on a padded floor. Unrack a light load across the upper back and keep the trunk braced.",
+        "equipment": "Required setup: barbell, squat rack. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: glutes. Supporting: calves, hamstrings, quadriceps.",
+        "eligibility": "advanced; activities strength, conditioning; goals strength, athleticism.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Corrected activities.",
+        "Corrected instructions.",
+        "Named the loaded canonical kneeling jump variation.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_lunge_sprint_2064bb35": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Smith-loaded jump lunges need a clear name, advanced difficulty and technical conditioning target (3–5/rest 90–120), not generic intermediate 6–10/rest 60. Add explicit alternating-leg count convention.",
+      "evidence": {
+        "identity": "Smith Machine Alternating Jump Lunge; reps execution; smith machine.",
+        "instructions": "Setup: Use a Smith machine whose manufacturer permits this movement, set its stops and select a very light load. Unrack the bar onto the upper back and take a stable split stance.",
+        "equipment": "Required setup: smith machine. Load entry: required.",
+        "tracking": "3–5 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: quadriceps. Supporting: calves, glutes, hamstrings.",
+        "eligibility": "advanced; activities strength, conditioning; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 3–5 repetitions per side; 90 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Corrected difficulty.",
+        "Corrected activities.",
+        "Corrected defaultPrescription.",
+        "Corrected perSide.",
+        "Corrected instructions.",
+        "Defined advanced Smith loaded jump-lunge identity and short dose.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_barbell_rollout_from__b9cc7297": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Bench rollout increases bodyweight demand; advanced classification and no lifted-load entry match the movement.",
+      "evidence": {
+        "identity": "Barbell Rollout from Bench; reps execution; barbell, bench.",
+        "instructions": "Setup: Place a loaded barbell on the ground, near the end of a bench. Kneel with both legs on the bench, and take a medium to narrow grip on the barbell. This will be your starting position.",
+        "equipment": "Required setup: barbell, bench. Load entry: none.",
+        "tracking": "4–6 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: abdominals. Supporting: glutes, hamstrings, lats, shoulders.",
+        "eligibility": "advanced; activities strength; goals strength, endurance, general.",
+        "prescription": "2 sets; 4–6 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected loadBehavior.",
+        "Corrected goals.",
+        "Corrected defaultPrescription.",
+        "The rolling bar is apparatus; the logged resistance is bodyweight, not barbell lifting volume.",
+        "Corrected difficulty."
+      ]
+    },
+    "open_calf_raise_on_a_dumbb_8049fbad": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Dumbbell is an unstable foot support, not lifted external load: required load is false. Required hand support absent. Prefer stable calf-block adaptation with explicit support (and dedupe) or exclude rolling-dumbbell protocol; do not retain effectiveness claim.",
+      "evidence": {
+        "identity": "Secured Hex-Dumbbell Calf Raise; reps execution; bodyweight, dumbbells, wall.",
+        "instructions": "Setup: Use a flat-sided hex dumbbell secured against a wall so it cannot roll or slide. Place the ball of one foot across its handle with the heel free, and hold the wall for balance. Do not use a round dumbbell or an unsecured support.",
+        "equipment": "Required setup: bodyweight, dumbbells, wall. Load entry: none.",
+        "tracking": "6–10 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: calves. Supporting: none asserted.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected loadBehavior.",
+        "The dumbbell is the foot platform, not an external weight being lifted.",
+        "Corrected name.",
+        "Corrected equipment.",
+        "Corrected instructions.",
+        "Corrected perSide.",
+        "Preserved apparatus-supported calf variation with a secured nonrolling dumbbell and no invented lifted load.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_hyperextensions_with__678189b8": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Flat-bench back extension requires partner leg support; remove optional load and first-person commentary from bodyweight guide.",
+      "evidence": {
+        "identity": "Hyperextensions With No Hyperextension Bench; reps execution; bodyweight, bench, training partner.",
+        "instructions": "Setup: With someone holding down your legs, slide yourself down to the edge a flat bench until your hips hang off the end of the bench. Tip: Your entire upper body should be hanging down towards the floor. Also, you will be in the same position as if you were on a hyperextension bench but the range of motion will be shorter due to the height of the flat bench vs. that of the hyperextension bench.",
+        "equipment": "Required setup: bodyweight, bench, training partner. Load entry: none.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: lower back. Supporting: glutes, hamstrings.",
+        "eligibility": "intermediate; activities strength, calisthenics; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Retained explicit partner support and removed optional weighted/first-person variants."
+      ]
+    },
+    "open_dumbbell_seated_box_j_aff3a59d": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Loaded seated box jump with dumbbell should be advanced rather than intermediate under technical/weighted plyometric policy.",
+      "evidence": {
+        "identity": "Dumbbell Seated Box Jump; reps execution; dumbbells, bench, box.",
+        "instructions": "Setup: Position a box a couple feet to the side of a bench. Hold a dumbbell to your chest with both hands and seat yourself on the bench facing the box. This will be your starting position.",
+        "equipment": "Required setup: dumbbells, bench, box. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: quadriceps. Supporting: calves, glutes, hamstrings.",
+        "eligibility": "advanced; activities conditioning; goals athleticism, endurance, general.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 90 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected difficulty.",
+        "Aligned loaded seated-box jump with advanced eligibility.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_bent_over_dumbbell_re_d9ec09e5": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Head-supported bent-over rear-delt raise differs from chest-supported prone raises; retain forehead-support setup.",
+      "evidence": {
+        "identity": "Bent Over Dumbbell Rear Delt Raise With Head On Bench; reps execution; dumbbells, bench.",
+        "instructions": "Setup: Stand up straight while holding a dumbbell in each hand and with an incline bench in front of you.",
+        "equipment": "Required setup: dumbbells, bench. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: shoulders. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_hanging_bar_good_morn_ed1ce07a": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Explicit rack plus supporting chains omitted from equipment; add squat rack and chains and choose that source alternative consistently.",
+      "evidence": {
+        "identity": "Hanging Bar Good Morning; reps execution; barbell, squat rack, chains.",
+        "instructions": "Setup: Suspend a barbell on correctly rated chains attached to a rack. Set the chains so the bar rests across the back of the shoulders when you hinge forward, with the knees softly bent.",
+        "equipment": "Required setup: barbell, squat rack, chains. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: hamstrings. Supporting: abdominals, glutes, lower back.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected equipment.",
+        "Corrected instructions.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_chest_push_single_res_1588efd7": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Kneeling chest push with hands catching the fall is technical and needs controlled reset between repetitions.",
+      "evidence": {
+        "identity": "Kneeling Medicine-Ball Chest Pass with Hand Landing; reps execution; medicine ball.",
+        "instructions": "Setup: Begin in a kneeling position holding the medicine ball with both hands tightly into the chest.",
+        "equipment": "Required setup: medicine ball. Load entry: optional.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: abdominals, shoulders, triceps.",
+        "eligibility": "advanced; activities conditioning; goals athleticism, endurance, general.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 90 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Corrected difficulty.",
+        "Made the technical hand landing, repetition count and reset explicit."
+      ]
+    },
+    "open_extended_range_one_ar_e7886a25": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Extended-range unilateral floor press uses rotated torso/leg position; retain documented distinct position.",
+      "evidence": {
+        "identity": "Bent-Leg-Crossover Kettlebell Floor Press; reps execution; kettlebell.",
+        "instructions": "Setup: Lie on the floor and position a kettlebell for one arm to press. The kettlebell should be held by the handle. The leg on the same side that you are pressing should be bent, with the knee crossing over the midline of the body.",
+        "equipment": "Required setup: kettlebell. Load entry: required.",
+        "tracking": "6–10 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: shoulders, triceps.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Clarified the user-facing per-side quantity wording."
+      ]
+    },
+    "open_leg_over_floor_press_b9eef475": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Leg-over floor press uses extended crossed leg, while extended-range version bends it; retain with explicit name/laterality.",
+      "evidence": {
+        "identity": "Straight-Leg-Crossover Kettlebell Floor Press; reps execution; kettlebell.",
+        "instructions": "Setup: Lie on the floor with one kettlebell in place on your chest, holding it by the handle. Extend leg on working side over leg on non-working side.Your free arm can be extended out to your side for support.",
+        "equipment": "Required setup: kettlebell. Load entry: required.",
+        "tracking": "6–10 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: shoulders, triceps.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Corrected perSide.",
+        "Distinguished the extended crossed-leg setup and added laterality."
+      ]
+    },
+    "open_calf_machine_shoulder_2e10a679": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Calf-machine shoulder shrug uses its shoulder pads as resistance; retain apparatus-specific shrug.",
+      "evidence": {
+        "identity": "Calf-Machine Shoulder Shrug; reps execution; machines.",
+        "instructions": "Setup: Position yourself on the calf machine so that the shoulder pads are above your shoulders. Your torso should be straight with the arms extended normally by your side. This will be your starting position.",
+        "equipment": "Required setup: machines. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: traps. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_close_grip_push_up_of_9056d7cb": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-17",
+      "instructionReview": "Close-grip push-up balances hands on upright dumbbell; retained intermediate apparatus variation with stable dumbbell requirement. Grip qualifier removed from display name by user direction; equipment, support and movement remain explicit. Grip cues are setup guidance, not separate catalog identities.",
+      "evidence": {
+        "identity": "Close-Grip Push-Up off of a Dumbbell; reps execution; bodyweight, dumbbells.",
+        "instructions": "Setup: Use a stable fixed-head dumbbell on a nonslip floor and check that it will not tip before placing your weight on it.",
+        "equipment": "Required setup: bodyweight, dumbbells. Load entry: none.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: abdominals, chest, shoulders.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Made the required stable support surface explicit.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_decline_close_grip_be_96ad3791": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-17",
+      "instructionReview": "Decline close-grip press plus skull crusher is one defined two-part repetition; rack missing and technical dose needs distinction. Grip qualifier removed from display name by user direction; equipment, support and movement remain explicit. Grip cues are setup guidance, not separate catalog identities.",
+      "evidence": {
+        "identity": "Decline Close-Grip Bench To Skull Crusher; reps execution; barbell, bench, squat rack.",
+        "instructions": "Setup: Secure your legs at the end of the decline bench and slowly lay down on the bench.",
+        "equipment": "Required setup: barbell, bench, squat rack. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: chest, shoulders.",
+        "eligibility": "advanced; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 90 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected equipment.",
+        "Corrected difficulty.",
+        "Corrected defaultPrescription.",
+        "Added rack requirement and defined the two-part technical repetition.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_gorilla_chin_crunch_3c75601b": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Chin-up plus knee crunch is a compound skill; advanced low-repetition target fits complete coordinated cycle.",
+      "evidence": {
+        "identity": "Gorilla Chin/Crunch; reps execution; bodyweight, pull up bar.",
+        "instructions": "Setup: Hang from a chin-up bar using an underhand grip (palms facing you) that is slightly wider than shoulder width.",
+        "equipment": "Required setup: bodyweight, pull up bar. Load entry: none.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: abdominals. Supporting: biceps, lats.",
+        "eligibility": "advanced; activities strength, calisthenics; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 90 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected difficulty.",
+        "Corrected defaultPrescription."
+      ]
+    },
+    "open_front_raise_and_pullo_9436213a": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Barbell front raise plus pullover travels from thighs overhead and back; retain one complete shoulder-arc cycle.",
+      "evidence": {
+        "identity": "Front Raise And Pullover; reps execution; barbell, bench.",
+        "instructions": "Setup: Lie on a flat bench while holding a barbell using a palms down grip that is about 15 inches apart.",
+        "equipment": "Required setup: barbell, bench. Load entry: required.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: lats, shoulders, triceps.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_anti_gravity_press_1a397a57": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Prone incline barbell press against gravity differs from overhead pressing; bench and bar match.",
+      "evidence": {
+        "identity": "Anti-Gravity Press; reps execution; barbell, bench.",
+        "instructions": "Setup: Place a bar on the ground behind the head of an incline bench.",
+        "equipment": "Required setup: barbell, bench. Load entry: required.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: shoulders. Supporting: middle back, traps, triceps.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_kettlebell_pirate_shi_b728c20f": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Pirate-ship swing is a loaded side-to-side arc; classify advanced and define one complete alternating cycle.",
+      "evidence": {
+        "identity": "Kettlebell Pirate Ships; reps execution; kettlebell.",
+        "instructions": "Setup: With a wide stance, hold a kettlebell with both hands. Allow it to hang at waist level with your arms extended. This will be your starting position.",
+        "equipment": "Required setup: kettlebell. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: shoulders. Supporting: abdominals.",
+        "eligibility": "advanced; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 90 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected difficulty.",
+        "Corrected defaultPrescription.",
+        "Defined the two-sided technical cycle and reduced the default dose."
+      ]
+    },
+    "open_cable_judo_flip_5081c871": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Cable judo flip is a loaded rotating crunch; remove failure instruction and classify intermediate.",
+      "evidence": {
+        "identity": "Cable Judo Flip; reps execution; cables.",
+        "instructions": "Setup: Connect a rope attachment to a tower, and move the cable to the lowest pulley position. Stand with your side to the cable with a wide stance, and grab the rope with both hands.",
+        "equipment": "Required setup: cables. Load entry: required.",
+        "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: abdominals. Supporting: none asserted.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected difficulty.",
+        "Removed a failure prescription that contradicted the editable default target.",
+        "Clarified the user-facing per-side quantity wording."
+      ]
+    },
+    "open_smith_machine_leg_pre_a7996364": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Smith Machine Leg Press relies on pressing a narrow Smith bar with feet while lying below it, without a footplate or clear compatible-machine constraint. Do not treat every Smith machine as supporting this. Prefer exclude until a reviewed purpose-built leg-press attachment/setup is specified; a generic machines match is insufficient.",
+      "evidence": {
+        "identity": "Smith Attachment Vertical Leg Press; reps execution; smith machine, smith leg press attachment.",
+        "instructions": "Setup: Use only a manufacturer-compatible Smith leg-press attachment with a purpose-designed foot platform, secure back support and mechanical travel stops. Install and set it up exactly as its manufacturer directs; never press an ordinary bare Smith bar with the feet.",
+        "equipment": "Required setup: smith machine, smith leg press attachment. Load entry: required.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: quadriceps. Supporting: calves, glutes, hamstrings.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Corrected equipment.",
+        "Corrected instructions.",
+        "Constrained Smith leg press to a purpose-designed compatible footplate and stops.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_car_deadlift_c76d6085": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Read all instruction steps and current anatomy, apparatus, measurement, per-side, difficulty and dose; no specific correction identified in this pass.",
+      "evidence": {
+        "identity": "Car Deadlift; reps execution; car deadlift apparatus.",
+        "instructions": "Setup: This event apparatus typically has neutral grip handles, however some have a straight bar that you can approach like a normal deadlift. The apparatus can be loaded with a vehicle or other heavy objects such as tractor tires or kegs.",
+        "equipment": "Required setup: car deadlift apparatus. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: quadriceps. Supporting: forearms, glutes, hamstrings, lower back, traps.",
+        "eligibility": "advanced; activities strength, conditioning; goals strength, athleticism.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_conans_wheel_58c17022": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Read all instruction steps and current anatomy, apparatus, measurement, per-side, difficulty and dose; no specific correction identified in this pass.",
+      "evidence": {
+        "identity": "Conan's Wheel; distance execution; conan wheel.",
+        "instructions": "Setup: With the weight loaded, take a zurcher hold on the end of the implement. Place the bar in the crook of the elbow and hold onto your wrist. Try to keep the weight off of the forearms.",
+        "equipment": "Required setup: conan wheel. Load entry: required.",
+        "tracking": "10 metres for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: quadriceps. Supporting: abdominals, biceps, calves, forearms, lower back, shoulders, traps.",
+        "eligibility": "advanced; activities strength, conditioning; goals strength, athleticism.",
+        "prescription": "2 sets; 10 metres for the complete movement; 90 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_circus_bell_3040d264": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Circus dumbbell is cleaned with both hands and pressed with one; add per-side targets.",
+      "evidence": {
+        "identity": "Circus Bell; reps execution; circus dumbbell.",
+        "instructions": "Setup: The circus bell is an oversized dumbbell with a thick handle. Begin with the dumbbell between your feet, and grip the handle with both hands.",
+        "equipment": "Required setup: circus dumbbell. Load entry: required.",
+        "tracking": "3–5 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: shoulders. Supporting: forearms, glutes, hamstrings, lower back, traps, triceps.",
+        "eligibility": "advanced; activities strength, conditioning; goals strength, athleticism.",
+        "prescription": "2 sets; 3–5 repetitions per side; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected perSide.",
+        "Defined the single-arm quantity and full-lift repetition."
+      ]
+    },
+    "open_power_stairs_bc4ec7fb": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Power Stairs equipment chooses box but instructions still describe staircase/tire alternatives and event progression. Describe selected stable box/platform setup, one load as one rep, and use prescribed dose rather than forced heavier sequence.",
+      "evidence": {
+        "identity": "Power Stairs; reps execution; power stair implement, box.",
+        "instructions": "Setup: Place a power-stair implement on the floor directly in front of a stable loading box rated for the load. Leave room to lift, place and reset it under control.",
+        "equipment": "Required setup: power stair implement, box. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: hamstrings. Supporting: adductors, calves, glutes, lower back, quadriceps, shoulders, traps.",
+        "eligibility": "advanced; activities strength, conditioning; goals strength, athleticism.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected instructions.",
+        "Selected stable loading-box variant and one load per rep.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_atlas_stone_trainer_162558bb": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Atlas-stone trainer prose starts with commentary; replace introduction with direct setup while preserving trainer apparatus.",
+      "evidence": {
+        "identity": "Atlas Stone Trainer; reps execution; atlas stone trainer.",
+        "instructions": "Setup: Use an atlas-stone trainer with plates secured on its loading pin. Place it on the floor with room to lift and return it under control.",
+        "equipment": "Required setup: atlas stone trainer. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: lower back. Supporting: biceps, forearms, glutes, hamstrings, quadriceps.",
+        "eligibility": "advanced; activities strength, conditioning; goals strength, athleticism.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Replaced background commentary with a concrete trainer setup."
+      ]
+    },
+    "open_lying_face_down_plate_b23a381c": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Prone plate-resisted neck extension uses bench with secured head load; advanced level and low 5–6 dose are explicit.",
+      "evidence": {
+        "identity": "Lying Face Down Plate Neck Resistance; reps execution; weight plate, bench.",
+        "instructions": "Setup: Lie face down with your whole body straight on a flat bench while holding a weight plate behind your head. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the upper chest, neck and face to be off the bench. This will be your starting position.",
+        "equipment": "Required setup: weight plate, bench. Load entry: required.",
+        "tracking": "5–6 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: neck. Supporting: none asserted.",
+        "eligibility": "advanced; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "1 sets; 5–6 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_lying_face_up_plate_n_d46c08c8": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Supine plate-resisted neck flexion uses bench and forehead plate; advanced low-dose metadata matches the described variant.",
+      "evidence": {
+        "identity": "Lying Face Up Plate Neck Resistance; reps execution; weight plate, bench.",
+        "instructions": "Setup: Lie face up with your whole body straight on a flat bench while holding a weight plate on top of your forehead. Tip: You will need to position yourself so that your shoulders are slightly above the end of a flat bench in order for the traps, neck and head to be off the bench. This will be your starting position.",
+        "equipment": "Required setup: weight plate, bench. Load entry: required.",
+        "tracking": "5–6 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: neck. Supporting: none asserted.",
+        "eligibility": "advanced; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "1 sets; 5–6 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_standing_towel_tricep_8d8f0cd9": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Partner applies resistance through a towel held overhead while the exerciser extends the elbows; towel and partner are genuinely required and no numeric load is implied.",
+      "evidence": {
+        "identity": "Standing Towel Triceps Extension; reps execution; bodyweight, towel, training partner.",
+        "instructions": "Setup: To begin, stand up with both arms fully extended above the head holding one end of a towel with both hands. Your elbows should be in and the arms perpendicular to the floor with the palms facing each other while your feet should be shoulder width apart from each other. This is the starting position.",
+        "equipment": "Required setup: bodyweight, towel, training partner. Load entry: none.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength, calisthenics; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_janda_sit_up_94c5e650": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Janda sit-up prose claims full hip-flexor inactivation without evidence and omits resistance setup; rewrite as partner-resisted variant.",
+      "evidence": {
+        "identity": "Partner-Resisted Janda Sit-Up; reps execution; bodyweight, training partner.",
+        "instructions": "Setup: Lie on the back with the knees bent and feet flat. A partner holds the backs of the lower legs and gently resists your attempt to pull the heels toward the body, keeping the feet in place.",
+        "equipment": "Required setup: bodyweight, training partner. Load entry: none.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: abdominals. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength, calisthenics; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Corrected equipment.",
+        "Corrected instructions."
+      ]
+    },
+    "open_wide_grip_rear_pull_u_67095fca": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-17",
+      "instructionReview": "Wide-grip rear pull-up explicitly approaches the bar behind the head, pauses and lowers; advanced classification preserves this distinct execution rather than merging it with front pull-ups. Grip qualifier removed from display name by user direction; equipment, support and movement remain explicit. Grip cues are setup guidance, not separate catalog identities.",
+      "evidence": {
+        "identity": "Wide-Grip Rear Pull-Up; reps execution; bodyweight, pull up bar.",
+        "instructions": "Setup: Grab the pull-up bar with the palms facing forward using a wide grip.",
+        "equipment": "Required setup: bodyweight, pull up bar. Load entry: none.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: lats. Supporting: biceps, middle back, shoulders.",
+        "eligibility": "advanced; activities strength, calisthenics; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_barbell_guillotine_be_4ff392e3": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Guillotine press intentionally lowers near the neck; preserve distinct advanced identity, bounded range and rack setup.",
+      "evidence": {
+        "identity": "Barbell Guillotine Bench Press; reps execution; barbell, bench, squat rack.",
+        "instructions": "Setup: Using a medium width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over your neck with your arms locked. This will be your starting position.",
+        "equipment": "Required setup: barbell, bench, squat rack. Load entry: required.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: shoulders, triceps.",
+        "eligibility": "advanced; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_spell_caster_a48b212e": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Spell Caster swings loaded straight arms across torso with hips/knees locked and lacks counted cycle; beginner label is weak for this rotation.",
+      "evidence": {
+        "identity": "Spell Caster; reps execution; dumbbells.",
+        "instructions": "Setup: Stand with a dumbbell in each hand, knees soft and the trunk braced.",
+        "equipment": "Required setup: dumbbells. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: abdominals. Supporting: glutes, shoulders.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected difficulty.",
+        "Corrected instructions.",
+        "Spell Caster swings loaded straight arms across torso with hips/knees locked and lacks counted cycle; beginner label is weak for this rotation."
+      ]
+    },
+    "open_car_drivers_f2a511b0": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Plate steering movement alternates direction; define a left/right turn-and-return as one cycle.",
+      "evidence": {
+        "identity": "Car Drivers; reps execution; weight plate.",
+        "instructions": "Setup: While standing upright, hold a barbell plate in both hands at the 3 and 9 o'clock positions. Your palms should be facing each other and your arms should be extended straight out in front of you. This will be your starting position.",
+        "equipment": "Required setup: weight plate. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: shoulders. Supporting: forearms.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Defined the alternating turn cycle for one logged repetition."
+      ]
+    },
+    "open_prone_manual_hamstrin_98bf8cf1": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Partner-resisted hamstring curl describes one heel/leg; add perSide true and switch-leg instructions. Keep unmeasured manual resistance as none-load rather than fabricated weight.",
+      "evidence": {
+        "identity": "Prone Manual Hamstring; reps execution; bodyweight, training partner.",
+        "instructions": "Setup: Lie face down with both legs straight. Have a partner place a hand behind one heel and agree on light, controllable resistance.",
+        "equipment": "Required setup: bodyweight, training partner. Load entry: none.",
+        "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: hamstrings. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength, calisthenics; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions per side; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected perSide.",
+        "Corrected instructions.",
+        "Added per-leg manual curl while keeping unmeasured partner resistance.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_depth_jump_leap_70493535": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Read all instruction steps and current anatomy, apparatus, measurement, per-side, difficulty and dose; no specific correction identified in this pass.",
+      "evidence": {
+        "identity": "Two-Box Depth Jump; reps execution; box.",
+        "instructions": "Setup: Place two stable low boxes a comfortable jumping distance apart on a clear nonslip surface. Stand at the edge of the first box facing the second.",
+        "equipment": "Required setup: box. Load entry: none.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: quadriceps. Supporting: abductors, adductors, calves, glutes, hamstrings.",
+        "eligibility": "intermediate; activities conditioning; goals athleticism, endurance, general.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 90 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Corrected instructions.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    }
+  },
+  "sourceDecisions": [
+    {
+      "sourceId": "Anti-Gravity_Press",
+      "sourceName": "Anti-Gravity Press",
+      "status": "imported",
+      "canonicalId": "open_anti_gravity_press_1a397a57",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "9cd65b880911af553d93dcd1e1ef6c0caafb677363d9c2ef8a00e11718749e09"
+    },
+    {
+      "sourceId": "Atlas_Stone_Trainer",
+      "sourceName": "Atlas Stone Trainer",
+      "status": "imported",
+      "canonicalId": "open_atlas_stone_trainer_162558bb",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "atlas stone trainer"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "94f49e0de685ee4d038aff310b149411023e625eca73201af544c1f0438a9102"
+    },
+    {
+      "sourceId": "Barbell_Guillotine_Bench_Press",
+      "sourceName": "Barbell Guillotine Bench Press",
+      "status": "imported",
+      "canonicalId": "open_barbell_guillotine_be_4ff392e3",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "bench",
+          "squat rack"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "480df482b198df8b41b7372ee550c05da3be08f1e0777e53d8691f9492b5287a"
+    },
+    {
+      "sourceId": "Barbell_Rollout_from_Bench",
+      "sourceName": "Barbell Rollout from Bench",
+      "status": "imported",
+      "canonicalId": "open_barbell_rollout_from__b9cc7297",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "925b21cfc610c18afa719d823a0f6152fbb3fd67e4ae83202fd134a9192c36ea"
+    },
+    {
+      "sourceId": "Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench",
+      "sourceName": "Bent Over Dumbbell Rear Delt Raise With Head On Bench",
+      "status": "imported",
+      "canonicalId": "open_bent_over_dumbbell_re_d9ec09e5",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "dumbbells",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "cd798dd31f7d03560442e5286b8c800a8f1a91350d282dcea55d2dec7b760cab"
+    },
+    {
+      "sourceId": "Bodyweight_Flyes",
+      "sourceName": "Bodyweight Flyes",
+      "status": "imported",
+      "canonicalId": "open_bodyweight_flyes_5c0c269e",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "ez bar"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "180b1c9911ae8f8002643fd531de7cb4dc5c927d871b7267997f859fe58c99f4"
+    },
+    {
+      "sourceId": "Cable_Judo_Flip",
+      "sourceName": "Cable Judo Flip",
+      "status": "imported",
+      "canonicalId": "open_cable_judo_flip_5081c871",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "cables"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "c2f35339b9272607f35969bf17727f150e4e8cea2c0189cdce50a37f7326bd63"
+    },
+    {
+      "sourceId": "Calf-Machine_Shoulder_Shrug",
+      "sourceName": "Calf-Machine Shoulder Shrug",
+      "status": "imported",
+      "canonicalId": "open_calf_machine_shoulder_2e10a679",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "machines"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "7c2411ee28cff30e9c0494b8c707d6ae7444d59c7d3515b5221dc5f498e78fdd"
+    },
+    {
+      "sourceId": "Calf_Raise_On_A_Dumbbell",
+      "sourceName": "Calf Raise On A Dumbbell",
+      "status": "imported",
+      "canonicalId": "open_calf_raise_on_a_dumbb_8049fbad",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "bodyweight",
+          "dumbbells",
+          "wall"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "ed17736510ee2b848dba60472a10cdee24307d42a169393258a795f449c05191"
+    },
+    {
+      "sourceId": "Car_Deadlift",
+      "sourceName": "Car Deadlift",
+      "status": "imported",
+      "canonicalId": "open_car_deadlift_c76d6085",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "car deadlift apparatus"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "cf0210a2180688e459ddc026e8e40f03cb13e14decdf4065b19bf1472fcd2c29"
+    },
+    {
+      "sourceId": "Car_Drivers",
+      "sourceName": "Car Drivers",
+      "status": "imported",
+      "canonicalId": "open_car_drivers_f2a511b0",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "weight plate"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "6054f0b0157e8dbbb5526b3000277c732ed9fae867e1a93a4d72a2dfd89dded1"
+    },
+    {
+      "sourceId": "Chest_Push_multiple_response",
+      "sourceName": "Chest Push (multiple response)",
+      "status": "mapped",
+      "canonicalId": "open_chest_push_single_res_1588efd7",
+      "reason": "Merged by editorial identity review: Both use the same kneeling chest pass followed by a hands-supported landing; returning the ball between repetitions does not create a distinct exercise.",
+      "normalization": {
+        "equipment": [
+          "medicine ball"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "optional",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "2247f1556971818db0cf85bebe1a8fdf8cf5a50b17a4289f478c7dc9677e6f04"
+    },
+    {
+      "sourceId": "Chest_Push_single_response",
+      "sourceName": "Chest Push (single response)",
+      "status": "imported",
+      "canonicalId": "open_chest_push_single_res_1588efd7",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "medicine ball"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "optional",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "f2d27af478021f2d04a3c941aaafe7aad22d63aa8e50b74537776ff32d72eabf"
+    },
+    {
+      "sourceId": "Circus_Bell",
+      "sourceName": "Circus Bell",
+      "status": "imported",
+      "canonicalId": "open_circus_bell_3040d264",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "circus dumbbell"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "b26521f0d12b07ca6cca525f4c09df23498cb0ab1f013a83b386c5cd8451b2a0"
+    },
+    {
+      "sourceId": "Close-Grip_Push-Up_off_of_a_Dumbbell",
+      "sourceName": "Close-Grip Push-Up off of a Dumbbell",
+      "status": "imported",
+      "canonicalId": "open_close_grip_push_up_of_9056d7cb",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "bodyweight",
+          "dumbbells"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "651a47d7cb5a8e3b9f334f4831fd0804a9f85a7312ca74cf3f25b4b80fdae2e6"
+    },
+    {
+      "sourceId": "Conans_Wheel",
+      "sourceName": "Conan's Wheel",
+      "status": "imported",
+      "canonicalId": "open_conans_wheel_58c17022",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "conan wheel"
+        ],
+        "measurementType": "distance",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "127c7de9b9deab5c359dd21fb4107f33012c8cad3076dfb6f76dfa479135feaa"
+    },
+    {
+      "sourceId": "Decline_Close-Grip_Bench_To_Skull_Crusher",
+      "sourceName": "Decline Close-Grip Bench To Skull Crusher",
+      "status": "imported",
+      "canonicalId": "open_decline_close_grip_be_96ad3791",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "bench",
+          "squat rack"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "ba357158e8e695436faa807b286cb35cce58e9d6616940d7b38d3d37913f866a"
+    },
+    {
+      "sourceId": "Depth_Jump_Leap",
+      "sourceName": "Depth Jump Leap",
+      "status": "imported",
+      "canonicalId": "open_depth_jump_leap_70493535",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "box"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "bb2f36c3686be3623b67cb1a268527acc60156dcee99018665da9d2650cd2f8d"
+    },
+    {
+      "sourceId": "Dumbbell_Seated_Box_Jump",
+      "sourceName": "Dumbbell Seated Box Jump",
+      "status": "imported",
+      "canonicalId": "open_dumbbell_seated_box_j_aff3a59d",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "dumbbells",
+          "bench",
+          "box"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "56f37c3bc9871d5f81eef1a3f487a5fc93a2adc87de116166a230c951eabc847"
+    },
+    {
+      "sourceId": "Extended_Range_One-Arm_Kettlebell_Floor_Press",
+      "sourceName": "Extended Range One-Arm Kettlebell Floor Press",
+      "status": "imported",
+      "canonicalId": "open_extended_range_one_ar_e7886a25",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "kettlebell"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "d0796b5bcad2de63ed41050c64d8d07e75162b7ae5012198b7e662dcb16f9f6c"
+    },
+    {
+      "sourceId": "Front_Raise_And_Pullover",
+      "sourceName": "Front Raise And Pullover",
+      "status": "imported",
+      "canonicalId": "open_front_raise_and_pullo_9436213a",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "77578fb7dc16d0aaba6db241f4f537b34ca46b2044d2cc219c06074902004474"
+    },
+    {
+      "sourceId": "Gorilla_Chin_Crunch",
+      "sourceName": "Gorilla Chin/Crunch",
+      "status": "imported",
+      "canonicalId": "open_gorilla_chin_crunch_3c75601b",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "bodyweight",
+          "pull up bar"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "a9fd7f576a9afc9c6296c26e2a4528bb04c8a504849993c922307a1cd1169396"
+    },
+    {
+      "sourceId": "Hanging_Bar_Good_Morning",
+      "sourceName": "Hanging Bar Good Morning",
+      "status": "imported",
+      "canonicalId": "open_hanging_bar_good_morn_ed1ce07a",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "squat rack",
+          "chains"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "cbf5538abd40fa1d1fb600f0f8df663cf13b2519551021d2cc7cbe09a90c3094"
+    },
+    {
+      "sourceId": "Hyperextensions_With_No_Hyperextension_Bench",
+      "sourceName": "Hyperextensions With No Hyperextension Bench",
+      "status": "imported",
+      "canonicalId": "open_hyperextensions_with__678189b8",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "bodyweight",
+          "bench",
+          "training partner"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "1c05bd8037bb08c2a916a7286ab5d22e1ee4a5bab5607080896dbbc2feb0a6f4"
+    },
+    {
+      "sourceId": "Janda_Sit-Up",
+      "sourceName": "Janda Sit-Up",
+      "status": "imported",
+      "canonicalId": "open_janda_sit_up_94c5e650",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "bodyweight",
+          "training partner"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "0c78c65448e8b81496d22c9a8304a23cabedb62f996166bf97619e54b33a4d48"
+    },
+    {
+      "sourceId": "Kettlebell_Pirate_Ships",
+      "sourceName": "Kettlebell Pirate Ships",
+      "status": "imported",
+      "canonicalId": "open_kettlebell_pirate_shi_b728c20f",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "kettlebell"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "e6c9055a86d1f9b8fa269668d59996dbc000c95c8c2c82e0bfd51bf44074597e"
+    },
+    {
+      "sourceId": "Kneeling_Jump_Squat",
+      "sourceName": "Kneeling Jump Squat",
+      "status": "imported",
+      "canonicalId": "open_kneeling_jump_squat_5d95a961",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "squat rack"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "3865fa275d6744c9afb63e520104343c2b55798afd21cc18eec8546213437764"
+    },
+    {
+      "sourceId": "Leg-Over_Floor_Press",
+      "sourceName": "Leg-Over Floor Press",
+      "status": "imported",
+      "canonicalId": "open_leg_over_floor_press_b9eef475",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "kettlebell"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "ee7135de9019344d37be7022c82b1cdd2093481162dbf4a200e35dcf2f6e1b8c"
+    },
+    {
+      "sourceId": "Linear_Depth_Jump",
+      "sourceName": "Linear Depth Jump",
+      "status": "mapped",
+      "canonicalId": "open_depth_jump_leap_70493535",
+      "reason": "Merged by editorial identity review: Both drop from a first box, land briefly and rebound onto a second box; configurable box heights do not define another exercise.",
+      "normalization": {
+        "equipment": [
+          "box"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "379516e6f8b1dd8766dde943555b6ce0a58ca052aeb4811cf0ea18664f9b9177"
+    },
+    {
+      "sourceId": "London_Bridges",
+      "sourceName": "London Bridges",
+      "status": "imported",
+      "canonicalId": "open_london_bridges_2cb32544",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "bodyweight",
+          "rope",
+          "smith machine"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "7d5c0393d0d32a33fbf337503783091a36f754c0f6e866839d47b1b6f234d7d6"
+    },
+    {
+      "sourceId": "Lunge_Sprint",
+      "sourceName": "Lunge Sprint",
+      "status": "imported",
+      "canonicalId": "open_lunge_sprint_2064bb35",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "smith machine"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "b8a4a2f3d3d1020bf6ca519818e6ed80c229819801a40e949d82715c75dd305b"
+    },
+    {
+      "sourceId": "Lying_Face_Down_Plate_Neck_Resistance",
+      "sourceName": "Lying Face Down Plate Neck Resistance",
+      "status": "imported",
+      "canonicalId": "open_lying_face_down_plate_b23a381c",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "weight plate",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "9c177ab541eb29eb74c37872e69d348b870a54b0c1c34828615176d8b7db2b21"
+    },
+    {
+      "sourceId": "Lying_Face_Up_Plate_Neck_Resistance",
+      "sourceName": "Lying Face Up Plate Neck Resistance",
+      "status": "imported",
+      "canonicalId": "open_lying_face_up_plate_n_d46c08c8",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "weight plate",
+          "bench"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "88e798f3013fcb66e1e1d66372ccfbe5ee115982b337ca4fe05af308e2c2c45f"
+    },
+    {
+      "sourceId": "Neck_Press",
+      "sourceName": "Neck Press",
+      "status": "mapped",
+      "canonicalId": "open_barbell_guillotine_be_4ff392e3",
+      "reason": "Merged by editorial identity review: Compared all steps against open_barbell_guillotine_be_4ff392e3: same rack/bar/flat-bench high chest-press path and loaded reps, except this duplicate incorrectly mandates neck contact.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "bench",
+          "squat rack"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "4405855d06f5304125a86e5f0fac2cc44eabee883ed61e452f4b91684636a67a"
+    },
+    {
+      "sourceId": "One-Arm_Open_Palm_Kettlebell_Clean",
+      "sourceName": "One-Arm Open Palm Kettlebell Clean",
+      "status": "imported",
+      "canonicalId": "open_one_arm_open_palm_ket_f2e22770",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "kettlebell"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "6fa59feef691cd6ac647ec3b87b12759ece10fe6d40185bc7f5985b81cf5260b"
+    },
+    {
+      "sourceId": "Open_Palm_Kettlebell_Clean",
+      "sourceName": "Open Palm Kettlebell Clean",
+      "status": "imported",
+      "canonicalId": "open_open_palm_kettlebell__d0d6b756",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "kettlebell"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "2f306fa78d0d8a7365b309961cadb35f93d7be594ef15e39f7327ca8a1d28759"
+    },
+    {
+      "sourceId": "Power_Stairs",
+      "sourceName": "Power Stairs",
+      "status": "imported",
+      "canonicalId": "open_power_stairs_bc4ec7fb",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "power stair implement",
+          "box"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "1e862d899053ce663e8d2c6b85cf299ea844594f7facf1211b4e880d9637cedb"
+    },
+    {
+      "sourceId": "Prone_Manual_Hamstring",
+      "sourceName": "Prone Manual Hamstring",
+      "status": "imported",
+      "canonicalId": "open_prone_manual_hamstrin_98bf8cf1",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "bodyweight",
+          "training partner"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "78f57ddbff746d375d424a48e800e8fd9317cfbe552c3e3eea1f53a074b4b991"
+    },
+    {
+      "sourceId": "Smith_Machine_Leg_Press",
+      "sourceName": "Smith Machine Leg Press",
+      "status": "imported",
+      "canonicalId": "open_smith_machine_leg_pre_a7996364",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "smith machine",
+          "smith leg press attachment"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "59dc7c973d6b416cdced2e9a1d510ac179b3322c3cf70ed861bc9afdc618d8f0"
+    },
+    {
+      "sourceId": "Spell_Caster",
+      "sourceName": "Spell Caster",
+      "status": "imported",
+      "canonicalId": "open_spell_caster_a48b212e",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "dumbbells"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "intermediate",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "735dfd43b61ab59a97ee9ab4d46891001c4541473eb103f3f7b555154ef4e27b"
+    },
+    {
+      "sourceId": "Squat_with_Plate_Movers",
+      "sourceName": "Squat with Plate Movers",
+      "status": "imported",
+      "canonicalId": "open_squat_with_plate_move_61c96070",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "barbell",
+          "squat rack",
+          "weight plate"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "13acb884065607035707b7cc7db8c0ef3cb0e958589931b0bc1172162fbbaa71"
+    },
+    {
+      "sourceId": "Standing_Towel_Triceps_Extension",
+      "sourceName": "Standing Towel Triceps Extension",
+      "status": "imported",
+      "canonicalId": "open_standing_towel_tricep_8d8f0cd9",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "bodyweight",
+          "towel",
+          "training partner"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "beginner",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "e777a0901d58a803fb574541cb89a2893d7ec117ec794dbbb3af444881a0e14d"
+    },
+    {
+      "sourceId": "Wide-Grip_Rear_Pull-Up",
+      "sourceName": "Wide-Grip Rear Pull-Up",
+      "status": "imported",
+      "canonicalId": "open_wide_grip_rear_pull_u_67095fca",
+      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
+      "normalization": {
+        "equipment": [
+          "bodyweight",
+          "pull up bar"
+        ],
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "difficulty": "advanced",
+        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
+      },
+      "sourceRecordSha256": "d6dd8ba30974682ae6d1bd10018b8ef7de8f0a463d0050d0d192bde3c1eace42"
+    }
+  ],
+  "removedRoundExerciseIds": [
+    "open_anti_gravity_press_1a397a57",
+    "open_bent_over_dumbbell_re_d9ec09e5",
+    "open_cable_judo_flip_5081c871",
+    "open_calf_machine_shoulder_2e10a679",
+    "open_close_grip_push_up_of_9056d7cb",
+    "open_front_raise_and_pullo_9436213a",
+    "open_hanging_bar_good_morn_ed1ce07a"
+  ]
+}

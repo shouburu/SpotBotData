@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-11",
+  "reviews": [
+    {
+      "assetId": "r11-bent-arm-barbell-pullover-t2v-22b40196",
+      "attemptId": "attempt_22b40196c8664b10",
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r11-bent-arm-barbell-pullover-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-bent-arm-barbell-pullover-t2v-22b40196.mp4",
+      "outputSha256": "588b783bab1221c0ef28ccc4122be4680b219fe05bafa8ea47d214b2bb39b279",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:37:26.174483+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bar drops vertically toward the chest in a press pattern. No controlled shoulder-driven sweep behind the head and return is visible, so this does not teach a bent-arm pullover."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_22b40196c8664b10/review-3fps-01.jpg",
+        "reports/form-media/attempt_22b40196c8664b10/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-decline-dumbbell-fly-t2v-4fc469a5",
+      "attemptId": "attempt_4fc469a5a6034511",
+      "exerciseId": "open_decline_dumbbell_flye_14b2de63",
+      "shot": "r11-decline-dumbbell-fly-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-decline-dumbbell-fly-t2v-4fc469a5.mp4",
+      "outputSha256": "02c1401b910e7bd452ed1dfe777c10c5c4c131a0fa34caf452a0fcbe1e56b51a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:37:26.175393+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bench slopes upward toward the head, making this an incline rather than a decline fly. The dumbbell shafts also tip during the arc; the named apparatus and stable-grip requirements both fail."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_4fc469a5a6034511/review-3fps-01.jpg",
+        "reports/form-media/attempt_4fc469a5a6034511/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-landmine-180-t2v-a410ca54",
+      "attemptId": "attempt_a410ca541a8f4c62",
+      "exerciseId": "open_landmine_180s_8bd8af32",
+      "shot": "r11-landmine-180-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-landmine-180-t2v-a410ca54.mp4",
+      "outputSha256": "d6665a2e6dc2adcafa014b76fd46993b3d67274751174865b3cc3289ff98103c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:37:26.176316+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The initial end appears anchored, but later frames show the bar detached and horizontal across the hands. The landmine socket and one rigid shaft are not preserved throughout the left-right-left traversal."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a410ca541a8f4c62/review-3fps-01.jpg",
+        "reports/form-media/attempt_a410ca541a8f4c62/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-prone-dumbbell-external-rotation-t2v-40022ba8",
+      "attemptId": "attempt_40022ba8c52045e6",
+      "exerciseId": "open_dumbbell_lying_pronat_95605e7c",
+      "shot": "r11-prone-dumbbell-external-rotation-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-prone-dumbbell-external-rotation-t2v-40022ba8.mp4",
+      "outputSha256": "eab189e7b90fe7f4d21c6a50430dcf69b6345e78c2216e436e67918ec582470e",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:37:26.176850+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The elbow and upper arm move through a row or curl. The forearm does not visibly rotate around a fixed bent elbow at the shoulder, so the intended rotator-cuff motion is not taught."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_40022ba8c52045e6/review-3fps-01.jpg",
+        "reports/form-media/attempt_40022ba8c52045e6/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-power-snatch-t2v-9aa457c9",
+      "attemptId": "attempt_9aa457c976534e07",
+      "exerciseId": "open_power_snatch_3f9ccaec",
+      "shot": "r11-power-snatch-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-power-snatch-t2v-9aa457c9.mp4",
+      "outputSha256": "b62fad4c73c30edb47e30030380283b7044cd66694d799ad9752541996c4c326",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:37:26.177421+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bar is first brought to shoulder height with a narrow grip and then pressed overhead. There is no wide-grip floor-to-overhead snatch or partial-squat overhead catch."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_9aa457c976534e07/review-3fps-01.jpg",
+        "reports/form-media/attempt_9aa457c976534e07/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-smith-machine-calf-t2v-32a75bc3",
+      "attemptId": "attempt_32a75bc3ef424a38",
+      "exerciseId": "open_smith_machine_calf_ra_ccc5bca6",
+      "shot": "r11-smith-machine-calf-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-smith-machine-calf-t2v-32a75bc3.mp4",
+      "outputSha256": "c233c14c3f75dcac9ef80ceaa9491d0f8b5764d153b1725681a52c132b5e7ba9",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:37:26.177717+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The feet remain fully on top of the plate rather than having the heels free beyond its edge. The heel travel is small and the end frames begin another lift instead of holding the original low endpoint. The user previously rejected similar calf-raise clips."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_32a75bc3ef424a38/review-3fps-01.jpg",
+        "reports/form-media/attempt_32a75bc3ef424a38/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-clean-and-press-t2v-fc340853",
+      "attemptId": "attempt_fc340853f73845ba",
+      "exerciseId": "open_clean_and_press_7da75b45",
+      "shot": "r11-clean-and-press-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-clean-and-press-t2v-fc340853.mp4",
+      "outputSha256": "5c275316991ecee553c19295a734713d37780ea3e2b69cec02b598f7eac4d4d0",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:37:26.178315+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bar starts already elevated near the knees, pauses at the waist before a separate rack, and ends at the shoulders without returning to the floor. This omits the continuous floor clean and complete return requested for one full rep."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_fc340853f73845ba/review-3fps-01.jpg",
+        "reports/form-media/attempt_fc340853f73845ba/review-3fps-02.jpg"
+      ]
+    }
+  ]
+}

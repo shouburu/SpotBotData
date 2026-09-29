@@ -1,0 +1,60 @@
+{
+  "id": "group_b96c7ba705e44b3b",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:19:53+00:00",
+  "balanceBefore": 6722,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_kneeling_high_pulley__4b9c25cf",
+      "shot": "r8-open-kneeling-high-pulley--4b9c25cf-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "45731237cc38aa800ce3d6280cfcbcea9d6f14edb4fe4e7a3de247bac3877bb9",
+      "quoteFile": "form-media/ui-quotes/r8-open-kneeling-high-pulley--4b9c25cf-motion-1ddb2f0c.json",
+      "quoteSha256": "e3190ac54c940330c435b32d3b0fe3d0ed45a10eb095d033061a41c1ad9695c5",
+      "quoteCredits": 12,
+      "balance": 6722,
+      "references": []
+    },
+    {
+      "exerciseId": "open_kneeling_single_arm_h_f7d656f5",
+      "shot": "r8-open-kneeling-single-arm-h-f7d656f5-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "112b7318d8817b0d7dba68ea39e76144adba88a8e41a915e550b101694bbf93d",
+      "quoteFile": "form-media/ui-quotes/r8-open-kneeling-single-arm-h-f7d656f5-motion-49d8e954.json",
+      "quoteSha256": "3d137303e73f8e94a24d57fe33c3c9ccd9d77ed8e5d10bc08a22dd25af9db75a",
+      "quoteCredits": 12,
+      "balance": 6722,
+      "references": []
+    },
+    {
+      "exerciseId": "open_kneeling_squat_949ce370",
+      "shot": "r8-open-kneeling-squat-949ce370-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "6ebe1fe7e6414defb835da7e6b1b2dd015306ee386347a95ffbd752ee704f8c9",
+      "quoteFile": "form-media/ui-quotes/r8-open-kneeling-squat-949ce370-motion-09f8d3f9.json",
+      "quoteSha256": "93f7b819cd93a82998f4d6f385a1ed89575389a6dbd47f9471bb66631b32dd20",
+      "quoteCredits": 12,
+      "balance": 6722,
+      "references": []
+    },
+    {
+      "exerciseId": "open_landmine_180s_8bd8af32",
+      "shot": "r8-open-landmine-180s-8bd8af32-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "92610463653a0961253e2dd37868b300bd88959f17dbae4e054bad432669a0fd",
+      "quoteFile": "form-media/ui-quotes/r8-open-landmine-180s-8bd8af32-motion-29a5b3ec.json",
+      "quoteSha256": "9f53c8118246f001878f42d690dd9166c9e397810528794333bd2b3904e777eb",
+      "quoteCredits": 12,
+      "balance": 6722,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:21:30+00:00",
+  "balanceAfter": 6674,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-3489f3e31eed4d31.json",
+  "evidenceSha256": "d232b0eaa5cd9fa9302e53c2ad81f7a80a8f769781d30f218e2b1d1caa884ee4"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "group_c62c7480163c4ae0",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T01:17:42+00:00",
+  "balanceBefore": 5955,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_cable_internal_rotati_e82490e5",
+      "shot": "r9-open-cable-internal-rotati-e82490e5-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "22f2d65d559a032fd7fa70c36e6164bdc1b89ee90c55e6c89372a019fad80792",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-internal-rotati-e82490e5-start-5975236e.json",
+      "quoteSha256": "c46641c0a60d43ae8e228da370db1230c27b471dd639c088ea15dd75b0281858",
+      "quoteCredits": 0,
+      "balance": 5955,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-internal-rotati-e82490e5-start/attempt_0cc9566064b344fb.jpg",
+          "sha256": "7d40af196974fb4365055a565bb052c16f9451cb502cfacac6bf8ca8f2aa4192"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "69b93f4294abbe93806216dcd02eca460bfe10393a05283ba51fe9458dc6fef3",
+      "quoteFile": "form-media/ui-quotes/r9-open-donkey-calf-raises-55a343b9-start-8fb07afe.json",
+      "quoteSha256": "e00a6d7c752f99748716c871d3c7570f0eb9c962bf022f018f346a501613a3ad",
+      "quoteCredits": 0,
+      "balance": 5955,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_c4b14639e3174ea3.jpg",
+          "sha256": "abd9932c233e649024f849dbde6d9274a1ca92d94e11f1dd5e7f9fcfe674d817"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_arnold_press",
+      "shot": "r9-ex-arnold-press-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "c4dafb96e865f2ea7c5bd8064ec2169541af18327b4572c7300f3524063610a8",
+      "quoteFile": "form-media/ui-quotes/r9-ex-arnold-press-start-413504b6.json",
+      "quoteSha256": "c4cf3f216cde8f070b54961ef951d3259c28f48949eadeb44d904c8cad9d1a5b",
+      "quoteCredits": 0,
+      "balance": 5955,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-arnold-press-start/attempt_dcb140ce66dd44be.jpg",
+          "sha256": "efcc0cbbdcfb38a24bee1599946faa89c51b713ec9cd790abeea6e5ef8f51072"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dip_machine_74e49ff5",
+      "shot": "r9-open-dip-machine-74e49ff5-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "a3d82879522fbc62aeb3cbc6cb5264b19b08271f03122c9f4e08970a5663b7dd",
+      "quoteFile": "form-media/ui-quotes/r9-open-dip-machine-74e49ff5-start-fdcad26b.json",
+      "quoteSha256": "a1cfa91b3ae9a3e4477115f2de5d16514ccff1e259c700e8d7a7beffde3945f9",
+      "quoteCredits": 0,
+      "balance": 5955,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dip-machine-74e49ff5-start/attempt_adf1b445ca944737.jpg",
+          "sha256": "99d1d34e970e97142b4dc73d3b4395d4e8866440b6759f3565bd2ecc7d6c9b95"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "zero-price-observed-completion-manual",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T01:23:33+00:00",
+  "balanceAfter": 6005,
+  "actualCredits": 0,
+  "providerBalanceAdjustment": {
+    "observedChange": 50,
+    "classification": "unattributed-positive-provider-balance-adjustment",
+    "cause": "Unknown. Not assigned as a refund to any attempt; not counted as additional pilot allowance.",
+    "before": 5955,
+    "after": 6005,
+    "evidenceFile": "form-media/ui-quotes/round-9-positive-balance-recheck.json",
+    "evidenceSha256": "d38f5d0c1558bc733e0cc275be23fca8b556712d41b178b99e50d19ace1ac04c",
+    "budgetEffect": 0
+  },
+  "evidenceFile": "reports/round-9-preparation/zero-price-positive-adjustment-reconciliation.json",
+  "evidenceSha256": "7d19e132ff7de28b3c0a34cd3e051c0e1c026e01a75163bfa420fc1fe2028d09"
+}

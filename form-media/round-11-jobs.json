@@ -1,0 +1,737 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-11",
+  "jobs": [
+    {
+      "shot": "r11-arnold-press-t2v",
+      "exerciseId": "ex_arnold_press",
+      "name": "Arnold Press",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "round-11-correction-2",
+      "promptFile": "form-media/prompts/r11-arnold-press-t2v.txt",
+      "promptSha256": "dcc5c9e5cc27ec3edd7b6cde8e40ea6721ef6a4989f330d18c270f326afb8ce4",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Distinct text-to-video trial after prior image-anchored attempts failed equipment or motion checks; exact delivered output requires independent AI editorial screening.",
+      "canonicalInstructions": [
+        "Stand with a steady trunk and dumbbells in front of the shoulders, palms facing you.",
+        "Rotate the palms forward as you press up, then reverse slowly through a comfortable shoulder range.",
+        "Optional seating: sit on a stable bench with feet planted and the back supported or torso held steady. Keep the same comfortable rotation and overhead press without leaning back."
+      ],
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "abdominals"
+      ],
+      "title": "Anatomical 3D · Standing Arnold Press · review pending",
+      "alt": "Standing Arnold Press, one full overhead rotation and complete return with shoulder cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "bad",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling.",
+      "correctAfterAttemptId": "attempt_dbbb50f808004ee8",
+      "correctionReviewOutput": {
+        "path": "form-media/assets/delivery/round-11/r11-arnold-press-t2v-dbbb50f8.mp4",
+        "sha256": "57e5efcb26591e330b16386dbcc73c6f0de9e0cd61478126a664508903751de7",
+        "role": "delivery"
+      }
+    },
+    {
+      "shot": "r11-bar-inverted-row-t2v",
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "name": "Bar Inverted Row",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "round-11-correction-2",
+      "promptFile": "form-media/prompts/r11-bar-inverted-row-t2v.txt",
+      "promptSha256": "e9ffca9b9428501f9fcc822d663dfd6a8ceee2ab46a734c574ed5363beef6aa1",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 6,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Distinct text-to-video trial after prior image-anchored attempts failed equipment or motion checks; exact delivered output requires independent AI editorial screening.",
+      "canonicalInstructions": [
+        "Secure a barbell in a squat rack around waist height and check that it cannot shift. Use a height that lets you keep the body straight throughout the row.",
+        "Take a wider than shoulder width grip on the bar and position yourself hanging underneath the bar. Your body should be straight with your heels on the ground with your arms fully extended. This will be your starting position.",
+        "Begin by flexing the elbow, pulling your chest towards the bar. Retract your shoulder blades as you perform the movement.",
+        "Pause at the top of the motion, and return yourself to the start position.",
+        "Repeat for the desired number of repetitions."
+      ],
+      "primaryMuscles": [
+        "middle back"
+      ],
+      "secondaryMuscles": [
+        "lats"
+      ],
+      "title": "Anatomical 3D · Low-bar inverted row · review pending",
+      "alt": "Low fixed-bar inverted row, one chest-to-bar pull and complete return with mid-back cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "the bar is usually lower with somone starting close to the ground. standing doesnt make sense ",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling.",
+      "correctAfterAttemptId": "attempt_9b605b3bceb049f0",
+      "correctionReviewOutput": {
+        "path": "form-media/assets/delivery/round-11/r11-bar-inverted-row-t2v-9b605b3b.mp4",
+        "sha256": "398bf252629066ef31789c9f6ab4ea03422a4247143d6ec8562300f5dbe52413",
+        "role": "delivery"
+      }
+    },
+    {
+      "shot": "r11-dumbbell-lunges-t2v",
+      "exerciseId": "open_dumbbell_lunges_09699238",
+      "name": "Dumbbell Lunges",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.0-physical-monotonic-text",
+      "promptFile": "form-media/prompts/r11-dumbbell-lunges-t2v.txt",
+      "promptSha256": "33732771fb7158b75e76b1d256884bc9631e94880738c549fb1cd3a6e56ea1d1",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Distinct text-to-video trial after prior image-anchored attempts failed equipment or motion checks; exact delivered output requires independent AI editorial screening.",
+      "canonicalInstructions": [
+        "Stand with your torso upright holding two dumbbells in your hands by your sides. This will be your starting position.",
+        "Step forward with your right leg around 2 feet or so from the foot being left stationary behind and lower your upper body down, while keeping the torso upright and maintaining balance. Inhale as you go down. Keep your front foot grounded and your knee tracking in line with your foot.",
+        "Using mainly the heel of your foot, push up and go back to the starting position as you exhale.",
+        "Repeat the movement for the recommended amount of repetitions and then perform with the left leg.",
+        "Complete the selected repetitions on each side; when alternating, count each side toward its own target."
+      ],
+      "primaryMuscles": [
+        "quadriceps"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "hamstrings"
+      ],
+      "title": "Anatomical 3D · One-foot dumbbell lunge · review pending",
+      "alt": "Right foot steps forward for one full dumbbell lunge and returns; left foot stays behind.",
+      "productionDisposition": "candidate-delivered",
+      "operatorCorrection": "only 1 foot needs to move.  the foot moving should step far enough out to get the full lunge",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-decline-dumbbell-bench-t2v",
+      "exerciseId": "open_decline_dumbbell_benc_7264c18d",
+      "name": "Decline Dumbbell Bench Press",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.0-physical-monotonic-text",
+      "promptFile": "form-media/prompts/r11-decline-dumbbell-bench-t2v.txt",
+      "promptSha256": "093d66fc4e0ddaf7987f7df6408d13b5f6ca4565606c4a4ee11834b8acc72083",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 6,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Distinct text-to-video trial after prior image-anchored attempts failed equipment or motion checks; exact delivered output requires independent AI editorial screening.",
+      "canonicalInstructions": [
+        "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
+        "Once you are laying down, move the dumbbells in front of you at shoulder width.",
+        "Once at shoulder width, rotate your wrists forward so that the palms of your hands are facing away from you. This will be your starting position.",
+        "Bring down the weights slowly to your side as you breathe out. Keep full control of the dumbbells at all times. Tip: Throughout the motion, the forearms should always be perpendicular to the floor.",
+        "As you breathe out, push the dumbbells up using your pectoral muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly. Tip: It should take at least twice as long to go down than to come up..",
+        "Repeat the movement for the prescribed amount of repetitions of your training program."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders",
+        "triceps"
+      ],
+      "title": "Anatomical 3D · Decline dumbbell bench press · review pending",
+      "alt": "One full decline dumbbell bench press with level, fixed dumbbell handles and chest cue.",
+      "productionDisposition": "candidate-delivered",
+      "operatorCorrection": "bouncy and bumbells are wrong orientation",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-barbell-triceps-extension-t2v",
+      "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+      "name": "Barbell Overhead Triceps Extension",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.1-one-full-cycle-text",
+      "promptFile": "form-media/prompts/r11-barbell-triceps-extension-t2v.txt",
+      "promptSha256": "dae6e4193ebf84b60f223d0e731d089646d01abb65af25f745a7f854e9fed14a",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Individually reviewed text-to-video trial after earlier generated motion was rejected; exact output requires editorial screening.",
+      "canonicalInstructions": [
+        "Stand with a straight barbell held overhead in a close overhand grip, feet comfortably apart and trunk braced.",
+        "Keep the upper arms steady and bend the elbows to lower the bar behind the head through a comfortable range.",
+        "Extend the elbows to return overhead, then repeat under control.",
+        "Optional incline support: sit back on a stable incline bench, bring the bar overhead with a controlled setup and keep the upper arms aligned comfortably with the torso. Bend and extend the elbows without moving the upper arms. Choose the range and load for the changed shoulder angle."
+      ],
+      "primaryMuscles": [
+        "triceps"
+      ],
+      "secondaryMuscles": [
+        "shoulders"
+      ],
+      "title": "Anatomical 3D · Barbell Overhead Triceps Extension · review pending",
+      "alt": "One overhead straight-bar triceps extension with upper arms stable and orange triceps glow.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "incorrect motion",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-dumbbell-shrug-t2v",
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "name": "Dumbbell Shrug",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "round-11-correction-2",
+      "promptFile": "form-media/prompts/r11-dumbbell-shrug-t2v.txt",
+      "promptSha256": "cb1a533af3c56afe6d13902f12245484facfc0585c03b1c0b0c568c0f79aeac7",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 6,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Individually reviewed text-to-video trial after earlier generated motion was rejected; exact output requires editorial screening.",
+      "canonicalInstructions": [
+        "Stand erect with a dumbbell on each hand (palms facing your torso), arms extended on the sides.",
+        "Lift the dumbbells by elevating the shoulders as high as possible while you exhale. Hold the contraction at the top for a second. Tip: The arms should remain extended at all times. Refrain from using the biceps to help lift the dumbbells. Only the shoulders should be moving up and down.",
+        "Lower the dumbbells back to the original position.",
+        "Repeat for the recommended amount of repetitions."
+      ],
+      "primaryMuscles": [
+        "traps"
+      ],
+      "secondaryMuscles": [],
+      "title": "Anatomical 3D · Dumbbell Shrug · review pending",
+      "alt": "One complete straight-arm dumbbell shrug with a visible high shoulder endpoint and orange trapezius cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "AI review — rejected (2026-09-21).\n\nr8-open-dumbbell-shrug-5ed42a42-motion-61c41e93: Shoulders and dumbbells lift, return, and lift again in short pulses; the clip does not show exactly one controlled shrug.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling.",
+      "correctAfterAttemptId": "attempt_8fe79421a9dc48da",
+      "correctionReviewOutput": {
+        "path": "form-media/assets/delivery/round-11/r11-dumbbell-shrug-t2v-8fe79421.mp4",
+        "sha256": "618f1530706b0c605deb04db13dee651d5f7876bb2ea0fcca093950d30321bc8",
+        "role": "delivery"
+      }
+    },
+    {
+      "shot": "r11-machine-chest-press-t2v",
+      "exerciseId": "ex_machine_chest_press",
+      "name": "Machine Chest Press",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.1-one-full-cycle-text",
+      "promptFile": "form-media/prompts/r11-machine-chest-press-t2v.txt",
+      "promptSha256": "a27f183c1e22ef55c86084e5ae461e870c12988d7b35589c6c45a51a1e62efeb",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Individually reviewed text-to-video trial after earlier generated motion was rejected; exact output requires editorial screening.",
+      "canonicalInstructions": [
+        "Adjust the seat so the handles align with the middle of the chest.",
+        "Keep the back supported as you press forward and return under control.",
+        "This movement may use a selectorized or plate-loaded leverage machine. Adjust its seat and starting handles, load it according to the machine instructions, and compare loads using the same machine and setup."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "title": "Anatomical 3D · Machine Chest Press · review pending",
+      "alt": "One complete forward-and-return seated chest press on a conventional horizontal-handle machine with orange chest cue.",
+      "productionDisposition": "candidate-delivered",
+      "operatorCorrection": "the chest press machine doesnt look like that, it has more horizontal bars. this looks like a pec fly machine",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-standing-dumbbell-calf-t2v",
+      "exerciseId": "open_standing_dumbbell_cal_ed527460",
+      "name": "Standing Dumbbell Calf Raise",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "round-11-correction-2",
+      "promptFile": "form-media/prompts/r11-standing-dumbbell-calf-t2v.txt",
+      "promptSha256": "14c59a13bc9773bf568c20f13d0cd31bc77c6e7601aaf7d3540b4293b98c3397",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 6,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Individually reviewed text-to-video trial after earlier generated motion was rejected; exact output requires editorial screening.",
+      "canonicalInstructions": [
+        "Stand holding a dumbbell in each hand with the balls of both feet on a flat nonslip weight plate and the heels free.",
+        "Raise both heels while keeping the knees steady and the toes supported.",
+        "Lower slowly through a comfortable range, maintaining balance before the next repetition."
+      ],
+      "primaryMuscles": [
+        "calves"
+      ],
+      "secondaryMuscles": [],
+      "title": "Anatomical 3D · Standing Dumbbell Calf Raise · review pending",
+      "alt": "One complete heel-down to heel-high and heel-down standing calf raise with two dumbbells and orange calf cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "incorrect motion ",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling.",
+      "correctAfterAttemptId": "attempt_a9e91162c2ce49db",
+      "correctionReviewOutput": {
+        "path": "form-media/assets/delivery/round-11/r11-standing-dumbbell-calf-t2v-a9e91162.mp4",
+        "sha256": "46e62805051edb8b4fe30a4bf06b230792837df1902ebcb22b298a40d344b690",
+        "role": "delivery"
+      }
+    },
+    {
+      "shot": "r11-flat-dumbbell-fly-t2v",
+      "exerciseId": "ex_dumbbell_fly",
+      "name": "Dumbbell Fly",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.2-user-form-corrections",
+      "promptFile": "form-media/prompts/r11-flat-dumbbell-fly-t2v.txt",
+      "promptSha256": "eb8efa9a8ca00ef346b755de99f8c47fe504c5bf9bcfcb1e7487cd764838f5e7",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "User-specific motion and apparatus corrections; exact output requires AI editorial screening.",
+      "canonicalInstructions": [
+        "Lie on a flat bench with dumbbells above the chest and elbows slightly bent.",
+        "Open the arms to a comfortable depth, then bring the weights together without changing the elbow bend.",
+        "For a single-arm variation, hold one dumbbell above the chest and perform the same controlled fly while keeping the shoulders, torso and feet stable. Use a lighter load as needed for the uneven weight and complete the selected repetition count with each arm."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [],
+      "title": "Anatomical 3D · Dumbbell Fly · review pending",
+      "alt": "A flat-bench dumbbell fly with one full opening and return, constant handle orientation and orange chest cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "great range of motion now, but the dumbells should stay parallel to the floor, rotating them like that would increase risk of injury",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-incline-dumbbell-fly-t2v",
+      "exerciseId": "open_incline_dumbbell_flye_f858d67d",
+      "name": "Incline Dumbbell Fly",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.2-user-form-corrections",
+      "promptFile": "form-media/prompts/r11-incline-dumbbell-fly-t2v.txt",
+      "promptSha256": "b348fa687e678c36480119fc749c6917799dd255c99fcf15ee005482a14e03b2",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "User-specific motion and apparatus corrections; exact output requires AI editorial screening.",
+      "canonicalInstructions": [
+        "Lie on an incline bench with feet planted and a dumbbell in each hand above the chest. Use a comfortable grip and keep a soft bend in the elbows.",
+        "Open the arms to the sides through a controlled, comfortable shoulder range while keeping the elbow bend steady.",
+        "Bring the dumbbells back above the chest along the same arc. Wrist rotation is optional, not a separate exercise or a required phase of the repetition."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "shoulders"
+      ],
+      "title": "Anatomical 3D · Incline Dumbbell Fly · review pending",
+      "alt": "Incline dumbbell fly with one full controlled arc, steady wrist orientation and orange chest cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "in latest video they rotate wrists, that should not happen. bumbells should stay parallel to torso",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-stiff-leg-dumbbell-deadlift-t2v",
+      "exerciseId": "open_stiff_legged_dumbbell_5da667b0",
+      "name": "Stiff-Legged Dumbbell Deadlift",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.2-user-form-corrections",
+      "promptFile": "form-media/prompts/r11-stiff-leg-dumbbell-deadlift-t2v.txt",
+      "promptSha256": "6e9ba1eb1b2a2651e7e6ec5203526ec5bdd2ccf2eacf50f675cca845af9ca6bc",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "User-specific motion and apparatus corrections; exact output requires AI editorial screening.",
+      "canonicalInstructions": [
+        "Stand holding a dumbbell in each hand in front of the thighs. Keep a small steady bend in the knees.",
+        "Hinge at the hips and lower the dumbbells close to the legs until a comfortable hamstring stretch is felt, without forcing them to the floor.",
+        "Extend the hips to stand while keeping the knee angle nearly unchanged."
+      ],
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "lower back"
+      ],
+      "title": "Anatomical 3D · Stiff-Legged Dumbbell Deadlift · review pending",
+      "alt": "One hip-hinge stiff-legged dumbbell deadlift with shafts perpendicular to the feet and orange hamstring cue.",
+      "productionDisposition": "candidate-delivered",
+      "operatorCorrection": "positioning of the dumbells is wrong, the dumbells should be perpendicular to the foot direction and go up and down the front side of the legs.",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-barbell-bench-press-t2v",
+      "exerciseId": "ex_bench_press",
+      "name": "Barbell Bench Press",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.2-user-form-corrections",
+      "promptFile": "form-media/prompts/r11-barbell-bench-press-t2v.txt",
+      "promptSha256": "d349d6cc8f3dcdb62912ecf68b2a68ee30f432f646dcf53a36bedbfbf766c290",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "User-specific motion and apparatus corrections; exact output requires AI editorial screening.",
+      "canonicalInstructions": [
+        "Set the bench and rack safeties before lifting. Lie with feet planted, hands slightly wider than shoulders, and shoulder blades supported.",
+        "Unrack the bar over the chest. Lower it under control to a comfortable chest-level position.",
+        "Press back to the starting position, then return the bar securely to the rack after the set.",
+        "Optional grip: a reverse, palms-toward-you grip requires a secure unrack, comfortable wrists and elbows, and suitable safeties or a controlled handoff. Select the load for that grip.",
+        "Optional reduced range: use a secure board of known height for a controlled touch, or set matching rack pins for a dead-start press. Brace before each press and do not bounce off the board or pins. Keep the board or pin height consistent when comparing sets.",
+        "Optional changing resistance: securely attached matched chains add resistance; overhead reverse bands assist the bar. Keep track of bar load, chains or bands, and anchor setup separately because the same bar load can produce different resistance.",
+        "Optional floor press: lie on the floor inside a suitable rack with the hooks and safeties set for a secure unrack and return. Lower until the upper arms gently meet the floor, pause without bouncing, then press up. No bench is used, and the shorter range may require a different load. If chains are used, retain their separate weight and arrangement notes.",
+        "An EZ bar may replace the straight bar if it fits the supports securely and permits a comfortable grip, unrack and return. Choose and compare loads for that bar and setup."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [
+        "triceps",
+        "shoulders"
+      ],
+      "title": "Anatomical 3D · Barbell Bench Press · review pending",
+      "alt": "One full anatomical barbell bench press with a clear chest-level endpoint, stable rack and orange chest cue.",
+      "productionDisposition": "candidate-delivered",
+      "operatorCorrection": "Changing opinion for this, we should have the newer Character design for Anatomical 3D",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-bent-arm-barbell-pullover-t2v",
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "name": "Bent-Arm Barbell Pullover",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.3-apparatus-and-sequence",
+      "promptFile": "form-media/prompts/r11-bent-arm-barbell-pullover-t2v.txt",
+      "promptSha256": "47cac19dc0930597296ceffb4e69b6f95e0c7832251f79e05b34e972f37359c4",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Exact exercise-specific motion trial after earlier generated attempts failed form review; exact output requires screening.",
+      "canonicalInstructions": [
+        "Lie on a flat bench with a barbell using a shoulder grip width.",
+        "Hold the bar straight over your chest with a bend in your arms. This will be your starting position.",
+        "While keeping your arms in the bent arm position, lower the weight slowly in an arc behind your head while breathing in until you feel a stretch on the chest.",
+        "At that point, bring the barbell back to the starting position using the arc through which the weight was lowered and exhale as you perform this movement.",
+        "Hold the weight on the initial position for a second and repeat the motion for the prescribed number of repetitions.",
+        "Optional decline setup: secure the legs on a decline bench and arrange a controlled pickup and return of the bar. Keep a comfortable fixed elbow bend as the shoulders guide the overhead arc; choose the depth and load for the bench angle rather than forcing a longer reach."
+      ],
+      "primaryMuscles": [
+        "lats"
+      ],
+      "secondaryMuscles": [
+        "chest",
+        "shoulders",
+        "triceps"
+      ],
+      "title": "Anatomical 3D · Bent-Arm Barbell Pullover · review pending",
+      "alt": "One bent-elbow barbell pullover arc behind the head and back, with orange latissimus cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "The video doesn't show the arm being bent, there should be some bending of the elbows. ",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-decline-dumbbell-fly-t2v",
+      "exerciseId": "open_decline_dumbbell_flye_14b2de63",
+      "name": "Decline Dumbbell Flyes",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.3-apparatus-and-sequence",
+      "promptFile": "form-media/prompts/r11-decline-dumbbell-fly-t2v.txt",
+      "promptSha256": "d32714262399d240c2872da4688694365cb36fbc56ec795c4715516287324421",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Exact exercise-specific motion trial after earlier generated attempts failed form review; exact output requires screening.",
+      "canonicalInstructions": [
+        "Secure your legs at the end of the decline bench and lie down with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
+        "Once you are laying down, move the dumbbells in front of you at shoulder width. The palms of the hands should be facing each other and the arms should be perpendicular to the floor and fully extended. This will be your starting position.",
+        "With a slight bend on your elbows in order to prevent stress at the biceps tendon, lower your arms out at both sides in a wide arc until you feel a stretch on your chest. Breathe in as you perform this portion of the movement. Tip: Keep in mind that throughout the movement, the elbow angle should remain steady; the movement should only occur at the shoulder joint.",
+        "Return your arms back to the starting position as you squeeze your chest muscles and breathe out. Tip: Make sure to use the same arc of motion used to lower the weights.",
+        "Hold for a second at the contracted position and repeat the movement for the prescribed amount of repetitions."
+      ],
+      "primaryMuscles": [
+        "chest"
+      ],
+      "secondaryMuscles": [],
+      "title": "Anatomical 3D · Decline Dumbbell Flyes · review pending",
+      "alt": "One decline dumbbell fly with secure leg support, constant elbow bend and orange chest cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "AI review — rejected (2026-09-21).\n\nr8-open-decline-dumbbell-flye-14b2de63-motion-4b288da2: The mannequin sits upright and moves dumbbells beside the torso, rather than lying supine on a decline bench for a chest fly.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-landmine-180-t2v",
+      "exerciseId": "open_landmine_180s_8bd8af32",
+      "name": "Landmine 180's",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.3-apparatus-and-sequence",
+      "promptFile": "form-media/prompts/r11-landmine-180-t2v.txt",
+      "promptSha256": "4a7573e98752ba98c05a1a38f1b83522fe8d85ac8d7c3d93b0d87947d43d843a",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 8,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Exact exercise-specific motion trial after earlier generated attempts failed form review; exact output requires screening.",
+      "canonicalInstructions": [
+        "Secure a barbell in a landmine and load the free end appropriately.",
+        "Raise the bar from the floor, taking it to shoulder height with both hands with your arms extended in front of you. Adopt a wide stance. This will be your starting position.",
+        "Perform the movement by rotating the trunk and hips as you swing the weight all the way down to one side. Keep your arms extended throughout the exercise.",
+        "Reverse the motion to swing the weight all the way to the opposite side.",
+        "Continue alternating the movement until the set is complete.",
+        "Count each controlled move from one side to the other as one repetition toward the total target."
+      ],
+      "primaryMuscles": [
+        "abdominals"
+      ],
+      "secondaryMuscles": [
+        "glutes",
+        "lower back",
+        "shoulders"
+      ],
+      "title": "Anatomical 3D · Landmine 180's · review pending",
+      "alt": "One complete landmine left-to-right-to-left arc with the shaft anchored and orange abdominal cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "AI review — rejected (2026-09-21).\n\nr8-open-landmine-180s-8bd8af32-motion-2e1a4cfd: The landmine's anchored shaft morphs into a loose horizontal barbell near the end; equipment shape and floor anchoring are not preserved.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-prone-dumbbell-external-rotation-t2v",
+      "exerciseId": "open_dumbbell_lying_pronat_95605e7c",
+      "name": "Prone Dumbbell Shoulder External Rotation",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.3-apparatus-and-sequence",
+      "promptFile": "form-media/prompts/r11-prone-dumbbell-external-rotation-t2v.txt",
+      "promptSha256": "573f70e8f3aa45c2f7ae56232f02cedb785a6c474986a4d4f9fe94c302505b22",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 6,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Exact exercise-specific motion trial after earlier generated attempts failed form review; exact output requires screening.",
+      "canonicalInstructions": [
+        "Lie chest down on a flat bench with one upper arm extended to the side at shoulder height and the elbow bent to a right angle. Hold a light dumbbell with the forearm hanging toward the floor.",
+        "Keep the upper arm supported in the same position and rotate at the shoulder to raise the forearm forward toward the head, stopping within a comfortable range.",
+        "Lower under control without changing the elbow angle. Complete the selected repetitions on each side."
+      ],
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [],
+      "title": "Anatomical 3D · Prone Dumbbell Shoulder External Rotation · review pending",
+      "alt": "One prone shoulder external-rotation arc with a fixed bent elbow and orange rotator-cuff cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "AI review — rejected (2026-09-21).\n\nr8-open-dumbbell-lying-pronat-95605e7c-motion-e7d37da9: The upper arm starts hanging down and the elbow curls the dumbbell toward the chest, rather than staying supported laterally at shoulder height for external rotation.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-smith-machine-calf-t2v",
+      "exerciseId": "open_smith_machine_calf_ra_ccc5bca6",
+      "name": "Smith Machine Calf Raise",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.3-apparatus-and-sequence",
+      "promptFile": "form-media/prompts/r11-smith-machine-calf-t2v.txt",
+      "promptSha256": "64cc9afc36d7ee9022451dbb9ec8618f5bbaaf394b965667ee6f9c28b11fef3f",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 6,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Exact exercise-specific motion trial after earlier generated attempts failed form review; exact output requires screening.",
+      "canonicalInstructions": [
+        "Place a flat nonslip weight plate under the balls of both feet in a Smith machine. Set the bar height and stops, place it across the upper back and unrack it under control.",
+        "Raise the heels while the balls of the feet remain supported, keeping the knees softly extended and steady.",
+        "Lower the heels through a comfortable range, then rerack the bar before stepping away."
+      ],
+      "primaryMuscles": [
+        "calves"
+      ],
+      "secondaryMuscles": [],
+      "title": "Anatomical 3D · Smith Machine Calf Raise · review pending",
+      "alt": "One full supported Smith-machine calf raise with visible heel travel and orange calf cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "not liking any of these assets",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-clean-and-press-t2v",
+      "exerciseId": "open_clean_and_press_7da75b45",
+      "name": "Clean and Press",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.3-apparatus-and-sequence",
+      "promptFile": "form-media/prompts/r11-clean-and-press-t2v.txt",
+      "promptSha256": "124b593f1019db04f0296a176075c6406822a9ef70f06e91a9e2a15b4a02e5bb",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 10,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Exact exercise-specific motion trial after earlier generated attempts failed form review; exact output requires screening.",
+      "canonicalInstructions": [
+        "Assume a shoulder-width stance, with knees inside the arms. Now while keeping the back flat, bend at the knees and hips so that you can grab the bar with the arms fully extended and a pronated grip that is slightly wider than shoulder width. Point the elbows out to sides. The bar should be close to the shins. Position the shoulders over or slightly ahead of the bar. Establish a flat back posture. This will be your starting position.",
+        "Begin to pull the bar by extending the knees. Move your hips forward and raise the shoulders at the same rate while keeping the angle of the back constant; continue to lift the bar straight up while keeping it close to your body.",
+        "As the bar passes the knee, extend at the ankles, knees, and hips forcefully, similar to a jumping motion. As you do so, continue to guide the bar with your hands, shrugging your shoulders and using the momentum from your movement to pull the bar as high as possible. The bar should travel close to your body, and you should keep your elbows out.",
+        "At maximum elevation, your feet should clear the floor and you should start to pull yourself under the bar. The mechanics of this could change slightly, depending on the weight used. You should descend into a squatting position as you pull yourself under the bar.",
+        "As the bar hits terminal height, rotate your elbows around and under the bar. Rack the bar across the front of the shoulders while keeping the torso erect and flexing the hips and knees to absorb the weight of the bar.",
+        "Stand to full height, holding the bar in the clean position.",
+        "Without moving your feet, press the bar overhead as you exhale. Lower the bar under control ."
+      ],
+      "primaryMuscles": [
+        "shoulders"
+      ],
+      "secondaryMuscles": [
+        "abdominals",
+        "calves",
+        "glutes",
+        "hamstrings",
+        "lower back",
+        "middle back",
+        "quadriceps",
+        "traps",
+        "triceps"
+      ],
+      "title": "Anatomical 3D · Clean and Press · review pending",
+      "alt": "One continuous floor clean into overhead press, with orange shoulder cue and no waist-height stop.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "the clean should be 1 fluid movement and not stop halfway at the waist",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    },
+    {
+      "shot": "r11-power-snatch-t2v",
+      "exerciseId": "open_power_snatch_3f9ccaec",
+      "name": "Power Snatch",
+      "roundId": "round-11",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "promptVersion": "11.3-apparatus-and-sequence",
+      "promptFile": "form-media/prompts/r11-power-snatch-t2v.txt",
+      "promptSha256": "258ecbab0af38be875d41bba2f329ab6efd545b7b6586c849c3dcbdc1fcf7ece",
+      "kind": "video",
+      "model": "omni-flash",
+      "aspect": "9:16",
+      "duration": 10,
+      "videoMode": "t2v",
+      "referenceFiles": [],
+      "referenceShot": null,
+      "textOnlyReason": "Exact exercise-specific motion trial after earlier generated attempts failed form review; exact output requires screening.",
+      "canonicalInstructions": [
+        "Begin with a loaded barbell on the floor. The bar should be close to or touching the shins, and a wide grip should be taken on the bar. The feet should be directly below the hips, with the feet turned out as needed. Lower the hips, with the chest up and the head looking forward. The shoulders should be just in front of the bar. This will be the starting position.",
+        "Begin the first pull by driving through the front of the heels, raising the bar from the ground. The back angle should stay the same until the bar passes the knees.",
+        "Transition into the second pull by extending through the hips knees and ankles, driving the bar up as quickly as possible. The bar should be close to the body. At peak extension, shrug the shoulders and allow the elbows to flex to the side.",
+        "As you move your feet into the receiving position, a slightly wider position, pull yourself below the bar as you elevate the bar overhead. The bar should be received in a partial squat. Continue raising the bar to the overhead position, receiving the bar locked out overhead.",
+        "Return to a standing position with the weight over head.",
+        "Optional block start: use matched, stable lifting blocks at the chosen height and begin the pull from there. Retain the partial-squat overhead catch and stand to finish; use a practiced return and note the block height because it changes the pull distance."
+      ],
+      "primaryMuscles": [
+        "hamstrings"
+      ],
+      "secondaryMuscles": [
+        "calves",
+        "glutes",
+        "lower back",
+        "quadriceps",
+        "shoulders",
+        "traps",
+        "triceps"
+      ],
+      "title": "Anatomical 3D · Power Snatch · review pending",
+      "alt": "One fluid floor-to-overhead power snatch with partial-squat reception and orange hamstring cue.",
+      "productionDisposition": "needs-correction",
+      "operatorCorrection": "should be 1 fluid movement, see if you can copy this guys movements https://www.youtube.com/watch?v=TL8SMp7RdXQ",
+      "newRoundAuthorization": "User resumed Round 11 production under the existing 10000-credit period ceiling."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+Animate this exact supplied starting frame into ONE eight-second Dead Bug repetition. Preserve the high fixed camera, same gray mannequin and clothing, plain floor, lighting and framing. No cuts or camera movement.
+
+Only TWO limbs move: the NEARER ARM (the arm on the lower-right side of the supplied image, the mannequin’s left arm) and the FARTHER LEG (the leg on the upper-left side of the supplied image, the mannequin’s right leg). The farther arm remains pointing straight upward above its shoulder for the entire clip. The nearer leg remains bent in its initial tabletop pose for the entire clip. Do not move these two stationary limbs.
+
+0–1 seconds hold the supplied tabletop pose. 1–4 seconds slowly extend the nearer left arm PAST ITS EAR along the torso’s long axis toward the floor beyond the head at the lower-left of the image, while simultaneously straightening and lowering the opposite farther right leg away from the head. Do not swing the moving arm sideways into a T or down toward the hips. Stop the moving hand and heel just above the floor while the trunk remains steady. 4–7 seconds return only those same two moving limbs smoothly to the EXACT original starting pose. 7–8 seconds hold that centered starting pose.
+
+Show just this one diagonal repetition, with no extra cycle or side change. Head, upper back and pelvis stay supported and still. Keep stable ordinary anatomy, constant limb lengths and a readable full movement path. No text, arrows, muscle coloring, speech, music or other audio.

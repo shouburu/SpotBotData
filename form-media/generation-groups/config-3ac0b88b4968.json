@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-smith-machine-calf-ra-ccc5bca6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-calf-ra-ccc5bca6-start-3bbce610.json"
+    },
+    {
+      "shot": "r9-open-smith-machine-incline-100af028-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-incline-100af028-start-8fb08ebe.json"
+    },
+    {
+      "shot": "r9-open-smith-machine-overhea-f4f4e023-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-overhea-f4f4e023-start-33f47c94.json"
+    },
+    {
+      "shot": "r9-open-smith-machine-squat-37823d7a-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-squat-37823d7a-start-c3e10719.json"
+    }
+  ]
+}

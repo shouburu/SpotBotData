@@ -1,0 +1,80 @@
+{
+  "id": "group_165766553a684e5e",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T04:39:00+00:00",
+  "balanceBefore": 8534,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_dumbbell_shoulder_press",
+      "shot": "r8-ex-dumbbell-shoulder-press-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "3df327f4d0b3a681456b4d9f0d80d73ed02d7abef868ef545a4315716a383bf6",
+      "quoteFile": "form-media/ui-quotes/r8-ex-dumbbell-shoulder-press-start-40bd87fd.json",
+      "quoteSha256": "803041401b4cb916c617ecb9b8d201a40b9a06651844deeff5126cf9d9e752c9",
+      "quoteCredits": 0,
+      "balance": 8534,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_arnold_press",
+      "shot": "r8-ex-arnold-press-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "648cd9969af940d28949c2ff5712631c9b2e44ebd3f469b70568f1e12e623703",
+      "quoteFile": "form-media/ui-quotes/r8-ex-arnold-press-start-b99ef799.json",
+      "quoteSha256": "63a5d02ee03c19ce0451a1a63ac681aacd21053e2fafb244279901ce873b17de",
+      "quoteCredits": 0,
+      "balance": 8534,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_front_raise",
+      "shot": "r8-ex-front-raise-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "5aef2416943957d7a37874f405bdc15e56f5582c51999342656ae346229f2e27",
+      "quoteFile": "form-media/ui-quotes/r8-ex-front-raise-start-eed309c4.json",
+      "quoteSha256": "72e02cb6bb1c2f5bc660b82f13d48c9476a46cf8a24b672f47f274de6f2fdb0f",
+      "quoteCredits": 0,
+      "balance": 8534,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r8-ex-reverse-pec-deck-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "179685dff8b525d52aa5ca2bf2304928aa2fbab6dafa4b6555aa7c7befc40e92",
+      "quoteFile": "form-media/ui-quotes/r8-ex-reverse-pec-deck-start-6f138540.json",
+      "quoteSha256": "7baff8a84bf37bbecb0b372ae5384a26c09e46eb6b09263c88175bbedd704644",
+      "quoteCredits": 0,
+      "balance": 8534,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T04:40:28+00:00",
+  "balanceAfter": 8534,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-b8a68773183947cb.json",
+  "evidenceSha256": "ec5a77c29ddd0e711bea7a3d3c70dc22f8ca3defe5aa3a5e0dbf3ba15dbf61b0"
+}

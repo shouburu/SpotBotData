@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "shot": "r9-ex-skullcrusher-start",
+      "exerciseId": "ex_skullcrusher",
+      "roundId": "round-9",
+      "assetId": "r9-ex-skullcrusher-start-88f03994",
+      "attemptId": "attempt_88f03994842048aa",
+      "outputPath": "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_88f03994842048aa.jpg",
+      "outputSha256": "b06068a32b573359feaed08ff16f22fb921841202b72a2266e918427e4095c78",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T20:53:50+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both upper arms remain visibly elevated above the chest, with elbows suspended high above the bench. The forearms now fold backward toward the head through deep elbow flexion rather than leaving the bar in the prior overhead extended-arm pose.",
+        "The bar is held just above the forehead with visible clearance from the face. Head and upper back remain on the same bench pad, and the orange posterior-triceps regions remain localized and readable.",
+        "The portrait composition retains generous overhead space for the forearms and bar to arc upward into elbow extension. The visible shoulder, elbow, bar and head relationships establish a usable low endpoint for a low-to-high-to-identical-low cycle."
+      ],
+      "limitations": [
+        "AI visual editorial review of the exact full-resolution master, not human acceptance or trainer validation.",
+        "The far grip and central/right portion of the bar overlap the bent arms in this projection. They must remain rigid and connected as the motion exposes them; the still cannot prove movement continuity.",
+        "The framing is an elbow-focused detail and omits feet. Exact source pixel positions are not perfectly retained, but both upper arms remain clearly raised; no numerical elbow angle is required."
+      ],
+      "notes": "Ready to animate from this exact flexed-elbow master using the staged low→full elbow extension→same low motion. Keep elbow centers and shoulder-to-elbow segments fixed, head/back supported, bar clear of face, and orange triceps visible. The earlier extended-arm reference must not be selected instead.",
+      "inspection": {
+        "method": "Full-resolution visual inspection of the exact generated master against the reviewed source image and staged flexed-reference brief.",
+        "artifacts": [
+          "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_88f03994842048aa.jpg",
+          "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_26a6ba9fd6a14cfd.jpg"
+        ],
+        "promptProposalFile": "reports/round-9-preparation/proposals/skullcrusher-flexed-reference-9.6.txt"
+      },
+      "matchingMotionProposalFile": "reports/round-9-preparation/proposals/skullcrusher-flexed-start-motion-9.6.txt"
+    },
+    {
+      "shot": "r9-ex-machine-chest-press-start",
+      "exerciseId": "ex_machine_chest_press",
+      "roundId": "round-9",
+      "assetId": "r9-ex-machine-chest-press-start-7eca69be",
+      "attemptId": "attempt_7eca69bea0fb43a7",
+      "outputPath": "form-media/assets/masters/r9-ex-machine-chest-press-start/attempt_7eca69bea0fb43a7.jpg",
+      "outputSha256": "2c832317e11119cff2f6b66091c7af3090fc3f2ebc7d227a7c6c801b758913d9",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T20:57:45+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The requested color correction is successful: orange is localized to the pectoral regions, while neck, shoulders, arms and abdomen are silver-gray. The pelvis and back contact the machine supports and the elbows begin bent.",
+        "The viewer-near vertical grip is a separate capped black cylinder held beside the chest. The larger curved lever terminates openly above and to its left, with a visible gap and no continuous connector. The enlarged handle detail confirms the grip cannot be traced into the machine lever.",
+        "The rightmost toes reach and partly leave the image edge. Forward press space is also tight; slightly wider framing is needed to show the full grip path and complete foot contact."
+      ],
+      "limitations": [
+        "AI visual editorial review of the exact full-resolution master plus an enlarged crop; not user acceptance or independent trainer validation.",
+        "The lever-connection failure is a visible equipment continuity issue. Minor anatomical stylization is not the rejection reason."
+      ],
+      "notes": "Do not animate this disconnected handle. A staged free-image repair preserves the improved chest coloring and supported pose while making the near grip a visibly connected part of its lever and widening the frame slightly.",
+      "inspection": {
+        "method": "Full-resolution master inspection plus enlarged near-handle crop.",
+        "artifacts": [
+          "form-media/assets/masters/r9-ex-machine-chest-press-start/attempt_7eca69bea0fb43a7.jpg",
+          "reports/form-media/attempt_7eca69bea0fb43a7/review-handle-detail.png"
+        ]
+      },
+      "correctionProposalFile": "reports/round-9-preparation/proposals/machine-chest-connected-grip-reference-9.2.json",
+      "proposedPromptFile": "reports/round-9-preparation/proposals/machine-chest-connected-grip-reference-9.2.txt"
+    },
+    {
+      "shot": "r9-ex-machine-chest-press-start",
+      "exerciseId": "ex_machine_chest_press",
+      "roundId": "round-9",
+      "assetId": "r9-ex-machine-chest-press-start-940de4be",
+      "attemptId": "attempt_940de4bee9ef44b8",
+      "outputPath": "form-media/assets/masters/r9-ex-machine-chest-press-start/attempt_940de4bee9ef44b8.jpg",
+      "outputSha256": "e8acb04508bf2fb5407cf8522b670426e72caccf485d54ff0ff4a290b3cb8c13",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:04:49+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The near vertical grip now has a visible rigid diagonal connector to the curved machine lever, repairing the previously detached cylinder. The far grip also has a continuous connection to its lever.",
+        "Back and pelvis remain on the seat/back supports, feet remain supported, and both elbows start bent with hands on the chest-level grips. The orange material remains confined to the pectoral regions; shoulders, neck, arms and abdomen are gray.",
+        "The relevant hands, elbows and lever connections are visible, with usable forward space for the press. The corrected setup is suitable for one forward extension and controlled return using these exact connected levers."
+      ],
+      "limitations": [
+        "AI visual editorial inspection of the exact full-resolution master, not human acceptance or trainer validation.",
+        "Far toe tips still sit at the right edge. The supported feet and primary press joints are readable; this is retained as a minor framing limitation rather than a movement-setup failure. The video must keep complete handles and working joints inside the frame.",
+        "The still cannot prove that the new lever/grip geometry will remain rigid during animation; inspect that continuity in the exact delivered motion."
+      ],
+      "notes": "Ready to animate from this repaired connected-handle master. Keep back/pelvis and feet supported, preserve chest-only orange, press until the arms are comfortably near straight and return completely to the same bent-elbow pose. Do not reuse the older disconnected handle frame.",
+      "inspection": {
+        "method": "Full-resolution visual comparison of the exact repaired master against the preceding disconnected-grip master.",
+        "artifacts": [
+          "form-media/assets/masters/r9-ex-machine-chest-press-start/attempt_940de4bee9ef44b8.jpg",
+          "form-media/assets/masters/r9-ex-machine-chest-press-start/attempt_7eca69bea0fb43a7.jpg"
+        ]
+      }
+    }
+  ]
+}

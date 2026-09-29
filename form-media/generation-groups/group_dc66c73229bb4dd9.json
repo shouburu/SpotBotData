@@ -1,0 +1,82 @@
+{
+  "id": "group_dc66c73229bb4dd9",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T23:06:36+00:00",
+  "balanceBefore": 8130,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r9-ex-skullcrusher-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "76ed6d4db824d48ffacc73d22b376b4611ecf88e04f3423ac7afe147acd4b7c8",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-motion-afae0a64.json",
+      "quoteSha256": "d8d4b4fca093a769488c83dc07c17f07a145e0d057dfcca48dffb6ebf987e803",
+      "quoteCredits": 12,
+      "balance": 8130,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_6dbdb8ac3a7543bb.jpg",
+          "sha256": "1d8db8200f2740ead9704e5e56579fc47f50cb95bfea5f7360e7375ffc1c99a1"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_lateral_raise",
+      "shot": "r9-ex-lateral-raise-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "75e6b6cd103df36dea5f54364a8c0eb9c9106221e66e176a660545141788e9f2",
+      "quoteFile": "form-media/ui-quotes/r9-ex-lateral-raise-motion-8c9e9e86.json",
+      "quoteSha256": "17dab43d44aff7fce5fc70ebfc06aa2cf56ccf4c935595c270742fa834f22317",
+      "quoteCredits": 12,
+      "balance": 8130,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-lateral-raise-start/attempt_c46ee74cef5640bf.jpg",
+          "sha256": "07e321e02e5bdea8832098423270a30ecf0750545641173c45d8d98e31d59328"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "b15977cb4055feba69ae899978ac86a2328f343308dabfc719cd4769195f6f69",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-motion-32e20c45.json",
+      "quoteSha256": "aa8a8d2fa4dbcf985b155e2c6e3756f563cae708b7d68c996616541578a92b98",
+      "quoteCredits": 12,
+      "balance": 8130,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-bent-arm-barbell-pull-bd488038-start/attempt_f5d548627fbb4990.jpg",
+          "sha256": "1955b2f440f931dc9d0b3bab6089c1374306dba1999222342d370d2bb755d436"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_bench_press_94bb9ae4",
+      "shot": "r9-open-dumbbell-bench-press-94bb9ae4-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "c63b94658617f4b72441b2988cb9a4eafd5a45b40ee82a357d251a6ec6a3634d",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-bench-press-94bb9ae4-motion-432542a5.json",
+      "quoteSha256": "a5a2b40373da8e3bda95b2e9b449ffc210550852c905d0b4f36059a3140f120d",
+      "quoteCredits": 12,
+      "balance": 8130,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-bench-press-94bb9ae4-start/attempt_67110a5fadb14ebf.jpg",
+          "sha256": "8919c817027f87c3ca54ce5cb6ee10c5318eea4ceac7a99a754190d35d111cf4"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T23:08:22+00:00",
+  "balanceAfter": 8082,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-7b32fd0ebaac4e9d.json",
+  "evidenceSha256": "a01f92eab118a81ebc112724fe3d7f668ab2d27f89c73dfe96e311768c31ac8d",
+  "terminalFailureIds": []
+}

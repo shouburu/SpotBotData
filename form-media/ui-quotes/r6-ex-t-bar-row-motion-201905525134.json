@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sourceType": "flow-ui-observation",
+  "source": "Live Flow composer and account panel observed through CUA; quote applies to one output. Isolated workers use copies of the same service account profile.",
+  "observer": "Codex via CUA",
+  "observedAt": "2026-09-16T03:17:28.452Z",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "exerciseId": "ex_t_bar_row",
+  "shot": "r6-ex-t-bar-row-motion",
+  "modelKey": "abra_i2v_6s",
+  "kind": "video",
+  "family": "Omni 1.1 Flash",
+  "aspect": "16:9",
+  "count": 1,
+  "durationSeconds": 6,
+  "resolutions": [
+    "720p"
+  ],
+  "balance": 8846,
+  "credits": 10,
+  "visiblePriceText": "Generating will use 10 credits",
+  "visibleBalanceText": "8,846 Google Flow credits"
+}

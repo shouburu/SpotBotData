@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-3",
+  "proposalVersion": "3.4",
+  "createdAt": "2026-09-10T16:07:30.359839+00:00",
+  "status": "proposal-only-not-submitted",
+  "exerciseId": "ex_overhead_press",
+  "canonicalInstructionsUnchanged": [
+    "Set a barbell in a rack near shoulder height. Take a grip just outside shoulder width, brace the trunk, and step back with the bar at the front of the shoulders.",
+    "Press overhead while keeping the ribs down and moving the head just enough to let the bar pass.",
+    "Lower to the front of the shoulders without leaning back, then return the bar to the rack after the set."
+  ],
+  "rationale": "The frontend currently supports the established single-start path. Use the original valid shoulder-height Graphic 3D reference for one explicit corrective motion attempt, with a two-second complete-overhead inspection pause. Failed endpoint stills remain failed and unchanged.",
+  "referenceGeometryJudgment": {
+    "decision": "A bounded single-start corrective attempt is reasonable; no intrinsic reference geometry blocker was found.",
+    "evidence": [
+      "Reinspected the actual original 768 × 1376 shoulder-height master. The whole bar, both grips and both shoes are visible, with substantial empty space above the head.",
+      "The bar and grips do not appear to prevent a complete overhead press. Preserving ordinary arm lengths and using the available overhead room appears feasible without shrinking the body or changing camera.",
+      "The three-quarter view foreshortens the farther upper arm, so complete endpoint readability is not guaranteed. Dense actual-output review must establish a clear far-elbow extension rather than accepting the near arm alone."
+    ],
+    "limitation": "A still cannot establish exact 3D clearance or future motion success. If the next output again omits a clear complete endpoint, keep it flagged; do not claim that text alone proves correct range."
+  },
+  "motionProposal": {
+    "shot": "r3-overhead-press-illustrated-motion",
+    "kind": "video",
+    "model": "omni-flash",
+    "aspect": "9:16",
+    "duration": 8,
+    "promptVersion": "3.4",
+    "promptFile": "form-media/round-3-ohp-motion-proposal-3.4.txt",
+    "promptSha256": "a7f7e4c05250395b3d0148324c83d8801bfe14147f17d1d7400f4b80369f0e23",
+    "referenceShot": "r3-overhead-press-illustrated-start",
+    "endFrameSameAsStart": false,
+    "pinnedSingleStartReference": {
+      "attemptId": "attempt_844e1c7739084186",
+      "path": "form-media/assets/masters/r3-overhead-press-illustrated-start/attempt_844e1c7739084186.jpg",
+      "sha256": "3612f2f37fb2d66601a61c2276bdfe61cee7d6cb8caa60d04649c75a2e9f563c",
+      "role": "Only first-frame reference: original valid shoulder-height Graphic 3D master; do not resolve the latest completed still"
+    },
+    "submissionRequirements": [
+      "Exactly one start reference and no end reference, no ingredients or endpoint fallback. Use the supported single-start mode.",
+      "The generic queue currently resolves the latest completed reference shot; that would select the failed text-bearing still. The operator must use an explicit corrective path pinned to this original master and SHA rather than that unmodified latest-reference resolution.",
+      "Retain the failed edited/frontal endpoint stills and their needs-review records unchanged. Do not replace or relabel them to make the queue accept a different file.",
+      "Verify the actual live quote and reserve before submission; record the job durably and reconcile any uncertain prior submission state before retrying."
+    ],
+    "title": "Graphic 3D · Press and return · Endpoint correction",
+    "caption": "Starts at the front shoulders. Press overhead, pause with both arms extended, then lower under control. Follow Form for rack setup and reracking.",
+    "alt": "Overhead Press from the original fixed three-quarter view: one shoulder-height press to a clearly extended overhead pause, followed by a controlled return to the front shoulders.",
+    "teachingCoverage": "One standing press and real return with a two-second overhead inspection pause. Canonical rack setup and reracking remain in Form.",
+    "reviewGates": [
+      "Same logical motion shot; only one actual generated OHP motion exists, so this is corrective generated attempt 2. Reconcile any pre-submit ledger failures explicitly rather than inventing a new shot.",
+      "Confirm the exact original shoulder-height master and its existing ready-to-animate evidence before spending. No substitution of the later failed stills.",
+      "Both arms visibly extend through their full natural length; the far elbow cannot retain the previous bent goalpost endpoint.",
+      "Maximum overhead position is held clearly for about two seconds; both complete hands and bar ends remain in frame.",
+      "No bar-through-face penetration, knee drive, backward lean, limb shortening, camera change or equipment deformation.",
+      "The bar returns to the actual front shoulders by about 7 seconds and the final second remains still. No extra pulse or second repetition.",
+      "Review dense ascent, overhead pause and descent frames plus exact endpoints; record uncertainty from projection without inventing numerical angles.",
+      "This proposal does not automatically authorize a third generated motion or any further still. If the second output is unclear, hold it for review and retain prior comparisons."
+    ]
+  },
+  "stillPolicy": "No still edit, derivative or regeneration. All three existing still attempts remain immutable with their existing editorial statuses."
+}

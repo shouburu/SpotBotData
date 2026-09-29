@@ -1,0 +1,181 @@
+{
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "assetId": "r9-open-seated-leg-curl-f6ac64a8-motion-ad8ca98a",
+      "exerciseId": "open_seated_leg_curl_f6ac64a8",
+      "shot": "r9-open-seated-leg-curl-f6ac64a8-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-seated-leg-curl-f6ac64a8-motion-ad8ca98a.mp4",
+      "outputSha256": "570fc1453ef7f4454112768981fdbfbe9a5b6a32d02ceeb4d119d95659c4e144",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:51:27+00:00",
+      "status": "needs-correction",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Full output repeats the seated curl after the first complete cycle and the muscle coloring fades in the later sequence.",
+        "The first cycle is usable for a real-time trim; do not submit the repeated full output for acceptance."
+      ],
+      "limitations": [
+        "Dense3fps delivery samples and full-resolution bent-knee frame inspected; not trainer approval."
+      ],
+      "attemptId": "attempt_ad8ca98a34a14be0"
+    },
+    {
+      "assetId": "r9-seated-leg-curl-complete-cycle-close",
+      "exerciseId": "open_seated_leg_curl_f6ac64a8",
+      "shot": "r9-open-seated-leg-curl-f6ac64a8-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-seated-leg-curl-complete-cycle-close.mp4",
+      "outputSha256": "8f28f810a9bd67c8f312ff600268f909395e726ff618c9fd746c4f23083c9127",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:51:27+00:00",
+      "status": "candidate",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The exact cropped derivative retains one straight-leg to approximately ninety-degree knee bend and complete straight-leg return. Its final frame visibly restores the full extended position.",
+        "Both hands remain on side supports, back and pelvis stay seated, lap restraint stays on the thighs, and the roller remains beneath the posterior lower calves.",
+        "Persistent orange hamstrings and supporting posterior calf muscles remain visible through this retained cycle. All working joints and contacts are visible in the closer frame."
+      ],
+      "limitations": [
+        "AI sampled-frame screening and exact final-frame inspection; human selection and trainer approval remain separate.",
+        "Minor nonworking adjustment-handle appearance drift remains. The retained calf coloring is a supporting knee-flexor cue alongside primary hamstrings; it is not an activation-intensity map.",
+        "Only original-speed contiguous motion, a fixed crop and still endpoint holds were used; no return or anatomy was synthesized."
+      ],
+      "sourceAttemptId": "attempt_ad8ca98a34a14be0"
+    },
+    {
+      "assetId": "r9-open-standing-calf-raises-6f81c277-motion-23178948",
+      "attemptId": "attempt_23178948b38a489b",
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-standing-calf-raises-6f81c277-motion-23178948.mp4",
+      "outputSha256": "fca7d917c462cddfaf97b4245f124af850500b8a336a3d4bb271bff2460c48a6",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:59:35+00:00",
+      "status": "needs-correction",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The early cycle bends both knees deeply and lowers the hips like a short squat; it does not retain the required stable knee angle for ankle-only calf motion.",
+        "Later the color spreads over most of the body and both hands release the machine. No full correct ankle cycle is available for trimming."
+      ],
+      "limitations": [
+        "Both exact3fps delivery sheets inspected against the catalog instructions; not trainer approval."
+      ],
+      "nextApproach": "Use a closer knee-to-foot reference and a short ankle-focused cycle, retaining all knee/foot contacts in view."
+    },
+    {
+      "assetId": "r9-open-smith-single-leg-spli-c8f7e55e-motion-722eb6c4",
+      "attemptId": "attempt_722eb6c48a2f446b",
+      "exerciseId": "open_smith_single_leg_spli_c8f7e55e",
+      "shot": "r9-open-smith-single-leg-spli-c8f7e55e-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-single-leg-spli-c8f7e55e-motion-722eb6c4.mp4",
+      "outputSha256": "d69c0dc75446e13c52b265b2c4c0527f3cbd6ea9bcf741a0002432d5a3070e64",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:00:34+00:00",
+      "status": "needs-correction",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "On the first ascent the bar lifts away from the upper back and remains above the head while the arms hold it overhead. This is not a loaded-back split squat.",
+        "Later the hands release the bar and the exercise adds additional movements; no valid loaded-back cycle exists for trimming."
+      ],
+      "limitations": [
+        "Both exact3fps delivery sheets inspected against the canonical split-squat setup; not trainer approval."
+      ]
+    },
+    {
+      "assetId": "r9-open-cable-lying-triceps-e-ff29abb1-motion-26ead470",
+      "attemptId": "attempt_26ead470c2324083",
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-cable-lying-triceps-e-ff29abb1-motion-26ead470.mp4",
+      "outputSha256": "27b5b6ca50b2a2cf2c25e79d9b2b307b72353c224d6647f23719cc0419f2424d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:07:40+00:00",
+      "status": "needs-correction",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Both upper arms and elbows descend toward the chest as the bar lowers; this is a cable bench-press action instead of elbow-only triceps extension toward the forehead.",
+        "The pulley assembly also lifts away from the original floor position. There is no correct full extension cycle to retain."
+      ],
+      "limitations": [
+        "Both exact3fps delivery sheets compared with catalog instructions; no trainer approval."
+      ],
+      "nextApproach": "Start at the bent-elbow forehead endpoint in a closer side view, with the high upper arms and stationary pulley clearly visible."
+    },
+    {
+      "assetId": "r9-open-seated-palm-up-barbel-87a8d029-motion-942c8bc2",
+      "attemptId": "attempt_942c8bc2fa134194",
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-seated-palm-up-barbel-87a8d029-motion-942c8bc2.mp4",
+      "outputSha256": "b5ce8b9ba4e918b3cccadab124a6130c9613ceec7c4515a618e97cd94e5719b9",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:11:05+00:00",
+      "status": "needs-correction",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The six-second output has one outward-and-return cycle, but it lifts the forearms off their support and uses elbow flexion to raise the bar.",
+        "The required isolated wrist rotation with fixed supported forearms is not demonstrated."
+      ],
+      "limitations": [
+        "Both exact3fps delivery sheets inspected; palm-up barbell also inspected in full-resolution start/peak frames. Not trainer approval."
+      ],
+      "nextApproach": "Use an actual distal-forearm macro with elbows outside the frame and forearm ends lying visibly flush on a level pad; only hands should move."
+    },
+    {
+      "assetId": "r9-open-seated-palms-down-bar-c6486466-motion-dbe4a799",
+      "attemptId": "attempt_dbe4a79978464630",
+      "exerciseId": "open_seated_palms_down_bar_c6486466",
+      "shot": "r9-open-seated-palms-down-bar-c6486466-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-seated-palms-down-bar-c6486466-motion-dbe4a799.mp4",
+      "outputSha256": "2bd2a10fcc771a9d6a46a9c9ca689a4bb3624192442342a4fb183cfcb835abe3",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:11:05+00:00",
+      "status": "needs-correction",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The six-second output has one outward-and-return cycle, but it lifts the forearms off their support and uses elbow flexion to raise the bar.",
+        "The required isolated wrist rotation with fixed supported forearms is not demonstrated."
+      ],
+      "limitations": [
+        "Both exact3fps delivery sheets inspected; palm-up barbell also inspected in full-resolution start/peak frames. Not trainer approval."
+      ],
+      "nextApproach": "Use an actual distal-forearm macro with elbows outside the frame and forearm ends lying visibly flush on a level pad; only hands should move."
+    },
+    {
+      "assetId": "r9-open-cable-wrist-curl-a1feb456-motion-a8362a96",
+      "attemptId": "attempt_a8362a96f5e84303",
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r9-open-cable-wrist-curl-a1feb456-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-cable-wrist-curl-a1feb456-motion-a8362a96.mp4",
+      "outputSha256": "9a41f70305bd27d5145be9cc58d730314a68a1e968e5527f8fb272db2b29fb38",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:11:05+00:00",
+      "status": "needs-correction",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The six-second output has one outward-and-return cycle, but it lifts the forearms off their support and uses elbow flexion to raise the bar.",
+        "The required isolated wrist rotation with fixed supported forearms is not demonstrated."
+      ],
+      "limitations": [
+        "Both exact3fps delivery sheets inspected; palm-up barbell also inspected in full-resolution start/peak frames. Not trainer approval."
+      ],
+      "nextApproach": "Use an actual distal-forearm macro with elbows outside the frame and forearm ends lying visibly flush on a level pad; only hands should move."
+    }
+  ]
+}

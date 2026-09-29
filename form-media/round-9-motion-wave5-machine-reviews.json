@@ -1,0 +1,353 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "attemptId": "attempt_f6a9227c2e17465f",
+      "exerciseId": "open_smith_machine_bent_ov_01d0d0f3",
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-machine-bent-ov-01d0d0f3-motion-f6a9227c.mp4",
+      "outputSha256": "8d8504521295b91f1c38729417c99e6c43b81f5b6d4f17060938fbd816ecc553",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:01:37+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first source interval contains a clear contracted row at the abdomen, full elbow extension with the bar lowering along the rails, and a return to the contracted row. Feet and rail/grip contacts remain stable; orange upper-back/lat involvement stays visible.",
+        "Additional partial rowing cycles begin after the first full return. The unedited eight-second delivery therefore fails the one-repetition requirement.",
+        "Retain the genuine first cycle from 0 to 5.1 seconds at normal speed; use a closer crop that keeps both working rail collars, grips, elbows, torso and feet visible. No paid regeneration is needed for this candidate."
+      ],
+      "limitations": [
+        "Inspected exact delivery 3 fps sheets and detail frames at 0, 3.2 and 5.1 seconds; sampled-frame editorial screening, not continuous playback or trainer review.",
+        "There is slight body/collar-shape drift and broad back-side orange spill, but the first complete rowing cycle remains clear and is not a stand-up/deadlift."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f6a9227c2e17465f/review-3fps-01.jpg",
+        "reports/form-media/attempt_f6a9227c2e17465f/review-3fps-02.jpg"
+      ],
+      "trimProposal": {
+        "startSeconds": 0,
+        "endSeconds": 5.1,
+        "holdSeconds": 0.35,
+        "crop": [
+          420,
+          0,
+          540,
+          720
+        ],
+        "authoredAssetId": "r9-smith-bent-row-complete-cycle-close"
+      },
+      "correctionStrategy": "derive-complete-cycle-no-paid-retry"
+    },
+    {
+      "attemptId": "attempt_f6a9227c2e17465f",
+      "sourceAttemptId": "attempt_f6a9227c2e17465f",
+      "assetId": "r9-smith-bent-row-complete-cycle-close",
+      "exerciseId": "open_smith_machine_bent_ov_01d0d0f3",
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-smith-bent-row-complete-cycle-close.mp4",
+      "outputSha256": "88b7a8c976821b86eff85776b89e61e7ae9ad726c83e9e672d6fbc275aa68b1b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:01:37+00:00",
+      "reviewKind": "authored-delivery-sampled-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Exact derived delivery contains one contracted-to-full-elbow-extension-to-contracted Smith row, with the return at the lower abdomen before the source begins additional motion.",
+        "Both closed bar grips, working rail collars, feet and soft-knee hip-hinge support remain visible in the closer crop. The trunk does not rise into a deadlift and orange upper-back/lat involvement remains visible.",
+        "The edit retains a contiguous normal-speed source interval with short still holds; it does not reverse, retime or invent a movement phase."
+      ],
+      "limitations": [
+        "Inspected exact derived keyframe sheet plus dense source sheets and endpoint details; sampled frames are not continuous playback or trainer validation.",
+        "Small pose/collar-shape drift and some broad back-side orange remain. The crop removes unused bar overhang and empty space while preserving working collars and body contacts."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r9-smith-bent-row-complete-cycle-close/keyframes.jpg",
+        "reports/form-media/attempt_f6a9227c2e17465f/review-3fps-01.jpg",
+        "reports/form-media/attempt_f6a9227c2e17465f/review-3fps-02.jpg"
+      ],
+      "editEvidence": {
+        "id": "r9-smith-bent-row-complete-cycle-close",
+        "roundId": "round-9",
+        "sourceRoundId": "round-9",
+        "sourceAssetId": "r9-open-smith-machine-bent-ov-01d0d0f3-motion-f6a9227c",
+        "sourceAttemptId": "attempt_f6a9227c2e17465f",
+        "sourcePath": "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-motion/attempt_f6a9227c2e17465f.mp4",
+        "sourceSha256": "70ead1496ed29fca0413b7d8c9d22e853be91d90d8684b7733dbb84ded7a169c",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 5.1,
+        "leadHoldSeconds": 0.35,
+        "tailHoldSeconds": 0.35,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=5.1,setpts=PTS-STARTPTS,crop=540:720:420:0,tpad=start_mode=clone:start_duration=0.35:stop_mode=clone:stop_duration=0.35",
+        "generationCredits": 0,
+        "createdAt": "2026-09-22T02:00:49+00:00",
+        "path": "form-media/assets/delivery/round-9/r9-smith-bent-row-complete-cycle-close.mp4",
+        "sha256": "88b7a8c976821b86eff85776b89e61e7ae9ad726c83e9e672d6fbc275aa68b1b",
+        "bytes": 230992,
+        "width": 540,
+        "height": 720,
+        "durationSeconds": 5.791667,
+        "codec": "h264",
+        "crop": {
+          "x": 420,
+          "y": 0,
+          "width": 540,
+          "height": 720
+        }
+      }
+    },
+    {
+      "attemptId": "attempt_b62521acdc514de0",
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r9-open-leverage-decline-ches-adfbca13-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-leverage-decline-ches-adfbca13-motion-b62521ac.mp4",
+      "outputSha256": "d35bdd5c79b8c0296b7d1f071ddeff89b17056242675193514d551d5ba23dcce",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:07:11+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Press direction and working contacts are improved: the hands remain on the connected forward/back levers, the body stays supported, and pectoral orange remains visible.",
+        "The clip performs several partial press pulses. It attains a clear near-straight full extension around 3.6 seconds, but the earlier/later peaks remain substantially bent; detailed checks at 0.9, 2.0, 2.4, 2.7, 2.85, 2.95, 3.6, 5.1, 5.25, 6.05, 6.25, 6.45 and 7.2 seconds do not show a contiguous full single cycle without an extra partial pulse.",
+        "The actual 3.6-second full-extension frame is useful as a new free-image reference. Preserve the existing settled-image guard and review the replacement before a simpler six-second extended-to-bent-to-extended motion."
+      ],
+      "limitations": [
+        "Chronological 3 fps source sheets plus multiple exact endpoint/detail frames inspected; sampled-frame editorial review, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_b62521acdc514de0/review-3fps-01.jpg",
+        "reports/form-media/attempt_b62521acdc514de0/review-3fps-02.jpg"
+      ],
+      "nextApproach": "reports/round-9-preparation/decline-from-reviewed-motion-reference/proposals.json",
+      "correctionStrategy": "new-reference-from-actual-full-extension-frame"
+    },
+    {
+      "attemptId": "attempt_11eed8cf1f3c47b3",
+      "exerciseId": "open_dip_machine_74e49ff5",
+      "shot": "r9-open-dip-machine-74e49ff5-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-dip-machine-74e49ff5-motion-11eed8cf.mp4",
+      "outputSha256": "9fa1e196b89e38b8b59a892219dfb0eaf70dc3e7e6b9f4c26898b9c7897d5166",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:16:30+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first movement is a clear supported, straight-elbow low-handle to bent-elbow high-handle and full low-handle return through 5.1 seconds. Closed grips, connected levers, seated pelvis and feet remain stable; orange triceps persist.",
+        "The unedited eight-second clip adds another partial dip after the first full return."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_11eed8cf1f3c47b3/review-3fps-01.jpg",
+        "reports/form-media/attempt_11eed8cf1f3c47b3/review-3fps-02.jpg"
+      ],
+      "trimProposal": {
+        "startSeconds": 0,
+        "endSeconds": 5.1,
+        "holdSeconds": 0.35,
+        "assetId": "r9-dip-machine-complete-cycle"
+      },
+      "nextApproach": "Use the separately reviewed exact contiguous first-cycle derivative; no new paid generation needed."
+    },
+    {
+      "attemptId": "attempt_51b571d3b359442a",
+      "exerciseId": "open_standing_cable_chest__ddb29d76",
+      "shot": "r9-open-standing-cable-chest--ddb29d76-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-standing-cable-chest--ddb29d76-motion-51b571d3.mp4",
+      "outputSha256": "7ca34af08fa53391cf0d26e04d20433642d297ae0474af6ae8c6b79721df77fb",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:16:30+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first cycle shows nearly straight forward arms, both elbows bending as handles return beside the chest, and both arms returning to the original forward reach by 5.1 seconds. Staggered feet remain planted and both D-handles keep their rearward cable attachments. Orange pectorals remain visible.",
+        "A second partial press follows the first complete cycle in the full source."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_51b571d3b359442a/review-3fps-01.jpg",
+        "reports/form-media/attempt_51b571d3b359442a/review-3fps-02.jpg"
+      ],
+      "trimProposal": {
+        "startSeconds": 0,
+        "endSeconds": 5.1,
+        "holdSeconds": 0.35,
+        "assetId": "r9-cable-chest-press-complete-cycle"
+      },
+      "nextApproach": "Use the separately reviewed exact contiguous first-cycle derivative; no new paid generation needed."
+    },
+    {
+      "attemptId": "attempt_86c490d62f694076",
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-cable-rope-overhead-t-cbb7aa38-motion-86c490d6.mp4",
+      "outputSha256": "f37aaf30b15b8ac7e290571308ad68a4d9b9799ed6cd1519b23bc42fb95dd455",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:16:30+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The clip bends and re-extends the elbows, with stable feet, rope grips and visible orange triceps, but the upper arms rotate down substantially during flexion. At 3.2 seconds the elbows move forward/down and the hands reach the top/front of the head rather than behind it.",
+        "This introduces a shoulder-assisted press pattern instead of demonstrating elbow-only overhead triceps extension; both repetitions repeat that same path. No trim removes the form issue."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_86c490d62f694076/review-3fps-01.jpg",
+        "reports/form-media/attempt_86c490d62f694076/review-3fps-02.jpg",
+        "reports/round-9-preparation/attempt_86c490d62f694076-0.jpg",
+        "reports/round-9-preparation/attempt_86c490d62f694076-3.2.jpg",
+        "reports/round-9-preparation/attempt_86c490d62f694076-5.1.jpg"
+      ],
+      "correctionPrompt": "Animate this exact overhead cable-triceps reference for 8 seconds. The shoulders and upper arms are stationary: each elbow remains at its original high position beside the head, like a fixed hinge. Hold the source long elbows for one second. Rotate only the forearms backward around those fixed elbows until the rope ends reach BEHIND the crown and both elbows bend about 90 degrees by 3.5 seconds. Pause. Straighten only the elbows until the hands and forearms return to the exact source extension by 7 seconds; hold still. Exactly one complete cycle. Do not drop the elbows forward, lower the upper arms, or turn this into a shoulder press. Keep the same rope grips and rear low-pulley connection, planted feet, still torso and orange posterior triceps throughout. No extra repetition, camera movement, cuts, text or audio.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave5-machine-corrections/r9-open-cable-rope-overhead-t-cbb7aa38-motion-after-attempt_86c490d62f694076.txt",
+      "correctionPromptSha256": "ceab2abcd1c4b21b341f83293f488b12ef59d0f92f09bb7b0109e549dad20621"
+    },
+    {
+      "attemptId": "attempt_8e91ddac633d4639",
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-leverage-shrug-33bef3fa-motion-8e91ddac.mp4",
+      "outputSha256": "bd42f10af6da707a32d50d1e383b51d20eff4d9e8fd61354d602737dc6ea231d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:16:30+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The rear camera and upper-trapezius orange are clear, and the feet remain planted, but lifting the handles bends and flares both elbows substantially. At 2.0 seconds the hands rise toward the waist while the upper arms swing away from the ribs, instead of remaining long throughout a shrug.",
+        "The body returns to the neutral source, then repeats a smaller arm-assisted lift. Neither rise is an isolated straight-arm shoulder-elevation cycle, so a first-cycle trim would preserve the core error."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8e91ddac633d4639/review-3fps-01.jpg",
+        "reports/form-media/attempt_8e91ddac633d4639/review-3fps-02.jpg",
+        "reports/round-9-preparation/attempt_8e91ddac633d4639-0.jpg",
+        "reports/round-9-preparation/attempt_8e91ddac633d4639-2.0.jpg",
+        "reports/round-9-preparation/attempt_8e91ddac633d4639-3.5.jpg"
+      ],
+      "nextApproach": "Hold another neutral-source paid retry. Propose an internal geometric guide for a clearly elevated-shoulder, long-elbow free starting image, then exact-review before any phase-shifted high-to-low-to-high motion."
+    },
+    {
+      "attemptId": "attempt_11eed8cf1f3c47b3",
+      "sourceAttemptId": "attempt_11eed8cf1f3c47b3",
+      "assetId": "r9-dip-machine-complete-cycle",
+      "exerciseId": "open_dip_machine_74e49ff5",
+      "shot": "r9-open-dip-machine-74e49ff5-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-dip-machine-complete-cycle.mp4",
+      "outputSha256": "a55389ca1c65c8eb2e801fefbdd4a4c28909acf866220de38d164e7da7691c41",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:16:30+00:00",
+      "reviewKind": "authored-delivery-sampled-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Inspected the exact 5.79-second authored delivery at 2 fps plus original delivery endpoint frames. The retained contiguous source interval is 0\u20135.1 seconds at normal speed, with 0.35-second still holds. No reversal, phase synthesis or time scaling.",
+        "Exactly one complete extended-to-bent-to-extended cycle remains, with the actual returned extension visible before the end hold. The later partial repetition is absent.",
+        "The supported pelvis/back and feet stay stable; elbows bend to roughly right angles then straighten fully beside the hips. Closed hands stay on the connected levers, with orange triceps visible through the cycle."
+      ],
+      "limitations": [
+        "Sampled-frame editorial screening, not continuous playback or trainer validation.",
+        "Minor body/material drift remains; no visible loss of the relevant working contacts in sampled frames."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r9-dip-machine-complete-cycle/keyframes.jpg"
+      ],
+      "editEvidence": {
+        "id": "r9-dip-machine-complete-cycle",
+        "roundId": "round-9",
+        "sourceRoundId": "round-9",
+        "sourceAssetId": "r9-open-dip-machine-74e49ff5-motion-11eed8cf",
+        "sourceAttemptId": "attempt_11eed8cf1f3c47b3",
+        "sourcePath": "form-media/assets/masters/r9-open-dip-machine-74e49ff5-motion/attempt_11eed8cf1f3c47b3.mp4",
+        "sourceSha256": "1b89e54ef98c15f34e2077f561956df7301b8dec4c6bcf194be94ffcef777549",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 5.1,
+        "leadHoldSeconds": 0.35,
+        "tailHoldSeconds": 0.35,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=5.1,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.35:stop_mode=clone:stop_duration=0.35",
+        "generationCredits": 0,
+        "createdAt": "2026-09-22T02:12:12+00:00",
+        "path": "form-media/assets/delivery/round-9/r9-dip-machine-complete-cycle.mp4",
+        "sha256": "a55389ca1c65c8eb2e801fefbdd4a4c28909acf866220de38d164e7da7691c41",
+        "bytes": 561358,
+        "width": 720,
+        "height": 1280,
+        "durationSeconds": 5.791667,
+        "codec": "h264"
+      }
+    },
+    {
+      "attemptId": "attempt_51b571d3b359442a",
+      "sourceAttemptId": "attempt_51b571d3b359442a",
+      "assetId": "r9-cable-chest-press-complete-cycle",
+      "exerciseId": "open_standing_cable_chest__ddb29d76",
+      "shot": "r9-open-standing-cable-chest--ddb29d76-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-cable-chest-press-complete-cycle.mp4",
+      "outputSha256": "390495750077ada23d496527fcb52fa7830e590538b50c92c60a69f001f79bd9",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:16:30+00:00",
+      "reviewKind": "authored-delivery-sampled-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Inspected the exact 5.79-second authored delivery at 2 fps plus original delivery endpoint frames. The retained contiguous source interval is 0\u20135.1 seconds at normal speed, with 0.35-second still holds. No reversal, phase synthesis or time scaling.",
+        "Exactly one complete extended-to-bent-to-extended cycle remains, with the actual returned extension visible before the end hold. The later partial repetition is absent.",
+        "The planted staggered stance stays stable. Both connected cable handles travel back beside the chest through elbow flexion, then forward to the same nearly straight reach. Orange pectorals stay visible; this is a press rather than a straight-arm fly."
+      ],
+      "limitations": [
+        "Sampled-frame editorial screening, not continuous playback or trainer validation.",
+        "Minor body/material drift remains; no visible loss of the relevant working contacts in sampled frames."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r9-cable-chest-press-complete-cycle/keyframes.jpg"
+      ],
+      "editEvidence": {
+        "id": "r9-cable-chest-press-complete-cycle",
+        "roundId": "round-9",
+        "sourceRoundId": "round-9",
+        "sourceAssetId": "r9-open-standing-cable-chest--ddb29d76-motion-51b571d3",
+        "sourceAttemptId": "attempt_51b571d3b359442a",
+        "sourcePath": "form-media/assets/masters/r9-open-standing-cable-chest--ddb29d76-motion/attempt_51b571d3b359442a.mp4",
+        "sourceSha256": "7594efbf403705fd9a32ddb9c6a2a7caabd315a2bc6e0863e11ed6721d847f05",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 5.1,
+        "leadHoldSeconds": 0.35,
+        "tailHoldSeconds": 0.35,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=5.1,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.35:stop_mode=clone:stop_duration=0.35",
+        "generationCredits": 0,
+        "createdAt": "2026-09-22T02:12:13+00:00",
+        "path": "form-media/assets/delivery/round-9/r9-cable-chest-press-complete-cycle.mp4",
+        "sha256": "390495750077ada23d496527fcb52fa7830e590538b50c92c60a69f001f79bd9",
+        "bytes": 500166,
+        "width": 720,
+        "height": 1280,
+        "durationSeconds": 5.791667,
+        "codec": "h264"
+      }
+    }
+  ]
+}

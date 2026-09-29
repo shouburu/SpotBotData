@@ -1,0 +1,82 @@
+{
+  "id": "group_d64918a4eed84da1",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T00:08:11+00:00",
+  "balanceBefore": 7214,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_dumbbell_lying_pronat_95605e7c",
+      "shot": "r9-open-dumbbell-lying-pronat-95605e7c-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "68128e50f18eb0d83f6206a639944c8ff3748a47adb027544c083de3f7444172",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lying-pronat-95605e7c-motion-58b6e372.json",
+      "quoteSha256": "6271fcf8032b3f4b751c4b13ca9763be23de94090c1cce05d4634d3b214e3a43",
+      "quoteCredits": 12,
+      "balance": 7214,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-lying-pronat-95605e7c-start/attempt_23dfed92f9494003.jpg",
+          "sha256": "1c6d6453bb40608aab9cec9a41ad085bacb6c51a3da50962d104230936ddd3e7"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_finger_curls_ada5939a",
+      "shot": "r9-open-finger-curls-ada5939a-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "8b17883ca0c1c8b4209389ff360a963591683f2fcc9eab4f44f052febe0698be",
+      "quoteFile": "form-media/ui-quotes/r9-open-finger-curls-ada5939a-motion-e5560ea1.json",
+      "quoteSha256": "c2c797e4c6aae8bfe9524996fc723d2b9837ae8e90346811e81198017c7fa240",
+      "quoteCredits": 12,
+      "balance": 7214,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-finger-curls-ada5939a-start/attempt_4d4743a1a7ba4439.jpg",
+          "sha256": "4980970bb9756bf0585ff6755698335c0ade5dbda5b6e1f980da77eaf768fd84"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_landmine_180s_8bd8af32",
+      "shot": "r9-open-landmine-180s-8bd8af32-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "2c5167ee263dd8b05114040b9fe7133726dddcd86cba3c2a23d279bb3410dad4",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-180s-8bd8af32-motion-43e3c865.json",
+      "quoteSha256": "15559d7e973f9b9d5177bc8019fd151a04ad9b393b775e863111bc9734f90f14",
+      "quoteCredits": 12,
+      "balance": 7214,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-landmine-180s-8bd8af32-start/attempt_f8ad386907734cb6.jpg",
+          "sha256": "2213f8e8d167bedfef307bedd45297350d96397f48058587487ec104033d521d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_landmine_linear_jamme_3eebe237",
+      "shot": "r9-open-landmine-linear-jamme-3eebe237-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "db9a629b3d21b11083c6dd0fc4991ca39288b93855271d1516a2b7686553004d",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-linear-jamme-3eebe237-motion-1b5fafea.json",
+      "quoteSha256": "62396a3535424b0589cec3eb52d987d6eb436c3d322468ca1c05c678de56f516",
+      "quoteCredits": 12,
+      "balance": 7214,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-landmine-linear-jamme-3eebe237-start/attempt_0a7cd6ce75844999.jpg",
+          "sha256": "3acdac13ae54c586a4328c0c31e7897638bd324bf77965939d4ba2c80af8322e"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T00:10:01+00:00",
+  "balanceAfter": 7166,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-566f4c7d6a4e4362.json",
+  "evidenceSha256": "4364ce58ab08f86cfb0da0ae0340db9d00d9b564b4cd2184e661a302e5d43e83",
+  "terminalFailureIds": []
+}

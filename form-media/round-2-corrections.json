@@ -1,0 +1,104 @@
+{
+  "roundId": "round-2",
+  "jobs": [
+    {
+      "shot": "r2-bench-studio-start",
+      "exerciseId": "ex_bench_press",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_db5f1bb3414b42f9",
+      "reason": "Use the clearer warm side composition for style comparison; previous motion chest endpoint was obscured.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-bench-illustrated-start",
+      "exerciseId": "ex_bench_press",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_db5f1bb3414b42f9",
+      "reason": "Use the clearer warm side composition for style comparison; previous motion chest endpoint was obscured.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-deadbug-studio-start",
+      "exerciseId": "cat_cal_dead_bug",
+      "kind": "image",
+      "aspect": "9:16",
+      "referenceAttemptId": "attempt_b3666bdbc3074a31",
+      "reason": "Portrait mat composition reserves the full arm and leg extension paths. Prior tabletop frame was too tight.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-deadbug-warm-start",
+      "exerciseId": "cat_cal_dead_bug",
+      "kind": "image",
+      "aspect": "9:16",
+      "referenceAttemptId": "attempt_db5f1bb3414b42f9",
+      "reason": "Portrait mat composition reserves the full arm and leg extension paths. Prior tabletop frame was too tight.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-deadbug-illustrated-start",
+      "exerciseId": "cat_cal_dead_bug",
+      "kind": "image",
+      "aspect": "9:16",
+      "referenceAttemptId": "attempt_2a8cda168524495a",
+      "reason": "Portrait mat composition reserves the full arm and leg extension paths. Prior tabletop frame was too tight.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-ankle-pump-warm-start",
+      "exerciseId": "cat_mob_ankle_pump",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_ee1c5e0f806c4b34",
+      "reason": "Retain the successful illustrated side view while giving the warm foot enough pointing space.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-cable-row-warm-start",
+      "exerciseId": "ex_seated_cable_row",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_2974004498ec4dd0",
+      "reason": "Use the coherent studio station geometry; previous warm frame had disconnected-looking pulley/footplate components.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-leg-press-warm-start",
+      "exerciseId": "ex_leg_press",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_db5f1bb3414b42f9",
+      "reason": "First image used a bent-knee seat-carriage layout inconsistent with the planned fixed-seat moving-sled lowering-first demonstration.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-deadlift-warm-start",
+      "exerciseId": "ex_deadlift",
+      "kind": "image",
+      "aspect": "9:16",
+      "referenceAttemptId": "attempt_db5f1bb3414b42f9",
+      "reason": "Previous output had hanging plates near the knees and cropped head, not the canonical floor start or full standing envelope.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-walking-lunge-illustrated-start",
+      "exerciseId": "ex_lunge",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_2a8cda168524495a",
+      "reason": "Prior low lunge frame lacked standing headroom and travelling corridor. Start upright before the first step.",
+      "promptVersion": "2.1"
+    },
+    {
+      "shot": "r2-low-stepup-warm-start",
+      "exerciseId": "cat_cal_low_stepup",
+      "kind": "image",
+      "aspect": "9:16",
+      "referenceAttemptId": "attempt_ef42a9d0ba1b458f",
+      "reason": "More than one box-height of headroom is needed for the full both-feet-on-top standing phase.",
+      "promptVersion": "2.1"
+    }
+  ]
+}

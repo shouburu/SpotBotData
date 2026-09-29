@@ -1,0 +1,82 @@
+{
+  "id": "group_2f7fcf67461249fc",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T00:48:57+00:00",
+  "balanceBefore": 6515,
+  "quotedCredits": 42,
+  "members": [
+    {
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "23589e94afcfa6f035c0dc8a0990b0d83bbb2db308bce8ca674d3ff15cf05580",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-calf-raises-6f81c277-motion-e18c6a43.json",
+      "quoteSha256": "9b400dc37ebb02ce95dd41701465e6dc1be538b55d36e5f26807d11f9d2adf0e",
+      "quoteCredits": 10,
+      "balance": 6515,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_375c4da373b147b7.jpg",
+          "sha256": "dca579076f5e0a4df6abe2713e4b62fc2623ac1203465ce7577add2dba9a40b0"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_upright_cable_row_272fd28c",
+      "shot": "r9-open-upright-cable-row-272fd28c-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "900103d89992425dce0a1ba3acda3aae725edb49e8bb356a875d270fd9a8b415",
+      "quoteFile": "form-media/ui-quotes/r9-open-upright-cable-row-272fd28c-motion-c03b6c79.json",
+      "quoteSha256": "0b5724f889bc8ab7c425eede8ef6348854d5b6840bffbbde7b4a0a381381ef57",
+      "quoteCredits": 10,
+      "balance": 6515,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-upright-cable-row-272fd28c-start/attempt_fdba5d93ef3e4dc7.jpg",
+          "sha256": "ab8ac600e9fee5b234a13773847c7f315bf18b1beb0cde5c56d1a07742fa4746"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_barbell_push_press",
+      "shot": "r9-cat-barbell-push-press-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "00b212b5783e2ee704180a55d7c6817cff2372de61e9f372cc8329bde750bbba",
+      "quoteFile": "form-media/ui-quotes/r9-cat-barbell-push-press-motion-3d4255d3.json",
+      "quoteSha256": "5a29e0c8b9c5da3131b17abd76cce82b4c674a515f54bec257e68846aff3469b",
+      "quoteCredits": 10,
+      "balance": 6515,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-cat-barbell-push-press-start/attempt_65f12d5bf8a8482a.jpg",
+          "sha256": "d3b3a978e9fe2418a5e2a4d50913c5bae5e65ebd8f3fbe2d7b3a22b61367e232"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_thigh_abductor_05f17f36",
+      "shot": "r9-open-thigh-abductor-05f17f36-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "c21acf4c89911485677afa36460889fc33bbd07c6d0fbe608378c3473db33cd2",
+      "quoteFile": "form-media/ui-quotes/r9-open-thigh-abductor-05f17f36-motion-a1fc14f6.json",
+      "quoteSha256": "66864187f3eeea005e97b635ac1359e44ca58a1ef20e47185c5300d732cc3ba2",
+      "quoteCredits": 12,
+      "balance": 6515,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-thigh-abductor-05f17f36-start/attempt_e660c3f7b1f849f8.jpg",
+          "sha256": "fd0e626dbc12505c6480aabeee65118510464c9e5ec650ca783b325db928f41f"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T00:50:32+00:00",
+  "balanceAfter": 6473,
+  "actualCredits": 42,
+  "evidenceFile": "form-media/ui-quotes/observed-cb659f05f19242d3.json",
+  "evidenceSha256": "fe96dd6fe4b8b561f4485d7c37500a46f4b2060709c0be2328d6e27b97518794",
+  "terminalFailureIds": []
+}

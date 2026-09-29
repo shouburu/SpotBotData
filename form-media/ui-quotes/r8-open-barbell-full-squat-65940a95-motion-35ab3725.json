@@ -1,0 +1,31 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "kind": "video",
+  "credits": 12,
+  "visiblePriceText": "Generating will use 12 credits",
+  "settingsText": "image\nImage\nvideocam\nVideo\ncrop_free\nFrames\nchrome_extension\nIngredients\ncrop_16_9\n16:9\ncrop_9_16\n9:16\nOmni 1.1 Flash\narrow_drop_down\n360p\ninfo\n720p\n4s\n6s\n8s\n10s\nx1\nx2\nx3\nx4\nGenerating will use 12 credits",
+  "selectedSettings": [
+    "videocamVideo",
+    "crop_freeFrames",
+    "crop_9_169:16",
+    "720p",
+    "8s",
+    "x1"
+  ],
+  "balance": 8342,
+  "visibleBalanceText": "8,342 Google Flow credits",
+  "observedAt": "2026-09-16T05:05:31.764848+00:00",
+  "exerciseId": "open_barbell_full_squat_65940a95",
+  "shot": "r8-open-barbell-full-squat-65940a95-motion",
+  "modelKey": "abra_i2v_8s",
+  "aspect": "9:16",
+  "count": 1,
+  "durationSeconds": 8,
+  "resolutions": [
+    "720p"
+  ],
+  "family": "Omni 1.1 Flash"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "group_ea369505056b4daa",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T22:01:57+00:00",
+  "balanceBefore": 9016,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "fc5d8c54d029974e17801a555ef9fd6954324c18df3f3e52c88e4811a9c3ed36",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-lying-triceps-e-ff29abb1-start-64a32764.json",
+      "quoteSha256": "6c565c836f49b0c78c7023f001c6b4325cfd25e8b07dba9a1036406314089528",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "02ec38873800a17cddfa4ee61fb8c7124f8289dd7859405849a75175bd1a41b8",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rear-delt-fly-dc550f7f-start-e9701856.json",
+      "quoteSha256": "ecb37bc414dcfa2e026e404f176f3216b6413f6db5e7c41389db89dcd7ea5ccd",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_shoulder_press_7ddeefb0",
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "d4763e303b01cc05f026294c240758a497235689a39140eef578837639b16f58",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-shoulder-press-7ddeefb0-start-7334d24e.json",
+      "quoteSha256": "dcab87227cfafad6fd22c92befff6a63c6bfa4bd40a9dc65d3158fcfc0f4013a",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r9-open-cable-wrist-curl-a1feb456-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "ce3b38b0f93e0891955da01465f11232e782023896ce18482b6edc456109264d",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-wrist-curl-a1feb456-start-993259bc.json",
+      "quoteSha256": "2acedce840cba088c6b1d70648016126287c362da2bb77ef44aea3d3df622ced",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T22:03:11+00:00",
+  "balanceAfter": 9016,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-a8062f8202bf41fe.json",
+  "evidenceSha256": "7af9d49a17d176e21e07b444105fdc6612259f27134db9672a1ad771f3115a42",
+  "terminalFailureIds": []
+}

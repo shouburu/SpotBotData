@@ -1,0 +1,80 @@
+{
+  "id": "group_d57d6e261079450b",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:12:42+00:00",
+  "balanceBefore": 8282,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "ex_leg_press",
+      "shot": "r8-ex-leg-press-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "ff91f19652dffe43a229eba13b98ac250f4f70ae7430036508495984883d7d1d",
+      "quoteFile": "form-media/ui-quotes/r8-ex-leg-press-motion-0f4df321.json",
+      "quoteSha256": "d8b0e84a4ac832a402b567ee5ae577926781fd733fc8329390c825b1dd4e7f7b",
+      "quoteCredits": 12,
+      "balance": 8282,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-leg-press-start/attempt_75c45cb2a47d40ee.jpg",
+          "sha256": "c38f6c0880b0bd606a4fd354499f9147c1bce621379726b52d735c6f498b3a84"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_romanian_deadlift",
+      "shot": "r8-ex-romanian-deadlift-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "f49006c070fbaf594faa0ffaca16949871e34bba2c0c1aa8e2c4a72c909cce69",
+      "quoteFile": "form-media/ui-quotes/r8-ex-romanian-deadlift-motion-dd053f9c.json",
+      "quoteSha256": "f70111fd6e8852d8dd8f53a06737830de434111e4fe464c32ddaa4568c6700df",
+      "quoteCredits": 12,
+      "balance": 8282,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-romanian-deadlift-start/attempt_2d7fc669eb3a42f8.jpg",
+          "sha256": "a00b224e63c1a1e96b690305df3d501a32fc252cbcd88ee3b864677f801ade9f"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r8-ex-calf-raise-seated-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "550d5b9ff8e4a51eb4f683afa59a60cb5eecfd0c17f0638ef6b6990fad7c5d6e",
+      "quoteFile": "form-media/ui-quotes/r8-ex-calf-raise-seated-motion-7dee021e.json",
+      "quoteSha256": "6d78457a0e27a57f1b0ac260142e2b41a6aa1053e624a25726e1421f78ca7949",
+      "quoteCredits": 12,
+      "balance": 8282,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-calf-raise-seated-start/attempt_3cb697e8f75645d7.jpg",
+          "sha256": "ee8d88e77d84dece56297a41c1e39d2603e83f0474c943aac6ec67a1c62a00d6"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_arnold_press",
+      "shot": "r8-ex-arnold-press-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "90c761143a5e6264f404a514160109706e9009c40f749fc0fb8da912698d63a2",
+      "quoteFile": "form-media/ui-quotes/r8-ex-arnold-press-motion-9343bdfe.json",
+      "quoteSha256": "43e8728f75dd0c393f8a18e0f09ca5f75ad50e26ab9cae75d66135f876a7ae2d",
+      "quoteCredits": 12,
+      "balance": 8282,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-arnold-press-start/attempt_b3ba6b5f912c4c3f.jpg",
+          "sha256": "f2e0dc54d2772a5cd3896c6466a7ebc1675c0310360a045531ebeb3721f55caa"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:14:31+00:00",
+  "balanceAfter": 8234,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-9aafa5099c4c4d94.json",
+  "evidenceSha256": "fe13ee82b69875d5561d45579db77cd38995b103d0413f81690db64852987fcd"
+}

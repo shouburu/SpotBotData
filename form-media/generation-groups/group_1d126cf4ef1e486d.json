@@ -1,0 +1,45 @@
+{
+  "id": "group_1d126cf4ef1e486d",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T00:20:19+00:00",
+  "balanceBefore": 7070,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "a9542fd749843b45f832d14959bd6a28cdf6495bdf8396b2cab791b9aaf12579",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-palm-up-barbel-87a8d029-start-89ffc2f6.json",
+      "quoteSha256": "3fc52e35f627ae00ea18f22820f7cae8e064a784557e3d3983abd9c5ab00e2a1",
+      "quoteCredits": 0,
+      "balance": 7070,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-seated-palm-up-barbel-87a8d029-start/attempt_f7ffe36143ba4c6e.jpg",
+          "sha256": "9cb9ae179e83872bd069fa6c88e5dacdf1a485e2ea9b543a06c73adbcb0336d2"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_external_rotation_wit_c64eb9a6",
+      "shot": "r9-open-external-rotation-wit-c64eb9a6-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "146c7202bb4ff90c76e5982b09ac0a9b597a776f965f5fd2460c20f4572e8e2d",
+      "quoteFile": "form-media/ui-quotes/r9-open-external-rotation-wit-c64eb9a6-start-87540bd7.json",
+      "quoteSha256": "209009b104fd53e54ae7a6a35be4ab2653855fbc0d6bec482151c140557eb8db",
+      "quoteCredits": 0,
+      "balance": 7070,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T00:21:22+00:00",
+  "balanceAfter": 7070,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-f32dd5e395f148e9.json",
+  "evidenceSha256": "72b32fe2be288b45d347b380787af4a6322559696ab85842f2ac8562bd0e94ed",
+  "terminalFailureIds": []
+}

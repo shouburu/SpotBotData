@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-dumbbell-side-bend-3f401794-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-side-bend-3f401794-motion-0fe0b2f2.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-squat-ef95231f-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-squat-ef95231f-motion-54bce13e.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-step-ups-04b3396f-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-step-ups-04b3396f-motion-6d078221.json"
+    },
+    {
+      "shot": "r9-open-front-cable-raise-55c6e076-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-front-cable-raise-55c6e076-motion-54ab94c9.json"
+    }
+  ]
+}

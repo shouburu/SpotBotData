@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "attemptId": "attempt_4b257295cf384422",
+  "exerciseId": "ex_lat_pulldown",
+  "shot": "r3-lat-pulldown-illustrated-motion",
+  "reviewedAt": "2026-09-10T16:05:42+00:00",
+  "reviewerType": "ai",
+  "finding": "Proven pre-submission CLI refusal: end frames are not implemented in the flow.google.com migrated-host driver of installed gflow 0.72.0.",
+  "generationSubmittedByThisInvocation": false,
+  "billingSettledByThisReview": false,
+  "failureEvidence": {
+    "path": "reports/form-media/attempt_4b257295cf384422/stdout.json",
+    "sha256": "6871174afd16961bf276adadac411005500aa124e65f5ef8cd73326250db984f",
+    "status": "fail",
+    "class": "FlowHostMigratedError",
+    "exitCode": 36,
+    "retryable": false,
+    "detail": "this account's Flow lives on flow.google.com, where gflow drives text-to-video, image-to-video from a local start frame, and reference-to-video from local files; an end frame is not ported yet (#639) — pass --initial-frame / --ref as local files, without an end frame"
+  },
+  "sourceEvidence": [
+    {
+      "path": "/Users/shouburu/.local/share/uv/tools/gflow-cli/lib/python3.14/site-packages/gflow_cli/api/transports/migrated_composer.py",
+      "sha256": "48aafc50a0d81c0704a700fd404f8f4df30ea1cbd4d7d2efce57f5e799764d03",
+      "lines": [
+        371,
+        372,
+        1985,
+        2004,
+        2006,
+        2026,
+        2027,
+        2032,
+        2048,
+        2059
+      ],
+      "controlFlow": "_unported_form returns an end frame when end_image/end_image_ref_id/end_image_ref_name is set. run_video invokes it and raises the exact observed FlowHostMigratedError immediately. The raise precedes editor setup, start upload, prompt entry and submit_and_observe. None of those later statements can execute for this error."
+    },
+    {
+      "path": "/Users/shouburu/.local/share/uv/tools/gflow-cli/lib/python3.14/site-packages/gflow_cli/api/transports/ui_automation_video.py",
+      "sha256": "0e425b75cd86fe4d7c992d61fce7a94fe85c53bddaca7d8c56a5def0467ee818",
+      "lines": [
+        3971,
+        3978,
+        3980,
+        3982,
+        3991,
+        3997
+      ],
+      "controlFlow": "_generate_video_locked resolves the host before driver generation. On migrated host it returns await run_video. Its finally parks the page at about:blank and propagates the error; it does not fall through into the legacy submission path. Any earlier work in this caller enters/waits for the editor or dismisses overlays, not generation."
+    }
+  ],
+  "scopeCorrection": "The earlier first/last investigation correctly identified the account offer key and legacy driver support, but did not inspect this migrated-composer branch. Advertised model capability and legacy route support do not establish support by this account's active CLI driver.",
+  "safestFallback": [
+    "Retain this failed CLI invocation and its exact stdout/source evidence permanently. Settle zero cost only after the root independently confirms the unchanged account balance; this source review is not the balance check.",
+    "Distinguish a proven pre-submission refusal from a generated third output. Preserve the same logical Lat motion shot and both rejected actual renders; do not rename the shot or erase the refused invocation to reset retry accounting.",
+    "Use the existing reviewed lower-position image only as a local starting frame. Remove the unsupported end frame; obtain a fresh abra_i2v_8s quote, freeze start-only mode and reference hash, reserve, then submit one output only.",
+    "Preserve the deliberate lowered-position caption and release-overhead-then-pull-back prompt. The exact final video still must prove full overhead extension and a readable return; no additional generation follows automatically.",
+    "Do not force the legacy host or switch models merely to evade the migrated-driver limitation. The error reports this account is migrated and the installed driver explicitly refuses end frames there."
+  ],
+  "limitations": [
+    "This proves where the observed CLI invocation stopped, not that no other actor used the account concurrently. Root credit reconciliation is still required.",
+    "The current three-record counter may need an explicit evidenced pre-submission classification; no ledger, retry-counter policy or script was changed by this review."
+  ],
+  "access": "Read local installed source and existing diagnostic output only; no gflow/profile/browser calls, generation, ledger edits or scripts changed.",
+  "rootReportedCreditEvidence": {
+    "reportedAt": "2026-09-10T16:06:27+00:00",
+    "observer": "root agent",
+    "observation": "Root reports a fresh gflow credits user read returned 9,322, matching balanceBefore 9,322; no generation/media IDs were returned. Root owns durable settlement.",
+    "balanceBefore": 9322,
+    "balanceAfter": 9322,
+    "observedDebit": 0
+  },
+  "providerSubmissionReached": false,
+  "rootSettlement": {
+    "verifiedAt": "2026-09-10T16:07:11+00:00",
+    "source": "Fresh gflow credits user --json result observed by root after the CLI exited",
+    "balanceBefore": 9322,
+    "balanceAfter": 9322,
+    "actualCredits": 0,
+    "noProviderJobOrMediaId": true
+  }
+}

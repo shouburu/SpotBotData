@@ -1,0 +1,80 @@
+{
+  "id": "group_5173fa13514d4b99",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T04:43:13+00:00",
+  "balanceBefore": 8498,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_shrugs",
+      "shot": "r8-ex-shrugs-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "74d709c54a4947968485a0b03c703d1f12446a4d74c449855dcf283beedd20a6",
+      "quoteFile": "form-media/ui-quotes/r8-ex-shrugs-start-82e3d044.json",
+      "quoteSha256": "8db06fa6e5afa26a7d1bb726ee1e27bd6e5aadc49f9d844daac2f5834963b14c",
+      "quoteCredits": 0,
+      "balance": 8498,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_preacher_curl",
+      "shot": "r8-ex-preacher-curl-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "c338eb23e6c053a75ddfe5a5034d0f5db3595a1b19b62146dfb2955b0260170e",
+      "quoteFile": "form-media/ui-quotes/r8-ex-preacher-curl-start-87094647.json",
+      "quoteSha256": "7216038c2c92f90a6dff600a7639cf965534d71d7b82e9c3a3ea1cf67fc544db",
+      "quoteCredits": 0,
+      "balance": 8498,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r8-ex-skullcrusher-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "78cd047a640033333ecae187a4dd70c2d6e2810ab4cb398852504ace60c56a99",
+      "quoteFile": "form-media/ui-quotes/r8-ex-skullcrusher-start-ee7dd623.json",
+      "quoteSha256": "352c57fb458e790b9dd7266a8ef9dc70cf953f70300a4d3c630ecad20f11f360",
+      "quoteCredits": 0,
+      "balance": 8498,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_overhead_tricep_extension",
+      "shot": "r8-ex-overhead-tricep-extension-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "41bfc443bdf22bf3d178e9a48dd8ecda95e1a5816f499d0d8e20fb73139148f8",
+      "quoteFile": "form-media/ui-quotes/r8-ex-overhead-tricep-extension-start-fdb9b2cd.json",
+      "quoteSha256": "9cca44297e7b221ff418c57f83e1371598a59577ab176ad7c5dc250ef0ca7741",
+      "quoteCredits": 0,
+      "balance": 8498,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T04:44:30+00:00",
+  "balanceAfter": 8498,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-4988db8e4fc54a1a.json",
+  "evidenceSha256": "ec487ced0c9995912e5c4ddf396d891d82b72f793afc4839b1aec9162624a5bf"
+}

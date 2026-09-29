@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-hang-clean-1e812852-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-hang-clean-1e812852-start-28281a65.json"
+    },
+    {
+      "shot": "r9-open-smith-machine-stiff-l-73127ddd-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-stiff-l-73127ddd-start-c00895ae.json"
+    },
+    {
+      "shot": "r9-open-standing-dumbbell-cal-ed527460-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-dumbbell-cal-ed527460-start-643a238d.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-lying-pronat-95605e7c-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lying-pronat-95605e7c-start-2518696b.json"
+    }
+  ]
+}

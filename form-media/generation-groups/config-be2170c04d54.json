@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-lying-dumbbell-tricep-02bba023-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-lying-dumbbell-tricep-02bba023-start-00a86ff9.json"
+    },
+    {
+      "shot": "r9-open-standing-overhead-bar-1c42b3f8-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-overhead-bar-1c42b3f8-start-5a797e7e.json"
+    },
+    {
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-palm-up-barbel-87a8d029-start-7c146781.json"
+    },
+    {
+      "shot": "r9-open-seated-palms-down-bar-c6486466-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-palms-down-bar-c6486466-start-38b11fea.json"
+    }
+  ]
+}

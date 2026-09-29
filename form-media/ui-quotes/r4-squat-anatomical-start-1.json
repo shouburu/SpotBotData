@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "sourceType": "flow-ui-observation",
+  "source": "Flow composer visibly selected Image / Nano Banana Pro / 9:16 / x1. Single original pilot image reference. Same-account observed balance.",
+  "observer": "Codex via CUA",
+  "observedAt": "2026-09-15T17:06:14.241133+00:00",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "exerciseId": "ex_squat",
+  "shot": "r4-squat-anatomical-start",
+  "modelKey": "GEM_PIX_2",
+  "kind": "image",
+  "family": "Nano Banana Pro",
+  "aspect": "9:16",
+  "count": 1,
+  "durationSeconds": null,
+  "resolutions": [],
+  "balance": 9288,
+  "credits": 0,
+  "visiblePriceText": "Generating will use 0 credits",
+  "visibleBalanceText": "9,288 Google Flow credits",
+  "profile": "shouburu",
+  "projectUrl": "https://flow.google.com/project/b23491b8-5ff2-412b-abea-314075feb75f"
+}

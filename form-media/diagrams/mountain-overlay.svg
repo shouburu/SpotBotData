@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="768" height="1376" viewBox="0 0 768 1376" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Mountain Pose — ribs, pelvis and standing-contact guides</title>
+  <desc id="description">Transparent alignment guides traced for the 768 by 1376 Mountain Pose still. Shallow white guides indicate the approximate lower-rib and pelvic regions, joined by a dashed upright reference. Short white curves follow the visible floor contacts under both feet. The catalog identifies full body as the primary group and no secondary groups, so this overlay contains no localized muscle shading. These are schematic positional cues, not anatomical segmentation, measured balance or prescribed angles.</desc>
+  <!-- Preserve this exact full image crop. No muscle masks: the catalog only says full body. -->
+  <!-- The guides name relationships from the instructions, not a measured body axis. -->
+  <g id="ribs-over-pelvis-guide" stroke="#FFFFFF" stroke-opacity="0.82" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path id="upright-reference" d="M386 462 L389 716" stroke-dasharray="10 10" stroke-opacity="0.62"/>
+    <path id="lower-rib-reference" d="M326 505 Q385 521 452 505"/>
+    <path id="pelvic-reference" d="M316 661 Q386 679 467 660"/>
+    <g id="reference-markers" fill="#354A57" fill-opacity="0.58" stroke-width="2.5">
+      <circle id="rib-reference-center" cx="387" cy="513" r="5"/>
+      <circle id="pelvic-reference-center" cx="388" cy="670" r="5"/>
+    </g>
+  </g>
+  <!-- Follow visible sole contact instead of inventing pressure/weight percentages. -->
+  <g id="standing-contact-guides" stroke="#FFFFFF" stroke-opacity="0.80" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path id="foot-contact-image-left" d="M273 1239 C296 1249 337 1230 371 1218"/>
+    <path id="foot-contact-image-right" d="M394 1255 C417 1267 452 1251 478 1239"/>
+  </g>
+</svg>

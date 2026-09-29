@@ -1,0 +1,90 @@
+{
+  "id": "group_afe59f57877b4390",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T02:27:41+00:00",
+  "balanceBefore": 5568,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_standing_front_barbel_9aba2baf",
+      "shot": "r9-open-standing-front-barbel-9aba2baf-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "fb9e6d61ebac23c9ffa53a7339431a0cc92f614f9e49ffb92f0b986762fc42c3",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-front-barbel-9aba2baf-start-b8d7c054.json",
+      "quoteSha256": "06eff52d779b3bbc215e3b143c2e644547c7e035c0a58be84164423cb7374c61",
+      "quoteCredits": 0,
+      "balance": 5568,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-standing-front-barbel-9aba2baf-start/attempt_e99894c7b59d47d5.jpg",
+          "sha256": "48a8a3ab0233ceb7f5742e344bb151527583512caa37f42e4b090c519df98b39"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "95058346933b59567df90a5977c9f03fd34f8a75ff2c617ae59b9909820d8d49",
+      "quoteFile": "form-media/ui-quotes/r9-open-donkey-calf-raises-55a343b9-start-054eaba9.json",
+      "quoteSha256": "1e5b684b0eb64bb1e7028bf77da4eacadd2305b45a6801f7f259960ef3b4f680",
+      "quoteCredits": 0,
+      "balance": 5568,
+      "references": [
+        {
+          "path": "form-media/assets/references/round-9/74bfe15aa902cd4a5d56-long-knee-low-heel.png",
+          "sha256": "74bfe15aa902cd4a5d567b75160574a9688e75190ca8f5a05fe383f393bac5d8"
+        },
+        {
+          "path": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_7687c894371541f5.jpg",
+          "sha256": "6b3b38b9bee944ddbac2c5c6d40b30eb7a580eb9ca3cd8ce27b9e631fa7195cb"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_clean_5137c876",
+      "shot": "r9-open-clean-5137c876-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "bcbd88053cfe6b481acc089c2e76b44c8e27567a959fe592d5f8cae8c08f3607",
+      "quoteFile": "form-media/ui-quotes/r9-open-clean-5137c876-start-3e4d8d21.json",
+      "quoteSha256": "33f5ee6a929ed468e61b8e494d5f8a832a9ebc7b5fba49f621ad2e962e7fc296",
+      "quoteCredits": 0,
+      "balance": 5568,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-clean-5137c876-start/attempt_48c2da5515c9402d.jpg",
+          "sha256": "f381b9d80cc575ed10ffd4f45d1fd74f1f5437fd9c7eb944be11ad6b705a0615"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "26ec90b3521e0e73dbd5a05759a61a874eade7b5eecb2b3453f33e267b1f2b47",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-calf-raises-6f81c277-start-3337115c.json",
+      "quoteSha256": "2fba42f4589e72a801dc4e4b5a680606c4ed924934a44091473b296dc3f1fb66",
+      "quoteCredits": 0,
+      "balance": 5568,
+      "references": [
+        {
+          "path": "form-media/assets/references/round-9/74bfe15aa902cd4a5d56-long-knee-low-heel.png",
+          "sha256": "74bfe15aa902cd4a5d567b75160574a9688e75190ca8f5a05fe383f393bac5d8"
+        },
+        {
+          "path": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_a0058c5a008040ae.jpg",
+          "sha256": "de5cdc2401fbe0e7f59574367022277ecbb89b7adca17ab26cfaa6449d83f77c"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T02:29:06+00:00",
+  "balanceAfter": 5568,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-3b433ba0ad7d49b5.json",
+  "evidenceSha256": "d9677ebdace7abaca04a160efb3f7839c9c0fa320e68e5da33e91a6b3e4ead62",
+  "terminalFailureIds": []
+}

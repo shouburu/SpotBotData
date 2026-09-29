@@ -1,0 +1,60 @@
+{
+  "id": "group_d125a578fcca4568",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:25:00+00:00",
+  "balanceBefore": 6578,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r8-open-leverage-shrug-33bef3fa-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "ec3215e08b2057cf714c02991dbe4255eeeea9269e03fbed283b8ce9232673a6",
+      "quoteFile": "form-media/ui-quotes/r8-open-leverage-shrug-33bef3fa-motion-e60e6fc1.json",
+      "quoteSha256": "d33215ebd7a59b48ec94ede5d91c4d04dcfb28a2cca6c9b9738aef446e726af1",
+      "quoteCredits": 12,
+      "balance": 6578,
+      "references": []
+    },
+    {
+      "exerciseId": "open_low_cable_crossover_8fa7b374",
+      "shot": "r8-open-low-cable-crossover-8fa7b374-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "fd73964bfe449dcd12f45089f2684b66ce0ad3b90bfe31c9dfa7aea266a03ae3",
+      "quoteFile": "form-media/ui-quotes/r8-open-low-cable-crossover-8fa7b374-motion-c194e000.json",
+      "quoteSha256": "f3ed66430c113543ad4cfcc6cb0b66bf6a2a80dd17f916c7ddca17951a7aa299",
+      "quoteCredits": 12,
+      "balance": 6578,
+      "references": []
+    },
+    {
+      "exerciseId": "open_low_cable_triceps_ext_9e0f6a66",
+      "shot": "r8-open-low-cable-triceps-ext-9e0f6a66-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "bf7c268becfd8d641dd0b780c202c57becd7b0307ba2d357b62c5104863ae09c",
+      "quoteFile": "form-media/ui-quotes/r8-open-low-cable-triceps-ext-9e0f6a66-motion-9360879f.json",
+      "quoteSha256": "1ac5e99a5438a6f152b25041d6940c795d9f3201202f8b36df8039706448b126",
+      "quoteCredits": 12,
+      "balance": 6578,
+      "references": []
+    },
+    {
+      "exerciseId": "open_low_pulley_row_to_nec_d78b13bd",
+      "shot": "r8-open-low-pulley-row-to-nec-d78b13bd-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "7376ecab8b56e7acfb35d39e237a0fc58f34043d5a26a18368781db63034fbea",
+      "quoteFile": "form-media/ui-quotes/r8-open-low-pulley-row-to-nec-d78b13bd-motion-6f3e50a9.json",
+      "quoteSha256": "0a5a97cf42c0c73a3a346cd139fdc1f09189c09972b05251e547abbbb9fa3114",
+      "quoteCredits": 12,
+      "balance": 6578,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:26:19+00:00",
+  "balanceAfter": 6530,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-7669fd21b700488a.json",
+  "evidenceSha256": "5935a708f39d074f0fd4dff2b9837457be00a0f7627d6a0757706ecb6d95e27e"
+}

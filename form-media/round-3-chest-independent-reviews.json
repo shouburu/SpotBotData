@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "shot": "r3-machine-chest-press-illustrated-motion",
+      "exerciseId": "ex_machine_chest_press",
+      "outputPath": "form-media/assets/delivery/round-3/r3-machine-chest-press-illustrated-motion-f8170de2.mp4",
+      "outputSha256": "ac0b1e0201f911755301ea57fe140754f30f8f4856f374d10f7745f0ca43b95e",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-10T15:49:56.910191+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Independently inspected the exact 8-second 1280 × 720 delivery using a 2 fps full-clip contact sheet and a 16 fps sequence covering 1.5–2.5 seconds, with full master frames at 2.125, 2.25, 2.3125 and 3.8 seconds.",
+        "The first press reaches its visible maximum around 2.1–2.25 seconds. The full master frames at 2.125 and 2.25 seconds show essentially the same endpoint; dense samples do not reveal a clearer higher-extension pose between those frames.",
+        "At that maximum, the far arm appears nearly straight while the near upper arm and forearm retain a conspicuous bend. Both-arm comfortable full extension is therefore not clearly demonstrated. The near arm is foreshortened by the oblique camera, but the actual output does not make the requested complete endpoint readable on both sides.",
+        "Both hands stay closed on their grips through sampled phases and the supported torso remains against the pad. The rigid handles and visible lever sections move coherently. The head, hands and working elbows remain in view in this intentional upper-body detail.",
+        "The handles return to a readable bent-elbow position by about 3.5–3.8 seconds, then remain near that position before another small forward movement near the tail. Trimming to source 0–4 seconds could remove the late additional motion, but it would leave the same uncertain near-arm endpoint."
+      ],
+      "limitations": [
+        "The oblique view foreshortens the near upper arm. No exact three-dimensional elbow angle, universal individual range requirement or anatomical defect is inferred solely from this projection; the review concerns the absence of a clear instructional endpoint on both sides.",
+        "Feet and the lower machine pivots are outside this upper-body composition. Selected-phase inspection cannot establish all support contacts, full machine mechanics, force distribution or every frame.",
+        "The canonical Form asks for a supported forward press and controlled return. The stronger comfortable-full-extension endpoint was required by this shot prompt; current evidence is insufficient to describe the output as a clear complete-range model.",
+        "AI editorial review only; no trainer review or user acceptance is recorded."
+      ],
+      "notes": "Keep the untrimmed output needs-review. A 0–4-second single-cycle edit would address the extra tail only, not the unclear near-arm extension. Do not recommend that trim as a complete endpoint correction. If another generation is authorized, use an independently reviewed both-arms-extended endpoint and camera angle that makes both elbow positions readable, preserving the original output and spending history."
+    },
+    {
+      "shot": "r3-machine-chest-press-illustrated-start",
+      "exerciseId": "ex_machine_chest_press",
+      "outputPath": "form-media/assets/masters/r3-machine-chest-press-illustrated-start/attempt_23927a79df5c4356.jpg",
+      "outputSha256": "9c3b4cb028127f9d397c5df3ca344ef6ab8008b64ed1e801f5a0fdab707eaa32",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-10T16:01:32.645157+00:00",
+      "reviewKind": "endpoint-reference-ai-editorial",
+      "teachingScope": "extended-arm-endpoint-reference",
+      "evidence": [
+        "Inspected the actual 1376 × 768 master, 506,160 bytes, generated as the final prompt-3.2 extended-arm endpoint attempt.",
+        "The generated person retains a visibly bent near elbow and a bent far elbow, with handles near the earlier bent-elbow starting locations. Neither arm clearly reaches the requested extended endpoint; the near elbow remains beside the torso rather than advancing into a readable completed press.",
+        "The resulting pose closely resembles the supplied starting reference instead of the requested endpoint edit. This is a failed pose change even though the centered three-quarter composition, supported torso and Graphic 3D material treatment remain coherent.",
+        "Both hands remain closed on the same vertical grips and visible machine lever sections remain intact. Head, working elbows and hands are in frame in the upper-body detail."
+      ],
+      "limitations": [
+        "The three-quarter camera foreshortens the nearer arm, so this review does not assign an exact three-dimensional elbow angle. The visible result nevertheless does not supply a readable extended-arm reference for the proposed cycle.",
+        "The lower machine pivots and feet remain outside the intentional upper-body frame. A still does not validate movement mechanics or continuous contact.",
+        "AI editorial review only; no trainer review or user acceptance is recorded."
+      ],
+      "notes": "Not ready to animate. This is the third and final allowed still attempt for the existing logical start shot. Stop the endpoint-anchor branch without paid dependent motion; do not introduce another shot to reset its allowance. Preserve the prior images and flagged first motion, and use their existing review states plus written Form while a future separately scoped solution is considered."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-barbell-ab-rollout-59a93cd6-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-ab-rollout-59a93cd6-motion-c5573680.json"
+    },
+    {
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-motion-50d3a9d7.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-bench-press-94bb9ae4-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-bench-press-94bb9ae4-motion-0dea2628.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-lying-pronat-95605e7c-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lying-pronat-95605e7c-motion-b1911137.json"
+    }
+  ]
+}

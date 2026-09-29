@@ -1,0 +1,22 @@
+{
+  "roundId": "round-2",
+  "jobs": [
+    {
+      "shot": "r2-low-stepup-warm-motion",
+      "exerciseId": "cat_cal_low_stepup",
+      "kind": "video",
+      "aspect": "9:16",
+      "duration": 10,
+      "referenceShot": "r2-low-stepup-warm-start",
+      "referenceDerivativeId": "r2-low-stepup-warm-start-canvas-v2",
+      "promptVersion": "2.5",
+      "attemptNumber": 3,
+      "finalAttempt": true,
+      "replacesAttemptId": "attempt_eecd81b2a018409b",
+      "expectedCredits": 15,
+      "pricingNote": "Planning expectation only; root must obtain and reserve the current exact live quote before submission.",
+      "reason": "Second motion corrected the full ascent and two-foot top pause but appears to step the original lead foot down first. Final bounded motion attempt defines the physical first-frame box foot as A and floor foot as B: B arrives second, leaves first; A remains planted until B is on the floor. No anatomical near/far assumption and no visible labels.",
+      "onFailure": "Retain all full outputs and their review evidence. No automatic fourth attempt. An ascent-only authored edit may be considered separately with an explicit incomplete-cycle label and independent edited-byte review."
+    }
+  ]
+}

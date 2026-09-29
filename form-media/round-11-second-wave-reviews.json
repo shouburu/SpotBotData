@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-11",
+  "reviews": [
+    {
+      "assetId": "r11-dumbbell-shrug-t2v-8fe79421",
+      "attemptId": "attempt_8fe79421a9dc48da",
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "shot": "r11-dumbbell-shrug-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-dumbbell-shrug-t2v-8fe79421.mp4",
+      "outputSha256": "618f1530706b0c605deb04db13dee651d5f7876bb2ea0fcca093950d30321bc8",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:26:46.665615+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The mannequin flexes both elbows and moves dumbbells forward and upward during the shrug instead of keeping straight arms and lifting the shoulders alone."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second and selected full-resolution endpoints. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8fe79421a9dc48da/review-3fps-01.jpg",
+        "reports/form-media/attempt_8fe79421a9dc48da/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-machine-chest-press-t2v-5e8ac113",
+      "attemptId": "attempt_5e8ac1130eab4936",
+      "exerciseId": "ex_machine_chest_press",
+      "shot": "r11-machine-chest-press-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-machine-chest-press-t2v-5e8ac113.mp4",
+      "outputSha256": "7cd643ce37d8e0d8cb45bc84a25e2a90d5914ef769a4d914d778cec20e1f77bf",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:26:46.665615+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The machine press returns to the starting handles, then begins another press. The unedited video contains more than one cycle."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second and selected full-resolution endpoints. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_5e8ac1130eab4936/review-3fps-01.jpg",
+        "reports/form-media/attempt_5e8ac1130eab4936/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-machine-chest-press-one-rep-v1",
+      "attemptId": "attempt_5e8ac1130eab4936",
+      "exerciseId": "ex_machine_chest_press",
+      "shot": "r11-machine-chest-press-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-machine-chest-press-one-rep-v1.mp4",
+      "outputSha256": "5b077ff2e9556651bc47f156e613bd637e384ddced8c73c8b59a5395b7a1a82e",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:26:46.665615+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact edit shows one complete seated press from mid-chest to near elbow extension and back. The back remains against the seat and hands hold the horizontal handles. Chest highlight is visible throughout."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second and selected full-resolution endpoints. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-11-preparation/machine-one-rep-exact-3fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-standing-dumbbell-calf-t2v-a9e91162",
+      "attemptId": "attempt_a9e91162c2ce49db",
+      "exerciseId": "open_standing_dumbbell_cal_ed527460",
+      "shot": "r11-standing-dumbbell-calf-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-standing-dumbbell-calf-t2v-a9e91162.mp4",
+      "outputSha256": "46e62805051edb8b4fe30a4bf06b230792837df1902ebcb22b298a40d344b690",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:26:46.665615+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both heels rise and return, but the initial feet rest almost entirely on top of the round plate rather than with the heels free beyond the edge. The muscle cue is absent in the opening segment and the foot support is misleading."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second and selected full-resolution endpoints. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a9e91162c2ce49db/review-3fps-01.jpg",
+        "reports/form-media/attempt_a9e91162c2ce49db/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-barbell-triceps-extension-t2v-bf5f782a",
+      "attemptId": "attempt_bf5f782a152d426b",
+      "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+      "shot": "r11-barbell-triceps-extension-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-barbell-triceps-extension-t2v-bf5f782a.mp4",
+      "outputSha256": "42b524130f5801fcff75c51d411c753d638f9419061f3da61e492d27e1ff13d4",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:26:46.665615+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The original repeats the lowering and extension movement twice. The first cycle is also asymmetric: one elbow bends substantially before the other."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second and selected full-resolution endpoints. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_bf5f782a152d426b/review-3fps-01.jpg",
+        "reports/form-media/attempt_bf5f782a152d426b/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-barbell-triceps-one-rep-v1",
+      "attemptId": "attempt_bf5f782a152d426b",
+      "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+      "shot": "r11-barbell-triceps-extension-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-barbell-triceps-one-rep-v1.mp4",
+      "outputSha256": "3370897134a3fcdcdd3903300d3a2ee90893b6ab1ff6aec02f7b5a9ac7b188df",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:26:46.665615+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact first-cycle excerpt still has asymmetric elbow motion, with one arm remaining comparatively straight while the other lowers the bar toward the head. Trimming the second cycle does not correct the form."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second and selected full-resolution endpoints. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-11-preparation/triceps-one-rep-exact-3fps.jpg"
+      ]
+    }
+  ]
+}

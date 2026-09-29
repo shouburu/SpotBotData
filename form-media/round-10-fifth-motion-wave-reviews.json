@@ -1,0 +1,97 @@
+{
+  "roundId": "round-10",
+  "reviews": [
+    {
+      "assetId": "r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc",
+      "attemptId": "attempt_ecb744cc7346488f",
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r10-open-decline-smith-press-ab9938f7-motion-v3",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc.mp4",
+      "outputSha256": "3d5ab439d410837e39b9bca7780c3d1d996255f7562301340c71e70fbacd8274",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:59:17+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The one Smith bar descends close to the lower chest along both rails, then returns to the original extended-elbow height in one continuous cycle. Bench remains genuinely decline, contacts and orange pectoral cue persist."
+      ],
+      "limitations": [
+        "Screened the exact delivered file at 4 fps and selected full-resolution frames. AI editorial screen only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc-delivery-4fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r10-ex-straight-arm-pulldown-motion-v3-d9374dd6",
+      "attemptId": "attempt_d9374dd69f774bd9",
+      "exerciseId": "ex_straight_arm_pulldown",
+      "shot": "r10-ex-straight-arm-pulldown-motion-v3",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-ex-straight-arm-pulldown-motion-v3-d9374dd6.mp4",
+      "outputSha256": "904c59204859e75f53778da86b3dcab6c1a6aa3ae79932ad4e3b9b45a27fc6c7",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:59:17+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bar travels through a substantial high-to-thigh-to-high shoulder arc, but the orange lat involvement disappears completely at the contracted low endpoint, violating the all-frames muscle cue requirement."
+      ],
+      "limitations": [
+        "Screened the exact delivered file at 4 fps and selected full-resolution frames. AI editorial screen only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-ex-straight-arm-pulldown-motion-v3-d9374dd6-delivery-4fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r10-open-cable-shrugs-c5ea5dc6-motion-v3-9cfe7c88",
+      "attemptId": "attempt_9cfe7c88c0f4466d",
+      "exerciseId": "open_cable_shrugs_c5ea5dc6",
+      "shot": "r10-open-cable-shrugs-c5ea5dc6-motion-v3",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-open-cable-shrugs-c5ea5dc6-motion-v3-9cfe7c88.mp4",
+      "outputSha256": "d9e1852cecedd9b5d0fd6e3e9db302008aa0fa3d864bb586226d6c634e02ec4f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:59:17+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "At the high endpoint both elbows flex substantially, raising the bar toward the waist in an upright-row-like pull rather than a straight-arm shoulder shrug."
+      ],
+      "limitations": [
+        "Screened the exact delivered file at 4 fps and selected full-resolution frames. AI editorial screen only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-open-cable-shrugs-c5ea5dc6-motion-v3-9cfe7c88-delivery-4fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b",
+      "attemptId": "attempt_7a7c9a0b3feb4858",
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "shot": "r10-open-thigh-adductor-933feed1-motion-v3",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/delivery/round-10/r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b.mp4",
+      "outputSha256": "9d7c70888296a0399dc4851a03f0be242ef6caf8860ea5df3035fc3ecba5dcf0",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:59:17+00:00",
+      "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Both thighs and their pads close from wide to near together and reopen to the exact starting width in a single controlled cycle; hands, seat and foot supports stay in contact, and inner-thigh orange cue persists."
+      ],
+      "limitations": [
+        "Screened the exact delivered file at 4 fps and selected full-resolution frames. AI editorial screen only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-10-preparation/r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b-delivery-4fps.jpg"
+      ]
+    }
+  ]
+}

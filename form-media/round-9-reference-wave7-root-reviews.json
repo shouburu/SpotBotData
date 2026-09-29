@@ -1,0 +1,143 @@
+{
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "exerciseId": "open_smith_single_leg_spli_c8f7e55e",
+      "shot": "r9-open-smith-single-leg-spli-c8f7e55e-start",
+      "attemptId": "attempt_8eb04b73d93c4dff",
+      "outputPath": "form-media/assets/masters/r9-open-smith-single-leg-spli-c8f7e55e-start/attempt_8eb04b73d93c4dff.jpg",
+      "outputSha256": "64eaae63bf8c6fb9bc6e3b9589b3230b6f0f727ea1532cb2d7cc837ebec0fd72",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:18:08+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "exact-master-reference-ai-editorial",
+      "evidence": [
+        "Front foot is fully planted and its long front leg reaches the missing high endpoint. Rear instep remains on the bench and the shoulder bar and two grips are coherent.",
+        "Full knees, feet, bench contact and orange quadriceps are visible with room to descend; actual high pose matches authored six-second high-to-low-to-high brief."
+      ],
+      "limitations": [
+        "Secondary side hardware is visible but outside the central bar travel path; paid clip still requires exact equipment-contact and depth review.",
+        "AI still inspection only, not approval of future motion or trainer review."
+      ]
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-start",
+      "attemptId": "attempt_c1d4bcd408634619",
+      "outputPath": "form-media/assets/masters/r9-ex-cable-fly-start/attempt_c1d4bcd408634619.jpg",
+      "outputSha256": "9635d1617aeac5f7da24def6fd7ff6c90fcc032320357580814bbb543642784f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:30:43+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "exact-master-reference-ai-editorial",
+      "evidence": [
+        "Reference now has a clear wide chest-fly endpoint with long arms and only a small soft elbow bend, coherent same-side cable attachments and closed grips.",
+        "Full body and working arc fit; orange chest involvement is prominent and actual pose matches the new six-second wide-to-front-to-wide prompt."
+      ],
+      "limitations": [
+        "The visible elbow bend is smaller than the numerical brief; paid motion must preserve a soft bend and cannot fold arms into a press.",
+        "Exact still inspection only; motion needs its own review."
+      ]
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "attemptId": "attempt_a40ef7db8e864e96",
+      "outputPath": "form-media/assets/masters/r9-ex-reverse-pec-deck-start/attempt_a40ef7db8e864e96.jpg",
+      "outputSha256": "85cad0962fe0e90d5fe8581ca5a84330e5c96a6c5c4bb638030da62148a2ec8a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:30:43+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-master-reference-ai-editorial",
+      "evidence": [
+        "The edit still shows arms spread to the sides in essentially the prior rear view, instead of the forward-reaching long-arm endpoint in the requested side view.",
+        "The static apparatus and near long arm are plausible, but it did not create the changed anchor intended to correct repeated elbow-flexion failures; do not animate under the forward-source brief."
+      ],
+      "limitations": [
+        "This is a pose/prompt mismatch and repeated-strategy hold, not a claim that every anatomical feature in the still is wrong.",
+        "Exact still inspection only; motion needs its own review."
+      ]
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "attemptId": "attempt_970bfa248f3249c0",
+      "outputPath": "form-media/assets/masters/r9-ex-reverse-pec-deck-start/attempt_970bfa248f3249c0.jpg",
+      "outputSha256": "6b43d038f95ec3f01ce3cf60c5b35ba3a134e3157157df3e55dc7fe990da3e98",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:36:10+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-master-reference-ai-editorial",
+      "evidence": [
+        "The fresh source finally shows long forward-reaching arms and a clear side view, but it places the pad against the back rather than the chest. This is the wrong supported orientation for the catalog reverse pec deck.",
+        "Keep the useful arm endpoint but move the support to the sternum before any motion generation; orange should target the posterior shoulder portion rather than the entire cap."
+      ],
+      "limitations": [
+        "Exact still inspection, not motion or trainer approval."
+      ]
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "attemptId": "attempt_7918125511414022",
+      "outputPath": "form-media/assets/masters/r9-ex-reverse-pec-deck-start/attempt_7918125511414022.jpg",
+      "outputSha256": "18c4a75ac2c9dc29f77245d0c322d6705dbb9545a855fa3ec41e244c82f4a91e",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:48:31+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-master-reference-ai-editorial",
+      "evidence": [
+        "The edit moved the pad in front of the mannequin but left a large visible air gap between sternum and pad. It does not illustrate chest-supported reverse pec deck contact.",
+        "Long forward arms, closed grips and posterior-shoulder orange are useful. Preserve them while moving the narrow pad directly against the sternum beneath the arms."
+      ],
+      "limitations": [
+        "Exact still inspection only; no motion or trainer approval."
+      ]
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "attemptId": "attempt_d39281731e18481e",
+      "outputPath": "form-media/assets/masters/r9-ex-reverse-pec-deck-start/attempt_d39281731e18481e.jpg",
+      "outputSha256": "b934bd87a49c2459037a1ba6dfc0f113148561072b863578a9feea419300def9",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:53:09+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "exact-master-reference-ai-editorial",
+      "evidence": [
+        "The geometry-guide edit now places the front pad in direct sternum contact while leaving the back uncovered; seated hips and both feet remain supported.",
+        "Both long forward arms and grips are visible at shoulder level with a soft elbow angle; posterior shoulder orange and useful movement room remain. The actual source now matches the authored forward-open-forward motion."
+      ],
+      "limitations": [
+        "Secondary frame/linkage hardware is visible near the chest post. The paid clip must preserve functional grip-to-handle linkage and cannot invent a new attachment as the arms open.",
+        "Exact still screening only, not future motion or trainer approval."
+      ]
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-start",
+      "attemptId": "attempt_dbcec6e6999c4d92",
+      "outputPath": "form-media/assets/masters/r9-ex-cable-fly-start/attempt_dbcec6e6999c4d92.jpg",
+      "outputSha256": "d44b5672582a524d6e3b3ab85fd60134b32bf3d8aee2996cc60e5a76921fc4f4",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:34:38.012046+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "exact-master-reference-ai-editorial",
+      "evidence": [
+        "Actual source shows both hands together well in front of torso, long softly bent arms, closed handles with continuous cables, orange pectorals and stable staggered feet.",
+        "Three-quarter view exposes long shoulder-to-hand levers. It matches the new closed-to-wide-to-closed six-second brief and provides opening space."
+      ],
+      "limitations": [
+        "Hands meet below mid-chest and camera is less side-on than requested; these are disclosed source differences, not missing full-cycle motion.",
+        "Minor shoulder-cap orange accompanies clear chest cue. Future motion still needs exact elbow-angle, cable contact and complete-return review."
+      ]
+    }
+  ]
+}

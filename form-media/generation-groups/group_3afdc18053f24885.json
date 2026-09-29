@@ -1,0 +1,82 @@
+{
+  "id": "group_3afdc18053f24885",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T01:02:39+00:00",
+  "balanceBefore": 6195,
+  "quotedCredits": 46,
+  "members": [
+    {
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "37deefa37f239c9f8e439a3d2cb837669f97170612995fc8ee31cb4fb4754c7f",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-motion-ae61be68.json",
+      "quoteSha256": "27246dcabe5c7aa00b912cbda81189579089e3474a6aaf6dbaaafed415f1ac19",
+      "quoteCredits": 12,
+      "balance": 6195,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_b2a1349ac7c84fa7.jpg",
+          "sha256": "9300817813e781dc0d5d72f38e5b15b71cd873b6382e2f440a82141e1c52b6ad"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_standing_cable_chest__ddb29d76",
+      "shot": "r9-open-standing-cable-chest--ddb29d76-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "5e24df5e3506af7401e51cda929ec86ce4c069e432f183d303cf5f27d15b39b6",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-cable-chest--ddb29d76-motion-559ee373.json",
+      "quoteSha256": "0d15bbf9c3ada64c9e2d805fa12115707b1f7ca66d77d0a0f67951c9014e8e0a",
+      "quoteCredits": 12,
+      "balance": 6195,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-standing-cable-chest--ddb29d76-start/attempt_3c5aba6eb2954529.jpg",
+          "sha256": "41d48a1fc6f3892ea54475e0f3afd0744c4fb629d8831e36d7c7c94884343ac8"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_lying_dumbbell_tricep_02bba023",
+      "shot": "r9-open-lying-dumbbell-tricep-02bba023-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "2bf553965fbec4f42dc5f5c6e6e9f10c3d82ed83b3d385de71bf352d815a024c",
+      "quoteFile": "form-media/ui-quotes/r9-open-lying-dumbbell-tricep-02bba023-motion-7b903865.json",
+      "quoteSha256": "15a47281c13c5673eecab8b61bfc55bd3b21e1587bad4d8842bcfff80428df01",
+      "quoteCredits": 12,
+      "balance": 6195,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-lying-dumbbell-tricep-02bba023-start/attempt_e7225bb1962a45e6.jpg",
+          "sha256": "4a2d3725fe98503a08f3a9fa16ac8ad631215bfb6aad78366f7a9c79885c9279"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "edf067bef14a8bcacfdce9f598778a5b39062a521d6c94c3bdf3a8bd458a7768",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-palm-up-barbel-87a8d029-motion-afd912b9.json",
+      "quoteSha256": "f7ab02aba1c86db551e149e7bcd18f53ba81ba820ffbdb9aa48bb1b7d689bc32",
+      "quoteCredits": 10,
+      "balance": 6195,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-seated-palm-up-barbel-87a8d029-start/attempt_4abc1bd3664e4c87.jpg",
+          "sha256": "53363763a5dda44d40a7f0ccdeac1e88e605151210fc7f98cada9292bcf30d41"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T01:04:31+00:00",
+  "balanceAfter": 6149,
+  "actualCredits": 46,
+  "evidenceFile": "form-media/ui-quotes/observed-b5c3ad68277b4b9d.json",
+  "evidenceSha256": "81b857db5561aa8cbe6ee87c6c6b9e0e0c1e43fb2f21c41e6971756f6c7207f8",
+  "terminalFailureIds": []
+}

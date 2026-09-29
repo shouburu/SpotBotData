@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-inverted-row-1ce9a06f-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-inverted-row-1ce9a06f-start-4724f04c.json"
+    },
+    {
+      "shot": "r9-open-standing-barbell-calf-3952bfa6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-barbell-calf-3952bfa6-start-7ac4660d.json"
+    },
+    {
+      "shot": "r9-open-standing-dumbbell-cal-ed527460-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-dumbbell-cal-ed527460-start-3badd023.json"
+    },
+    {
+      "shot": "r9-open-trap-bar-deadlift-c526cf24-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-trap-bar-deadlift-c526cf24-start-7ec61531.json"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "group_f10d67171df544fb",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:26:33+00:00",
+  "balanceBefore": 6530,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_dumbbell_lying_rear_l_6b714b26",
+      "shot": "r8-open-dumbbell-lying-rear-l-6b714b26-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "2bad41186040376fe5ead540c7dda97913adec9304c5158fa31029129cdbf0e7",
+      "quoteFile": "form-media/ui-quotes/r8-open-dumbbell-lying-rear-l-6b714b26-motion-259cc503.json",
+      "quoteSha256": "e382c35745e28b89a687ce7d3536a37713b59ffa8a19faa53368d50d3a7c2b64",
+      "quoteCredits": 12,
+      "balance": 6530,
+      "references": []
+    },
+    {
+      "exerciseId": "open_lying_cable_curl_10449825",
+      "shot": "r8-open-lying-cable-curl-10449825-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "7fa8c3d676ff534a579acd7c2b262a6770b9955f6b0ed753240b8a6b8dfd04af",
+      "quoteFile": "form-media/ui-quotes/r8-open-lying-cable-curl-10449825-motion-88a1cf86.json",
+      "quoteSha256": "0e0ba542f18a216e11ebe74076a8576f1748499e6bf4efa70157859e7cedf532",
+      "quoteCredits": 12,
+      "balance": 6530,
+      "references": []
+    },
+    {
+      "exerciseId": "open_lying_cambered_barbel_426f00b0",
+      "shot": "r8-open-lying-cambered-barbel-426f00b0-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "f404b13f9674b77a1d436a381da596a2ca8ab2cd2528281c0441518a70f5a182",
+      "quoteFile": "form-media/ui-quotes/r8-open-lying-cambered-barbel-426f00b0-motion-fc90c558.json",
+      "quoteSha256": "7b75896ae4fcf7dc00d55398c7bf7f737ed3bb584030cd4329d689efda59c957",
+      "quoteCredits": 12,
+      "balance": 6530,
+      "references": []
+    },
+    {
+      "exerciseId": "open_lying_close_grip_bar__7eb8ebee",
+      "shot": "r8-open-lying-close-grip-bar--7eb8ebee-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "ea967c80e54a6ea6754446f81356271e0d96cd57cfa82f3e4483dead731259cf",
+      "quoteFile": "form-media/ui-quotes/r8-open-lying-close-grip-bar--7eb8ebee-motion-14c3d844.json",
+      "quoteSha256": "754c513ba504e24a0acb97a11ef15ed8a29db2f01e0e85b03d26a6b512bb5941",
+      "quoteCredits": 12,
+      "balance": 6530,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:28:15+00:00",
+  "balanceAfter": 6482,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-3cb29fbabb7042b0.json",
+  "evidenceSha256": "838e5c8c29cbe995431c0c9ca88f83ec410c80fe63893c9d191a5c0c3246c477"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "group_d04c77ca7d5a4266",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:00:13+00:00",
+  "balanceBefore": 4760,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r10-ex-dumbbell-fly-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "6b6360ae9e745fd4ccf5c63978e4b279559265f742b63b13f5200d488c98c4d4",
+      "quoteFile": "form-media/ui-quotes/r10-ex-dumbbell-fly-start-e9714251.json",
+      "quoteSha256": "d58fd18f2ed7a773478f3a6406f59babee76ec6758d56282f76383213e0a0a9c",
+      "quoteCredits": 0,
+      "balance": 4760,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-dumbbell-fly-start/attempt_4c07bd654acb47e4.jpg",
+          "sha256": "56f861c3eb82fcb0584e9f132b8e99f273140a875a1aadb7b0d7a16b7f7a01dc"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "shot": "r10-open-dumbbell-shrug-5ed42a42-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "209c71ee8baf5e9b051814fab8d5c2379c00ef143faf66592336b1718f54ab6b",
+      "quoteFile": "form-media/ui-quotes/r10-open-dumbbell-shrug-5ed42a42-start-f464b7f4.json",
+      "quoteSha256": "d6123b495a7c5e6b5b302648ddbb81994b7920d358519dbcd583f95ba22bdb17",
+      "quoteCredits": 0,
+      "balance": 4760,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_cable_crunch",
+      "shot": "r10-ex-cable-crunch-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "c8c8fcac3e1f241e4e656a88c2448f60221fcad926cc5ae46b0faaeace619378",
+      "quoteFile": "form-media/ui-quotes/r10-ex-cable-crunch-start-f4711ca1.json",
+      "quoteSha256": "5832598d5186c1489a3fc5e53a13474bc7f74663cae1fc93c90746e26058b035",
+      "quoteCredits": 0,
+      "balance": 4760,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:01:36+00:00",
+  "balanceAfter": 4760,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-28bc98dea9e74584.json",
+  "evidenceSha256": "663227742da8a1c1555ec12032094f0702ae41f706ad35f628b759bbe810e8de",
+  "terminalFailureIds": []
+}

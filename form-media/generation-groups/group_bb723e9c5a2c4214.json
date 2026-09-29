@@ -1,0 +1,62 @@
+{
+  "id": "group_bb723e9c5a2c4214",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T23:10:20+00:00",
+  "balanceBefore": 8082,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_dip_machine_74e49ff5",
+      "shot": "r9-open-dip-machine-74e49ff5-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "22b77b5449a0c935085a940c8a1c6653078e9fb2c046ff379fb6094161b07b61",
+      "quoteFile": "form-media/ui-quotes/r9-open-dip-machine-74e49ff5-start-fee8de28.json",
+      "quoteSha256": "2320730825498f97c8d5c09f332bfa59fca51046b2e0db0145f137c83f476ec0",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_hip_adduction_deb67de6",
+      "shot": "r9-open-cable-hip-adduction-deb67de6-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "d9b91d97e0b28681d43fede98d3278f594ed2ad9d77752bb1c03dc91d677390d",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-hip-adduction-deb67de6-start-51d33d91.json",
+      "quoteSha256": "e48350321e5b5a6382ce770b9043d4b0f6ca11ae613e9b2d0bae235e06eb9b11",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "ff0e42a4c1ae9c39976efa27aecf38415f3968dffa539dca28740dd4ad1f42a2",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-start-c5ec83c3.json",
+      "quoteSha256": "c6d6611a34c87b9c8c20fb7758823858e5150c4cfc138fe6e6575ac84835de58",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_shrugs_c5ea5dc6",
+      "shot": "r9-open-cable-shrugs-c5ea5dc6-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "e71b31ca199f194ea9c4a30ffdaf4dbede75dc324a85f67eadbcc1dfc9ea2b7c",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-shrugs-c5ea5dc6-start-1230f953.json",
+      "quoteSha256": "23bf87c65e704693a0b7331eb26b24d92aff0aa0f12b3bf6009110e73cd46361",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T23:11:37+00:00",
+  "balanceAfter": 8082,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-6b92d50dacef4a32.json",
+  "evidenceSha256": "4699af12f07d0c98f0cfe083be8ef05f7344ab758a5bb119475b5be4e5a59c58",
+  "terminalFailureIds": []
+}

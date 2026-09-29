@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-landmine-180s-8bd8af32-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-180s-8bd8af32-start-7728e901.json"
+    },
+    {
+      "shot": "r9-open-single-arm-linear-jam-b53226fa-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-single-arm-linear-jam-b53226fa-start-d5482470.json"
+    },
+    {
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-start-e08b1537.json"
+    },
+    {
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-start-5e94fbe7.json"
+    }
+  ]
+}

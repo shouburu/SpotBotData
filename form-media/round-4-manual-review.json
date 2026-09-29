@@ -1,0 +1,75 @@
+{
+  "roundId": "round-4",
+  "reviewedAt": "2026-09-15T17:29:53.572761+00:00",
+  "reviewerType": "ai",
+  "scope": "Focused manual web preview and media editorial review; no automated test suite.",
+  "viewports": [
+    {
+      "width": 390,
+      "height": 844,
+      "documentScrollWidth": 390,
+      "evidence": "CUA viewport compensated for existing 80% browser zoom; measured CSS dimensions. Native video controls, portrait preview, candidate list and Form guidance remained readable with no horizontal document overflow."
+    },
+    {
+      "width": 1600,
+      "height": 900,
+      "evidence": "Wide desktop screenshot inspection of candidate preview beside Form, style comparison and review controls."
+    }
+  ],
+  "playback": [
+    {
+      "exerciseId": "ex_lateral_raise",
+      "attemptId": "attempt_66a6b92074cf4cdc",
+      "durationSeconds": 8,
+      "ended": true,
+      "readyState": 4,
+      "mediaError": null
+    },
+    {
+      "exerciseId": "open_seated_dumbbell_press_b32f5163",
+      "attemptId": "attempt_de3c3b17ae6c4fb1",
+      "durationSeconds": 8,
+      "ended": true,
+      "readyState": 4,
+      "mediaError": null
+    },
+    {
+      "exerciseId": "ex_seated_cable_row",
+      "attemptId": "attempt_8172536063ad4aa9",
+      "durationSeconds": 8,
+      "ended": true,
+      "readyState": 4,
+      "mediaError": null
+    },
+    {
+      "exerciseId": "ex_squat",
+      "attemptId": "attempt_c5d6dea2f1f14d8d",
+      "durationSeconds": 8,
+      "ended": true,
+      "readyState": 4,
+      "mediaError": null
+    },
+    {
+      "exerciseId": "ex_deadlift",
+      "attemptId": "attempt_5bcc600b698942d6",
+      "durationSeconds": 8,
+      "ended": true,
+      "readyState": 4,
+      "mediaError": null
+    }
+  ],
+  "persistenceEvidence": "Refresh retained prior selected media, historical user notes, all new candidates, imported AI reviews and budget. No user review decision was submitted during the manual check. Completed Round3 snapshot SHA remains unchanged.",
+  "limitations": [
+    "Frame sampling and native playback completion do not certify every anatomical detail or trainer approval.",
+    "Form text was visibly independent of the media player; no deliberate media failure was injected.",
+    "An initial in-app preview tab crashed; a fresh tab played the same delivered video successfully."
+  ],
+  "deferred": [
+    "Automated tests",
+    "Builds",
+    "Lint and type checks",
+    "Native/device verification",
+    "Theme sweeps"
+  ],
+  "nextAction": "User reviews Round4 Anatomical 3D candidates; future generations require a fresh quote and exact retained history."
+}

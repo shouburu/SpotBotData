@@ -1,0 +1,67 @@
+{
+  "id": "group_71ef862611ed43d2",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:10:57+00:00",
+  "balanceBefore": 4710,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_straight_arm_pulldown",
+      "shot": "r10-ex-straight-arm-pulldown-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "525917f9f6ec61b1968a5dc4c04162a1d68258d6618d52a3a52c36bcf020358c",
+      "quoteFile": "form-media/ui-quotes/r10-ex-straight-arm-pulldown-start-e03e0c0f.json",
+      "quoteSha256": "1e30abb7a24ab190807bb08b96c7ebcb6a96d62e45314480ad63995d30032816",
+      "quoteCredits": 0,
+      "balance": 4710,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_arnold_press",
+      "shot": "r10-ex-arnold-press-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "5b6f1abd0640e27fc8bb72ab68ff8f9540ed9c40e04e7c859e0fdd027db85e27",
+      "quoteFile": "form-media/ui-quotes/r10-ex-arnold-press-start-ccf8e716.json",
+      "quoteSha256": "ee8c303c154d263b43ed98aae4e3220a7ffbdd227312cbddfb9bbca3b1e93fd5",
+      "quoteCredits": 0,
+      "balance": 4710,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_shrugs_c5ea5dc6",
+      "shot": "r10-open-cable-shrugs-c5ea5dc6-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "ae5d2b1782658dc3893ea1d88dd07012e8e4a9c0f1d67905232c593dbaba3afb",
+      "quoteFile": "form-media/ui-quotes/r10-open-cable-shrugs-c5ea5dc6-start-94948752.json",
+      "quoteSha256": "a2edf5dfa081a7f16a04b44666d79e793da24d919984be204fb614c59b1a2683",
+      "quoteCredits": 0,
+      "balance": 4710,
+      "references": []
+    },
+    {
+      "exerciseId": "open_decline_dumbbell_benc_7264c18d",
+      "shot": "r10-open-decline-dumbbell-benc-7264c18d-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "224bdd81ba20318ab6b1910158a6991b4864bbcd1d9fe119e18f65647d10deb5",
+      "quoteFile": "form-media/ui-quotes/r10-open-decline-dumbbell-benc-7264c18d-start-4ac1d028.json",
+      "quoteSha256": "23edd19812c6354ca2d1764a94ce3300f8c4e2cf8442222f2f7f0d6dbc06f994",
+      "quoteCredits": 0,
+      "balance": 4710,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-decline-dumbbell-benc-7264c18d-start/attempt_c8edf0e3ace243d9.jpg",
+          "sha256": "03e02a7cc6a192e54004961db78c2f6dd8b9948eafa08f09dd50b9bc32429cdb"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:12:30+00:00",
+  "balanceAfter": 4710,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-17f5ff92e49248cd.json",
+  "evidenceSha256": "394a48fb97aae1473bd5bc1e1376ceafc6d0b93fac86dac6fe8529878afcf5c7",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-bent-ov-01d0d0f3-start-fed0404a.json"
+    },
+    {
+      "shot": "r9-open-decline-dumbbell-flye-14b2de63-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-decline-dumbbell-flye-14b2de63-start-e86390a5.json"
+    },
+    {
+      "shot": "r9-open-standing-dumbbell-cal-ed527460-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-dumbbell-cal-ed527460-start-314e53af.json"
+    },
+    {
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-pec-deck-start-85e0bd99.json"
+    }
+  ]
+}

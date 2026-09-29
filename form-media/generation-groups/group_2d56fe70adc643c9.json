@@ -1,0 +1,82 @@
+{
+  "id": "group_2d56fe70adc643c9",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T01:28:00+00:00",
+  "balanceBefore": 6005,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_ez_bar_skullcrusher_18e6f719",
+      "shot": "r9-open-ez-bar-skullcrusher-18e6f719-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "d1b555e0737a5d303b8eeaa92b26c9cc19042ee444bdea2b8d309550c118cfd8",
+      "quoteFile": "form-media/ui-quotes/r9-open-ez-bar-skullcrusher-18e6f719-start-40e93f20.json",
+      "quoteSha256": "cb5f1dc9c805d5d95cf6d7c4d769f590aa38505254d0f16b51b64480a80e382b",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-ez-bar-skullcrusher-18e6f719-start/attempt_3003b1896a9140ce.jpg",
+          "sha256": "faa053f1c8ac032be18fa22359797ea960f5412731c16af9c10d84b85f6400b7"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "e27e8e4d656f9e6f2afdd30deaeb92a74828c364d144844d0aab03975a802aa7",
+      "quoteFile": "form-media/ui-quotes/r9-ex-cable-fly-start-f6f8f640.json",
+      "quoteSha256": "70c141303527f9348de44ef9498fc3b70dd3a85e94280d70fe4b1c0f150d4733",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-cable-fly-start/attempt_260333206ad44aaa.jpg",
+          "sha256": "28ab13ab11247866fe679e08ffe344d1d3e700e460c523dc9530825f28bda608"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "1fb5d6be45aa243bc2436b1ccc74c6752075bc67f817d4e4337126eff8149c81",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-pec-deck-start-02b0a4a6.json",
+      "quoteSha256": "89ed893dc8f4f6e8083e979d69e28439c0af41bc8ed31829157a835cfe4aaf0d",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-reverse-pec-deck-start/attempt_00a8dfe7f2474321.jpg",
+          "sha256": "5a041746b39d799d9b3d32090899c226047ba0fa9b0e8a016b1247b90cdefe01"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_barbell_ab_rollout_59a93cd6",
+      "shot": "r9-open-barbell-ab-rollout-59a93cd6-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "aa3a1f612ef3e1a39cf2a527d3efefeb50b4a7a7bae6c4e2197602b835bbb7a9",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-ab-rollout-59a93cd6-start-d5a33b7a.json",
+      "quoteSha256": "88c91a06af0a2227b56fbb9b04f050469129c45e6203147f4f1316d2b47625e0",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-barbell-ab-rollout-59a93cd6-start/attempt_f469c974b12f48ea.jpg",
+          "sha256": "b5f44106bb7bc9c5f4fdf70c4f3ec2ebb1f1ab61832e64a7da9085a68ecd3392"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T01:29:33+00:00",
+  "balanceAfter": 6005,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-af9bc32b45b84a2b.json",
+  "evidenceSha256": "2027bf67df9f080266559864abc72a095ffde55d0e5b024112fbfaa5a53981ab",
+  "terminalFailureIds": []
+}

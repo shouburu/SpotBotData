@@ -1,0 +1,64 @@
+{
+  "id": "group_f3d4910706e74672",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T04:46:17+00:00",
+  "balanceBefore": 8498,
+  "quotedCredits": 36,
+  "members": [
+    {
+      "exerciseId": "ex_shrugs",
+      "shot": "r8-ex-shrugs-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "907d60611bddfed39ae6a9cff9b09f90bfa5827c7341ae407af0f5d249dc492c",
+      "quoteFile": "form-media/ui-quotes/r8-ex-shrugs-motion-db19b728.json",
+      "quoteSha256": "73abb41642790b07d785497b3b2f0e08e22cc2b8bf49d14b571cf7e3f2bb88bc",
+      "quoteCredits": 12,
+      "balance": 8498,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-shrugs-start/attempt_2b55f273d5c84ed3.jpg",
+          "sha256": "3893332feadc82b39041eb774e3d1df5bfbfe8ccc0eac4fe8f7b05edf172edc1"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r8-ex-skullcrusher-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "3eaa6c7ed717589b5737b5da40f12e5689a7bef59e5429b8a3566141614f3f01",
+      "quoteFile": "form-media/ui-quotes/r8-ex-skullcrusher-motion-ee953c4d.json",
+      "quoteSha256": "120c21f4185db110f8367e429842c8a8f20889105b606fd7b371b89a931e6a45",
+      "quoteCredits": 12,
+      "balance": 8498,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-skullcrusher-start/attempt_4f12e5965d6e4afa.jpg",
+          "sha256": "0ff4dfdfa4fc2294a19e627c578bdfb4719e3763f0b32c3c769615e1b7968e08"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_overhead_tricep_extension",
+      "shot": "r8-ex-overhead-tricep-extension-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "88c41a57580f50420b808e8c0c3b451b516504bb275e5206229a70a57eb76f01",
+      "quoteFile": "form-media/ui-quotes/r8-ex-overhead-tricep-extension-motion-4b859c98.json",
+      "quoteSha256": "ed1d7ccf2cdaf5de05a331ddc5f45ba5525a5446c404aed9d4eacc7d5e094e38",
+      "quoteCredits": 12,
+      "balance": 8498,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r8-ex-overhead-tricep-extension-start/attempt_7d018b07fdb5414a.jpg",
+          "sha256": "a71fecdcda313d0721a1405da348096aa77628a605720e8fa09d2d56d0a13216"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T04:48:06+00:00",
+  "balanceAfter": 8462,
+  "actualCredits": 36,
+  "evidenceFile": "form-media/ui-quotes/observed-27f4ab0c21014cc3.json",
+  "evidenceSha256": "bd83300fadb94615088831c4b5f5d3cd04017c4be367bbfa162f1579d02a6995"
+}

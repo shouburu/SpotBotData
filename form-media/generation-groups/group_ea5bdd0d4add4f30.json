@@ -1,0 +1,86 @@
+{
+  "id": "group_ea5bdd0d4add4f30",
+  "status": "completed-with-failures",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T22:37:53+00:00",
+  "balanceBefore": 8580,
+  "quotedCredits": 130,
+  "members": [
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r9-ex-skullcrusher-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "76ed6d4db824d48ffacc73d22b376b4611ecf88e04f3423ac7afe147acd4b7c8",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-motion-34686849.json",
+      "quoteSha256": "cab238f9d9c1418bf3498fd23e24cbd9d3fa6c5fc49e0b38326ffaa95d0b9e6d",
+      "quoteCredits": 100,
+      "balance": 8580,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_6dbdb8ac3a7543bb.jpg",
+          "sha256": "1d8db8200f2740ead9704e5e56579fc47f50cb95bfea5f7360e7375ffc1c99a1"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_straight_arm_pulldown",
+      "shot": "r9-ex-straight-arm-pulldown-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "1ea3848d1958ee838da54c987d625e7980bed74532b3679f7b5b33d27375d6d8",
+      "quoteFile": "form-media/ui-quotes/r9-ex-straight-arm-pulldown-motion-160ede6a.json",
+      "quoteSha256": "9b0a9c7bde96066a7d6975dbdd97e9cb011b505a8d88770a8f340aa720cb41f7",
+      "quoteCredits": 10,
+      "balance": 8580,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-straight-arm-pulldown-start/attempt_5f6010ea8f234033.jpg",
+          "sha256": "001851b2d49f46a0d851e8cc6cbcd3b4db7d595f88c9e938f4c286cda48a0206"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_arnold_press",
+      "shot": "r9-ex-arnold-press-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "f80fd47817386f51df41b1d4a7e603eea46bee7ff1bd7f5b85684f140509a2e3",
+      "quoteFile": "form-media/ui-quotes/r9-ex-arnold-press-motion-76ecc7c7.json",
+      "quoteSha256": "b91e79ac7a0785e31df76af1037f86220f56112f319785926cfa0b9a507fc4a8",
+      "quoteCredits": 10,
+      "balance": 8580,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-arnold-press-start/attempt_dcb140ce66dd44be.jpg",
+          "sha256": "efcc0cbbdcfb38a24bee1599946faa89c51b713ec9cd790abeea6e5ef8f51072"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_lateral_raise",
+      "shot": "r9-ex-lateral-raise-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "75e6b6cd103df36dea5f54364a8c0eb9c9106221e66e176a660545141788e9f2",
+      "quoteFile": "form-media/ui-quotes/r9-ex-lateral-raise-motion-8345db78.json",
+      "quoteSha256": "6a1fe1dfc8020928b93c7d33d43fa78619d3a459099ffac82b0be5df84a69d25",
+      "quoteCredits": 10,
+      "balance": 8580,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-lateral-raise-start/attempt_c46ee74cef5640bf.jpg",
+          "sha256": "07e321e02e5bdea8832098423270a30ecf0750545641173c45d8d98e31d59328"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T22:40:03+00:00",
+  "balanceAfter": 8570,
+  "actualCredits": 10,
+  "evidenceFile": "form-media/ui-quotes/observed-1152860fc98341de.json",
+  "evidenceSha256": "1bcf5ba3dbf5aef7ca1a1a6a572c820986dc9c77510f09179b9836b7f9a614ad",
+  "terminalFailureIds": [
+    "attempt_3556644e6e5f4089",
+    "attempt_269120a641744465",
+    "attempt_0cc3d18277bd437c"
+  ]
+}

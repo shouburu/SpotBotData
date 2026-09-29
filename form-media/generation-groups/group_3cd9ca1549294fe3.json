@@ -1,0 +1,82 @@
+{
+  "id": "group_3cd9ca1549294fe3",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T01:00:16+00:00",
+  "balanceBefore": 6243,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_ez_bar_skullcrusher_18e6f719",
+      "shot": "r9-open-ez-bar-skullcrusher-18e6f719-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "ad4200181d3c0a65cafc32a6ed046eaf6a4dabfedb4f78473358d9da136b5925",
+      "quoteFile": "form-media/ui-quotes/r9-open-ez-bar-skullcrusher-18e6f719-motion-fcdc1cf7.json",
+      "quoteSha256": "096fa518db8631c9ba6403e96207f31e9cf5a430900684a0af1b0fb042fb9877",
+      "quoteCredits": 12,
+      "balance": 6243,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-ez-bar-skullcrusher-18e6f719-start/attempt_3003b1896a9140ce.jpg",
+          "sha256": "faa053f1c8ac032be18fa22359797ea960f5412731c16af9c10d84b85f6400b7"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_finger_curls_ada5939a",
+      "shot": "r9-open-finger-curls-ada5939a-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "59519e59801b23d273739fb289519105a5c9c3de96f2c84d49c24e14f619a399",
+      "quoteFile": "form-media/ui-quotes/r9-open-finger-curls-ada5939a-motion-10730c7d.json",
+      "quoteSha256": "8a7a8c48bf0ff89dfb9b06f59511950866679f3a36a4e4262933dfdabc64ae9e",
+      "quoteCredits": 12,
+      "balance": 6243,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-finger-curls-ada5939a-start/attempt_4d4743a1a7ba4439.jpg",
+          "sha256": "4980970bb9756bf0585ff6755698335c0ade5dbda5b6e1f980da77eaf768fd84"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_incline_dumbbell_flye_f858d67d",
+      "shot": "r9-open-incline-dumbbell-flye-f858d67d-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "24a8f813a30563e7ac3a8fc090a503a1c3a06b44a59c7a78584c40a52b0a5015",
+      "quoteFile": "form-media/ui-quotes/r9-open-incline-dumbbell-flye-f858d67d-motion-cceb659f.json",
+      "quoteSha256": "9c5754fbf1f60f175e04bdd13d783df023af6fffa9022d9a0d2c1c9773c7d67a",
+      "quoteCredits": 12,
+      "balance": 6243,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-incline-dumbbell-flye-f858d67d-start/attempt_29ed0484cdb64adc.jpg",
+          "sha256": "f1b120046c81536191122c1757f94483a23667048b53ae8a6465c73879bf4e5a"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_landmine_180s_8bd8af32",
+      "shot": "r9-open-landmine-180s-8bd8af32-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "ce73e142ac63f1d338fa1aa6f30da92bacca8f191e3e4171468a32d5dc4ccfc4",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-180s-8bd8af32-motion-41e73f7c.json",
+      "quoteSha256": "061c72cad9339243b72da05fd03d7f118c8aa794ba09102ab012f67b848b5167",
+      "quoteCredits": 12,
+      "balance": 6243,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-landmine-180s-8bd8af32-start/attempt_f8ad386907734cb6.jpg",
+          "sha256": "2213f8e8d167bedfef307bedd45297350d96397f48058587487ec104033d521d"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T01:02:07+00:00",
+  "balanceAfter": 6195,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-18f7158ec44541a1.json",
+  "evidenceSha256": "97c2a6e68336b4eae993d3cd7bd2f3be48c744d84ce4f9b9531020f0b7395231",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-barbell-ab-rollout-59a93cd6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-ab-rollout-59a93cd6-start-064d7b9c.json"
+    },
+    {
+      "shot": "r9-open-finger-curls-ada5939a-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-finger-curls-ada5939a-start-3eb1671e.json"
+    },
+    {
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-calf-raises-6f81c277-start-122e11d2.json"
+    },
+    {
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-decline-ches-adfbca13-start-b9f5aca7.json"
+    }
+  ]
+}

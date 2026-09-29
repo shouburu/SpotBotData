@@ -1,0 +1,68 @@
+{
+  "roundId": "round-2",
+  "jobs": [
+    {
+      "shot": "r2-deadbug-studio-start",
+      "exerciseId": "cat_cal_dead_bug",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_2275043e08df41a8",
+      "promptVersion": "2.2",
+      "reason": "Portrait reposing incorrectly grounded the feet. Preserve the original valid suspended tabletop pose and camera; only widen to fit both full diagonal reaches."
+    },
+    {
+      "shot": "r2-deadbug-warm-start",
+      "exerciseId": "cat_cal_dead_bug",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_73a3bb431a354711",
+      "promptVersion": "2.2",
+      "reason": "Portrait reposing incorrectly grounded the feet. Preserve the original valid suspended tabletop pose and camera; only widen to fit both full diagonal reaches."
+    },
+    {
+      "shot": "r2-deadbug-illustrated-start",
+      "exerciseId": "cat_cal_dead_bug",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_fdff76fc066f455c",
+      "promptVersion": "2.2",
+      "reason": "Portrait reposing incorrectly grounded the feet. Preserve the original valid suspended tabletop pose and camera; only widen to fit both full diagonal reaches."
+    },
+    {
+      "shot": "r2-ankle-pump-warm-start",
+      "exerciseId": "cat_mob_ankle_pump",
+      "kind": "image",
+      "aspect": "16:9",
+      "referenceAttemptId": "attempt_ee1c5e0f806c4b34",
+      "promptVersion": "2.2",
+      "reason": "Prior restyle added an unrelated cable machine. Preserve the original empty background; remove the generic equipment phrase."
+    },
+    {
+      "shot": "r2-bench-overhead-studio-still",
+      "exerciseId": "ex_bench_press",
+      "kind": "image",
+      "aspect": "4:3",
+      "referenceAttemptId": "attempt_4d331e97f14745db",
+      "promptVersion": "2.1",
+      "reason": "Previous overhead arm geometry read as a curl; require natural foreshortening and hand-over-elbow projection."
+    },
+    {
+      "shot": "r2-bench-overhead-illustrated-still",
+      "exerciseId": "ex_bench_press",
+      "kind": "image",
+      "aspect": "4:3",
+      "referenceAttemptId": "attempt_f2dd00397a2745e3",
+      "promptVersion": "2.1",
+      "reason": "Previous overhead arm geometry read as a curl; require natural foreshortening and hand-over-elbow projection."
+    },
+    {
+      "shot": "r2-deadlift-warm-start",
+      "exerciseId": "ex_deadlift",
+      "kind": "image",
+      "aspect": "9:16",
+      "referenceAttemptId": "attempt_823403b16cee4573",
+      "promptVersion": "2.2",
+      "reason": "Corrected floor start still uses small-diameter plates, lowering bar to ankles. Increase to full-size diameter with grounded rims and mid-shin shaft; preserve full standing envelope."
+    }
+  ]
+}

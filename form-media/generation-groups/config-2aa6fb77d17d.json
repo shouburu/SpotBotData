@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-open-cable-one-arm-tricep--b3a24519-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-one-arm-tricep--b3a24519-motion-d498b1e9.json"
+    },
+    {
+      "shot": "r8-open-cable-preacher-curl-bf1c5a4b-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-preacher-curl-bf1c5a4b-motion-c9ac3238.json"
+    },
+    {
+      "shot": "r8-open-cable-rear-delt-fly-dc550f7f-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-rear-delt-fly-dc550f7f-motion-4c9ddd61.json"
+    },
+    {
+      "shot": "r8-open-cable-reverse-crunch-c6685404-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-reverse-crunch-c6685404-motion-4796c661.json"
+    }
+  ]
+}

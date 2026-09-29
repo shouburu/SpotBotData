@@ -1,0 +1,60 @@
+{
+  "id": "group_467bd9460f0647d7",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:30:29+00:00",
+  "balanceBefore": 6434,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_lying_machine_squat_0406f405",
+      "shot": "r8-open-lying-machine-squat-0406f405-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "0df150e6d30416b394281a8ee514bc5e1a4dbb477c9631012c0f22e681e637d8",
+      "quoteFile": "form-media/ui-quotes/r8-open-lying-machine-squat-0406f405-motion-3f56adc3.json",
+      "quoteSha256": "460c53e0eb22307183b4d86601d1c825a9e125de563d5ea4c671465473881226",
+      "quoteCredits": 12,
+      "balance": 6434,
+      "references": []
+    },
+    {
+      "exerciseId": "open_lying_one_arm_lateral_805b04ac",
+      "shot": "r8-open-lying-one-arm-lateral-805b04ac-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "0bfb8071b387abe76df5e58eb787422115398d76fe7c9073fa7539d5abf222fc",
+      "quoteFile": "form-media/ui-quotes/r8-open-lying-one-arm-lateral-805b04ac-motion-3097c939.json",
+      "quoteSha256": "02709bdc73727dc4039f16d8d8c5551fc9cdd7d4024c888049cbe176ad7c45f3",
+      "quoteCredits": 12,
+      "balance": 6434,
+      "references": []
+    },
+    {
+      "exerciseId": "open_lying_supine_dumbbell_1b268eb5",
+      "shot": "r8-open-lying-supine-dumbbell-1b268eb5-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "fb82a8143874418d72accdabfe22a18f9120b5f4b9d3e0a5795770f37ea1fe66",
+      "quoteFile": "form-media/ui-quotes/r8-open-lying-supine-dumbbell-1b268eb5-motion-f347ac7f.json",
+      "quoteSha256": "d4e2e02e6f9fe8ee69371f7d45c86674cbb3024f853d994c408721271e7b94b6",
+      "quoteCredits": 12,
+      "balance": 6434,
+      "references": []
+    },
+    {
+      "exerciseId": "open_lying_t_bar_row_94fda689",
+      "shot": "r8-open-lying-t-bar-row-94fda689-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "66e0b7ced7fb7be01a6d9217772244fe3d246c4a541aa3244b35a0965e4e5ccc",
+      "quoteFile": "form-media/ui-quotes/r8-open-lying-t-bar-row-94fda689-motion-a86f263c.json",
+      "quoteSha256": "a3f667996f6728488179a404ba4039b1fd5d5db7f378267244c1da2339b8f91c",
+      "quoteCredits": 12,
+      "balance": 6434,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:31:39+00:00",
+  "balanceAfter": 6386,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-ec1bd967024a4ae0.json",
+  "evidenceSha256": "07975bae23e4c8ba34db143dc24805f2f7220bfb26c0812223cdc4f6749f5326"
+}

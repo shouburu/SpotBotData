@@ -1,0 +1,10 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observedAt": "2026-09-15T19:07:37.711194+00:00",
+  "observer": "Codex via CUA",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "attemptId": "attempt_ed72e5117ccc439b",
+  "balance": 9192,
+  "visibleBalanceText": "9,192 Google Flow credits",
+  "evidence": "Refreshed project after completed output; same-account Account details panel."
+}

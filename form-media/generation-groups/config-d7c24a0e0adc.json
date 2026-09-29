@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-barbell-ab-rollout-59a93cd6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-ab-rollout-59a93cd6-start-97b80ef5.json"
+    },
+    {
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-calf-raises-6f81c277-start-9e9177af.json"
+    },
+    {
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-start-e8f3fbcd.json"
+    },
+    {
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-decline-ches-adfbca13-start-b4972b5d.json"
+    }
+  ]
+}

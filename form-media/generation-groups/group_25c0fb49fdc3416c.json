@@ -1,0 +1,84 @@
+{
+  "id": "group_25c0fb49fdc3416c",
+  "status": "completed-with-failures",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T23:00:45+00:00",
+  "balanceBefore": 8220,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_landmine_linear_jamme_3eebe237",
+      "shot": "r9-open-landmine-linear-jamme-3eebe237-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "6c890a014d928f7e66be30fc07f5aa506d28b0cdd82446fd93cba3ccf640187a",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-linear-jamme-3eebe237-motion-9d0c38ee.json",
+      "quoteSha256": "cd57e157b0afb30af5b78833b407afba6852a7e1c956dd0c8fc8b25a6c02fbbf",
+      "quoteCredits": 10,
+      "balance": 8220,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-landmine-linear-jamme-3eebe237-start/attempt_0a7cd6ce75844999.jpg",
+          "sha256": "3acdac13ae54c586a4328c0c31e7897638bd324bf77965939d4ba2c80af8322e"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_lying_dumbbell_tricep_02bba023",
+      "shot": "r9-open-lying-dumbbell-tricep-02bba023-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "2bf553965fbec4f42dc5f5c6e6e9f10c3d82ed83b3d385de71bf352d815a024c",
+      "quoteFile": "form-media/ui-quotes/r9-open-lying-dumbbell-tricep-02bba023-motion-a2d1d582.json",
+      "quoteSha256": "5a30220a7fb2ac0639f526df51787e671ae10970e2cc2aa3f7ed6d814d394bc7",
+      "quoteCredits": 10,
+      "balance": 8220,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-lying-dumbbell-tricep-02bba023-start/attempt_e7225bb1962a45e6.jpg",
+          "sha256": "4a2d3725fe98503a08f3a9fa16ac8ad631215bfb6aad78366f7a9c79885c9279"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "9e7527cb3692aa0e6eacc5f89e611554c38fd8486b903567e884ab723d0139fc",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-palm-up-barbel-87a8d029-motion-793b89d8.json",
+      "quoteSha256": "7ed73bba4610ad3e6569bdc71205ef1cd999b98ae50f901e147911eec6541abb",
+      "quoteCredits": 10,
+      "balance": 8220,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-seated-palm-up-barbel-87a8d029-start/attempt_2e853927dde74af5.jpg",
+          "sha256": "dc3d6a8c3e3bbf11a9bd7c4416bf6442fe9600dfc160ef65441fe524d4d10edb"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_seated_palms_down_bar_c6486466",
+      "shot": "r9-open-seated-palms-down-bar-c6486466-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "a3c3fb1be7245876fcc0b2229c8fc7e85740b1a136daf3ea8d9e921c6999d093",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-palms-down-bar-c6486466-motion-78479587.json",
+      "quoteSha256": "ebcdf3ff1e6807050a72589cb4b3406aebf1bd7a0d8b00692cddd19f3daf30c3",
+      "quoteCredits": 10,
+      "balance": 8220,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-seated-palms-down-bar-c6486466-start/attempt_ae6a0198275940c0.jpg",
+          "sha256": "028c097693aa9e2395fe56b5587602b62b18cd5b055fd24d69bfbdce4b00fcdf"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T23:02:07+00:00",
+  "balanceAfter": 8190,
+  "actualCredits": 30,
+  "evidenceFile": "form-media/ui-quotes/observed-b11c9417ec544dd3.json",
+  "evidenceSha256": "f488dbad8c7dbe6f062b694c029142da4b950dbe482777bfb05a1b04c8bc1e05",
+  "terminalFailureIds": [
+    "attempt_b1f4e699397a415d"
+  ]
+}

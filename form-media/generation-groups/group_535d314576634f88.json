@@ -1,0 +1,60 @@
+{
+  "id": "group_535d314576634f88",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T06:51:49+00:00",
+  "balanceBefore": 5858,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_seated_barbell_twist_625c8c53",
+      "shot": "r8-open-seated-barbell-twist-625c8c53-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "eeadf7db57afbb3842b24e66b1ae8889e080977fd9b6df5c9373446ce47cc3c1",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-barbell-twist-625c8c53-motion-433022ac.json",
+      "quoteSha256": "c96669738268de36c471ff65b210772925602994e9f769ac851722c8f02a1d4f",
+      "quoteCredits": 12,
+      "balance": 5858,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_seated_lateral__3ddcda79",
+      "shot": "r8-open-cable-seated-lateral--3ddcda79-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "e4141d14b55cdf03b554e75e2920b81a8a58f8b9d4fc6949ab1c4d64306d0698",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-seated-lateral--3ddcda79-motion-ebf7557d.json",
+      "quoteSha256": "044f3c041a3581da8a6a524d51d08eb104cce2bc4d2688249e096d017f56eaae",
+      "quoteCredits": 12,
+      "balance": 5858,
+      "references": []
+    },
+    {
+      "exerciseId": "open_seated_bent_over_one__80921123",
+      "shot": "r8-open-seated-bent-over-one--80921123-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "70e2e1da9ddd7fc86c6d0186f5556b763b40c9e846ff2ce2fcae7eb6d58f75d1",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-bent-over-one--80921123-motion-be16730b.json",
+      "quoteSha256": "f140c3732569c0f93bb2f0a1dd2390b4a765b260c9ea18fa752841858032d5ad",
+      "quoteCredits": 12,
+      "balance": 5858,
+      "references": []
+    },
+    {
+      "exerciseId": "open_seated_bent_over_rear_a254c894",
+      "shot": "r8-open-seated-bent-over-rear-a254c894-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "1808647c877a3bda186110423a10d7e83a72335dde399c482c25e4eb75871007",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-bent-over-rear-a254c894-motion-bd10f589.json",
+      "quoteSha256": "afe6e0cf462bf8809c0aa4015e9dd3a6e24985130cda23399751e0dc89b63294",
+      "quoteCredits": 12,
+      "balance": 5858,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T06:53:09+00:00",
+  "balanceAfter": 5810,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-f3aa33d6fd294c05.json",
+  "evidenceSha256": "1eb12b64cb1089e216cc50dbe024f5251b56c0b6d69088c350cd40321e649bb2"
+}

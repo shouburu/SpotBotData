@@ -1,0 +1,533 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "attemptId": "attempt_727e670312ad48bc",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-calf-raise-seated-motion-727e6703.mp4",
+      "outputSha256": "2eeab642520e778ba5a3e35ec2d665900b201ec51e48e23b6428e9b49fce7647",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:35:48+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Several separate heel rises and drops occur rather than one controlled high-to-low-to-high ankle cycle; the initial and later arm motions also repeatedly raise the lever.",
+        "The loaded thigh pad lifts clear of the thigh while the hands move upward, particularly near 4 seconds, so plate motion is not consistently transferred through thigh-pad contact from the ankle movement.",
+        "The detailed 1.6, 2.5, 3.3 and 3.6 second frames show alternating ankle positions and changing pad contact. A trim would retain either the independent arm-driven pad lift or an incomplete excursion.",
+        "The calf region remains visibly orange. The additional anterior thigh/shin coloring is a localization limitation, but the equipment-contact and repeated-motion failures determine this verdict."
+      ],
+      "limitations": [
+        "Inspected two chronological 3 fps delivery sheets plus full-resolution 1 and 4 second frames and four cropped contact/ankle frames. Sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_727e670312ad48bc/review-3fps-01.jpg",
+        "reports/form-media/attempt_727e670312ad48bc/review-3fps-02.jpg",
+        "reports/form-media/attempt_727e670312ad48bc/detail-1.png",
+        "reports/form-media/attempt_727e670312ad48bc/detail-1.6.png",
+        "reports/form-media/attempt_727e670312ad48bc/detail-2.5.png",
+        "reports/form-media/attempt_727e670312ad48bc/detail-3.3.png",
+        "reports/form-media/attempt_727e670312ad48bc/detail-3.6.png",
+        "reports/form-media/attempt_727e670312ad48bc/detail-4.png"
+      ],
+      "correctionPrompt": "Animate exactly ONE seated calf-raise cycle in 8 seconds from this high-heel reference. The loaded pad must stay pressed firmly against the thighs above the knees for the entire clip. Hands only rest on the handles: never pull, lift or pump the handles or pad with the arms. Hold the initial high heels for 1 second. Lower the heels continuously to the lowest comfortable position by 3.5 seconds, keeping the balls of the feet fixed on the step and letting the knees and contacting thigh pad descend naturally together. Pause low until 4 seconds. Raise the heels continuously to their exact initial high position by 7 seconds, lifting the pad only through the thighs as the ankles extend. Hold to 8 seconds. Do not reverse direction during either moving phase and do not add any bounce or second heel rise. The seat, footstep and frame remain fixed; pelvis stays seated and knees stay bent. Preserve persistent orange calf muscle bellies; other regions are gray. Fixed camera, no cuts, text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-ex-calf-raise-seated-motion-after-attempt_727e670312ad48bc.txt",
+      "correctionPromptSha256": "cca42f84e9c6be861d9b1f2f3656d45093e1cdd5261a8536e33a9816094cead3"
+    },
+    {
+      "attemptId": "attempt_0bc03761e6b94432",
+      "exerciseId": "ex_cable_lateral_raise",
+      "shot": "r9-ex-cable-lateral-raise-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-cable-lateral-raise-motion-0bc03761.mp4",
+      "outputSha256": "efc6608fa4f2256aef8345cd37b80c0dff0cbbf9113d50bf68c1fb1a5323fee9",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:38:17+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working arm performs a clear shoulder-height to arm-at-side to shoulder-height cycle with stable torso, nearly unchanged elbow angle and persistent deltoid orange.",
+        "The exposed selected weight plates rise while the handle lowers and settle while the handle rises, reversing the visible load-stack relationship.",
+        "A small additional lowering begins near the end after the valid return.",
+        "The actual body and cable movement can be retained by a contiguous 0\u20137.2 second trim and a fixed crop that removes the incorrect weight stack; that derivative is reviewed separately."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets plus full-resolution 0, 3 and 6.5 second frames. Sampled-frame screening, not continuous playback or trainer validation.",
+        "The low endpoint reaches beside the working thigh rather than crossing to the opposite thigh. It demonstrates a complete arm-at-side shoulder range."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_0bc03761e6b94432/review-3fps-01.jpg",
+        "reports/form-media/attempt_0bc03761e6b94432/review-3fps-02.jpg",
+        "reports/form-media/attempt_0bc03761e6b94432/detail-0.png",
+        "reports/form-media/attempt_0bc03761e6b94432/detail-3.png",
+        "reports/form-media/attempt_0bc03761e6b94432/detail-6.5.png"
+      ],
+      "correctionStrategy": "Use the independently reviewed authored close-view derivative r9-cable-lateral-raise-complete-cycle-close; do not regenerate this accepted body cycle merely to repair excluded background mechanics."
+    },
+    {
+      "attemptId": "attempt_0bc03761e6b94432",
+      "sourceAttemptId": "attempt_0bc03761e6b94432",
+      "assetId": "r9-cable-lateral-raise-complete-cycle-close",
+      "exerciseId": "ex_cable_lateral_raise",
+      "shot": "r9-ex-cable-lateral-raise-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-cable-lateral-raise-complete-cycle-close.mp4",
+      "outputSha256": "f20cbf19edc98b13c696ce06c8b718149e5a7837785a916a14dc23ec94d450ca",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:38:17+00:00",
+      "reviewKind": "authored-delivery-sampled-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact derivative shows one complete high-to-low-to-high lateral shoulder arc: the handle lowers fully beside the thigh and returns to the original shoulder-height endpoint.",
+        "The working hand, elbow, shoulder and full cable path to the low pulley remain visible; the elbow angle and torso are steady, and deltoid orange persists throughout.",
+        "The fixed crop excludes the original reversed weight-stack motion. The trim ends before the extra lowering, and cloned still holds preserve clear start and finish without reversing footage."
+      ],
+      "limitations": [
+        "Inspected the exact derivative at 2 fps and its source at 3 fps with three full-resolution frames; sampled-frame editorial screening, not continuous playback or trainer validation.",
+        "The crop clips the outer tips of the supporting hand at the left border, although its tower grip remains evident; the working arm and handle remain fully visible.",
+        "The original frame already omits the feet, so planted-foot contact is not verified by this close upper-body view.",
+        "This is a body-and-cable demonstration; the inaccurate original weight stack is deliberately outside the authored crop."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r9-cable-lateral-raise-complete-cycle-close/keyframes.jpg"
+      ],
+      "editEvidence": {
+        "trimStartSeconds": 0,
+        "trimEndSeconds": 7.2,
+        "leadHoldSeconds": 0.35,
+        "tailHoldSeconds": 0.35,
+        "crop": {
+          "x": 156,
+          "y": 0,
+          "width": 660,
+          "height": 720
+        },
+        "playbackRate": 1,
+        "generationCredits": 0
+      }
+    },
+    {
+      "attemptId": "attempt_5fbab741ccd046cf",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-calf-raise-seated-motion-5fbab741.mp4",
+      "outputSha256": "77ffb30614ba83d07d79d91bbc6928dc6e66db52f582b7520b1d9b26478056e8",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:43:44+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The footstep translates to the right and changes its geometry during the clip, despite being fixed machine hardware.",
+        "The feet repeatedly lift or slide over the platform as the knees move; the forefeet do not remain anchored while the heels rotate around them.",
+        "There are several separate leg/foot excursions rather than one ankle plantarflexion cycle. No contiguous interval demonstrates the requested full supported movement.",
+        "Calf orange is visible and more localized than the previous output, but this does not resolve the contact and hardware failures."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_5fbab741ccd046cf/review-3fps-01.jpg",
+        "reports/form-media/attempt_5fbab741ccd046cf/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Animate ONLY one ankle-driven seated calf raise from this exact high-heel pose. The machine frame, seat and footstep are bolted down and remain identical and motionless. Both balls of the feet remain fixed to the exact same spots on the step throughout. Hold 1 second, lower only the heels behind the step to a comfortable low ankle position by 3.5 seconds, pause, then lift only the heels back to the exact original high position by 7 seconds and hold to 8. The feet pivot around their fixed forefoot contact: never lift the toes, slide the feet or move the step. Keep knees bent and the pelvis seated. The thigh pad stays pressed against the thighs and moves with their small ankle-driven rise; hands follow it passively without lifting it. One uninterrupted lowering followed by one uninterrupted rise, no extra motion. Persistent orange calf muscles, fixed camera, no cuts, text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-ex-calf-raise-seated-motion-after-attempt_5fbab741ccd046cf.txt",
+      "correctionPromptSha256": "44ae08dd5151a285a8dac570028f225ba0d0aca138c534c1933f5b0ed826df5d"
+    },
+    {
+      "attemptId": "attempt_7806c71642104914",
+      "exerciseId": "open_cable_internal_rotati_e82490e5",
+      "shot": "r9-open-cable-internal-rotati-e82490e5-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-cable-internal-rotati-e82490e5-motion-7806c716.mp4",
+      "outputSha256": "15e8ed4f9d2fe8968ca9b359e9fcef07366193445490a743bba560ceb8481845",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:43:44+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working elbow lifts and moves forward away from its original rib contact while the handle reaches farther forward/right, partially leaving the frame.",
+        "The forearm rises instead of staying roughly horizontal while rotating toward the nearby pulley; the clip substitutes a shoulder/arm reach for shoulder internal rotation with the upper arm fixed at the side.",
+        "The wrong forward-reaching movement repeats after the first return. Trimming cannot supply the absent correct forearm rotation.",
+        "Orange remains on the working shoulder region; the decisive failure is the incorrect joint movement."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_7806c71642104914/review-3fps-01.jpg",
+        "reports/form-media/attempt_7806c71642104914/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Animate one seated cable shoulder internal-rotation cycle from this exact inward-across-abdomen start. Keep the working upper arm vertical against the ribs; the elbow must touch the same rib location and remain bent 90 degrees throughout. Only rotate the upper arm around its own long axis: its horizontal forearm and handle sweep SIDEWAYS TOWARD THE PULLEY ON IMAGE LEFT, then return across the abdomen to the exact source position. Do not lift the elbow, raise the forearm, push the hand forward/right or reach toward the camera. Hold the source pose for 1 second; sweep left to the comfortable outward endpoint by 3.5 seconds; pause; sweep back across the abdomen by 7 seconds; hold to 8. The torso, shoulder height and seated pelvis remain still. Keep the cable attached to the same elbow-height pulley and the same hand grip. One complete rotation-and-return only, persistent orange working shoulder, fixed camera, no cuts, text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-open-cable-internal-rotati-e82490e5-motion-after-attempt_7806c71642104914.txt",
+      "correctionPromptSha256": "e429c22fa6044d9d5491f34983ce1d105953458f493cdc019d273a8de92278bf"
+    },
+    {
+      "attemptId": "attempt_9f7b88df256a4b62",
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-cable-lying-triceps-e-ff29abb1-motion-9f7b88df.mp4",
+      "outputSha256": "b972772fb8402860e1bac493dfe1582c1f91bede603efa1fd7b1584fd4e124a7",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:44:37+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bar lowers toward the chest while both elbows descend beside and below the torso; this is a pressing pattern, not a triceps extension with upper arms remaining raised.",
+        "An extra vertical cable appears above the bar in addition to the intended diagonal connection to the low pulley behind the head.",
+        "The head/back/pelvis remain on the bench and orange is present on the upper-arm region, but no correct elbows-fixed forehead-directed extension cycle exists to trim."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_9f7b88df256a4b62/review-3fps-01.jpg",
+        "reports/form-media/attempt_9f7b88df256a4b62/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Animate one lying cable TRICEPS EXTENSION, moving only the forearms around stationary elbows. Start exactly as pictured. Keep both elbows at their original high points above the shoulders and keep both upper arms pointing upward for the ENTIRE clip. Bend the elbows so the short bar travels in an arc toward the forehead, stopping with a clear gap above the face; then straighten the elbows to return the bar to its exact high start. The elbows must never drop beside the chest or below the torso, and the bar must never lower to the chest. Keep ONLY the existing diagonal cable from the bar to the low pulley behind the head; do not create a vertical overhead cable or new anchor. Hold 1 second, bend slowly to 3.5 seconds, pause, extend to 7 seconds, hold to 8. One cycle, no extra repetition. Head, back, pelvis and feet remain supported; triceps stay orange. Same camera and equipment, no text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-open-cable-lying-triceps-e-ff29abb1-motion-after-attempt_9f7b88df256a4b62.txt",
+      "correctionPromptSha256": "3d16ad87d0d4b15682c0613020e32683cfb664a9f3357677ebbf71a2c3943340"
+    },
+    {
+      "attemptId": "attempt_bb4d396750f44b58",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r9-open-calf-press-619d1416-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-calf-press-619d1416-motion-bb4d3967.mp4",
+      "outputSha256": "0a9245316907041bb4219ed8cd427ff7f604ab96f7bf6e573a7d0788535abb98",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:49:24+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The entire angled rail assembly progressively pivots down until nearly horizontal; this should be fixed machine structure.",
+        "The knees bend substantially as the platform approaches the body, substituting a leg-press movement for the requested ankle-only calf press.",
+        "The clip never returns to the original rail geometry and near-straight-knee source. There is no physically valid full calf cycle to trim."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_bb4d396750f44b58/review-3fps-01.jpg",
+        "reports/form-media/attempt_bb4d396750f44b58/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Animate only the ANKLES in one calf press. The entire machine structure, diagonal rail angle, seat and backrest are fixed and cannot tilt, collapse or move. Keep the knees at the exact same almost-straight angle for the whole clip, and keep back and pelvis against the seat. The balls of both feet stay on the same spots of the plate. Only point the toes away to lift the heels from the plate and move the sled a SMALL distance UP along its unchanged rails; then flex the ankles to return the heels to their original plate contact. No knee bending or leg press. Hold 1 second; one slow ankle press to 3.5 seconds; pause; one slow full return to 7 seconds; hold to 8. Calf muscle bellies stay orange, anterior shins and thighs gray. No repeated pulses, changing equipment, cuts, camera motion, text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-open-calf-press-619d1416-motion-after-attempt_bb4d396750f44b58.txt",
+      "correctionPromptSha256": "d49d2a66f4b51aa781af268b79f6f1d0f6c7c45f9007dda4cc182e270bfdd5ff"
+    },
+    {
+      "attemptId": "attempt_7915ff24c90b48e8",
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-cable-rear-delt-fly-dc550f7f-motion-7915ff24.mp4",
+      "outputSha256": "e99e24f6257060180c2707f1a1a560e59a3f63fc109010ba40be3e2031e5bc33",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:49:24+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The mannequin turns approximately 180 degrees while opening the arms, then turns to the front again on return. This is incompatible with the fixed-torso cable rear-deltoid fly.",
+        "The resulting cable sides and load path change with the turn, instead of each fixed grip staying connected to its original opposite pulley through a stable shoulder arc.",
+        "The return ends with hands down near the pelvis rather than the original forward handle position. No fixed-torso full cycle is available as a trim."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_7915ff24c90b48e8/review-3fps-01.jpg",
+        "reports/form-media/attempt_7915ff24c90b48e8/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Animate this exact FRONT-VIEW mannequin without turning it around. The chest, pelvis and face must keep the same orientation toward the camera for all 8 seconds. Keep the same soft elbow bend. From the pictured handles together in front, open both long arms outward in broad horizontal shoulder arcs to a comfortable spread at shoulder height, then close them all the way back to the exact original front position. Each hand keeps its original opposite-pulley cable; do not swap attachments. Do not rotate the body to show its back, change the camera, row the elbows or drop the hands to the hips. Hold the start 1 second, open slowly to 3.5 seconds, pause, close to 7 seconds, then remain still to 8. Exactly one full cycle. Preserve orange shoulder-muscle involvement, gray chest and the same equipment. No text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-open-cable-rear-delt-fly-dc550f7f-motion-after-attempt_7915ff24c90b48e8.txt",
+      "correctionPromptSha256": "9af160bb7d6917271e8b29665811138c36d4228217d41951a669dbf28dd65eda"
+    },
+    {
+      "attemptId": "attempt_64ca76df729e48b9",
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r9-open-decline-smith-press-ab9938f7-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-decline-smith-press-ab9938f7-motion-64ca76df.mp4",
+      "outputSha256": "05aa5146769f538dfadf32e2d7da29531079927204897206b959951b8c231d9f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:49:24+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "A complete guided decline press occurs before approximately 5.6 seconds: elbows bend as the bar approaches the chest, then fully extend to return to the original high endpoint.",
+        "After that valid return, the head lifts away from the bench. The earlier complete cycle retains the head, back and pelvis support and ankle-roller contact.",
+        "Small nonworking fixtures morph along the floor rails. The primary bar, both hand grips and vertical guide collars remain connected.",
+        "A separately reviewed 0\u20135.6 second close-view derivative preserves the complete supported cycle and excludes most of the nonworking floor hardware."
+      ],
+      "limitations": [
+        "Inspected both 3 fps delivery sheets and full-resolution frames at 0, 3.3, 5, 5.5 and 6.5 seconds. Sampled-frame editorial screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_64ca76df729e48b9/review-3fps-01.jpg",
+        "reports/form-media/attempt_64ca76df729e48b9/review-3fps-02.jpg"
+      ],
+      "correctionStrategy": "Use the reviewed authored derivative r9-smith-decline-press-complete-cycle-close, not a further paid correction of this completed body cycle."
+    },
+    {
+      "attemptId": "attempt_64ca76df729e48b9",
+      "sourceAttemptId": "attempt_64ca76df729e48b9",
+      "assetId": "r9-smith-decline-press-complete-cycle-close",
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r9-open-decline-smith-press-ab9938f7-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-smith-decline-press-complete-cycle-close.mp4",
+      "outputSha256": "27eb4fade98ea0c7444ec936e1a6e1bd0b7d3fbaf9e57e5d899e8fabb8642d30",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:49:24+00:00",
+      "reviewKind": "authored-delivery-sampled-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact derivative contains one complete high-to-chest-to-high guided decline press with visible elbow bend and full return to arm extension.",
+        "Head, back and pelvis stay on the decline bench, ankles remain at the roller, and the bar/grips stay connected to the same guide rails throughout the retained cycle.",
+        "Orange pectoral involvement stays visible. The crop preserves the entire working bar/hand range, chest, support contacts and secured feet.",
+        "The trim ends before the original head lift, and short cloned endpoint holds avoid adding a second repetition or reversing footage."
+      ],
+      "limitations": [
+        "Inspected the exact derivative at 2 fps and its source at 3 fps plus five detailed frames. This is sampled-frame editorial screening, not continuous playback or trainer validation.",
+        "Small changing nonworking fixture tips remain near the bottom crop edge; they do not alter the retained body movement or working bar/rail connection.",
+        "The side view partly overlaps the far arm, and orange briefly extends to plausible triceps involvement during the press."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r9-smith-decline-press-complete-cycle-close/keyframes.jpg"
+      ],
+      "editEvidence": {
+        "trimStartSeconds": 0,
+        "trimEndSeconds": 5.6,
+        "leadHoldSeconds": 0.35,
+        "tailHoldSeconds": 0.35,
+        "crop": {
+          "x": 320,
+          "y": 60,
+          "width": 800,
+          "height": 510
+        },
+        "playbackRate": 1,
+        "generationCredits": 0
+      }
+    },
+    {
+      "attemptId": "attempt_a923edf5661d47b3",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-donkey-calf-raises-55a343b9-motion-a923edf5.mp4",
+      "outputSha256": "508d93c967916ad90012fef94f30cfe6c8832501f0e75f51eb299f98447a2432",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:50:32+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both feet leave the block and the knees tuck upward early in the clip, producing an unsupported jump while the hands remain on the machine.",
+        "After landing, repeated knee flexion and changes in torso/hip position accompany several foot/heel pulses rather than one controlled ankle-only lowering and full return.",
+        "The later portions do not provide a clear full low-to-high-to-low ankle cycle with fixed forefeet and steady knee/hip geometry, so trimming the jump would still leave the wrong or incomplete movement.",
+        "Calf orange stays visible, while substantial anterior thigh coloring appears later; the contact and movement failures are decisive."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a923edf5661d47b3/review-3fps-01.jpg",
+        "reports/form-media/attempt_a923edf5661d47b3/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Create one very slow ANKLE-ONLY donkey calf raise from this exact reference. Keep the balls of both feet attached to the same spots on the stationary block for every frame; never jump, lift the toes, slide the feet or tuck the knees. Keep the knee bend and forward hip-hinge angle unchanged. Only the heels rotate around the anchored forefeet: lower them behind the block to a comfortable low position, then raise them back to exactly the pictured tiptoe height. The pelvis and contacting hip pad may rise and fall only a few centimeters as a result of this ankle rotation. Hands stay on the fixed supports. Hold 1 second, lower smoothly to 3.5 seconds, pause, rise smoothly to 7 seconds and hold to 8. Exactly one cycle without any extra pulses or knee squats. Keep the calf muscle bellies orange and other regions gray. Equipment and camera stay fixed; no cuts, text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-open-donkey-calf-raises-55a343b9-motion-after-attempt_a923edf5661d47b3.txt",
+      "correctionPromptSha256": "ea7e129bc3b55d688e524b5d6f5a66661b88b832d5ffafbbac992562cdadc69e"
+    },
+    {
+      "attemptId": "attempt_8fbf14b65aae4362",
+      "exerciseId": "open_front_cable_raise_55c6e076",
+      "shot": "r9-open-front-cable-raise-55c6e076-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-front-cable-raise-55c6e076-motion-8fbf14b6.mp4",
+      "outputSha256": "136240c009a57094a145da750b69f3c108b215b41d9526b2f592784e8e7075f8",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:54:53+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working arm executes a readable shoulder-height to thigh and back front-raise arc with a stable torso, planted feet and visible deltoid orange.",
+        "During lowering, the handle gains another clip/cable extending upward and forward off the frame, while the original rear low-pulley cable remains. The handle changes into a two-ended load path rather than one fixed attachment.",
+        "The extra cable persists through the low position and reappears after return. Trimming cannot retain the full motion while removing the incorrect working-handle connection.",
+        "An additional lowering occurs after the first high return."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8fbf14b65aae4362/review-3fps-01.jpg",
+        "reports/form-media/attempt_8fbf14b65aae4362/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Animate exactly one front cable raise using the SAME SINGLE D-HANDLE and SINGLE CABLE for every frame. The cable starts at the pictured low pulley BEHIND the body and TERMINATES at the one metal attachment on the D-handle. Nothing extends beyond the handle: do not add an upper/right cable, second clip, second attachment or pass-through rope. The hand keeps the same grip and the handle retains its rigid triangular shape. Starting at the pictured shoulder-height arm, hold 1 second, lower the nearly straight arm to the front of the same thigh by 3.5 seconds, pause, then raise it fully to its original shoulder height by 7 seconds and remain there to 8. Keep feet planted, torso still and the other arm relaxed. No second lowering or elbow curl. Deltoid orange persists, camera and equipment stay fixed, no text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-open-front-cable-raise-55c6e076-motion-after-attempt_8fbf14b65aae4362.txt",
+      "correctionPromptSha256": "451d86a1787ef4ed2711fbf746e42f8271ac09fe17cb1bace3990de91ba1fe58"
+    },
+    {
+      "attemptId": "attempt_e2efc4c1c63c4ff0",
+      "exerciseId": "open_leverage_deadlift_ba90f5c3",
+      "shot": "r9-open-leverage-deadlift-ba90f5c3-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-leverage-deadlift-ba90f5c3-motion-e2efc4c1.mp4",
+      "outputSha256": "4b98e03c971b83dfe448b7b8f070950adf0ccadd71f6e9a2b6daf636d1f906c5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:02:24+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The hands release the handles as the mannequin reaches standing, leaving the rigid lever and grips moving independently in front of and through the body.",
+        "A new overhead cable attaches to the free handle assembly mid-clip, replacing the intended stable pivoted machine connection.",
+        "The hands reconnect only during the later descent; a further partial rise then begins. No complete loaded repetition preserves grip-to-machine contact.",
+        "The body reaches a tall endpoint and primary thigh orange stays visible, but neither compensates for the missing load contact."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e2efc4c1c63c4ff0/review-3fps-01.jpg",
+        "reports/form-media/attempt_e2efc4c1c63c4ff0/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Animate one leverage deadlift while keeping BOTH HANDS CLOSED AROUND THE SAME RIGID HANDLES in every frame. The hands and grips are one continuous contact pair: never release, separate, slide away or reconnect. Keep the existing connected lever and its original fixed pivot; add no new cable or overhead attachment. From the exact pictured low hinge, hold 1 second, extend hips and knees to stand tall by 3.5 seconds with arms long and the held lever following its real pivot arc. Pause, then bend hips and knees to lower the same held grips and body all the way back to the exact reference pose by 7 seconds. Hold there to 8; no second rise. Feet and platform stay fixed, spine neutral, arms never row. Preserve orange quadriceps and the same fixed camera. No equipment morphing, text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-open-leverage-deadlift-ba90f5c3-motion-after-attempt_e2efc4c1c63c4ff0.txt",
+      "correctionPromptSha256": "e8e0cd77a3f9898d2eec347969dff018a801239fde773caf063e51f70879c34e"
+    },
+    {
+      "attemptId": "attempt_52207e14abbb4b0f",
+      "exerciseId": "open_pallof_press_69ae4277",
+      "shot": "r9-open-pallof-press-69ae4277-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-pallof-press-69ae4277-motion-52207e14.mp4",
+      "outputSha256": "adf26a82a656d6aa3471daf83b9705e884a3eee8c1ead71261413da017453846",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:05:13+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The single shared handle splits into separate left/right grips, and the hands move apart rather than remaining clasped together for a Pallof press.",
+        "The arms perform an opening/pulling movement and later lower the handles toward the hips; the finish does not preserve the exact shared-handle near-chest position.",
+        "Although the torso remains generally steady and abdominal orange is visible, no full press-and-return uses the required single shared grip."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_52207e14abbb4b0f/review-3fps-01.jpg",
+        "reports/form-media/attempt_52207e14abbb4b0f/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Animate one Pallof press with BOTH HANDS CLASPED TOGETHER ON THE SAME SINGLE GRIP for every frame. Preserve exactly one rigid D-handle and one cable attachment; do not duplicate the grip, split the hands apart, open the arms or lower the hands to the hips. Both wrists travel as one joined unit directly forward from the chest and back to the exact same near-chest position. Start with the pictured shared grip, hold 1 second, extend both elbows together to long arms by 3.5 seconds, pause, then bend both elbows together to return the joined hands by 7 seconds and hold to 8. The sideways cable remains connected to the same chest-height pulley. Keep feet, pelvis and torso still against the sideways pull. One complete press and return, no extra movement. Preserve orange abdominal and oblique muscles, gray chest/limbs, fixed camera, no text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-open-pallof-press-69ae4277-motion-after-attempt_52207e14abbb4b0f.txt",
+      "correctionPromptSha256": "f0c28d6c13377a7016de13f17ddeee991dcee604c706d55c7b1dc7534ca0ad49"
+    },
+    {
+      "attemptId": "attempt_295163fd9e6b40fc",
+      "exerciseId": "open_smith_machine_calf_ra_ccc5bca6",
+      "shot": "r9-open-smith-machine-calf-ra-ccc5bca6-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-machine-calf-ra-ccc5bca6-motion-295163fd.mp4",
+      "outputSha256": "a6645ae0c9e8cc04085f2652a77b0246d08647d0158b0d42b52c40a745418889",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:09:18+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Repeated knee bends lower the pelvis and bar, alternating with knee extension and heel lifts; the movement is a series of shallow squats with calf pulses rather than one calf raise with a steady knee angle.",
+        "Multiple separate rises and descents continue throughout the clip, and no full ankle-only cycle retains the required long-leg posture.",
+        "Both calf bellies remain orange and forefeet are near the platform, but these do not resolve the wrong joint movement."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_295163fd9e6b40fc/review-3fps-01.jpg",
+        "reports/form-media/attempt_295163fd9e6b40fc/review-3fps-02.jpg"
+      ],
+      "correctionPrompt": "Animate ONLY the ankles in one Smith machine calf raise. Keep both knees at their exact original softly straight angle for the whole clip; do not squat, bend the knees, sit the hips back or bounce. Both balls of the feet stay attached to their original spots on the stationary plate. From the pictured high heels, hold 1 second, rotate the heels slowly down toward the plate surface by 3.5 seconds, pause, then rotate them back to the exact initial high tiptoe height by 7 seconds and hold to 8. The long legs, torso and shoulder-supported bar rise or fall only the small distance created by ankle motion. Keep the fixed rails motionless and the same bar/grip contacts. One uninterrupted lowering and one uninterrupted rise, no additional pulse. Posterior calf muscle bellies stay orange, camera stays fixed, no text or sound.",
+      "correctionPromptPath": "reports/round-9-preparation/motion-wave2-machine-corrections/r9-open-smith-machine-calf-ra-ccc5bca6-motion-after-attempt_295163fd9e6b40fc.txt",
+      "correctionPromptSha256": "df0774aec4d2fa5a7a3f2bca8ceb30aac1a8fb0d59416cd2eb032ada4b438977"
+    },
+    {
+      "attemptId": "attempt_c70d44b7ca194e0c",
+      "exerciseId": "open_smith_machine_incline_100af028",
+      "shot": "r9-open-smith-machine-incline-100af028-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-machine-incline-100af028-motion-c70d44b7.mp4",
+      "outputSha256": "a771201b100ce3434093805af88705ede64efefcb18529a7cb50e29250a93d05",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:09:18+00:00",
+      "reviewKind": "delivery-video-sampled-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first section contains a full low-to-extended-to-low incline press with stable bench/body support and connected hands/bar/collars.",
+        "Further partial presses begin after that completed return, so the entire eight-second output does not satisfy the one-repetition requirement.",
+        "The first complete cycle is preserved in the independently reviewed 0\u20134.6 second derivative."
+      ],
+      "limitations": [
+        "Inspected chronological 3 fps delivery sheets and full-resolution frames at 0, 1.6, 4.1 and 4.4 seconds; sampled-frame screening, not continuous playback or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_c70d44b7ca194e0c/review-3fps-01.jpg",
+        "reports/form-media/attempt_c70d44b7ca194e0c/review-3fps-02.jpg"
+      ],
+      "correctionStrategy": "Use authored derivative r9-smith-incline-press-complete-cycle; no further paid correction needed for this valid first cycle."
+    },
+    {
+      "attemptId": "attempt_c70d44b7ca194e0c",
+      "sourceAttemptId": "attempt_c70d44b7ca194e0c",
+      "assetId": "r9-smith-incline-press-complete-cycle",
+      "exerciseId": "open_smith_machine_incline_100af028",
+      "shot": "r9-open-smith-machine-incline-100af028-motion",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-smith-incline-press-complete-cycle.mp4",
+      "outputSha256": "54ebb0c2fcf65d0e76bc70378d0898faa4c6b4cd14912b46bb2543aa0cc0e009",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T23:09:18+00:00",
+      "reviewKind": "authored-delivery-sampled-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact derivative shows one full incline press from the low upper-chest position to nearly straight elbows and back to a full low chest position.",
+        "Both hand grips remain attached to the same guided bar; head/back/pelvis stay supported and both feet remain planted.",
+        "Orange pectoral involvement remains visible through both phases, and all relevant joints and the complete bar travel fit the frame.",
+        "The contiguous trim removes the subsequent partial presses, with brief cloned still holds at both ends and no reversed motion."
+      ],
+      "limitations": [
+        "Inspected the exact derivative at 2 fps and its source at 3 fps with four full-resolution endpoint/contact frames. Sampled-frame editorial screening, not continuous playback or trainer validation.",
+        "The final low position is slightly closer to the upper chest than the initial source pose; it completes the comfortable lowering range but is not a pixel-identical seamless loop.",
+        "Minor auxiliary rail sleeve/fixture shapes shift while the main bar, grips and supporting frame remain continuous."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r9-smith-incline-press-complete-cycle/keyframes.jpg"
+      ],
+      "editEvidence": {
+        "trimStartSeconds": 0,
+        "trimEndSeconds": 4.6,
+        "leadHoldSeconds": 0.35,
+        "tailHoldSeconds": 0.35,
+        "playbackRate": 1,
+        "generationCredits": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "roundId": "round-10",
+  "reviews": [
+    {
+      "attemptId": "attempt_43fef8b62d9244e9",
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "shot": "r10-open-thigh-adductor-933feed1-start-v2",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-thigh-adductor-933feed1-start-v2/attempt_43fef8b62d9244e9.jpg",
+      "outputSha256": "9662c58f3c3a696f2fa0c10c4f407eba0e0f35bb332514dab3607e29991afe2c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Pads and wide leg start are symmetric, but the body is a smooth mannequin rather than the selected sculpted Anatomical 3D fiber appearance."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_3680d65dd8ef456d",
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r10-open-decline-smith-press-ab9938f7-start-v2",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-decline-smith-press-ab9938f7-start-v2/attempt_3680d65dd8ef456d.jpg",
+      "outputSha256": "988c7419401cc5e5d9d3181dd776f0f35c18bccb33b072376c5c11b2f0da5f02",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bench rises toward the head; this is still an incline Smith press, not the required decline setup."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_e43e7a6ffe0140e1",
+      "exerciseId": "ex_machine_chest_press",
+      "shot": "r10-ex-machine-chest-press-start-v2",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-ex-machine-chest-press-start-v2/attempt_e43e7a6ffe0140e1.jpg",
+      "outputSha256": "edb584c7e8d086e799386b0889ebf599e0c0381809395a15b39988f71a6a5b60",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Seated chest press now has paired chest-height handles on forward-oriented horizontal levers and a supported back; inspect linkage continuity in motion."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_a0409a8f37d3443a",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r10-ex-calf-raise-seated-start-v2",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-ex-calf-raise-seated-start-v2/attempt_a0409a8f37d3443a.jpg",
+      "outputSha256": "d512cbc47911384c7edfda9b5eb0001395331afba03611096b8f8baca1d95a06",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The source is a plate-loaded seated calf machine with a thigh pad and ball-of-foot platform rather than a cable stack; inspect full heel travel."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_d0cdd43ce17a47a9",
+      "exerciseId": "open_dumbbell_shrug_5ed42a42",
+      "shot": "r10-open-dumbbell-shrug-5ed42a42-start-v2",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-dumbbell-shrug-5ed42a42-start-v2/attempt_d0cdd43ce17a47a9.jpg",
+      "outputSha256": "962a4d12252b0863759ca67dbdcec41fcbde53bcef4c58c5c3eef3ca03b1acef",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exactly two grounded-looking hand-held dumbbells, straight arms, low shoulders, sculpted anatomy and localized trapezius glow."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_4e8a0d9081814240",
+      "exerciseId": "ex_cable_crunch",
+      "shot": "r10-ex-cable-crunch-start-v2",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-ex-cable-crunch-start-v2/attempt_4e8a0d9081814240.jpg",
+      "outputSha256": "3ede34ae15ab5b41c3d331daa24d88e5e538ad67d24a11af536f07d59aaf02f5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "One high cable ends in a real split rope held beside the head while kneeling tall; inspect substantial ribcage curl with stationary arms."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_475803b427bb4bd3",
+      "exerciseId": "ex_straight_arm_pulldown",
+      "shot": "r10-ex-straight-arm-pulldown-start-v2",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-ex-straight-arm-pulldown-start-v2/attempt_475803b427bb4bd3.jpg",
+      "outputSha256": "2e4eafb6bc92e1d4b183774227a53ac51820ab4ab3f53ed0ed57a1895b78cb40",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Torso hinge and high cable are correct, but the attachment looks like offset/discontinuous rods rather than one continuous straight bar."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_84fde1367c054b39",
+      "exerciseId": "open_cable_shrugs_c5ea5dc6",
+      "shot": "r10-open-cable-shrugs-c5ea5dc6-start-v2",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-cable-shrugs-c5ea5dc6-start-v2/attempt_84fde1367c054b39.jpg",
+      "outputSha256": "5dc89dc4c3c818e04af89fd76a5767f2802774b1432fc2d1ce7de61ea2658335",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The low cable still runs diagonally from a distant floor pulley to the front bar, contrary to the nearly vertical close-machine pull requested."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_3e5f202371034319",
+      "exerciseId": "open_stiff_legged_dumbbell_5da667b0",
+      "shot": "r10-open-stiff-legged-dumbbell-5da667b0-start-v2",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-stiff-legged-dumbbell-5da667b0-start-v2/attempt_3e5f202371034319.jpg",
+      "outputSha256": "0ca672c2fa2070517ed0786aadd07d2a1233b3c4c6c50dfc9c272e9b5c407a0a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Dumbbells remain near the knees rather than the lower shins, and the body again loses the selected sculpted muscular surface."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_22cca7c2a0084577",
+      "exerciseId": "open_incline_dumbbell_flye_f858d67d",
+      "shot": "r10-open-incline-dumbbell-flye-f858d67d-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-incline-dumbbell-flye-f858d67d-start/attempt_22cca7c2a0084577.jpg",
+      "outputSha256": "2116404c02ee7de7611edbd5c917adff5ed7f550a19a8b81891b51ec597b7b00",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Incline support and wide-arm pose are present, but the dumbbell shaft orientation does not clearly match the requested torso-parallel orientation."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_6bcc976f4f774305",
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "shot": "r10-open-inverted-row-1ce9a06f-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-inverted-row-1ce9a06f-start/attempt_6bcc976f4f774305.jpg",
+      "outputSha256": "2f144581cd349f451a593711680ccd6546bdda54de74f927384d275e90bbfe02",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The torso hangs steeply below a high bar and the feet contact on toes, not heels; this is not the low, nearly horizontal inverted row requested."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_53d2c21b578247db",
+      "exerciseId": "open_one_legged_cable_kick_20e79891",
+      "shot": "r10-open-one-legged-cable-kick-20e79891-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-one-legged-cable-kick-20e79891-start/attempt_53d2c21b578247db.jpg",
+      "outputSha256": "ca7c4b9b372cb188894790f436b6a78d0f4294cacf9dc963b8560fc44fe71740",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The low cable and ankle cuff are plausible, but the working leg already starts flexed and drawn behind the body instead of neutral below the hip."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_fe91edd4dd8b4721",
+      "exerciseId": "open_pull_through_c80507cd",
+      "shot": "r10-open-pull-through-c80507cd-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-pull-through-c80507cd-start/attempt_fe91edd4dd8b4721.jpg",
+      "outputSha256": "c5f97bf91921fefca3ce7c7f86233a1747003f5264e38d4e34a4ea8b4b353660",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Hinge, wide stance and split rope are visible, but hands are well ahead of the hips instead of close to the buttocks at the loaded hinge."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_caa8335815374bba",
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r10-open-bent-arm-barbell-pull-bd488038-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-bent-arm-barbell-pull-bd488038-start/attempt_caa8335815374bba.jpg",
+      "outputSha256": "3c3da54fce1004f75256861798b4691415d7707b44a8cd2bb4693387d065de2a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Flat bench and single barbell with visibly bent elbows at head level; there is open room for one shoulder pullover arc."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_d9e021eb1c284b2c",
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r10-open-cable-rear-delt-fly-dc550f7f-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-cable-rear-delt-fly-dc550f7f-start/attempt_d9e021eb1c284b2c.jpg",
+      "outputSha256": "ccc3d10ead24bcde1d05afe4384b18ba81f24fab50ad255b377b2236ba88f873",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The crossed cable system includes unexplained low cable lines and mismatched hand-to-handle attachments; routing is not physically clear."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_70fdbc6ec85649ae",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r10-open-calf-press-619d1416-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-calf-press-619d1416-start/attempt_70fdbc6ec85649ae.jpg",
+      "outputSha256": "0b01f54b0a4a9255cee1d65a9e6b3a0464de0b125c6685ae3e18a8d9b0cc9c65",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Reclined leg-press setup has nearly straight knees, forefoot on the lower footplate edge and heels free for an ankle-only excursion."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_fc345169c6fa4e46",
+      "exerciseId": "open_decline_dumbbell_flye_14b2de63",
+      "shot": "r10-open-decline-dumbbell-flye-14b2de63-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-decline-dumbbell-flye-14b2de63-start/attempt_fc345169c6fa4e46.jpg",
+      "outputSha256": "5d20b195a2d3688b023bacf4530d6610c317c5698eb279d7c7cb4f3be5916a8d",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Bench is truly declined, but both elbows are bent deeply, making the opening posture press-like rather than a soft-elbow fly."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_cd483080f9654f7b",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r10-open-donkey-calf-raises-55a343b9-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-donkey-calf-raises-55a343b9-start/attempt_cd483080f9654f7b.jpg",
+      "outputSha256": "fdda5c6399d06d9cbcc9866864b2598e8a7d336b03b7f56b4b52d85270cfaa14",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Torso is hinged under a genuine hip/lower-back pad, forefeet on a raised platform, calves highlighted and room for heel travel."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_01d01dfcc11241e4",
+      "exerciseId": "open_dumbbell_lying_pronat_95605e7c",
+      "shot": "r10-open-dumbbell-lying-pronat-95605e7c-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-dumbbell-lying-pronat-95605e7c-start/attempt_01d01dfcc11241e4.jpg",
+      "outputSha256": "8c4facf47d7b05ea0f0d21c8f20638892f4c2a80ba2b8dacd28b0e6a824b456f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The loaded upper arm hangs down with a nearly straight elbow; this cannot demonstrate fixed-elbow shoulder external rotation."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_72dd474c74524f4b",
+      "exerciseId": "open_landmine_180s_8bd8af32",
+      "shot": "r10-open-landmine-180s-8bd8af32-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-landmine-180s-8bd8af32-start/attempt_72dd474c74524f4b.jpg",
+      "outputSha256": "555fbd0b5054b93f025804b194d47d7447af42f8f6dcc5e390166ae724d1fe46",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Floor pivot is present, but the bar has an excessive sleeve protruding above the plate and unclear hand position relative to the working end."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    },
+    {
+      "attemptId": "attempt_12b81eaca67d451c",
+      "exerciseId": "open_smith_machine_stiff_l_73127ddd",
+      "shot": "r10-open-smith-machine-stiff-l-73127ddd-start",
+      "roundId": "round-10",
+      "outputPath": "form-media/assets/masters/r10-open-smith-machine-stiff-l-73127ddd-start/attempt_12b81eaca67d451c.jpg",
+      "outputSha256": "b02159de9cf0dcd1c03035dd2dad905cc352085dff366227d3bfac613b95bb2b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T23:36:05+00:00",
+      "reviewKind": "exact-master-still-visual-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Muscle-fiber look and rails are improved, but bar rests above the knees at a shallow hinge; a full stiff-legged range needs a lower endpoint."
+      ],
+      "limitations": [
+        "Starting frame only; motion, equipment continuity, one complete repetition and persistent glow must be reviewed separately."
+      ]
+    }
+  ]
+}

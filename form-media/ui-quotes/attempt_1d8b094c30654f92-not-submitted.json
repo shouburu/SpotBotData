@@ -1,0 +1,13 @@
+{
+  "attemptId": "attempt_1d8b094c30654f92",
+  "exerciseId": "ex_barbell_row",
+  "shot": "r6-ex-barbell-row-start",
+  "providerSubmissionReached": false,
+  "reason": "Original profile also failed editor initialization before prompt entry/submission, exit 23 at /about; no generation ID. Same-account UI balance unchanged.",
+  "logPath": "reports/form-media/attempt_1d8b094c30654f92/stderr.log",
+  "logSha256": "978e5558f60054229e5ab9c820e265deb21cdd32586368e861b4773ee5df03a0",
+  "balanceBefore": 8856,
+  "balanceAfter": 8856,
+  "balanceObservedAt": "2026-09-15T21:03:14.697Z",
+  "visibleBalanceText": "8,856 Google Flow credits"
+}

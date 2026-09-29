@@ -1,0 +1,172 @@
+{
+  "date": "2026-09-18T02:46:07+00:00",
+  "reason": "Remove grip from remaining names and consolidate powerlifting bench press by user direction.",
+  "oldNames": {
+    "open_barbell_incline_bench_b61b23bf": "Barbell Incline Bench Press - Medium Grip",
+    "open_bent_over_two_dumbbel_0c77d209": "Bent-Over Neutral-Grip Dumbbell Row",
+    "open_close_grip_dumbbell_p_d4c7ad57": "Cross-Bench Single-Dumbbell Close-Grip Press",
+    "open_close_grip_ez_bar_cur_2a1cff07": "Close-Grip EZ-Bar Curl with Band",
+    "open_close_grip_ez_bar_pre_7bfa7d02": "Close-Grip EZ-Bar Press",
+    "open_close_grip_push_up_of_9056d7cb": "Close-Grip Push-Up off of a Dumbbell",
+    "open_decline_close_grip_be_96ad3791": "Decline Close-Grip Bench To Skull Crusher",
+    "open_incline_dumbbell_flye_f858d67d": "Incline Dumbbell Fly with Rotating Grip",
+    "open_incline_push_up_rever_6cac79db": "Incline Push-Up Reverse Grip",
+    "open_lying_close_grip_bar__7eb8ebee": "Lying Close-Grip Bar Curl On High Pulley",
+    "open_lying_close_grip_barb_3f9451a9": "Lying Close-Grip Barbell Triceps Extension Behind The Head",
+    "open_lying_close_grip_barb_aa76e087": "Lying Close-Grip Barbell Triceps Press To Chin",
+    "open_seated_close_grip_con_382afe68": "Seated Close-Grip Concentration Barbell Curl",
+    "open_wide_grip_decline_bar_d0fb2ef5": "Wide-Grip Decline Barbell Pullover",
+    "open_wide_grip_pulldown_be_2ded6e88": "Wide-Grip Pulldown Behind The Neck",
+    "open_wide_grip_rear_pull_u_67095fca": "Wide-Grip Rear Pull-Up"
+  },
+  "previousInstructions": {
+    "open_barbell_incline_bench_b61b23bf": [
+      "Lie back on an incline bench. Using a medium-width grip (a grip that creates a 90-degree angle in the middle of the movement between the forearms and the upper arms), lift the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+      "As you breathe in, come down slowly until you feel the bar on you upper chest.",
+      "After a second pause, bring the bar back to the starting position as you breathe out and push the bar using your chest muscles. Lock your arms in the contracted position, squeeze your chest, hold for a second and then start coming down slowly again. Tip: it should take at least twice as long to go down than to come up.",
+      "Repeat the movement for the prescribed amount of repetitions.",
+      "When you are done, place the bar back in the rack."
+    ],
+    "open_bent_over_two_dumbbel_0c77d209": [
+      "Stand holding two dumbbells with the palms facing each other. Bend the knees slightly and hinge forward while keeping the trunk steady.",
+      "Pull both dumbbells toward the sides of the lower ribs with the elbows comfortably close to the body.",
+      "Lower the dumbbells until the arms extend, keeping the same torso position."
+    ],
+    "open_close_grip_dumbbell_p_d4c7ad57": [
+      "Place a dumbbell standing up on a flat bench.",
+      "Ensuring that the dumbbell stays securely placed at the top of the bench, lie perpendicular to the bench with only your shoulders lying on the surface. Hips should be below the bench and your legs bent with your feet firmly on the floor.",
+      "Grasp the dumbbell with both hands and hold it straight over your chest at arm's length. Both palms should be pressing against the underside of the sides of the dumbbell. This will be your starting position.",
+      "Initiate the movement by lowering the dumbbell to your chest.",
+      "Return to the starting position by extending the elbows."
+    ],
+    "open_close_grip_ez_bar_cur_2a1cff07": [
+      "Attach a band to each end of the bar. Take the bar, placing a foot on the middle of the band. Stand upright with a narrow, supinated grip on the EZ bar. The elbows should be close to the torso. This will be your starting position.",
+      "While keeping the upper arms in place, flex the elbows to execute the curl. Exhale as the weight is lifted.",
+      "Continue the movement until your biceps are fully contracted and the bar is at shoulder level. Hold the contracted position for a second and squeeze the biceps hard.",
+      "Slowly begin to bring the bar back to starting position as your breathe in.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "open_close_grip_ez_bar_pre_7bfa7d02": [
+      "Lie on a flat bench with an EZ bar loaded to an appropriate weight.",
+      "Using a narrow grip lift the bar and hold it straight over your torso with your elbows in. The arms should be perpendicular to the floor. This will be your starting position.",
+      "Now lower the bar down to your lower chest as you breathe in. Keep the elbows in as you perform this movement.",
+      "Using the triceps to push the bar back up, press it back to the starting position by extending the elbows as you exhale.",
+      "Repeat."
+    ],
+    "open_close_grip_push_up_of_9056d7cb": [
+      "Use a stable fixed-head dumbbell on a nonslip floor and check that it will not tip before placing your weight on it.",
+      "Lie on the floor and place your hands on an upright dumbbell. Supporting your weight on your toes and hands, keep your torso rigid and your elbows in with your arms straight. This will be your starting position.",
+      "Lower your body, allowing the elbows to flex while you inhale. Keep your body straight, not allowing your hips to rise or sag.",
+      "Press yourself back up to the starting position by extending the elbows. Breathe out as you perform this step.",
+      "After a pause at the contracted position, repeat the movement for the prescribed amount of repetitions."
+    ],
+    "open_decline_close_grip_be_96ad3791": [
+      "Secure your legs at the end of the decline bench and slowly lay down on the bench.",
+      "Using a close grip (a grip that is slightly less than shoulder width), lift the bar from the rack and hold it straight over you with your arms locked and elbows in. The arms should be perpendicular to the floor. This will be your starting position. Tip: In order to protect your rotator cuff, it is best if you have a spotter help you lift the barbell off the rack.",
+      "Now lower the bar down to your lower chest as you breathe in. Keep the elbows in as you perform this movement.",
+      "Using the triceps to push the bar back up, press it back to the starting position as you exhale.",
+      "As you breathe in and you keep the upper arms stationary, bring the bar down slowly by moving your forearms in a semicircular motion towards you until you feel the bar slightly touch your forehead. Breathe in as you perform this portion of the movement.",
+      "Lift the bar back to the starting position by contracting the triceps and exhaling.",
+      "Repeat steps 3-6 until the recommended amount of repetitions is performed.",
+      "Count one close-grip press followed by one elbow extension as one repetition. Use a decline bench with secure leg supports positioned so the bar can be unracked and reracked under control."
+    ],
+    "open_incline_dumbbell_flye_f858d67d": [
+      "Hold a dumbbell on each hand and lie on an incline bench that is set to an incline angle of no more than 30 degrees.",
+      "Extend your arms above you with a slight bend at the elbows.",
+      "Now rotate the wrists so that the palms of your hands are facing you. Tip: The pinky fingers should be next to each other. This will be your starting position.",
+      "As you breathe in, start to slowly lower the arms to the side while keeping the arms extended and while rotating the wrists until the palms of the hand are facing each other. Tip: At the end of the movement the arms will be by your side with the palms facing the ceiling.",
+      "As you exhale start to bring the dumbbells back up to the starting position by reversing the motion and rotating the hands so that the pinky fingers are next to each other again. Tip: Keep in mind that the movement will only happen at the shoulder joint and at the wrist. There is no motion that happens at the elbow joint.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "open_incline_push_up_rever_6cac79db": [
+      "Secure a barbell in a squat rack at a height that allows a controlled incline push-up. Check that the bar cannot roll or shift.",
+      "Place your hands on the bar palms up, with your hands about shoulder width apart.",
+      "Position your feet back from the bar with arms and body straight. This will be your starting position.",
+      "Keeping your body straight, lower your chest to the bar by bending the arms.",
+      "Return to the starting position by extending the elbows, pressing yourself back up."
+    ],
+    "open_lying_close_grip_bar__7eb8ebee": [
+      "Place a flat bench in front of a high pulley or lat pulldown machine.",
+      "Hold the straight bar attachment using an underhand grip (palms up) that is about shoulder width.",
+      "Lie on your back with your head over the end of the bench.",
+      "Now extend your arms straight above your shoulders. Your torso and your arms should make a 90-degree angle and the elbows should be in. This will be your starting position.",
+      "As you breathe out, curl the bar down in a semicircular motion until it touches your chin. Squeeze the biceps for a second at the top contracted position. Tip: As you execute this motion only the forearms should move. At no time should the upper arms be moving at all. They are to remain perpendicular throughout the movement.",
+      "Return to starting position slowly.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "open_lying_close_grip_barb_3f9451a9": [
+      "While holding a barbell or EZ Curl bar with a pronated grip (palms facing forward), lie on your back on a flat bench with your head close to the end of the bench. Tip: If you are holding a barbell grab it using a shoulder-width grip and if you are using an E-Z Bar grab it on the inner handles.",
+      "Extend your arms in front of you and slowly bring the bar back in a semi circular motion (while keeping the arms extended) to a position over your head. At the end of this step your arms should be overhead and parallel to the floor. This will be your starting position. Tip: Keep your elbows in at all times.",
+      "As you inhale, lower the bar by bending at the elbows and while keeping the upper arm stationary. Keep lowering the bar until your forearms are perpendicular to the floor.",
+      "As you exhale bring the bar back up to the starting position by pushing the bar up in a semi-circular motion until the lower arms are also parallel to the floor. Contract the triceps hard at the top of the movement for a second. Tip: Again, only the forearms should move. The upper arms should remain stationary at all times.",
+      "Repeat for the recommended amount of repetitions."
+    ],
+    "open_lying_close_grip_barb_aa76e087": [
+      "Lie on a flat bench with the head and back supported. Hold a straight barbell above the upper chest using a close overhand grip.",
+      "Keep the upper arms steady and bend the elbows to lower the bar toward the chin, stopping short of the face within a comfortable range.",
+      "Extend the elbows to return the bar above the chest, then repeat under control."
+    ],
+    "open_seated_close_grip_con_382afe68": [
+      "Sit on a bench and hold a straight barbell with a close underhand grip, supporting the upper arms against the inner thighs.",
+      "Curl the bar while keeping the upper arms still.",
+      "Lower by extending the elbows through a comfortable range and repeat."
+    ],
+    "open_wide_grip_decline_bar_d0fb2ef5": [
+      "Lie on a decline bench with legs secured and take a wide overhand grip on a barbell positioned on the floor within controlled reach behind the head.",
+      "With a soft fixed elbow bend, guide the bar over the chest, then lower it overhead through a comfortable shoulder arc.",
+      "Return along the same controlled path for each repetition. Place the bar securely back on the floor before releasing the grip."
+    ],
+    "open_wide_grip_pulldown_be_2ded6e88": [
+      "Sit at a pulldown station with thighs secured and take a wide overhand grip on the bar.",
+      "Guide the bar behind the head only through an available controlled shoulder range without forcing contact with the neck.",
+      "Return slowly to the starting position and repeat while keeping the trunk steady."
+    ],
+    "open_wide_grip_rear_pull_u_67095fca": [
+      "Grab the pull-up bar with the palms facing forward using a wide grip.",
+      "As you have both arms extended in front of you holding the bar, bring your torso forward and head so that there is an imaginary line from the pull-up bar to the back of your neck. This is your starting position.",
+      "Pull your torso up until the bar is near the back of your neck. To do this, draw the shoulders and upper arms down and back while slightly leaning your head forward. Exhale as you perform this portion of the movement. Tip: Concentrate on squeezing the back muscles once you reach the full contracted position. The upper torso should remain stationary as it moves through space and only the arms should move. The forearms should do no other work other than hold the bar.",
+      "After a second on the contracted position, start to inhale and slowly lower your torso back to the starting position when your arms are fully extended and the lats are fully stretched.",
+      "Repeat this motion for the prescribed amount of repetitions."
+    ]
+  },
+  "mergedExerciseId": "open_bench_press_powerlift_8cba6330",
+  "replacementExerciseId": "ex_bench_press",
+  "mediaReview": {
+    "teachingFormat": "video",
+    "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+    "priority": 2,
+    "recommendationStatus": "pilot-planned",
+    "reviewStatus": "pending",
+    "pilot": true,
+    "selectedAssetIds": [],
+    "notes": "",
+    "productionStatus": "ready-for-review",
+    "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+    "reviewRoundId": "round-7",
+    "previousRoundReview": {
+      "roundId": "round-6",
+      "reviewStatus": "pending",
+      "notes": "",
+      "selectedAssetIds": [],
+      "reviewedAt": null
+    }
+  },
+  "catalogReview": {
+    "decision": "repair",
+    "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+    "reviewedAt": "2026-09-09",
+    "instructionReview": "Powerlifting bench press is paused and uses leg drive; distinguish from general bench press and retain technical dose.",
+    "evidence": {
+      "identity": "Bench Press - Powerlifting; reps execution; barbell, bench, squat rack.",
+      "instructions": "Setup: Begin by lying on the bench, getting your head beyond the bar if possible. Tuck your feet underneath you and arch your back. Using the bar to help support your weight, lift your shoulder off the bench and retract them, squeezing the shoulder blades together. Use your feet to drive your traps into the bench. Maintain this tight body position throughout the movement.",
+      "equipment": "Required setup: barbell, bench, squat rack. Load entry: required.",
+      "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+      "anatomy": "Primary: triceps. Supporting: chest, forearms, lats, shoulders.",
+      "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+      "prescription": "2 sets; 3–5 repetitions for the complete movement; 120 seconds rest. Editable SpotBot editorial dose."
+    },
+    "changes": [
+      "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+    ]
+  }
+}

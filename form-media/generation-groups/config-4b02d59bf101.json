@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r10-open-dumbbell-shrug-5ed42a42-start-v2",
+      "quoteFile": "form-media/ui-quotes/r10-open-dumbbell-shrug-5ed42a42-start-v2-22b6f174.json"
+    },
+    {
+      "shot": "r10-ex-cable-crunch-start-v2",
+      "quoteFile": "form-media/ui-quotes/r10-ex-cable-crunch-start-v2-a51fb9c0.json"
+    },
+    {
+      "shot": "r10-ex-straight-arm-pulldown-start-v2",
+      "quoteFile": "form-media/ui-quotes/r10-ex-straight-arm-pulldown-start-v2-2e76dd7f.json"
+    },
+    {
+      "shot": "r10-open-cable-shrugs-c5ea5dc6-start-v2",
+      "quoteFile": "form-media/ui-quotes/r10-open-cable-shrugs-c5ea5dc6-start-v2-601b6a50.json"
+    }
+  ]
+}

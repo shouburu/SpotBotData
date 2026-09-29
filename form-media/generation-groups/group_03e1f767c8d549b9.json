@@ -1,0 +1,81 @@
+{
+  "id": "group_03e1f767c8d549b9",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T01:49:15+00:00",
+  "balanceBefore": 6005,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_barbell_ab_rollout_59a93cd6",
+      "shot": "r9-open-barbell-ab-rollout-59a93cd6-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "d9c9788b6a7b807762072c78a9f121c965efb12c4f7b32b58021df7e53748d15",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-ab-rollout-59a93cd6-start-064d7b9c.json",
+      "quoteSha256": "ec627c0d8201843fd24dbdc0fd4d6401b1606b09ceef52762bf656e18fb4b33a",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-barbell-ab-rollout-59a93cd6-start/attempt_b1821ee2efc74440.jpg",
+          "sha256": "5683b4ecc5794d36a1986d5d2e29ccac4cad18a829e20fc6432390f96c77b77d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_finger_curls_ada5939a",
+      "shot": "r9-open-finger-curls-ada5939a-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "f11017dc559fb271da81f5f0a88d1a37c1c0533ea517567e5122c6f75744fa4f",
+      "quoteFile": "form-media/ui-quotes/r9-open-finger-curls-ada5939a-start-3eb1671e.json",
+      "quoteSha256": "cb717d75215d8f5658b3268fffcc3f4b7e98d228410993c9036ed5ab17da68dd",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": []
+    },
+    {
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "9e5417b7c46c751059b190682da315271bc63bcfbb111ba9da0b233cf8250c78",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-calf-raises-6f81c277-start-122e11d2.json",
+      "quoteSha256": "880517b4bb8f76c4e798825b14d569823a20a73776464deedb65ad8e044ab50d",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-standing-calf-raises-6f81c277-start/attempt_456fbfa1480a4002.jpg",
+          "sha256": "3e382d3f35e5882e82ae30cbe0abcee2534e231d5f2585fd09493ab79e4ed083"
+        },
+        {
+          "path": "form-media/assets/references/round-9/74bfe15aa902cd4a5d56-long-knee-low-heel.png",
+          "sha256": "74bfe15aa902cd4a5d567b75160574a9688e75190ca8f5a05fe383f393bac5d8"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "8f232bf04c25cdabd1ff1731ef8e3577b8a41964053fd60d3c93d87017166067",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-decline-ches-adfbca13-start-b9f5aca7.json",
+      "quoteSha256": "4be50a1bbf23ab8b5ca851cac5b5fa69561b2eecc89e0d8bfb7ef9989e1e7054",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_ecb220818be74538.jpg",
+          "sha256": "cba7aeb7ed5b1716a7fff93ad88a08c5ae2c5b13e094f5bf4254a4403d10ccc2"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T01:50:38+00:00",
+  "balanceAfter": 6005,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-f419cabd888c4217.json",
+  "evidenceSha256": "34b231922f9205540096edcab37db1af38f8fed3babf0900050e352b6816f323",
+  "terminalFailureIds": []
+}

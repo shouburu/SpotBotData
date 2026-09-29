@@ -1,0 +1,62 @@
+{
+  "id": "group_7b66d934748948a6",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T23:13:12+00:00",
+  "balanceBefore": 8082,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_seated_leg_curl_f6ac64a8",
+      "shot": "r9-open-seated-leg-curl-f6ac64a8-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "3f08e91e7a7377fb5e637401ee832b3cfa0c30c08925a4653ada6927a3193bea",
+      "quoteFile": "form-media/ui-quotes/r9-open-seated-leg-curl-f6ac64a8-start-c33cff41.json",
+      "quoteSha256": "81dfce274e89bf54d7ead2ace5151119e8d5b7c785c88f893723908d2ff75425",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    },
+    {
+      "exerciseId": "open_standing_leg_curl_cb499e0c",
+      "shot": "r9-open-standing-leg-curl-cb499e0c-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "9e6196448eab3445a308365edc7fe77da3604d78c247ff853c99e47e9ec5e7bf",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-leg-curl-cb499e0c-start-6b42ed76.json",
+      "quoteSha256": "9f1b9629de4c9a17483c604d644ce329f89545e671a06459737ce51618a937b0",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    },
+    {
+      "exerciseId": "open_standing_calf_raises_6f81c277",
+      "shot": "r9-open-standing-calf-raises-6f81c277-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "4a799f5f6a38e1b74feb684f3f30f0b28452d4f6d33a7f65ca878eef58e4304f",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-calf-raises-6f81c277-start-e4cae268.json",
+      "quoteSha256": "cb2264b89b6fafe7490aad22cf93e3b6f06ad679008f2024385797890a605030",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    },
+    {
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "90791f40ce626be2fce069e6d02f9b37cb423e985876fb2741d278eb2b1135ee",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-start-1d1baca0.json",
+      "quoteSha256": "4220d2278fd4471a321a46cd5a752f9761a84f6a0fb0898f234d9682d75d51eb",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T23:14:44+00:00",
+  "balanceAfter": 8082,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-5630364f49e146da.json",
+  "evidenceSha256": "2181615d3ae2562973eb40ad9ec88571e9022f59fef06f854d9911944e750dd3",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "group_5ea5c46df1694886",
+  "status": "completed-with-failures",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T21:24:22+00:00",
+  "balanceBefore": 9096,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "85ba41553374fed6028e78efc4784e601f1ff0a72ccd465e836ed1f6541115e7",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-motion-7b92da52.json",
+      "quoteSha256": "5e09df83b41d38238f2a4c3d0503f35bbbbd8e609bfdfabb9c2db52290fda0ab",
+      "quoteCredits": 10,
+      "balance": 9096,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-bent-arm-barbell-pull-bd488038-start/attempt_f11d188493874f50.jpg",
+          "sha256": "06400b51304c411a9478f39247902346aa954af51197e10e81c1a6390041b82b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_decline_dumbbell_flye_14b2de63",
+      "shot": "r9-open-decline-dumbbell-flye-14b2de63-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "573ca6032b2ef570879fc62b5f65c2ad2a48b2ea3b12043192c651371b0fe610",
+      "quoteFile": "form-media/ui-quotes/r9-open-decline-dumbbell-flye-14b2de63-motion-149b8795.json",
+      "quoteSha256": "ccfa16112198640e3b0270bc084df1f0d0db452c1dac92375634e3e9cf9d544b",
+      "quoteCredits": 10,
+      "balance": 9096,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-decline-dumbbell-flye-14b2de63-start/attempt_ab754ebe4f0c42d0.jpg",
+          "sha256": "b09703cb868b73b1102ec303c47eb5fb8dbd880be6b9ec4b5838599a0ded8c34"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_rear_lunge_1148a3d4",
+      "shot": "r9-open-dumbbell-rear-lunge-1148a3d4-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "88baee8a89d8dd4ff0fc0a1165fc017ac9df1e3c434a6f18745019b85dbc6bb7",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-rear-lunge-1148a3d4-motion-050a6730.json",
+      "quoteSha256": "0d63873fc7f367dde8bd9388440b0378c161b69afcc123610058ea9c6c0265d2",
+      "quoteCredits": 10,
+      "balance": 9096,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-rear-lunge-1148a3d4-start/attempt_a98c69f6870e4e2e.jpg",
+          "sha256": "ee871aa86112181d77eeec651107f981d146afe99a6c25776824f046414b0a6b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_side_bend_3f401794",
+      "shot": "r9-open-dumbbell-side-bend-3f401794-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "757e916c02fd3552461a127601aee9eae436b1cf3a98ba2ec1a9aa065f0b4315",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-side-bend-3f401794-motion-c758fa5f.json",
+      "quoteSha256": "1ea55d14a120def9f955a090b81ab06742289e2854c415a01eccf0608d06b334",
+      "quoteCredits": 10,
+      "balance": 9096,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-side-bend-3f401794-start/attempt_f4b5a5ff137742fa.jpg",
+          "sha256": "8458978f6c2135ce6413d005f800ba26e56d88cd810709f71f9aba8f8c60227d"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T21:29:30+00:00",
+  "balanceAfter": 9066,
+  "actualCredits": 30,
+  "evidenceFile": "form-media/ui-quotes/round-9-motion-wave1b-group1-reconcile.json",
+  "evidenceSha256": "8c7dcac6c77c2b64b0f286762ab73f6291df7c45cc3281844a75549fe6b70da7",
+  "terminalFailureIds": [
+    "attempt_81d5bbd4adb44eea"
+  ]
+}

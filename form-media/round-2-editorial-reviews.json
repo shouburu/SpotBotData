@@ -1,0 +1,1597 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "shot": "r2-bench-studio-start",
+      "outputPath": "form-media/assets/masters/r2-bench-studio-start/attempt_b3666bdbc3074a31.jpg",
+      "sha256": "666cd22cf5365271f9dbe10c5ec8fa8bd418c66019c85246b4e4e5eb9ac8a563",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T11:55:49.296933+00:00",
+      "notes": "AI review of the starting frame only; this is not user acceptance or final instructional approval.\n\nObserved: One figure lies on a flat bench with visible hip/upper-back support and both shoes planted on the floor. Two arms extend upward to distinct closed grips on one coherent straight bar; there are no obvious extra limbs, disconnected hands or intersecting plates. The complete bar and both feet remain in frame. The figure occupies most of the frame height, materially enlarging the movement relative to the first-round distant view. The foot-end three-quarter camera separates both arms, although the chest is partly behind the near arm and the head.\n\nMotion review focus: Keep the bar free of the upright hooks when it descends; the exact rack/hand relationship must remain coherent. The bottom phase must show the bar approaching a comfortable chest-level endpoint clearly enough to distinguish it from the rejected shallow first-round clip. Keep both hands attached, feet planted and the same bench/body contacts throughout the whole repetition.\n\nLimits: This is review of one generated top-position still, not proof of correct motion or final Form content. The lowered bar-to-chest endpoint, temporal anatomy and grip continuity cannot be judged from this image. Functional rack safeties are not clearly identifiable in this frame. Do not claim it demonstrates the full rack/safety setup; resolve that setup visibility before final instructional acceptance. No independent trainer review is recorded.",
+      "outputSha256": "666cd22cf5365271f9dbe10c5ec8fa8bd418c66019c85246b4e4e5eb9ac8a563",
+      "reviewKind": "starting-frame-ai-editorial",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "One figure lies on a flat bench with visible hip/upper-back support and both shoes planted on the floor. Two arms extend upward to distinct closed grips on one coherent straight bar; there are no obvious extra limbs, disconnected hands or intersecting plates. The complete bar and both feet remain in frame. The figure occupies most of the frame height, materially enlarging the movement relative to the first-round distant view. The foot-end three-quarter camera separates both arms, although the chest is partly behind the near arm and the head."
+      ],
+      "animationReviewFocus": [
+        "Keep the bar free of the upright hooks when it descends; the exact rack/hand relationship must remain coherent. The bottom phase must show the bar approaching a comfortable chest-level endpoint clearly enough to distinguish it from the rejected shallow first-round clip. Keep both hands attached, feet planted and the same bench/body contacts throughout the whole repetition."
+      ],
+      "limitations": [
+        "This is review of one generated top-position still, not proof of correct motion or final Form content. The lowered bar-to-chest endpoint, temporal anatomy and grip continuity cannot be judged from this image. Functional rack safeties are not clearly identifiable in this frame. Do not claim it demonstrates the full rack/safety setup; resolve that setup visibility before final instructional acceptance. No independent trainer review is recorded."
+      ]
+    },
+    {
+      "shot": "r2-bench-warm-start",
+      "outputPath": "form-media/assets/masters/r2-bench-warm-start/attempt_db5f1bb3414b42f9.jpg",
+      "sha256": "b5b9c27ddd27943abb968e029a789ff7ec32d65c9ac3f8c965435fd78d23f520",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T11:55:49.316355+00:00",
+      "notes": "AI review of the starting frame only; this is not user acceptance or final instructional approval.\n\nObserved: The supported torso, hips, bench and both floor-planted shoes are clearly visible in a closer side three-quarter composition. Both hands visibly hold the same straight bar, with extended arms and coherent plate/rack geometry; no clear starting-pose deformation is visible. This view exposes the chest surface and near elbow more directly than the Studio and Graphic3D views, making it the strongest of these three candidates for checking the lowered endpoint. The figure fills most of the frame and the head, bar, hands and feet are retained. The framing is close but not visibly cropped through a relevant joint.\n\nMotion review focus: Use the visible chest surface to make the lowered endpoint unambiguous; do not hover far above it. Keep the torso/back support and planted feet unchanged; no bouncing or hip lift. Preserve the two closed grips and rigid bar during the lower, pause and press.\n\nLimits: This is review of one generated top-position still, not proof of correct motion or final Form content. The lowered bar-to-chest endpoint, temporal anatomy and grip continuity cannot be judged from this image. Functional rack safeties are not clearly identifiable in this frame. Do not claim it demonstrates the full rack/safety setup; resolve that setup visibility before final instructional acceptance. No independent trainer review is recorded.",
+      "outputSha256": "b5b9c27ddd27943abb968e029a789ff7ec32d65c9ac3f8c965435fd78d23f520",
+      "reviewKind": "starting-frame-ai-editorial",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The supported torso, hips, bench and both floor-planted shoes are clearly visible in a closer side three-quarter composition. Both hands visibly hold the same straight bar, with extended arms and coherent plate/rack geometry; no clear starting-pose deformation is visible. This view exposes the chest surface and near elbow more directly than the Studio and Graphic3D views, making it the strongest of these three candidates for checking the lowered endpoint. The figure fills most of the frame and the head, bar, hands and feet are retained. The framing is close but not visibly cropped through a relevant joint."
+      ],
+      "animationReviewFocus": [
+        "Use the visible chest surface to make the lowered endpoint unambiguous; do not hover far above it. Keep the torso/back support and planted feet unchanged; no bouncing or hip lift. Preserve the two closed grips and rigid bar during the lower, pause and press."
+      ],
+      "limitations": [
+        "This is review of one generated top-position still, not proof of correct motion or final Form content. The lowered bar-to-chest endpoint, temporal anatomy and grip continuity cannot be judged from this image. Functional rack safeties are not clearly identifiable in this frame. Do not claim it demonstrates the full rack/safety setup; resolve that setup visibility before final instructional acceptance. No independent trainer review is recorded."
+      ]
+    },
+    {
+      "shot": "r2-bench-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-bench-illustrated-start/attempt_2a8cda168524495a.jpg",
+      "sha256": "8c67fef4d2f642146ee48b6aef2aee76ba7e8ccc85da303b0f99500264b5569f",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T11:55:49.335915+00:00",
+      "notes": "AI review of the starting frame only; this is not user acceptance or final instructional approval.\n\nObserved: The pose and camera closely match the Studio candidate: both feet planted, hips/back on the bench, both arms extended to one rigid bar. The figure remains volumetric with shaded body forms, clothing and equipment; this is not the rejected stick-figure schematic representation. The complete bar, visible joints and both feet fit inside the close frame, with no obvious extra limbs or disconnected grips. The shared Studio geometry makes this a useful rendering-style comparison, while the chest remains partly obscured by the oblique viewing direction.\n\nMotion review focus: Preserve the volumetric form and consistent line/shading treatment; do not flatten into a joint-line diagram during motion. Make the chest-level bottom position and elbow return clear despite the oblique view. Keep both grips, foot contacts and bench support stable through the complete cycle.\n\nLimits: This is review of one generated top-position still, not proof of correct motion or final Form content. The lowered bar-to-chest endpoint, temporal anatomy and grip continuity cannot be judged from this image. Functional rack safeties are not clearly identifiable in this frame. Do not claim it demonstrates the full rack/safety setup; resolve that setup visibility before final instructional acceptance. No independent trainer review is recorded.",
+      "outputSha256": "8c67fef4d2f642146ee48b6aef2aee76ba7e8ccc85da303b0f99500264b5569f",
+      "reviewKind": "starting-frame-ai-editorial",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The pose and camera closely match the Studio candidate: both feet planted, hips/back on the bench, both arms extended to one rigid bar. The figure remains volumetric with shaded body forms, clothing and equipment; this is not the rejected stick-figure schematic representation. The complete bar, visible joints and both feet fit inside the close frame, with no obvious extra limbs or disconnected grips. The shared Studio geometry makes this a useful rendering-style comparison, while the chest remains partly obscured by the oblique viewing direction."
+      ],
+      "animationReviewFocus": [
+        "Preserve the volumetric form and consistent line/shading treatment; do not flatten into a joint-line diagram during motion. Make the chest-level bottom position and elbow return clear despite the oblique view. Keep both grips, foot contacts and bench support stable through the complete cycle."
+      ],
+      "limitations": [
+        "This is review of one generated top-position still, not proof of correct motion or final Form content. The lowered bar-to-chest endpoint, temporal anatomy and grip continuity cannot be judged from this image. Functional rack safeties are not clearly identifiable in this frame. Do not claim it demonstrates the full rack/safety setup; resolve that setup visibility before final instructional acceptance. No independent trainer review is recorded."
+      ]
+    },
+    {
+      "shot": "r2-bench-studio-motion",
+      "exerciseId": "ex_bench_press",
+      "outputPath": "form-media/assets/delivery/round-2/r2-bench-studio-motion-3a14468b.mp4",
+      "outputSha256": "39c9bd9f4b0d97f940f95fa9523c0542e0acd79f2a7a3ea9a44e092b5844e4d6",
+      "sha256": "39c9bd9f4b0d97f940f95fa9523c0542e0acd79f2a7a3ea9a44e092b5844e4d6",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T12:03:54.819271+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The sampled sequence contains a full lowering and return to the extended-arm top position with a fixed camera.",
+        "The feet, hips and upper-back support remain visually stable in the sampled views; both hands continue to hold the same rigid bar.",
+        "The 3.5-second close frame shows substantially bent elbows and a low bar, but the oblique view makes the bar read high near the clavicle/neck rather than clearly over a comfortable chest-level endpoint.",
+        "The body is closer and easier to inspect than the distant first-round video, but the decisive bottom relationship is still obscured by the camera/arm arrangement."
+      ],
+      "limitations": [
+        "Bottom target needs manual form review; this is not a definite finding that the bar contacts the neck. The catalog does not require literal chest contact, and that absence alone is not a rejection reason.",
+        "Assessment uses the contact sheet and selected full-size delivery frames, not continuous full-speed playback or frame-by-frame anatomical validation.",
+        "Rack safeties are not clearly identifiable; these clips do not establish complete setup coverage.",
+        "No user acceptance or independent trainer approval is implied."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_3a14468b7412457a/keyframes.jpg",
+        "reports/form-media/attempt_3a14468b7412457a/ai-editorial-bottom.jpg",
+        "reports/form-media/attempt_3a14468b7412457a/ai-editorial-low-endpoint.jpg"
+      ],
+      "notes": "AI motion editorial review; user acceptance remains separate. The sampled sequence contains a full lowering and return to the extended-arm top position with a fixed camera. The feet, hips and upper-back support remain visually stable in the sampled views; both hands continue to hold the same rigid bar. The 3.5-second close frame shows substantially bent elbows and a low bar, but the oblique view makes the bar read high near the clavicle/neck rather than clearly over a comfortable chest-level endpoint. The body is closer and easier to inspect than the distant first-round video, but the decisive bottom relationship is still obscured by the camera/arm arrangement. Bottom target needs manual form review; this is not a definite finding that the bar contacts the neck. The catalog does not require literal chest contact, and that absence alone is not a rejection reason. Assessment uses the contact sheet and selected full-size delivery frames, not continuous full-speed playback or frame-by-frame anatomical validation. Rack safeties are not clearly identifiable; these clips do not establish complete setup coverage. No user acceptance or independent trainer approval is implied."
+    },
+    {
+      "shot": "r2-bench-warm-motion",
+      "exerciseId": "ex_bench_press",
+      "outputPath": "form-media/assets/delivery/round-2/r2-bench-warm-motion-92d81c77.mp4",
+      "outputSha256": "5a5ea848eb49e4c67e07ecadc30fbde642551e16e062cad7e117e5232a7d1f02",
+      "sha256": "5a5ea848eb49e4c67e07ecadc30fbde642551e16e062cad7e117e5232a7d1f02",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T12:03:54.819694+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The sampled sequence shows one controlled lower-and-press cycle followed by a stable extended-arm finish.",
+        "The close side-three-quarter view exposes the chest surface and the near elbow more clearly than the other two style variants.",
+        "At the inspected 3.0- and 3.5-second frames, the elbows have descended and the bar is near chest height; the range is plausibly instructional rather than the obviously shallow first-round attempt.",
+        "Feet stay planted, hips and back remain supported, and no obvious limb, grip or apparatus discontinuity appears in the inspected frames.",
+        "The warm material and teal clothing remain consistent through the sampled cycle, and the moving upper body is large enough to compare the rendering style."
+      ],
+      "limitations": [
+        "Candidate means plausible for user visual-style review only. Exact bottom depth/contact is not measured or independently trainer-reviewed; literal chest contact is not established by these frames.",
+        "Assessment uses the contact sheet and selected full-size delivery frames, not continuous full-speed playback or frame-by-frame anatomical validation.",
+        "Rack safeties are not clearly identifiable; these clips do not establish complete setup coverage.",
+        "No user acceptance or independent trainer approval is implied."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_92d81c7704104fb3/keyframes.jpg",
+        "reports/form-media/attempt_92d81c7704104fb3/ai-editorial-bottom.jpg",
+        "reports/form-media/attempt_92d81c7704104fb3/ai-editorial-low-endpoint.jpg"
+      ],
+      "notes": "AI motion editorial review; user acceptance remains separate. The sampled sequence shows one controlled lower-and-press cycle followed by a stable extended-arm finish. The close side-three-quarter view exposes the chest surface and the near elbow more clearly than the other two style variants. At the inspected 3.0- and 3.5-second frames, the elbows have descended and the bar is near chest height; the range is plausibly instructional rather than the obviously shallow first-round attempt. Feet stay planted, hips and back remain supported, and no obvious limb, grip or apparatus discontinuity appears in the inspected frames. The warm material and teal clothing remain consistent through the sampled cycle, and the moving upper body is large enough to compare the rendering style. Candidate means plausible for user visual-style review only. Exact bottom depth/contact is not measured or independently trainer-reviewed; literal chest contact is not established by these frames. Assessment uses the contact sheet and selected full-size delivery frames, not continuous full-speed playback or frame-by-frame anatomical validation. Rack safeties are not clearly identifiable; these clips do not establish complete setup coverage. No user acceptance or independent trainer approval is implied."
+    },
+    {
+      "shot": "r2-bench-illustrated-motion",
+      "exerciseId": "ex_bench_press",
+      "outputPath": "form-media/assets/delivery/round-2/r2-bench-illustrated-motion-c808d4fa.mp4",
+      "outputSha256": "08315a2a40c881ca43a2f0b05157de8d369298e34bba1ad28e62bef5c9981df8",
+      "sha256": "08315a2a40c881ca43a2f0b05157de8d369298e34bba1ad28e62bef5c9981df8",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T12:03:54.820027+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The sampled clip lowers and returns the bar while retaining the volumetric Graphic 3D body, clothing, equipment and fixed camera.",
+        "Feet and bench support remain stable, with no obvious extra limbs or disconnected hands in the inspected frames.",
+        "The closer 3.0- and 3.4-second views show elbow bending, but the bar projects across the face/upper-chest region and does not make the intended chest-level bottom endpoint clear.",
+        "Compared with Studio, the outlined rendering helps separate some body edges but does not solve the oblique-camera endpoint ambiguity."
+      ],
+      "limitations": [
+        "Keep this as a style draft pending a manual bottom-position review. Do not infer a verified chest contact or a correct full-depth repetition from the presence of a complete up/down cycle.",
+        "Assessment uses the contact sheet and selected full-size delivery frames, not continuous full-speed playback or frame-by-frame anatomical validation.",
+        "Rack safeties are not clearly identifiable; these clips do not establish complete setup coverage.",
+        "No user acceptance or independent trainer approval is implied."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_c808d4fa6adb4d60/keyframes.jpg",
+        "reports/form-media/attempt_c808d4fa6adb4d60/ai-editorial-low-endpoint.jpg",
+        "reports/form-media/attempt_c808d4fa6adb4d60/ai-editorial-bottom-later.jpg"
+      ],
+      "notes": "AI motion editorial review; user acceptance remains separate. The sampled clip lowers and returns the bar while retaining the volumetric Graphic 3D body, clothing, equipment and fixed camera. Feet and bench support remain stable, with no obvious extra limbs or disconnected hands in the inspected frames. The closer 3.0- and 3.4-second views show elbow bending, but the bar projects across the face/upper-chest region and does not make the intended chest-level bottom endpoint clear. Compared with Studio, the outlined rendering helps separate some body edges but does not solve the oblique-camera endpoint ambiguity. Keep this as a style draft pending a manual bottom-position review. Do not infer a verified chest contact or a correct full-depth repetition from the presence of a complete up/down cycle. Assessment uses the contact sheet and selected full-size delivery frames, not continuous full-speed playback or frame-by-frame anatomical validation. Rack safeties are not clearly identifiable; these clips do not establish complete setup coverage. No user acceptance or independent trainer approval is implied."
+    },
+    {
+      "shot": "r2-seated-db-press-studio-start",
+      "outputPath": "form-media/assets/masters/r2-seated-db-press-studio-start/attempt_7cc739cc2e6a4193.jpg",
+      "outputSha256": "24321cdc57a1ef23089a843eaa6aee249e6d7cffd7fbc87ce16718967f6e1703",
+      "sha256": "24321cdc57a1ef23089a843eaa6aee249e6d7cffd7fbc87ce16718967f6e1703",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:12:48.807829+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "Both hips are seated and the upright back pad is visibly behind the torso. Both feet are visible on the floor, with a coherent stable bench base.",
+        "Two distinct dumbbells are held beside the head, with bent elbows near shoulder height and forearms rising toward the weights. The forward-facing grip and bilateral starting pose are plausible for the catalog seated dumbbell press.",
+        "The near-frontal portrait makes both shoulders, elbows, wrists and independent weights readable. It includes seated support and the feet, with headroom for overhead travel; the mannequin is fully volumetric."
+      ],
+      "limitations": [
+        "The back-pad contact is partly hidden by the torso, and this still cannot establish that the back stays supported during the press.",
+        "The image is a plausible starting pose, not evidence of a correct overhead endpoint, controlled return, trainer approval or user acceptance."
+      ],
+      "animationReviewFocus": [
+        "Press both weights together without rotating into an Arnold press. Keep the weights distinct when they meet lightly overhead.",
+        "Keep the hips seated, back supported and feet fixed; return both weights fully to this shoulder-level starting configuration.",
+        "Check that the complete overhead weight path stays inside the portrait frame."
+      ],
+      "notes": "Plausible supported bilateral seated dumbbell-press start. Ready for a paid motion attempt against this exact master hash, subject to independent motion review."
+    },
+    {
+      "shot": "r2-seated-db-press-warm-start",
+      "outputPath": "form-media/assets/masters/r2-seated-db-press-warm-start/attempt_b879bf463fda41e7.jpg",
+      "outputSha256": "060434f796044fbf8fc8e444a121a75cb760850259d2930e587a79ba96fce877",
+      "sha256": "060434f796044fbf8fc8e444a121a75cb760850259d2930e587a79ba96fce877",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:14:33.279411+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The hips are seated against an upright back-supported bench, and both shoes have plausible floor contact. The bench structure is coherent and the trunk is upright.",
+        "Two distinct adjustable dumbbells are held with forward-facing grips beside the shoulders/head. Both elbows are bent below their weights, with no obvious grip or weight fusion.",
+        "Both arms and weights remain unobscured in the close front three-quarter portrait, with room above for the press. Warm ceramic skin and teal clothing remain fully volumetric."
+      ],
+      "limitations": [
+        "The torso obscures direct lower-back-pad contact; supported posture must remain visible during motion.",
+        "Shoes, dumbbell construction and camera offset differ from the Studio frame, so this is a whole visual treatment comparison rather than an isolated material-only change.",
+        "A still cannot establish controlled overhead travel or a complete return and is not trainer or user acceptance."
+      ],
+      "animationReviewFocus": [
+        "Keep both hips seated and the trunk stable; press both weights together without rotating the palms into another variant.",
+        "Keep the adjustable weights separate and rigid when they meet lightly, without plate collisions or shape changes.",
+        "Show a complete return to this shoulder-level configuration, and retain both overhead weights in frame."
+      ],
+      "notes": "Plausible bilateral seated dumbbell-press start with clear support and arm visibility. Ready to animate against this exact master hash; motion remains independently reviewable."
+    },
+    {
+      "shot": "r2-seated-db-press-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-seated-db-press-illustrated-start/attempt_a9de15dd13b84752.jpg",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin is seated on a coherent upright back-supported bench with both shoes on the floor and hips resting on the pad.",
+        "Both independent dumbbells are held beside the head, palms apparently forward, elbows bent below the hands. The starting configuration is plausible for a bilateral seated dumbbell press.",
+        "The portrait keeps both weights, wrists, elbows, shoulders and seated support visible. The contour treatment still depicts a solid volumetric body, with generous overhead margin."
+      ],
+      "limitations": [
+        "The back pad is partially occluded, so continuous contact cannot be established from the still.",
+        "Camera, shoes and weight construction vary between style candidates; this is not an isolated palette-only comparison.",
+        "The still cannot verify the overhead meeting or complete return and is not user acceptance or trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Keep hips seated and back supported throughout the bilateral press.",
+        "Preserve two separate dumbbells with stable grips, including their light meeting at the top.",
+        "Maintain forward-facing palms and complete the return to the shown shoulder-level configuration without cropping the overhead weights."
+      ],
+      "notes": "Plausible supported seated dumbbell-press start. Ready to animate against the exact master hash, with the motion still requiring independent review.",
+      "outputSha256": "095b425e3c128b772b1518ed0503202d2070d9776b86c4b4b0e5a40db8e9aeca",
+      "sha256": "095b425e3c128b772b1518ed0503202d2070d9776b86c4b4b0e5a40db8e9aeca",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:16:25.890496+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-cable-row-studio-start",
+      "outputPath": "form-media/assets/masters/r2-cable-row-studio-start/attempt_2974004498ec4dd0.jpg",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The image depicts a dedicated seated low-cable row station: both feet brace against inclined plates, the hips rest on the bench, and the knees retain a small bend.",
+        "Both hands visibly hold one neutral-grip handle attached to a taut cable leading toward the low pulley. The reaching-arm start and lower-rib region remain readable in the close oblique view.",
+        "The trunk has no obvious rounded collapse in this still. The seat, handle travel region and immediate cable route are visible, with no irrelevant weight-stack tower dominating the frame."
+      ],
+      "limitations": [
+        "The top of the head is cropped. This close detail view cannot independently teach head/neck alignment or the complete station setup.",
+        "The oblique view makes exact torso inclination and knee bend uncertain; the still does not prove the torso will remain steady through motion.",
+        "Ready-to-animate indicates a plausible starting reference, not trainer validation or user acceptance."
+      ],
+      "animationReviewFocus": [
+        "Pull the handle toward the lower ribs rather than the upper chest.",
+        "Retain the small knee bend, planted feet and seated hips; avoid torso rocking or rounding on the forward reach.",
+        "Keep the cable taut and attached to the same handle/pulley throughout, with the full pull and controlled reach visible."
+      ],
+      "notes": "Plausible dedicated cable-row start with coherent braced feet, handle and cable. Ready for motion against this exact master hash; the cropped head is a framing limitation.",
+      "outputSha256": "469b7b42947648ce7d9225433a280784dedf3c1b0d64d392185059485fd6f242",
+      "sha256": "469b7b42947648ce7d9225433a280784dedf3c1b0d64d392185059485fd6f242",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:16:25.890804+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-cable-row-warm-start",
+      "outputPath": "form-media/assets/masters/r2-cable-row-warm-start/attempt_1e776d0666534119.jpg",
+      "status": "needs-review",
+      "evidence": [
+        "The seated torso, softly bent knees, braced shoes and two-handed low-row handle form a plausible starting body pose. The handle is visibly attached to a taut cable.",
+        "The held cable exits the left edge without showing its immediate low-pulley route. A different two-pulley assembly stands behind the person on the right, with extra inclined foot plates behind the hips. The image does not show how that apparatus relates to the working cable.",
+        "This tight view clearly presents the lower ribs and arm travel, but crops the top of the head and omits the front station context needed to resolve the apparatus."
+      ],
+      "limitations": [
+        "A cropped image cannot prove that an off-frame working pulley is absent. The concern is unresolved machine coherence, not a definite claim that the held cable is physically disconnected.",
+        "The plausible body pose alone does not establish a suitable paid-motion reference when machine routing and support are uncertain.",
+        "This is AI editorial review only, not user acceptance or a trainer assessment."
+      ],
+      "animationReviewFocus": [
+        "Resolve the front working low-pulley route and remove or explain the unrelated rear pulley/extra foot-plate assembly before treating this as a clean dedicated-row reference.",
+        "If retained after human review, watch the same working cable anchor, stable torso and lower-rib endpoint through the complete pull/return."
+      ],
+      "notes": "Needs review before paid motion because the working cable exits frame and the visible rear pulleys/extra foot plates do not establish one coherent dedicated seated row station. Studio provides the clearer apparatus reference.",
+      "outputSha256": "f2efa4868c00539c4be2f81d4996ab80e6f6993df8d8bffc493f71d5a22f9d15",
+      "sha256": "f2efa4868c00539c4be2f81d4996ab80e6f6993df8d8bffc493f71d5a22f9d15",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:18:37.108741+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-lat-pulldown-studio-start",
+      "outputPath": "form-media/assets/masters/r2-lat-pulldown-studio-start/attempt_69886b5760154e41.jpg",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin is seated at a coherent overhead-cable station with both thighs beneath a visible restraining pad and both shoes on the floor.",
+        "Both hands grip the same wide bar overhead, with a continuous visible connection from its center toward the upper pulley. Both elbows and shoulders are distinguishable, and the bar is in front of the head in the starting projection.",
+        "The portrait contains the full bar width, upper body, thigh pad and seated support, leaving the upper-chest destination readable for the planned front pulldown."
+      ],
+      "limitations": [
+        "The upper pulley is partly cropped, but the immediate working cable path remains visible.",
+        "The overhead still cannot prove that the subsequent bar path stays in front of the face or that the torso and thighs stay restrained.",
+        "Ready-to-animate is a reference-image assessment, not trainer approval or user acceptance."
+      ],
+      "animationReviewFocus": [
+        "Pull in front toward the upper chest without going behind the neck or clipping through the head.",
+        "Keep the hips seated, thighs under the pad and torso mostly still; avoid swinging backward into a row.",
+        "Preserve the cable/bar connection and symmetric grip, then return under control to the overhead start."
+      ],
+      "notes": "Plausible dedicated front lat-pulldown start with secured thighs and clear overhead bar/cable. Ready to animate against this exact master hash.",
+      "outputSha256": "4a4367ba8c59e6a709dd09d30428d52d6a6d802562e5a309cb6dc68cac0fc974",
+      "sha256": "4a4367ba8c59e6a709dd09d30428d52d6a6d802562e5a309cb6dc68cac0fc974",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:18:37.109069+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-leg-press-warm-start",
+      "outputPath": "form-media/assets/masters/r2-leg-press-warm-start/attempt_72078fa5775640e0.jpg",
+      "outputSha256": "7768d02105a47146f3e64d7ed41d6520ee08585d3272b0b3074ae40a12eb072a",
+      "sha256": "7768d02105a47146f3e64d7ed41d6520ee08585d3272b0b3074ae40a12eb072a",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:20:50.917069+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The starting knees and hips are already substantially bent. This does not match the prompt/brief start with the platform away and knees short of forceful lockout before a lowering-first repetition.",
+        "The visible diagonal rails run behind the seat/back/shoulder-pad carriage; the foot plate appears mounted to the fixed floor frame. This establishes a different load/support geometry from the chosen moving sled-platform demonstration.",
+        "Both shoes appear supported and the pelvis is seated, with clear close leg/hip framing. These positive details do not resolve the starting-phase and machine mismatch."
+      ],
+      "limitations": [
+        "Seat-moving leg-press variants exist; this rejection is for the selected reference and queued sequence, not a claim that every moving-seat apparatus is invalid.",
+        "A single image cannot show which component will actually move, making it especially unsuitable for silently animating the requested platform-on-rails lowering sequence.",
+        "AI editorial rejection is independent of user acceptance or trainer assessment."
+      ],
+      "animationReviewFocus": [
+        "Replace with the intended coherent sled-platform machine and a near-extended starting pose before a lowering-first paid motion attempt.",
+        "Keep feet on the rigid moving platform and lower-back/hip support stable through comfortable knee bend and return."
+      ],
+      "notes": "Rejected as this planned starting reference: the already-bent leg position and seat-carriage rail arrangement conflict with the requested near-extended moving-platform start. Do not animate the existing lowering-first prompt from this hash."
+    },
+    {
+      "shot": "r2-machine-chest-press-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-machine-chest-press-illustrated-start/attempt_e1d3e2b4ec2846a8.jpg",
+      "outputSha256": "52ad97ae3a4d57be0d1a7cf2075a9c955ded4080b6b540f4c9f6042b902fac80",
+      "sha256": "52ad97ae3a4d57be0d1a7cf2075a9c955ded4080b6b540f4c9f6042b902fac80",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:21:27.421863+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The hips rest on the seat and the upright back pad remains directly behind the torso. Both hands hold distinct machine handles at approximately mid-chest height with bent elbows.",
+        "The handles connect to visible rigid lower-pivoted arms, consistent with a forward seated press rather than an overhead press or fly starting pose.",
+        "The tight portrait prioritizes the supported torso, both grips and elbow positions. The Graphic 3D treatment retains anatomical volume and has no baked teaching markers."
+      ],
+      "limitations": [
+        "The near shoe is partly cropped and the full resistance linkage is outside this detail view; it is not a complete machine setup illustration.",
+        "The handles already project forward of the chest, so motion must demonstrate a useful forward range and return to the same pose without inventing excessive shoulder extension.",
+        "A still cannot prove that both lever arms remain rigid or that the back stays supported, and it is not trainer approval or user acceptance."
+      ],
+      "animationReviewFocus": [
+        "Press both handles forward together, maintaining their mid-chest level rather than changing into a fly or overhead press.",
+        "Keep the lever pivots fixed, handles attached and grip geometry stable.",
+        "Retain hip/back support and return under control to the same bent-elbow starting position."
+      ],
+      "notes": "Plausible supported chest-press-machine start with chest-height handles and coherent visible levers. Ready for motion against this exact master hash; cropped feet and hidden full linkage remain framing limitations."
+    },
+    {
+      "shot": "r2-squat-studio-start",
+      "outputPath": "form-media/assets/masters/r2-squat-studio-start/attempt_a16b7591a57043e5.jpg",
+      "outputSha256": "fd99c082a0828ee1137b81f8bb9c73814e2129bb250142d36bff6c87d55b4097",
+      "sha256": "fd99c082a0828ee1137b81f8bb9c73814e2129bb250142d36bff6c87d55b4097",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:23:17.915503+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The mannequin stands with both full feet on the floor, holding a single unloaded bar across the upper back behind the shoulders. The bar is not positioned as a front squat.",
+        "Both grips, elbows, trunk, hips and knees are visible in a close standing portrait. Rack structure and two safety arms are present beside/behind the body.",
+        "The quiet upright starting pose and whole-foot contacts are plausible for the planned controlled barbell squat; no obvious limb fusion or collapsed torso is visible."
+      ],
+      "limitations": [
+        "The right bar end and some rack structure are cropped, so full equipment clearance is not established by this still.",
+        "The stationary pose cannot establish squat depth, heel contact through descent, or whether the bar will clear the pictured safety arms.",
+        "This is AI editorial readiness for a motion attempt, not user acceptance or trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Move the hips and knees together through a comfortable squat depth with whole-foot contact, then return fully to standing.",
+        "Keep the bar on the upper back and both hands attached; avoid moving it onto the neck or front shoulders.",
+        "Check rack/safety clearance throughout and avoid bar/body intersections or newly cropped teaching joints."
+      ],
+      "notes": "Plausible upper-back barbell-squat start with whole-foot contact and safety-arm context. Ready to animate against this master hash; cropped bar/rack edges require careful motion clearance review."
+    },
+    {
+      "shot": "r2-squat-warm-start",
+      "outputPath": "form-media/assets/masters/r2-squat-warm-start/attempt_0c265fca521e4819.jpg",
+      "outputSha256": "3057687b6920490a8e10d04b71c0b9e27b086daee38ed6a639d542483e72ecca",
+      "sha256": "3057687b6920490a8e10d04b71c0b9e27b086daee38ed6a639d542483e72ecca",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:24:58.765502+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "Both shoes are fully visible on the floor with a plausible standing squat stance. Both hands grip one plated bar across the rear shoulder/upper-back region.",
+        "The complete person, both bar ends and both plates fit in the portrait. Rack uprights, hooks and safety arms provide clear equipment context.",
+        "The body is upright and fully volumetric with no obvious collapsed trunk, extra limbs, or detached bar grip in the starting frame."
+      ],
+      "limitations": [
+        "The torso and shoulders obscure part of the bar support surface; this oblique view does not establish exact upper-back pressure or placement.",
+        "The safety arms and rack clearance must be checked during descent; their presence alone does not establish the correct height or clearance through a full squat.",
+        "Style, load plates and camera orientation differ from the Studio comparison. The still is neither user acceptance nor trainer validation."
+      ],
+      "animationReviewFocus": [
+        "Show a comfortable hip/knee descent and full standing return while keeping whole-foot contact.",
+        "Maintain the upper-back bar placement, rigid plates and stable grips without moving the bar onto the neck/front shoulders.",
+        "Keep the torso braced and check clearance from all pictured rack hooks and safety arms throughout."
+      ],
+      "notes": "Plausible standing upper-back squat start with complete bar and feet visible. Ready to animate against this exact master hash; moving rack clearance and bar placement still require editorial inspection."
+    },
+    {
+      "shot": "r2-squat-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-squat-illustrated-start/attempt_17f3be4061f64afc.jpg",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The complete body and both shoes are visible in a standing stance with one plated bar across the upper back and both hands attached.",
+        "The rack has visible uprights, hooks and safety arms; the character is positioned clear of the hooks in the starting projection. Both plates and bar ends are within the portrait.",
+        "The solid anatomical volume, navy clothing and contour treatment remain consistent with the Graphic 3D treatment. There is no obvious limb fusion or unsupported foot in the still."
+      ],
+      "limitations": [
+        "The right bar end projects very close to the right rack upright. This still cannot establish the depth clearance, so motion must not produce an intersection.",
+        "The static image does not establish comfortable squat depth, heel contact through descent or the suitability of the pictured safety-arm height.",
+        "The image is AI editorial readiness only, independent of user acceptance or trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Maintain the upper-back bar, stable grips and whole-foot contacts through a controlled hip/knee descent and full standing return.",
+        "Preserve rigid bar/plate geometry and check the right bar end against the upright, hooks and safety arms throughout.",
+        "Keep the torso braced without an obvious collapse or forced upright position that alters the squat."
+      ],
+      "notes": "Plausible upper-back squat start with full body/bar framing. Ready to animate against this hash, with especially close review of the right bar/rack clearance during motion.",
+      "outputSha256": "3605a9e4a65b7ebc96e88b1f1833f199ea6d5930e00bdfbfc5b18e32e41db500",
+      "sha256": "3605a9e4a65b7ebc96e88b1f1833f199ea6d5930e00bdfbfc5b18e32e41db500",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:27:11.631037+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-deadlift-warm-start",
+      "outputPath": "form-media/assets/masters/r2-deadlift-warm-start/attempt_a9e77f28ca394d43.jpg",
+      "status": "rejected",
+      "evidence": [
+        "Both plate bottoms are visibly suspended well above the floor, with the bar around the knees/lower knee region rather than a floor-supported bar start.",
+        "The person is holding a hanging hip-hinge position with modest knee bend; the image resembles a lifted/Romanian-deadlift midpoint rather than the chosen conventional floor-deadlift setup.",
+        "The top of the head is already cropped in the bent position and there is no available portrait headroom for a full standing endpoint without a major camera change.",
+        "Both hands hold a rigid-looking bar close to the legs and the feet are visible, but these positives do not resolve the wrong starting phase and unusable full-motion framing."
+      ],
+      "limitations": [
+        "A hinge midpoint can occur within a conventional deadlift, but it is not the catalog floor start or the requested first frame.",
+        "This rejects suitability for the planned floor-to-standing-to-floor clip, not the existence of other deadlift variants.",
+        "AI editorial review does not constitute user acceptance or a trainer assessment."
+      ],
+      "animationReviewFocus": [
+        "Replace with a true floor-supported bar/plate start, visible midfoot/bar relationship, hip hinge and knee bend.",
+        "Frame the full body from floor start through standing before spending a motion attempt.",
+        "Retain close bar-to-leg travel and return the bar to the same floor position under control."
+      ],
+      "notes": "Rejected: plates hover above the floor and the bar is near the knees, so this is a hanging hinge midpoint. The cropped head also prevents the planned complete standing endpoint in the fixed close frame.",
+      "outputSha256": "63fa348b6b8d68733659ea93df6741b61475ff1b4d8188a99960ccf9e201dd16",
+      "sha256": "63fa348b6b8d68733659ea93df6741b61475ff1b4d8188a99960ccf9e201dd16",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:27:11.631378+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-overhead-press-studio-start",
+      "outputPath": "form-media/assets/masters/r2-overhead-press-studio-start/attempt_cde9c3da80df4e6c.jpg",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin stands on both visible shoes with quiet legs and an upright torso, holding one rigid bar at the front shoulder/upper-chest level.",
+        "Both grips are just outside the shoulders in the projection, with bent elbows beneath the hands and the bar in front rather than behind the head.",
+        "The complete bar, plates, feet and body fit in the portrait. There is substantial space above the head for the planned overhead movement."
+      ],
+      "limitations": [
+        "The full overhead bar/plate endpoint is not present in the still; the available top margin must be checked during motion rather than assumed adequate.",
+        "Rack setup is absent, consistent with keeping unracking outside this repetition clip; this frame is not a complete setup demonstration.",
+        "The reference-image assessment does not establish rib control, head clearance or return quality during motion and is not user acceptance or trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Keep the legs quiet without a dip/drive, retain a braced torso and avoid a backward lean.",
+        "Clear the head with the bar in front, then return fully to the front-shoulder start without face clipping.",
+        "Keep both overhead plate edges within the frame and preserve the bar and grips throughout."
+      ],
+      "notes": "Plausible standing front-shoulder barbell-press start. Ready to animate against the master hash, with overhead frame clearance and quiet-leg/head-clearance mechanics requiring motion review.",
+      "outputSha256": "c9448eda50fcae454fae98137f7cf434a4973bf994a8bbc341e53af6c30322a6",
+      "sha256": "c9448eda50fcae454fae98137f7cf434a4973bf994a8bbc341e53af6c30322a6",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:29:32.363244+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-walking-lunge-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-walking-lunge-illustrated-start/attempt_d129875ca43f4789.jpg",
+      "status": "needs-review",
+      "evidence": [
+        "The figure shows a plausible bodyweight split-stance lunge: front shoe on the floor, rear forefoot contact, both knees bent and a tall torso. The two legs remain distinct.",
+        "The head is close to the top edge while the body is already in the lowered lunge position. Rising to stand will require additional vertical room that this fixed close framing does not clearly provide.",
+        "The character faces left and occupies the central/right portion of the frame, with a limited forward corridor for the requested travelling sequence. The image begins at a lowered lunge rather than showing the first standing-to-descent phase."
+      ],
+      "limitations": [
+        "The amount of standing rise and forward stride cannot be measured exactly from one perspective still; likely cropping is an editorial concern rather than an observed video failure.",
+        "The body pose can be useful as a static lunge detail, but that does not establish it as a reference for two complete descents/rises under a fixed camera.",
+        "This is AI editorial review only; no user acceptance or trainer assessment is implied."
+      ],
+      "animationReviewFocus": [
+        "Resolve full standing headroom and the two-step forward corridor before paid motion with a fixed camera.",
+        "Clarify that the supplied lowered pose is not itself evidence of a complete first lunge repetition; maintain the catalog rule of each completed lunge step being one rep total across legs.",
+        "Preserve alternating lead legs, forward travel and both full descents/rises without teleporting or stepping backward to reset."
+      ],
+      "notes": "Needs review before the planned paid motion: the lowered pose is plausible, but near-top head framing threatens the standing return and the remaining forward corridor/first-descent sequence are not established. It may remain useful as a static pose candidate.",
+      "outputSha256": "31f480b9074b8e110e6dc544d8c2f30808047eba943fa038295b7e3a75387c0e",
+      "sha256": "31f480b9074b8e110e6dc544d8c2f30808047eba943fa038295b7e3a75387c0e",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:29:32.363616+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-low-stepup-warm-start",
+      "outputPath": "form-media/assets/masters/r2-low-stepup-warm-start/attempt_ef42a9d0ba1b458f.jpg",
+      "outputSha256": "6561235baa95cc1c3dff961ca9af6edb074e6765d641c0b7fe305f74d9f9c99b",
+      "sha256": "6561235baa95cc1c3dff961ca9af6edb074e6765d641c0b7fe305f74d9f9c99b",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:30:43.735538+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The starting setup shows one foot on a low rigid-looking box and the trailing foot on the floor, with both feet, the entire box and the lead knee visible. No extra rail, chair, weights or external support has been added.",
+        "The lead sole appears within the top platform in this perspective and the trunk is tall. The scene is a plausible static low step-up setup.",
+        "The head is already close to the top edge; the available headroom is roughly comparable to the visible box rise. A complete stand with both feet on top is likely to touch or cross the upper boundary under the fixed-camera requirement."
+      ],
+      "limitations": [
+        "Perspective prevents a precise pixel-to-height estimate. The concern is inadequate movement margin, not an observed video crop.",
+        "The still begins after lead-foot placement. It does not itself show the full ascent, both-feet-on-top phase or trailing-foot-first descent.",
+        "This is AI editorial review only, not user acceptance or trainer assessment."
+      ],
+      "animationReviewFocus": [
+        "Provide clear extra vertical margin for the full standing position on the box before a paid fixed-camera motion attempt.",
+        "Keep the lead foot fully on the platform and bring the trailing foot onto the box before descending.",
+        "Return the trailing foot to the floor first, then the leading foot; retain the same lead identity and count one complete ascent/descent for that lead side.",
+        "Keep the box rigid and stationary without a hop, jump or knee-raise variation."
+      ],
+      "notes": "Needs review as a motion reference because standing on the box leaves little or no top margin. The static setup/contact geometry is plausible, but the complete both-feet-on-top phase needs more reliable framing."
+    },
+    {
+      "shot": "r2-bench-studio-start",
+      "outputPath": "form-media/assets/masters/r2-bench-studio-start/attempt_4d331e97f14745db.jpg",
+      "outputSha256": "ef40970c35bd0de86c42d86cbb4a9c248a8d8c3d78f6ba0e855727075092af53",
+      "sha256": "ef40970c35bd0de86c42d86cbb4a9c248a8d8c3d78f6ba0e855727075092af53",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:43:52.167572+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The corrected composition has the head at left and feet at right in a side three-quarter view. Head, upper back and hips are supported by the bench; both shoes are visible on the floor.",
+        "The bar is held at the extended-arm top position with two stable-looking closed grips and both weights visible. The complete current top envelope fits, leaving space below for the controlled lowering.",
+        "The upper torso and chest surface are more readable than in the original foot-end Studio frame. Neither plate covers the intended chest region, and both arms remain individually identifiable."
+      ],
+      "limitations": [
+        "The near upper arm still partially overlaps the head/upper torso, and a starting still cannot establish the eventual lower-sternum endpoint.",
+        "Rack uprights are visible but functional safety arms/spotter support are not clearly established; this is a repetition view rather than complete loading/unracking guidance.",
+        "Readiness is AI editorial suitability for a motion attempt, not trainer approval or user acceptance."
+      ],
+      "animationReviewFocus": [
+        "Keep head, upper back, hips and feet supported throughout the complete lowering and press return.",
+        "Inspect the actual lowest bar position near the intended chest target in this improved camera; do not accept an obscured neck-level or high-hovering endpoint.",
+        "Keep the bar rigid, both wrists/grips stable and rack clearance coherent while the elbows descend."
+      ],
+      "notes": "Corrected side three-quarter Studio composition is a plausible motion reference and resolves the prior foot-end framing problem. Ready to animate against this new master hash, with the bottom endpoint still requiring motion review."
+    },
+    {
+      "shot": "r2-bench-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-bench-illustrated-start/attempt_f2dd00397a2745e3.jpg",
+      "outputSha256": "ae4a98517ce40ab3bca2d84b7ea5ddf3cec9b26ad470c4af0353de79e7322dee",
+      "sha256": "ae4a98517ce40ab3bca2d84b7ea5ddf3cec9b26ad470c4af0353de79e7322dee",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:45:44.762469+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The corrected Graphic 3D frame preserves the head-left/feet-right side three-quarter arrangement, with the head, upper back and hips on the bench and both shoes on the floor.",
+        "Both arms are extended to one continuous bar, with distinct stable-looking grips and both weights completely visible. The full current top press position fits the frame.",
+        "The chest surface is visible between the arms and hips, with more useful endpoint context than the prior foot-end view. Contours and cel shading describe solid rounded anatomy rather than stick figures."
+      ],
+      "limitations": [
+        "The near arm still overlaps part of the upper torso/head, so the actual lowest bar target must be judged in the generated movement.",
+        "The rack is visible but functional safety arms or a spotter are not clearly shown; this image does not cover complete setup/loading guidance.",
+        "This is AI editorial suitability for a motion attempt, not user style acceptance or trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Retain bench/floor contacts and a controlled full lowering/press-return cycle.",
+        "Verify that the actual bar endpoint approaches the intended chest region rather than hovering high near the neck.",
+        "Keep limbs and cel-shaded volumes stable, both hands attached, bar/plates rigid and rack clear throughout."
+      ],
+      "notes": "Corrected Graphic 3D side three-quarter start is ready to animate against this new hash. Its matching composition improves style comparison while the lowest bar endpoint remains an independent motion-review requirement."
+    },
+    {
+      "shot": "r2-cable-row-warm-start",
+      "outputPath": "form-media/assets/masters/r2-cable-row-warm-start/attempt_1d0fbfc047c440d0.jpg",
+      "outputSha256": "0617abcfd9ac06c4830b9ce91196c062e560cb9fd9914f46ca2380d7451b8d6d",
+      "sha256": "0617abcfd9ac06c4830b9ce91196c062e560cb9fd9914f46ca2380d7451b8d6d",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:51:21.029166+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The corrected image establishes the working row station: both shoes brace against its forward plates, hips are on the long bench, and the knees retain a soft bend.",
+        "The two-handed handle connects to one taut cable running visibly to the low pulley at the left edge. The previous unexplained rear foot plates/pulley arrangement is no longer the working route shown.",
+        "The torso, lower ribs, both grips and elbows remain large and readable, with room for the handle to move toward the lower ribs and return."
+      ],
+      "limitations": [
+        "The top of the head remains cropped, so this is a close row-motion detail rather than a complete posture/setup view.",
+        "An additional weight-stack/seat assembly appears in the background and adds visual clutter; its full linkage is not shown. It does not obscure the immediate working cable route in this frame.",
+        "The skin material is glossier than other Warm candidates; visual-style acceptance belongs to the user. Readiness is not trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Keep the working cable attached to the same visible low pulley without changing its anchor or introducing slack.",
+        "Maintain braced feet, soft knees, seated hips and a steady torso through the full pull/controlled reach.",
+        "Make the lower-rib endpoint clear and avoid leaning backward or turning the row into a rocking stroke."
+      ],
+      "notes": "Corrected Warm Cable Row is ready to animate against this new hash: the immediate working cable/foot-plate geometry is now coherent. Background apparatus and the cropped head remain presentation limitations."
+    },
+    {
+      "shot": "r2-leg-press-warm-start",
+      "outputPath": "form-media/assets/masters/r2-leg-press-warm-start/attempt_571b0695b5274884.jpg",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected machine has a fixed reclined seat/back at lower right and a separate rigid foot platform carried on diagonal rails at upper left. The seat is no longer the rail-mounted shoulder-yoke carriage.",
+        "Both soles visibly contact the same platform, with both legs near extension and a remaining knee bend. Hips, lower back and head appear supported; the near hand holds a fixed hip-side handle.",
+        "The complete body/platform and working rail section fit in the frame. There is visible space for the platform to approach the body along the rails through a comfortable knee bend."
+      ],
+      "limitations": [
+        "The far hand and some hidden sled linkage are obscured, so their motion consistency will need checking.",
+        "The still cannot prove that the platform will remain rigid, that the pelvis will stay supported at the bottom or that the knees will avoid forceful lockout.",
+        "AI editorial readiness is not trainer approval or user acceptance."
+      ],
+      "animationReviewFocus": [
+        "Keep the seat/back fixed and move the platform/sled along the same rails; do not revert to a moving-seat or hack-squat mechanism.",
+        "Lower through a comfortable knee bend with both soles attached and lower back/hips supported, then press back without forceful knee lockout.",
+        "Preserve rail/platform geometry and visible body contact throughout."
+      ],
+      "notes": "Corrected machine and near-extended starting pose resolve the prior mismatch. Ready to animate this master hash as a lowering-first sled leg press.",
+      "outputSha256": "6159035f6e504550e61705b6a8b7c6acb25b18ffa32a65c3430a3ca820bb3e2f",
+      "sha256": "6159035f6e504550e61705b6a8b7c6acb25b18ffa32a65c3430a3ca820bb3e2f",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:54:05.750011+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-deadlift-warm-start",
+      "outputPath": "form-media/assets/masters/r2-deadlift-warm-start/attempt_823403b16cee4573.jpg",
+      "status": "needs-review",
+      "evidence": [
+        "The corrected image now shows both plates touching the floor and includes the complete bent head with substantial empty space above for standing. The bar remains close to the legs and both hands are attached.",
+        "The plates still appear small relative to the adult, and the shaft/grips project very low beside the ankle/lower-shin region rather than the intended mid-shin starting height. The resulting posture is a deep crouch.",
+        "Both shoes and the full bar are visible, and the wider portrait resolves the previous cropped-head and hovering-bar problems."
+      ],
+      "limitations": [
+        "Plate diameter and anatomical bar height cannot be measured precisely from this oblique image. The remaining concern is an apparent lower-than-intended start, not a numerical diameter measurement.",
+        "A lower bar can change the demonstrated starting demands. The selected brief intentionally requested full-size technique plates to avoid silently depicting a deficit-like start.",
+        "This is AI editorial review only, independent of trainer judgment and user acceptance."
+      ],
+      "animationReviewFocus": [
+        "Resolve the plate size/bar starting height before spending the planned conventional floor-deadlift motion attempt.",
+        "Use visibly full-size round plates resting on the floor with the shaft around mid-shin, then let the hip/knee setup follow that height without prescribing one universal joint angle.",
+        "Retain the corrected standing headroom, complete floor contact, long arms and close bar-to-leg route."
+      ],
+      "notes": "Needs review despite corrected floor contact/headroom: the apparent small plates leave the bar very low near the ankles and produce a deep crouch, conflicting with the requested full-size-plate conventional starting illustration.",
+      "outputSha256": "89dc2e466ef108929255180ac1132d5b0c1e57dd377755193e42a41d5d45cc1b",
+      "sha256": "89dc2e466ef108929255180ac1132d5b0c1e57dd377755193e42a41d5d45cc1b",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:54:05.750308+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-walking-lunge-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-walking-lunge-illustrated-start/attempt_3ddf6a27312048fd.jpg",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The correction begins fully upright with both feet on the floor, comfortably straight knees and relaxed arms; it is no longer already at the bottom of a lunge.",
+        "The figure stands in the left third facing right. The full standing crown and soles fit with margin, and the clear floor corridor to the right provides space for the planned two travelling steps.",
+        "The body remains full-height and volumetric in the landscape composition, with no apparatus, limb fusion or baked teaching markers."
+      ],
+      "limitations": [
+        "The near-side view overlaps the legs slightly in the standing pose; lead-leg identity and contact must be checked once they separate during motion.",
+        "A still cannot establish actual stride length, alternating leads or two complete descents/rises.",
+        "Bare feet differ from the previous shoe-wearing style candidate. AI editorial readiness is not user style acceptance or trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Take two ordinary forward lunge steps into the available rightward corridor with alternating lead legs.",
+        "Keep both complete descents and rises visible, with a tall trunk and stable planted-foot contacts.",
+        "Count each completed step as one repetition total across legs, and finish where the figure travels without teleporting or stepping backward to create a loop."
+      ],
+      "notes": "Corrected upright left-side start resolves the first-phase and standing-height framing problems. Ready to animate this master hash, subject to actual stride/lead-leg review.",
+      "outputSha256": "63762ae4f5bdb34706135c7a18ed683ae7ead17fa9bb38e3318b9f8a66fd3055",
+      "sha256": "63762ae4f5bdb34706135c7a18ed683ae7ead17fa9bb38e3318b9f8a66fd3055",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:56:17.581478+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-low-stepup-warm-start",
+      "outputPath": "form-media/assets/masters/r2-low-stepup-warm-start/attempt_3682cff75a6243f9.jpg",
+      "status": "needs-review",
+      "evidence": [
+        "The new output retains the same plausible lead-foot-on-box and trailing-foot-on-floor setup with the full box and both feet visible.",
+        "The requested wider vertical framing has not visibly occurred: the crown remains near the top at essentially the prior body/box scale, rather than substantially lower with an extra box-height plus margin above.",
+        "The available top space remains roughly comparable to the visible box rise. A fully upright both-feet-on-top phase is still likely to approach or cross the upper frame edge."
+      ],
+      "limitations": [
+        "This is a perspective estimate rather than a measured projected standing pose. The concern remains unresolved movement margin, not an observed video crop.",
+        "A new file/hash does not by itself indicate that the requested visual correction was applied.",
+        "AI editorial review is independent of user acceptance and trainer assessment."
+      ],
+      "animationReviewFocus": [
+        "Produce visibly wider fixed framing with the starting crown lower in the portrait and enough room for standing fully on the box.",
+        "Preserve lead-foot support and low box height rather than shrinking the box or flexing the head to fit.",
+        "After framing is resolved, verify both feet on top followed by trailing-foot-first and then lead-foot descent."
+      ],
+      "notes": "Needs-review remains: this replacement appears compositionally unchanged and does not resolve the standing-on-box headroom concern. The static foot/box setup is still plausible.",
+      "outputSha256": "32938d09c4dbc0fa8ae9d1a6c3ac0e385f37ce6cd67d47fac5cfcf4bbb25b320",
+      "sha256": "32938d09c4dbc0fa8ae9d1a6c3ac0e385f37ce6cd67d47fac5cfcf4bbb25b320",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:56:17.582115+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-bench-warm-detail-start",
+      "outputPath": "form-media/assets/masters/r2-bench-warm-detail-start/attempt_27ddf3bf85de42c0.jpg",
+      "outputSha256": "b2059af35f8a4fe246b9e1bd7c1beff899801accc8050d227a488f3d8bfd671f",
+      "sha256": "b2059af35f8a4fe246b9e1bd7c1beff899801accc8050d227a488f3d8bfd671f",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T12:57:12.790655+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The detail frame makes the chest, both shoulders/arms, wrists and closed grips substantially larger than the context view. The straight shaft between the hands is continuous and visible.",
+        "The bar is at the extended-arm top position, with both grip regions and arm joints inside the frame. The central chest/lower-sternum region is not covered by a plate or rack upright.",
+        "Head and upper-back support are visible on the bench; the frame reaches through the hip region while intentionally excluding the lower legs and cropping the outer near plate. The current arm extension and chest-level lowering corridor remain within the detail scope."
+      ],
+      "limitations": [
+        "Lower-leg/foot support, complete outer plates and some hip/bench contact are outside or at the edge of this intentional detail crop; they must be provided by the separate full-body context view.",
+        "The near arm overlaps part of the head and the exact lower-sternum bar endpoint is not present until motion. Perspective also foreshortens the upper arms, so their motion consistency needs inspection.",
+        "This is AI editorial readiness for an upper-body detail motion attempt, not user acceptance or trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Keep every shoulder, elbow, wrist, grip and the entire shaft between the hands visible through the full controlled lowering and press.",
+        "Verify a clearly readable chest endpoint, with no high hover near the neck, plate obstruction or rack intersection.",
+        "Retain bench support and stable hands/bar; use the paired full-body clip to establish lower-body contacts."
+      ],
+      "notes": "Ready to animate as the explicitly scoped upper-body Bench detail on this master hash. The crop is intentional and keeps the chest/arm teaching region readable; it should accompany the full-body context view."
+    },
+    {
+      "shot": "r2-low-stepup-warm-start",
+      "outputPath": "form-media/assets/references/authored/r2-low-stepup-warm-start-canvas-v1.png",
+      "outputSha256": "712efe8b29aced4131b349e8bc08f10225471c307ed42cd0da6e3c24817e28a6",
+      "sha256": "712efe8b29aced4131b349e8bc08f10225471c307ed42cd0da6e3c24817e28a6",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T13:03:20.008007+00:00",
+      "userAcceptance": "not-assessed",
+      "referenceType": "authored-framing-reference",
+      "provenanceFile": "form-media/reference-derivatives.json",
+      "evidence": [
+        "The authored canvas now leaves substantially more than one visible box-height above the starting crown. The whole figure can plausibly rise to stand on the box within the portrait with remaining top margin.",
+        "The original plausible lead-foot-on-box, trailing-foot-on-floor pose and complete box/foot contacts remain visibly intact. No limb or apparatus geometry was changed by the documented canvas extension.",
+        "The derivative provenance records the source attempt/hash and a 1080x1920 canvas with the original 768x1376 image placed at 156,400; this is an authored framing reference rather than a new AI still."
+      ],
+      "limitations": [
+        "A rectangular background-tone join is visible around the original image, especially along its top and sides. Generated motion must be inspected for persistence, flicker or an artificial inset-panel appearance.",
+        "The figure is smaller within the canvas than the original close still; the motion should keep foot/box actions readable without zooming away or wasting extra space.",
+        "The still cannot establish the both-feet-on-top phase or descent order. AI editorial readiness is separate from user acceptance and trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Keep the expanded fixed framing so the complete standing-on-box head, both feet and box remain visible.",
+        "Preserve full lead-foot support, bring the trailing foot onto the top, then descend trailing foot first followed by the lead foot without hopping.",
+        "Check that the background join does not remain as a distracting moving panel or flickering border, and that no camera crop removes the authored headroom."
+      ],
+      "notes": "Ready to animate this authored derivative hash: canvas extension resolves the prior standing-headroom concern while preserving the pose pixels. Review the visible background join and phone readability in the generated result."
+    },
+    {
+      "shot": "r2-deadlift-warm-start",
+      "outputPath": "form-media/assets/masters/r2-deadlift-warm-start/attempt_6bc69d90e6aa4ccc.jpg",
+      "outputSha256": "f5986b580e770f270c1f8e500b9a75d12eacf966b6ab808013748356126eb011",
+      "sha256": "f5986b580e770f270c1f8e500b9a75d12eacf966b6ab808013748356126eb011",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T13:05:49.959003+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The final replacement retains floor contact for both plates, the complete bar/body setup and generous headroom for standing.",
+        "The plate diameters increase only modestly relative to the preceding image. The shaft, grips and deep crouched body configuration remain at essentially the same low starting height near the lower shins/ankles.",
+        "The intended full-size plate and mid-shin bar-height correction has therefore not been clearly established, despite the improved floor-start framing compared with the original rejected image."
+      ],
+      "limitations": [
+        "Real-world plate diameter and exact bar height cannot be measured from this oblique image. The assessment concerns the visually unresolved reference geometry, not a numerical measurement.",
+        "The low starting configuration might represent another legitimate variant, but the selected demonstration explicitly requested conventional full-size plate setup to avoid changing its starting demands.",
+        "This AI editorial status remains separate from user acceptance or trainer judgment."
+      ],
+      "animationReviewFocus": [
+        "Resolve the intended plate/bar height and corresponding setup before treating this as the planned conventional deadlift motion reference.",
+        "Preserve the useful complete floor contacts, long-arm grip, close bar-to-leg route and generous standing headroom in any future reference."
+      ],
+      "notes": "Needs-review remains on this final image hash: plates changed modestly but the very low bar/grips and deep crouch are essentially unchanged. The specific requested full-size plate/mid-shin correction was not visibly achieved."
+    },
+    {
+      "shot": "r2-bench-studio-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-bench-studio-motion-de6b65dc.mp4",
+      "outputSha256": "0fd67f826aa3dc9d8ab6b8e67c7bf29754ccfdfa2fb1c29120234c0a9aa26e14",
+      "sha256": "0fd67f826aa3dc9d8ab6b8e67c7bf29754ccfdfa2fb1c29120234c0a9aa26e14",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:08:01.636195+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The contact sheet shows one lowering and press-return cycle ending near the starting extension. The bar, both grips, bench supports and feet appear stable in the inspected samples.",
+        "The side three-quarter composition makes the chest more visible than the previous Studio motion. Both weights and the full-body context remain framed.",
+        "Full-size low-position samples at 2.5, 3.0 and 3.5 seconds still place the shaft visibly above the upper-chest/neck projection, without a clearly readable lower-sternum endpoint. The intended form-teaching endpoint is not established."
+      ],
+      "limitations": [
+        "The review used the contact sheet and selected full-size endpoint samples, not continuous full-speed playback or exhaustive frame-by-frame validation.",
+        "Oblique projection prevents an exact bar-to-skin distance measurement; this is an unresolved endpoint/readability assessment, not a numerical depth or literal neck-contact claim.",
+        "The catalog does not require measured skin contact. The issue is failure to clearly demonstrate the chosen chest-directed range, and this is AI editorial review rather than trainer or user approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_de6b65dcfb454b81/keyframes.jpg",
+        "reports/form-media/attempt_de6b65dcfb454b81/ai-editorial-bottom-2_5.jpg",
+        "reports/form-media/attempt_de6b65dcfb454b81/ai-editorial-bottom.jpg",
+        "reports/form-media/attempt_de6b65dcfb454b81/ai-editorial-bottom-3_5.jpg"
+      ],
+      "minimalCorrectionPrompt": "Continue lowering until the bar is visibly at the lower-sternum chest surface, with elbows descending below the torso; pause there, then press back up.",
+      "notes": "Needs-review remains: the corrected camera and complete cycle are useful, but selected low-position samples still do not establish a clear lower-sternum chest endpoint. Not a candidate for form teaching on this evidence."
+    },
+    {
+      "shot": "r2-bench-illustrated-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-bench-illustrated-motion-1bb05dd1.mp4",
+      "outputSha256": "5a27c13ed82ab121f51f4b061c690a538fa5ebebcedf5f8beb251e8eb56618ac",
+      "sha256": "5a27c13ed82ab121f51f4b061c690a538fa5ebebcedf5f8beb251e8eb56618ac",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:09:24.487935+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The contact sheet shows a complete lowering and press-return cycle. The Graphic 3D figure retains solid anatomy, stable bench/floor contacts, both grips and rigid-looking equipment in the inspected frames.",
+        "The corrected side composition makes the torso more readable, but full-size 3.0 and 3.5 second low-position samples place the shaft above the face/upper-chest projection.",
+        "The elbows descend while the bar remains near its original shoulder/headward horizontal projection; the planned lower-sternum endpoint is not clearly demonstrated."
+      ],
+      "limitations": [
+        "Review used the contact sheet and selected full-size bottom samples, not continuous full-speed playback or exhaustive frame validation.",
+        "Perspective prevents an exact bar-to-body distance measurement or a literal neck-contact claim. The issue is the unreadable/wrongly projected chosen endpoint.",
+        "AI editorial review is independent of user acceptance and trainer approval; a complete cycle alone does not make it a form-teaching candidate."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_1bb05dd175ea493a/keyframes.jpg",
+        "reports/form-media/attempt_1bb05dd175ea493a/ai-editorial-bottom-3_0.jpg",
+        "reports/form-media/attempt_1bb05dd175ea493a/ai-editorial-bottom-3_5.jpg"
+      ],
+      "minimalCorrectionPrompt": "Lower the bar slightly toward the feet (screen right in this view) until it is visibly at the lower-sternum chest surface, with elbows below the torso; pause, then press up and slightly toward the shoulders.",
+      "notes": "Needs-review: corrected framing and stable contacts do not resolve the high/headward bar endpoint. A slight feetward descent is the specific missing path cue, subject to independent review of any corrected output."
+    },
+    {
+      "shot": "r2-low-stepup-warm-start",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "userAcceptance": "not-assessed",
+      "referenceType": "authored-framing-reference",
+      "provenanceFile": "form-media/reference-derivatives.json",
+      "outputPath": "form-media/assets/references/authored/r2-low-stepup-warm-start-canvas-v1.png",
+      "status": "needs-review",
+      "reviewedAt": "2026-09-10T13:12:37.462263+00:00",
+      "evidence": [
+        "The previously inspected v1 reference visibly contains a rectangular background-tone boundary around its original image.",
+        "The parent operator now reports that the same v1 padding technique caused a generated Dead Bug hand to clip at the inner image boundary despite the expanded canvas. This is new cross-asset operational evidence against using the visible-panel construction.",
+        "The Step-Up pose and expanded headroom remain plausible; the changed decision concerns the reference boundary, not a new body-form defect."
+      ],
+      "limitations": [
+        "This reviewer did not independently inspect that Dead Bug motion for this record; the cross-asset failure is attributed to the parent operator report.",
+        "No Step-Up motion failure is claimed. This precautionary reference reassessment deliberately precedes motion from v1."
+      ],
+      "notes": "Supersedes the earlier readiness assessment for this exact v1 hash after the parent reported an actual analogous inner-boundary clipping failure. Use the reviewed v2 derivative instead; original review history is retained.",
+      "outputSha256": "712efe8b29aced4131b349e8bc08f10225471c307ed42cd0da6e3c24817e28a6",
+      "sha256": "712efe8b29aced4131b349e8bc08f10225471c307ed42cd0da6e3c24817e28a6"
+    },
+    {
+      "shot": "r2-low-stepup-warm-start",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "userAcceptance": "not-assessed",
+      "referenceType": "authored-framing-reference",
+      "provenanceFile": "form-media/reference-derivatives.json",
+      "outputPath": "form-media/assets/references/authored/r2-low-stepup-warm-start-canvas-v2.png",
+      "status": "ready-to-animate",
+      "reviewedAt": "2026-09-10T13:12:37.462365+00:00",
+      "evidence": [
+        "The v2 canvas retains the plausible original foot/box pose and ample expanded headroom for standing fully on the box.",
+        "Nearest-edge background continuation removes the strong rectangular color-panel contrast seen in v1. The body and box remain inside a continuous light studio field rather than a sharply contrasting inset.",
+        "Derivative provenance records original pose pixels retained, no body edits and a 1080x1920 canvas with edge continuation."
+      ],
+      "limitations": [
+        "Visible smeared edge texture/striping remains in the extended background; the reference is not a polished delivery image.",
+        "Removal of the strong color boundary does not prove the model will use the entire expanded canvas. Motion must be checked for any inner crop or clipping near the former image edge.",
+        "AI editorial readiness is independent of user acceptance and trainer judgment."
+      ],
+      "animationReviewFocus": [
+        "Keep the complete crown visible when both feet stand on the box, with no clipping at the original image bounds or change of camera crop.",
+        "Preserve full leading-foot contact, bring the trailing foot on top, then descend trailing foot first followed by the leading foot.",
+        "Inspect the extended background for visible panel edges, smeared stripes or flicker in the final delivery."
+      ],
+      "notes": "Ready to animate the v2 derivative hash: it keeps the corrected movement envelope and removes the strong v1 color-panel boundary. Background texture and full-canvas motion use still require delivery review.",
+      "outputSha256": "1d936dc078401b73ba2ffa98755f72368a4cd1d54a5a584d01400ec236e06b6f",
+      "sha256": "1d936dc078401b73ba2ffa98755f72368a4cd1d54a5a584d01400ec236e06b6f"
+    },
+    {
+      "shot": "r2-seated-db-press-studio-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-seated-db-press-studio-motion-0e67ab44.mp4",
+      "outputSha256": "92f3a789b6d06147e78bc9cd3dff0e2f26d63b076ca7b40452ad85bd4cc8b87d",
+      "sha256": "92f3a789b6d06147e78bc9cd3dff0e2f26d63b076ca7b40452ad85bd4cc8b87d",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:21:19.684663+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The central sequence reaches full overhead extension with two distinct dumbbells meeting at about 4.0 seconds, then returns to shoulder level. The top weights and all arm joints remain in frame.",
+        "Seated hips, back-pad relationship and both feet appear stable through the sampled central press, with forward-facing grips and no obvious weight fusion.",
+        "The full delivery also contains partial lift/return pulses outside the central repetition: weights are higher at 1.5 seconds than at 2.3 seconds, and rise again from the low 5.5-second position by 6.5 seconds before the final return. This is not the requested single clear repetition."
+      ],
+      "limitations": [
+        "Assessment uses the chronological 1-fps contact sheet and selected full-size samples, not continuous playback or exhaustive frame validation.",
+        "The suggested trim is approximate and has not been authored or accepted; clean start/end motion and any pacing change need review on the resulting derivative.",
+        "AI editorial assessment is not user acceptance or trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_0e67ab44bd6f45e8/keyframes.jpg",
+        "reports/form-media/attempt_0e67ab44bd6f45e8/ai-editorial-top-4_0.jpg",
+        "reports/form-media/attempt_0e67ab44bd6f45e8/ai-editorial-top-4_4.jpg",
+        "reports/form-media/attempt_0e67ab44bd6f45e8/ai-editorial-1_5.jpg",
+        "reports/form-media/attempt_0e67ab44bd6f45e8/ai-editorial-2_3.jpg",
+        "reports/form-media/attempt_0e67ab44bd6f45e8/ai-editorial-5_5.jpg",
+        "reports/form-media/attempt_0e67ab44bd6f45e8/ai-editorial-6_5.jpg"
+      ],
+      "suggestedEdit": "Consider isolating roughly 2.3–5.6 seconds for the central full press/return, then review exact endpoints. Brief holds or slower playback may make the short derivative clearer without new generation.",
+      "minimalCorrectionPrompt": "Hold the shoulder-height start, perform exactly one uninterrupted simultaneous press until the two weights meet lightly overhead, then lower once to the same start and remain still. No preliminary pulses or extra partial repetitions.",
+      "notes": "Needs-review for the full delivery because extra partial repetitions surround an otherwise plausible central full press. A reviewed central-cycle trim may salvage it without another paid generation."
+    },
+    {
+      "shot": "r2-seated-db-press-warm-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-seated-db-press-warm-motion-6a0f7ea7.mp4",
+      "status": "needs-review",
+      "evidence": [
+        "The main cycle presses both weights upward together and returns them to the shoulder-level start with apparently stable seat, back-pad and shoe contacts.",
+        "Full-size samples at 2.5, 3.0 and 3.5 seconds keep substantial elbow bend while the weights meet only a short distance above the head. The overhead extension endpoint is not as clear as the Studio central cycle.",
+        "The chronological contact sheet shows another partial rise after the low return around 5.5 seconds, before the final lowering, so the full delivery is not one unambiguous repetition."
+      ],
+      "limitations": [
+        "The catalog requires the weights to meet at the top but specifies no numeric elbow angle. The concern is the clarity/completeness of the illustrated overhead range, not a measured-angle violation or an unsafe-position diagnosis.",
+        "The inner shaft tips meet in projection; their apparent connection is not proof that two dumbbells physically fused.",
+        "Review used the contact sheet and selected full-size samples rather than continuous playback, and does not constitute trainer or user approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_6a0f7ea7da69417b/keyframes.jpg",
+        "reports/form-media/attempt_6a0f7ea7da69417b/ai-editorial-2_5.jpg",
+        "reports/form-media/attempt_6a0f7ea7da69417b/ai-editorial-3_0.jpg",
+        "reports/form-media/attempt_6a0f7ea7da69417b/ai-editorial-3_5.jpg",
+        "reports/form-media/attempt_6a0f7ea7da69417b/ai-editorial-5_5.jpg"
+      ],
+      "minimalCorrectionPrompt": "Press both dumbbells fully overhead while straightening the elbows comfortably, keep the two weights visibly independent as they meet lightly, then lower once to shoulder height and remain still. No extra partial pulse.",
+      "notes": "Needs-review for the bent-elbow top endpoint and the extra partial repetition after the main return. A trim alone would remove the late pulse but would not clarify the overhead endpoint.",
+      "outputSha256": "2efa9e4ef2f13e45125e8ad38fa7755cf9f75dd6e6a290d7abd3c6235b4349ef",
+      "sha256": "2efa9e4ef2f13e45125e8ad38fa7755cf9f75dd6e6a290d7abd3c6235b4349ef",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:24:20.691370+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-seated-db-press-illustrated-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-seated-db-press-illustrated-motion-162f8d2d.mp4",
+      "status": "needs-review",
+      "evidence": [
+        "The contact sheet shows a cleaner single upward press, short top hold and controlled shoulder-level return, followed by a stable hold. Hips, shoes and back-support relationship remain plausible in the inspected frames.",
+        "Full-size top samples at 3.0, 3.5 and 3.8 seconds retain a noticeable elbow bend. The weights approach above the head, but a clearly extended overhead endpoint remains uncertain.",
+        "The protruding inner shaft tips meet and form a connecting-rod-like appearance at the top, making it harder to read them as two independent weights lightly meeting."
+      ],
+      "limitations": [
+        "No numeric elbow angle is specified by the catalog or measured here; this is a request to review endpoint clarity, not a definite claim of an unsafe press.",
+        "Shaft tips may simply touch; this review does not establish literal weight fusion from the sampled projection.",
+        "Assessment used a contact sheet and selected full-size samples rather than continuous playback. AI editorial status is separate from trainer and user acceptance."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_162f8d2d619f4093/keyframes.jpg",
+        "reports/form-media/attempt_162f8d2d619f4093/ai-editorial-3_0.jpg",
+        "reports/form-media/attempt_162f8d2d619f4093/ai-editorial-3_5.jpg",
+        "reports/form-media/attempt_162f8d2d619f4093/ai-editorial-3_8.jpg"
+      ],
+      "minimalCorrectionPrompt": "Show a clearly extended overhead press with comfortably straightened elbows before returning to shoulder height. Keep each dumbbell visibly separate and rigid when they meet lightly; do not create a connecting shaft between them.",
+      "notes": "Needs-review despite the clean single cycle: the top arm extension and apparent inner-shaft connection are not clear enough for this instructional candidate. The source does not mandate a precise elbow angle.",
+      "outputSha256": "7074277ad49a5cc33d08536424e4cabd06e3098dd96659c1f3459869fd26b251",
+      "sha256": "7074277ad49a5cc33d08536424e4cabd06e3098dd96659c1f3459869fd26b251",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:24:20.691819+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-cable-row-studio-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-cable-row-studio-motion-e09a8f92.mp4",
+      "status": "needs-review",
+      "evidence": [
+        "The first pull brings the two-handed handle toward the lower-rib/upper-abdominal region, with the elbow bending and the torso staying broadly steady rather than making a rowing-machine stroke.",
+        "The working cable stays taut toward the same visible low pulley; shoes remain braced and hips remain seated in the inspected samples. A full-size 4.5-second frame shows the controlled forward-reach return.",
+        "The full contact sheet also shows another pull and return after the first cycle, rather than the requested single-repetition demonstration."
+      ],
+      "limitations": [
+        "The cropped head prevents independent head/neck posture review. Small torso changes and the exact handle-to-rib distance are uncertain in the oblique view.",
+        "The first-cycle mechanics are plausible; the outstanding issue for this delivery is sequence/count consistency, not a categorical rejection of showing two correctly labelled repetitions.",
+        "Review used the contact sheet and selected endpoints, not continuous playback or trainer assessment. User acceptance remains unassessed."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_e09a8f92804b4e1e/keyframes.jpg",
+        "reports/form-media/attempt_e09a8f92804b4e1e/ai-editorial-2_5.jpg",
+        "reports/form-media/attempt_e09a8f92804b4e1e/ai-editorial-4_5.jpg"
+      ],
+      "suggestedEdit": "Isolate the first cycle from source 0 to 4.5 seconds, with a brief endpoint hold if useful; review the resulting derivative independently.",
+      "minimalCorrectionPrompt": "Pull once toward the lower ribs, reach forward once under control, then hold still. No second pull.",
+      "notes": "Needs-review for a single-cycle teaching clip because the full delivery includes another pull. The first cycle appears salvageable by a 0–4.5-second trim.",
+      "outputSha256": "9f5aef7f0cb48bafc0433e6ffa148ae8eb15aec979e5cdb8deb91d018738f647",
+      "sha256": "9f5aef7f0cb48bafc0433e6ffa148ae8eb15aec979e5cdb8deb91d018738f647",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:27:48.933535+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-cable-row-warm-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-cable-row-warm-motion-003d7a77.mp4",
+      "status": "needs-review",
+      "evidence": [
+        "The main pull reaches the lower-rib/upper-abdominal region with both grips attached and a taut working cable toward the front pulley. The braced feet, soft knees and seated hips remain plausible.",
+        "The full-size 3.5-second sample shows the pulled endpoint; the 6.0-second sample shows the forward reach returned with the same cable route and support.",
+        "The last part of the full clip begins another pull after that return, leaving an extra partial repetition in the requested single-cycle demonstration."
+      ],
+      "limitations": [
+        "The head is cropped and background apparatus remains distracting. The visible working cable path is assessable, while the entire resistance mechanism is not.",
+        "The primary cycle appears plausible, but sampled frames do not establish continuous smoothness or trainer-validated form.",
+        "AI editorial review is independent of user acceptance."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_003d7a77485d45df/keyframes.jpg",
+        "reports/form-media/attempt_003d7a77485d45df/ai-editorial-3_5.jpg",
+        "reports/form-media/attempt_003d7a77485d45df/ai-editorial-6_0.jpg"
+      ],
+      "suggestedEdit": "Isolate source 0–6.0 seconds to retain the primary pull/return and omit the late extra pull, then review the edited delivery.",
+      "minimalCorrectionPrompt": "Perform one pull and one controlled forward return, then stay still at the extended-arm start for the rest of the clip.",
+      "notes": "Needs-review for the extra late pull; the primary cycle appears suitable for a reviewed 0–6.0-second trim without regeneration.",
+      "outputSha256": "40da74cb6bf208d24d99fb47c148ec87da57cd3084f11c6770fe8db492d1d207",
+      "sha256": "40da74cb6bf208d24d99fb47c148ec87da57cd3084f11c6770fe8db492d1d207",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:27:48.933968+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-lat-pulldown-studio-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-lat-pulldown-studio-motion-484c509d.mp4",
+      "status": "needs-review",
+      "evidence": [
+        "The main pull brings the bar down in front toward the upper chest, with the overhead cable continuously attached, both hands gripping the same bar and no behind-neck path in the inspected samples.",
+        "The thighs remain under the pad and hips remain seated, with a broadly stable torso and both feet on the floor. The 5.7-second endpoint restores the overhead starting position.",
+        "After the primary return the contact sheet shows another partial pulldown around the head before a final overhead return, adding an unrequested partial repetition."
+      ],
+      "limitations": [
+        "The oblique view does not establish exact bar-to-chest distance; the catalog calls for movement toward the upper chest rather than measured skin contact.",
+        "The review used a chronological contact sheet plus full-size bottom/return samples, not continuous playback or exhaustive frame validation.",
+        "This is AI editorial review and does not replace trainer assessment or user acceptance."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_484c509d2a544d14/keyframes.jpg",
+        "reports/form-media/attempt_484c509d2a544d14/ai-editorial-3_5.jpg",
+        "reports/form-media/attempt_484c509d2a544d14/ai-editorial-5_7.jpg"
+      ],
+      "suggestedEdit": "Isolate source 0–5.7 seconds to retain the front pulldown and controlled overhead return, then review the derivative.",
+      "minimalCorrectionPrompt": "Pull down in front once, return overhead once, then hold the extended-arm start without another dip.",
+      "notes": "Needs-review for the extra late partial pulldown. The primary cycle and its front upper-chest endpoint appear plausible for a reviewed 0–5.7-second trim.",
+      "outputSha256": "d676cafc7ad60e30aef4cb9035cdc63cb96873c40410b2d076552455e1f478c5",
+      "sha256": "d676cafc7ad60e30aef4cb9035cdc63cb96873c40410b2d076552455e1f478c5",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:27:48.934210+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-seated-db-press-studio-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-seated-db-press-studio-motion-trim-v1.mp4",
+      "status": "needs-review",
+      "provenanceFile": "form-media/edits.json",
+      "evidence": [
+        "The derivative isolates the central press/return and includes cloned endpoint holds, preserving the clear overhead meeting and stable body/equipment contacts seen in the source.",
+        "Its half-second contact sheet still begins with the weights above the settled shoulder-height position and shows a downward dip before the main press. The source 2.3-second cut starts too early.",
+        "A separately inspected source frame at 2.7 seconds shows the settled bottom immediately before the central press, providing a clearer starting cut point."
+      ],
+      "limitations": [
+        "The complete derivative was inspected through its contact sheet; exact continuous timing and edit seam still require review on the revised delivery.",
+        "This reassessment does not invalidate the useful central press; it requests a small cut-point correction rather than another generation.",
+        "AI editorial readiness is separate from user and trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-seated-db-press-studio-motion-trim-v1/keyframes.jpg",
+        "reports/form-media/attempt_0e67ab44bd6f45e8/ai-editorial-2_7.jpg"
+      ],
+      "suggestedEdit": "Use source 2.7–5.6 seconds instead of 2.3–5.6, retaining the brief endpoint holds. Review the new derivative hash.",
+      "notes": "Needs-review because the first trim retains an initial downward settling pulse. A 0.4-second later source start at 2.7 seconds should isolate the intended clean press more clearly.",
+      "outputSha256": "3a11f5b500b20434e4909fdc4d61085a1f2a51ef5dcdc2952d9fd3a6fa99528a",
+      "sha256": "3a11f5b500b20434e4909fdc4d61085a1f2a51ef5dcdc2952d9fd3a6fa99528a",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:27:48.934339+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-seated-db-press-studio-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-seated-db-press-studio-motion-trim-v2.mp4",
+      "status": "candidate",
+      "provenanceFile": "form-media/edits.json",
+      "evidence": [
+        "The corrected trim starts at the settled shoulder-level pose, shows one simultaneous overhead press and returns to the low pose without the earlier preliminary dip or later extra pulse in its half-second contact sheet.",
+        "A full-size 1.65-second sample shows comfortable overhead arm extension and two distinct weights meeting, with both grips and the complete movement envelope visible.",
+        "Seat, back-support relationship, feet and equipment appear stable through the inspected cycle. Short cloned endpoint holds make the start and finish readable without another generated motion attempt."
+      ],
+      "limitations": [
+        "This short 3.58-second derivative was reviewed using its contact sheet and full-size top sample, not continuous playback or exhaustive frame validation.",
+        "The top weight contact is read from the visible plate boundaries; no biomechanical measurements or activation claims are made.",
+        "Candidate means plausible for user review only. Trainer approval and user acceptance remain unassessed."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-seated-db-press-studio-motion-trim-v2/keyframes.jpg",
+        "reports/form-media/r2-seated-db-press-studio-motion-trim-v2/ai-editorial-top.jpg"
+      ],
+      "notes": "Candidate: revised 2.7–5.6-second source trim with endpoint holds isolates a readable single seated dumbbell press. The original delivery and trim v1 retain their separate needs-review records.",
+      "outputSha256": "944a74e878fe3a344588ec9fb4ad7883f247e7ba6a85aa92a1c77ee9e1726bb2",
+      "sha256": "944a74e878fe3a344588ec9fb4ad7883f247e7ba6a85aa92a1c77ee9e1726bb2",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:31:07.468579+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-leg-press-warm-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-leg-press-warm-motion-f51f9a65.mp4",
+      "status": "needs-review",
+      "evidence": [
+        "The first cycle moves the foot platform along the same diagonal rails while the reclined seat remains fixed. Both soles stay on the platform and hips/back remain supported in the inspected bottom sample.",
+        "The 2.5-second bottom shows a comfortable-looking visible knee bend without an obvious pelvis lift, and the 4.5-second sample returns to near extension without obvious backward knee snapping.",
+        "The full contact sheet then shows another lowering/press cycle after the first return, exceeding the selected one-repetition clip sequence."
+      ],
+      "limitations": [
+        "Sampled frames do not prove continuous rail rigidity, precise knee angles or support at every instant. No fixed depth or measured angle is inferred.",
+        "Showing two properly labelled repetitions is not inherently a form error; this delivery needs review for consistency with the selected single-cycle format.",
+        "AI editorial review is separate from trainer assessment and user acceptance."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_f51f9a65d14b43a3/keyframes.jpg",
+        "reports/form-media/attempt_f51f9a65d14b43a3/ai-editorial-2_5.jpg",
+        "reports/form-media/attempt_f51f9a65d14b43a3/ai-editorial-4_5.jpg"
+      ],
+      "suggestedEdit": "Isolate source 0–4.5 seconds for the first lowering/press return, with a brief endpoint hold if useful; review the derivative.",
+      "minimalCorrectionPrompt": "Lower the sled once through a comfortable bend, press once to the starting extension without forceful knee lockout, then remain still.",
+      "notes": "Needs-review for the extra second cycle. The first supported fixed-seat sled cycle appears salvageable with a 0–4.5-second trim.",
+      "outputSha256": "b116ffbc403e2c79a73207227b989189f0ff42a98bf76f939c416c189a4a3328",
+      "sha256": "b116ffbc403e2c79a73207227b989189f0ff42a98bf76f939c416c189a4a3328",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:31:07.469087+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-machine-chest-press-illustrated-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-machine-chest-press-illustrated-motion-06b7e5b6.mp4",
+      "status": "needs-review",
+      "evidence": [
+        "The figure remains seated against the back pad and the main handles move forward around their lower pivots, with the near grip and torso visibly supported.",
+        "At the fuller extension around 3.5 seconds, the screen-left hand/grip is partly cut off by the image edge. The tight starting framing does not contain the complete forward contact envelope.",
+        "The full contact sheet shows repeated presses and returns rather than one timed cycle; the 4.5-second sample is a returned chest-height pose before further movement."
+      ],
+      "limitations": [
+        "Cropped fingers/grip prevent a full check of the far hand contact at the maximum extension. A trim cannot recover pixels that are outside the frame.",
+        "The visible near lever is broadly coherent, but not all hidden machine linkage or every frame has been verified.",
+        "This is AI editorial review only, not trainer judgment or user acceptance."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_06b7e5b643134e8b/keyframes.jpg",
+        "reports/form-media/attempt_06b7e5b643134e8b/ai-editorial-3_5.jpg",
+        "reports/form-media/attempt_06b7e5b643134e8b/ai-editorial-4_5.jpg"
+      ],
+      "minimalCorrectionPrompt": "Use enough fixed-camera space on the screen-left side to keep both complete hands and handles visible at maximum forward extension. Perform one forward press, one controlled return and then hold still, with the back supported.",
+      "notes": "Needs-review: repeated cycles and partial cropping of the screen-left hand/grip at full press require wider movement framing plus a single timed sequence; trimming alone does not resolve the crop.",
+      "outputSha256": "36ea01bd1bc7aa49c3cfab7092ba5e77d3672d7c310325afb2d5446443a48121",
+      "sha256": "36ea01bd1bc7aa49c3cfab7092ba5e77d3672d7c310325afb2d5446443a48121",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:31:07.469487+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-machine-chest-press-illustrated-start",
+      "outputPath": "form-media/assets/masters/r2-machine-chest-press-illustrated-start/attempt_eeedd45cc1aa4f31.jpg",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The new landscape frame preserves a seated back-supported torso with both hands around chest-height handles and both shoulders/elbows visible.",
+        "There is substantial open space to screen left of the forward-facing handles, which now provides a plausible envelope for full forward arm travel without cropping the far grip.",
+        "The upper-body detail keeps the visible handles attached to coherent lever arms and retains the solid Graphic 3D rendering."
+      ],
+      "limitations": [
+        "The lower legs, seat base and full lever pivots are outside this intentional upper-body detail; whole-body support and complete machine setup need a separate context view.",
+        "The actual full extension must still be checked during motion, including rigid handle/lever connections and whether the camera preserves the added left margin.",
+        "AI editorial readiness is not trainer approval or user acceptance."
+      ],
+      "animationReviewFocus": [
+        "Keep both entire hands and handles inside the frame at maximum extension.",
+        "Perform one timed forward press and controlled chest-height return, then hold still without extra pulses.",
+        "Maintain hip/back support and coherent lever movement despite the hidden lower mechanism."
+      ],
+      "notes": "Ready to animate this corrected landscape detail hash: the added left-side space resolves the previously inadequate hand-travel framing. Full motion and equipment continuity still require review.",
+      "outputSha256": "6c67f6e67f0e27e4c836aefd2541eedaee500e620a02a54f8beb5b9d41abfdb9",
+      "sha256": "6c67f6e67f0e27e4c836aefd2541eedaee500e620a02a54f8beb5b9d41abfdb9",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:37:48.519225+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-leg-press-warm-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-leg-press-warm-motion-trim-v1.mp4",
+      "status": "candidate",
+      "reviewKind": "motion-ai-editorial",
+      "provenanceFile": "form-media/edits.json",
+      "evidence": [
+        "The edited half-second contact sheet now shows one controlled sled lowering and press return with stable start/end positions, omitting the second cycle from the original delivery.",
+        "The full-size bottom sample at 2.75 seconds preserves supported hips/back/head and both soles against the same platform, with visible comfortable knee bend.",
+        "The seat stays fixed and the platform follows the same working rails through the inspected cycle; the return stops at the plausible starting extension."
+      ],
+      "limitations": [
+        "The derivative was inspected using its contact sheet and a full-size bottom sample rather than continuous playback or exhaustive frame validation.",
+        "No exact knee angle, forceful-lockout measurement or clinical/trainer validation is inferred from these images.",
+        "Candidate means plausible for user review, not user acceptance or approval for unsupervised instruction."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-leg-press-warm-motion-trim-v1/keyframes.jpg",
+        "reports/form-media/r2-leg-press-warm-motion-trim-v1/ai-editorial-bottom.jpg"
+      ],
+      "notes": "Candidate: the 0–4.5-second source trim with brief endpoint holds isolates a clear supported sled leg-press cycle. The original two-cycle delivery keeps its separate needs-review status.",
+      "outputSha256": "df52eae13e8804ebdce09639528d13bc34ac1a14f5283d7d9ad1096607e9ac7f",
+      "sha256": "df52eae13e8804ebdce09639528d13bc34ac1a14f5283d7d9ad1096607e9ac7f",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:37:48.519669+00:00",
+      "userAcceptance": "not-assessed"
+    },
+    {
+      "shot": "r2-bench-warm-detail-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-bench-warm-detail-motion-720d7fc0.mp4",
+      "outputSha256": "b105975fbbb7e9029e9768c7558345009d529987ac6c053c6ec3cb4a0b75823f",
+      "sha256": "b105975fbbb7e9029e9768c7558345009d529987ac6c053c6ec3cb4a0b75823f",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:44:45.140911+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The contact sheet shows a primary lowering/press cycle followed by an extra partial dip and return near the end, rather than the requested single cycle and stable hold.",
+        "Full-size bottom samples at 3.5 and 4.0 seconds show the shaft projected across the face and uppermost chest region. They do not clearly demonstrate the requested lower-sternum chest endpoint.",
+        "The near elbow reaches the lower image edge during the bottom position and is partly cut off, even though the hands, bar between hands and chest remain visible.",
+        "The visible head and upper back stay supported and the hands retain the bar; the intentional omission of lower legs and outer plate ends is not the reason for this status."
+      ],
+      "limitations": [
+        "Review used the contact sheet and two full-size endpoint samples rather than continuous playback or exhaustive frame inspection.",
+        "The oblique view does not establish an exact bar-to-body distance or literal face contact; the concern is inadequate endpoint clarity for instruction.",
+        "AI editorial review is distinct from user acceptance and trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_720d7fc09b634eb3/keyframes.jpg",
+        "reports/form-media/attempt_720d7fc09b634eb3/ai-editorial-3_5.jpg",
+        "reports/form-media/attempt_720d7fc09b634eb3/ai-editorial-4_0.jpg"
+      ],
+      "minimalCorrectionPrompt": "Show exactly one complete bench press. Lower the bar diagonally toward the feet, screen right in this head-left view, to the lower sternum; both elbows descend below the torso while remaining fully inside the frame. Press up and slightly toward the shoulders, then hold without another dip. Preserve a little extra space below both elbows throughout the bottom position.",
+      "notes": "Needs review: the close view repeats the high/headward endpoint problem and loses part of the near elbow at the bottom. Removing the late pulse alone cannot repair the missing endpoint and framing evidence."
+    },
+    {
+      "shot": "r2-bench-studio-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-bench-studio-motion-2410cafb.mp4",
+      "outputSha256": "44f26ac9ece6f5f13add635861824d842da0665069c1abd2ac688bb793e43761",
+      "sha256": "44f26ac9ece6f5f13add635861824d842da0665069c1abd2ac688bb793e43761",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:48:30+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The contact sheet and full-size 3.5- and 4.5-second samples show the shaft remaining headward, above the face/upper-chest projection, without clearly reaching the requested lower-sternum chest surface.",
+        "Both bent elbows and hands remain in frame; the visible head/back/hip support, planted feet and rigid bar remain plausible in the inspected samples.",
+        "After the main press return, the contact sheet shows the beginning of another dip near the end."
+      ],
+      "limitations": [
+        "Review used the contact sheet and two selected full-size bottom-region frames, rather than continuous playback or exhaustive frame inspection.",
+        "An oblique projection does not establish a numerical bar-to-body distance or literal face contact; the visible endpoint is insufficiently clear for the requested teaching purpose.",
+        "AI editorial status is distinct from user acceptance or trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_2410cafbb97a4c08/keyframes.jpg",
+        "reports/form-media/attempt_2410cafbb97a4c08/ai-editorial-3_5.jpg",
+        "reports/form-media/attempt_2410cafbb97a4c08/ai-editorial-4_5.jpg"
+      ],
+      "notes": "Needs review: the final permitted correction still does not make the lower-sternum endpoint readable. Preserve this version and use the separate Warm context candidate or a reviewed bottom-anchored detail; the three-attempt shot limit is reached.",
+      "suggestedEdit": "A trim could remove the late Studio dip but cannot create the missing chest-endpoint evidence. No further same-shot generation is proposed."
+    },
+    {
+      "shot": "r2-bench-illustrated-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-bench-illustrated-motion-77d71860.mp4",
+      "outputSha256": "fd68ce100cfc6f403ba379b53d942b4a8a14614531d850b235d2777f8f48da1d",
+      "sha256": "fd68ce100cfc6f403ba379b53d942b4a8a14614531d850b235d2777f8f48da1d",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:48:30+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The contact sheet and full-size 3.5- and 4.5-second samples show the shaft remaining headward, above the face/upper-chest projection, without clearly reaching the requested lower-sternum chest surface.",
+        "Both bent elbows and hands remain in frame; the visible head/back/hip support, planted feet and rigid bar remain plausible in the inspected samples.",
+        "The contact sheet shows one complete lowering and press return with a stable final top position, so cycle structure is clearer than the prior Studio clip."
+      ],
+      "limitations": [
+        "Review used the contact sheet and two selected full-size bottom-region frames, rather than continuous playback or exhaustive frame inspection.",
+        "An oblique projection does not establish a numerical bar-to-body distance or literal face contact; the visible endpoint is insufficiently clear for the requested teaching purpose.",
+        "AI editorial status is distinct from user acceptance or trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_77d71860dce64a89/keyframes.jpg",
+        "reports/form-media/attempt_77d71860dce64a89/ai-editorial-3_5.jpg",
+        "reports/form-media/attempt_77d71860dce64a89/ai-editorial-4_5.jpg"
+      ],
+      "notes": "Needs review: the final permitted correction still does not make the lower-sternum endpoint readable. Preserve this version and use the separate Warm context candidate or a reviewed bottom-anchored detail; the three-attempt shot limit is reached.",
+      "suggestedEdit": "No crop or trim can repair the unresolved chest endpoint. No further same-shot generation is proposed."
+    },
+    {
+      "shot": "r2-seated-db-press-warm-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-seated-db-press-warm-motion-b9d474f9.mp4",
+      "outputSha256": "2195fb0129241392a200aa13183f8222656dafab595a0df78089f3cc3fc4756f",
+      "sha256": "2195fb0129241392a200aa13183f8222656dafab595a0df78089f3cc3fc4756f",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:52:18+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The contact sheet shows one shoulder-height press to overhead and one return, with readable start/end holds and no additional partial cycle in the sampled sequence.",
+        "The full-size 4.5-second top frame shows comfortable overhead arm extension with weights well above the head; both complete dumbbells remain visible and their inner stubs meet while each weight retains its distinct shape.",
+        "The full-size 7.5-second frame returns both dumbbells to shoulder height. Hands keep the grips, and visible back/hip support and both grounded feet remain plausible through the inspected cycle."
+      ],
+      "limitations": [
+        "Review used the contact sheet and full-size top/return samples rather than continuous playback or exhaustive frame inspection.",
+        "The contacting inner dumbbell stubs can look briefly like a connecting bar in a small thumbnail; both independent weights and their later separation are clearer at full size.",
+        "No exact joint angle, force or clinical validation is inferred. Candidate is an AI editorial option for user review, not user acceptance or trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_b9d474f9a3074ceb/keyframes.jpg",
+        "reports/form-media/attempt_b9d474f9a3074ceb/ai-editorial-4_5.jpg",
+        "reports/form-media/attempt_b9d474f9a3074ceb/ai-editorial-7_5.jpg"
+      ],
+      "notes": "Candidate: the corrected timing and overhead endpoint resolve the previous bent-elbow hover and late partial repetition in the inspected sequence. Preserve the prior attempt and its separate needs-review status."
+    },
+    {
+      "shot": "r2-seated-db-press-illustrated-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-seated-db-press-illustrated-motion-be30a407.mp4",
+      "outputSha256": "682532640bc2394ca10891fa0316e2062db3c5f6fa2c2828cff4dadf07132539",
+      "sha256": "682532640bc2394ca10891fa0316e2062db3c5f6fa2c2828cff4dadf07132539",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:55:24+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The contact sheet shows a partial overhead raise and return before the main complete press, so the raw eight-second clip contains more than the requested one cycle.",
+        "Full-size 3.0, 3.1, 3.2, 3.25 and 3.5-second samples identify the shoulder-height turning point near 3.2 seconds before the main upward press.",
+        "The 4.5-second full-size frame shows clear comfortable overhead extension and two distinct dumbbells meeting at their inner stubs; the 6.5-second sample returns to the shoulder-height position with both feet grounded and torso supported."
+      ],
+      "limitations": [
+        "Review used a contact sheet and selected full-size endpoint samples rather than continuous playback or exhaustive frame inspection.",
+        "No exact joint angle or clinical/trainer validation is inferred; user acceptance remains separate."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_be30a407e1a0463a/keyframes.jpg",
+        "reports/form-media/attempt_be30a407e1a0463a/ai-editorial-3_0.jpg",
+        "reports/form-media/attempt_be30a407e1a0463a/ai-editorial-3_1.jpg",
+        "reports/form-media/attempt_be30a407e1a0463a/ai-editorial-3_2.jpg",
+        "reports/form-media/attempt_be30a407e1a0463a/ai-editorial-3_25.jpg",
+        "reports/form-media/attempt_be30a407e1a0463a/ai-editorial-3_5.jpg",
+        "reports/form-media/attempt_be30a407e1a0463a/ai-editorial-4_5.jpg",
+        "reports/form-media/attempt_be30a407e1a0463a/ai-editorial-6_5.jpg",
+        "reports/form-media/attempt_be30a407e1a0463a/ai-editorial-6_8.jpg"
+      ],
+      "suggestedEdit": "Trim source 3.2–6.5 seconds at original speed, adding 0.35-second still holds at each endpoint, then review the exact derivative separately.",
+      "notes": "Needs review for the extra preliminary partial movement. The main full press has a plausible visible overhead endpoint and may be isolated without generation credits."
+    },
+    {
+      "shot": "r2-seated-db-press-illustrated-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-seated-db-press-illustrated-motion-trim-v1.mp4",
+      "outputSha256": "7c916330337be9d8c43e37b561709bdaa42cb59294c5612294b3f03c87df60c7",
+      "sha256": "7c916330337be9d8c43e37b561709bdaa42cb59294c5612294b3f03c87df60c7",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:56:02+00:00",
+      "userAcceptance": "not-assessed",
+      "provenanceFile": "form-media/edits.json",
+      "evidence": [
+        "The derivative half-second contact sheet shows one complete shoulder-height press and return, with the preliminary partial movement removed.",
+        "The full-size 1.65-second top sample preserves clear comfortable overhead extension and two independently shaped dumbbells meeting at their inner stubs; both hands and all weights stay inside the frame.",
+        "The shoulders return to the starting height, with visible supported back/hips and grounded feet maintained in the inspected sequence. The source 3.2–6.5-second interval plays at original speed with brief 0.35-second still endpoint holds."
+      ],
+      "limitations": [
+        "Review used the derivative contact sheet and a full-size top sample, supported by the source endpoint inspection; this is not continuous playback or exhaustive frame validation.",
+        "Meeting dumbbell stubs can resemble a short connecting bar at thumbnail size, although each weight remains distinct and later separates.",
+        "Candidate means an AI editorial option for user review, not user acceptance or trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-seated-db-press-illustrated-motion-trim-v1/keyframes.jpg",
+        "reports/form-media/r2-seated-db-press-illustrated-motion-trim-v1/ai-editorial-top.jpg"
+      ],
+      "notes": "Candidate: this zero-credit edit isolates the useful complete press and return. The raw eight-second corrective clip remains needs-review for its preliminary partial repetition."
+    },
+    {
+      "shot": "r2-machine-chest-press-illustrated-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-machine-chest-press-illustrated-motion-341abd9e.mp4",
+      "outputSha256": "6e347832e8ad668f0542b0eb9093ac0b9acba6d8872374dd3d57539dbdcb50dd",
+      "sha256": "6e347832e8ad668f0542b0eb9093ac0b9acba6d8872374dd3d57539dbdcb50dd",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:57:34+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The wider landscape composition keeps both full hands, handles and elbows visible at the full-size 2.0-second first extension, resolving the previous portrait edge crop.",
+        "The first cycle returns to the chest-height bent-elbow pose by 3.2 seconds. The contact sheet and 4.5-second frame then show a second press before another return at 6.5 seconds.",
+        "The visible torso stays supported and the hands maintain their grips on handles attached to coherent visible lever arms through the inspected samples. The first 2.0-second extension is clearer and fuller than the second sampled press."
+      ],
+      "limitations": [
+        "Review used a contact sheet and selected full-size first extension, return and second-cycle samples rather than continuous playback or exhaustive frame inspection.",
+        "The intentional upper-body detail omits lower legs and complete machine pivots; full-body setup and full hidden mechanism continuity cannot be established from this crop.",
+        "No exact elbow angle or trainer validation is inferred; user acceptance remains separate."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/attempt_341abd9e898c4f23/keyframes.jpg",
+        "reports/form-media/attempt_341abd9e898c4f23/ai-editorial-2_0.jpg",
+        "reports/form-media/attempt_341abd9e898c4f23/ai-editorial-3_2.jpg",
+        "reports/form-media/attempt_341abd9e898c4f23/ai-editorial-4_5.jpg",
+        "reports/form-media/attempt_341abd9e898c4f23/ai-editorial-6_5.jpg"
+      ],
+      "suggestedEdit": "Isolate the clearer first cycle with source 0–3.2 seconds and brief endpoint holds at original speed, then review the exact derivative separately.",
+      "notes": "Needs review only for the repeated-cycle structure in this sampled assessment. The wider composition repairs the previous missing-hand evidence, and the first complete press/return is a plausible zero-credit edit candidate."
+    },
+    {
+      "shot": "r2-machine-chest-press-illustrated-motion",
+      "outputPath": "form-media/assets/delivery/round-2/r2-machine-chest-press-illustrated-motion-trim-v1.mp4",
+      "outputSha256": "10866b23ff1d19ed905182d6825eeefe4842001a8bdc48662c783a26c1278858",
+      "sha256": "10866b23ff1d19ed905182d6825eeefe4842001a8bdc48662c783a26c1278858",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "motion-ai-editorial",
+      "reviewedAt": "2026-09-10T13:58:20+00:00",
+      "userAcceptance": "not-assessed",
+      "provenanceFile": "form-media/edits.json",
+      "evidence": [
+        "The derivative contact sheet shows one forward machine press and return, omitting the second repetition in the raw source.",
+        "The full-size 2.25-second extension sample keeps both hands, handles, elbows and shoulders visible, with a supported torso and coherent visible lever connections.",
+        "The full-size 3.45-second endpoint shows the completed chest-height return held still. The source 0–3.2-second interval plays at original speed with 0.25-second still holds at both ends."
+      ],
+      "limitations": [
+        "Review used the derivative contact sheet and full-size extension/return samples rather than continuous playback or exhaustive frame inspection.",
+        "This intentional upper-body detail does not show lower-leg support or complete hidden machine pivots; setup context remains separate.",
+        "Candidate means an AI editorial option for user review, not user acceptance or trainer approval."
+      ],
+      "evidenceFiles": [
+        "reports/form-media/r2-machine-chest-press-illustrated-motion-trim-v1/keyframes.jpg",
+        "reports/form-media/r2-machine-chest-press-illustrated-motion-trim-v1/ai-editorial-2_25.jpg",
+        "reports/form-media/r2-machine-chest-press-illustrated-motion-trim-v1/ai-editorial-3_45.jpg"
+      ],
+      "notes": "Candidate: this zero-credit first-cycle edit preserves the wider hand-travel framing and provides a complete supported press/return. The raw repeated-cycle version remains separately needs-review."
+    },
+    {
+      "shot": "r2-bench-warm-detail-start",
+      "outputPath": "form-media/assets/masters/r2-bench-warm-detail-start/attempt_2d7fe80114a84b62.jpg",
+      "outputSha256": "3ee1cc1c7c00c5fbe38fad9c82a50408fe03ff576d9d2d09a406e22e6b826feb",
+      "sha256": "3ee1cc1c7c00c5fbe38fad9c82a50408fe03ff576d9d2d09a406e22e6b826feb",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T13:59:48+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The exact corrected master bends the elbows but keeps the shaft above the face/upper-chest projection with a visible gap above the chest surface; it does not depict the requested bar-at-lower-sternum bottom position.",
+        "The near elbow is now inside the lower edge, but only with a thin margin rather than the requested useful lower travel margin.",
+        "The head and upper back remain visibly supported, the closed grips are readable and the Warm ceramic identity is preserved; these improvements do not establish the required starting endpoint."
+      ],
+      "limitations": [
+        "This is a still-reference assessment; no motion from this exact hash has been inspected or claimed.",
+        "The oblique view does not permit exact body/bar measurements, but the missing visible chest endpoint is directly relevant to the bottom-anchored motion prompt.",
+        "AI reference review is distinct from user acceptance or trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Do not animate the bottom-to-top-to-bottom prompt from this hash: it would return to the same elevated endpoint.",
+        "Any remaining reference correction must make the lower-sternum shaft contact visible and provide more room below the near elbow while preserving complete overhead extension room."
+      ],
+      "notes": "Needs review before paid motion. The image did not adopt the defining bottom-position contact, so the exact-reference gate must remain closed despite improved elbow visibility."
+    },
+    {
+      "shot": "r2-bench-warm-detail-start",
+      "outputPath": "form-media/assets/masters/r2-bench-warm-detail-start/attempt_ae00ed7f6a0849f4.jpg",
+      "outputSha256": "87ce6210079c5f680a7d293ceea9cee08dbe78551d3be5b6a9a013884346d100",
+      "sha256": "87ce6210079c5f680a7d293ceea9cee08dbe78551d3be5b6a9a013884346d100",
+      "status": "needs-review",
+      "reviewerType": "ai",
+      "reviewKind": "starting-frame-ai-editorial",
+      "reviewedAt": "2026-09-10T14:08:02+00:00",
+      "userAcceptance": "not-assessed",
+      "evidence": [
+        "The unloaded shaft now appears to meet the visible lower-chest surface, a substantial improvement over the prior elevated/headward references. The closed near grip and neutral-looking wrist are readable.",
+        "The near elbow is fully visible below the torso with useful space beneath it, while the head, upper back and hips visibly remain on the bench.",
+        "The figure and bent near arm occupy a large proportion of the image. Relative to the visible upper-arm and forearm lengths, the space above the current bar is unlikely to contain a complete overhead arm extension at this fixed scale.",
+        "The far grip and forearm are visible, but the far elbow is occluded by the torso rather than independently readable."
+      ],
+      "limitations": [
+        "The overhead clipping concern is a movement-envelope inference from this still, not an observed failure of a video generated from this hash.",
+        "The oblique view does not establish exact joint angles or contact forces. The improved bottom pose can be considered as a static detail, separately from motion readiness.",
+        "AI editorial review is distinct from user acceptance or trainer approval."
+      ],
+      "animationReviewFocus": [
+        "Do not submit the full bottom-press-return motion from this hash without resolving the overhead movement envelope.",
+        "The third and final starting-image attempt has been used; stop generation for this detail this round and retain the improved bottom image for static review or future planning."
+      ],
+      "notes": "Needs review for motion readiness despite a much clearer bottom-contact pose. Near-elbow clearance improved, but complete overhead extension room and independent far-elbow visibility remain unresolved. This is not a claim that a generated motion from this hash failed."
+    },
+    {
+      "shot": "r2-bench-warm-detail-start",
+      "outputPath": "form-media/assets/masters/r2-bench-warm-detail-start/attempt_ae00ed7f6a0849f4.jpg",
+      "outputSha256": "87ce6210079c5f680a7d293ceea9cee08dbe78551d3be5b6a9a013884346d100",
+      "sha256": "87ce6210079c5f680a7d293ceea9cee08dbe78551d3be5b6a9a013884346d100",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewKind": "still-ai-editorial",
+      "reviewedAt": "2026-09-10T14:09:47+00:00",
+      "userAcceptance": "not-assessed",
+      "presentationRole": "static-detail",
+      "deliveryPath": "form-media/assets/delivery/round-2/r2-bench-warm-detail-start-ae00ed7f.webp",
+      "deliverySha256": "6a5b2fcf6f9ad1896a53ca5c5541003b8c773d46f49735f64ea90703503001d8",
+      "evidence": [
+        "The exact master and compressed WebP delivery visibly show the unloaded shaft meeting the chest surface, with the complete bent near elbow below the torso and a readable near wrist/grip.",
+        "The supported head, upper back and hips give useful context for this single bottom-position view; the simple Warm ceramic rendering keeps the near-arm geometry and bar/chest relationship readable.",
+        "The 29,092-byte delivery preserves the useful visible details at the same 1376-by-768 dimensions as the master."
+      ],
+      "limitations": [
+        "The far elbow is hidden by the torso; this still cannot independently demonstrate both elbow positions or bilateral symmetry.",
+        "Foot placement, lower-leg support, unracking and the complete setup are outside the detail. Pair it with written setup cues and the separate expert reference.",
+        "The oblique contact image does not establish an exact anatomical contact point, joint angle, pressure or trainer validation.",
+        "This is a static-only candidate. The earlier insufficient overhead movement-envelope assessment is preserved, and candidate is not ready-to-animate. User acceptance remains unassessed."
+      ],
+      "notes": "Candidate for static bottom-position teaching only: useful bar-at-chest and near-arm detail, with explicit limitations. Keep the motion gate closed and retain the earlier needs-review reference assessment in full."
+    }
+  ]
+}

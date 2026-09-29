@@ -1,0 +1,98 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "shot": "r9-ex-front-squat-start",
+      "exerciseId": "ex_front_squat",
+      "outputPath": "form-media/assets/masters/r9-ex-front-squat-start/attempt_9bf7db0f2ae24020.jpg",
+      "evidence": [
+        "Both elbows hang well below the shoulders with the upper arms sloping down, instead of the high forward elbows needed to establish a stable front-rack demonstration.",
+        "The pose is a shallow-to-mid squat: hip height remains above the knees and the thighs are inclined, so it does not establish the deliberately requested lowered anchor. This is a prompt-target failure, not a claim that every person must use a fixed squat depth.",
+        "The right end of the bar is cropped. The feet and squat rack are visible and the primary orange areas follow the front thighs, but these useful features do not repair the elbow and endpoint problems."
+      ],
+      "limitations": [
+        "Single-frame AI editorial inspection, not trainer verification or proof of motion.",
+        "The later motion cannot be assumed to correct a starting frame with low elbows."
+      ],
+      "notes": "Needs correction before animation: raised forward elbows, a clearly lowered squat endpoint and the complete bar inside the frame. Staged a shorter corrected reference prompt.",
+      "proposedPromptFile": "reports/round-9-preparation/r9-ex-front-squat-start-corrected.txt",
+      "outputSha256": "a882bce838264000a947159ae75d6daca3eee5fddfcd18d685cfacfb73b04dde",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T19:53:30+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "roundId": "round-9"
+    },
+    {
+      "shot": "r9-ex-skullcrusher-start",
+      "exerciseId": "ex_skullcrusher",
+      "outputPath": "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_88483264583a4213.jpg",
+      "evidence": [
+        "The elbows are nearly fully extended with the bar above the torso/head region. That can be a recognizable ordinary skullcrusher starting position, but it misses the flexed lower-position anchor explicitly required to address the prior missing range.",
+        "The visible orange areas cover broad inner-facing upper-arm surfaces and do not clearly isolate the posterior triceps from the adjacent anterior/biceps region. A correction should identify the backs of the upper arms and leave biceps, elbows and forearms gray.",
+        "Head and torso are supported by the bench, the whole bar is visible and there is overhead room. The farther foot is outside the view; this is a framing limitation rather than the reason to reject this elbow-focused reference.",
+        "The original brief combines vertical upper arms, a roughly90-degree elbow bend and a bar a few centimeters above the forehead. That geometry is inconsistent at normal limb lengths. The staged correction instead requests deep flexion with forearms sloping down toward the forehead and a clear facial gap."
+      ],
+      "limitations": [
+        "Single-frame AI editorial inspection; apparent muscle placement is judged from visible surface anatomy and camera angle, not a labeled anatomical mesh.",
+        "No assertion that an extended-arm pose is inherently incorrect; it is unsuitable for this specific corrective reference strategy."
+      ],
+      "notes": "Needs correction before animation: establish the actual flexed lower endpoint and clearly posterior triceps illumination. The existing supported extended-arm pose remains preserved for history.",
+      "proposedPromptFile": "reports/round-9-preparation/r9-ex-skullcrusher-start-corrected.txt",
+      "outputSha256": "e065caa802d3afce17fa5395d2c97ca2c2d4ea5c551c823626083bd2d96fa08e",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T19:53:30+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "roundId": "round-9"
+    },
+    {
+      "shot": "r9-ex-front-squat-start",
+      "exerciseId": "ex_front_squat",
+      "outputPath": "form-media/assets/masters/r9-ex-front-squat-start/attempt_c71c3268e7c34673.jpg",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected side view establishes a clearly lowered squat near thigh-parallel, with both feet planted and the front-loaded bar resting at the front shoulders.",
+        "Elbows now project forward at an elevated angle and the upper arms are much closer to horizontal than the earlier rejected reference. The bar is foreshortened by the side view, which is expected rather than a missing-apparatus defect.",
+        "Primary quadriceps bellies are clearly orange. An additional posterior-thigh region is orange; hamstrings are secondary muscles in the current catalog, so this alone does not block this practical reference.",
+        "The rack and safety structure are recognizable and remain below the working bar. This is usable for one rise to standing and return to the same bottom pose."
+      ],
+      "limitations": [
+        "Reference readiness permits animation; it is not approval of an unseen generated movement or trainer review.",
+        "Standing-phase headroom is relatively tight and must be checked in the generated motion. Full knee/hip extension, front-rack support and the exact lower return still require motion review."
+      ],
+      "notes": "Ready to animate the actual lowered pose: bottom → full standing → same bottom, once, then still hold. Matching motion brief is staged; preserve practical tolerance for side-view bar foreshortening.",
+      "proposedPromptFile": "reports/round-9-preparation/r9-ex-front-squat-motion-reference-brief.txt",
+      "outputSha256": "f2b63ace9711b6a827b24feaf028e11565af94b299c48c57a162e309abe9ccf5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T19:57:39+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "roundId": "round-9"
+    },
+    {
+      "shot": "r9-ex-skullcrusher-start",
+      "exerciseId": "ex_skullcrusher",
+      "outputPath": "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_647bf0bee92c4d5b.jpg",
+      "status": "needs-correction",
+      "evidence": [
+        "The bar remains high with the elbows extended, rather than the requested deeply flexed lower endpoint. An extended-arm pose can be a valid ordinary start and is not inherently the reason to block it.",
+        "A visible gap/shadow remains between the back of the head and the bench surface; the head appears lifted instead of resting on the support. Animating this as a fixed reference risks teaching persistent head lifting.",
+        "Both hands and the full bar are visible, and there is room to lower toward the forehead. Orange remains confined to the upper-arm region, but this angle and stylized muscle rendering do not make exclusive posterior-triceps isolation certain."
+      ],
+      "limitations": [
+        "Single-frame AI editorial judgment; no motion has been generated from this reference and no trainer validation is claimed.",
+        "Feet outside a close elbow-focused frame are not an automatic failure; the substantive hold is the head-support concern."
+      ],
+      "notes": "Do not clear this reference yet. An extended-start motion could be acceptable if head support is made unambiguous; then use bar-high → controlled forehead approach with elbows fixed → bar-high. Do not describe the present still as the missing flexed endpoint or assume animation repairs the lifted head.",
+      "outputSha256": "6f785e05b1a87bc172d94aedb0e31f33f2873fefd00c163d061e0ef4159fc3a9",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T19:57:39+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "roundId": "round-9"
+    }
+  ]
+}

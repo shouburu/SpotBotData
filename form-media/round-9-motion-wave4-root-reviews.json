@@ -1,0 +1,193 @@
+{
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "exerciseId": "open_smith_machine_calf_ra_ccc5bca6",
+      "shot": "r9-open-smith-machine-calf-ra-ccc5bca6-motion",
+      "assetId": "r9-open-smith-machine-calf-ra-ccc5bca6-motion-22fea54f",
+      "attemptId": "attempt_22fea54f691e4287",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-machine-calf-ra-ccc5bca6-motion-22fea54f.mp4",
+      "outputSha256": "03faea5c9d192b91a36b62702680366c93fd8487bf86a3fa23b3f873e1ae2f76",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:44:37+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "Dense ordered 3fps samples show the knees visibly bend and hips move back as the heels lower, followed by a second knee-bending pulse. This is not isolated ankle motion.",
+        "Shoulder bar contact, visible heel lifting and orange calf coloring are present, but no complete cycle preserves the required stable knee angle."
+      ],
+      "limitations": [
+        "Sampled exact delivery frames; not continuous playback or trainer review."
+      ],
+      "nextApproach": "Compare the already queued six-second knee-to-foot Standing Machine Calf trial before choosing a close reference or a bounded different-model Smith calf correction."
+    },
+    {
+      "exerciseId": "open_smith_single_leg_spli_c8f7e55e",
+      "shot": "r9-open-smith-single-leg-spli-c8f7e55e-motion",
+      "assetId": "r9-open-smith-single-leg-spli-c8f7e55e-motion-695f67ac",
+      "attemptId": "attempt_695f67ac14464db1",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-single-leg-spli-c8f7e55e-motion-695f67ac.mp4",
+      "outputSha256": "bacb34af50bbad9f55535d78da74a43546a6b17103a6f256bedd532b59b0e20e",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:49:36+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "The bar now stays on the upper back with stable grips and the rear foot stays on the bench.",
+        "Dense3fps samples show repeated shallow rises/dips. Full-resolution3.333s peak confirms the front knee remains substantially bent; a complete standing top is missing."
+      ],
+      "limitations": [
+        "Sampled exact delivery plus full-resolution peak; not continuous playback or trainer review."
+      ],
+      "nextApproach": "Make the missing high stance explicit in a free source, then use a six-second high-to-low-to-high cycle."
+    },
+    {
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r9-open-cable-wrist-curl-a1feb456-motion",
+      "assetId": "r9-open-cable-wrist-curl-a1feb456-motion-fac44554",
+      "attemptId": "attempt_fac44554346e4584",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-cable-wrist-curl-a1feb456-motion-fac44554.mp4",
+      "outputSha256": "d47552f5da269933a3df14f3b3d82c2edfb202c5bd34b24eed684c04a95873a0",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:57:09+00:00",
+      "status": "candidate",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "One clear lowered-wrist to full upward wrist-flexion and back cycle, with both forearms continuously supported on the pad.",
+        "Stable underhand grips, bar shaft and central cable attachment; orange forearm muscle cues remain visible."
+      ],
+      "limitations": [
+        "Bench-pad support is an explicit alternative to catalog thigh support; upper body and pulley are outside this wrist-detail view.",
+        "Exact sampled media inspection, not trainer approval; human review remains open."
+      ]
+    },
+    {
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-motion",
+      "assetId": "r9-open-cable-lying-triceps-e-ff29abb1-motion-5e12ec0c",
+      "attemptId": "attempt_5e12ec0c792d4216",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-cable-lying-triceps-e-ff29abb1-motion-5e12ec0c.mp4",
+      "outputSha256": "a09dc8bd5091f8af4346652bfc4566e99964a27ea450239247df6959641ccde4",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:57:09+00:00",
+      "status": "candidate",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "Both elbows extend completely from the bent pose and return to the same forehead gap in one six-second cycle.",
+        "Upper arms stay raised above the shoulders; the same bar grips, fixed floor pulley, bench support and orange triceps persist."
+      ],
+      "limitations": [
+        "Original full-body framing is relatively wide; a separately inspected closer crop is preferred.",
+        "Exact sampled media inspection, not trainer approval; human review remains open."
+      ]
+    },
+    {
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-motion",
+      "assetId": "r9-cable-lying-triceps-complete-cycle-close",
+      "attemptId": "attempt_5e12ec0c792d4216",
+      "outputPath": "form-media/assets/delivery/round-9/r9-cable-lying-triceps-complete-cycle-close.mp4",
+      "outputSha256": "1ec6b2a567e2a93fb57f8dc46e19a5f9db0e5723f7de73b2f8b03b14bc4a4df1",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T00:57:09+00:00",
+      "status": "candidate",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "Exact six-second cropped derivative retains the original complete extension and bent-elbow return, without speed changes or invented motion.",
+        "Ordered derivative frames and final full-resolution frame retain all relevant joints, both grips, cable/pulley, supported torso and feet; triceps cues stay legible."
+      ],
+      "limitations": [
+        "Fixed crop only; original full-quality master and uncropped delivery remain preserved.",
+        "Exact sampled media inspection, not trainer approval; human review remains open."
+      ]
+    },
+    {
+      "exerciseId": "open_seated_palm_up_barbel_87a8d029",
+      "shot": "r9-open-seated-palm-up-barbel-87a8d029-motion",
+      "attemptId": "attempt_f2e4079cd1e142bf",
+      "assetId": "r9-open-seated-palm-up-barbel-87a8d029-motion-f2e4079c",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-seated-palm-up-barbel-87a8d029-motion-f2e4079c.mp4",
+      "outputSha256": "e6333e61b668491d0788ee11395562e71de01ab7107297f5e3e0c00f4559bc91",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:05:22+00:00",
+      "status": "candidate",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "Dense ordered three-frame-per-second samples show one full palms-up wrist flexion and identical lowered-wrist return, with no second repetition.",
+        "Both forearms remain on the pad, elbows stay fixed, fingers hold a single stable bar throughout, and orange forearm involvement remains legible."
+      ],
+      "limitations": [
+        "Pad support is an explicit alternative to catalog thigh support; this close view emphasizes hands and forearms.",
+        "Exact sampled delivery inspection, not continuous playback or trainer approval; human decision remains open."
+      ]
+    },
+    {
+      "exerciseId": "open_seated_palms_down_bar_c6486466",
+      "shot": "r9-open-seated-palms-down-bar-c6486466-motion",
+      "attemptId": "attempt_4151ff4336eb419e",
+      "assetId": "r9-open-seated-palms-down-bar-c6486466-motion-4151ff43",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-seated-palms-down-bar-c6486466-motion-4151ff43.mp4",
+      "outputSha256": "49d025790dd59ff1b6a5a3c6aef502bd522626535d2f954d9dd9452c4cb0f1fc",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:08:21+00:00",
+      "status": "candidate",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "One six-second palms-down wrist extension and complete lowered-hand return, with a readable peak and no extra repetition.",
+        "Both forearms and elbows remain supported; the same bar and closed grips persist and the orange extensor surfaces remain visible."
+      ],
+      "limitations": [
+        "Wrist-detail view uses pad support instead of thigh support; upper-body setup remains in text.",
+        "Ordered exact delivery samples, not continuous playback or trainer approval."
+      ]
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-motion",
+      "attemptId": "attempt_f7ac1c7ed4de4b05",
+      "assetId": "r9-ex-reverse-pec-deck-motion-f7ac1c7e",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-reverse-pec-deck-motion-f7ac1c7e.mp4",
+      "outputSha256": "de53c4c5710f01f24567bebdbc38cd5e47df4109727d602fbdc814fbc51486aa",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:08:21+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "The open endpoint and orange posterior deltoids are clear, but the elbows bend substantially as the handles move forward. Full-resolution3s shows hands close to shoulders with a pronounced near elbow bend, rather than a long-arm horizontal arc.",
+        "The exercise changes into a row/press-like elbow action during the supposed return; this cannot be salvaged by trimming the cycle."
+      ],
+      "limitations": [
+        "Rear view partially occludes the far elbow; the near elbow failure is visible in full-resolution detail.",
+        "Ordered exact delivery samples, not continuous playback or trainer approval."
+      ]
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-motion",
+      "attemptId": "attempt_83f8d7b15e1e4210",
+      "assetId": "r9-ex-cable-fly-motion-83f8d7b1",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-cable-fly-motion-83f8d7b1.mp4",
+      "outputSha256": "81f5c5a613df7e0cc1cc62f922d8272f092dd3f787aec4aefe82771abdaf6183",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T01:10:42+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "Two cycles appear; more importantly, the elbow angle changes from nearly straight when wide to strongly bent when closed. Exact2s and3.67s detail frames show the near upper arm dropping beside the torso while its forearm comes forward.",
+        "This is not the fixed soft elbow bend of a fly. Trimming the first complete cycle would retain the wrong joint action. Cable/handle contact and chest glow are otherwise stable."
+      ],
+      "limitations": [
+        "Sampled exact delivery plus full-resolution endpoint details, not continuous playback or trainer approval."
+      ]
+    }
+  ]
+}

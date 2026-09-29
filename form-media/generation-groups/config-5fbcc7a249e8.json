@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-leverage-decline-ches-adfbca13-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-decline-ches-adfbca13-start-02519aa3.json"
+    },
+    {
+      "shot": "r9-open-leverage-incline-ches-0c70165e-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-incline-ches-0c70165e-start-b1ab36a1.json"
+    },
+    {
+      "shot": "r9-open-standing-cable-chest--ddb29d76-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-cable-chest--ddb29d76-start-5621e916.json"
+    },
+    {
+      "shot": "r9-open-one-legged-cable-kick-20e79891-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-one-legged-cable-kick-20e79891-start-e2f1671f.json"
+    }
+  ]
+}

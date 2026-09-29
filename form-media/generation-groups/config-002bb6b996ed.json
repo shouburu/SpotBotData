@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-inverted-row-1ce9a06f-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-inverted-row-1ce9a06f-start-6446cae7.json"
+    },
+    {
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-pec-deck-start-e9a077dc.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-lying-pronat-95605e7c-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lying-pronat-95605e7c-start-4f41668d.json"
+    },
+    {
+      "shot": "r9-open-dumbbell-clean-45633ce4-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-clean-45633ce4-start-801dc2b5.json"
+    }
+  ]
+}

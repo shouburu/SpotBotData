@@ -1,0 +1,16 @@
+{
+  "members": [
+    {
+      "shot": "r8-ex-deadlift-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-deadlift-motion-1811ee7e.json"
+    },
+    {
+      "shot": "r8-ex-dumbbell-shoulder-press-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-dumbbell-shoulder-press-motion-8de52e20.json"
+    },
+    {
+      "shot": "r8-ex-front-raise-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-front-raise-motion-3f993c57.json"
+    }
+  ]
+}

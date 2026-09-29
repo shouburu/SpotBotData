@@ -1,0 +1,60 @@
+{
+  "id": "group_b3c20a0e1b6e4279",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T04:50:05+00:00",
+  "balanceBefore": 8450,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_cable_lateral_raise",
+      "shot": "r8-ex-cable-lateral-raise-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "8682b0d8513e9143f85d8a80847bd9ffecebd0076a24dd22332c17506fbc23cd",
+      "quoteFile": "form-media/ui-quotes/r8-ex-cable-lateral-raise-start-d02444f0.json",
+      "quoteSha256": "8314c2a71d5228b4d5695a3629f54a9557b474c5e881073f9d881a8ac9c5617f",
+      "quoteCredits": 0,
+      "balance": 8450,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r8-ex-dumbbell-fly-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "393d78322ac5d15a07936cfe0bc957cbb45cb74e0dfc52bb50aa1554832833bf",
+      "quoteFile": "form-media/ui-quotes/r8-ex-dumbbell-fly-start-2f1d144d.json",
+      "quoteSha256": "8a8c3248691471c4d27135a60b2e5c67592587a2906ad3ee04aab260ae461619",
+      "quoteCredits": 0,
+      "balance": 8450,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_tricep_kickback",
+      "shot": "r8-ex-tricep-kickback-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "3e741d6fd05f5b2e81ef0dda74a5620db8d171d6a95bff0c163169d05fd279a4",
+      "quoteFile": "form-media/ui-quotes/r8-ex-tricep-kickback-start-0c625b26.json",
+      "quoteSha256": "623f3e7efa3ecd0535465bf8dc0764ada5a89c076a3c247679137b939c521df4",
+      "quoteCredits": 0,
+      "balance": 8450,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_front_squat",
+      "shot": "r8-ex-front-squat-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "9ba941212a0e8214651b16d2900f0e26d4a4f110a46c3173e5799ae710ae8ff1",
+      "quoteFile": "form-media/ui-quotes/r8-ex-front-squat-start-cd43f621.json",
+      "quoteSha256": "9d814215604407aa51881202747c1308d5e501c54e59fc2f16af5614b1e6b58c",
+      "quoteCredits": 0,
+      "balance": 8450,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T04:51:26+00:00",
+  "balanceAfter": 8450,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-d7f122f607504ec6.json",
+  "evidenceSha256": "9b1f6ea46fdbe9921924b5635c7c7a4dae0635b7cafe3f37ff029f3cd2b6ae7f"
+}

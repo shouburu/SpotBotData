@@ -1,0 +1,60 @@
+{
+  "id": "group_817a664ce8c84b35",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:23:19+00:00",
+  "balanceBefore": 8162,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_barbell_curls_lying_a_583ae142",
+      "shot": "r8-open-barbell-curls-lying-a-583ae142-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "465310f1063a8e99e75d8aa5aef16eec039012ac0923105975425ca90fa64b35",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-curls-lying-a-583ae142-start-e42b8651.json",
+      "quoteSha256": "b532afb9d433f4cdbf3a12ea31adb6d8baf9c1dc14931ec862a1efed8498091b",
+      "quoteCredits": 0,
+      "balance": 8162,
+      "references": []
+    },
+    {
+      "exerciseId": "open_barbell_hack_squat_3ece9677",
+      "shot": "r8-open-barbell-hack-squat-3ece9677-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "cee4e8418a1a3157a74f5761268f3546847518530b747ef51f9d406ac58d2006",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-hack-squat-3ece9677-start-43f80bb0.json",
+      "quoteSha256": "e802731fe5016949734c55e293e566e8e01aabc3834d2d3f75fb03a0407f9f3a",
+      "quoteCredits": 0,
+      "balance": 8162,
+      "references": []
+    },
+    {
+      "exerciseId": "open_barbell_incline_bench_b61b23bf",
+      "shot": "r8-open-barbell-incline-bench-b61b23bf-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "e19aad67fb0dae8e6175603c8bcfcfdc10e6ea3da234b616bda11628cbf1df32",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-incline-bench-b61b23bf-start-4b5b6c4f.json",
+      "quoteSha256": "005a9ecaec56aa4b1ad4c3424a7350774d70638043bf3b2a8b47c74c5b7d63c9",
+      "quoteCredits": 0,
+      "balance": 8162,
+      "references": []
+    },
+    {
+      "exerciseId": "open_barbell_incline_shoul_672ee504",
+      "shot": "r8-open-barbell-incline-shoul-672ee504-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "29aea1dd9f9b61129ad87acc9871140beaadfff97e6b4d92db358a689f831ecd",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-incline-shoul-672ee504-start-d40d59b5.json",
+      "quoteSha256": "89b0d70c11fa5309f9225ab05f9eb760b1647ea762f06cb05ea014338d4e50a4",
+      "quoteCredits": 0,
+      "balance": 8162,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:24:29+00:00",
+  "balanceAfter": 8162,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-72e71c6d72d5432f.json",
+  "evidenceSha256": "15f8800de3af1f3e665443ed5ca8b0d5774473759de521f54632ec25bc05f631"
+}

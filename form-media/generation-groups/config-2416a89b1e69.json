@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-skullcrusher-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-motion-b02d6c12.json"
+    },
+    {
+      "shot": "r9-ex-dumbbell-fly-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-dumbbell-fly-motion-4069c4e7.json"
+    },
+    {
+      "shot": "r9-ex-machine-chest-press-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-machine-chest-press-motion-f0e6d94a.json"
+    },
+    {
+      "shot": "r9-ex-romanian-deadlift-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-romanian-deadlift-motion-94fed00a.json"
+    }
+  ]
+}

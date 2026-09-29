@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "SpotBot normalized standard catalog",
-  "description": "One editable launch source. build_catalog.py additionally enforces current identities, source provenance, actual editorial evidence, storage bounds and 27 starter references.",
+  "description": "One editable launch source. build_catalog.py additionally enforces current identities, source provenance, actual editorial evidence, storage bounds and 21 starter references.",
   "type": "object",
   "properties": {
     "schemaVersion": {
@@ -42,12 +42,92 @@
           "items": {
             "type": "object"
           }
+        },
+        "retiredExercises": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "canonicalId": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,35}$"
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 100
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "retiredAt": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 40
+              },
+              "revision": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "required": [
+              "canonicalId",
+              "name",
+              "reason",
+              "retiredAt",
+              "revision"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "retiredStarterWorkouts": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "canonicalId": {
+                "type": "string",
+                "pattern": "^[A-Za-z0-9][A-Za-z0-9._-]{0,35}$"
+              },
+              "name": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 100
+              },
+              "reason": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 1000
+              },
+              "retiredAt": {
+                "type": "string",
+                "minLength": 1,
+                "maxLength": 40
+              },
+              "revision": {
+                "type": "integer",
+                "minimum": 1
+              }
+            },
+            "required": [
+              "canonicalId",
+              "name",
+              "reason",
+              "retiredAt",
+              "revision"
+            ],
+            "additionalProperties": false
+          }
         }
       },
       "required": [
         "authoringPolicy",
         "aliasOmissions",
-        "duplicateCandidateReviews"
+        "duplicateCandidateReviews",
+        "retiredExercises",
+        "retiredStarterWorkouts"
       ],
       "additionalProperties": false
     },
@@ -61,7 +141,7 @@
     "redirects": {
       "type": "object",
       "maxProperties": 0,
-      "description": "Empty transport field for the clean launch catalog; no retired identities are retained."
+      "description": "Empty transport identity redirects. Explicit removals are recorded in the authoring retirement ledger and never map to a different movement."
     },
     "sourceDecisions": {
       "type": "array",
@@ -79,8 +159,8 @@
     },
     "starterWorkouts": {
       "type": "array",
-      "minItems": 27,
-      "maxItems": 27,
+      "minItems": 21,
+      "maxItems": 21,
       "items": {
         "$ref": "#/definitions/starter"
       }

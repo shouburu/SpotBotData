@@ -1,0 +1,82 @@
+{
+  "id": "group_6ca6765585424ae1",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T02:02:32+00:00",
+  "balanceBefore": 5817,
+  "quotedCredits": 49,
+  "members": [
+    {
+      "exerciseId": "open_clean_5137c876",
+      "shot": "r9-open-clean-5137c876-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "14ea2e3900298e23d2ab409b53a845fc32e85e3eea9ff880ad283bba12f50ce6",
+      "quoteFile": "form-media/ui-quotes/r9-open-clean-5137c876-motion-b910b14b.json",
+      "quoteSha256": "6355fbc30a358bcde00ce31ebd2a3f4a3f3d5fd2a4203885abaa23aca7ab6455",
+      "quoteCredits": 15,
+      "balance": 5817,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-clean-5137c876-start/attempt_dd98197586384b6d.jpg",
+          "sha256": "fb39f1f0e81df2c33f3f506622bdbba301d952979aa9b13f5566ae16942fd41d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_barbell_ab_rollout_59a93cd6",
+      "shot": "r9-open-barbell-ab-rollout-59a93cd6-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "a4bcf07d718f124cc8f121517c1cc00f9779b18262a22f9efd19f5bdcbee6809",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-ab-rollout-59a93cd6-motion-e09c52a9.json",
+      "quoteSha256": "e3469a25e16f4f7f58cbec67cd18e872cf5ee1e87d497805d6f4475b68196a77",
+      "quoteCredits": 12,
+      "balance": 5817,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-barbell-ab-rollout-59a93cd6-start/attempt_b610a30206974f13.jpg",
+          "sha256": "c8356f42d569ca6509d4a25527b773ed72244b4a377d4393a1cc34e77449864f"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_cable_internal_rotati_e82490e5",
+      "shot": "r9-open-cable-internal-rotati-e82490e5-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "7b234cf2884b5b077a4c3ec0cd2a6c7a45a6b983b3a21f3e7847e25153aa956e",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-internal-rotati-e82490e5-motion-1e97d182.json",
+      "quoteSha256": "2df149cd262852bda88e82a89bacf35a2d6dd3a25f4b235c80e68853cd70816c",
+      "quoteCredits": 10,
+      "balance": 5817,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-internal-rotati-e82490e5-start/attempt_f70b18ef800946a6.jpg",
+          "sha256": "5f14c93d2d6cb5ba432693248ed7b488fca0149122c5a26d2c042364a462eee1"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "fe3ebc6af53f4958685b6b4705e6d0a739d92806d8e7bfba800a80f849f6403c",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-motion-5f12c252.json",
+      "quoteSha256": "a2467bbc2c4298d9852a247a58fb2cb339e30d580c512f7ceedcb365661cd48a",
+      "quoteCredits": 12,
+      "balance": 5817,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_331469ff9def4f71.jpg",
+          "sha256": "6e6503aa1c367b3967c17d852f8855ca127399e4eb19ccd76a3742fca23c8e5c"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T02:04:08+00:00",
+  "balanceAfter": 5768,
+  "actualCredits": 49,
+  "evidenceFile": "form-media/ui-quotes/observed-0ceeedb6f1a84dec.json",
+  "evidenceSha256": "d5ec084852f2773c29f57979410df1152aa8a55c60027e18627e072e0519c386",
+  "terminalFailureIds": []
+}

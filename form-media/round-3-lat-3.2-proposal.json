@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-3",
+  "proposalVersion": "3.2",
+  "createdAt": "2026-09-10T15:39:31+00:00",
+  "status": "proposal-only-not-submitted",
+  "exerciseId": "ex_lat_pulldown",
+  "canonicalInstructionsUnchanged": [
+    "Secure the thigh pad and grip the overhead bar.",
+    "Pull the bar toward the upper chest while keeping the torso mostly still, then let the arms extend under control."
+  ],
+  "rationale": "Both Graphic 3D motion attempts stopped near the mouth/chin despite explicit correction. A reviewed lower endpoint should anchor the missing range before the final allowed motion attempt.",
+  "referenceInspection": {
+    "graphicReference": {
+      "path": "form-media/assets/masters/r3-lat-pulldown-illustrated-start/attempt_edb49ceb940a4b94.jpg",
+      "sha256": "73169865dd9871b1965d590632feab07954cb7c09ba932936fa81866bdf6229d"
+    },
+    "studioBottomViewed": "reports/form-media/attempt_484c509d2a544d14/ai-editorial-3_5.jpg",
+    "observation": "The prior Studio sample places the bar lower than the Graphic retries, below the mouth with a readable jaw above it. It is context only; preserve the exact Round 3 Graphic reference identity, equipment and camera rather than copying Studio materials."
+  },
+  "startProposal": {
+    "shot": "r3-lat-pulldown-illustrated-start",
+    "kind": "image",
+    "model": "nano-pro",
+    "aspect": "9:16",
+    "promptVersion": "3.2",
+    "promptFile": "form-media/round-3-lat-bottom-reference-proposal-3.2.txt",
+    "promptSha256": "45ff9d3b0b2aa8d45e8873353e71d9e9a2ce1964f138d9a9bbdca724dbaf18c2",
+    "title": "Graphic 3D · Lowered position reference",
+    "alt": "Lat Pulldown shown at the completed pull, with the bar below the chin near the upper chest. This is the lower endpoint, not the exercise setup.",
+    "referenceFiles": [
+      {
+        "path": "form-media/assets/masters/r3-lat-pulldown-illustrated-start/attempt_edb49ceb940a4b94.jpg",
+        "sha256": "73169865dd9871b1965d590632feab07954cb7c09ba932936fa81866bdf6229d",
+        "role": "Exact Graphic 3D body, clothing, equipment, camera and lighting; edit only the upper-limb pose, bar height and working cable length"
+      }
+    ],
+    "reviewGates": [
+      "Exact generated master path and SHA are independently reviewed before any paid motion submission.",
+      "Bar center is visibly below the whole chin near the upper sternum/top of the navy shirt; face and jaw are clear above it.",
+      "Elbows are lower than shoulders with a natural unchanged symmetric grip; no forced wrist or elbow geometry.",
+      "Bar remains in front of the torso without penetration, and its cable attachment is continuous and taut.",
+      "Hips, pad, feet, body proportions, equipment and Graphic 3D styling remain coherent.",
+      "Full bar width and overhead return space remain in frame; no zoom or new crop.",
+      "Reuse the existing logical starting-frame shot, respecting its existing attempt count; do not create a new shot to reset the retry allowance."
+    ]
+  },
+  "motionProposal": {
+    "shot": "r3-lat-pulldown-illustrated-motion",
+    "kind": "video",
+    "model": "omni-flash",
+    "aspect": "9:16",
+    "duration": 8,
+    "promptVersion": "3.2",
+    "promptFile": "form-media/round-3-lat-motion-proposal-3.2.txt",
+    "promptSha256": "6466cf3a7a4b097762e16cb1da4185f41e4096f803668b4b860dd3e9f998b69b",
+    "referenceShot": "r3-lat-pulldown-illustrated-start",
+    "requiresExactReviewedNewBottomReference": true,
+    "title": "Graphic 3D · Release and pulldown cycle",
+    "caption": "Starts from the lowered position. Release overhead under control, then pull back toward the upper chest.",
+    "alt": "Lat Pulldown release and pulldown cycle: begins with the bar lowered near the upper chest, extends the arms overhead, then returns to the same lowered pose.",
+    "teachingCoverage": "One controlled overhead release and pull from the lowered position. The canonical Form text retains the overhead setup instructions.",
+    "reviewGates": [
+      "Use the same logical motion shot: this would be attempt 3, the final permitted attempt after two existing completed attempts.",
+      "Verify the current live quote and reserve against the cumulative budget only after the exact new bottom-frame review passes.",
+      "Opening and final endpoints match the approved below-chin upper-chest pose.",
+      "The release reaches comfortable nearly straight arms overhead; both hands and bar ends remain visible.",
+      "One release and one pull occur in the intended order with no extra pulse; no playback reversal is used.",
+      "Cable, grip, pad, hips, feet and torso remain stable throughout the actual output.",
+      "The operator caption explicitly says the clip starts lowered, while canonical setup guidance remains unchanged."
+    ]
+  }
+}

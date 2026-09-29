@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "sourceType": "flow-ui-observation",
+  "source": "Live Flow composer model, aspect and x1 quote read through CUA; same-account freshly observed balance. Local references recorded separately in the submission.",
+  "observer": "Codex via CUA",
+  "observedAt": "2026-09-15T18:26:28.012320+00:00",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "exerciseId": "cat_cal_pike_pushup",
+  "shot": "r5-pike-pushup-anatomical-start",
+  "modelKey": "GEM_PIX_2",
+  "kind": "image",
+  "family": "Nano Banana Pro",
+  "aspect": "16:9",
+  "count": 1,
+  "durationSeconds": null,
+  "resolutions": [],
+  "balance": 9216,
+  "credits": 0,
+  "visiblePriceText": "Generating will use 0 credits",
+  "visibleBalanceText": "9,216 Google Flow credits",
+  "profile": "shouburu"
+}

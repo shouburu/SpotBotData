@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-power-snatch-3f9ccaec-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-power-snatch-3f9ccaec-motion-61f720b2.json"
+    },
+    {
+      "shot": "r9-open-pull-through-c80507cd-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-pull-through-c80507cd-motion-31331cc5.json"
+    },
+    {
+      "shot": "r9-open-smith-machine-calf-ra-ccc5bca6-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-calf-ra-ccc5bca6-motion-8c1dc9fc.json"
+    },
+    {
+      "shot": "r9-open-smith-machine-overhea-f4f4e023-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-overhea-f4f4e023-motion-e4d2c2e0.json"
+    }
+  ]
+}

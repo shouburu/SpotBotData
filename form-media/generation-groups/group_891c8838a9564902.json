@@ -1,0 +1,72 @@
+{
+  "id": "group_891c8838a9564902",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T21:54:24+00:00",
+  "balanceBefore": 9016,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_good_morning_a5c85ff9",
+      "shot": "r9-open-good-morning-a5c85ff9-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "c938575f33fd234bf2c5ef01ea00cfa43c025b78066d1bd8b53c8525fbc413f3",
+      "quoteFile": "form-media/ui-quotes/r9-open-good-morning-a5c85ff9-start-7a9c2030.json",
+      "quoteSha256": "b2401f7b1c6579e0c734c07eeca6490b04bb9d2af0f456fef392aee0aaa6b974",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-good-morning-a5c85ff9-start/attempt_f8fd5f0c46bd4122.jpg",
+          "sha256": "8e160e1b7e10b4fca534674b0706f2df7fbc0252da39b5996ffb04002ee9bec0"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "shot": "r9-open-inverted-row-1ce9a06f-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "8226ef65d5a2a6f342be949eea76af29404c5bfbd9f9f96f2c1a57613e718f79",
+      "quoteFile": "form-media/ui-quotes/r9-open-inverted-row-1ce9a06f-start-bf8f51c1.json",
+      "quoteSha256": "c2fb4f25c6e4458c716652c232d87bc175431e05e63567bb625ed2940af452d7",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-inverted-row-1ce9a06f-start/attempt_3d88a8d6ed9943f0.jpg",
+          "sha256": "32123cb079e71c6484179ff103dfa5efccdb04187ab049ba4716e5f68d51b761"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_barbell_glute_bridge_0e7afdbd",
+      "shot": "r9-open-barbell-glute-bridge-0e7afdbd-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "40857ed90948891627863c478d5b0fc318b67a27b7f93797ef9bee151f7f371f",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-glute-bridge-0e7afdbd-start-dd073455.json",
+      "quoteSha256": "24c872836bfe170dbdeb7203ce76e82cf77d9c4480f1d849e33cf93f9c52945b",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "open_bent_over_two_dumbbel_0c77d209",
+      "shot": "r9-open-bent-over-two-dumbbel-0c77d209-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "9e0c3b9ac7a58bd8fd5ce528ceea016fbfa1042981329032e07ca1dc6a0e3a09",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-over-two-dumbbel-0c77d209-start-1ea73e54.json",
+      "quoteSha256": "6a7e6537146ebd6dc68a35ac4e819e7405325f155950e7423e5756281e486d62",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T21:55:42+00:00",
+  "balanceAfter": 9016,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-012d13242a2340e2.json",
+  "evidenceSha256": "e721eab16feb5d1f66973ca520c0dbe234b412b253d550a087243b58d6197335",
+  "terminalFailureIds": []
+}

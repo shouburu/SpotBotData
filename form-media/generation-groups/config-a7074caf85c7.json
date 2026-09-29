@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-ez-bar-curl-6570409e-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-ez-bar-curl-6570409e-motion-90cc5140.json"
+    },
+    {
+      "shot": "r9-open-ez-bar-skullcrusher-18e6f719-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-ez-bar-skullcrusher-18e6f719-motion-823b5ee9.json"
+    },
+    {
+      "shot": "r9-open-incline-dumbbell-flye-f858d67d-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-incline-dumbbell-flye-f858d67d-motion-8db7cc3c.json"
+    },
+    {
+      "shot": "r9-open-lying-dumbbell-tricep-02bba023-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-lying-dumbbell-tricep-02bba023-motion-ac7cac9b.json"
+    }
+  ]
+}

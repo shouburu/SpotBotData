@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-leverage-shrug-33bef3fa-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-motion-70de6227.json"
+    },
+    {
+      "shot": "r9-open-standing-front-barbel-9aba2baf-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-front-barbel-9aba2baf-motion-2230f7f5.json"
+    },
+    {
+      "shot": "r9-open-power-snatch-3f9ccaec-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-power-snatch-3f9ccaec-motion-50ece733.json"
+    },
+    {
+      "shot": "r9-ex-arnold-press-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-arnold-press-motion-cdb32e69.json"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "group_2f8c9fe522a64f84",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:09:56+00:00",
+  "balanceBefore": 8282,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_leg_press",
+      "shot": "r8-ex-leg-press-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "b13f5b609e3032418cbdaa897106877a138752c8c3493e0c3c65d52d38cc717c",
+      "quoteFile": "form-media/ui-quotes/r8-ex-leg-press-start-246b21b0.json",
+      "quoteSha256": "6122d237f70c33d310e884510278f39f5eb96a291a618abd33a535485d9f4cd4",
+      "quoteCredits": 0,
+      "balance": 8282,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_romanian_deadlift",
+      "shot": "r8-ex-romanian-deadlift-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "1539085ff82acd79a8f7c353a54062166a2ea0bbbadf79788bfe47ac360a684b",
+      "quoteFile": "form-media/ui-quotes/r8-ex-romanian-deadlift-start-69ebd4b8.json",
+      "quoteSha256": "907bfb8ec73630d2f41c2871d38e0ed67a236e655d96acea8fda8f87b80c39de",
+      "quoteCredits": 0,
+      "balance": 8282,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r8-ex-calf-raise-seated-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "422ec0a3c7715614f01f78bf3dcefd5ce381eed81b0f12bce1c3e171f8e904c5",
+      "quoteFile": "form-media/ui-quotes/r8-ex-calf-raise-seated-start-01b119ad.json",
+      "quoteSha256": "054de39481f43d8da0a748111a0244fde8098147abab9cfcda7185935671f63a",
+      "quoteCredits": 0,
+      "balance": 8282,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_arnold_press",
+      "shot": "r8-ex-arnold-press-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "0565df7ffb269e8d21223e506fa7708f9577105d4af6a40204f2f9ce147ed0ae",
+      "quoteFile": "form-media/ui-quotes/r8-ex-arnold-press-start-c2cfb3cb.json",
+      "quoteSha256": "270d75e98eab7464c4c304535ba9571fa91ebb42689e88b676786d7f069ab67e",
+      "quoteCredits": 0,
+      "balance": 8282,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:11:07+00:00",
+  "balanceAfter": 8282,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-0fb741ccf1994a6f.json",
+  "evidenceSha256": "3fb286bc33dfe0cea228dbd64acc4921550c977efd74674e4c5b819c9b7f3d32"
+}

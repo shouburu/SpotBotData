@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r10-open-decline-smith-press-ab9938f7-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-decline-smith-press-ab9938f7-start-c1d20ded.json"
+    },
+    {
+      "shot": "r10-ex-machine-chest-press-start",
+      "quoteFile": "form-media/ui-quotes/r10-ex-machine-chest-press-start-efa4c3e8.json"
+    },
+    {
+      "shot": "r10-ex-calf-raise-seated-start",
+      "quoteFile": "form-media/ui-quotes/r10-ex-calf-raise-seated-start-ae02a47f.json"
+    },
+    {
+      "shot": "r10-open-machine-triceps-exten-c66a3615-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-machine-triceps-exten-c66a3615-start-6dc8db97.json"
+    }
+  ]
+}

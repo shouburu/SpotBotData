@@ -1,0 +1,82 @@
+{
+  "id": "group_c599e4969fa84e93",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T02:45:07+00:00",
+  "balanceBefore": 5326,
+  "quotedCredits": 44,
+  "members": [
+    {
+      "exerciseId": "open_leverage_decline_ches_adfbca13",
+      "shot": "r9-open-leverage-decline-ches-adfbca13-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "092fcbf8f1ede5bf273e2752cbdc3097b6265027f93ff5de4b1adc1e8faca250",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-decline-ches-adfbca13-motion-a0436c0d.json",
+      "quoteSha256": "5fb04b19bed5595722d5a0d293d91d3ede4eb6ec913f42974a5820aa3742a92c",
+      "quoteCredits": 10,
+      "balance": 5326,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-leverage-decline-ches-adfbca13-start/attempt_511142cc6eeb4b0a.jpg",
+          "sha256": "ba2082de7d6d6f6602f1b3f6bee1f713838eb87bc2dea998e9845c5069cb9822"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_smith_machine_overhea_f4f4e023",
+      "shot": "r9-open-smith-machine-overhea-f4f4e023-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "0546e27a9bcdd52897f9894d5e6b72382d123b5d0d39b655b71f99bdd62d4e55",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-overhea-f4f4e023-motion-5e54fa07.json",
+      "quoteSha256": "fa7a5d58a7f1bb0791061f7ea91da57ba53de1c32556c98370b75c5252138eca",
+      "quoteCredits": 10,
+      "balance": 5326,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-smith-machine-overhea-f4f4e023-start/attempt_d231e42f80f94616.jpg",
+          "sha256": "2075ba6722a9a48eca4d50a3443615246cb96ed958cc53ce94ffad2104024c5e"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+      "shot": "r9-open-standing-overhead-bar-1c42b3f8-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "9f2027fe4da2a9e8d57080a7d831ee94be7bf309ff226c6e1b2fa2ae5b3f474b",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-overhead-bar-1c42b3f8-motion-54e64dcb.json",
+      "quoteSha256": "4366db55a979fccc8d1f4aaae805e81fddcc61b1b0318d74d093d7c2dae0d019",
+      "quoteCredits": 12,
+      "balance": 5326,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-standing-overhead-bar-1c42b3f8-start/attempt_a0b99788e0444d47.jpg",
+          "sha256": "f185e4d6c4b5a0b77afcd390a107f9a69e94a0e3843ca7de4ab2903732310666"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "ceab2abcd1c4b21b341f83293f488b12ef59d0f92f09bb7b0109e549dad20621",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-motion-bf78e9ac.json",
+      "quoteSha256": "f61fdbea78c6f4ad98c700df394c1c6452384acbab4565737595df924ea24827",
+      "quoteCredits": 12,
+      "balance": 5326,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_331469ff9def4f71.jpg",
+          "sha256": "6e6503aa1c367b3967c17d852f8855ca127399e4eb19ccd76a3742fca23c8e5c"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T02:47:00+00:00",
+  "balanceAfter": 5282,
+  "actualCredits": 44,
+  "evidenceFile": "form-media/ui-quotes/observed-5e74309fc0f34944.json",
+  "evidenceSha256": "c717900c595e2de14d2582d72169411b76eeb354d814d50a2df9fe6d302984fa",
+  "terminalFailureIds": []
+}

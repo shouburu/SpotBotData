@@ -1,0 +1,16 @@
+{
+  "members": [
+    {
+      "shot": "r8-ex-shrugs-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-shrugs-motion-db19b728.json"
+    },
+    {
+      "shot": "r8-ex-skullcrusher-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-skullcrusher-motion-ee953c4d.json"
+    },
+    {
+      "shot": "r8-ex-overhead-tricep-extension-motion",
+      "quoteFile": "form-media/ui-quotes/r8-ex-overhead-tricep-extension-motion-4b859c98.json"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "attemptId": "attempt_7914871be4a142f7",
+  "exerciseId": "ex_romanian_deadlift",
+  "shot": "r6-ex-romanian-deadlift-start",
+  "providerSubmissionReached": false,
+  "reason": "ensure_editor redirected to /about before apply_image_settings, attach_references, send_prompt and submit_images_and_observe. Installed migrated_composer.py lines2498-2520 inspected.",
+  "stdoutSha256": "cf5b342a2a4021963ef664671ed054d13e9aa985ce281ac273e5568d0b274a3b",
+  "stderrSha256": "2f48ba5cff606e3fde67104e1efcf19db093fa7db967028b129d9fc7f69b9a11",
+  "balanceEvidence": "form-media/ui-quotes/group_6e1e5cf497d54fa5-manual-after.json"
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-dumbbell-fly-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-dumbbell-fly-start-e118f87c.json"
+    },
+    {
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-start-1bc7c99d.json"
+    },
+    {
+      "shot": "r9-ex-skullcrusher-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-start-cf5a2b83.json"
+    },
+    {
+      "shot": "r9-open-power-snatch-3f9ccaec-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-power-snatch-3f9ccaec-start-930e88f5.json"
+    }
+  ]
+}

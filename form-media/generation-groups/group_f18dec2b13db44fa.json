@@ -1,0 +1,62 @@
+{
+  "id": "group_f18dec2b13db44fa",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T23:11:48+00:00",
+  "balanceBefore": 8082,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_thigh_abductor_05f17f36",
+      "shot": "r9-open-thigh-abductor-05f17f36-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "90d89a20178e33caea64c16394184f84ac10b5d4ac061e6f8a5c063c893b9050",
+      "quoteFile": "form-media/ui-quotes/r9-open-thigh-abductor-05f17f36-start-0dfb4c96.json",
+      "quoteSha256": "8ac146f2ec865d65e5f0cf2b3c4bd16cc67e14ce38307eff6768171b9edfc0fd",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    },
+    {
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "shot": "r9-open-thigh-adductor-933feed1-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "e07e0ed55c87be9414dace13cf488b949f31eacb6b776101bf743b184b4748f9",
+      "quoteFile": "form-media/ui-quotes/r9-open-thigh-adductor-933feed1-start-d735bc7c.json",
+      "quoteSha256": "217d86d29a2eac40c1975dfd9452cd3b67f49acc216a670f69df69e056a7458b",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    },
+    {
+      "exerciseId": "open_machine_shoulder_mili_71dc7774",
+      "shot": "r9-open-machine-shoulder-mili-71dc7774-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "b84a0e621456a685c588b7485c777cca9243117570632a82e3df88824c15f293",
+      "quoteFile": "form-media/ui-quotes/r9-open-machine-shoulder-mili-71dc7774-start-034954d8.json",
+      "quoteSha256": "2edf7f92cb05e939fa370cf93a9b21a2f9663d386f36e79efd2991372b9f2155",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    },
+    {
+      "exerciseId": "open_machine_triceps_exten_c66a3615",
+      "shot": "r9-open-machine-triceps-exten-c66a3615-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "2187b78bee649783d3278fa4567fe59873b4e1e9ed78659ba881f24dd813693d",
+      "quoteFile": "form-media/ui-quotes/r9-open-machine-triceps-exten-c66a3615-start-cf68d521.json",
+      "quoteSha256": "51506f65d4559bff91d4dc5085de763efdd9b778f404649f9eee26d5a3d28724",
+      "quoteCredits": 0,
+      "balance": 8082,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T23:13:01+00:00",
+  "balanceAfter": 8082,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-b1da45a34c1b4e0a.json",
+  "evidenceSha256": "583ccc3c5d773a623cd549e1a341b90b06bdd5cdb97b782a5fa3b769d37d4ce0",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-open-leverage-shrug-33bef3fa-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-leverage-shrug-33bef3fa-motion-e60e6fc1.json"
+    },
+    {
+      "shot": "r8-open-low-cable-crossover-8fa7b374-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-low-cable-crossover-8fa7b374-motion-c194e000.json"
+    },
+    {
+      "shot": "r8-open-low-cable-triceps-ext-9e0f6a66-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-low-cable-triceps-ext-9e0f6a66-motion-9360879f.json"
+    },
+    {
+      "shot": "r8-open-low-pulley-row-to-nec-d78b13bd-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-low-pulley-row-to-nec-d78b13bd-motion-6f3e50a9.json"
+    }
+  ]
+}

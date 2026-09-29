@@ -1,0 +1,58 @@
+{
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-motion",
+      "attemptId": "attempt_d512c531a58c4290",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-cable-fly-motion-d512c531.mp4",
+      "outputSha256": "8241dc12be0e3ec887037bcea7ad0320b154cd16a7dac2dd3a5b6d620d0ba0b8",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:58:04+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "The near elbow folds toward the flank in mid-opening and closure, rather than retaining the long softly bent arm lever of a cable fly.",
+        "The near hand visibly opens and loses its closed handle grip during opening; the handle/hand relationship is not stable. A complete-looking out-and-back path does not repair those defects."
+      ],
+      "limitations": [
+        "Inspected two ordered3fps delivery sheets plus full-resolution detail. No continuous playback or trainer verdict."
+      ],
+      "inspection": {
+        "method": "Ordered3fps exact delivery samples",
+        "paths": [
+          "reports/form-media/attempt_d512c531a58c4290/root-review-3fps-01.jpg",
+          "reports/form-media/attempt_d512c531a58c4290/root-review-3fps-02.jpg"
+        ]
+      }
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-motion",
+      "attemptId": "attempt_c5b404f03ad0475d",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-cable-fly-motion-c5b404f0.mp4",
+      "outputSha256": "dc24d755cd8812cdfdf4a8eaede4bcc59000ef2665a086172479b9576cf2b6f7",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T03:06:10+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "The first opening never returns to the original forward hands-together endpoint: the hands drop toward the waist and the torso/stance/camera presentation shifts. It then adds a smaller second opening and closure.",
+        "No interval contains both a full comfortable wide opening and a matching complete closed return at both ends. The later partial cycle cannot be trimmed into the missing complete repetition."
+      ],
+      "limitations": [
+        "This Quality output retains the grips better than the preceding Omni output; rejection is based on actual cycle/pose inconsistency and partial repetition, not an assumed repeated grip defect.",
+        "Two ordered3fps exact delivery sheets inspected, not continuous playback or trainer approval."
+      ],
+      "inspection": {
+        "method": "Ordered3fps delivery samples",
+        "paths": [
+          "reports/form-media/attempt_c5b404f03ad0475d/root-review-3fps-01.jpg",
+          "reports/form-media/attempt_c5b404f03ad0475d/root-review-3fps-02.jpg"
+        ]
+      }
+    }
+  ]
+}

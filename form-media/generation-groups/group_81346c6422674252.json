@@ -1,0 +1,34 @@
+{
+  "id": "group_81346c6422674252",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-23T00:06:43+00:00",
+  "balanceBefore": 4523,
+  "quotedCredits": 10,
+  "members": [
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r10-ex-cable-fly-motion-v4",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "d7449cfb00034e2258f432fc1814d784d7d02a456c9a6ec4a3e56c2511a4f184",
+      "quoteFile": "form-media/ui-quotes/r10-ex-cable-fly-motion-v4-2f839ad7.json",
+      "quoteSha256": "58ae2735bcf5fd791c6e2b011e26e3f3894c57f832414d6bb9a918ce1fdc8376",
+      "quoteCredits": 10,
+      "balance": 4523,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-cable-fly-start-v4/attempt_8a17f0f944ed4e08.jpg",
+          "sha256": "0e27f40a47c4740dc703e5133e2b7566f2dc9d9a30964e646a16be65118e0cfd"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-23T00:07:52+00:00",
+  "balanceAfter": 4513,
+  "actualCredits": 10,
+  "evidenceFile": "form-media/ui-quotes/observed-c7ec3f06bb574234.json",
+  "evidenceSha256": "d808e210e2cd754d3b822a722e0188405a9196e7a0d81d4ee7105d617ad220a5",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": "group_e61e2710781040b1",
+  "status": "aborted-before-reservation",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T00:29:07+00:00",
+  "balanceBefore": 7070,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_hang_clean_1e812852",
+      "shot": "r9-open-hang-clean-1e812852-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "7f28128dcf2472ae1e3cc504a62a367f6f9a2234190a4e4ce9dec58437b3cd24",
+      "quoteFile": "form-media/ui-quotes/r9-open-hang-clean-1e812852-start-28281a65.json",
+      "quoteSha256": "be9edc523c91f9576704bac809feca0b4b4f450c5551945ecc9a2555fee590e0",
+      "quoteCredits": 0,
+      "balance": 7070,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-hang-clean-1e812852-start/attempt_4460ca257c7b4daf.jpg",
+          "sha256": "ec9968b4ca05cb6e570efe1d32c6c822efe03aa7f8bc6f12c9fa19ce3797db1f"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_smith_machine_stiff_l_73127ddd",
+      "shot": "r9-open-smith-machine-stiff-l-73127ddd-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "ea54445d07c14d73a8afd5961154401c5a90b9190b16da142c3731ccd9508b85",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-stiff-l-73127ddd-start-c00895ae.json",
+      "quoteSha256": "170e40c762f809fdd6ef4f92b29e47b5f84fe4bb3fb042c44a9e0fe7e0c2d7f9",
+      "quoteCredits": 0,
+      "balance": 7070,
+      "references": []
+    },
+    {
+      "exerciseId": "open_standing_dumbbell_cal_ed527460",
+      "shot": "r9-open-standing-dumbbell-cal-ed527460-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "88179b5ecd2f6eb54bcc648c47e827ef0128595a071fda59edb08f97606c9ca2",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-dumbbell-cal-ed527460-start-643a238d.json",
+      "quoteSha256": "1b1342a320fb148dd43039fff8bd1ada53881421d1737f5ae3db7ec4c9ec257a",
+      "quoteCredits": 0,
+      "balance": 7070,
+      "references": []
+    },
+    {
+      "exerciseId": "open_dumbbell_lying_pronat_95605e7c",
+      "shot": "r9-open-dumbbell-lying-pronat-95605e7c-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "a51da0113a9199ac9bdf165896f8def19a183921d840ec9a83b3cccc2f4adb99",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lying-pronat-95605e7c-start-2518696b.json",
+      "quoteSha256": "4788169752df092217ec1ffd60089648b06eb58c257107db93cb452f803fff93",
+      "quoteCredits": 0,
+      "balance": 7070,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "closedAt": "2026-09-22T00:30:16+00:00",
+  "actualCredits": 0,
+  "balanceAfter": 7070,
+  "closureReason": "All four child processes failed installed-patch preflight before reserving any attempt or opening generation. Revision4 source status was updated before installed module application. No provider submissions occurred.",
+  "evidenceFile": "form-media/ui-quotes/observed-57b4ee6412544f58.json",
+  "evidenceSha256": "fb3868c7fd01c7e97c9f0b14bc0be59abe873be2d69553c9d14c3cf68a632c9a",
+  "preflightLog": "reports/round-9-preparation/reference-wave6-generation.log",
+  "preflightLogSha256": "6a69e62b3a6e1fb6e3bad805d1228f36baad070ae607fef99bff1f30e2091ff9"
+}

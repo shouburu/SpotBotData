@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-dip-machine-74e49ff5-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-dip-machine-74e49ff5-start-fee8de28.json"
+    },
+    {
+      "shot": "r9-open-cable-hip-adduction-deb67de6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-hip-adduction-deb67de6-start-51d33d91.json"
+    },
+    {
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-start-c5ec83c3.json"
+    },
+    {
+      "shot": "r9-open-cable-shrugs-c5ea5dc6-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-shrugs-c5ea5dc6-start-1230f953.json"
+    }
+  ]
+}

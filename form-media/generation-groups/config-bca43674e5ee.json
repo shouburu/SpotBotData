@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-t-bar-row-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-t-bar-row-motion-3163560a.json"
+    },
+    {
+      "shot": "r9-ex-straight-arm-pulldown-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-straight-arm-pulldown-motion-9b6ecd88.json"
+    },
+    {
+      "shot": "r9-ex-calf-raise-seated-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-calf-raise-seated-motion-3066d427.json"
+    },
+    {
+      "shot": "r9-ex-preacher-curl-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-preacher-curl-motion-576c3cd3.json"
+    }
+  ]
+}

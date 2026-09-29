@@ -1,0 +1,82 @@
+{
+  "id": "group_f53dbf3bf4dc4631",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T22:45:52+00:00",
+  "balanceBefore": 8450,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_cable_shoulder_press_7ddeefb0",
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "0ac5989e2616c94d9beaf77aa6223556bc311746f154d3858238cfdfd25099dd",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-shoulder-press-7ddeefb0-motion-db28b4a8.json",
+      "quoteSha256": "4535be4ae78d059be7a21750e4f3bfdbcd3a34c0bcc25eacd35a69f458c0b37b",
+      "quoteCredits": 10,
+      "balance": 8450,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-shoulder-press-7ddeefb0-start/attempt_313e1d515a734a85.jpg",
+          "sha256": "771b3f7e7f580308cc9314b97981528c165c418d90b47f48ace9203a43e128ab"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r9-open-cable-wrist-curl-a1feb456-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "1e4cf0a988cc714cfd4a7e9ac1f10754c1fd73bcfcefde0a6f825ab49efd2c36",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-wrist-curl-a1feb456-motion-439d6b86.json",
+      "quoteSha256": "d4389dcd950553a3911ef39524ca05d73fd7ec434f97429118a6301cf7eb8e94",
+      "quoteCredits": 10,
+      "balance": 8450,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-wrist-curl-a1feb456-start/attempt_0d1957c49c5247ba.jpg",
+          "sha256": "e30bf27748941606f4da79630cc48e1e9fa09ac966d2e63d80e90ce6d0ec432c"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r9-open-donkey-calf-raises-55a343b9-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "6424dbaf3737b540d6e046d5694ad034f2c930a2297ec86fe9cb8958c66b0429",
+      "quoteFile": "form-media/ui-quotes/r9-open-donkey-calf-raises-55a343b9-motion-be1bf070.json",
+      "quoteSha256": "5172dd936a646e7de0bdeac6319a8f61e52351e200d13b8b1dfa2de15d05b791",
+      "quoteCredits": 10,
+      "balance": 8450,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-donkey-calf-raises-55a343b9-start/attempt_c4b14639e3174ea3.jpg",
+          "sha256": "abd9932c233e649024f849dbde6d9274a1ca92d94e11f1dd5e7f9fcfe674d817"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_incline_row_8f4625d1",
+      "shot": "r9-open-dumbbell-incline-row-8f4625d1-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "01ec0bd2fa4991409e804f459f401443ee8ab2df697fa9143a5fa48c7de62be4",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-incline-row-8f4625d1-motion-c7d636c7.json",
+      "quoteSha256": "55c4565f7442e9449691cdea9cad3e3deb32b7a575068baf23d2179d03415051",
+      "quoteCredits": 10,
+      "balance": 8450,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-incline-row-8f4625d1-start/attempt_64a978d3caee419c.jpg",
+          "sha256": "7a75743a21363c737ee6cc61afdfff0c3011c883a47b7d98bb6550efbf891151"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T22:48:01+00:00",
+  "balanceAfter": 8410,
+  "actualCredits": 40,
+  "evidenceFile": "form-media/ui-quotes/observed-8d0bb317ea004c4c.json",
+  "evidenceSha256": "07bdba530b058d4e10c2d3411af33f0846415e2000f70fba92aec6204b90d998",
+  "terminalFailureIds": []
+}

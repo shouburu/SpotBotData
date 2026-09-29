@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "shot": "r2-plank-studio-still",
+      "exerciseId": "ex_plank",
+      "outputPath": "form-media/assets/masters/r2-plank-studio-still/attempt_5029475dea134e2f.jpg",
+      "outputSha256": "e5eb898be8d1beb093e363cb7ed510fa17ef315ce365ab9ed985f69b45d20add",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:33:07+00:00",
+      "reviewKind": "still-ai-editorial",
+      "evidence": [
+        "Close side view shows both supported forearms, shoulders, hips, extended legs and toe contacts. No body markers obscure the anatomy; the trunk has no obvious large sag or pike."
+      ],
+      "limitations": [
+        "Static posture and visual-style review only; breathing, endurance and motion cannot be inferred.",
+        "Operator may compare head/neck position with the retained Round1 view. No trainer review or user acceptance is recorded."
+      ],
+      "notes": "Close side view shows both supported forearms, shoulders, hips, extended legs and toe contacts. No body markers obscure the anatomy; the trunk has no obvious large sag or pike."
+    },
+    {
+      "shot": "r2-plank-warm-still",
+      "exerciseId": "ex_plank",
+      "outputPath": "form-media/assets/masters/r2-plank-warm-still/attempt_26cc74a2fe0a4ca8.jpg",
+      "outputSha256": "d27de9e5faa22609cdd2704b75e30f5b3ec7a3c133570a9127e6788884ddd8aa",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:33:07+00:00",
+      "reviewKind": "still-ai-editorial",
+      "evidence": [
+        "Close oblique view separates both forearms and feet, with a long supported plank posture and readable joints. Teal clothing and warm skin distinguish the body from the mat without markers."
+      ],
+      "limitations": [
+        "Static posture and visual-style review only; breathing, endurance and motion cannot be inferred.",
+        "Operator may compare head/neck position with the retained Round1 view. No trainer review or user acceptance is recorded."
+      ],
+      "notes": "Close oblique view separates both forearms and feet, with a long supported plank posture and readable joints. Teal clothing and warm skin distinguish the body from the mat without markers."
+    },
+    {
+      "shot": "r2-mountain-warm-still",
+      "exerciseId": "cat_yoga_mountain",
+      "outputPath": "form-media/assets/masters/r2-mountain-warm-still/attempt_ae8ffbf3141d4cd8.jpg",
+      "outputSha256": "c14d3f32aab3ecfc0470da8ebf76aa07f410e2bd5aa61ba5c4d2482f87b0f4c6",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:35:21+00:00",
+      "reviewKind": "still-ai-editorial",
+      "evidence": [
+        "Straight-on full-body view shows a grounded symmetric stance, relaxed arms and a tall neutral torso. The figure is large and clear, with no misaligned body markers."
+      ],
+      "limitations": [
+        "A front still does not establish breathing or every sagittal-plane alignment relationship.",
+        "Footwear and hand orientation differ between the two visual treatments; catalog guidance does not mandate either choice. No trainer review or user acceptance is recorded."
+      ],
+      "notes": "Straight-on full-body view shows a grounded symmetric stance, relaxed arms and a tall neutral torso. The figure is large and clear, with no misaligned body markers."
+    },
+    {
+      "shot": "r2-mountain-illustrated-still",
+      "exerciseId": "cat_yoga_mountain",
+      "outputPath": "form-media/assets/masters/r2-mountain-illustrated-still/attempt_a3a1223b2d8e4128.jpg",
+      "outputSha256": "78a1622ed689ca03b12acfa13fa2f79e0d63a24eb15c716171bf3dec2e8b68a3",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:35:21+00:00",
+      "reviewKind": "still-ai-editorial",
+      "evidence": [
+        "Straight-on full-volume figure shows complete bare feet, relaxed low arms, long torso and crown. Contour edges improve separation against the pale background; no body markers or guessed angles appear."
+      ],
+      "limitations": [
+        "A front still does not establish breathing or every sagittal-plane alignment relationship.",
+        "Footwear and hand orientation differ between the two visual treatments; catalog guidance does not mandate either choice. No trainer review or user acceptance is recorded."
+      ],
+      "notes": "Straight-on full-volume figure shows complete bare feet, relaxed low arms, long torso and crown. Contour edges improve separation against the pale background; no body markers or guessed angles appear."
+    },
+    {
+      "shot": "r2-bench-overhead-studio-still",
+      "exerciseId": "ex_bench_press",
+      "outputPath": "form-media/assets/masters/r2-bench-overhead-studio-still/attempt_ac67fe889af5435e.jpg",
+      "outputSha256": "559fb258287a6a6d45f012a0e28c1cc546e5efa3237a9d7a647b9ba4c1ed249a",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:42:48.660055+00:00",
+      "reviewKind": "still-ai-editorial",
+      "evidence": [
+        "The supposed overhead bottom position shows long projected forearms and widely separated hands. It does not clearly demonstrate wrists stacked above elbows and can read as a curl-like arm pose."
+      ],
+      "limitations": [
+        "Do not use as an alignment guide. A clearer side motion and separate chest/arm detail are being produced. AI editorial review, not trainer approval."
+      ],
+      "notes": "Rejected as an alignment guide: wrist/elbow stacking is unclear in this supposed overhead bottom-position image."
+    },
+    {
+      "shot": "r2-bench-overhead-illustrated-still",
+      "exerciseId": "ex_bench_press",
+      "outputPath": "form-media/assets/masters/r2-bench-overhead-illustrated-still/attempt_7738dae885b045ba.jpg",
+      "outputSha256": "dcd097b3b512bec9b70d6f7fdfe09d8d4edabf9e63df4314380f8b3a2dce3a04",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T12:42:48.661134+00:00",
+      "reviewKind": "still-ai-editorial",
+      "evidence": [
+        "The supposed overhead bottom position shows long projected forearms and widely separated hands. It does not clearly demonstrate wrists stacked above elbows and can read as a curl-like arm pose."
+      ],
+      "limitations": [
+        "Do not use as an alignment guide. A clearer side motion and separate chest/arm detail are being produced. AI editorial review, not trainer approval."
+      ],
+      "notes": "Rejected as an alignment guide: wrist/elbow stacking is unclear in this supposed overhead bottom-position image."
+    },
+    {
+      "shot": "r2-bench-overhead-studio-still",
+      "exerciseId": "ex_bench_press",
+      "outputPath": "form-media/assets/masters/r2-bench-overhead-studio-still/attempt_90bed46820914607.jpg",
+      "outputSha256": "de224f02faff62014ee9c43a1cc2318e63bccb3902f62ea28f6ff301b4f5d34e",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:04:17+00:00",
+      "reviewKind": "still-ai-editorial",
+      "evidence": [
+        "The revised straight-down view keeps the head visible, shows the lower-chest bar line and uses foreshortened forearms with hands over the projected elbows. It resolves the obvious curl-like long forearms in the prior view."
+      ],
+      "limitations": [
+        "Supplementary overhead hand-spacing view only. Vertical wrist/elbow stacking and bar depth cannot be verified from this projection; inspect the side clip alongside it.",
+        "The wide crop includes lower-body projection without proving floor contacts and offers less arm detail than the separate close motion. AI editorial candidate, not trainer approval."
+      ],
+      "notes": "The revised straight-down view keeps the head visible, shows the lower-chest bar line and uses foreshortened forearms with hands over the projected elbows. It resolves the obvious curl-like long forearms in the prior view."
+    },
+    {
+      "shot": "r2-bench-overhead-illustrated-still",
+      "exerciseId": "ex_bench_press",
+      "outputPath": "form-media/assets/masters/r2-bench-overhead-illustrated-still/attempt_587ba2edb4f24939.jpg",
+      "outputSha256": "c1b5ac41ae6e0d64196e02c4d49f72917189bcb73a858d1beff209aaba6d44d8",
+      "status": "rejected",
+      "reviewerType": "ai",
+      "reviewedAt": "2026-09-10T13:04:17+00:00",
+      "reviewKind": "still-ai-editorial",
+      "evidence": [
+        "The revised image reverses the requested head direction and still exposes long diagonally projected forearms with a curl-like grip/read. It does not resolve the intended overhead alignment lesson."
+      ],
+      "limitations": [
+        "Do not use as a form alignment guide. The separate side motion and chest/arm detail are preferable."
+      ],
+      "notes": "The revised image reverses the requested head direction and still exposes long diagonally projected forearms with a curl-like grip/read. It does not resolve the intended overhead alignment lesson."
+    }
+  ]
+}

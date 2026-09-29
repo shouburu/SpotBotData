@@ -1,0 +1,34 @@
+{
+  "id": "group_35abaa8c3f0f48e4",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T01:13:36+00:00",
+  "balanceBefore": 5967,
+  "quotedCredits": 12,
+  "members": [
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "1f788463eb29716d3032ccfef0854f33e52ee92e67982436fe04b17bedc74f6d",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-motion-6e4d9274.json",
+      "quoteSha256": "c093bc87f49cec7aaf56e0b12164a17dd516224d176788200c9a031ac16492da",
+      "quoteCredits": 12,
+      "balance": 5967,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-bent-arm-barbell-pull-bd488038-start/attempt_f5d548627fbb4990.jpg",
+          "sha256": "1955b2f440f931dc9d0b3bab6089c1374306dba1999222342d370d2bb755d436"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T01:14:40+00:00",
+  "balanceAfter": 5955,
+  "actualCredits": 12,
+  "evidenceFile": "form-media/ui-quotes/observed-bac415a74fe241b9.json",
+  "evidenceSha256": "8f6689bc915fed6eb986ecc33680fcf4cc5c0098583544e90e9ccfe2e0b32954",
+  "terminalFailureIds": []
+}

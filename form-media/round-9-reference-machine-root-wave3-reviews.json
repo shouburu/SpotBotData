@@ -1,0 +1,453 @@
+{
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "attemptId": "attempt_a0b190e2bc0c4cb2",
+      "assetId": "r9-ex-cable-fly-start-a0b190e2",
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-start",
+      "outputPath": "form-media/assets/masters/r9-ex-cable-fly-start/attempt_a0b190e2bc0c4cb2.jpg",
+      "outputSha256": "47732438350a6590996ee46f449ecc1d3882cd55f365f9e265b10417d8be9725",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:59:01+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both high-pulley cable routes connect continuously to separate handles held in a broad open position. Pectorals orange; staggered stance and full arms/feet clearly visible.",
+        "Soft elbow bend and room for handles meeting in front of chest; no need for a press motion."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-ex-cable-fly-motion-actual-reference-motion-9.12.txt",
+      "chosenMotionPromptSha256": "15a138a9f486d6e06cdeda3c1a49a8c2f478cd77b0b0bba8266439e3bfdc5b3f",
+      "limitations": [
+        "Exact master inspected; starting-frame readiness does not approve unseen motion. AI editorial review, not trainer validation."
+      ]
+    },
+    {
+      "attemptId": "attempt_9cd940339a794a8a",
+      "assetId": "r9-ex-t-bar-row-start-9cd94033",
+      "exerciseId": "ex_t_bar_row",
+      "shot": "r9-ex-t-bar-row-start",
+      "outputPath": "form-media/assets/masters/r9-ex-t-bar-row-start/attempt_9cd940339a794a8a.jpg",
+      "outputSha256": "d1324b91e35bc18d2de95501c46d0705032df450bf9075f6afe1eb5e128c8638",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:59:01+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The loaded bar is visibly secured in one floor pivot, between planted feet. Both hands grip the same attached rowing handle; torso remains hinged and back muscles highlighted orange.",
+        "Elbows bent and drawn back in a high row position; the whole pivot/plates, feet and motion arc remain visible."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-ex-t-bar-row-motion-actual-reference-motion-9.12.txt",
+      "chosenMotionPromptSha256": "a7887ad78b87f9a5980127e88a1f5adb86bd0fa626a8c5865c8c31d333bd6980",
+      "limitations": [
+        "Exact master inspected; starting-frame readiness does not approve unseen motion. AI editorial review, not trainer validation."
+      ]
+    },
+    {
+      "attemptId": "attempt_5f6010ea8f234033",
+      "assetId": "r9-ex-straight-arm-pulldown-start-5f6010ea",
+      "exerciseId": "ex_straight_arm_pulldown",
+      "shot": "r9-ex-straight-arm-pulldown-start",
+      "outputPath": "form-media/assets/masters/r9-ex-straight-arm-pulldown-start/attempt_5f6010ea8f234033.jpg",
+      "outputSha256": "001851b2d49f46a0d851e8cc6cbcd3b4db7d595f88c9e938f4c286cda48a0206",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:01:45+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Long arms hold the straight bar at the thighs with a continuous route to the visible high pulley. Full body, bar and available overhead space are visible.",
+        "Orange lat surfaces clearly visible. The upright torso differs from the proposed hinge but is permitted by the canonical instructions; motion must preserve the actual steady posture and soft elbow extension."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-ex-straight-arm-pulldown-motion-actual-reference-motion-9.12.txt",
+      "chosenMotionPromptSha256": "1ea3848d1958ee838da54c987d625e7980bed74532b3679f7b5b33d27375d6d8",
+      "limitations": [
+        "Rear three-quarter view partly overlaps the far hand; verify grip continuity and complete overhead range in the actual video. Exact master inspection, not trainer validation."
+      ]
+    },
+    {
+      "attemptId": "attempt_858f980c744a4d49",
+      "assetId": "r9-ex-calf-raise-seated-start-858f980c",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-start",
+      "outputPath": "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_858f980c744a4d49.jpg",
+      "outputSha256": "099b83dc43d4c6d04d33e82d717a0a8704444293cacb404d5e108002292852ee",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:03:32+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both heels are visibly raised, thigh pad is in contact and orange calves clear.",
+        "However the weight/thigh-pad lever visibly continues into the foot platform, making the support platform part of the moving load assembly. A fixed forefoot support separate from the loaded thigh lever is needed to teach calf motion."
+      ],
+      "limitations": [
+        "Exact master inspected; readiness applies only to starting-frame suitability, not unseen motion or trainer validation."
+      ]
+    },
+    {
+      "attemptId": "attempt_c4b4421042c84056",
+      "assetId": "r9-ex-reverse-pec-deck-start-c4b44210",
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-start",
+      "outputPath": "form-media/assets/masters/r9-ex-reverse-pec-deck-start/attempt_c4b4421042c84056.jpg",
+      "outputSha256": "7b7378acee6e35f5c8dc7cc39596ab19f14430ead5c014485c112e065fc6cfa3",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:03:32+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both arms are spread at shoulder height with small elbow bend; both hands grip handles connected to distinct machine arms. Orange posterior deltoids and supported seated torso are clear.",
+        "The upper-body crop includes both complete working arms, handles and shoulders. Feet are outside frame but not needed to understand this supported upper-body motion."
+      ],
+      "limitations": [
+        "Exact master inspected; readiness applies only to starting-frame suitability, not unseen motion or trainer validation."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-ex-reverse-pec-deck-motion-actual-reference-motion-9.12.txt",
+      "chosenMotionPromptSha256": "54c740fa300abc2ae26a071925daedae91e64003475b94d1da7ac069ff788e81"
+    },
+    {
+      "attemptId": "attempt_6dd38a8aa516469d",
+      "assetId": "r9-ex-cable-lateral-raise-start-6dd38a8a",
+      "exerciseId": "ex_cable_lateral_raise",
+      "shot": "r9-ex-cable-lateral-raise-start",
+      "outputPath": "form-media/assets/masters/r9-ex-cable-lateral-raise-start/attempt_6dd38a8aa516469d.jpg",
+      "outputSha256": "d9907fee705b039f357209bb063892a9906c35b2f536da84a504daa7ca3ba703",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:03:32+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The cable connects the low pulley to the far hand, and the raised shoulder is highlighted.",
+        "The working elbow is bent about a right angle and the forearm points upward, rather than the long softly bent arm of the selected cable lateral raise. Portrait framing has no lateral space to straighten the arm."
+      ],
+      "limitations": [
+        "Exact master inspected; readiness applies only to starting-frame suitability, not unseen motion or trainer validation."
+      ]
+    },
+    {
+      "attemptId": "attempt_0cc9566064b344fb",
+      "assetId": "r9-open-cable-internal-rotati-e82490e5-start-0cc95660",
+      "exerciseId": "open_cable_internal_rotati_e82490e5",
+      "shot": "r9-open-cable-internal-rotati-e82490e5-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-internal-rotati-e82490e5-start/attempt_0cc9566064b344fb.jpg",
+      "outputSha256": "7d40af196974fb4365055a565bb052c16f9451cb502cfacac6bf8ca8f2aa4192",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:03:32+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Seated next to an elbow-height pulley; working elbow rests beside torso while the bent forearm is across the abdomen and the hand holds the connected handle.",
+        "Upper-body crop shows the relevant shoulder, elbow, wrist, cable and seated support. There is room to rotate the forearm out while keeping elbow at side."
+      ],
+      "limitations": [
+        "Exact master inspected; readiness applies only to starting-frame suitability, not unseen motion or trainer validation.",
+        "Shoulder surface color follows the catalog-level shoulder grouping and does not isolate deep rotator-cuff anatomy. Verify actual rotation rather than curling in video."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-open-cable-internal-rotati-e82490e5-motion-actual-reference-motion-9.12.txt",
+      "chosenMotionPromptSha256": "7aca54bb5954d93f63e9c2e766dc7063f869279d844967b764b8a38cdf7fece1"
+    },
+    {
+      "attemptId": "attempt_13ccb6f99d8744d4",
+      "assetId": "r9-open-cable-lying-triceps-e-ff29abb1-start-13ccb6f9",
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-lying-triceps-e-ff29abb1-start/attempt_13ccb6f99d8744d4.jpg",
+      "outputSha256": "dc2ad9180c1456f021f28d0736e58444d99bbfcc51922020b8e38cf37f164902",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:06:16+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The actual source is the high extended-elbow position, with both upper arms vertical, two hands on one bar, supported head/back/pelvis and planted feet.",
+        "Cable leads continuously behind the bench to its low pulley; orange upper-arm triceps and full movement space clear. Use high-start motion rather than the originally proposed flexed start."
+      ],
+      "limitations": [
+        "Exact master inspected; no motion or trainer approval inferred."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-open-cable-lying-triceps-e-ff29abb1-motion-actual-reference-motion-9.12.txt",
+      "chosenMotionPromptSha256": "6dccd8086fa5c78c6d4546c7e438a276cec167c9657cf584611e830812f82908"
+    },
+    {
+      "attemptId": "attempt_8453b3521e3143a3",
+      "assetId": "r9-open-cable-rear-delt-fly-dc550f7f-start-8453b352",
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_8453b3521e3143a3.jpg",
+      "outputSha256": "1eebeaa5ca5347324037b3f197ca2d3b7ba8e6168a8607cbfa9b27e78f1ee8d0",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:06:16+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "The source puts visibly sagging crossed cables across the rear surface of the back rather than taut cable routes in front of the body.",
+        "This would teach incorrect routing and supplies an unstable cable geometry to animation."
+      ],
+      "limitations": [
+        "Exact master inspected; no motion or trainer approval inferred."
+      ]
+    },
+    {
+      "attemptId": "attempt_a12e5c355c4d4039",
+      "assetId": "r9-open-cable-shoulder-press-7ddeefb0-start-a12e5c35",
+      "exerciseId": "open_cable_shoulder_press_7ddeefb0",
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-shoulder-press-7ddeefb0-start/attempt_a12e5c355c4d4039.jpg",
+      "outputSha256": "35a31733a43c14c134fed9d120a090c7abbca9fd09c81a733dfe62ce1c53364f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:06:16+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Low pulleys, handles beside shoulders, stable feet and orange deltoids are coherent.",
+        "At this scale the space above the shoulders is shorter than the extended arm length; the full overhead press would clip the hands. Need an overhead endpoint reference framed to include the whole reach."
+      ],
+      "limitations": [
+        "Exact master inspected; no motion or trainer approval inferred."
+      ]
+    },
+    {
+      "attemptId": "attempt_dcbe5a0f58c241cb",
+      "assetId": "r9-open-cable-wrist-curl-a1feb456-start-dcbe5a0f",
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r9-open-cable-wrist-curl-a1feb456-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-wrist-curl-a1feb456-start/attempt_dcbe5a0f58c241cb.jpg",
+      "outputSha256": "18646571ed33856008b91e3fd94f10ee9c666953ebbf379772ac1de87572a45c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:06:16+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Palms-up bar grip, low cable and orange forearms are clear.",
+        "Both proximal forearms float above the thighs instead of being supported along them; the starting pose risks becoming an elbow curl. Lower/support the forearms and leave only the wrists beyond the knees."
+      ],
+      "limitations": [
+        "Exact master inspected; no motion or trainer approval inferred."
+      ]
+    },
+    {
+      "attemptId": "attempt_4ed446dc6ae24f01",
+      "assetId": "r9-open-calf-press-619d1416-start-4ed446dc",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r9-open-calf-press-619d1416-start",
+      "outputPath": "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_4ed446dc6ae24f01.jpg",
+      "outputSha256": "3b6c64bd51a5afae2c8b3a69fd58b6ede116d05707032862f81d6622b0cff2cc",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:08:06+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both knees are bent about90degrees and the platform is beneath the feet, creating a seated calf-raise setup.",
+        "The catalog Calf Press specifies nearly straight supported legs; this is the wrong starting mechanism and knee position."
+      ],
+      "notes": "Use the catalog-allowed supported leg-press-machine setup with nearly straight knees, forefeet on the lower platform edge and heels free.",
+      "limitations": [
+        "Exact master inspected against the current catalog."
+      ]
+    },
+    {
+      "attemptId": "attempt_f00a9dca06664ebd",
+      "assetId": "r9-ex-calf-raise-seated-start-f00a9dca",
+      "exerciseId": "ex_calf_raise_seated",
+      "shot": "r9-ex-calf-raise-seated-start",
+      "outputPath": "form-media/assets/masters/r9-ex-calf-raise-seated-start/attempt_f00a9dca06664ebd.jpg",
+      "outputSha256": "f9212688a62bb2a6cac140cc67382b19fb90273bbe42cb918b4fefe5f18c75bd",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:10:46+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Forefoot support is now a separate stationary floor step; the moving loaded thigh-pad lever no longer connects to it.",
+        "The near heel is high and clear behind the step; bent knee, loaded thigh contact and orange calf are clear. Far leg/foot partly occluded in this side view."
+      ],
+      "limitations": [
+        "Exact source inspected; motion and trainer approval remain separate."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-ex-calf-raise-seated-motion-actual-reference-motion-9.16.txt",
+      "chosenMotionPromptSha256": "71bcb0d1a44fce0ebe4280840d2fdf96d54dd89329c0cf6c5766d6dcad54226c"
+    },
+    {
+      "attemptId": "attempt_77df72ea227942c2",
+      "assetId": "r9-ex-cable-lateral-raise-start-77df72ea",
+      "exerciseId": "ex_cable_lateral_raise",
+      "shot": "r9-ex-cable-lateral-raise-start",
+      "outputPath": "form-media/assets/masters/r9-ex-cable-lateral-raise-start/attempt_77df72ea227942c2.jpg",
+      "outputSha256": "07d6244bf438bc919ea98e252bc0cb3c9c2b93c8eae23375c1650979667f39d3",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:10:46+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Working arm is now long with a small elbow bend, raised laterally to shoulder height. Its closed grip remains attached to the original low pulley across the front of the body.",
+        "Full shoulder-to-hand arc is visible with broad lateral space; orange working deltoid is clear. Lower legs are cropped but relevant upper-body motion is fully visible."
+      ],
+      "limitations": [
+        "Exact source inspected; motion and trainer approval remain separate."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-ex-cable-lateral-raise-motion-actual-reference-motion-9.16.txt",
+      "chosenMotionPromptSha256": "10ba717e08f7ae18917304fef742f9ced33ede8f3c06e6ae9317bd59159fec16"
+    },
+    {
+      "attemptId": "attempt_90a3c5b43d08499b",
+      "assetId": "r9-open-cable-rear-delt-fly-dc550f7f-start-90a3c5b4",
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_90a3c5b43d08499b.jpg",
+      "outputSha256": "d75837275c71daa3f1f0382df93b5552164e3118c6ab1aed3715e24d5c12bdbc",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:10:46+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Front view repairs the behind-back route but both working cables remain deeply sagging in the purported loaded open endpoint.",
+        "The requested closed forward-arm starting pose was not produced. Use a fresh composition with closed arms and taut straight cable routes."
+      ],
+      "limitations": [
+        "Exact source inspected; motion and trainer approval remain separate."
+      ]
+    },
+    {
+      "attemptId": "attempt_81305bba15114b14",
+      "assetId": "r9-open-cable-shoulder-press-7ddeefb0-start-81305bba",
+      "exerciseId": "open_cable_shoulder_press_7ddeefb0",
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-shoulder-press-7ddeefb0-start/attempt_81305bba15114b14.jpg",
+      "outputSha256": "2a17dd55488d8a9338a8f95457764256a0eeceb86496cae09a6bb49739403089",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:10:47+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Hands are above head but both elbows remain visibly bent and the highest hand is nearly at the top boundary.",
+        "There is still insufficient room for a complete comfortable elbow extension. A fresh fully extended overhead pose with clear upper margin is required."
+      ],
+      "limitations": [
+        "Exact source inspected; motion and trainer approval remain separate."
+      ]
+    },
+    {
+      "attemptId": "attempt_3778ecc163fb4f28",
+      "assetId": "r9-open-calf-press-619d1416-start-3778ecc1",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r9-open-calf-press-619d1416-start",
+      "outputPath": "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_3778ecc163fb4f28.jpg",
+      "outputSha256": "62c94b0586dbeee11ea7cc1a007d242edd47f6973acbc1b5a138c397ca327ab8",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:12:25+00:00",
+      "status": "needs-correction",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Legs are now nearly straight in a recognizable supported leg-press setup with complete rails and good framing.",
+        "The feet still sit fully on the platform, preventing a clear heel drop, and orange remains on the thighs instead of being limited to the calf teaching cue."
+      ],
+      "notes": "Retain the new machine and straight-knee posture; repair only foot-edge contact and calf coloring before motion.",
+      "limitations": [
+        "Exact master inspected; no unseen motion approval."
+      ]
+    },
+    {
+      "attemptId": "attempt_0d1957c49c5247ba",
+      "assetId": "r9-open-cable-wrist-curl-a1feb456-start-0d1957c4",
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r9-open-cable-wrist-curl-a1feb456-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-wrist-curl-a1feb456-start/attempt_0d1957c49c5247ba.jpg",
+      "outputSha256": "e30bf27748941606f4da79630cc48e1e9fa09ac966d2e63d80e90ce6d0ec432c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:13:01+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both distal forearms have plausible support against the thighs near the knees; palms face up, hands extend beyond knees and the low cable stays attached.",
+        "Independent second inspection agreed that demanding full-length proximal forearm contact was too strict: the catalog requires supported stationary forearms, not every segment pressed flat. The minimally changed revised image is suitable for a wrist-motion trial."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-open-cable-wrist-curl-a1feb456-motion-actual-reference-motion-9.18.txt",
+      "chosenMotionPromptSha256": "1e4cf0a988cc714cfd4a7e9ac1f10754c1fd73bcfcefde0a6f825ab49efd2c36",
+      "limitations": [
+        "Actual video must keep distal supports planted and move only at the wrists. Reject elbow curling, forearm lifting or cable detachment. Exact still review is not motion or trainer approval."
+      ]
+    },
+    {
+      "attemptId": "attempt_3349a8d31f744ed4",
+      "assetId": "r9-open-cable-rear-delt-fly-dc550f7f-start-3349a8d3",
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_3349a8d31f744ed4.jpg",
+      "outputSha256": "3ada5dc96dca4d1ab06cdda601cbd3945a904b76f43fbc01de948212b1129c39",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:15:40+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both long arms hold separate handles together in front, with two taut straight cables leading to the opposite high pulleys; no sagging rear cable loops remain.",
+        "Complete arms and room for lateral opening visible. Actual closed hands are below shoulder level; the catalog permits this starting route and motion brief uses the real pose."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-open-cable-rear-delt-fly-dc550f7f-motion-actual-reference-motion-9.19.txt",
+      "chosenMotionPromptSha256": "5933f94ddd183b2b6a5b527ebc53b50def58cc66e898e2c761974d174681dd7d",
+      "limitations": [
+        "Exact reference inspected; verify full motion and unchanged cable/hand contacts in the actual output. Human/trainer approval remains separate."
+      ]
+    },
+    {
+      "attemptId": "attempt_313e1d515a734a85",
+      "assetId": "r9-open-cable-shoulder-press-7ddeefb0-start-313e1d51",
+      "exerciseId": "open_cable_shoulder_press_7ddeefb0",
+      "shot": "r9-open-cable-shoulder-press-7ddeefb0-start",
+      "outputPath": "form-media/assets/masters/r9-open-cable-shoulder-press-7ddeefb0-start/attempt_313e1d515a734a85.jpg",
+      "outputSha256": "771b3f7e7f580308cc9314b97981528c165c418d90b47f48ace9203a43e128ab",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:15:40+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Both elbows now nearly fully extend with the upper arms alongside the head and full overhead hands visible with generous margin.",
+        "Stable standing body and both floor-pulley cable paths remain visible; orange deltoid surfaces are clear. The reference has a more human facial rendering but retains anatomical muscle material and neutral colors."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-open-cable-shoulder-press-7ddeefb0-motion-actual-reference-motion-9.19.txt",
+      "chosenMotionPromptSha256": "0ac5989e2616c94d9beaf77aa6223556bc311746f154d3858238cfdfd25099dd",
+      "limitations": [
+        "Exact reference inspected; verify full motion and unchanged cable/hand contacts in the actual output. Human/trainer approval remains separate."
+      ]
+    },
+    {
+      "attemptId": "attempt_d151bb2e32c44933",
+      "assetId": "r9-open-calf-press-619d1416-start-d151bb2e",
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r9-open-calf-press-619d1416-start",
+      "outputPath": "form-media/assets/masters/r9-open-calf-press-619d1416-start/attempt_d151bb2e32c44933.jpg",
+      "outputSha256": "49cd14677d95a1f3d0b3ab1897410e052fa62b28ab4a8050bb1c7dda37ee48db",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T22:19:37+00:00",
+      "status": "ready-to-animate",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Nearly straight legs, supported seat/back and feet against a coherent sled establish a plausible LOW ankle pose; two independent inspections agree that a plantarflexion-and-return trial is mechanically possible.",
+        "The actual pose is not the requested high heel-raised endpoint. Heel overhang is not stated as mandatory in the catalog; the brief uses this real low pose and demands a complete comfortable plantarflexion then return."
+      ],
+      "chosenMotionPromptFile": "reports/round-9-preparation/cable-machine-reference-first/r9-open-calf-press-619d1416-motion-actual-reference-motion-9.20.txt",
+      "chosenMotionPromptSha256": "ce9ef04a9b36f6a0876c4f0665d876ce2808bd54942143d0bb4ce871d174ca98",
+      "limitations": [
+        "Anterior-shin orange is misleading for the calf emphasis and must be corrected in any delivered candidate, with posterior calf cue retained. Starting-frame readiness is conditional on that delivery review.",
+        "Video must keep knees/seat/back steady and move sled via ankles. Reject knee-driven leg pressing. Exact still review is not video or trainer approval."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-calf-raise-seated-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-calf-raise-seated-motion-a8ddf688.json"
+    },
+    {
+      "shot": "r9-ex-preacher-curl-motion",
+      "quoteFile": "form-media/ui-quotes/r9-ex-preacher-curl-motion-f65497cd.json"
+    },
+    {
+      "shot": "r9-open-bent-over-two-dumbbel-0c77d209-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-over-two-dumbbel-0c77d209-motion-337cbad7.json"
+    },
+    {
+      "shot": "r9-open-cable-internal-rotati-e82490e5-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-internal-rotati-e82490e5-motion-0c01a4cf.json"
+    }
+  ]
+}

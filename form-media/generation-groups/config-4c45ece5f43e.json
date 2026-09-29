@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-open-reverse-barbell-curl-c5dd7bbb-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-reverse-barbell-curl-c5dd7bbb-motion-cdaf24ee.json"
+    },
+    {
+      "shot": "r8-open-reverse-cable-curl-57c7fd48-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-reverse-cable-curl-57c7fd48-motion-d8314fa8.json"
+    },
+    {
+      "shot": "r8-open-reverse-barbell-preac-e7ad4de9-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-reverse-barbell-preac-e7ad4de9-motion-77d3e7c7.json"
+    },
+    {
+      "shot": "r8-open-reverse-flyes-aa2536c5-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-reverse-flyes-aa2536c5-motion-58213d4c.json"
+    }
+  ]
+}

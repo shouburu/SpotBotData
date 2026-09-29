@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-one-arm-high-pulley-c-13c8cfb4-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-one-arm-high-pulley-c-13c8cfb4-motion-f6ebd267.json"
+    },
+    {
+      "shot": "r9-open-one-legged-cable-kick-20e79891-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-one-legged-cable-kick-20e79891-motion-6b4a6b67.json"
+    },
+    {
+      "shot": "r9-open-power-jerk-56e87432-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-power-jerk-56e87432-motion-7cafb291.json"
+    },
+    {
+      "shot": "r9-open-power-snatch-3f9ccaec-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-power-snatch-3f9ccaec-motion-71aad76b.json"
+    }
+  ]
+}

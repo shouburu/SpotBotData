@@ -1,0 +1,142 @@
+{
+  "roundId": "round-9",
+  "reviews": [
+    {
+      "exerciseId": "open_leverage_incline_ches_0c70165e",
+      "shot": "r9-open-leverage-incline-ches-0c70165e-motion",
+      "attemptId": "attempt_39a6118a46b84376",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:01:45+00:00",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-leverage-incline-ches-0c70165e-motion-39a6118a.mp4",
+      "outputSha256": "12bf95477668a66c326ca1fd670a74f6e418a1b27c1d4b78017329d1c15bee22",
+      "status": "needs-correction",
+      "evidence": [
+        "The first extended-lower-extended cycle is complete, but the raw clip begins further partial presses after approximately5.5s. It does not satisfy exactly one repetition as delivered.",
+        "Retain the first real full cycle by contiguous original-speed trim rather than regenerating."
+      ],
+      "limitations": [
+        "Sampled full clip at3fps and inspected endpoint details; AI editorial screening, not trainer review."
+      ]
+    },
+    {
+      "exerciseId": "open_leverage_incline_ches_0c70165e",
+      "shot": "r9-open-leverage-incline-ches-0c70165e-motion",
+      "attemptId": "attempt_39a6118a46b84376",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:01:45+00:00",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "outputPath": "form-media/assets/delivery/round-9/r9-incline-leverage-single-cycle-trim-v1.mp4",
+      "outputSha256": "7fc510300c5b37825669a7090e87f8add7dbf87fc45cc57c5592c1f211a7d767",
+      "status": "candidate",
+      "evidence": [
+        "Exact5.791667s derivative retains source0\u20135.35s plus0.2s still endpoint holds. It shows one long-arm top\u2192controlled full bent-elbow bottom\u2192long-arm top, with no added second motion.",
+        "Grips stay on the same handles; head/back/pelvis and feet remain supported. Orange chest involvement is readable. Inspected the exact encoded derivative contact sheet and full-resolution final frame."
+      ],
+      "limitations": [
+        "Phase-shifted repetition starts extended. Minor secondary warm color appears near the inner arms; chest remains the clear principal highlight.",
+        "Peripheral apparatus is cropped, while all working elbow/hand/lever paths remain visible. Projection overlap of near plate and head is not independently established as physical collision.",
+        "AI screening only; human acceptance and trainer review remain separate."
+      ]
+    },
+    {
+      "exerciseId": "open_smith_single_leg_spli_c8f7e55e",
+      "shot": "r9-open-smith-single-leg-spli-c8f7e55e-motion",
+      "attemptId": "attempt_0ea8882d44eb4d0d",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-smith-single-leg-spli-c8f7e55e-motion-0ea8882d.mp4",
+      "outputSha256": "7b2d79331f6a4a898803a0e0bf212b4ec87c9f3c8d3305beba3e1cb8206f9446",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:03:14+00:00",
+      "status": "candidate",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "Six-second exact delivery shows one controlled high stance\u2192substantial split-squat descent\u2192same long front leg and stable final hold, without a second bounce. Dense3fps frames and full-resolution low/final frames were inspected.",
+        "Front sole stays planted, rear instep remains on the bench and both grips/upper-back bar contact persist through the fixed Smith path. Orange quadriceps remain readable."
+      ],
+      "limitations": [
+        "The displayed depth is comfortable with the rear knee above the floor; it does not achieve the prompt literal near-floor instruction, which is not a catalog requirement. Three-quarter view foreshortens the front thigh.",
+        "One side is demonstrated; catalog text retains both-side repetition guidance. AI screening is separate from human/trainer approval."
+      ]
+    },
+    {
+      "exerciseId": "open_cable_internal_rotati_e82490e5",
+      "shot": "r9-open-cable-internal-rotati-e82490e5-motion",
+      "attemptId": "attempt_f6af2a90e67747cf",
+      "outputPath": "form-media/assets/delivery/round-9/r9-open-cable-internal-rotati-e82490e5-motion-f6af2a90.mp4",
+      "outputSha256": "9c6e3c1858c96631634537a8d310ba723a6ad84b4cafb19534c5b402886c663b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:09:02+00:00",
+      "status": "candidate",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "Exact six-second delivery shows one inward-across-abdomen\u2192outward toward pulley\u2192same inward position cycle, with a readable final hold and no second repetition. Dense3fps sheets and full-resolution outward/final frames inspected.",
+        "Upper arm remains beside the ribs with the towel supported; the elbow stays bent rather than turning the action into a curl. Same closed D-handle grip, carabiner and cable attachment persist. Orange shoulder involvement stays readable."
+      ],
+      "limitations": [
+        "The cycle begins at the inward endpoint rather than the prose starting phase. View foreshortens the outward forearm, and the shoulder color is a broad involvement cue rather than a view of each deep rotator muscle.",
+        "One arm shown, with repeat-side instruction in catalog. AI screening remains separate from human and trainer review."
+      ]
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-motion",
+      "attemptId": "attempt_dd6e6ff88cdb425d",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-reverse-pec-deck-motion-dd6e6ff8.mp4",
+      "outputSha256": "669d64a56ef2fb6cb5fd285f2f561f797d2cfca9d408785321dbb50fb2e59081",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:19:49+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "The supported full forward-open-forward cycle is mechanically useful, but wide delivery makes the subject unnecessarily small on a phone. A closer derivative retains the complete working path."
+      ],
+      "limitations": [
+        "Posterior orange cue becomes less visible as the arms open in this side view; this is not independently established as loss of muscle coloring rather than occlusion."
+      ]
+    },
+    {
+      "exerciseId": "ex_reverse_pec_deck",
+      "shot": "r9-ex-reverse-pec-deck-motion",
+      "attemptId": "attempt_dd6e6ff88cdb425d",
+      "outputPath": "form-media/assets/delivery/round-9/r9-reverse-pec-deck-complete-cycle-close.mp4",
+      "outputSha256": "4082a751ed2a6cfef43b73041a86b87928d6084240fea089c37e8a0acbd3c6ae",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:19:49+00:00",
+      "status": "candidate",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "Exact5.916667s620x720 derivative retains source0\u20135.5s plus0.2s still holds and x340,y0,w620,h720 crop. One forward reach\u2192wide long-arm opening\u2192complete forward return remains at original speed.",
+        "Chest stays against pad, pelvis/feet remain supported, handles/upper linkages remain connected. No press-like elbow collapse. Viewed dense source sheets, full-resolution open frame, exact encoded contact sheet and final frame; independent AI cross-opinion agrees the cycle is useful."
+      ],
+      "limitations": [
+        "Rear-shoulder orange is clear at forward reach and partly obscured at the wide endpoint as the shoulder rotates toward the side camera; far arm is partly occluded. Caption discloses cue visibility.",
+        "Upper apparatus was already cropped in the source; working shoulders/elbows/hands and chest/seat/foot contacts remain visible. AI screening is not human or trainer approval."
+      ]
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r9-ex-cable-fly-motion",
+      "attemptId": "attempt_feeb9e181771428a",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-cable-fly-motion-feeb9e18.mp4",
+      "outputSha256": "31751b58cdd0636b72c40200c13750a1908f600ca9321e3d0444fc39c7d0fc46",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-22T02:19:49+00:00",
+      "status": "needs-correction",
+      "reviewKind": "exact-delivery-ai-editorial",
+      "evidence": [
+        "During closure, elbows fold appreciably toward the flanks and forearms cross the abdomen, shortening the arm lever instead of preserving the source soft bend. This is a hybrid movement rather than a clean cable fly.",
+        "The clip also adds partial cycles after the first closure/reopening. Trimming those extras would not repair the changing elbow angle. Dense source sheets and full-resolution mid/closed frames inspected; independent AI cross-opinion agrees."
+      ],
+      "limitations": [
+        "Not labeling this a conventional press; the specific defect is the elbow-folding change in lever length."
+      ]
+    }
+  ]
+}

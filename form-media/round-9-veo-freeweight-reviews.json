@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "assetId": "r9-ex-skullcrusher-motion-e5cce015",
+      "shot": "r9-ex-skullcrusher-motion",
+      "exerciseId": "ex_skullcrusher",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-skullcrusher-motion-e5cce015.mp4",
+      "outputSha256": "218d7604ac6c8b3ce316c46f2d7799281175846aaea7cf7e42d1c3534497c81a",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T20:36:27+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "model": "veo-fast",
+      "evidence": [
+        "The sampled delivery repeatedly lowers the shoulder-to-elbow segments toward the bench around 0.7–1.3 seconds, 3.3–4.3 seconds and again near 6.7–7.3 seconds. The exact 1.0-second frame shows the near upper arm lowered close to the supported head/bench instead of remaining elevated as a fixed elbow pivot.",
+        "The forearms remain comparatively upright while the bar moves down and up with the upper arms, producing a press-like action. The bar never demonstrates the requested controlled forehead approach through isolated elbow flexion with elevated upper arms.",
+        "Several pulses occur rather than exactly one cycle followed by stillness. The head stays supported and orange upper-arm material remains visible, but those improvements do not resolve the movement identified in the human rejection."
+      ],
+      "limitations": [
+        "AI visual editorial review using the listed sampled delivery frames; continuous playback and trainer validation are not claimed.",
+        "Phase times are approximate. Muscle coloring is illustrative, not a measured activation map.",
+        "The supplied reference is an elbow-focused close view; feet are outside frame and are not the reason for rejection."
+      ],
+      "notes": "Veo Fast did not correct the key skullcrusher mechanics. No contiguous interval contains the missing correct elbow-only cycle. A proposed low-endpoint reference plus a separately quoted Veo Quality I2V comparison is documented outside the automatic staging directory.",
+      "inspection": {
+        "method": "Dense 3 fps original-delivery sheets or 2 fps derived-delivery sheet, plus exact full-resolution endpoint/detail frames.",
+        "artifacts": [
+          "reports/form-media/attempt_e5cce015d1074944/review-3fps-01.jpg",
+          "reports/form-media/attempt_e5cce015d1074944/review-3fps-02.jpg",
+          "reports/form-media/attempt_e5cce015d1074944/review-exact-1.0s.png"
+        ],
+        "additionalSampleTimesSeconds": [
+          1.0
+        ]
+      },
+      "attemptId": "attempt_e5cce015d1074944",
+      "correctionProposalFile": "reports/round-9-preparation/proposals/skullcrusher-after-veo-fast-e5cce015.md"
+    },
+    {
+      "assetId": "r9-ex-romanian-deadlift-motion-c76a52bb",
+      "shot": "r9-ex-romanian-deadlift-motion",
+      "exerciseId": "ex_romanian_deadlift",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-ex-romanian-deadlift-motion-c76a52bb.mp4",
+      "outputSha256": "247318393c2f8b6ecd11523c6245e2127aa8e18619b7348216058d4da5421e24",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T20:36:27+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "model": "veo-quality",
+      "evidence": [
+        "The first movement is a clear low hip hinge to full upright standing, approximately 0.5–1.4 seconds, followed by a long upright hold. The hips then travel backward and the bar returns below the knees by approximately 5.7–6.0 seconds.",
+        "Feet stay planted, arms remain long, the bar stays close to the legs and the hinge is not replaced by a squat. Orange posterior-thigh muscle material remains visible throughout the sampled working phases.",
+        "After the first complete return, another ascent begins around 6.3 seconds and reaches standing again near the end. That extra movement breaks the requested single low-to-standing-to-low cycle.",
+        "Exact delivery frames at 0, 5.333, 5.667 and 6.0 seconds support a contiguous 0–6.0-second single-cycle edit; no reversal or generated intermediate motion is needed."
+      ],
+      "limitations": [
+        "AI visual editorial review using the listed sampled delivery frames; continuous playback and trainer validation are not claimed.",
+        "Phase times are approximate. Muscle coloring is illustrative, not a measured activation map.",
+        "The distal right bar sleeve approaches and sometimes leaves the image edge near standing. The working grip, arms, hips, knees and feet remain visible; this is retained as a minor framing limitation rather than a missing working-joint/contact demonstration."
+      ],
+      "notes": "Raw source needs correction only for the extra final ascent. Its first full cycle is useful and has been retained in a separate zero-generation-credit trim, with the complete original preserved.",
+      "inspection": {
+        "method": "Dense 3 fps original-delivery sheets or 2 fps derived-delivery sheet, plus exact full-resolution endpoint/detail frames.",
+        "artifacts": [
+          "reports/form-media/attempt_c76a52bbea434f06/review-3fps-01.jpg",
+          "reports/form-media/attempt_c76a52bbea434f06/review-3fps-02.jpg",
+          "reports/form-media/attempt_c76a52bbea434f06/review-exact-0s.png",
+          "reports/form-media/attempt_c76a52bbea434f06/review-exact-5.333s.png",
+          "reports/form-media/attempt_c76a52bbea434f06/review-exact-5.667s.png",
+          "reports/form-media/attempt_c76a52bbea434f06/review-exact-6.0s.png"
+        ],
+        "additionalSampleTimesSeconds": [
+          0,
+          5.333,
+          5.667,
+          6.0
+        ]
+      },
+      "attemptId": "attempt_c76a52bbea434f06",
+      "derivedCandidateAssetId": "r9-romanian-deadlift-veo-quality-single-cycle-trim"
+    },
+    {
+      "assetId": "r9-romanian-deadlift-veo-quality-single-cycle-trim",
+      "shot": "r9-ex-romanian-deadlift-motion",
+      "exerciseId": "ex_romanian_deadlift",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/delivery/round-9/r9-romanian-deadlift-veo-quality-single-cycle-trim.mp4",
+      "outputSha256": "c2b16eddaa3f9b8eb0797881ff225374ff4c3dd9b10cb3641c8e444ea4bb6ebd",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T20:36:27+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "model": "veo-quality",
+      "evidence": [
+        "The exact derived delivery starts in the low hinge, extends to full upright standing with the bar at the thighs, and returns to a complete low hinge below the knees. The added final hold remains at that low endpoint; the unwanted later second ascent is absent.",
+        "Inspection of the derived 2 fps sheet and its exact 6.5-second final-hold frame confirms stable planted feet, long arms, a close rigid bar path and persistent orange hamstring material during the working movement.",
+        "This is an original-speed contiguous excerpt of source 0–6.0 seconds with brief cloned still endpoint holds. It contains no reversal, synthetic in-between movement or additional generation."
+      ],
+      "limitations": [
+        "AI visual editorial review using the listed sampled delivery frames; continuous playback and trainer validation are not claimed.",
+        "Phase times are approximate. Muscle coloring is illustrative, not a measured activation map.",
+        "The distal right bar sleeve approaches and sometimes leaves the image edge near standing. The working grip, arms, hips, knees and feet remain visible; this is retained as a minor framing limitation rather than a missing working-joint/contact demonstration."
+      ],
+      "notes": "AI candidate for human review: one readable low-to-standing-to-low Romanian-deadlift cycle. The final held endpoint is the low hinge, as specified by this reference-based demonstration. User approval and selection remain pending.",
+      "inspection": {
+        "method": "Dense 3 fps original-delivery sheets or 2 fps derived-delivery sheet, plus exact full-resolution endpoint/detail frames.",
+        "artifacts": [
+          "reports/form-media/r9-romanian-deadlift-veo-quality-single-cycle-trim/keyframes.jpg",
+          "reports/form-media/r9-romanian-deadlift-veo-quality-single-cycle-trim/review-exact-6.5s.png"
+        ],
+        "additionalSampleTimesSeconds": [
+          6.5
+        ]
+      },
+      "sourceAttemptId": "attempt_c76a52bbea434f06",
+      "edit": {
+        "id": "r9-romanian-deadlift-veo-quality-single-cycle-trim",
+        "roundId": "round-9",
+        "sourceRoundId": "round-9",
+        "sourceAssetId": "r9-ex-romanian-deadlift-motion-c76a52bb",
+        "sourceAttemptId": "attempt_c76a52bbea434f06",
+        "sourcePath": "form-media/assets/masters/r9-ex-romanian-deadlift-motion/attempt_c76a52bbea434f06.mp4",
+        "sourceSha256": "63f62164388ab148a6f632e7d5c314e34076f30478f75156ba79f38a6a72f8d5",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 6.0,
+        "leadHoldSeconds": 0.35,
+        "tailHoldSeconds": 0.35,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=6.0,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.35:stop_mode=clone:stop_duration=0.35",
+        "generationCredits": 0,
+        "createdAt": "2026-09-21T20:34:51+00:00",
+        "path": "form-media/assets/delivery/round-9/r9-romanian-deadlift-veo-quality-single-cycle-trim.mp4",
+        "sha256": "c2b16eddaa3f9b8eb0797881ff225374ff4c3dd9b10cb3641c8e444ea4bb6ebd",
+        "bytes": 651585,
+        "width": 720,
+        "height": 1280,
+        "durationSeconds": 6.666667,
+        "codec": "h264"
+      },
+      "generationCredits": 0
+    }
+  ]
+}

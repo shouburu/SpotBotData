@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r10-open-decline-dumbbell-flye-14b2de63-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-decline-dumbbell-flye-14b2de63-start-cd190110.json"
+    },
+    {
+      "shot": "r10-open-donkey-calf-raises-55a343b9-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-donkey-calf-raises-55a343b9-start-6369c53a.json"
+    },
+    {
+      "shot": "r10-open-dumbbell-lying-pronat-95605e7c-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-dumbbell-lying-pronat-95605e7c-start-56188161.json"
+    },
+    {
+      "shot": "r10-open-landmine-180s-8bd8af32-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-landmine-180s-8bd8af32-start-3d7b0e9b.json"
+    }
+  ]
+}

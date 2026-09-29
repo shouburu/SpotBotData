@@ -1,0 +1,67 @@
+{
+  "id": "group_f953ff2b87314ed1",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T22:10:01+00:00",
+  "balanceBefore": 9016,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_incline_dumbbell_flye_f858d67d",
+      "shot": "r9-open-incline-dumbbell-flye-f858d67d-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "f92951f6e7b2d78a2db3be5a6040ca8e917eae61a3c0850d362910508dfb29cd",
+      "quoteFile": "form-media/ui-quotes/r9-open-incline-dumbbell-flye-f858d67d-start-e00a63ec.json",
+      "quoteSha256": "74e188ef524ad9af5fc7dd10d7ad77cfc656aee3fe1cc40346ab2973ba85f6f8",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-incline-dumbbell-flye-f858d67d-start/attempt_03216d28a8d74329.jpg",
+          "sha256": "5e589cc634b09d6f66099640cd25ca0263b2bdd7f54e5af31a931cc02428aa50"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_leverage_deadlift_ba90f5c3",
+      "shot": "r9-open-leverage-deadlift-ba90f5c3-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "0c14c9347250dca8b165994a27fd933685d970ec4e45ebc9924ca52dac3e8289",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-deadlift-ba90f5c3-start-d3ff7385.json",
+      "quoteSha256": "364bce8a71476d758364f37d5dbb1e4956da6ad2d4218b29e1d8dbf091e124a7",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "open_one_arm_high_pulley_c_13c8cfb4",
+      "shot": "r9-open-one-arm-high-pulley-c-13c8cfb4-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "e69961b5fb71caf3536bee26b9b53c7fac8dacd7a6a399aa7fa2425e40b63496",
+      "quoteFile": "form-media/ui-quotes/r9-open-one-arm-high-pulley-c-13c8cfb4-start-7b4fe59d.json",
+      "quoteSha256": "0085892dd06c0e9d34c125e2359556ce7c53f951f4dee5f4268f22fd382f6404",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "open_pallof_press_69ae4277",
+      "shot": "r9-open-pallof-press-69ae4277-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "522ba13bf420e45f8d7e5f7a0ecbb53a31371b7a6664d454e34f96076fdfede0",
+      "quoteFile": "form-media/ui-quotes/r9-open-pallof-press-69ae4277-start-99c74d04.json",
+      "quoteSha256": "d07a70b57e40170f06dba7b63d2dd7a442d858958b002e2ced199525e53ec5c6",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T22:11:35+00:00",
+  "balanceAfter": 9016,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-9bcedc0e8e454f35.json",
+  "evidenceSha256": "37a62f9ee7323deddc584cff1e950dda2ff7f05cdf9455314b7b01174b73eb0d",
+  "terminalFailureIds": []
+}

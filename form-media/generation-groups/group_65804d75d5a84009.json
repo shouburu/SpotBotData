@@ -1,0 +1,62 @@
+{
+  "id": "group_65804d75d5a84009",
+  "status": "completed",
+  "roundId": "round-11",
+  "createdAt": "2026-09-23T01:28:18+00:00",
+  "balanceBefore": 4475,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r11-flat-dumbbell-fly-t2v",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "eb8efa9a8ca00ef346b755de99f8c47fe504c5bf9bcfcb1e7487cd764838f5e7",
+      "quoteFile": "form-media/ui-quotes/r11-flat-dumbbell-fly-t2v-dff9e03f.json",
+      "quoteSha256": "d472b6e31d2be38f2088c48faa52fb81dbd2988cb734fe99893d1ef23a2660c9",
+      "quoteCredits": 12,
+      "balance": 4475,
+      "references": []
+    },
+    {
+      "exerciseId": "open_incline_dumbbell_flye_f858d67d",
+      "shot": "r11-incline-dumbbell-fly-t2v",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "b348fa687e678c36480119fc749c6917799dd255c99fcf15ee005482a14e03b2",
+      "quoteFile": "form-media/ui-quotes/r11-incline-dumbbell-fly-t2v-1b24bfb3.json",
+      "quoteSha256": "618018c12de09d6d400043ff7c61231050dff1b1c4d773344bec98b29277fc8a",
+      "quoteCredits": 12,
+      "balance": 4475,
+      "references": []
+    },
+    {
+      "exerciseId": "open_stiff_legged_dumbbell_5da667b0",
+      "shot": "r11-stiff-leg-dumbbell-deadlift-t2v",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "6e9ba1eb1b2a2651e7e6ec5203526ec5bdd2ccf2eacf50f675cca845af9ca6bc",
+      "quoteFile": "form-media/ui-quotes/r11-stiff-leg-dumbbell-deadlift-t2v-4d077619.json",
+      "quoteSha256": "72de310d8e5fed720ec3c29656d3ac9abef0e3b5402b61a3cc90f5bdcacf4c82",
+      "quoteCredits": 12,
+      "balance": 4475,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_bench_press",
+      "shot": "r11-barbell-bench-press-t2v",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "d349d6cc8f3dcdb62912ecf68b2a68ee30f432f646dcf53a36bedbfbf766c290",
+      "quoteFile": "form-media/ui-quotes/r11-barbell-bench-press-t2v-18b582e7.json",
+      "quoteSha256": "35a644b1aa1843997aaf40a4edc9c756b62adbfea27d3245fb813327baced5d2",
+      "quoteCredits": 12,
+      "balance": 4475,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-23T01:30:05+00:00",
+  "balanceAfter": 4427,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-860457bb3a36494f.json",
+  "evidenceSha256": "61da2dba581d0c8f72ce578f4f5e5f4e703c15527b4a977f6da106e131ed5fbe",
+  "terminalFailureIds": []
+}

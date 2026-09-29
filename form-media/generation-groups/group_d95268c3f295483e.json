@@ -1,0 +1,61 @@
+{
+  "id": "group_d95268c3f295483e",
+  "status": "completed",
+  "roundId": "round-6",
+  "createdAt": "2026-09-15T20:32:35+00:00",
+  "balanceBefore": 8916,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_pec_deck",
+      "shot": "r6-ex-pec-deck-start",
+      "profile": "spotbot_media_1",
+      "quoteFile": "form-media/ui-quotes/r6-ex-pec-deck-start-133235006462.json",
+      "quoteSha256": "673f43d8c514267645d83626f7dca2065750abf36f39e8409747670ff7cd0dab",
+      "quoteCredits": 0,
+      "balance": 8916,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_machine_row",
+      "shot": "r6-ex-machine-row-start",
+      "profile": "spotbot_media_2",
+      "quoteFile": "form-media/ui-quotes/r6-ex-machine-row-start-133235006752.json",
+      "quoteSha256": "80c5de155d14033aedf16c69f1320be6f4277b8c9248c9ccfa19a90cd64aecec",
+      "quoteCredits": 0,
+      "balance": 8916,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r6-ex-dumbbell-fly-start",
+      "profile": "spotbot_media_3",
+      "quoteFile": "form-media/ui-quotes/r6-ex-dumbbell-fly-start-133235006878.json",
+      "quoteSha256": "471cdcd46f777d757c8695d649277141de1397959dd2a1c96bdc4b9e5a7d1cf9",
+      "quoteCredits": 0,
+      "balance": 8916,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-15T20:34:53+00:00",
+  "balanceAfter": 8916,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/group_d95268c3f295483e-after.json",
+  "evidenceSha256": "1bbc5daf4fd88009764c7ae2d74ff394dfefd77e4177f12e2b013048178db9f4"
+}

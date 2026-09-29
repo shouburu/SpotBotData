@@ -1,0 +1,675 @@
+{
+  "schemaVersion": 1,
+  "snapshotAt": "2026-09-15T20:20:22+00:00",
+  "round": {
+    "id": "round-5",
+    "title": "Round 5 · Anatomical muscle glow · 15 new exercises",
+    "exerciseIds": [
+      "ex_incline_bench_press",
+      "ex_pushup",
+      "ex_pull_up",
+      "ex_bulgarian_split_squat",
+      "cat_cal_reverse_lunge",
+      "cat_cal_pike_pushup",
+      "ex_chest_dip",
+      "open_barbell_step_ups_78799b06",
+      "cat_cal_incline_pushup",
+      "ex_leg_extension",
+      "ex_leg_curl",
+      "ex_bicep_curl",
+      "ex_hammer_curl",
+      "open_triceps_pushdown_e68b25c2",
+      "ex_dumbbell_row"
+    ],
+    "status": "awaiting-review",
+    "authorizedAt": "2026-09-15T17:53:02.908006+00:00",
+    "authorization": "15 new exercises, compound focus with isolation, Anatomical 3D only, glowing muscle groups and one full repetition.",
+    "creditLimitScope": "Cumulative 2000; 840 spent before this round.",
+    "replacementNote": "Single-Arm Dumbbell Row added to maintain 15 new motion studies after Front Squat exhausted its three starting-frame attempts. Front Squat stays visible as failed reference work, not a sixteenth promised video.",
+    "heldExerciseIds": [
+      "ex_front_squat"
+    ],
+    "heldReason": "Front-rack starting pose remained unclear after the three-attempt limit. Reference work remains in All exercises and generation history; the requested 15-study queue uses Single-Arm Dumbbell Row instead.",
+    "productionFinishedAt": "2026-09-15T19:43:07.910933+00:00",
+    "reviewCandidateExerciseIds": [
+      "ex_incline_bench_press",
+      "ex_pushup",
+      "cat_cal_reverse_lunge",
+      "cat_cal_pike_pushup",
+      "open_barbell_step_ups_78799b06",
+      "cat_cal_incline_pushup",
+      "ex_leg_extension",
+      "ex_leg_curl",
+      "ex_bicep_curl",
+      "ex_hammer_curl",
+      "open_triceps_pushdown_e68b25c2",
+      "ex_dumbbell_row"
+    ],
+    "flaggedExerciseIds": [
+      "ex_pull_up",
+      "ex_bulgarian_split_squat",
+      "ex_chest_dip"
+    ],
+    "productionSummary": "15 new motion studies, 12 AI editorial candidates, 3 flagged for reference/motion failures; no user acceptances implied.",
+    "roundCreditsSpent": 312
+  },
+  "reviews": [
+    {
+      "id": "review_9694b612a68045c8",
+      "exerciseId": "ex_bicep_curl",
+      "roundId": "round-5",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r5-barbell-curl-cycle-v1"
+      ],
+      "createdAt": "2026-09-15T19:59:24+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": [
+        {
+          "assetId": "r5-barbell-curl-cycle-v1",
+          "roundId": "round-5",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "accepted"
+        }
+      ]
+    },
+    {
+      "id": "review_13ca29b2d0814e38",
+      "exerciseId": "open_barbell_step_ups_78799b06",
+      "roundId": "round-5",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r5-barbell-stepup-anatomical-motion-7d4da4ca"
+      ],
+      "createdAt": "2026-09-15T19:59:53+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": [
+        {
+          "assetId": "r5-barbell-stepup-anatomical-motion-7d4da4ca",
+          "roundId": "round-5",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "accepted"
+        }
+      ]
+    },
+    {
+      "id": "review_16b009ab400a4276",
+      "exerciseId": "ex_bulgarian_split_squat",
+      "roundId": "round-5",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r5-bulgarian-split-squat-anatomical-motion-1a62f341"
+      ],
+      "createdAt": "2026-09-15T20:00:19+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": [
+        {
+          "assetId": "r5-bulgarian-split-squat-anatomical-motion-1a62f341",
+          "roundId": "round-5",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "accepted"
+        }
+      ]
+    },
+    {
+      "id": "review_901df675ba134f5a",
+      "exerciseId": "ex_chest_dip",
+      "roundId": "round-5",
+      "reviewStatus": "rejected",
+      "notes": "he does a half motion twice, it should be 1 full range of motion rep",
+      "selectedAssetIds": [],
+      "createdAt": "2026-09-15T20:00:52+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": []
+    },
+    {
+      "id": "review_ff923ab6f95c4708",
+      "exerciseId": "ex_hammer_curl",
+      "roundId": "round-5",
+      "reviewStatus": "rejected",
+      "notes": "use this video for a Dumbell Curl, the animation is wrong for the hammer curl as hammer curl doesnt rotate wrist. ",
+      "selectedAssetIds": [],
+      "createdAt": "2026-09-15T20:03:00+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": []
+    },
+    {
+      "id": "review_37102daf1a754130",
+      "exerciseId": "ex_incline_bench_press",
+      "roundId": "round-5",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r5-incline-db-press-anatomical-cycle-v1"
+      ],
+      "createdAt": "2026-09-15T20:03:21+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": [
+        {
+          "assetId": "r5-incline-db-press-anatomical-cycle-v1",
+          "roundId": "round-5",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "accepted"
+        }
+      ]
+    },
+    {
+      "id": "review_28c1867826ec409a",
+      "exerciseId": "cat_cal_incline_pushup",
+      "roundId": "round-5",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r5-incline-pushup-cycle-v1"
+      ],
+      "createdAt": "2026-09-15T20:03:44+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": [
+        {
+          "assetId": "r5-incline-pushup-cycle-v1",
+          "roundId": "round-5",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "accepted"
+        }
+      ]
+    },
+    {
+      "id": "review_0cb7ed410cd74587",
+      "exerciseId": "ex_leg_curl",
+      "roundId": "round-5",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r5-lying-leg-curl-cycle-v1"
+      ],
+      "createdAt": "2026-09-15T20:04:27+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": [
+        {
+          "assetId": "r5-lying-leg-curl-cycle-v1",
+          "roundId": "round-5",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "accepted"
+        }
+      ]
+    },
+    {
+      "id": "review_db0d6edb057842e5",
+      "exerciseId": "cat_cal_pike_pushup",
+      "roundId": "round-5",
+      "reviewStatus": "rejected",
+      "notes": "this one is probably too complicated to reference. can you link to a youtube video explaining it instead.",
+      "selectedAssetIds": [],
+      "createdAt": "2026-09-15T20:06:48+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": []
+    },
+    {
+      "id": "review_f6994f88bf4d45f7",
+      "exerciseId": "ex_pull_up",
+      "roundId": "round-5",
+      "reviewStatus": "rejected",
+      "notes": "more bobbing up and down halfway, it should show 1 full range of motion rep.",
+      "selectedAssetIds": [],
+      "createdAt": "2026-09-15T20:07:22+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": []
+    },
+    {
+      "id": "review_53c2ef0051d34fa0",
+      "exerciseId": "ex_pushup",
+      "roundId": "round-5",
+      "reviewStatus": "rejected",
+      "notes": "i would clip this from 0 to 5 seconds, after that the video shows a half pushup.",
+      "selectedAssetIds": [],
+      "createdAt": "2026-09-15T20:08:16+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": []
+    },
+    {
+      "id": "review_c3aa4748353d4058",
+      "exerciseId": "cat_cal_reverse_lunge",
+      "roundId": "round-5",
+      "reviewStatus": "rejected",
+      "notes": "just pretty bad overall. ",
+      "selectedAssetIds": [],
+      "createdAt": "2026-09-15T20:08:45+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": []
+    },
+    {
+      "id": "review_fd74b98bc4b24a67",
+      "exerciseId": "ex_dumbbell_row",
+      "roundId": "round-5",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r5-single-arm-db-row-cycle-v1"
+      ],
+      "createdAt": "2026-09-15T20:09:04+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": [
+        {
+          "assetId": "r5-single-arm-db-row-cycle-v1",
+          "roundId": "round-5",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "accepted"
+        }
+      ]
+    },
+    {
+      "id": "review_68b5dc0ac73c4297",
+      "exerciseId": "open_triceps_pushdown_e68b25c2",
+      "roundId": "round-5",
+      "reviewStatus": "rejected",
+      "notes": "i like the video but the figure is doing a weird impossible wrist rotation in the middle of the rep",
+      "selectedAssetIds": [],
+      "createdAt": "2026-09-15T20:09:41+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewRoundId": "round-5"
+      },
+      "assetReviews": []
+    }
+  ],
+  "exercises": {
+    "ex_incline_bench_press": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r5-incline-db-press-anatomical-cycle-v1"
+      ],
+      "notes": "",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": true,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "inclined",
+      "proposedAssetIds": [
+        "r5-incline-db-press-anatomical-cycle-v1"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "deliveryBytes": 527314,
+      "reviewedAt": "2026-09-15T20:03:21+00:00"
+    },
+    "ex_pushup": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "i would clip this from 0 to 5 seconds, after that the video shows a half pushup.",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": true,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "floor",
+      "proposedAssetIds": [
+        "r5-pushup-anatomical-motion-ed72e511"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "reviewedAt": "2026-09-15T20:08:16+00:00"
+    },
+    "ex_pull_up": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "more bobbing up and down halfway, it should show 1 full range of motion rep.",
+      "reviewRoundId": "round-5",
+      "productionStatus": "needs-correction",
+      "compound": true,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "hanging",
+      "proposedAssetIds": [],
+      "productionNote": "Two shallow repeated-motion takes; three starting-image attempts exhausted, latest reference invalid. Needs a new overhead-hang reference with true chin clearance.",
+      "reviewedAt": "2026-09-15T20:07:22+00:00"
+    },
+    "ex_bulgarian_split_squat": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r5-bulgarian-split-squat-anatomical-motion-1a62f341"
+      ],
+      "notes": "",
+      "reviewRoundId": "round-5",
+      "productionStatus": "needs-correction",
+      "compound": true,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "standing",
+      "proposedAssetIds": [],
+      "productionNote": "Upright head clipped and thigh glow dims in both motions; three reference attempts exhausted. Needs a correctly framed upright reference.",
+      "deliveryBytes": 584373,
+      "reviewedAt": "2026-09-15T20:00:19+00:00"
+    },
+    "cat_cal_reverse_lunge": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "just pretty bad overall. ",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": true,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "standing",
+      "proposedAssetIds": [
+        "r5-reverse-lunge-anatomical-motion-5516d731"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "reviewedAt": "2026-09-15T20:08:45+00:00"
+    },
+    "cat_cal_pike_pushup": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "this one is probably too complicated to reference. can you link to a youtube video explaining it instead.",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": true,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "floor",
+      "proposedAssetIds": [
+        "r5-pike-pushup-anatomical-motion-c3f6f3cc"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "reviewedAt": "2026-09-15T20:06:48+00:00"
+    },
+    "ex_chest_dip": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "he does a half motion twice, it should be 1 full range of motion rep",
+      "reviewRoundId": "round-5",
+      "productionStatus": "needs-correction",
+      "compound": true,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "supported",
+      "proposedAssetIds": [],
+      "productionNote": "Three motion attempts remained shallow repeated pulses despite a second clearer reference. Motion retry limit reached.",
+      "reviewedAt": "2026-09-15T20:00:52+00:00"
+    },
+    "open_barbell_step_ups_78799b06": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r5-barbell-stepup-anatomical-motion-7d4da4ca"
+      ],
+      "notes": "",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": true,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "standing",
+      "proposedAssetIds": [
+        "r5-barbell-stepup-anatomical-motion-7d4da4ca"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "deliveryBytes": 804849,
+      "reviewedAt": "2026-09-15T19:59:53+00:00"
+    },
+    "cat_cal_incline_pushup": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r5-incline-pushup-cycle-v1"
+      ],
+      "notes": "",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": true,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "inclined",
+      "proposedAssetIds": [
+        "r5-incline-pushup-cycle-v1"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "deliveryBytes": 478563,
+      "reviewedAt": "2026-09-15T20:03:44+00:00"
+    },
+    "ex_leg_extension": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": false,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "seated",
+      "proposedAssetIds": [
+        "r5-leg-extension-cycle-v1"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate."
+    },
+    "ex_leg_curl": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r5-lying-leg-curl-cycle-v1"
+      ],
+      "notes": "",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": false,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "prone",
+      "proposedAssetIds": [
+        "r5-lying-leg-curl-cycle-v1"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "deliveryBytes": 372883,
+      "reviewedAt": "2026-09-15T20:04:27+00:00"
+    },
+    "ex_bicep_curl": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r5-barbell-curl-cycle-v1"
+      ],
+      "notes": "",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": false,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "standing",
+      "proposedAssetIds": [
+        "r5-barbell-curl-cycle-v1"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "deliveryBytes": 413623,
+      "reviewedAt": "2026-09-15T19:59:24+00:00"
+    },
+    "ex_hammer_curl": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "use this video for a Dumbell Curl, the animation is wrong for the hammer curl as hammer curl doesnt rotate wrist. ",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": false,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "standing",
+      "proposedAssetIds": [
+        "r5-hammer-curl-cycle-v1"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "reviewedAt": "2026-09-15T20:03:00+00:00"
+    },
+    "open_triceps_pushdown_e68b25c2": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D: one complete repetition with full return. Orange glow shows primary muscle involvement; blue shows supporting groups where visible. These are illustrative cues, not measured activation intensity.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "i like the video but the figure is doing a weird impossible wrist rotation in the middle of the rep",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": false,
+      "iterationReason": "Round 4 user feedback: required glow, no pulses or partial reset.",
+      "bodyPosition": "standing",
+      "proposedAssetIds": [
+        "r5-triceps-pushdown-cycle-v1"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "reviewedAt": "2026-09-15T20:09:41+00:00"
+    },
+    "ex_dumbbell_row": {
+      "teachingFormat": "video",
+      "rationale": "One complete right-arm row with full return. Orange is primary muscle involvement; blue is supporting involvement, not measured activation intensity. Repeat the target on each side.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r5-single-arm-db-row-cycle-v1"
+      ],
+      "notes": "",
+      "reviewRoundId": "round-5",
+      "productionStatus": "ready-for-review",
+      "compound": true,
+      "bodyPosition": "bench-supported",
+      "proposedAssetIds": [
+        "r5-single-arm-db-row-cycle-v1"
+      ],
+      "productionNote": "AI editorial candidate only; user and trainer review remain separate.",
+      "deliveryBytes": 292405,
+      "reviewedAt": "2026-09-15T20:09:04+00:00"
+    }
+  },
+  "note": "14 user reviews submitted; Leg Extension remains pending. Preserve raw reviews and accepted flagged assets."
+}

@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "attemptId": "attempt_666e8d3ec1b940b5",
+      "exerciseId": "open_leverage_high_row_c0482620",
+      "shot": "r9-open-leverage-high-row-c0482620-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-leverage-high-row-c0482620-start/attempt_666e8d3ec1b940b5.jpg",
+      "outputSha256": "de8fed43ca669cfa5bc712a0a17aaccea8af982f31f2ce81044d5a4a4a962cc7",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T20:40:27+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both working hands visibly hold grip ends that connect continuously to solid lever arms and their fixed overhead pivots. There are no detached duplicate working grips beside the hands.",
+        "The mannequin is seated with feet supported and a thigh restraint visible. The arms are raised in a usable reached position; the far elbow appears somewhat more flexed in perspective, but both have a readable downward pull path.",
+        "The lever ends have room to travel down toward the torso and return. Hands, elbows, pivots and body support contacts are inside the image.",
+        "Orange muscle fibers cover paired middle-back and lat regions, matching this still prompt; the spinal midline remains gray."
+      ],
+      "limitations": [
+        "This is a single-still mechanical/pose review, not evidence that the machine will remain rigid during generated motion.",
+        "The image also highlights involved secondary lat muscles alongside the correctly visible middle-back primary region. This is acceptable under the practical standard; it is not primary-only coloring. Empty loading pins imply an unloaded technique demonstration."
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Reached reference \u2192 pull the same connected grip/lever assemblies down beside ribs with elbows down/back \u2192 exact original reached reference.",
+        "mustPreserve": [
+          "Hands remain on the only working grip ends; complete rigid levers rotate with them around unchanged fixed pivots.",
+          "Seat, thigh restraint, feet and torso remain stable.",
+          "Retain the visible full movement envelope and use one cycle only."
+        ]
+      },
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-leverage-high-row-c0482620-start/attempt_666e8d3ec1b940b5.jpg"
+      ],
+      "adoptionNote": "Ready for exact-reference assignment and one-cycle I2V. Physical geometry and relevant muscle visibility pass the practical standard; future motion still requires exact-output review."
+    },
+    {
+      "attemptId": "attempt_0a452e76f29d476c",
+      "exerciseId": "ex_hip_thrust",
+      "shot": "r9-ex-hip-thrust-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-ex-hip-thrust-start/attempt_0a452e76f29d476c.jpg",
+      "outputSha256": "9f2479aca3a2aebf183fc6d3f1003cab727bd31c9f3bcf0fed7b508609d52103",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T20:40:27+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The upper-back/shoulder-blade area visibly rests on the bench edge. The pelvis is raised in a near-horizontal bridge, with bent knees and both feet flat on the floor.",
+        "A padded straight bar lies across the front hip crease and both hands stabilize it. The bar ends, hands, head, knee/foot contacts and room below the hips are visible.",
+        "The orange muscle-shaped overlay is located over the gluteal/buttock region, not the lumbar spine or front thigh. The pose gives a readable starting high extreme for a lower-and-return cycle."
+      ],
+      "limitations": [
+        "Single exact still inspected; motion must confirm that the bar follows the pelvis, shoulder contact does not float, and the full top position returns without back hyperextension.",
+        "The unhighlighted body uses smoother gray surfaces than the established fiber-textured mannequin. The localized gluteal orange region has readable muscle-fiber detail, so this style variation is acceptable under the practical standard."
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Top bridge reference \u2192 lower pelvis under control while upper back remains supported \u2192 exact original near-horizontal top bridge.",
+        "mustPreserve": [
+          "Upper back remains on the same bench edge and both feet remain planted.",
+          "Padded bar stays in contact with the hip crease and both hands keep stabilizing it.",
+          "Return the pelvis fully to the original top height with ribs controlled; do not substitute a seated torso or lumbar hyperextension.",
+          "Orange remains anatomically confined to the gluteal region."
+        ]
+      },
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-ex-hip-thrust-start/attempt_0a452e76f29d476c.jpg"
+      ],
+      "adoptionNote": "Ready for exact-reference assignment and one-cycle I2V. Physical geometry and relevant muscle visibility pass the practical standard; future motion still requires exact-output review."
+    }
+  ]
+}

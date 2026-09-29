@@ -1,0 +1,62 @@
+{
+  "id": "group_d3808144ee7f4447",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T20:49:22+00:00",
+  "balanceBefore": 9328,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_stiff_legged_dumbbell_5da667b0",
+      "shot": "r9-open-stiff-legged-dumbbell-5da667b0-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "4fb153b0929a92f3ed30d68b08644e8e1a4b63c8b1621a581d72de64d17836b5",
+      "quoteFile": "form-media/ui-quotes/r9-open-stiff-legged-dumbbell-5da667b0-start-d9577509.json",
+      "quoteSha256": "fa1c09dc4cb1624425e1bd6635be3efd372ea6e8874aebd2ad0ae25807bb01eb",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_barbell_push_press",
+      "shot": "r9-cat-barbell-push-press-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "81066d60a6f78aa89b48830ade1689db3dc35c457150de2a038a7f1bcee10e17",
+      "quoteFile": "form-media/ui-quotes/r9-cat-barbell-push-press-start-d01eef6a.json",
+      "quoteSha256": "56f6d0c5559e947830ae63c234aea2542a8e67552f0c63630a4b213dd415d1d7",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    },
+    {
+      "exerciseId": "open_overhead_squat_2f8e8608",
+      "shot": "r9-open-overhead-squat-2f8e8608-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "4a6f60d7806bbf5811b23f2f834995a406dde72797c5ac9787943bf372198d09",
+      "quoteFile": "form-media/ui-quotes/r9-open-overhead-squat-2f8e8608-start-5b5cd177.json",
+      "quoteSha256": "ea5c1e1d7e23beb8ed6539f9ddccfaad55d30eb0132a4a0a4a8874f020fadcf0",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    },
+    {
+      "exerciseId": "open_decline_dumbbell_benc_7264c18d",
+      "shot": "r9-open-decline-dumbbell-benc-7264c18d-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "a376920eba1c7176ae3eafad7c03cda8df621259706a972e18d681def5098373",
+      "quoteFile": "form-media/ui-quotes/r9-open-decline-dumbbell-benc-7264c18d-start-4c23c882.json",
+      "quoteSha256": "be15d8a6a8e12ed3640cfff632ebfe17533da92643c0e40342917cd72e53f118",
+      "quoteCredits": 0,
+      "balance": 9328,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T20:50:33+00:00",
+  "balanceAfter": 9328,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-1fd4672b920341db.json",
+  "evidenceSha256": "e0a64f0d1b8b8e2b7bc255ebff1c1392ad180d963a906d08961206a38b845d7e",
+  "terminalFailureIds": []
+}

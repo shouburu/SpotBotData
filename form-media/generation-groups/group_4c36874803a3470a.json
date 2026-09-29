@@ -1,0 +1,82 @@
+{
+  "id": "group_4c36874803a3470a",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T00:52:52+00:00",
+  "balanceBefore": 6427,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "ex_reverse_wrist_curl",
+      "shot": "r9-ex-reverse-wrist-curl-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "1a4a0e91d0ee1d3f39d92a944a1e3c15ec3be3aca36fea4a2aa24acf2ef3f72d",
+      "quoteFile": "form-media/ui-quotes/r9-ex-reverse-wrist-curl-motion-21e67785.json",
+      "quoteSha256": "b1fe3aeca9ff675eb896d7d642ce4fc72c164c1bcb97c97422139a90fd2fe869",
+      "quoteCredits": 10,
+      "balance": 6427,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-reverse-wrist-curl-start/attempt_3246a1b0f3534581.jpg",
+          "sha256": "81f1263e5d6040d250ddf080d246bff2b72437ceac88819822b6100c488e0c79"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "f1ce35a20c891c66d674b77235acd8b04c6b6c9b203d810ca413ad7544609904",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-lying-triceps-e-ff29abb1-motion-d7a00e86.json",
+      "quoteSha256": "742c0a45d5b900a607eb12a92f1cc61265b27335fecf5b8f13c64bd6407f776e",
+      "quoteCredits": 10,
+      "balance": 6427,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-lying-triceps-e-ff29abb1-start/attempt_8ad8ed0ffd9748bf.jpg",
+          "sha256": "b3c1c6d3492222ff8e545d4ac6e161e8b1a6bd145c3c00371bffa778f9502131"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r9-open-cable-wrist-curl-a1feb456-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "fac7d0086e4b2243cd175ce6717086c21b9980a00003124beea4628207a007dc",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-wrist-curl-a1feb456-motion-90221f22.json",
+      "quoteSha256": "6760b14ceb726a226090c4148c1945f0b38d049864d309a1fe875cb7cfa59714",
+      "quoteCredits": 10,
+      "balance": 6427,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-wrist-curl-a1feb456-start/attempt_58fcb388cef34f14.jpg",
+          "sha256": "13e70ae3cc4419b66fe079684419868355f76f6b1c9b9b1854f7c5d34eb02c8d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_dumbbell_lying_pronat_95605e7c",
+      "shot": "r9-open-dumbbell-lying-pronat-95605e7c-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "d7fbfa37c3d5da589466fb3799d2e9f4e86be036eafe629d7f17993998309923",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lying-pronat-95605e7c-motion-4f4f74a4.json",
+      "quoteSha256": "8de4d79d31be797bf19b6f7dc77269f1007c654a313e7ca9aa1f14d660e90cdf",
+      "quoteCredits": 10,
+      "balance": 6427,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-dumbbell-lying-pronat-95605e7c-start/attempt_028840f087324b43.jpg",
+          "sha256": "b45b72f21e61ec830f5bac68dc604565d88f99e91841cf52bfa11db20cc328f8"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T00:54:20+00:00",
+  "balanceAfter": 6387,
+  "actualCredits": 40,
+  "evidenceFile": "form-media/ui-quotes/observed-eaaae4c04e7f43be.json",
+  "evidenceSha256": "bd7052f0302fe31f73f9e4a7ea2d0e0bddb8f57bef23453237ed340d2aedbdc2",
+  "terminalFailureIds": []
+}

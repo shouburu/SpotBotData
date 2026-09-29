@@ -1,0 +1,64 @@
+{
+  "id": "group_3225d3cd096143af",
+  "status": "completed",
+  "roundId": "round-6",
+  "createdAt": "2026-09-15T20:38:36+00:00",
+  "balanceBefore": 8880,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_barbell_row",
+      "shot": "r6-ex-barbell-row-start",
+      "profile": "spotbot_media_1",
+      "promptSha256": "9e2b8a8744ddda1b3f68a250f8bd230553ef2768ed8349a8de4dc99bd6436644",
+      "quoteFile": "form-media/ui-quotes/r6-ex-barbell-row-start-133836736557.json",
+      "quoteSha256": "4208a94cfac33e44926d1b39bfd49730067ce0847688f8d8d170b55c102a10c8",
+      "quoteCredits": 0,
+      "balance": 8880,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_cable_fly",
+      "shot": "r6-ex-cable-fly-start",
+      "profile": "spotbot_media_2",
+      "promptSha256": "bd4522660c8f0f9fde3e84ec02e078a4d2c246cc3d28bc0977f46650743288c4",
+      "quoteFile": "form-media/ui-quotes/r6-ex-cable-fly-start-133836737019.json",
+      "quoteSha256": "f202767776a030ae2474568c488ad9f524688b3b1188359321d07c5ecd18665b",
+      "quoteCredits": 0,
+      "balance": 8880,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_seated_cable_row",
+      "shot": "r6-ex-seated-cable-row-start",
+      "profile": "spotbot_media_3",
+      "promptSha256": "66302a18159167ffed35d8ed18961caa2ef25cf75a90f81f3d20c972b395b246",
+      "quoteFile": "form-media/ui-quotes/r6-ex-seated-cable-row-start-133836737151.json",
+      "quoteSha256": "78ac0582f4415b4497793ba726950b6cbdb134182a8c66690aac3070e41b5ebb",
+      "quoteCredits": 0,
+      "balance": 8880,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r4-deadlift-anatomical-start/attempt_0b4965683f4e4340.jpg",
+          "sha256": "30c7479f26e5a710276c9c91dc554a3f20b468407a938fdb96884dc4ab5b07d5"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-15T20:40:59+00:00",
+  "balanceAfter": 8880,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/group_3225d3cd096143af-after.json",
+  "evidenceSha256": "0c7e3e26e4582280f87a1d2309af3d86b83b3a0cdbe79b84d4b2f52358c28ad4"
+}

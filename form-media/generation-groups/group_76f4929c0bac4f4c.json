@@ -1,0 +1,82 @@
+{
+  "id": "group_76f4929c0bac4f4c",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:50:17+00:00",
+  "balanceBefore": 4563,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r10-open-decline-smith-press-ab9938f7-start-v3",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "cf00d778b57ead8e5f6f67c84e02e152164848deeee4308c2632109e0730a4a4",
+      "quoteFile": "form-media/ui-quotes/r10-open-decline-smith-press-ab9938f7-start-v3-b7445d5f.json",
+      "quoteSha256": "d53cd4c26da27b3a44992833032b605ccfd8d6c5cae803a985ccb60c4e2b2472",
+      "quoteCredits": 0,
+      "balance": 4563,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-decline-dumbbell-benc-7264c18d-start/attempt_f620868bbd304fde.jpg",
+          "sha256": "776ce71789b3352ee57813b1dfc670747d68a0954921d7a6569abe5dbde28a34"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_straight_arm_pulldown",
+      "shot": "r10-ex-straight-arm-pulldown-start-v3",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "569e6c30fe89d4d8b4c7d5a86f32218c4c0f098ac0602cbb2ffbbe88b672f923",
+      "quoteFile": "form-media/ui-quotes/r10-ex-straight-arm-pulldown-start-v3-55fcc333.json",
+      "quoteSha256": "ca65d327186c222045145995ced901f84d6e812750fb7f0832fbfd2aa82ac772",
+      "quoteCredits": 0,
+      "balance": 4563,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-straight-arm-pulldown-start-v2/attempt_475803b427bb4bd3.jpg",
+          "sha256": "2e4eafb6bc92e1d4b183774227a53ac51820ab4ab3f53ed0ed57a1895b78cb40"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_cable_shrugs_c5ea5dc6",
+      "shot": "r10-open-cable-shrugs-c5ea5dc6-start-v3",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "4f855ffd87b40b309becd93ef1dacd329a5ea866e4b763013271534f70281991",
+      "quoteFile": "form-media/ui-quotes/r10-open-cable-shrugs-c5ea5dc6-start-v3-49e40986.json",
+      "quoteSha256": "9eee5306d310fbdfcc49cd083731ce76ab54e400e5c31cbee2d6c373bebb2f23",
+      "quoteCredits": 0,
+      "balance": 4563,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-cable-shrugs-c5ea5dc6-start-v2/attempt_84fde1367c054b39.jpg",
+          "sha256": "5dc89dc4c3c818e04af89fd76a5767f2802774b1432fc2d1ce7de61ea2658335"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_inverted_row_1ce9a06f",
+      "shot": "r10-open-inverted-row-1ce9a06f-start-v3",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "397126d2ead8dd833e031c8c4da19f683ae2970889bb457cfdfc4c1fe7225b03",
+      "quoteFile": "form-media/ui-quotes/r10-open-inverted-row-1ce9a06f-start-v3-518b4362.json",
+      "quoteSha256": "4d6b02b98bfc8ac99a88df063c3afb45632d19b6b8e4cca8f44dd8bb2995e1d1",
+      "quoteCredits": 0,
+      "balance": 4563,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-inverted-row-1ce9a06f-start/attempt_6bcc976f4f774305.jpg",
+          "sha256": "2f144581cd349f451a593711680ccd6546bdda54de74f927384d275e90bbfe02"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:52:19+00:00",
+  "balanceAfter": 4563,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-5831dbffd44d4e5c.json",
+  "evidenceSha256": "77a7870098c389fff472691db92b170f191a8f63dfab65c6ad35434c6db54ca1",
+  "terminalFailureIds": []
+}

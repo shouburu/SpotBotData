@@ -1,0 +1,29 @@
+{
+  "id": "group_37f9ecae787f4ec1",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:33:41+00:00",
+  "balanceBefore": 4658,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_smith_machine_stiff_l_73127ddd",
+      "shot": "r10-open-smith-machine-stiff-l-73127ddd-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "c3b563efeb0b725c574203449e15247626234c0e96561955f0bb4c8a6c7c10fc",
+      "quoteFile": "form-media/ui-quotes/r10-open-smith-machine-stiff-l-73127ddd-start-01fac1df.json",
+      "quoteSha256": "f776f1afd10ddf4da3669bf31413b2af20a7ec83330506f39f26db9888a509bc",
+      "quoteCredits": 0,
+      "balance": 4658,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:34:38+00:00",
+  "balanceAfter": 4658,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-3f85f7a896024c8d.json",
+  "evidenceSha256": "7c4e37425810e96ff43aaad629512a1bf63e1b1a7b3bc6999b644f9faf9f0fba",
+  "terminalFailureIds": []
+}

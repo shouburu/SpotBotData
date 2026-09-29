@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-open-seated-barbell-twist-625c8c53-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-barbell-twist-625c8c53-motion-433022ac.json"
+    },
+    {
+      "shot": "r8-open-cable-seated-lateral--3ddcda79-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-seated-lateral--3ddcda79-motion-ebf7557d.json"
+    },
+    {
+      "shot": "r8-open-seated-bent-over-one--80921123-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-bent-over-one--80921123-motion-be16730b.json"
+    },
+    {
+      "shot": "r8-open-seated-bent-over-rear-a254c894-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-bent-over-rear-a254c894-motion-bd10f589.json"
+    }
+  ]
+}

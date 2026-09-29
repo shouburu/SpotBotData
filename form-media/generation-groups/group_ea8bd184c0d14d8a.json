@@ -1,0 +1,82 @@
+{
+  "id": "group_ea8bd184c0d14d8a",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T22:41:55+00:00",
+  "balanceBefore": 8530,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_barbell_ab_rollout_59a93cd6",
+      "shot": "r9-open-barbell-ab-rollout-59a93cd6-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "97a06481c28a1756120063d4ce41fe713b192d59ca21e8cf93768039caf67051",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-ab-rollout-59a93cd6-motion-7287757a.json",
+      "quoteSha256": "7fcfdd1bb0a3fd4a26abaab45486d56777d9a6af2fdeffd9b18e1cfb04d19ca5",
+      "quoteCredits": 10,
+      "balance": 8530,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-barbell-ab-rollout-59a93cd6-start/attempt_5462bebc43d64bc6.jpg",
+          "sha256": "5b5d7d4432bd7f3ad5d83532b78a8e8c524e4ab31f687b71026b17d5cbb40b45"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_barbell_glute_bridge_0e7afdbd",
+      "shot": "r9-open-barbell-glute-bridge-0e7afdbd-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "ecc87404a00a360fe5853721b7ea7237d06536e737ae737a7253094ab34c64a5",
+      "quoteFile": "form-media/ui-quotes/r9-open-barbell-glute-bridge-0e7afdbd-motion-f3564c0b.json",
+      "quoteSha256": "d8b8b46adcf499433a87a84b4d49cc2afee9ea4c7c4fc63d82b3faa805467a34",
+      "quoteCredits": 10,
+      "balance": 8530,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-barbell-glute-bridge-0e7afdbd-start/attempt_c0765def2b28487f.jpg",
+          "sha256": "9bf7847361f8821cb321c7f999de3617e08b55db512e0ccceea3d8fc48306cec"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "d6a6ccfc6ead1a8f74f903e2dc184353cc24baf8c900983bd05b811d5e228e36",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-motion-09364d27.json",
+      "quoteSha256": "09fef85cf960aa43ec1a280f34197a316f3c01bde163340130fd9b2178dc387f",
+      "quoteCredits": 10,
+      "balance": 8530,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-bent-arm-barbell-pull-bd488038-start/attempt_f5d548627fbb4990.jpg",
+          "sha256": "1955b2f440f931dc9d0b3bab6089c1374306dba1999222342d370d2bb755d436"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r9-open-cable-lying-triceps-e-ff29abb1-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "6dccd8086fa5c78c6d4546c7e438a276cec167c9657cf584611e830812f82908",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-lying-triceps-e-ff29abb1-motion-a3c73a4d.json",
+      "quoteSha256": "c70c1e49289bbadfce92aab7e095b25e2d9246f1e5c2fc95c15d470190470f1e",
+      "quoteCredits": 10,
+      "balance": 8530,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-lying-triceps-e-ff29abb1-start/attempt_13ccb6f99d8744d4.jpg",
+          "sha256": "dc2ad9180c1456f021f28d0736e58444d99bbfcc51922020b8e38cf37f164902"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T22:43:21+00:00",
+  "balanceAfter": 8490,
+  "actualCredits": 40,
+  "evidenceFile": "form-media/ui-quotes/observed-d235493e731743e0.json",
+  "evidenceSha256": "3833a02c47741b53130fe49e8df11dc31bc81aa9413261fea638cf2c4e232bf8",
+  "terminalFailureIds": []
+}

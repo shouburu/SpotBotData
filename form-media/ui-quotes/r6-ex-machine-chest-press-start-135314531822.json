@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "sourceType": "flow-ui-observation",
+  "source": "Live Flow composer and account panel observed through CUA; quote applies to one output. Isolated workers use copies of the same service account profile.",
+  "observer": "Codex via CUA",
+  "observedAt": "2026-09-15T20:52:56.704Z",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "exerciseId": "ex_machine_chest_press",
+  "shot": "r6-ex-machine-chest-press-start",
+  "modelKey": "GEM_PIX_2",
+  "kind": "image",
+  "family": "Nano Banana Pro",
+  "aspect": "9:16",
+  "count": 1,
+  "durationSeconds": null,
+  "resolutions": [],
+  "balance": 8856,
+  "credits": 0,
+  "visiblePriceText": "Generating will use 0 credits",
+  "visibleBalanceText": "8,856 Google Flow credits"
+}

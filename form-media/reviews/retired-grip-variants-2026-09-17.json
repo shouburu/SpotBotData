@@ -1,0 +1,729 @@
+{
+  "schemaVersion": 1,
+  "retiredAt": "2026-09-18T02:42:42+00:00",
+  "reason": "User requested grip-only variants be removed when a matching base exercise already exists. No media approval transfers.",
+  "mapping": {
+    "ex_close_grip_bench": "ex_bench_press",
+    "open_close_grip_ez_bar_cur_5047f80e": "open_ez_bar_curl_6570409e",
+    "open_close_grip_front_lat__495e493d": "ex_lat_pulldown",
+    "cat_cal_close_pushup": "ex_pushup",
+    "open_close_grip_standing_b_580c6737": "ex_bicep_curl",
+    "open_dumbbell_bench_press__23c7512d": "open_dumbbell_bench_press_94bb9ae4",
+    "open_dumbbell_tricep_exten_fefc7397": "open_lying_dumbbell_tricep_02bba023",
+    "open_flexor_incline_dumbbe_dedd85c5": "open_incline_dumbbell_curl_4fe643b7",
+    "open_front_squat_clean_gri_4a89eb72": "ex_front_squat",
+    "open_hammer_grip_incline_d_f054dfd9": "ex_incline_bench_press",
+    "open_incline_push_up_close_831c1da6": "cat_cal_incline_pushup",
+    "open_mixed_grip_chin_2b9392e1": "ex_chin_up",
+    "open_reverse_grip_bent_ove_9f06ecd0": "ex_barbell_row",
+    "open_reverse_grip_triceps__efa89ab2": "open_triceps_pushdown_e68b25c2",
+    "open_smith_machine_close_g_701fd610": "open_smith_machine_bench_p_4ee3a150",
+    "open_wide_grip_barbell_ben_9ef443cc": "ex_bench_press",
+    "open_wide_grip_decline_bar_8970f58a": "ex_decline_bench_press",
+    "open_wide_grip_lat_pulldow_6e5cefba": "ex_lat_pulldown",
+    "open_wide_grip_standing_ba_26852b8e": "ex_bicep_curl"
+  },
+  "exercises": {
+    "ex_close_grip_bench": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r6-ex-close-grip-bench-motion-da49156a"
+      ],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Round 7 AI editorial candidates ready for independent human review.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "proposedAssetIds": [
+        "r6-ex-close-grip-bench-motion-da49156a"
+      ],
+      "deliveryBytes": 517441,
+      "reviewedAt": "2026-09-16T04:12:07+00:00"
+    },
+    "open_close_grip_ez_bar_cur_5047f80e": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_close_grip_front_lat__495e493d": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "cat_cal_close_pushup": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_close_grip_standing_b_580c6737": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_dumbbell_bench_press__23c7512d": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_dumbbell_tricep_exten_fefc7397": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_flexor_incline_dumbbe_dedd85c5": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_front_squat_clean_gri_4a89eb72": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_hammer_grip_incline_d_f054dfd9": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_incline_push_up_close_831c1da6": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_mixed_grip_chin_2b9392e1": {
+      "teachingFormat": "external",
+      "rationale": "Advanced or multi-phase technique warrants an expert reference with clear transitions; review whether a concise authored sequence can later replace it.",
+      "priority": 3,
+      "recommendationStatus": "provisional",
+      "reviewStatus": "pending",
+      "pilot": false,
+      "selectedAssetIds": [],
+      "notes": ""
+    },
+    "open_reverse_grip_bent_ove_9f06ecd0": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_reverse_grip_triceps__efa89ab2": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "New delivered video; human review required. AI review is recorded separately.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_smith_machine_close_g_701fd610": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_wide_grip_barbell_ben_9ef443cc": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_wide_grip_decline_bar_8970f58a": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_wide_grip_lat_pulldow_6e5cefba": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_wide_grip_standing_ba_26852b8e": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "queued",
+      "productionNote": "Round 6 queued. Existing user decisions and selected assets are preserved.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    }
+  },
+  "catalogReviews": {
+    "ex_close_grip_bench": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Close shoulder-width grip distinguishes general bench press; triceps emphasis and rack support fit.",
+      "evidence": {
+        "identity": "Close-Grip Bench Press; reps execution; barbell, bench, squat rack.",
+        "instructions": "Setup: Lie on a bench with a grip around shoulder width and safeties set.",
+        "equipment": "Required setup: barbell, bench, squat rack. Load entry: required.",
+        "tracking": "8-12 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: chest, shoulders.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, general.",
+        "prescription": "3 sets; 8-12 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_close_grip_ez_bar_cur_5047f80e": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Close-grip EZ curl incorrectly requires a straight barbell; change apparatus to EZ bar.",
+      "evidence": {
+        "identity": "Close-Grip EZ Bar Curl; reps execution; ez bar.",
+        "instructions": "Setup: Stand up with your torso upright while holding an E-Z Curl Bar at the closer inner handle. The palm of your hands should be facing forward and they should be slightly tilted inwards due to the shape of the bar. The elbows should be close to the torso. This will be your starting position.",
+        "equipment": "Required setup: ez bar. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: biceps. Supporting: forearms.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected equipment.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_close_grip_front_lat__495e493d": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Close-grip pulldown requires a padded pulldown station and an explicitly narrow grip, not a menu of three grip alternatives.",
+      "evidence": {
+        "identity": "Close-Grip Front Lat Pulldown; reps execution; lat pulldown station.",
+        "instructions": "Setup: Sit at a lat pulldown station and adjust the thigh pad to hold the legs securely. Grasp the overhead bar with a narrow overhand grip and keep the torso steady.",
+        "equipment": "Required setup: lat pulldown station. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: lats. Supporting: biceps, middle back, shoulders.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected equipment.",
+        "Corrected instructions."
+      ]
+    },
+    "cat_cal_close_pushup": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Close-grip push-up emphasizes triceps without requiring diamond hand contact; do not merge into a diamond-specific progression.",
+      "evidence": {
+        "identity": "Close-Grip Push-Up; reps execution; bodyweight.",
+        "instructions": "Setup: Place the hands slightly narrower than shoulder width and keep the body steady.",
+        "equipment": "Required setup: bodyweight. Load entry: optional.",
+        "tracking": "6-10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: chest, shoulders.",
+        "eligibility": "intermediate; activities calisthenics, strength; goals strength, endurance, general.",
+        "prescription": "3 sets; 6-10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_close_grip_standing_b_580c6737": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Narrow straight-bar curl differs from EZ curl by grip implement; retain.",
+      "evidence": {
+        "identity": "Close-Grip Standing Barbell Curl; reps execution; barbell.",
+        "instructions": "Setup: Hold a barbell with both hands, palms up and a few inches apart.",
+        "equipment": "Required setup: barbell. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: biceps. Supporting: forearms.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_dumbbell_bench_press__23c7512d": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Neutral dumbbell bench press keeps palms facing; retain grip variation with clear instructions.",
+      "evidence": {
+        "identity": "Dumbbell Bench Press with Neutral Grip; reps execution; dumbbells, bench.",
+        "instructions": "Setup: Take a dumbbell in each hand and lay back onto a flat bench. Your feet should be flat on the floor and your shoulder blades retracted.",
+        "equipment": "Required setup: dumbbells, bench. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: shoulders, triceps.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_dumbbell_tricep_exten_fefc7397": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Pronated dumbbell triceps extension is bilateral on flat bench; retain distinct grip.",
+      "evidence": {
+        "identity": "Dumbbell Tricep Extension -Pronated Grip; reps execution; dumbbells, bench.",
+        "instructions": "Setup: Lie down on a flat bench holding two dumbbells directly above your shoulders. Your arms should be fully extended and form a 90 degree angle from your torso and the floor.",
+        "equipment": "Required setup: dumbbells, bench. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_flexor_incline_dumbbe_dedd85c5": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Flexor incline curl uses offset dumbbell grip; remove forced wrist extension and unsupported stress-neutralization claim.",
+      "evidence": {
+        "identity": "Offset-Grip Incline Dumbbell Curl; reps execution; dumbbells, bench.",
+        "instructions": "Setup: Hold each dumbbell slightly off center toward the outer end of its handle, leaving more of the handle on the thumb side. Maintain a comfortable steady wrist position throughout the curl.",
+        "equipment": "Required setup: dumbbells, bench. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: biceps. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected name.",
+        "Retained the distinct offset grip while removing forced wrist extension and an unsupported stress claim.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_front_squat_clean_gri_4a89eb72": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Read all instruction steps and current anatomy, apparatus, measurement, per-side, difficulty and dose; no specific correction identified in this pass.",
+      "evidence": {
+        "identity": "Front Squat (Clean Grip); reps execution; barbell, squat rack.",
+        "instructions": "Setup: To begin, first set the bar in a rack slightly below shoulder level. Rest the bar on top of the deltoids, pushing into the clavicles, and lightly touching the throat. Your hands should be in a clean grip, touching the bar only with your fingers to help keep it in position.",
+        "equipment": "Required setup: barbell, squat rack. Load entry: required.",
+        "tracking": "3–5 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: quadriceps. Supporting: abdominals, glutes, hamstrings.",
+        "eligibility": "advanced; activities strength; goals strength, athleticism.",
+        "prescription": "2 sets; 3–5 repetitions for the complete movement; 120 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_hammer_grip_incline_d_f054dfd9": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Neutral-grip incline press is distinct; remove forced elbow flare and unsupported safest-disposal claim.",
+      "evidence": {
+        "identity": "Hammer Grip Incline DB Bench Press; reps execution; dumbbells, bench.",
+        "instructions": "Setup: Lie back on an incline bench with a dumbbell on each hand on top of your thighs. The palms of your hand will be facing each other.",
+        "equipment": "Required setup: dumbbells, bench. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: shoulders, triceps.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Removed forced shoulder positioning and an unsupported absolute safety claim."
+      ]
+    },
+    "open_incline_push_up_close_831c1da6": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Close-grip incline push-up should choose bench support matching metadata, not Smith bar alternative.",
+      "evidence": {
+        "identity": "Incline Push-Up Close-Grip; reps execution; bodyweight, bench.",
+        "instructions": "Setup: Stand facing a stable bench that cannot slide or tip.",
+        "equipment": "Required setup: bodyweight, bench. Load entry: none.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: chest, shoulders.",
+        "eligibility": "beginner; activities strength, calisthenics; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Selected the stable bench variant matching required equipment.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_mixed_grip_chin_2b9392e1": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Mixed-grip chin alternates hand orientation between sets, not unilateral reps; no perSide flag is appropriate.",
+      "evidence": {
+        "identity": "Mixed Grip Chin; reps execution; pull up bar.",
+        "instructions": "Setup: Using a spacing that is just about 1 inch wider than shoulder width, grab a pull-up bar with the palms of one hand facing forward and the palms of the other hand facing towards you. This will be your starting position.",
+        "equipment": "Required setup: pull up bar. Load entry: none.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: middle back. Supporting: biceps, lats.",
+        "eligibility": "advanced; activities strength, calisthenics; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_reverse_grip_bent_ove_9f06ecd0": {
+      "decision": "retain",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Supinated hinged bar row pulls close to torso with stable trunk and controlled lower; reverse-grip compound row metadata matches.",
+      "evidence": {
+        "identity": "Reverse Grip Bent-Over Rows; reps execution; barbell.",
+        "instructions": "Setup: Stand erect while holding a barbell with a supinated grip (palms facing up).",
+        "equipment": "Required setup: barbell. Load entry: required.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: middle back. Supporting: biceps, lats, shoulders.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": []
+    },
+    "open_reverse_grip_triceps__efa89ab2": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Supinated high-cable pushdown holds upper arms fixed while elbow extends; no alternative load or side requirements are hidden.",
+      "evidence": {
+        "identity": "Reverse Grip Triceps Pushdown; reps execution; cables.",
+        "instructions": "Setup: Start by setting a bar attachment (straight or e-z) on a high pulley machine.",
+        "equipment": "Required setup: cables. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_smith_machine_close_g_701fd610": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Close-grip Smith bench press distinguishes shoulder-width hands and tucked elbows; chest descent and hook rerack match triceps compound metadata.",
+      "evidence": {
+        "identity": "Smith Machine Close-Grip Bench Press; reps execution; smith machine, bench.",
+        "instructions": "Setup: Place a flat bench underneath the smith machine. Place the barbell at a height that you can reach when lying down and your arms are almost fully extended. Once the weight you need is selected, lie down on the flat bench. Using a close and pronated grip (palms facing forward) that is around shoulder width, unlock the bar from the rack and hold it straight over you with your arms locked. This will be your starting position.",
+        "equipment": "Required setup: smith machine, bench. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: triceps. Supporting: chest, shoulders.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    },
+    "open_wide_grip_barbell_ben_9ef443cc": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Wide-grip bench-press setup says the held bar is perpendicular to the floor, which is impossible for a horizontal barbell across a supine lifter.",
+      "evidence": {
+        "identity": "Wide-Grip Barbell Bench Press; reps execution; barbell, bench, squat rack.",
+        "instructions": "Setup: Lie on a flat bench in a squat rack with feet firmly planted. Take a wider-than-shoulder overhand grip and unrack the bar so it is horizontal above the chest.",
+        "equipment": "Required setup: barbell, bench, squat rack. Load entry: required.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: shoulders, triceps.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected instructions.",
+        "Wide-grip bench-press setup says the held bar is perpendicular to the floor, which is impossible for a horizontal barbell across a supine lifter."
+      ]
+    },
+    "open_wide_grip_decline_bar_8970f58a": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Decline wide-grip bench press repeats the same impossible perpendicular-to-floor bar orientation and omits reracking.",
+      "evidence": {
+        "identity": "Wide-Grip Decline Barbell Bench Press; reps execution; barbell, bench, squat rack.",
+        "instructions": "Setup: Lie on a decline bench in a squat rack with feet secured in the bench support. Take a wide overhand grip and unrack the bar so it is horizontal above the chest.",
+        "equipment": "Required setup: barbell, bench, squat rack. Load entry: required.",
+        "tracking": "6–10 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: chest. Supporting: shoulders, triceps.",
+        "eligibility": "intermediate; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–10 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected instructions.",
+        "Decline wide-grip bench press repeats the same impossible perpendicular-to-floor bar orientation and omits reracking."
+      ]
+    },
+    "open_wide_grip_lat_pulldow_6e5cefba": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Named wide-grip lat pulldown gives a menu of wide, medium and close grips, obscuring which canonical variant the row represents.",
+      "evidence": {
+        "identity": "Wide-Grip Lat Pulldown; reps execution; cables.",
+        "instructions": "Setup: Sit at a pulldown station with thighs secured beneath the pad. Take a pronated grip wider than shoulder width on the high-cable bar.",
+        "equipment": "Required setup: cables. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: lats. Supporting: biceps, middle back, shoulders.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected instructions.",
+        "Named wide-grip lat pulldown gives a menu of wide, medium and close grips, obscuring which canonical variant the row represents."
+      ]
+    },
+    "open_wide_grip_standing_ba_26852b8e": {
+      "decision": "repair",
+      "method": "AI editorial review of identity, instruction sequence and structured fields; not independent trainer or clinical validation",
+      "reviewedAt": "2026-09-09",
+      "instructionReview": "Wide-grip standing barbell curl refers to an outer handle even though its apparatus is a plain barbell.",
+      "evidence": {
+        "identity": "Wide-Grip Standing Barbell Curl; reps execution; barbell.",
+        "instructions": "Setup: Stand holding a straight barbell with a palms-forward grip wider than shoulder width, keeping the upper arms beside the torso.",
+        "equipment": "Required setup: barbell. Load entry: required.",
+        "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: biceps. Supporting: none asserted.",
+        "eligibility": "beginner; activities strength; goals strength, hypertrophy, endurance, general.",
+        "prescription": "2 sets; 6–8 repetitions for the complete movement; 60 seconds rest. Editable SpotBot editorial dose."
+      },
+      "changes": [
+        "Corrected instructions.",
+        "Wide-grip standing barbell curl refers to an outer handle even though its apparatus is a plain barbell.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    }
+  }
+}

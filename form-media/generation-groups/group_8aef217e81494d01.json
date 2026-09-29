@@ -1,0 +1,67 @@
+{
+  "id": "group_8aef217e81494d01",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T21:49:47+00:00",
+  "balanceBefore": 9016,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r9-open-decline-smith-press-ab9938f7-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "bdb0218e65a8732557cbfdf3aa57b3f53cd4127eaa6d6f3eaa25bf1c4aef7d7c",
+      "quoteFile": "form-media/ui-quotes/r9-open-decline-smith-press-ab9938f7-start-f79f1946.json",
+      "quoteSha256": "3e6a7b7bb472021103f9f987420acd58f762b4b5bae7bb7282b12d6205e13ba4",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "open_smith_machine_bench_p_4ee3a150",
+      "shot": "r9-open-smith-machine-bench-p-4ee3a150-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "5520c817d31f4125c5061e067fbe32e6944101777e805eeb2faac53fee580543",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-bench-p-4ee3a150-start-cafb8530.json",
+      "quoteSha256": "cc14e997d52e5b9314a36ccb3377c40c7586289c7ba461ab7cd3369435b513ee",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "open_smith_machine_bent_ov_01d0d0f3",
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "3f41a7fc0d1b5ad085f394d647b12d1b8df76e77c394eb9224e1fa71152301e5",
+      "quoteFile": "form-media/ui-quotes/r9-open-smith-machine-bent-ov-01d0d0f3-start-ee29a9b5.json",
+      "quoteSha256": "304492b450a62d11e7304b54f138119fb3f0159ab5fc378ac6d9e3f64a53552e",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_machine_chest_press",
+      "shot": "r9-ex-machine-chest-press-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "e62cbc181bd1958e1e37dbe1977e03827f90ac2babad04d61b02679c6517e2f2",
+      "quoteFile": "form-media/ui-quotes/r9-ex-machine-chest-press-start-62523607.json",
+      "quoteSha256": "004583c5948e3dcd8b0213242b51d6c5731ab00b1082822cbd832f685b06eef4",
+      "quoteCredits": 0,
+      "balance": 9016,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-machine-chest-press-start/attempt_940de4bee9ef44b8.jpg",
+          "sha256": "e8acb04508bf2fb5407cf8522b670426e72caccf485d54ff0ff4a290b3cb8c13"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T21:51:18+00:00",
+  "balanceAfter": 9016,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-6dcbaddbb14f419b.json",
+  "evidenceSha256": "d19622bd77ceee4b9e24262f9a0aebd8f27f603cad40970f0f90315d5e04f1d0",
+  "terminalFailureIds": []
+}

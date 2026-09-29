@@ -1,0 +1,84 @@
+{
+  "id": "group_d5f5655c2b7f4b14",
+  "status": "completed-with-failures",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T03:07:42+00:00",
+  "balanceBefore": 4820,
+  "quotedCredits": 30,
+  "members": [
+    {
+      "exerciseId": "open_cable_rear_delt_fly_dc550f7f",
+      "shot": "r9-open-cable-rear-delt-fly-dc550f7f-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "65332d11024c038072b287e6413af189eb5a86905ca26abda630f4e9a1b6dbe9",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rear-delt-fly-dc550f7f-motion-5fb83c3a.json",
+      "quoteSha256": "57a313f183b0567287226a8e9f6e23397cb1c232d8ce87b3f0f90d6baa07b022",
+      "quoteCredits": 10,
+      "balance": 4820,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-rear-delt-fly-dc550f7f-start/attempt_e0f7552aa36c4dc5.jpg",
+          "sha256": "366e8af1f6a55cee8f44ae3f6330d58029591f56b10f756e3239fa8508215444"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_standing_overhead_bar_1c42b3f8",
+      "shot": "r9-open-standing-overhead-bar-1c42b3f8-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "3f27d0889653255513b31a0eded004e5503b6ef1539cca8d7427aede7a7a7fdc",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-overhead-bar-1c42b3f8-start-d8dbad54.json",
+      "quoteSha256": "6ba4d9c6a30d6f3596fedbb6f47e574c465d6fbe91ecf1471b2f27d97d35bfe1",
+      "quoteCredits": 0,
+      "balance": 4820,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-standing-overhead-bar-1c42b3f8-start/attempt_199632861c4343b7.jpg",
+          "sha256": "bba210a137903cb44886f21198d985b1f810aba9e6fcb741a8fd818098e01f23"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "77eba44f2f6bc1c4d1ef52e60de049744df5c206ece06dcf032902742567f089",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-motion-32f5dff7.json",
+      "quoteSha256": "b97d5e96aac60ed8ecf1b0721964998c07c91ce4414f28f7338061be16c3023f",
+      "quoteCredits": 10,
+      "balance": 4820,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_e37a4b1f21034722.jpg",
+          "sha256": "db3726a78134c032384f80dd630fc35df9b85cdae064e9cc4288383faf3c34f4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r9-ex-dumbbell-fly-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "57bc97541a462fb1f3bd9c2c6a6c45601fed3ac71fe69227451d83a7249e7905",
+      "quoteFile": "form-media/ui-quotes/r9-ex-dumbbell-fly-motion-327f8c3c.json",
+      "quoteSha256": "99474b62492bc8df75d90ad063095151bc5200d93baee9b111d2c026abb1a571",
+      "quoteCredits": 10,
+      "balance": 4820,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-dumbbell-fly-start/attempt_4c07bd654acb47e4.jpg",
+          "sha256": "56f861c3eb82fcb0584e9f132b8e99f273140a875a1aadb7b0d7a16b7f7a01dc"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T03:09:03+00:00",
+  "balanceAfter": 4800,
+  "actualCredits": 20,
+  "evidenceFile": "form-media/ui-quotes/observed-1e4a0af592084428.json",
+  "evidenceSha256": "fc4d588ed0ae15a62ea75bff2e3940594fffa5ed1524af4150f8f86ee3ed9743",
+  "terminalFailureIds": [
+    "attempt_bbd18a8a629e49d9"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "checkedAt": "2026-09-16T02:43:48.807168+00:00",
+  "profile": "shouburu",
+  "generationSubmitted": false,
+  "editorReady": false,
+  "errorType": "UiSelectorDriftError",
+  "error": "Flow UI selector drift: migrated host: the settings trigger (.settings-trigger-button) did not become visible within 30s on https://flow.google.com/about (host=migrated): Locator.wait_for: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator(\".settings-trigger-button\").first to be visible\n",
+  "url": "https://flow.google.com/about"
+}

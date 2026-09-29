@@ -1,0 +1,82 @@
+{
+  "id": "group_59f530f0bb314721",
+  "status": "completed",
+  "roundId": "round-9",
+  "createdAt": "2026-09-22T01:24:46+00:00",
+  "balanceBefore": 6005,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_landmine_180s_8bd8af32",
+      "shot": "r9-open-landmine-180s-8bd8af32-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "587b4cf0026a53bf6ac0e7fcfaa468ccb1efea34dcc6aca2052b7f42fb9c9e5b",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-180s-8bd8af32-start-7728e901.json",
+      "quoteSha256": "21d98ea12b7f4412af5c5acb078cdb2320073b217a99332cd9c4ae48a487beeb",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-landmine-180s-8bd8af32-start/attempt_f8ad386907734cb6.jpg",
+          "sha256": "2213f8e8d167bedfef307bedd45297350d96397f48058587487ec104033d521d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_single_arm_linear_jam_b53226fa",
+      "shot": "r9-open-single-arm-linear-jam-b53226fa-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "317f6a0d87b2f424d14eb459b74378b2d9d39de2f198ac977cfc458229a64a65",
+      "quoteFile": "form-media/ui-quotes/r9-open-single-arm-linear-jam-b53226fa-start-d5482470.json",
+      "quoteSha256": "02b2be267950fe75efe8dc9c9372719fcebdbc64ccaf47813544481c706b2eaf",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-single-arm-linear-jam-b53226fa-start/attempt_5a9ca4ffbdca4abb.jpg",
+          "sha256": "7851f4d5a27e3c887ee57481ac20131faa8a08c1d1b27444bed4b8ae324405a1"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_cable_rope_overhead_t_cbb7aa38",
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "5d97570b9a40685e073d909e87bacba347de9dc5eef6013d63a53fad81310fd0",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-start-e08b1537.json",
+      "quoteSha256": "54da4e7f35381744b93b0590ee533c9a4d5df4b7482aa00c45982f7c29fc8db7",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-cable-rope-overhead-t-cbb7aa38-start/attempt_d99b984ccf3d4398.jpg",
+          "sha256": "2629029f7231f1bd89e6d778ef1f3f1383186d5716fa5a45f1217a46ae762eb6"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_leverage_shrug_33bef3fa",
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "44e79930879549d0c5c093c0c2e0cc383d1c2fcca6bfec3623def08a352aa348",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-start-5e94fbe7.json",
+      "quoteSha256": "91822535fe8b5780c3be4c733d11aa0a1d205130f94cce9a3a2161f5b973e5a4",
+      "quoteCredits": 0,
+      "balance": 6005,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-leverage-shrug-33bef3fa-start/attempt_b2a1349ac7c84fa7.jpg",
+          "sha256": "9300817813e781dc0d5d72f38e5b15b71cd873b6382e2f440a82141e1c52b6ad"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T01:26:19+00:00",
+  "balanceAfter": 6005,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-765e55dc98434ac4.json",
+  "evidenceSha256": "60cfa5b527cdd3942caba8b0feee52fbb8fe5d289893ccd73496b9e5091d9da3",
+  "terminalFailureIds": []
+}

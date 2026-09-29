@@ -1,0 +1,112 @@
+{
+  "id": "group_62cce5623e234643",
+  "status": "completed",
+  "roundId": "round-7",
+  "createdAt": "2026-09-16T03:24:15+00:00",
+  "balanceBefore": 8786,
+  "quotedCredits": 60,
+  "members": [
+    {
+      "exerciseId": "ex_arnold_press",
+      "shot": "r6-ex-arnold-press-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "e885605f53f22c9e6f67dc2dfb9cbb9ac33439f6595831c723df76d81ca31a4e",
+      "quoteFile": "form-media/ui-quotes/r6-ex-arnold-press-motion-202415611720.json",
+      "quoteSha256": "78cf72af6a4244c978c6f468400c07dd374dd1c0f7b71e04994edb736c618b31",
+      "quoteCredits": 10,
+      "balance": 8786,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-arnold-press-start/attempt_885a73ac647c49cd.jpg",
+          "sha256": "ceb8c4237b2d422147c6a333deac98ee77152071826db5a705309b11399aee94"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_pullover",
+      "shot": "r6-ex-pullover-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "55ed59bd199ab506a56b7de93540fe5c401be8ec594060eb7c3db8b14eaeea9a",
+      "quoteFile": "form-media/ui-quotes/r6-ex-pullover-motion-202415611993.json",
+      "quoteSha256": "bd7b25af010da27eaf9abb0155182b4c8685eb8ee79f4920268edce5ac691a0d",
+      "quoteCredits": 10,
+      "balance": 8786,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-pullover-start/attempt_6948276c19ab4843.jpg",
+          "sha256": "12406d9546614f82e430226d91006d0f61be3d5cba9cf63325ffb4b76933b192"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_dumbbell_shoulder_press",
+      "shot": "r6-ex-dumbbell-shoulder-press-motion",
+      "profile": "spotbot_r7_3",
+      "promptSha256": "93f4b8adcd002481015539d06e15bc99a20a2a95ba63430365135aab264a444d",
+      "quoteFile": "form-media/ui-quotes/r6-ex-dumbbell-shoulder-press-motion-202415612152.json",
+      "quoteSha256": "04ff16e8d15b3a4165f7155662a56e28c4d5054743e984b1fa8c48287ebb8bc2",
+      "quoteCredits": 10,
+      "balance": 8786,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-dumbbell-shoulder-press-start/attempt_4dc82a6da8fe4c14.jpg",
+          "sha256": "8ad283ce56cf2eef5cae66d9ab8af231b9d34374a850cb5a4ac8a414ca008032"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_tricep_extension",
+      "shot": "r6-ex-tricep-extension-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "255231f5fb555963bf4bab3be103384112cdb274fa7a54857f1feaa225e95902",
+      "quoteFile": "form-media/ui-quotes/r6-ex-tricep-extension-motion-202415612255.json",
+      "quoteSha256": "dc935e0541514541d5309a0330b2a10a939480c931bad9c255a13df2c48eb92a",
+      "quoteCredits": 10,
+      "balance": 8786,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-tricep-extension-start/attempt_4d8e0e4d5bf0400f.jpg",
+          "sha256": "19f91d93ede4c2933cce64a1a9ad5761095f038eea7e93d6b5b1742fbe20869c"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_barbell_row",
+      "shot": "r6-ex-barbell-row-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "a447961208aaec84be9f9cfae25c9f6c83b6285e3296bf95ea1b746d64141c84",
+      "quoteFile": "form-media/ui-quotes/r6-ex-barbell-row-motion-202415612356.json",
+      "quoteSha256": "2c835388c5b3ac3296e9b4fedc8efe0178b0827762ca14394484e531f4305fd0",
+      "quoteCredits": 10,
+      "balance": 8786,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-barbell-row-start/attempt_8f305301ca0c41fd.jpg",
+          "sha256": "26b815eec4034261818112e8b379425d9198e364962b49f20933a05b5c034b9d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_concentration_curl",
+      "shot": "r6-ex-concentration-curl-motion",
+      "profile": "spotbot_r7_6",
+      "promptSha256": "ab33d2a06e8364341fb2918908781740cc1b26ca74095e38b1c97b88b49f3aa8",
+      "quoteFile": "form-media/ui-quotes/r6-ex-concentration-curl-motion-202415612448.json",
+      "quoteSha256": "19af278806ecd15cf299fd9530ee26d8fd10bdc15127acf630ee0029dcbc9c56",
+      "quoteCredits": 10,
+      "balance": 8786,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r6-ex-concentration-curl-start/attempt_352681fb45174a67.jpg",
+          "sha256": "0b08f9a3cfcdc743c51c9804e2f7cbd6dffc9bafcaa89b617f42f911d0a188a9"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T03:26:37+00:00",
+  "balanceAfter": 8726,
+  "actualCredits": 60,
+  "evidenceFile": "form-media/ui-quotes/group_62cce5623e234643-after.json",
+  "evidenceSha256": "fccd8efde73ddfc0f1776bdab32128197c2daf05155cbbd58fdebc5741a01d4e"
+}

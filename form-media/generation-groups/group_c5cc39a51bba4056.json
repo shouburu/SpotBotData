@@ -1,0 +1,84 @@
+{
+  "id": "group_c5cc39a51bba4056",
+  "status": "completed-with-failures",
+  "roundId": "round-9",
+  "createdAt": "2026-09-21T20:56:27+00:00",
+  "balanceBefore": 9328,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_leverage_high_row_c0482620",
+      "shot": "r9-open-leverage-high-row-c0482620-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "73c095ce89dcf08ae0794466378c82521dbb06ea113a41c4f568113cc3563ecd",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-high-row-c0482620-motion-d062927c.json",
+      "quoteSha256": "4aee030b3387f316900c67e8d4975abe6429b1ae8b8f8e7965ad5d783e0660f0",
+      "quoteCredits": 10,
+      "balance": 9328,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-open-leverage-high-row-c0482620-start/attempt_666e8d3ec1b940b5.jpg",
+          "sha256": "de8fed43ca669cfa5bc712a0a17aaccea8af982f31f2ce81044d5a4a4a962cc7"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_skullcrusher",
+      "shot": "r9-ex-skullcrusher-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "8eb6d2dd754dcaaab86e4571db28f4dfd82779ed829f11d2e07915ac3f9e30b0",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-motion-5ec0d84e.json",
+      "quoteSha256": "a7fd4431bf7c9e0a54fbf0d41fb6d6c2a846048d1460f5a32ae8ec65917a097e",
+      "quoteCredits": 10,
+      "balance": 9328,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-skullcrusher-start/attempt_88f03994842048aa.jpg",
+          "sha256": "b06068a32b573359feaed08ff16f22fb921841202b72a2266e918427e4095c78"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r9-ex-dumbbell-fly-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "b9ee36f586f3aad0ef5679e72f9926f2e82e9bc21a577c6d9fdc39651b47a246",
+      "quoteFile": "form-media/ui-quotes/r9-ex-dumbbell-fly-motion-2b8dd84f.json",
+      "quoteSha256": "f4ff1b8dcab8ceb79490c782809c14df3c36f3dcb88b816250da346ecb121e20",
+      "quoteCredits": 10,
+      "balance": 9328,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-dumbbell-fly-start/attempt_b9095588fc394f4b.jpg",
+          "sha256": "8cc67483d70e78626969740a9360919cd7d22dccc5a8aa856eed2e59258d7040"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_hip_thrust",
+      "shot": "r9-ex-hip-thrust-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "b3c136c424e2bf147ae5fa158f2f8ab3dac928c349406b61770cdbf7e83898ad",
+      "quoteFile": "form-media/ui-quotes/r9-ex-hip-thrust-motion-36fa0ad2.json",
+      "quoteSha256": "c30c38f923a23f142a1c2c9b541c0bc81b47a91016351ce0e45ee682a50812aa",
+      "quoteCredits": 10,
+      "balance": 9328,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r9-ex-hip-thrust-start/attempt_0a452e76f29d476c.jpg",
+          "sha256": "9f2479aca3a2aebf183fc6d3f1003cab727bd31c9f3bcf0fed7b508609d52103"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-21T20:59:43+00:00",
+  "balanceAfter": 9298,
+  "actualCredits": 30,
+  "evidenceFile": "form-media/ui-quotes/round-9-corrected-i2v-group-reconcile.json",
+  "evidenceSha256": "b815128abaf3e9524ed5e9645ef89de0713c634f2a228df25a319228ceb26058",
+  "terminalFailureIds": [
+    "attempt_7dfdaad3afa64f98"
+  ]
+}

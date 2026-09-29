@@ -1,0 +1,60 @@
+{
+  "id": "group_65dfd4b087d44bdc",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:37:38+00:00",
+  "balanceBefore": 7874,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r8-open-bent-arm-barbell-pull-bd488038-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "9b98db4e46e021c536e51617f11b07f1b6a083fecf37dffee52be2bf0562175b",
+      "quoteFile": "form-media/ui-quotes/r8-open-bent-arm-barbell-pull-bd488038-motion-df91376e.json",
+      "quoteSha256": "fa866f9ea64a4d0172d6b1c72bb29f3f3758aa813ffc166985b2eba3123e6425",
+      "quoteCredits": 12,
+      "balance": 7874,
+      "references": []
+    },
+    {
+      "exerciseId": "open_bent_over_two_dumbbel_0c77d209",
+      "shot": "r8-open-bent-over-two-dumbbel-0c77d209-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "4117c28e2908e54c117d02d4c6727ef4be5f0af6117b5672bf1e2df5b7011cb1",
+      "quoteFile": "form-media/ui-quotes/r8-open-bent-over-two-dumbbel-0c77d209-motion-b3b216fa.json",
+      "quoteSha256": "a2d79b8a87be59fe9acdc72a2fed5185630e73103d51f5ac57f471a1ed3be237",
+      "quoteCredits": 12,
+      "balance": 7874,
+      "references": []
+    },
+    {
+      "exerciseId": "open_board_press_4dcee08d",
+      "shot": "r8-open-board-press-4dcee08d-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "3c49399ed9992035b2239d39e8c333797296e038df8c5fb598959e7d2f64070f",
+      "quoteFile": "form-media/ui-quotes/r8-open-board-press-4dcee08d-motion-2a6ffc5d.json",
+      "quoteSha256": "8539764613a777cac20064765c770760707f6c8fdc2d187fac4d1b92c97e06da",
+      "quoteCredits": 12,
+      "balance": 7874,
+      "references": []
+    },
+    {
+      "exerciseId": "open_box_squat_bc96e223",
+      "shot": "r8-open-box-squat-bc96e223-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "cdada9ad957b0d11fd7fd8d45e8b9d2d00cb61f2da3883e9bf612066c5262cbb",
+      "quoteFile": "form-media/ui-quotes/r8-open-box-squat-bc96e223-motion-69100b0b.json",
+      "quoteSha256": "7d0ec9a702e67b5e44362255f5625203b0f503c45727ec972f9c917f99f478cc",
+      "quoteCredits": 12,
+      "balance": 7874,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:39:19+00:00",
+  "balanceAfter": 7826,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-431359673c864fa4.json",
+  "evidenceSha256": "f9d6ccf6e2e88997d581065f411f91282d4a9a84474d48d64b8a6396b03ab081"
+}

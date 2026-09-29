@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-ex-reverse-wrist-curl-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-reverse-wrist-curl-start-4ae012c3.json"
+    },
+    {
+      "shot": "r8-ex-cable-crunch-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-cable-crunch-start-202c3297.json"
+    },
+    {
+      "shot": "r8-cat-cal-reverse-lunge-start",
+      "quoteFile": "form-media/ui-quotes/r8-cat-cal-reverse-lunge-start-3115cb48.json"
+    },
+    {
+      "shot": "r8-ex-hip-thrust-start",
+      "quoteFile": "form-media/ui-quotes/r8-ex-hip-thrust-start-998462ef.json"
+    }
+  ]
+}

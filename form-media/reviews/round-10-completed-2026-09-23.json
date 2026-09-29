@@ -1,0 +1,2608 @@
+{
+  "schemaVersion": 1,
+  "capturedAt": "2026-09-23T00:31:08+00:00",
+  "roundId": "round-10",
+  "catalogVersion": "2026.09.22.1",
+  "catalogRevision": 11,
+  "exerciseIds": [
+    "ex_leg_press",
+    "open_hack_squat_76a66305",
+    "open_thigh_abductor_05f17f36",
+    "open_thigh_adductor_933feed1",
+    "open_decline_smith_press_ab9938f7",
+    "ex_machine_chest_press",
+    "ex_calf_raise_seated",
+    "open_machine_triceps_exten_c66a3615",
+    "ex_dumbbell_fly",
+    "open_dumbbell_shrug_5ed42a42",
+    "ex_cable_crunch",
+    "ex_cable_fly",
+    "ex_straight_arm_pulldown",
+    "ex_arnold_press",
+    "open_bent_arm_barbell_pull_bd488038",
+    "open_cable_rear_delt_fly_dc550f7f",
+    "open_cable_shrugs_c5ea5dc6",
+    "open_calf_press_619d1416",
+    "open_clean_5137c876",
+    "open_clean_and_press_7da75b45",
+    "open_decline_dumbbell_benc_7264c18d",
+    "open_decline_dumbbell_flye_14b2de63",
+    "open_dip_machine_74e49ff5",
+    "open_donkey_calf_raises_55a343b9",
+    "open_dumbbell_clean_45633ce4",
+    "open_dumbbell_lunges_09699238",
+    "open_dumbbell_lying_pronat_95605e7c",
+    "open_incline_dumbbell_flye_f858d67d",
+    "open_inverted_row_1ce9a06f",
+    "open_landmine_180s_8bd8af32",
+    "open_one_legged_cable_kick_20e79891",
+    "open_power_snatch_3f9ccaec",
+    "open_pull_through_c80507cd",
+    "open_smith_machine_calf_ra_ccc5bca6",
+    "open_smith_machine_squat_37823d7a",
+    "open_smith_machine_stiff_l_73127ddd",
+    "open_standing_dumbbell_cal_ed527460",
+    "open_standing_overhead_bar_1c42b3f8",
+    "open_stiff_legged_dumbbell_5da667b0"
+  ],
+  "candidateExerciseIds": [
+    "ex_arnold_press",
+    "ex_cable_crunch",
+    "ex_calf_raise_seated",
+    "ex_leg_press",
+    "open_decline_dumbbell_benc_7264c18d",
+    "open_decline_smith_press_ab9938f7",
+    "open_dip_machine_74e49ff5",
+    "open_donkey_calf_raises_55a343b9",
+    "open_dumbbell_lunges_09699238",
+    "open_hack_squat_76a66305",
+    "open_machine_triceps_exten_c66a3615",
+    "open_smith_machine_squat_37823d7a",
+    "open_thigh_abductor_05f17f36",
+    "open_thigh_adductor_933feed1"
+  ],
+  "exercises": {
+    "ex_leg_press": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-leg-press-full-cycle-glow-trim-v1"
+      ],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "reviewRoundId": "round-10",
+      "compound": true,
+      "bodyPosition": "seated",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "great visual but still has bouncy/springy small motions during the range of movement",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T21:40:19+00:00"
+      },
+      "iterationReason": "The user said the prior movement is good and requested another style; reuse its successful fixed-seat sled geometry in Graphic 3D.",
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:22:14+00:00",
+      "deliveryBytes": 518189,
+      "reviewedAt": "2026-09-23T00:21:14+00:00",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewedAssetIds": [
+        "r2-leg-press-warm-start-72078fa5",
+        "r2-leg-press-warm-start-571b0695",
+        "r2-leg-press-warm-motion-f51f9a65",
+        "r2-leg-press-warm-motion-trim-v1",
+        "r3-leg-press-illustrated-start-34363f1d",
+        "r3-leg-press-illustrated-motion-e05aa841",
+        "r3-leg-press-illustrated-cycle-v1",
+        "r8-ex-leg-press-start-018cac25",
+        "r8-ex-leg-press-start-75c45cb2",
+        "r8-ex-leg-press-motion-f56e2009",
+        "r8-ex-leg-press-motion-940b6bfd",
+        "r9-ex-leg-press-motion-7ada65aa",
+        "r9-ex-leg-press-start-9dadf4fb",
+        "r9-ex-leg-press-start-7dc95e22",
+        "r9-ex-leg-press-motion-daaca3b1",
+        "r10-ex-leg-press-start-95f461e4",
+        "r10-ex-leg-press-motion-04ff3851",
+        "r10-leg-press-full-cycle-glow-trim-v1"
+      ]
+    },
+    "open_hack_squat_76a66305": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-hack-squat-76a66305-motion-980db092"
+      ],
+      "notes": "if you clip this 0-4 seconds consider it accepted",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "doing bouncy springy motions mid rep",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T21:56:30+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:20:50+00:00",
+      "reviewedAssetIds": [
+        "r8-open-hack-squat-76a66305-motion-d5f16113",
+        "r9-open-hack-squat-76a66305-start-0be6ce00",
+        "r9-open-hack-squat-76a66305-motion-a2b7617c",
+        "r10-open-hack-squat-76a66305-start-24ce8b2a",
+        "r10-open-hack-squat-76a66305-motion-980db092"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:22:14+00:00"
+    },
+    "open_thigh_abductor_05f17f36": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-thigh-abductor-05f17f36-motion-76663264"
+      ],
+      "notes": "clip this 0-4 seconds and conisder it accepted",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "doing springy motions through rep",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T22:39:02+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:23:35+00:00",
+      "reviewedAssetIds": [
+        "r9-open-thigh-abductor-05f17f36-start-e660c3f7",
+        "r9-open-thigh-abductor-05f17f36-motion-b0615a56",
+        "r9-open-thigh-abductor-05f17f36-motion-9695d8a9",
+        "r9-thigh-abductor-complete-cycle",
+        "r10-open-thigh-abductor-05f17f36-start-bfb34e96",
+        "r10-open-thigh-abductor-05f17f36-motion-76663264"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:22:14+00:00"
+    },
+    "open_thigh_adductor_933feed1": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b"
+      ],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "springy/bouncy motions",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T22:39:23+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:23:50+00:00",
+      "reviewedAssetIds": [
+        "r9-open-thigh-adductor-933feed1-start-0f3e9b48",
+        "r9-open-thigh-adductor-933feed1-motion-d2a71f5e",
+        "r9-open-thigh-adductor-933feed1-motion-3a608786",
+        "r10-open-thigh-adductor-933feed1-start-5569089a",
+        "r10-open-thigh-adductor-933feed1-start-v2-43fef8b6",
+        "r10-open-thigh-adductor-933feed1-start-v3-f751afd0",
+        "r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:59:50+00:00",
+      "deliveryBytes": 749958
+    },
+    "open_decline_smith_press_ab9938f7": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc"
+      ],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "great look of the video, just need to stop that bouncy half motion. you might be able to clip 0-3 seconds, duplicate it, and 3-6 is just 0-3 reversed.",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T14:24:52+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:18:40+00:00",
+      "reviewedAssetIds": [
+        "r8-open-decline-smith-press-ab9938f7-motion-5d338027",
+        "r9-open-decline-smith-press-ab9938f7-start-d0b8137b",
+        "r9-open-decline-smith-press-ab9938f7-start-4ee64a67",
+        "r9-open-decline-smith-press-ab9938f7-start-521995ce",
+        "r9-open-decline-smith-press-ab9938f7-motion-64ca76df",
+        "r9-smith-decline-press-complete-cycle-close",
+        "r10-open-decline-smith-press-ab9938f7-start-44c0a284",
+        "r10-open-decline-smith-press-ab9938f7-start-v2-3680d65d",
+        "r10-open-decline-smith-press-ab9938f7-start-v3-a67f6183",
+        "r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:59:50+00:00",
+      "deliveryBytes": 572158
+    },
+    "ex_machine_chest_press": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "the chest press machine doesnt look like that, it has more horizontal bars. this looks like a pec fly machine",
+      "productionStatus": "quality-hold",
+      "reviewRoundId": "round-9",
+      "compound": true,
+      "bodyPosition": "seated",
+      "previousRoundReview": {
+        "roundId": "round-3",
+        "reviewStatus": "rejected",
+        "notes": "i mean the movement is simple enough because its a machine, i think in these cases its best to have video that highlights the position of where it should be. like how bent the arms should be and how close it should be to the chest. So i think best would be 2 pictures, a side profile to indicate how close to chest you go, and a front photo that shows correct arm posture from having correct heigh adjustment for chair",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-10T16:35:24+00:00"
+      },
+      "iterationReason": "The user rejected the off-center person. Recompose around a centered person and both hands, then show one supported press.",
+      "deliveryBytes": 0,
+      "reviewedAt": "2026-09-22T21:41:14+00:00",
+      "productionNote": "Round 10 AI quality hold: Hands and elbows shift only slightly while the long horizontal bars barely travel; no clear full chest-press stroke or coherent moving lever is shown.",
+      "reviewedAssetIds": [
+        "r2-machine-chest-press-illustrated-start-e1d3e2b4",
+        "r2-machine-chest-press-illustrated-motion-06b7e5b6",
+        "r2-machine-chest-press-illustrated-start-eeedd45c",
+        "r2-machine-chest-press-illustrated-motion-341abd9e",
+        "r2-machine-chest-press-illustrated-motion-trim-v1",
+        "r3-machine-chest-press-illustrated-start-a54c93cb",
+        "r3-machine-chest-press-illustrated-start-54e07693",
+        "r3-machine-chest-press-illustrated-motion-f8170de2",
+        "r3-machine-chest-press-illustrated-start-23927a79",
+        "r6-ex-machine-chest-press-start-4ea7814e",
+        "r9-ex-machine-chest-press-motion-b4573fee",
+        "r9-ex-machine-chest-press-motion-1269b06c",
+        "r9-ex-machine-chest-press-motion-25e58c4e",
+        "r9-ex-machine-chest-press-start-7eca69be",
+        "r9-ex-machine-chest-press-start-940de4be",
+        "r9-ex-machine-chest-press-motion-f2c1d942",
+        "r9-ex-machine-chest-press-start-016e6848",
+        "r9-ex-machine-chest-press-motion-94e196fd",
+        "r9-machine-chest-press-complete-cycle-v1",
+        "r9-machine-chest-press-complete-cycle-close"
+      ]
+    },
+    "ex_calf_raise_seated": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-seated-calf-full-cycle-glow-trim-v1"
+      ],
+      "notes": "just wrong, lookup references on how to adjust your strategy for animating this because its been many attempts",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "once again, the machine in the video is nonsense. this is usually a plate loaded exercise not on a cable machine, im still seeing a cable loaded setup in the back which is confusing.",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T21:51:17+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:22:51+00:00",
+      "reviewedAssetIds": [
+        "r6-ex-calf-raise-seated-start-074d96d2",
+        "r6-ex-calf-raise-seated-start-07578dce",
+        "r6-ex-calf-raise-seated-start-6d4ff158",
+        "r6-ex-calf-raise-seated-motion-b17708b0",
+        "r8-ex-calf-raise-seated-start-819944a0",
+        "r8-ex-calf-raise-seated-start-3cb697e8",
+        "r8-ex-calf-raise-seated-motion-889f8729",
+        "r9-ex-calf-raise-seated-motion-2c659772",
+        "r9-ex-calf-raise-seated-motion-65aeae54",
+        "r9-ex-calf-raise-seated-start-858f980c",
+        "r9-ex-calf-raise-seated-start-f00a9dca",
+        "r9-ex-calf-raise-seated-motion-727e6703",
+        "r9-ex-calf-raise-seated-motion-5fbab741",
+        "r9-ex-calf-raise-seated-motion-e184b5f9",
+        "r9-ex-calf-raise-seated-start-244c976c",
+        "r9-ex-calf-raise-seated-start-8e71258c",
+        "r9-ex-calf-raise-seated-start-973d316b",
+        "r9-ex-calf-raise-seated-start-288880dd",
+        "r9-ex-calf-raise-seated-start-9a040cd8",
+        "r9-ex-calf-raise-seated-start-b9f5b4d6",
+        "r9-ex-calf-raise-seated-motion-247dc6c9",
+        "r10-ex-calf-raise-seated-start-5e553bf8",
+        "r10-ex-calf-raise-seated-start-v2-a0409a8f",
+        "r10-ex-calf-raise-seated-motion-ad035e6e",
+        "r10-seated-calf-full-cycle-glow-trim-v1"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:49:45+00:00"
+    },
+    "open_machine_triceps_exten_c66a3615": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-machine-triceps-exten-c66a3615-motion-4871503f"
+      ],
+      "notes": "that machine is incorrect, this is a pull exercise where it should be a push exercise",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "that handle grip area does not exist.  its usually a horizontal bar both hands grip onto, not individual handles",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T22:04:30+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:21:55+00:00",
+      "reviewedAssetIds": [
+        "r8-open-machine-triceps-exten-c66a3615-motion-91f49a30",
+        "r9-open-machine-triceps-exten-c66a3615-start-cd705c14",
+        "r9-open-machine-triceps-exten-c66a3615-start-ae2f1958",
+        "r9-open-machine-triceps-exten-c66a3615-motion-a2965b80",
+        "r9-machine-triceps-extension-complete-cycle",
+        "r10-open-machine-triceps-exten-c66a3615-start-ec245dc0",
+        "r10-open-machine-triceps-exten-c66a3615-motion-4871503f"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:22:14+00:00"
+    },
+    "ex_dumbbell_fly": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "great range of motion now, but the dumbells should stay parallel to the floor, rotating them like that would increase risk of injury",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Second trial again rolls the dumbbell shafts from level at the top to a nearly vertical axis on one side at the wide endpoint, repeating the user’s rejection.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T14:32:32+00:00",
+      "reviewedAssetIds": [
+        "r6-ex-dumbbell-fly-start-cd65416e",
+        "r6-ex-dumbbell-fly-start-435ff222",
+        "r6-ex-dumbbell-fly-start-93f5eb7c",
+        "r8-ex-dumbbell-fly-start-fc5e2aa7",
+        "r8-ex-dumbbell-fly-motion-b15aca84",
+        "r9-ex-dumbbell-fly-motion-4e474589",
+        "r9-ex-dumbbell-fly-motion-f64ea2f7",
+        "r9-ex-dumbbell-fly-motion-522de25b",
+        "r9-ex-dumbbell-fly-start-b9095588",
+        "r9-ex-dumbbell-fly-motion-2e435c4c",
+        "r9-ex-dumbbell-fly-motion-0d18100f",
+        "r9-ex-dumbbell-fly-start-8d456a68",
+        "r9-ex-dumbbell-fly-motion-e6d5eb13",
+        "r9-ex-dumbbell-fly-motion-e147630e",
+        "r9-ex-dumbbell-fly-start-4c07bd65",
+        "r9-ex-dumbbell-fly-motion-d779f759"
+      ]
+    },
+    "open_dumbbell_shrug_5ed42a42": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "AI review — rejected (2026-09-21).\n\nr8-open-dumbbell-shrug-5ed42a42-motion-61c41e93: Shoulders and dumbbells lift, return, and lift again in short pulses; the clip does not show exactly one controlled shrug.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Both elbows bend and the dumbbells rise in a bent-arm raise/curl instead of moving only with straight-arm shoulder elevation.",
+      "reviewRoundId": "round-8",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-21T18:06:37+00:00",
+      "reviewedAssetIds": [
+        "r8-open-dumbbell-shrug-5ed42a42-motion-61c41e93"
+      ]
+    },
+    "ex_cable_crunch": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "the users head should be between the rope already at starting position. im honestly not sure how you will fix this at this point its been so many attempts.",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "that cable machine doesnt exist, it usually 1 cable with a split rope attachement. more importantly the character barely moves, he should bring his chest towards his knees keeping hips locked.",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T14:18:03+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:17:50+00:00",
+      "reviewedAssetIds": [
+        "r6-ex-cable-crunch-start-98973bb5",
+        "r6-ex-cable-crunch-motion-dadd8c60",
+        "r8-ex-cable-crunch-start-e80c6c6d",
+        "r8-ex-cable-crunch-start-42f19ab2",
+        "r8-ex-cable-crunch-start-244289d2",
+        "r8-ex-cable-crunch-motion-437fc45c",
+        "r9-ex-cable-crunch-motion-3630d78f",
+        "r10-ex-cable-crunch-start-a858c95a",
+        "r10-ex-cable-crunch-start-v2-4e8a0d90",
+        "r10-ex-cable-crunch-motion-d66bee4a"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:49:45+00:00"
+    },
+    "ex_cable_fly": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The arms travel from wide toward the sternum and reopen, but at the close endpoint both elbows bend deeply while hands remain apart. The movement becomes a press-like bend instead of maintaining the softly bent long-arm chest-fly arc; the user requested clear full-range form.",
+      "reviewRoundId": "round-7",
+      "reviewedAt": "2026-09-16T02:38:40+00:00",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "rejected",
+        "notes": "very bouncy, also doesn't really help me understand the form. emphasize starting and ending position at beginning and end of the clip",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-16T02:38:40+00:00"
+      }
+    },
+    "ex_straight_arm_pulldown": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "character should be bent at the waist, so that when the arms are overhead the cable is parallel with the torso",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The bar travels through a substantial high-to-thigh-to-high shoulder arc, but the orange lat involvement disappears completely at the contracted low endpoint, violating the all-frames muscle cue requirement.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-7",
+        "reviewStatus": "rejected",
+        "notes": "should be bent forward more, elbows shouldn't bend, and it should be 1 full range of motion rep, the character is bouncing arms in the midsection",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-16T04:17:05+00:00"
+      },
+      "reviewedAt": "2026-09-22T21:54:14+00:00",
+      "reviewedAssetIds": [
+        "r6-ex-straight-arm-pulldown-start-001a7abb",
+        "r6-ex-straight-arm-pulldown-start-7b54f1cb",
+        "r6-ex-straight-arm-pulldown-motion-4e746c2b",
+        "r8-ex-straight-arm-pulldown-start-d9ab82db",
+        "r8-ex-straight-arm-pulldown-motion-c8e327b9",
+        "r9-ex-straight-arm-pulldown-motion-126271d9",
+        "r9-ex-straight-arm-pulldown-motion-de2a07c9",
+        "r9-ex-straight-arm-pulldown-start-5f6010ea",
+        "r9-ex-straight-arm-pulldown-motion-2afa6457",
+        "r9-straight-arm-pulldown-single-cycle-color-corrected-v1"
+      ]
+    },
+    "ex_arnold_press": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 1,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "bad",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "in round 9 the bottom position is incorrect. the dumbells should be parallel to your head at shoulder height.",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T14:06:33+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:16:32+00:00",
+      "reviewedAssetIds": [
+        "r6-ex-arnold-press-start-866edae0",
+        "r6-ex-arnold-press-start-885a73ac",
+        "r6-ex-arnold-press-motion-1477d741",
+        "r6-ex-arnold-press-motion-c61dae9f",
+        "r8-ex-arnold-press-start-cb826c2b",
+        "r8-ex-arnold-press-start-b3ba6b5f",
+        "r8-ex-arnold-press-motion-6c2cf3ff",
+        "r9-ex-arnold-press-motion-6821b94e",
+        "r9-ex-arnold-press-start-dcb140ce",
+        "r9-ex-arnold-press-motion-1c051cc8",
+        "r9-ex-arnold-press-start-41867403",
+        "r9-ex-arnold-press-motion-ac9bd9d3",
+        "r9-arnold-press-single-cycle-trim-v1",
+        "r10-ex-arnold-press-start-af5e3226",
+        "r10-ex-arnold-press-motion-069081ff"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:22:14+00:00"
+    },
+    "open_bent_arm_barbell_pull_bd488038": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "The video doesn't show the arm being bent, there should be some bending of the elbows. ",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Elbows straighten into a near-vertical barbell press while bar never travels behind the head; it does not demonstrate a bent-arm shoulder pullover.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T14:13:35+00:00",
+      "reviewedAssetIds": [
+        "r8-open-bent-arm-barbell-pull-bd488038-motion-761b939e",
+        "r9-open-bent-arm-barbell-pull-bd488038-start-60aded59",
+        "r9-open-bent-arm-barbell-pull-bd488038-start-f11d1884",
+        "r9-open-bent-arm-barbell-pull-bd488038-motion-2e9b2dc6",
+        "r9-open-bent-arm-barbell-pull-bd488038-motion-f3696c72",
+        "r9-open-bent-arm-barbell-pull-bd488038-start-9b642efe",
+        "r9-open-bent-arm-barbell-pull-bd488038-start-e6667153",
+        "r9-open-bent-arm-barbell-pull-bd488038-start-f5d54862",
+        "r9-open-bent-arm-barbell-pull-bd488038-motion-d8ad9957",
+        "r9-open-bent-arm-barbell-pull-bd488038-motion-cec4fe9c",
+        "r9-open-bent-arm-barbell-pull-bd488038-motion-14d30164"
+      ]
+    },
+    "open_cable_rear_delt_fly_dc550f7f": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "AI review — rejected (2026-09-21).\n\nr8-open-cable-rear-delt-fly-dc550f7f-motion-0477808d: Elbows begin markedly flexed and the cable-to-hand crossing changes as the arms open; this does not preserve the crossed-handle straight-arm rear-delt fly setup.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The cable routes still branch into unexplained low diagonal lines and the handles appear detached from the high-cable lines, so equipment resistance is not physically interpretable.",
+      "reviewRoundId": "round-8",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-21T18:06:37+00:00",
+      "reviewedAssetIds": [
+        "r8-open-cable-rear-delt-fly-dc550f7f-motion-0477808d"
+      ]
+    },
+    "open_cable_shrugs_c5ea5dc6": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "user should be standing closer to the machine, the tension shouldnt be at such a wide 45 degree angle and should be close to 90 degree with bar pulling almost straight up",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: At the high endpoint both elbows flex substantially, raising the bar toward the waist in an upright-row-like pull rather than a straight-arm shoulder shrug.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T14:22:03+00:00",
+      "reviewedAssetIds": [
+        "r8-open-cable-shrugs-c5ea5dc6-motion-a00aabbe",
+        "r9-open-cable-shrugs-c5ea5dc6-start-ef3d0db7",
+        "r9-open-cable-shrugs-c5ea5dc6-motion-548ad4a3",
+        "r9-open-cable-shrugs-c5ea5dc6-motion-f1343a74",
+        "r9-cable-shrug-complete-cycle"
+      ]
+    },
+    "open_calf_press_619d1416": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "AI review — rejected (2026-09-21).\n\nr8-open-calf-press-619d1416-motion-7fa04157: The knees extend as the foot platform changes position/shape; there is no clear calf press through the balls of the feet with the legs nearly straight.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Knees visibly extend as the body/sled shifts during the push; the motion is driven substantially by the legs instead of an ankle-only calf press.",
+      "reviewRoundId": "round-8",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-21T18:06:37+00:00",
+      "reviewedAssetIds": [
+        "r8-open-calf-press-619d1416-motion-7fa04157"
+      ]
+    },
+    "open_clean_5137c876": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The loaded bar floats well above the platform rather than beginning on the floor at the shins.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_clean_and_press_7da75b45": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Bar rises through an upright-row/curl-like catch with low elbows rather than a true high-elbow front-shoulder rack; the shoulder glow also fades during the press and return.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_decline_dumbbell_benc_7264c18d": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50"
+      ],
+      "notes": "bouncy and bumbells are wrong orientation",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "the barbells should be near perpendicular to the person, never seen someone hold dumbells parallel like that",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T14:23:31+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:18:16+00:00",
+      "reviewedAssetIds": [
+        "r8-open-decline-dumbbell-benc-7264c18d-motion-cf69dd72",
+        "r9-open-decline-dumbbell-benc-7264c18d-start-c8edf0e3",
+        "r9-open-decline-dumbbell-benc-7264c18d-motion-eb7888a2",
+        "r9-decline-dumbbell-press-cycle-eb7888a2",
+        "r10-open-decline-dumbbell-benc-7264c18d-start-f620868b",
+        "r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:22:14+00:00"
+    },
+    "open_decline_dumbbell_flye_14b2de63": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "AI review — rejected (2026-09-21).\n\nr8-open-decline-dumbbell-flye-14b2de63-motion-4b288da2: The mannequin sits upright and moves dumbbells beside the torso, rather than lying supine on a decline bench for a chest fly.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Bench is truly declined, but both elbows are bent deeply, making the opening posture press-like rather than a soft-elbow fly.",
+      "reviewRoundId": "round-8",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-21T18:06:37+00:00",
+      "reviewedAssetIds": [
+        "r8-open-decline-dumbbell-flye-14b2de63-motion-4b288da2"
+      ]
+    },
+    "open_dip_machine_74e49ff5": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-dip-machine-74e49ff5-motion-d7da6bdc"
+      ],
+      "notes": "that is not a dip machine",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "that machine does not exist",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T14:25:18+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:19:07+00:00",
+      "reviewedAssetIds": [
+        "r8-open-dip-machine-74e49ff5-motion-24b1be0c",
+        "r9-open-dip-machine-74e49ff5-motion-0664fa04",
+        "r9-open-dip-machine-74e49ff5-start-adf1b445",
+        "r9-open-dip-machine-74e49ff5-motion-e7232019",
+        "r9-open-dip-machine-74e49ff5-start-69a3e0e7",
+        "r9-open-dip-machine-74e49ff5-motion-11eed8cf",
+        "r9-dip-machine-complete-cycle",
+        "r10-open-dip-machine-74e49ff5-start-99d5db11",
+        "r10-open-dip-machine-74e49ff5-motion-d7da6bdc"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:22:14+00:00"
+    },
+    "open_donkey_calf_raises_55a343b9": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-donkey-calf-raises-55a343b9-motion-2d1da411"
+      ],
+      "notes": "remove this exercise from app",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-8",
+        "reviewStatus": "rejected",
+        "notes": "AI review — rejected (2026-09-21).\n\nr8-open-donkey-calf-raises-55a343b9-motion-38fbe30d: The mannequin remains upright with no pad loading the hips/lower back; the required bent-over donkey calf raise setup is absent.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-21T18:06:37+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:19:27+00:00",
+      "reviewedAssetIds": [
+        "r8-open-donkey-calf-raises-55a343b9-motion-38fbe30d",
+        "r9-open-donkey-calf-raises-55a343b9-start-c4b14639",
+        "r9-open-donkey-calf-raises-55a343b9-motion-a923edf5",
+        "r9-open-donkey-calf-raises-55a343b9-motion-82f5534f",
+        "r9-open-donkey-calf-raises-55a343b9-motion-ed5cbb38",
+        "r9-open-donkey-calf-raises-55a343b9-start-8cfeaa42",
+        "r9-open-donkey-calf-raises-55a343b9-start-cc2eb5e8",
+        "r9-open-donkey-calf-raises-55a343b9-start-7687c894",
+        "r9-open-donkey-calf-raises-55a343b9-start-9e293fa0",
+        "r9-open-donkey-calf-raises-55a343b9-start-a514f9f9",
+        "r9-open-donkey-calf-raises-55a343b9-start-b9c98cd3",
+        "r9-open-donkey-calf-raises-55a343b9-start-3bfcd0f0",
+        "r9-open-donkey-calf-raises-55a343b9-motion-b9e82d61",
+        "r9-open-donkey-calf-raises-55a343b9-motion-379d8ad8",
+        "r10-open-donkey-calf-raises-55a343b9-start-cd483080",
+        "r10-open-donkey-calf-raises-55a343b9-motion-2d1da411"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:49:45+00:00"
+    },
+    "open_dumbbell_clean_45633ce4": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Dumbbells are implausibly upright on their ends while the hands grip the top knobs rather than the centers of horizontal shafts.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_dumbbell_lunges_09699238": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-dumbbell-lunges-09699238-motion-1eaa53e1"
+      ],
+      "notes": "only 1 foot needs to move.  the foot moving should step far enough out to get the full lunge",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-8",
+        "reviewStatus": "rejected",
+        "notes": "AI review — rejected (2026-09-21).\n\nr8-open-dumbbell-lunges-09699238-motion-937de1c5: The stepping leg crosses behind the other leg into a shallow curtsy-like position rather than the instructed forward dumbbell lunge.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-21T18:06:37+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:20:17+00:00",
+      "reviewedAssetIds": [
+        "r8-open-dumbbell-lunges-09699238-motion-937de1c5",
+        "r9-open-dumbbell-lunges-09699238-start-5ff5974b",
+        "r9-open-dumbbell-lunges-09699238-motion-057cdee4",
+        "r9-open-dumbbell-lunges-09699238-motion-76ff6205",
+        "r9-open-dumbbell-lunges-09699238-start-e9572b3b",
+        "r9-open-dumbbell-lunges-09699238-start-a34f4d2c",
+        "r9-open-dumbbell-lunges-09699238-start-82cb2b4d",
+        "r9-open-dumbbell-lunges-09699238-motion-42dcc27b",
+        "r9-open-dumbbell-lunges-09699238-start-33746c92",
+        "r9-open-dumbbell-lunges-09699238-motion-56507fac",
+        "r9-open-dumbbell-lunges-09699238-start-86ed77d7",
+        "r9-open-dumbbell-lunges-09699238-motion-17450128",
+        "r9-open-dumbbell-lunges-09699238-start-ca7d8c55",
+        "r9-open-dumbbell-lunges-09699238-motion-7ca3bad2",
+        "r10-open-dumbbell-lunges-09699238-start-1aba9e71",
+        "r10-open-dumbbell-lunges-09699238-motion-1eaa53e1"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:22:14+00:00"
+    },
+    "open_dumbbell_lying_pronat_95605e7c": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "AI review — rejected (2026-09-21).\n\nr8-open-dumbbell-lying-pronat-95605e7c-motion-e7d37da9: The upper arm starts hanging down and the elbow curls the dumbbell toward the chest, rather than staying supported laterally at shoulder height for external rotation.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The loaded upper arm hangs down with a nearly straight elbow; this cannot demonstrate fixed-elbow shoulder external rotation.",
+      "reviewRoundId": "round-8",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-21T18:06:37+00:00",
+      "reviewedAssetIds": [
+        "r8-open-dumbbell-lying-pronat-95605e7c-motion-e7d37da9"
+      ]
+    },
+    "open_incline_dumbbell_flye_f858d67d": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "in latest video they rotate wrists, that should not happen. bumbells should stay parallel to torso",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Incline support and wide-arm pose are present, but the dumbbell shaft orientation does not clearly match the requested torso-parallel orientation.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T21:58:03+00:00",
+      "reviewedAssetIds": [
+        "r8-open-incline-dumbbell-flye-f858d67d-motion-14f2dd39",
+        "r9-open-incline-dumbbell-flye-f858d67d-start-d787a375",
+        "r9-open-incline-dumbbell-flye-f858d67d-motion-751c3773",
+        "r9-open-incline-dumbbell-flye-f858d67d-start-bf3d0d08",
+        "r9-open-incline-dumbbell-flye-f858d67d-start-03216d28",
+        "r9-open-incline-dumbbell-flye-f858d67d-start-29ed0484",
+        "r9-open-incline-dumbbell-flye-f858d67d-motion-53720f10",
+        "r9-open-incline-dumbbell-flye-f858d67d-motion-3112ed5b",
+        "r9-open-incline-dumbbell-flye-f858d67d-motion-8c42e769"
+      ]
+    },
+    "open_inverted_row_1ce9a06f": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "the bar is usually lower with somone starting close to the ground. standing doesnt make sense ",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The body and fixed rack bar are present, but the person balances on the toes rather than planting heels, so the feet and body angle do not depict the intended inverted-row setup.",
+      "reviewRoundId": "round-8",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-16T15:53:16+00:00",
+      "reviewedAssetIds": [
+        "r8-open-inverted-row-1ce9a06f-start-2872d809",
+        "r8-open-inverted-row-1ce9a06f-start-746a84eb",
+        "r8-open-inverted-row-1ce9a06f-motion-3d1de176"
+      ]
+    },
+    "open_landmine_180s_8bd8af32": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "AI review — rejected (2026-09-21).\n\nr8-open-landmine-180s-8bd8af32-motion-2e1a4cfd: The landmine's anchored shaft morphs into a loose horizontal barbell near the end; equipment shape and floor anchoring are not preserved.\n\nSampled-frame review against the current catalog and one-complete-repetition standard; no trainer approval. Original assets retained. No regeneration submitted.",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Floor pivot is present, but the bar has an excessive sleeve protruding above the plate and unclear hand position relative to the working end.",
+      "reviewRoundId": "round-8",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-21T18:06:37+00:00",
+      "reviewedAssetIds": [
+        "r8-open-landmine-180s-8bd8af32-motion-2e1a4cfd"
+      ]
+    },
+    "open_one_legged_cable_kick_20e79891": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "try again, its close but most cable machines dont have that horizontal bar holder. Show this with a standard cable machine.",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The cuffed leg already extends behind the hip on tiptoe, leaving no neutral under-hip starting endpoint for a complete backward kick and return.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:05:36+00:00",
+      "reviewedAssetIds": [
+        "r8-open-one-legged-cable-kick-20e79891-motion-a9181bd1",
+        "r9-open-one-legged-cable-kick-20e79891-start-8601af56",
+        "r9-open-one-legged-cable-kick-20e79891-start-4285ddef",
+        "r9-open-one-legged-cable-kick-20e79891-start-4102a2d7",
+        "r9-open-one-legged-cable-kick-20e79891-motion-b24e4fe5",
+        "r9-open-one-legged-cable-kick-20e79891-motion-c32941f2",
+        "r9-cable-kickback-complete-cycle"
+      ]
+    },
+    "open_power_snatch_3f9ccaec": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 3,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Bar is already lifted clear of the floor in the starting frame, so the required ground-to-power-catch sequence has no valid start.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_pull_through_c80507cd": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "legs should be wider, starting position should have hands holding rope closer to butt beween legs with a more dramatic hip thrusting.",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The rope is held ahead of the knees and far in front of the hips at the low hinge, despite the requested hands near the buttocks; the cable path is not the intended between-leg pull-through.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:14:10+00:00",
+      "reviewedAssetIds": [
+        "r8-open-pull-through-c80507cd-motion-f1052909",
+        "r9-open-pull-through-c80507cd-start-a5881446",
+        "r9-open-pull-through-c80507cd-motion-dfc7242f"
+      ]
+    },
+    "open_smith_machine_calf_ra_ccc5bca6": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Both whole feet still rest flat on a broad platform; heels do not hang below a narrow ledge, so an ankle-only calf raise lacks its intended starting geometry.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_smith_machine_squat_37823d7a": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "accepted",
+      "pilot": true,
+      "selectedAssetIds": [
+        "r10-open-smith-machine-squat-37823d7a-motion-75497878"
+      ],
+      "notes": "",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewRoundId": "round-10",
+      "previousRoundReview": {
+        "roundId": "round-9",
+        "reviewStatus": "rejected",
+        "notes": "the character seems good but something is sliding on the side bars that looks weird. take a look at round 9 video to see what i mean",
+        "selectedAssetIds": [],
+        "reviewedAt": "2026-09-22T22:19:35+00:00"
+      },
+      "reviewedAt": "2026-09-23T00:23:04+00:00",
+      "reviewedAssetIds": [
+        "r9-open-smith-machine-squat-37823d7a-start-e59ae0fb",
+        "r9-open-smith-machine-squat-37823d7a-motion-732fe39e",
+        "r9-smith-squat-complete-cycle",
+        "r10-open-smith-machine-squat-37823d7a-start-38a561a8",
+        "r10-open-smith-machine-squat-37823d7a-motion-75497878"
+      ],
+      "selectionProposedBy": "ai",
+      "selectionProposedAt": "2026-09-22T23:22:14+00:00",
+      "deliveryBytes": 610963
+    },
+    "open_smith_machine_stiff_l_73127ddd": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "So the movement and machine are great but the character looks a bit smoothed out, can you make him similar to the more musculature character",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The source remains a deep knee-bent pull; a stiff-leg hinge requires only softly bent, nearly fixed knees and a bar tracking close to the legs.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:20:28+00:00",
+      "reviewedAssetIds": [
+        "r9-open-smith-machine-stiff-l-73127ddd-start-0ef2d352",
+        "r9-open-smith-machine-stiff-l-73127ddd-motion-e6b0f25e",
+        "r9-open-smith-machine-stiff-l-73127ddd-start-fb0bccea",
+        "r9-open-smith-machine-stiff-l-73127ddd-start-62a004f5",
+        "r9-open-smith-machine-stiff-l-73127ddd-motion-f5fbebfa"
+      ]
+    },
+    "open_standing_dumbbell_cal_ed527460": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The feet do not share one stable starting position: one forefoot is off the step and both heels are already lifted. This cannot establish a symmetrical full ankle cycle.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_standing_overhead_bar_1c42b3f8": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-planned",
+      "reviewStatus": "pending",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: Bar is in front of the head with elbows wide at shoulder height, not behind the head with fixed near-vertical upper arms.",
+      "reviewRoundId": "round-7",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      }
+    },
+    "open_stiff_legged_dumbbell_5da667b0": {
+      "teachingFormat": "video",
+      "rationale": "Anatomical 3D video proposed for this exact loaded exercise variant, with visible muscle involvement, stable grip, full range and one complete return. Starting pose and motion require editorial review.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "positioning of the dumbells is wrong, the dumbells should be perpendicular to the foot direction and go up and down the front side of the legs.",
+      "productionStatus": "quality-hold",
+      "productionNote": "Round 10 AI quality hold: The knees remain deeply bent and the dumbbells stop near knees rather than lower shins; this is a conventional knee-driven deadlift setup, not the requested stiff-legged hinge.",
+      "reviewRoundId": "round-9",
+      "previousRoundReview": {
+        "roundId": "round-6",
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": [],
+        "reviewedAt": null
+      },
+      "reviewedAt": "2026-09-22T22:38:40+00:00",
+      "reviewedAssetIds": [
+        "r9-open-stiff-legged-dumbbell-5da667b0-start-1fd9a2a3",
+        "r9-open-stiff-legged-dumbbell-5da667b0-start-4f68fe98",
+        "r9-open-stiff-legged-dumbbell-5da667b0-start-503a90d6",
+        "r9-open-stiff-legged-dumbbell-5da667b0-motion-78f0cb57",
+        "r9-stiff-legged-dumbbell-deadlift-cycle-color-corrected-v1"
+      ]
+    }
+  },
+  "candidateAssets": {
+    "r10-open-machine-triceps-exten-c66a3615-motion-4871503f": {
+      "id": "r10-open-machine-triceps-exten-c66a3615-motion-4871503f",
+      "exerciseId": "open_machine_triceps_exten_c66a3615",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-machine-triceps-exten-c66a3615-motion-4871503f.mp4",
+      "title": "Anatomical 3D · Full controlled repetition · AI screened",
+      "alt": "Machine Triceps Extension demonstrating one complete controlled repetition with illustrative muscle involvement.",
+      "bytes": 643197,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "3a7b67c0282adf15fc4737e6003241ff5552be325bac2030833b4953ef2d4f57",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "promptVersion": "10.0-monotonic",
+      "createdAt": "2026-09-22T23:05:18+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-machine-triceps-exten-c66a3615-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-machine-triceps-exten-c66a3615-motion-4871503f-poster.webp",
+      "posterSha256": "f2b649e6e54ab2672b3e8dbf191290e796af204dc37f9b9779b4c8599d7b2ce8",
+      "posterBytes": 48110,
+      "attemptId": "attempt_4871503f635a4230",
+      "promptFile": "form-media/prompts/r10-open-machine-triceps-exten-c66a3615-motion.txt",
+      "promptText": "Anatomical 3D instructional video of Machine Triceps Extension, animating the exact supplied starting frame. Show ONE complete and unhurried repetition in six seconds.\n0.0–0.5 seconds: Hold the initial pose motionless. At the exact supplied start, both hands grip one straight horizontal bar and both elbows remain planted on the broad support pad.\n0.5–2.6 seconds: Straighten both elbows in one smooth motion, moving the same bar forward and down along the machine lever path until the forearms are nearly aligned with the upper arms.\n2.6–3.2 seconds: Freeze at that full endpoint for a readable beat.\n3.2–5.5 seconds: Bend only the elbows to return the same bar to the original near-chin position and original elbow angles.\n5.5–6.0 seconds: Freeze at the original starting pose. End the clip there.\nThe upper arms, shoulders and torso stay still; hands never leave the common bar. No curl, shoulder press, broken linkage, or partial extra repetition.\nTemporal rule: the working joints and moving machine parts travel continuously and monotonically between the two endpoints. There is only one reversal, at the full endpoint. No bouncy, springy, rocking, twitching, looping, or abbreviated motion.\nKeep the supplied sculpted silver-gray anatomical mannequin, charcoal shorts, exact rigid equipment and fixed camera. Persistent localized bright-orange muscle glow follows the triceps through the entire cycle, including both endpoint holds. Frame the working joints, hands, feet, pads, rails and movement envelope closely without cropping an endpoint. Plain light studio. Silent, one continuous shot, natural speed; no cuts, camera movement, words, logos, arrows, or extra objects.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-machine-triceps-exten-c66a3615-start/attempt_ec245dc0b581459c.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:08:48+00:00",
+        "notes": "Observed evidence:\nBoth hands remain on one horizontal bar and elbows stay supported while the forearms extend and return. The triceps glow persists and no extra partial repetition follows.\n\nLimitations:\nScreened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-machine-triceps-exten-c66a3615-motion-4871503f.mp4",
+          "sha256": "3a7b67c0282adf15fc4737e6003241ff5552be325bac2030833b4953ef2d4f57",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "a8626a354522713a679d3d60ba10628920bb8fac2c53195c76040b00bf865c2f",
+          "locations": [
+            {
+              "path": "form-media/round-10-first-motion-wave-reviews.json",
+              "fileSha256": "5d86c0019835d5d508908578210775bed6b705a074ea8f404a1b9e55744be1d8",
+              "recordIndex": 4,
+              "recordSha256": "a8626a354522713a679d3d60ba10628920bb8fac2c53195c76040b00bf865c2f"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-machine-triceps-exten-c66a3615-motion-4871503f",
+            "attemptId": "attempt_4871503f635a4230",
+            "exerciseId": "open_machine_triceps_exten_c66a3615",
+            "shot": "r10-open-machine-triceps-exten-c66a3615-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-machine-triceps-exten-c66a3615-motion-4871503f.mp4",
+            "outputSha256": "3a7b67c0282adf15fc4737e6003241ff5552be325bac2030833b4953ef2d4f57",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:08:48+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Both hands remain on one horizontal bar and elbows stay supported while the forearms extend and return. The triceps glow persists and no extra partial repetition follows."
+            ],
+            "limitations": [
+              "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-machine-triceps-exten-c66a3615-motion-4871503f-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-open-thigh-abductor-05f17f36-motion-76663264": {
+      "id": "r10-open-thigh-abductor-05f17f36-motion-76663264",
+      "exerciseId": "open_thigh_abductor_05f17f36",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-thigh-abductor-05f17f36-motion-76663264.mp4",
+      "title": "Anatomical 3D · Full controlled repetition · AI screened",
+      "alt": "Thigh Abductor demonstrating one complete controlled repetition with illustrative muscle involvement.",
+      "bytes": 788882,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "5f60fdf68fd2a5d500cba6d5adfd3aeeeab7f5beebb5d739820e49bb8673ab68",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "promptVersion": "10.0-monotonic",
+      "createdAt": "2026-09-22T23:05:19+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-thigh-abductor-05f17f36-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-thigh-abductor-05f17f36-motion-76663264-poster.webp",
+      "posterSha256": "8e24d6a682485b7f73c549805ba61931c1a3563d392ec6e01afe7873ae4daabd",
+      "posterBytes": 62334,
+      "attemptId": "attempt_7666326447484107",
+      "promptFile": "form-media/prompts/r10-open-thigh-abductor-05f17f36-motion.txt",
+      "promptText": "Anatomical 3D instructional video of Thigh Abductor, animating the exact supplied starting frame. Show ONE complete and unhurried repetition in six seconds.\n0.0–0.5 seconds: Hold the initial pose motionless. At the exact supplied start with knees together, both outer thighs remain in firm contact with the separate hinged pads and both hands hold stationary handles.\n0.5–2.6 seconds: Open both thighs smoothly and symmetrically against the pads until the knees are clearly far apart and the machine arms reach a visible wide endpoint.\n2.6–3.2 seconds: Freeze at that full endpoint for a readable beat.\n3.2–5.5 seconds: Close the same arms smoothly until both knees and pads are back at their exact starting positions.\n5.5–6.0 seconds: Freeze at the original starting pose. End the clip there.\nThe pelvis and back stay against the seat. Each pad rotates once outward and once inward with no extra tiny pulses, and the orange outer-hip involvement remains visible throughout.\nTemporal rule: the working joints and moving machine parts travel continuously and monotonically between the two endpoints. There is only one reversal, at the full endpoint. No bouncy, springy, rocking, twitching, looping, or abbreviated motion.\nKeep the supplied sculpted silver-gray anatomical mannequin, charcoal shorts, exact rigid equipment and fixed camera. Persistent localized bright-orange muscle glow follows the abductors through the entire cycle, including both endpoint holds. Frame the working joints, hands, feet, pads, rails and movement envelope closely without cropping an endpoint. Plain light studio. Silent, one continuous shot, natural speed; no cuts, camera movement, words, logos, arrows, or extra objects.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-thigh-abductor-05f17f36-start/attempt_bfb34e9695584c57.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:08:48+00:00",
+        "notes": "Observed evidence:\nBoth thighs open against the separate machine pads and close to the original position in one cycle; torso remains supported. Near-side orange outer-hip involvement stays visible.\n\nLimitations:\nScreened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-thigh-abductor-05f17f36-motion-76663264.mp4",
+          "sha256": "5f60fdf68fd2a5d500cba6d5adfd3aeeeab7f5beebb5d739820e49bb8673ab68",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "e131abe12bcb568d33080b97870df9c5e1e2074d61e357be548897cabb4eee17",
+          "locations": [
+            {
+              "path": "form-media/round-10-first-motion-wave-reviews.json",
+              "fileSha256": "5d86c0019835d5d508908578210775bed6b705a074ea8f404a1b9e55744be1d8",
+              "recordIndex": 3,
+              "recordSha256": "e131abe12bcb568d33080b97870df9c5e1e2074d61e357be548897cabb4eee17"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-thigh-abductor-05f17f36-motion-76663264",
+            "attemptId": "attempt_7666326447484107",
+            "exerciseId": "open_thigh_abductor_05f17f36",
+            "shot": "r10-open-thigh-abductor-05f17f36-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-thigh-abductor-05f17f36-motion-76663264.mp4",
+            "outputSha256": "5f60fdf68fd2a5d500cba6d5adfd3aeeeab7f5beebb5d739820e49bb8673ab68",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:08:48+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Both thighs open against the separate machine pads and close to the original position in one cycle; torso remains supported. Near-side orange outer-hip involvement stays visible."
+            ],
+            "limitations": [
+              "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-thigh-abductor-05f17f36-motion-76663264-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-open-hack-squat-76a66305-motion-980db092": {
+      "id": "r10-open-hack-squat-76a66305-motion-980db092",
+      "exerciseId": "open_hack_squat_76a66305",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-hack-squat-76a66305-motion-980db092.mp4",
+      "title": "Anatomical 3D · Full controlled repetition · AI screened",
+      "alt": "Hack Squat demonstrating one complete controlled repetition with illustrative muscle involvement.",
+      "bytes": 512579,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "50a9e74768d53d228dfcdaff6fdf5fbfb342261eefa8a0763f2b57247a9b3ed9",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "promptVersion": "10.0-monotonic",
+      "createdAt": "2026-09-22T23:05:21+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-hack-squat-76a66305-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-hack-squat-76a66305-motion-980db092-poster.webp",
+      "posterSha256": "7da9c3746c1f6e42097700e666b829a9cf3cfc914610076cbe5168068da27f30",
+      "posterBytes": 37644,
+      "attemptId": "attempt_980db092027349fe",
+      "promptFile": "form-media/prompts/r10-open-hack-squat-76a66305-motion.txt",
+      "promptText": "Anatomical 3D instructional video of Hack Squat, animating the exact supplied starting frame. Show ONE complete and unhurried repetition in six seconds.\n0.0–0.5 seconds: Hold the initial pose motionless. At the exact supplied deep-squat pose, the back and shoulders press into the moving carriage pad, both feet stay planted on the stationary sloped platform.\n0.5–2.6 seconds: Extend both knees and hips together to raise the shoulder carriage in one uninterrupted upward glide until the legs are nearly straight.\n2.6–3.2 seconds: Freeze at that full endpoint for a readable beat.\n3.2–5.5 seconds: Lower the same carriage down the same rails in one uninterrupted glide until the original deep knee bend is restored.\n5.5–6.0 seconds: Freeze at the original starting pose. End the clip there.\nThe heels never lift and the torso never leaves the back pad. There is exactly one change of travel direction, at the fully raised endpoint. No little knee dips or springy rebounds mid-travel.\nTemporal rule: the working joints and moving machine parts travel continuously and monotonically between the two endpoints. There is only one reversal, at the full endpoint. No bouncy, springy, rocking, twitching, looping, or abbreviated motion.\nKeep the supplied sculpted silver-gray anatomical mannequin, charcoal shorts, exact rigid equipment and fixed camera. Persistent localized bright-orange muscle glow follows the quadriceps through the entire cycle, including both endpoint holds. Frame the working joints, hands, feet, pads, rails and movement envelope closely without cropping an endpoint. Plain light studio. Silent, one continuous shot, natural speed; no cuts, camera movement, words, logos, arrows, or extra objects.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-hack-squat-76a66305-start/attempt_24ce8b2a14ed4cd0.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:08:48+00:00",
+        "notes": "Observed evidence:\nShoulder carriage rises along its rails as knees and hips extend, then returns to the original deep position. Both feet remain planted and there is one full travel reversal with no springy mid-range pulse.\n\nLimitations:\nScreened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-hack-squat-76a66305-motion-980db092.mp4",
+          "sha256": "50a9e74768d53d228dfcdaff6fdf5fbfb342261eefa8a0763f2b57247a9b3ed9",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "fd2f5fadc21b3c39270bdc310771cbf6063f31565f34082d2cdcea5afb67e8c7",
+          "locations": [
+            {
+              "path": "form-media/round-10-first-motion-wave-reviews.json",
+              "fileSha256": "5d86c0019835d5d508908578210775bed6b705a074ea8f404a1b9e55744be1d8",
+              "recordIndex": 2,
+              "recordSha256": "fd2f5fadc21b3c39270bdc310771cbf6063f31565f34082d2cdcea5afb67e8c7"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-hack-squat-76a66305-motion-980db092",
+            "attemptId": "attempt_980db092027349fe",
+            "exerciseId": "open_hack_squat_76a66305",
+            "shot": "r10-open-hack-squat-76a66305-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-hack-squat-76a66305-motion-980db092.mp4",
+            "outputSha256": "50a9e74768d53d228dfcdaff6fdf5fbfb342261eefa8a0763f2b57247a9b3ed9",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:08:48+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Shoulder carriage rises along its rails as knees and hips extend, then returns to the original deep position. Both feet remain planted and there is one full travel reversal with no springy mid-range pulse."
+            ],
+            "limitations": [
+              "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-hack-squat-76a66305-motion-980db092-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-ex-leg-press-motion-04ff3851": {
+      "id": "r10-ex-leg-press-motion-04ff3851",
+      "exerciseId": "ex_leg_press",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-ex-leg-press-motion-04ff3851.mp4",
+      "title": "Anatomical 3D · Full controlled repetition · AI review pending",
+      "alt": "Leg Press demonstrating one complete controlled repetition with illustrative muscle involvement.",
+      "bytes": 510297,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "5a135b654f9a72698ef3f89def33dfd71fdbb9592503c9d6b5dd7520bfd208af",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "promptVersion": "10.0-monotonic",
+      "createdAt": "2026-09-22T23:05:22+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-ex-leg-press-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-ex-leg-press-motion-04ff3851-poster.webp",
+      "posterSha256": "5ddeaa2ae69edfd1622f7832a4ffdafed7c3cff681393a42bce9a47a09b02b1c",
+      "posterBytes": 40536,
+      "attemptId": "attempt_04ff38515e3b416b",
+      "promptFile": "form-media/prompts/r10-ex-leg-press-motion.txt",
+      "promptText": "Anatomical 3D instructional video of Leg Press, animating the exact supplied starting frame. Show ONE complete and unhurried repetition in six seconds.\n0.0–0.5 seconds: Hold the initial pose motionless. At the exact supplied bent-knee pose, the torso and reclined seat are motionless; both heels press on the sled footplate.\n0.5–2.6 seconds: Press the separate footplate sled smoothly up its fixed rails until both knees are nearly straight but not locked. The sled moves away from the stationary seat.\n2.6–3.2 seconds: Freeze at that full endpoint for a readable beat.\n3.2–5.5 seconds: Lower that same sled back down the same rails until both knees are again deeply bent at exactly the original footplate position.\n5.5–6.0 seconds: Freeze at the original starting pose. End the clip there.\nThe knee angle opens continuously during the press and closes continuously during the return. Never stop or reverse halfway. Both feet remain flat on the footplate; pelvis and back remain on the fixed seat.\nTemporal rule: the working joints and moving machine parts travel continuously and monotonically between the two endpoints. There is only one reversal, at the full endpoint. No bouncy, springy, rocking, twitching, looping, or abbreviated motion.\nKeep the supplied sculpted silver-gray anatomical mannequin, charcoal shorts, exact rigid equipment and fixed camera. Persistent localized bright-orange muscle glow follows the quadriceps through the entire cycle, including both endpoint holds. Frame the working joints, hands, feet, pads, rails and movement envelope closely without cropping an endpoint. Plain light studio. Silent, one continuous shot, natural speed; no cuts, camera movement, words, logos, arrows, or extra objects.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-ex-leg-press-start/attempt_95f461e47d5c4019.jpg"
+      ],
+      "editorialReview": {
+        "status": "needs-correction",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:08:48+00:00",
+        "notes": "Observed evidence:\nThe sled completes one full press and return without a visible mid-range reversal, but orange quadriceps involvement fades away in the final idle tail. A contiguous original-speed trim can remove that tail.\n\nLimitations:\nScreened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-ex-leg-press-motion-04ff3851.mp4",
+          "sha256": "5a135b654f9a72698ef3f89def33dfd71fdbb9592503c9d6b5dd7520bfd208af",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "b185527caff9359a6b708353f1e1f1ab5613d3093cfad8df4bf4c0efa43e1aa2",
+          "locations": [
+            {
+              "path": "form-media/round-10-first-motion-wave-reviews.json",
+              "fileSha256": "5d86c0019835d5d508908578210775bed6b705a074ea8f404a1b9e55744be1d8",
+              "recordIndex": 0,
+              "recordSha256": "b185527caff9359a6b708353f1e1f1ab5613d3093cfad8df4bf4c0efa43e1aa2"
+            }
+          ],
+          "record": {
+            "assetId": "r10-ex-leg-press-motion-04ff3851",
+            "attemptId": "attempt_04ff38515e3b416b",
+            "exerciseId": "ex_leg_press",
+            "shot": "r10-ex-leg-press-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-ex-leg-press-motion-04ff3851.mp4",
+            "outputSha256": "5a135b654f9a72698ef3f89def33dfd71fdbb9592503c9d6b5dd7520bfd208af",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:08:48+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "needs-correction",
+            "evidence": [
+              "The sled completes one full press and return without a visible mid-range reversal, but orange quadriceps involvement fades away in the final idle tail. A contiguous original-speed trim can remove that tail."
+            ],
+            "limitations": [
+              "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-ex-leg-press-motion-04ff3851-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      },
+      "rejectionSource": "ai-editorial",
+      "rejectedAt": "2026-09-22T23:08:56+00:00"
+    },
+    "r10-leg-press-full-cycle-glow-trim-v1": {
+      "shot": "r10-ex-leg-press-motion",
+      "roundId": "round-10",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "styleVersion": "10.0",
+      "promptVersion": "10.0-monotonic",
+      "id": "r10-leg-press-full-cycle-glow-trim-v1",
+      "exerciseId": "ex_leg_press",
+      "kind": "video",
+      "sourceRoundId": "round-10",
+      "url": "/assets/delivery/round-10/r10-leg-press-full-cycle-glow-trim-v1.mp4",
+      "title": "Anatomical 3D · Leg Press · Complete repetition",
+      "alt": "Leg Press: one full controlled press and return with quadriceps involvement highlighted.",
+      "bytes": 477113,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 5.916667,
+      "sha256": "d445f2d519509a8da8b60221bc320ce6886f8f0110df78f61d25a2971fdc83e5",
+      "source": "Authored edit of Google Flow render",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "accepted",
+      "createdAt": "2026-09-22T23:07:31+00:00",
+      "posterUrl": "/assets/delivery/round-10/r10-leg-press-full-cycle-glow-trim-v1-poster.webp",
+      "posterSha256": "a4279e7a7b99c231f7fe9086793e6d9a36e5394e72af57e5a86650b9ad04becf",
+      "posterBytes": 41076,
+      "edit": {
+        "id": "r10-leg-press-full-cycle-glow-trim-v1",
+        "roundId": "round-10",
+        "sourceRoundId": "round-10",
+        "sourceAssetId": "r10-ex-leg-press-motion-04ff3851",
+        "sourceAttemptId": "attempt_04ff38515e3b416b",
+        "sourcePath": "form-media/assets/masters/r10-ex-leg-press-motion/attempt_04ff38515e3b416b.mp4",
+        "sourceSha256": "31c170e9e74a7b722ea64817a9d22dfc23cb3183718a56586c0c471aac655ba9",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 5.3,
+        "leadHoldSeconds": 0.3,
+        "tailHoldSeconds": 0.3,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=5.3,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.3:stop_mode=clone:stop_duration=0.3",
+        "generationCredits": 0,
+        "createdAt": "2026-09-22T23:07:31+00:00",
+        "path": "form-media/assets/delivery/round-10/r10-leg-press-full-cycle-glow-trim-v1.mp4",
+        "sha256": "d445f2d519509a8da8b60221bc320ce6886f8f0110df78f61d25a2971fdc83e5",
+        "bytes": 477113,
+        "width": 720,
+        "height": 1280,
+        "durationSeconds": 5.916667,
+        "codec": "h264"
+      },
+      "sourceAttemptId": "attempt_04ff38515e3b416b",
+      "sourceAssetId": "r10-ex-leg-press-motion-04ff3851",
+      "promptText": "Anatomical 3D instructional video of Leg Press, animating the exact supplied starting frame. Show ONE complete and unhurried repetition in six seconds.\n0.0–0.5 seconds: Hold the initial pose motionless. At the exact supplied bent-knee pose, the torso and reclined seat are motionless; both heels press on the sled footplate.\n0.5–2.6 seconds: Press the separate footplate sled smoothly up its fixed rails until both knees are nearly straight but not locked. The sled moves away from the stationary seat.\n2.6–3.2 seconds: Freeze at that full endpoint for a readable beat.\n3.2–5.5 seconds: Lower that same sled back down the same rails until both knees are again deeply bent at exactly the original footplate position.\n5.5–6.0 seconds: Freeze at the original starting pose. End the clip there.\nThe knee angle opens continuously during the press and closes continuously during the return. Never stop or reverse halfway. Both feet remain flat on the footplate; pelvis and back remain on the fixed seat.\nTemporal rule: the working joints and moving machine parts travel continuously and monotonically between the two endpoints. There is only one reversal, at the full endpoint. No bouncy, springy, rocking, twitching, looping, or abbreviated motion.\nKeep the supplied sculpted silver-gray anatomical mannequin, charcoal shorts, exact rigid equipment and fixed camera. Persistent localized bright-orange muscle glow follows the quadriceps through the entire cycle, including both endpoint holds. Frame the working joints, hands, feet, pads, rails and movement envelope closely without cropping an endpoint. Plain light studio. Silent, one continuous shot, natural speed; no cuts, camera movement, words, logos, arrows, or extra objects.\n",
+      "promptFile": "form-media/prompts/r10-ex-leg-press-motion.txt",
+      "promptSha256": "ce83e26e9da71f30c6dab5cf2bc9fec5fc859f1909b992b0415dd38774b520e4",
+      "referenceIds": [
+        "form-media/assets/masters/r10-ex-leg-press-start/attempt_95f461e47d5c4019.jpg"
+      ],
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-leg-press-start/attempt_95f461e47d5c4019.jpg",
+          "sha256": "6db7a448e1b8d7141adafbec4af652e746f13bd0cb07e0f1425ece1a5bc13ec2",
+          "role": "start"
+        }
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:08:48+00:00",
+        "notes": "Observed evidence:\nContiguous original-speed press and full return are retained, followed by a held final bent-knee pose. Orange quadriceps involvement remains visible through the final held frame. No footage was reversed or synthesized.\n\nLimitations:\nScreened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-leg-press-full-cycle-glow-trim-v1.mp4",
+          "sha256": "d445f2d519509a8da8b60221bc320ce6886f8f0110df78f61d25a2971fdc83e5",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "0e021685a4d247edc27b3c2c8a80d246b17b1dd481ed4a06e9c8cb104679d938",
+          "locations": [
+            {
+              "path": "form-media/round-10-first-motion-wave-reviews.json",
+              "fileSha256": "5d86c0019835d5d508908578210775bed6b705a074ea8f404a1b9e55744be1d8",
+              "recordIndex": 1,
+              "recordSha256": "0e021685a4d247edc27b3c2c8a80d246b17b1dd481ed4a06e9c8cb104679d938"
+            }
+          ],
+          "record": {
+            "assetId": "r10-leg-press-full-cycle-glow-trim-v1",
+            "attemptId": "attempt_04ff38515e3b416b",
+            "exerciseId": "ex_leg_press",
+            "shot": "r10-ex-leg-press-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-leg-press-full-cycle-glow-trim-v1.mp4",
+            "outputSha256": "d445f2d519509a8da8b60221bc320ce6886f8f0110df78f61d25a2971fdc83e5",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:08:48+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Contiguous original-speed press and full return are retained, followed by a held final bent-knee pose. Orange quadriceps involvement remains visible through the final held frame. No footage was reversed or synthesized."
+            ],
+            "limitations": [
+              "Screened the exact delivered file with a 4 fps contact sheet and source-pose inspection. This is AI editorial screening, not continuous playback or trainer review."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-leg-press-trim-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-open-smith-machine-squat-37823d7a-motion-75497878": {
+      "id": "r10-open-smith-machine-squat-37823d7a-motion-75497878",
+      "exerciseId": "open_smith_machine_squat_37823d7a",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-smith-machine-squat-37823d7a-motion-75497878.mp4",
+      "title": "Anatomical 3D · Full controlled repetition · AI screened",
+      "alt": "Smith Machine Squat demonstrating one complete controlled repetition with illustrative muscle involvement.",
+      "bytes": 575419,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "f603bfee360e2c96433c09b6ab06570f846e3b2177d4f7b1dc9a2adfcb75d539",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "accepted",
+      "promptVersion": "10.1-monotonic",
+      "createdAt": "2026-09-22T23:17:41+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-smith-machine-squat-37823d7a-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-smith-machine-squat-37823d7a-motion-75497878-poster.webp",
+      "posterSha256": "50fc5bf8ed8f0282076b59999edfbc90738475b5249ecced3f5e5c728b7f0408",
+      "posterBytes": 35544,
+      "attemptId": "attempt_7549787896764b2e",
+      "promptFile": "form-media/prompts/r10-open-smith-machine-squat-37823d7a-motion.txt",
+      "promptText": "Animate the exact supplied Anatomical 3D starting frame for Smith Machine Squat. Show exactly ONE complete repetition in 6 seconds.\nStart: Start at the supplied deep squat with a single bar across the upper back, both collars captured inside the same vertical Smith rails, both feet flat.\nOutward phase: Stand up by extending hips and knees smoothly; the same rigid bar and both collars rise together on the fixed rails until the legs are nearly straight.\nReturn phase: Bend hips and knees smoothly to lower back to the exact original deep squat; the same bar/collars descend together.\nApproximate timing: 0–0.5s initial still; 0.5–2.6s outward action; 2.6–3.2s full endpoint still; 3.2–5.5s complete return; 5.5–6s final still.\nNo other object slides along the rails. Bar stays on the shoulders and feet remain planted. One rise and one return, with no small bounces at either endpoint.\nThe active joint angles move continuously in only one direction during the outward phase, stop briefly only at the full endpoint, then move continuously back to the exact starting positions. No bouncy, springy, twitching, partial, or repeated movement.\nPreserve the same sculpted silver-gray anatomical mannequin, charcoal shorts, fixed camera and rigid equipment. Keep a bright orange glow confined to the quadriceps for the whole clip including both final frames. Show all relevant joints, weight and equipment contacts at both endpoints. Clean plain studio, silent, continuous shot, no text, arrows, cuts, camera motion, or extra weights.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-smith-machine-squat-37823d7a-start/attempt_38a561a8da324593.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:21:06+00:00",
+        "notes": "Observed evidence:\nOne bar and its two collars travel up the Smith rails as the lifter stands, then descend as the lifter returns to a deep squat. Feet remain planted and there is one full knee/hip cycle without an evident midpoint spring.\n\nLimitations:\nScreened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-smith-machine-squat-37823d7a-motion-75497878.mp4",
+          "sha256": "f603bfee360e2c96433c09b6ab06570f846e3b2177d4f7b1dc9a2adfcb75d539",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "c6697c5fcc88da339705fb2dbdf2b8cee82a5d4444ca91557a2cf282f8da925e",
+          "locations": [
+            {
+              "path": "form-media/round-10-second-motion-wave-reviews.json",
+              "fileSha256": "1fd3322e19676b00ecfbccb6a21ec399233a7e70521c87547c90f525bdd25f38",
+              "recordIndex": 3,
+              "recordSha256": "c6697c5fcc88da339705fb2dbdf2b8cee82a5d4444ca91557a2cf282f8da925e"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-smith-machine-squat-37823d7a-motion-75497878",
+            "attemptId": "attempt_7549787896764b2e",
+            "exerciseId": "open_smith_machine_squat_37823d7a",
+            "shot": "r10-open-smith-machine-squat-37823d7a-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-smith-machine-squat-37823d7a-motion-75497878.mp4",
+            "outputSha256": "f603bfee360e2c96433c09b6ab06570f846e3b2177d4f7b1dc9a2adfcb75d539",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:21:06+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "One bar and its two collars travel up the Smith rails as the lifter stands, then descend as the lifter returns to a deep squat. Feet remain planted and there is one full knee/hip cycle without an evident midpoint spring."
+            ],
+            "limitations": [
+              "Screened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-smith-machine-squat-37823d7a-motion-75497878-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50": {
+      "id": "r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50",
+      "exerciseId": "open_decline_dumbbell_benc_7264c18d",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50.mp4",
+      "title": "Anatomical 3D · Full controlled repetition · AI screened",
+      "alt": "Decline Dumbbell Bench Press demonstrating one complete controlled repetition with illustrative muscle involvement.",
+      "bytes": 456711,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "a0b4cca0b665dca0082fe84ecdae6146fed8598aa743da194023e6931f94f475",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "promptVersion": "10.1-monotonic",
+      "createdAt": "2026-09-22T23:17:43+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-decline-dumbbell-benc-7264c18d-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50-poster.webp",
+      "posterSha256": "d2a8bbb980a1944cecc0b05b327da4eba45b78f52314b98a2a0fdc40d393c3d6",
+      "posterBytes": 23990,
+      "attemptId": "attempt_b94b8e5087d04db3",
+      "promptFile": "form-media/prompts/r10-open-decline-dumbbell-benc-7264c18d-motion.txt",
+      "promptText": "Animate the exact supplied Anatomical 3D starting frame for Decline Dumbbell Bench Press. Show exactly ONE complete repetition in 6 seconds.\nStart: Lie on the exact decline bench with feet secured and both dumbbells beside the lower chest, elbows bent.\nOutward phase: Press both dumbbells in one smooth rising path above the lower chest until the elbows are nearly straight.\nReturn phase: Lower both dumbbells in one smooth path until the elbows and weights return exactly to the initial lower-chest position.\nApproximate timing: 0–0.5s initial still; 0.5–2.6s outward action; 2.6–3.2s full endpoint still; 3.2–5.5s complete return; 5.5–6s final still.\nThe head, back, hips and legs stay supported by the decline bench. Both rigid dumbbell shafts stay side-to-side, perpendicular to the body’s long axis, with no wrist twist or fly arc.\nThe active joint angles move continuously in only one direction during the outward phase, stop briefly only at the full endpoint, then move continuously back to the exact starting positions. No bouncy, springy, twitching, partial, or repeated movement.\nPreserve the same sculpted silver-gray anatomical mannequin, charcoal shorts, fixed camera and rigid equipment. Keep a bright orange glow confined to the chest for the whole clip including both final frames. Show all relevant joints, weight and equipment contacts at both endpoints. Clean plain studio, silent, continuous shot, no text, arrows, cuts, camera motion, or extra weights.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-decline-dumbbell-benc-7264c18d-start/attempt_f620868bbd304fde.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:21:06+00:00",
+        "notes": "Observed evidence:\nOn a true decline bench with feet secured, both dumbbells travel from lower chest to near-full elbow extension and back. Side-to-side dumbbell shafts stay coherent; a full-resolution peak frame confirms their orientation.\n\nLimitations:\nScreened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50.mp4",
+          "sha256": "a0b4cca0b665dca0082fe84ecdae6146fed8598aa743da194023e6931f94f475",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "2c534a00b9bc354d69ace69270b252b436094041d6cebf8c489608747ce3b912",
+          "locations": [
+            {
+              "path": "form-media/round-10-second-motion-wave-reviews.json",
+              "fileSha256": "1fd3322e19676b00ecfbccb6a21ec399233a7e70521c87547c90f525bdd25f38",
+              "recordIndex": 1,
+              "recordSha256": "2c534a00b9bc354d69ace69270b252b436094041d6cebf8c489608747ce3b912"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50",
+            "attemptId": "attempt_b94b8e5087d04db3",
+            "exerciseId": "open_decline_dumbbell_benc_7264c18d",
+            "shot": "r10-open-decline-dumbbell-benc-7264c18d-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50.mp4",
+            "outputSha256": "a0b4cca0b665dca0082fe84ecdae6146fed8598aa743da194023e6931f94f475",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:21:06+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "On a true decline bench with feet secured, both dumbbells travel from lower chest to near-full elbow extension and back. Side-to-side dumbbell shafts stay coherent; a full-resolution peak frame confirms their orientation."
+            ],
+            "limitations": [
+              "Screened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-decline-dumbbell-benc-7264c18d-motion-b94b8e50-delivery-4fps.jpg",
+              "reports/round-10-preparation/decline-db-peak.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-open-dip-machine-74e49ff5-motion-d7da6bdc": {
+      "id": "r10-open-dip-machine-74e49ff5-motion-d7da6bdc",
+      "exerciseId": "open_dip_machine_74e49ff5",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-dip-machine-74e49ff5-motion-d7da6bdc.mp4",
+      "title": "Anatomical 3D · Full controlled repetition · AI screened",
+      "alt": "Dip Machine demonstrating one complete controlled repetition with illustrative muscle involvement.",
+      "bytes": 554778,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "73bc0d65b59f51d32fac8064956960119c59e1477fe4c9ed672e6ccc9cc73f0b",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "promptVersion": "10.1-monotonic",
+      "createdAt": "2026-09-22T23:17:44+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-dip-machine-74e49ff5-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-dip-machine-74e49ff5-motion-d7da6bdc-poster.webp",
+      "posterSha256": "907d1c4e99cfc95d5bdabe13a4e810ff17b33862e30d19d4e9aed640b7c027dd",
+      "posterBytes": 43358,
+      "attemptId": "attempt_d7da6bdcba8d4a4a",
+      "promptFile": "form-media/prompts/r10-open-dip-machine-74e49ff5-motion.txt",
+      "promptText": "Animate the exact supplied Anatomical 3D starting frame for Dip Machine. Show exactly ONE complete repetition in 6 seconds.\nStart: Sit against the backrest gripping the two connected side handles beside the lower ribs, elbows bent.\nOutward phase: Press both handles downward along the matched lever paths until the elbows are nearly straight and hands are near the hips.\nReturn phase: Let both handles rise back on the same lever paths until the original bent-elbow starting pose is restored.\nApproximate timing: 0–0.5s initial still; 0.5–2.6s outward action; 2.6–3.2s full endpoint still; 3.2–5.5s complete return; 5.5–6s final still.\nThe paired levers and handles remain physically connected and move symmetrically; trunk and hips remain on the seat. No free-space parallel bars or invented moving seat.\nThe active joint angles move continuously in only one direction during the outward phase, stop briefly only at the full endpoint, then move continuously back to the exact starting positions. No bouncy, springy, twitching, partial, or repeated movement.\nPreserve the same sculpted silver-gray anatomical mannequin, charcoal shorts, fixed camera and rigid equipment. Keep a bright orange glow confined to the triceps for the whole clip including both final frames. Show all relevant joints, weight and equipment contacts at both endpoints. Clean plain studio, silent, continuous shot, no text, arrows, cuts, camera motion, or extra weights.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-dip-machine-74e49ff5-start/attempt_99d5db11180340ee.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:21:06+00:00",
+        "notes": "Observed evidence:\nBoth linked seated-dip handles descend as elbows extend, then rise to the original bent-elbow position. Torso stays supported and triceps glow remains visible.\n\nLimitations:\nScreened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-dip-machine-74e49ff5-motion-d7da6bdc.mp4",
+          "sha256": "73bc0d65b59f51d32fac8064956960119c59e1477fe4c9ed672e6ccc9cc73f0b",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "3c85e47c8bbe3fb779144bf67ed250b18806b4ef983cfa4185d563048e0bd9bd",
+          "locations": [
+            {
+              "path": "form-media/round-10-second-motion-wave-reviews.json",
+              "fileSha256": "1fd3322e19676b00ecfbccb6a21ec399233a7e70521c87547c90f525bdd25f38",
+              "recordIndex": 2,
+              "recordSha256": "3c85e47c8bbe3fb779144bf67ed250b18806b4ef983cfa4185d563048e0bd9bd"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-dip-machine-74e49ff5-motion-d7da6bdc",
+            "attemptId": "attempt_d7da6bdcba8d4a4a",
+            "exerciseId": "open_dip_machine_74e49ff5",
+            "shot": "r10-open-dip-machine-74e49ff5-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-dip-machine-74e49ff5-motion-d7da6bdc.mp4",
+            "outputSha256": "73bc0d65b59f51d32fac8064956960119c59e1477fe4c9ed672e6ccc9cc73f0b",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:21:06+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Both linked seated-dip handles descend as elbows extend, then rise to the original bent-elbow position. Torso stays supported and triceps glow remains visible."
+            ],
+            "limitations": [
+              "Screened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-dip-machine-74e49ff5-motion-d7da6bdc-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-ex-arnold-press-motion-069081ff": {
+      "id": "r10-ex-arnold-press-motion-069081ff",
+      "exerciseId": "ex_arnold_press",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-ex-arnold-press-motion-069081ff.mp4",
+      "title": "Anatomical 3D · Full controlled repetition · AI screened",
+      "alt": "Arnold Press demonstrating one complete controlled repetition with illustrative muscle involvement.",
+      "bytes": 539067,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "6e8263cdf25c16a98a03364c8c9b22a31836d65a486c022163dbcafa5054b137",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "pending",
+      "promptVersion": "10.1-monotonic",
+      "createdAt": "2026-09-22T23:17:45+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-ex-arnold-press-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-ex-arnold-press-motion-069081ff-poster.webp",
+      "posterSha256": "c0a9104bd925d6da5a571681a3c5cbd7f912c0912aed34aaa7c1256457ca0aaa",
+      "posterBytes": 32158,
+      "attemptId": "attempt_069081ff3f914333",
+      "promptFile": "form-media/prompts/r10-ex-arnold-press-motion.txt",
+      "promptText": "Animate the exact supplied Anatomical 3D starting frame for Arnold Press. Show exactly ONE complete repetition in 6 seconds.\nStart: Sit tall with both dumbbells at shoulder/head height, palms facing inward toward the face, elbows bent in front of the ribcage.\nOutward phase: Press both dumbbells upward in one continuous path while smoothly rotating the forearms until palms face forward at a full overhead endpoint with elbows nearly straight.\nReturn phase: Lower both weights along the same path while rotating palms back inward; finish with both dumbbells at their exact original shoulder/head-height position.\nApproximate timing: 0–0.5s initial still; 0.5–2.6s outward action; 2.6–3.2s full endpoint still; 3.2–5.5s complete return; 5.5–6s final still.\nSeat, feet, torso and dumbbell shapes remain fixed. Both dumbbell shafts remain level; no second half-press or upper-arm pumping.\nThe active joint angles move continuously in only one direction during the outward phase, stop briefly only at the full endpoint, then move continuously back to the exact starting positions. No bouncy, springy, twitching, partial, or repeated movement.\nPreserve the same sculpted silver-gray anatomical mannequin, charcoal shorts, fixed camera and rigid equipment. Keep a bright orange glow confined to the shoulders for the whole clip including both final frames. Show all relevant joints, weight and equipment contacts at both endpoints. Clean plain studio, silent, continuous shot, no text, arrows, cuts, camera motion, or extra weights.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-ex-arnold-press-start/attempt_af5e3226cc894927.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:21:06+00:00",
+        "notes": "Observed evidence:\nBoth dumbbells begin beside the face, travel to a near-full overhead press with forearm rotation, and return to the same shoulder-height start in a single cycle. Orange shoulder involvement remains visible.\n\nLimitations:\nScreened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-ex-arnold-press-motion-069081ff.mp4",
+          "sha256": "6e8263cdf25c16a98a03364c8c9b22a31836d65a486c022163dbcafa5054b137",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "f45de533c111a90b161aa9dc6f60e0b4d085c6224e8c043d11743ec6dc0be886",
+          "locations": [
+            {
+              "path": "form-media/round-10-second-motion-wave-reviews.json",
+              "fileSha256": "1fd3322e19676b00ecfbccb6a21ec399233a7e70521c87547c90f525bdd25f38",
+              "recordIndex": 0,
+              "recordSha256": "f45de533c111a90b161aa9dc6f60e0b4d085c6224e8c043d11743ec6dc0be886"
+            }
+          ],
+          "record": {
+            "assetId": "r10-ex-arnold-press-motion-069081ff",
+            "attemptId": "attempt_069081ff3f914333",
+            "exerciseId": "ex_arnold_press",
+            "shot": "r10-ex-arnold-press-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-ex-arnold-press-motion-069081ff.mp4",
+            "outputSha256": "6e8263cdf25c16a98a03364c8c9b22a31836d65a486c022163dbcafa5054b137",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:21:06+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Both dumbbells begin beside the face, travel to a near-full overhead press with forearm rotation, and return to the same shoulder-height start in a single cycle. Orange shoulder involvement remains visible."
+            ],
+            "limitations": [
+              "Screened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-ex-arnold-press-motion-069081ff-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-open-dumbbell-lunges-09699238-motion-1eaa53e1": {
+      "id": "r10-open-dumbbell-lunges-09699238-motion-1eaa53e1",
+      "exerciseId": "open_dumbbell_lunges_09699238",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-dumbbell-lunges-09699238-motion-1eaa53e1.mp4",
+      "title": "Anatomical 3D · Full controlled repetition · AI screened",
+      "alt": "Dumbbell Lunges demonstrating one complete controlled repetition with illustrative muscle involvement.",
+      "bytes": 673754,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 8.0,
+      "sha256": "bae8488b8ab9af27e34780ab49f9dfce52559be9dd67469ee3072c5d31c81854",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "promptVersion": "10.1-monotonic",
+      "createdAt": "2026-09-22T23:19:02+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-dumbbell-lunges-09699238-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-dumbbell-lunges-09699238-motion-1eaa53e1-poster.webp",
+      "posterSha256": "df3a9137c2022a0d68e6c626ec78f01e100d2cb14e15c1d3380960cd6f974d6a",
+      "posterBytes": 21256,
+      "attemptId": "attempt_1eaa53e1fe544f40",
+      "promptFile": "form-media/prompts/r10-open-dumbbell-lunges-09699238-motion.txt",
+      "promptText": "Animate the exact supplied Anatomical 3D starting frame for Dumbbell Lunges. Show exactly ONE complete repetition in 8 seconds.\nStart: Start tall with both feet together and one dumbbell hanging beside each thigh, arms straight.\nOutward phase: Step the LEFT foot forward into the open floor and lower in one smooth descent until the left knee reaches a deep safe bend and the trailing knee approaches the floor.\nReturn phase: Push through the left foot to rise, then move that SAME left foot backward to meet the stationary right foot in the exact original together stance.\nApproximate timing: 0–0.5s initial still; 0.5–3.5s forward step and full descent; 3.5–4.2s full endpoint still; 4.2–7.5s rise and same-foot backward return; 7.5–8s final still.\nRight foot stays planted throughout; two weights hang beside the hips without swinging. One step forward, one descent, one rise, one step BACK by the same left foot; no walking step by the right foot.\nThe active joint angles move continuously in only one direction during the outward phase, stop briefly only at the full endpoint, then move continuously back to the exact starting positions. No bouncy, springy, twitching, partial, or repeated movement.\nPreserve the same sculpted silver-gray anatomical mannequin, charcoal shorts, fixed camera and rigid equipment. Keep a bright orange glow confined to the quadriceps for the whole clip including both final frames. Show all relevant joints, weight and equipment contacts at both endpoints. Clean plain studio, silent, continuous shot, no text, arrows, cuts, camera motion, or extra weights.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-dumbbell-lunges-09699238-start/attempt_1aba9e710b394f03.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:21:06+00:00",
+        "notes": "Observed evidence:\nThe selected lead foot steps forward, lowers into a deep lunge, rises and steps backward to the original feet-together stance; the other foot stays back. Two dumbbells remain at the sides with orange quadriceps involvement.\n\nLimitations:\nScreened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-dumbbell-lunges-09699238-motion-1eaa53e1.mp4",
+          "sha256": "bae8488b8ab9af27e34780ab49f9dfce52559be9dd67469ee3072c5d31c81854",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "be6a7993b9d5e6cba7faf192c267790a9b1485e575607ae0ae0fe111c5a989fc",
+          "locations": [
+            {
+              "path": "form-media/round-10-second-motion-wave-reviews.json",
+              "fileSha256": "1fd3322e19676b00ecfbccb6a21ec399233a7e70521c87547c90f525bdd25f38",
+              "recordIndex": 4,
+              "recordSha256": "be6a7993b9d5e6cba7faf192c267790a9b1485e575607ae0ae0fe111c5a989fc"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-dumbbell-lunges-09699238-motion-1eaa53e1",
+            "attemptId": "attempt_1eaa53e1fe544f40",
+            "exerciseId": "open_dumbbell_lunges_09699238",
+            "shot": "r10-open-dumbbell-lunges-09699238-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-dumbbell-lunges-09699238-motion-1eaa53e1.mp4",
+            "outputSha256": "bae8488b8ab9af27e34780ab49f9dfce52559be9dd67469ee3072c5d31c81854",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:21:06+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "The selected lead foot steps forward, lowers into a deep lunge, rises and steps backward to the original feet-together stance; the other foot stays back. Two dumbbells remain at the sides with orange quadriceps involvement."
+            ],
+            "limitations": [
+              "Screened exact delivery with a 4 fps contact sheet and source-pose inspection. AI editorial assessment is separate from continuous playback, trainer review, and the user’s choice."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-dumbbell-lunges-09699238-motion-1eaa53e1-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-ex-calf-raise-seated-motion-ad035e6e": {
+      "id": "r10-ex-calf-raise-seated-motion-ad035e6e",
+      "exerciseId": "ex_calf_raise_seated",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-ex-calf-raise-seated-motion-ad035e6e.mp4",
+      "title": "Anatomical 3D · One complete controlled repetition · AI review pending",
+      "alt": "Seated Calf Raise showing one complete controlled repetition and illustrative muscle involvement.",
+      "bytes": 575108,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "b2f6d280ec146101fa980d1d496975902194c8ed018229cd42cf5eb018052904",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "promptVersion": "10.2-one-cycle",
+      "createdAt": "2026-09-22T23:42:37+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-ex-calf-raise-seated-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-ex-calf-raise-seated-motion-ad035e6e-poster.webp",
+      "posterSha256": "6edb49b6951e5690de5a25e9a16c4301db9804f8e793976c40da0407bd2eee6d",
+      "posterBytes": 34520,
+      "attemptId": "attempt_ad035e6e38904137",
+      "promptFile": "form-media/prompts/r10-ex-calf-raise-seated-motion.txt",
+      "promptText": "Animate the EXACT supplied Anatomical 3D starting frame for Seated Calf Raise. Show ONE complete controlled repetition over six seconds.\n0.0–0.5s HOLD start: Sit under the plate-loaded thigh pad with knees bent and balls of both feet on the small platform, heels hanging low.\n0.5–2.6s travel monotonically outward: Raise BOTH heels as high as comfortable by plantarflexing only the ankles, visibly lifting the pad and loaded lever slightly.\n2.6–3.2s HOLD full endpoint.\n3.2–5.5s travel monotonically back: Lower both heels below the platform edge to the exact initial ankle stretch.\n5.5–6.0s HOLD exact restored starting position.\nThe knees retain the SAME 90-degree bend and hips remain seated. The thigh pad stays in contact, plates remain fixed to the same lever, and no cable machine appears.\nTemporal constraint: the working joints and the loaded machine travel continuously in ONE direction for each phase; the only direction reversal occurs at the full endpoint. No springing, bouncing, twitching, mini-reps, momentum or abbreviated travel.\nPreserve sculpted silver-gray anatomical muscle fibers, charcoal shorts, fixed close camera and physically connected rigid equipment. A localized bright-orange glow on the calves persists throughout the ENTIRE clip, including final hold. Show both movement endpoints and all contact points in frame. Clean studio, silent, single continuous shot. No text, arrows, extra objects, camera motion or cuts.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-ex-calf-raise-seated-start-v2/attempt_a0409a8f37d3443a.jpg"
+      ],
+      "editorialReview": {
+        "status": "needs-correction",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:48:27+00:00",
+        "notes": "Observed evidence:\nPlate-loaded machine and ankle cycle are usable, but orange calf involvement fades during the final idle tail; an original-speed trim is separately reviewed.\n\nLimitations:\nScreened the exact delivered file at 4 fps with selected full-resolution frames. AI editorial screen only; human and trainer review remain separate.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-ex-calf-raise-seated-motion-ad035e6e.mp4",
+          "sha256": "b2f6d280ec146101fa980d1d496975902194c8ed018229cd42cf5eb018052904",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "b6d9e3270258261374da3e4b17ae8cc0e4246a9e965fe0d93514338a24a35f34",
+          "locations": [
+            {
+              "path": "form-media/round-10-third-fourth-motion-wave-reviews.json",
+              "fileSha256": "58c6a758e2f62b5bdaaa1109041464ce1b61041750835e1feffaffe6932f2ef2",
+              "recordIndex": 1,
+              "recordSha256": "b6d9e3270258261374da3e4b17ae8cc0e4246a9e965fe0d93514338a24a35f34"
+            }
+          ],
+          "record": {
+            "assetId": "r10-ex-calf-raise-seated-motion-ad035e6e",
+            "attemptId": "attempt_ad035e6e38904137",
+            "exerciseId": "ex_calf_raise_seated",
+            "shot": "r10-ex-calf-raise-seated-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-ex-calf-raise-seated-motion-ad035e6e.mp4",
+            "outputSha256": "b2f6d280ec146101fa980d1d496975902194c8ed018229cd42cf5eb018052904",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:48:27+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "needs-correction",
+            "evidence": [
+              "Plate-loaded machine and ankle cycle are usable, but orange calf involvement fades during the final idle tail; an original-speed trim is separately reviewed."
+            ],
+            "limitations": [
+              "Screened the exact delivered file at 4 fps with selected full-resolution frames. AI editorial screen only; human and trainer review remain separate."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-ex-calf-raise-seated-motion-ad035e6e-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      },
+      "rejectionSource": "ai-editorial",
+      "rejectedAt": "2026-09-22T23:48:47+00:00"
+    },
+    "r10-ex-cable-crunch-motion-d66bee4a": {
+      "id": "r10-ex-cable-crunch-motion-d66bee4a",
+      "exerciseId": "ex_cable_crunch",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-ex-cable-crunch-motion-d66bee4a.mp4",
+      "title": "Anatomical 3D · One complete controlled repetition · AI screened",
+      "alt": "Cable Crunch showing one complete controlled repetition and illustrative muscle involvement.",
+      "bytes": 610666,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "87313b355919daa449e8f6e2127d741aea66040cac751ad4b634ff1225636501",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "pending",
+      "promptVersion": "10.2-one-cycle",
+      "createdAt": "2026-09-22T23:42:39+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-ex-cable-crunch-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-ex-cable-crunch-motion-d66bee4a-poster.webp",
+      "posterSha256": "efe1ed3531fcf5b88510641e30fda229c69de0565a9d6aa198ecb69e913acb17",
+      "posterBytes": 37902,
+      "attemptId": "attempt_d66bee4a30584e55",
+      "promptFile": "form-media/prompts/r10-ex-cable-crunch-motion.txt",
+      "promptText": "Animate the EXACT supplied Anatomical 3D starting frame for Cable Crunch. Show ONE complete controlled repetition over six seconds.\n0.0–0.5s HOLD start: Kneel tall under the single high cable, one split rope end beside each ear, elbows and hands fixed relative to the head.\n0.5–2.6s travel monotonically outward: Curl the RIBCAGE strongly down toward the pelvis in a smooth spinal flexion, bringing chest toward knees while hips and arms stay fixed.\n2.6–3.2s HOLD full endpoint.\n3.2–5.5s travel monotonically back: Uncurl the torso back to the original tall kneeling posture with rope ends still beside the ears.\n5.5–6.0s HOLD exact restored starting position.\nOne high cable remains connected to the same two-tail rope. No shoulder pulldown, hip hinge, arm pull or second little crunch.\nTemporal constraint: the working joints and the loaded machine travel continuously in ONE direction for each phase; the only direction reversal occurs at the full endpoint. No springing, bouncing, twitching, mini-reps, momentum or abbreviated travel.\nPreserve sculpted silver-gray anatomical muscle fibers, charcoal shorts, fixed close camera and physically connected rigid equipment. A localized bright-orange glow on the abdominals persists throughout the ENTIRE clip, including final hold. Show both movement endpoints and all contact points in frame. Clean studio, silent, single continuous shot. No text, arrows, extra objects, camera motion or cuts.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-ex-cable-crunch-start-v2/attempt_4e8a0d9081814240.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:48:27+00:00",
+        "notes": "Observed evidence:\nKneeling body starts tall, curls torso substantially forward with split rope held near head, then returns tall in one cycle; abdominal cue remains orange. Some hip-angle contribution warrants human review.\n\nLimitations:\nScreened the exact delivered file at 4 fps with selected full-resolution frames. AI editorial screen only; human and trainer review remain separate.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-ex-cable-crunch-motion-d66bee4a.mp4",
+          "sha256": "87313b355919daa449e8f6e2127d741aea66040cac751ad4b634ff1225636501",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "80e459ea6ec1e490d38d65829a0fe6c97b7f90bfca3d7df48f7d0fb680084440",
+          "locations": [
+            {
+              "path": "form-media/round-10-third-fourth-motion-wave-reviews.json",
+              "fileSha256": "58c6a758e2f62b5bdaaa1109041464ce1b61041750835e1feffaffe6932f2ef2",
+              "recordIndex": 4,
+              "recordSha256": "80e459ea6ec1e490d38d65829a0fe6c97b7f90bfca3d7df48f7d0fb680084440"
+            }
+          ],
+          "record": {
+            "assetId": "r10-ex-cable-crunch-motion-d66bee4a",
+            "attemptId": "attempt_d66bee4a30584e55",
+            "exerciseId": "ex_cable_crunch",
+            "shot": "r10-ex-cable-crunch-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-ex-cable-crunch-motion-d66bee4a.mp4",
+            "outputSha256": "87313b355919daa449e8f6e2127d741aea66040cac751ad4b634ff1225636501",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:48:27+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Kneeling body starts tall, curls torso substantially forward with split rope held near head, then returns tall in one cycle; abdominal cue remains orange. Some hip-angle contribution warrants human review."
+            ],
+            "limitations": [
+              "Screened the exact delivered file at 4 fps with selected full-resolution frames. AI editorial screen only; human and trainer review remain separate."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-ex-cable-crunch-motion-d66bee4a-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-open-donkey-calf-raises-55a343b9-motion-2d1da411": {
+      "id": "r10-open-donkey-calf-raises-55a343b9-motion-2d1da411",
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-donkey-calf-raises-55a343b9-motion-2d1da411.mp4",
+      "title": "Anatomical 3D · One complete controlled repetition · AI screened",
+      "alt": "Donkey Calf Raises showing one complete controlled repetition and illustrative muscle involvement.",
+      "bytes": 636622,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "72b21bc3db8df210fcecf36fd27f52404aa9435dea6129ef65acb704846abb9c",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "promptVersion": "10.2-one-cycle",
+      "createdAt": "2026-09-22T23:44:42+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-donkey-calf-raises-55a343b9-motion",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-donkey-calf-raises-55a343b9-motion-2d1da411-poster.webp",
+      "posterSha256": "6a142ae909318d9691c61f8acb2b26e6ed17e25ef505995124298924e3af914c",
+      "posterBytes": 54602,
+      "attemptId": "attempt_2d1da411bad24c43",
+      "promptFile": "form-media/prompts/r10-open-donkey-calf-raises-55a343b9-motion.txt",
+      "promptText": "Animate the EXACT supplied Anatomical 3D starting frame for Donkey Calf Raises. Show ONE complete controlled repetition over six seconds.\n0.0–0.5s HOLD start: Stay hinged beneath the hip/lower-back pad, hands on fixed support, knees softly extended and steady, balls of feet on raised step with heels low.\n0.5–2.6s travel monotonically outward: Raise both heels high by extending ONLY the ankles while pad contact, hip hinge and knees remain fixed.\n2.6–3.2s HOLD full endpoint.\n3.2–5.5s travel monotonically back: Lower heels below the step edge to exact initial ankle stretch without bending knees or pumping hips.\n5.5–6.0s HOLD exact restored starting position.\nThe hip pad remains on the same loaded lever and the ankles perform the entire repetition. No torso rocking or knee dip.\nTemporal constraint: the working joints and the loaded machine travel continuously in ONE direction for each phase; the only direction reversal occurs at the full endpoint. No springing, bouncing, twitching, mini-reps, momentum or abbreviated travel.\nPreserve sculpted silver-gray anatomical muscle fibers, charcoal shorts, fixed close camera and physically connected rigid equipment. A localized bright-orange glow on the calves persists throughout the ENTIRE clip, including final hold. Show both movement endpoints and all contact points in frame. Clean studio, silent, single continuous shot. No text, arrows, extra objects, camera motion or cuts.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-donkey-calf-raises-55a343b9-start/attempt_cd483080f9654f7b.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:48:27+00:00",
+        "notes": "Observed evidence:\nBoth heels rise and lower through one complete arc under the hip pad while knees stay nearly extended and the torso keeps its hinge. Calf glow and pad contact remain visible.\n\nLimitations:\nScreened the exact delivered file at 4 fps with selected full-resolution frames. AI editorial screen only; human and trainer review remain separate.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-donkey-calf-raises-55a343b9-motion-2d1da411.mp4",
+          "sha256": "72b21bc3db8df210fcecf36fd27f52404aa9435dea6129ef65acb704846abb9c",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "7210085a9f643a919c67a76cafe897ef98cd98d394a6b7d0df8ca4b7566ae40d",
+          "locations": [
+            {
+              "path": "form-media/round-10-third-fourth-motion-wave-reviews.json",
+              "fileSha256": "58c6a758e2f62b5bdaaa1109041464ce1b61041750835e1feffaffe6932f2ef2",
+              "recordIndex": 8,
+              "recordSha256": "7210085a9f643a919c67a76cafe897ef98cd98d394a6b7d0df8ca4b7566ae40d"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-donkey-calf-raises-55a343b9-motion-2d1da411",
+            "attemptId": "attempt_2d1da411bad24c43",
+            "exerciseId": "open_donkey_calf_raises_55a343b9",
+            "shot": "r10-open-donkey-calf-raises-55a343b9-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-donkey-calf-raises-55a343b9-motion-2d1da411.mp4",
+            "outputSha256": "72b21bc3db8df210fcecf36fd27f52404aa9435dea6129ef65acb704846abb9c",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:48:27+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Both heels rise and lower through one complete arc under the hip pad while knees stay nearly extended and the torso keeps its hinge. Calf glow and pad contact remain visible."
+            ],
+            "limitations": [
+              "Screened the exact delivered file at 4 fps with selected full-resolution frames. AI editorial screen only; human and trainer review remain separate."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-donkey-calf-raises-55a343b9-motion-2d1da411-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-seated-calf-full-cycle-glow-trim-v1": {
+      "shot": "r10-ex-calf-raise-seated-motion",
+      "roundId": "round-10",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "styleVersion": "10.0",
+      "promptVersion": "10.2-one-cycle",
+      "id": "r10-seated-calf-full-cycle-glow-trim-v1",
+      "exerciseId": "ex_calf_raise_seated",
+      "kind": "video",
+      "sourceRoundId": "round-10",
+      "url": "/assets/delivery/round-10/r10-seated-calf-full-cycle-glow-trim-v1.mp4",
+      "title": "Anatomical 3D · Seated calf raise · Full cycle with persistent glow",
+      "alt": "Plate-loaded seated calf raise with one complete heel lift and lowering, shown at original speed with brief still endpoint holds.",
+      "bytes": 490797,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 5.5,
+      "sha256": "0cf85ce9492f4964ba81fc62e8a4273679bab1311302f6c3dc968975d6531e4e",
+      "source": "Authored edit of Google Flow render",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "rejected",
+      "createdAt": "2026-09-22T23:47:10+00:00",
+      "posterUrl": "/assets/delivery/round-10/r10-seated-calf-full-cycle-glow-trim-v1-poster.webp",
+      "posterSha256": "dcb5e5180a652068852067c9033b8867c9f398d8180ae94be2290c1c9c119833",
+      "posterBytes": 37060,
+      "edit": {
+        "id": "r10-seated-calf-full-cycle-glow-trim-v1",
+        "roundId": "round-10",
+        "sourceRoundId": "round-10",
+        "sourceAssetId": "r10-ex-calf-raise-seated-motion-ad035e6e",
+        "sourceAttemptId": "attempt_ad035e6e38904137",
+        "sourcePath": "form-media/assets/masters/r10-ex-calf-raise-seated-motion/attempt_ad035e6e38904137.mp4",
+        "sourceSha256": "5ae94fa3d816d4d6d0c7e277fd031e5b33084871a1e4aac9873ddd4dfebe3783",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 4.5,
+        "leadHoldSeconds": 0.5,
+        "tailHoldSeconds": 0.5,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=4.5,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.5:stop_mode=clone:stop_duration=0.5",
+        "generationCredits": 0,
+        "createdAt": "2026-09-22T23:47:10+00:00",
+        "path": "form-media/assets/delivery/round-10/r10-seated-calf-full-cycle-glow-trim-v1.mp4",
+        "sha256": "0cf85ce9492f4964ba81fc62e8a4273679bab1311302f6c3dc968975d6531e4e",
+        "bytes": 490797,
+        "width": 720,
+        "height": 1280,
+        "durationSeconds": 5.5,
+        "codec": "h264"
+      },
+      "sourceAttemptId": "attempt_ad035e6e38904137",
+      "sourceAssetId": "r10-ex-calf-raise-seated-motion-ad035e6e",
+      "promptText": "Animate the EXACT supplied Anatomical 3D starting frame for Seated Calf Raise. Show ONE complete controlled repetition over six seconds.\n0.0–0.5s HOLD start: Sit under the plate-loaded thigh pad with knees bent and balls of both feet on the small platform, heels hanging low.\n0.5–2.6s travel monotonically outward: Raise BOTH heels as high as comfortable by plantarflexing only the ankles, visibly lifting the pad and loaded lever slightly.\n2.6–3.2s HOLD full endpoint.\n3.2–5.5s travel monotonically back: Lower both heels below the platform edge to the exact initial ankle stretch.\n5.5–6.0s HOLD exact restored starting position.\nThe knees retain the SAME 90-degree bend and hips remain seated. The thigh pad stays in contact, plates remain fixed to the same lever, and no cable machine appears.\nTemporal constraint: the working joints and the loaded machine travel continuously in ONE direction for each phase; the only direction reversal occurs at the full endpoint. No springing, bouncing, twitching, mini-reps, momentum or abbreviated travel.\nPreserve sculpted silver-gray anatomical muscle fibers, charcoal shorts, fixed close camera and physically connected rigid equipment. A localized bright-orange glow on the calves persists throughout the ENTIRE clip, including final hold. Show both movement endpoints and all contact points in frame. Clean studio, silent, single continuous shot. No text, arrows, extra objects, camera motion or cuts.\n",
+      "promptFile": "form-media/prompts/r10-ex-calf-raise-seated-motion.txt",
+      "promptSha256": "556af5a72af8f96180147b8c64af5b8eab80e0240cecd548a26ffb39d4add6e8",
+      "referenceIds": [
+        "form-media/assets/masters/r10-ex-calf-raise-seated-start-v2/attempt_a0409a8f37d3443a.jpg"
+      ],
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-calf-raise-seated-start-v2/attempt_a0409a8f37d3443a.jpg",
+          "sha256": "d512cbc47911384c7edfda9b5eb0001395331afba03611096b8f8baca1d95a06",
+          "role": "start"
+        }
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:48:27+00:00",
+        "notes": "Observed evidence:\nOriginal-speed heel rise and complete controlled lowering remain intact. The edit removes only the idle glow fade and adds cloned still endpoint holds; orange calf cue is visible on the final frame.\n\nLimitations:\nScreened the exact delivered file at 4 fps with selected full-resolution frames. AI editorial screen only; human and trainer review remain separate.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-seated-calf-full-cycle-glow-trim-v1.mp4",
+          "sha256": "0cf85ce9492f4964ba81fc62e8a4273679bab1311302f6c3dc968975d6531e4e",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "35a02cbf3541fe567ebe23b9a44e70979e88b3ede21bb7c45fcbfd03dde8a6b1",
+          "locations": [
+            {
+              "path": "form-media/round-10-third-fourth-motion-wave-reviews.json",
+              "fileSha256": "58c6a758e2f62b5bdaaa1109041464ce1b61041750835e1feffaffe6932f2ef2",
+              "recordIndex": 2,
+              "recordSha256": "35a02cbf3541fe567ebe23b9a44e70979e88b3ede21bb7c45fcbfd03dde8a6b1"
+            }
+          ],
+          "record": {
+            "assetId": "r10-seated-calf-full-cycle-glow-trim-v1",
+            "attemptId": "attempt_ad035e6e38904137",
+            "exerciseId": "ex_calf_raise_seated",
+            "shot": "r10-ex-calf-raise-seated-motion",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-seated-calf-full-cycle-glow-trim-v1.mp4",
+            "outputSha256": "0cf85ce9492f4964ba81fc62e8a4273679bab1311302f6c3dc968975d6531e4e",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:48:27+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Original-speed heel rise and complete controlled lowering remain intact. The edit removes only the idle glow fade and adds cloned still endpoint holds; orange calf cue is visible on the final frame."
+            ],
+            "limitations": [
+              "Screened the exact delivered file at 4 fps with selected full-resolution frames. AI editorial screen only; human and trainer review remain separate."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-seated-calf-trim-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc": {
+      "id": "r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc",
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc.mp4",
+      "title": "Anatomical 3D · One complete controlled repetition · AI screened",
+      "alt": "Decline Smith Press showing one complete controlled repetition and illustrative muscle involvement.",
+      "bytes": 543080,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "3d5ab439d410837e39b9bca7780c3d1d996255f7562301340c71e70fbacd8274",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "accepted",
+      "promptVersion": "10.5-fixed-geometry-one-cycle",
+      "createdAt": "2026-09-22T23:57:26+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-decline-smith-press-ab9938f7-motion-v3",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc-poster.webp",
+      "posterSha256": "3fbe8f33acb166d5294b9727b8367383367f887a2390b8dcd6081d1355f23a91",
+      "posterBytes": 29078,
+      "attemptId": "attempt_ecb744cc7346488f",
+      "promptFile": "form-media/prompts/r10-open-decline-smith-press-ab9938f7-motion-v3.txt",
+      "promptText": "Animate the EXACT supplied Anatomical 3D starting frame for Decline Smith Press. Show exactly ONE full, controlled repetition in six seconds.\n0.0–0.5s HOLD start: Lie on the true decline bench, head BELOW the hips and secured feet ABOVE the head. Both hands grasp the one Smith bar at nearly extended elbows above the lower chest.\n0.5–2.6s move continuously in ONE direction: Lower the one rigid Smith bar straight down its TWO vertical guide rails until it reaches the lower chest; elbows bend visibly and symmetrically.\n2.6–3.2s HOLD full travel endpoint, without a small reversal.\n3.2–5.5s return continuously in ONE direction: Press the same bar straight back up the same rails to nearly straight elbows, restoring the exact first pose.\n5.5–6.0s HOLD the completely restored starting pose.\nThe bench angle, hand spacing, rails, collars and secured feet remain unchanged. The bar never floats or tilts and does not move on an incline-bench arc.\nTemporal constraint: exactly ONE direction reversal at the full endpoint. The working joints and loaded parts move continuously through their complete path, with no springing, small bounces, twitching, extra partial reps or momentum.\nKeep a precise bright-orange glow on the chest during EVERY frame, including the starting and finishing holds. Preserve sculpted silver-gray anatomical fibers, charcoal shorts, rigid mechanically connected equipment, fixed close vertical camera and full visibility of every moving joint/contact. Silent continuous shot, clean studio. No text, arrows, camera moves, cuts, new apparatus or anatomy changes.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-decline-smith-press-ab9938f7-start-v3/attempt_a67f618387db41d2.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:59:17+00:00",
+        "notes": "Observed evidence:\nThe one Smith bar descends close to the lower chest along both rails, then returns to the original extended-elbow height in one continuous cycle. Bench remains genuinely decline, contacts and orange pectoral cue persist.\n\nLimitations:\nScreened the exact delivered file at 4 fps and selected full-resolution frames. AI editorial screen only; human and trainer reviews remain separate.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc.mp4",
+          "sha256": "3d5ab439d410837e39b9bca7780c3d1d996255f7562301340c71e70fbacd8274",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "07188f096b38c2d6fda0fcfa680e4827332af33732c5c383443b440636b54c18",
+          "locations": [
+            {
+              "path": "form-media/round-10-fifth-motion-wave-reviews.json",
+              "fileSha256": "e35e8345059b3542e5673ee8335148fd39ab5c38f7fbcd61841dbff5bb19228d",
+              "recordIndex": 0,
+              "recordSha256": "07188f096b38c2d6fda0fcfa680e4827332af33732c5c383443b440636b54c18"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc",
+            "attemptId": "attempt_ecb744cc7346488f",
+            "exerciseId": "open_decline_smith_press_ab9938f7",
+            "shot": "r10-open-decline-smith-press-ab9938f7-motion-v3",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc.mp4",
+            "outputSha256": "3d5ab439d410837e39b9bca7780c3d1d996255f7562301340c71e70fbacd8274",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:59:17+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "The one Smith bar descends close to the lower chest along both rails, then returns to the original extended-elbow height in one continuous cycle. Bench remains genuinely decline, contacts and orange pectoral cue persist."
+            ],
+            "limitations": [
+              "Screened the exact delivered file at 4 fps and selected full-resolution frames. AI editorial screen only; human and trainer reviews remain separate."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    },
+    "r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b": {
+      "id": "r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b",
+      "exerciseId": "open_thigh_adductor_933feed1",
+      "kind": "video",
+      "url": "/assets/delivery/round-10/r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b.mp4",
+      "title": "Anatomical 3D · One complete controlled repetition · AI screened",
+      "alt": "Thigh Adductor showing one complete controlled repetition and illustrative muscle involvement.",
+      "bytes": 701346,
+      "width": 720,
+      "height": 1280,
+      "durationSeconds": 6.0,
+      "sha256": "9d7c70888296a0399dc4851a03f0be242ef6caf8860ea5df3035fc3ecba5dcf0",
+      "source": "Google Flow",
+      "license": "Generated for SpotBot; provider terms apply",
+      "reviewStatus": "accepted",
+      "promptVersion": "10.5-fixed-geometry-one-cycle",
+      "createdAt": "2026-09-22T23:57:28+00:00",
+      "styleVersion": "10.0",
+      "roundId": "round-10",
+      "shot": "r10-open-thigh-adductor-933feed1-motion-v3",
+      "styleId": "anatomical",
+      "styleLabel": "Anatomical 3D",
+      "posterUrl": "/assets/delivery/round-10/r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b-poster.webp",
+      "posterSha256": "e985e2c0957b0fdb726b6512f9ce22da9c292fa4cf5a725b1825d27a4372d7ed",
+      "posterBytes": 48612,
+      "attemptId": "attempt_7a7c9a0b3feb4858",
+      "promptFile": "form-media/prompts/r10-open-thigh-adductor-933feed1-motion-v3.txt",
+      "promptText": "Animate the EXACT supplied Anatomical 3D starting frame for Thigh Adductor. Show exactly ONE full, controlled repetition in six seconds.\n0.0–0.5s HOLD start: Sit upright against the fixed machine backrest with hands on the handles, thighs wide apart and the two pads against the inner knees.\n0.5–2.6s move continuously in ONE direction: Bring BOTH knees and their connected pads inward symmetrically as far as the machine allows until the thighs nearly meet.\n2.6–3.2s HOLD full travel endpoint, without a small reversal.\n3.2–5.5s return continuously in ONE direction: Open BOTH knees back outward slowly with the same pads to the exact wide starting position.\n5.5–6.0s HOLD the completely restored starting pose.\nFeet remain on their same footrests, hands on handles, torso on backrest, and both pads rotate on their original machine pivots. No bouncing at either endpoint.\nTemporal constraint: exactly ONE direction reversal at the full endpoint. The working joints and loaded parts move continuously through their complete path, with no springing, small bounces, twitching, extra partial reps or momentum.\nKeep a precise bright-orange glow on the adductors during EVERY frame, including the starting and finishing holds. Preserve sculpted silver-gray anatomical fibers, charcoal shorts, rigid mechanically connected equipment, fixed close vertical camera and full visibility of every moving joint/contact. Silent continuous shot, clean studio. No text, arrows, camera moves, cuts, new apparatus or anatomy changes.\n",
+      "referenceIds": [
+        "form-media/assets/masters/r10-open-thigh-adductor-933feed1-start-v3/attempt_f751afd04ecf4903.jpg"
+      ],
+      "editorialReview": {
+        "status": "candidate",
+        "reviewerType": "ai",
+        "reviewer": "Codex",
+        "reviewedAt": "2026-09-22T23:59:17+00:00",
+        "notes": "Observed evidence:\nBoth thighs and their pads close from wide to near together and reopen to the exact starting width in a single controlled cycle; hands, seat and foot supports stay in contact, and inner-thigh orange cue persists.\n\nLimitations:\nScreened the exact delivered file at 4 fps and selected full-resolution frames. AI editorial screen only; human and trainer reviews remain separate.",
+        "reviewedOutput": {
+          "path": "form-media/assets/delivery/round-10/r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b.mp4",
+          "sha256": "9d7c70888296a0399dc4851a03f0be242ef6caf8860ea5df3035fc3ecba5dcf0",
+          "role": "delivery"
+        },
+        "sourceReview": {
+          "recordSha256": "832154f922235144bde23674c7ca9aa521059e4a9335d24832b7ebdeeee06cfb",
+          "locations": [
+            {
+              "path": "form-media/round-10-fifth-motion-wave-reviews.json",
+              "fileSha256": "e35e8345059b3542e5673ee8335148fd39ab5c38f7fbcd61841dbff5bb19228d",
+              "recordIndex": 3,
+              "recordSha256": "832154f922235144bde23674c7ca9aa521059e4a9335d24832b7ebdeeee06cfb"
+            }
+          ],
+          "record": {
+            "assetId": "r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b",
+            "attemptId": "attempt_7a7c9a0b3feb4858",
+            "exerciseId": "open_thigh_adductor_933feed1",
+            "shot": "r10-open-thigh-adductor-933feed1-motion-v3",
+            "roundId": "round-10",
+            "outputPath": "form-media/assets/delivery/round-10/r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b.mp4",
+            "outputSha256": "9d7c70888296a0399dc4851a03f0be242ef6caf8860ea5df3035fc3ecba5dcf0",
+            "reviewerType": "ai",
+            "reviewer": "Codex",
+            "reviewedAt": "2026-09-22T23:59:17+00:00",
+            "reviewKind": "exact-delivery-video-4fps-frame-editorial",
+            "status": "candidate",
+            "evidence": [
+              "Both thighs and their pads close from wide to near together and reopen to the exact starting width in a single controlled cycle; hands, seat and foot supports stay in contact, and inner-thigh orange cue persists."
+            ],
+            "limitations": [
+              "Screened the exact delivered file at 4 fps and selected full-resolution frames. AI editorial screen only; human and trainer reviews remain separate."
+            ],
+            "reviewEvidencePaths": [
+              "reports/round-10-preparation/r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b-delivery-4fps.jpg"
+            ]
+          }
+        },
+        "reviewKind": "exact-delivery-video-4fps-frame-editorial"
+      }
+    }
+  },
+  "budget": {
+    "limit": 10000,
+    "reserved": 0,
+    "spent": 5587,
+    "remaining": 4413,
+    "lifetimeSpent": 10159,
+    "historicalSpent": 4572,
+    "periodId": "google-flow-2026-09-21",
+    "periodStartedAt": "2026-09-21T19:37:27+00:00",
+    "unresolvedAttemptCount": 0
+  }
+}

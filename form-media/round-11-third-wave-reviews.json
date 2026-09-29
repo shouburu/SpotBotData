@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-11",
+  "reviews": [
+    {
+      "assetId": "r11-flat-dumbbell-fly-t2v-fd22795e",
+      "attemptId": "attempt_fd22795e235f4184",
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r11-flat-dumbbell-fly-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-flat-dumbbell-fly-t2v-fd22795e.mp4",
+      "outputSha256": "7d389af40717b2ba9ea64403e4c4e90379ee6c024299264cf78c96f465a1fdcd",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:31:08.188739+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The arms open and close, but both dumbbell shafts visibly rotate and tip during the arc, exactly the hazard the user rejected before. The clip then begins another press-like elbow bend after the fly returns."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_fd22795e235f4184/review-3fps-01.jpg",
+        "reports/form-media/attempt_fd22795e235f4184/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-incline-dumbbell-fly-t2v-7fcc0910",
+      "attemptId": "attempt_7fcc0910d6084683",
+      "exerciseId": "open_incline_dumbbell_flye_f858d67d",
+      "shot": "r11-incline-dumbbell-fly-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-incline-dumbbell-fly-t2v-7fcc0910.mp4",
+      "outputSha256": "ed6d341a05cc400b6ba7c979ab9ef5ac4fe63ee2a51d10b965c478eda229c9cd",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:31:08.188739+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The dumbbells rotate substantially as the arms open; the elbows bend further near the return and the clip repeats a partial press-like pattern. Handle orientation is not steady as explicitly requested."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_7fcc0910d6084683/review-3fps-01.jpg",
+        "reports/form-media/attempt_7fcc0910d6084683/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-stiff-leg-dumbbell-deadlift-t2v-09f8c4eb",
+      "attemptId": "attempt_09f8c4eb8a554fc4",
+      "exerciseId": "open_stiff_legged_dumbbell_5da667b0",
+      "shot": "r11-stiff-leg-dumbbell-deadlift-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-stiff-leg-dumbbell-deadlift-t2v-09f8c4eb.mp4",
+      "outputSha256": "354c46c9cbec010313dafb888dac929eb1330bfeff0da143226cb5d8d61dbc34",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:31:08.188739+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first hip hinge and return are clear, but the original continues into a second partial hinge after standing. The single complete cycle was preserved in an original-speed edit."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_09f8c4eb8a554fc4/review-3fps-01.jpg",
+        "reports/form-media/attempt_09f8c4eb8a554fc4/review-3fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-stiff-leg-dumbbell-one-rep-v1",
+      "attemptId": "attempt_09f8c4eb8a554fc4",
+      "exerciseId": "open_stiff_legged_dumbbell_5da667b0",
+      "shot": "r11-stiff-leg-dumbbell-deadlift-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-stiff-leg-dumbbell-one-rep-v1.mp4",
+      "outputSha256": "f59052134fc90890319e73b5b12da3e92572d43dc28d0e312fed1991ebe8366a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:31:08.188739+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact original-speed edit shows one deliberate hip hinge to below-knee height and full return to standing. The knee bend stays small, both dumbbells track in front of the legs with level shafts perpendicular to the toes, and orange posterior-thigh cue remains visible."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/round-11-preparation/stiff-leg-one-rep-exact-3fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r11-barbell-bench-press-t2v-26269c92",
+      "attemptId": "attempt_26269c9206a54f72",
+      "exerciseId": "ex_bench_press",
+      "shot": "r11-barbell-bench-press-t2v",
+      "roundId": "round-11",
+      "outputPath": "form-media/assets/delivery/round-11/r11-barbell-bench-press-t2v-26269c92.mp4",
+      "outputSha256": "09de0575fa3c8d83e02743ac5ed4a89c9b03a9f8d1bfd85d04622577e8caf012",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-23T01:31:08.188739+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One barbell lowers from nearly extended arms to the mid/lower chest and presses back to nearly straight arms, then holds. The bar stays level in both hands, the back stays supported, feet remain planted and orange chest cue persists."
+      ],
+      "limitations": [
+        "Exact delivery screened at three frames per second. AI editorial judgement only; human and trainer reviews remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_26269c9206a54f72/review-3fps-01.jpg",
+        "reports/form-media/attempt_26269c9206a54f72/review-3fps-02.jpg"
+      ]
+    }
+  ]
+}

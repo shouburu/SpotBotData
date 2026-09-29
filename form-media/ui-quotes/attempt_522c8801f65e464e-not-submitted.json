@@ -1,0 +1,13 @@
+{
+  "attemptId": "attempt_522c8801f65e464e",
+  "exerciseId": "ex_barbell_row",
+  "shot": "r6-ex-barbell-row-start",
+  "providerSubmissionReached": false,
+  "reason": "Editor initialization failed at settings-trigger visibility before prompt entry/submission; CLI exited 23 on /about. No prompt_submitted event or provider generation ID. Flow balance unchanged.",
+  "logPath": "reports/form-media/attempt_522c8801f65e464e/stderr.log",
+  "logSha256": "efaa9da925cd764939a9a63ef7a37144c9bb7121f36c4c72a2c81c84e0c17c79",
+  "balanceBefore": 8856,
+  "balanceAfter": 8856,
+  "balanceObservedAt": "2026-09-15T21:00:18.739Z",
+  "visibleBalanceText": "8,856 Google Flow credits"
+}

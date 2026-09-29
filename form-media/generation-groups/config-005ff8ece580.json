@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r8-open-full-range-of-motion--e151f3ae-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-full-range-of-motion--e151f3ae-motion-e8a920a9.json"
+    },
+    {
+      "shot": "r8-open-seated-dumbbell-curl-a84cfc1d-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-dumbbell-curl-a84cfc1d-motion-e0e0942c.json"
+    },
+    {
+      "shot": "r8-open-seated-dumbbell-inner-19b43d61-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-dumbbell-inner-19b43d61-motion-e582239b.json"
+    },
+    {
+      "shot": "r8-open-seated-dumbbell-palms-f158a023-motion",
+      "quoteFile": "form-media/ui-quotes/r8-open-seated-dumbbell-palms-f158a023-motion-3494214f.json"
+    }
+  ]
+}

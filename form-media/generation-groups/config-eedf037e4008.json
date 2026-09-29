@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r10-ex-cable-fly-start-v4",
+      "quoteFile": "form-media/ui-quotes/r10-ex-cable-fly-start-v4-a40bd7d9.json"
+    },
+    {
+      "shot": "r10-open-cable-rear-delt-fly-dc550f7f-start-v4",
+      "quoteFile": "form-media/ui-quotes/r10-open-cable-rear-delt-fly-dc550f7f-start-v4-85cc42e8.json"
+    },
+    {
+      "shot": "r10-open-one-legged-cable-kick-20e79891-start-v4",
+      "quoteFile": "form-media/ui-quotes/r10-open-one-legged-cable-kick-20e79891-start-v4-76e5dab3.json"
+    },
+    {
+      "shot": "r10-open-pull-through-c80507cd-start-v4",
+      "quoteFile": "form-media/ui-quotes/r10-open-pull-through-c80507cd-start-v4-3809dd0c.json"
+    }
+  ]
+}

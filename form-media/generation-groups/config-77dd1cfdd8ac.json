@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-good-morning-a5c85ff9-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-good-morning-a5c85ff9-motion-6d49ca0a.json"
+    },
+    {
+      "shot": "r9-open-incline-dumbbell-flye-f858d67d-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-incline-dumbbell-flye-f858d67d-motion-fbca2fcc.json"
+    },
+    {
+      "shot": "r9-open-inverted-row-1ce9a06f-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-inverted-row-1ce9a06f-motion-684d917d.json"
+    },
+    {
+      "shot": "r9-open-landmine-180s-8bd8af32-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-landmine-180s-8bd8af32-motion-7815860e.json"
+    }
+  ]
+}

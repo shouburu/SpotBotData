@@ -1,0 +1,82 @@
+{
+  "id": "group_c27a3071ac42401f",
+  "status": "completed",
+  "roundId": "round-10",
+  "createdAt": "2026-09-22T23:42:49+00:00",
+  "balanceBefore": 4618,
+  "quotedCredits": 40,
+  "members": [
+    {
+      "exerciseId": "open_bent_arm_barbell_pull_bd488038",
+      "shot": "r10-open-bent-arm-barbell-pull-bd488038-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "36546a4a340deb69d394a075e78e63ba929814c4ea40ce1032b137b7e27a020f",
+      "quoteFile": "form-media/ui-quotes/r10-open-bent-arm-barbell-pull-bd488038-motion-43047e53.json",
+      "quoteSha256": "0ef9f8d897e0b1d3ea6c59f72d18f51898d518e57954ff0903898943a25c0a39",
+      "quoteCredits": 10,
+      "balance": 4618,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-bent-arm-barbell-pull-bd488038-start/attempt_caa8335815374bba.jpg",
+          "sha256": "3c3da54fce1004f75256861798b4691415d7707b44a8cd2bb4693387d065de2a"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r10-open-calf-press-619d1416-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "3c2eefc4fd49d36847a7d26d83b96fc22eea6f52ae5562ab796dd05c5275e198",
+      "quoteFile": "form-media/ui-quotes/r10-open-calf-press-619d1416-motion-3fe9f22c.json",
+      "quoteSha256": "860b65fa053858be143f629da738a122938da41baf09fcc1f44378b65a868289",
+      "quoteCredits": 10,
+      "balance": 4618,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-calf-press-619d1416-start/attempt_70fdbc6ec85649ae.jpg",
+          "sha256": "0b01f54b0a4a9255cee1d65a9e6b3a0464de0b125c6685ae3e18a8d9b0cc9c65"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_donkey_calf_raises_55a343b9",
+      "shot": "r10-open-donkey-calf-raises-55a343b9-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "9d873861ceebe9b23fef63a232eeca3264c281abea1d30b56f7a155d17aa9d6d",
+      "quoteFile": "form-media/ui-quotes/r10-open-donkey-calf-raises-55a343b9-motion-be294dc6.json",
+      "quoteSha256": "f828a0778061bbf5f137067c4864639140f3d0d3c060a2bd8dfd2ea71b46c111",
+      "quoteCredits": 10,
+      "balance": 4618,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-open-donkey-calf-raises-55a343b9-start/attempt_cd483080f9654f7b.jpg",
+          "sha256": "fdda5c6399d06d9cbcc9866864b2598e8a7d336b03b7f56b4b52d85270cfaa14"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_dumbbell_fly",
+      "shot": "r10-ex-dumbbell-fly-motion-v2",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "926b90daa625f5a8bc05529042cbf5943f62052d8f668abd473791fdb744742c",
+      "quoteFile": "form-media/ui-quotes/r10-ex-dumbbell-fly-motion-v2-a5ce9311.json",
+      "quoteSha256": "b29125255fcb0ad6d73fb3c6b2e9fe1e19c3c7180aa2ef66359de27cd047455e",
+      "quoteCredits": 10,
+      "balance": 4618,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r10-ex-dumbbell-fly-start/attempt_27e46e75c7274a86.jpg",
+          "sha256": "fed204e0b7fc45eb0fe50dbf2431027c02477114311a70ef4dfebf09c835ac61"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-09-22T23:44:37+00:00",
+  "balanceAfter": 4578,
+  "actualCredits": 40,
+  "evidenceFile": "form-media/ui-quotes/observed-bd0c1684d11a42dc.json",
+  "evidenceSha256": "490358f31b2c1f75c1130cd7dcc64243cf2fe3109b4cb562a81a1691baf722a4",
+  "terminalFailureIds": []
+}

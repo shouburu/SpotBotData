@@ -1,0 +1,60 @@
+{
+  "id": "group_9737a70c75754cc9",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:03:07+00:00",
+  "balanceBefore": 8342,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_barbell_curls_lying_a_583ae142",
+      "shot": "r8-open-barbell-curls-lying-a-583ae142-start",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "c211fadf2f84d61f45638f6619d4aff048faa8def45ce7065c27547225b16ec7",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-curls-lying-a-583ae142-start-b879f72d.json",
+      "quoteSha256": "d951bc93c421d6e5cbfaecb155766c8b33cb4fa0147f8a22b71beca984bd1316",
+      "quoteCredits": 0,
+      "balance": 8342,
+      "references": []
+    },
+    {
+      "exerciseId": "open_barbell_full_squat_65940a95",
+      "shot": "r8-open-barbell-full-squat-65940a95-start",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "462200a87e24570f74bdc85390d425d0ada4f29ff99fd5a90e6de7efe4f6cad4",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-full-squat-65940a95-start-b27a7602.json",
+      "quoteSha256": "20ac2fa740b4e4c166115825670a321e8b2efbe60a82d4f19f66e92d7464d422",
+      "quoteCredits": 0,
+      "balance": 8342,
+      "references": []
+    },
+    {
+      "exerciseId": "open_barbell_glute_bridge_0e7afdbd",
+      "shot": "r8-open-barbell-glute-bridge-0e7afdbd-start",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "c0431e36ff742e182220bd0c58052bd525ab47ad7d0f52590f79032a2bc3f745",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-glute-bridge-0e7afdbd-start-6e598c69.json",
+      "quoteSha256": "ec414130c12dfc05d05b9588961abcd964dc5309a8941d2c0e6e55a5965a634d",
+      "quoteCredits": 0,
+      "balance": 8342,
+      "references": []
+    },
+    {
+      "exerciseId": "open_barbell_hack_squat_3ece9677",
+      "shot": "r8-open-barbell-hack-squat-3ece9677-start",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "5aff64a92783a382acad6ea259390ae528dd2c9ed40b8d108e490257a37d1a5d",
+      "quoteFile": "form-media/ui-quotes/r8-open-barbell-hack-squat-3ece9677-start-ef945289.json",
+      "quoteSha256": "a801013d2c01e39c2dabe3d01345b7c8f04146c1a2019bad72373d7e483749c7",
+      "quoteCredits": 0,
+      "balance": 8342,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:04:26+00:00",
+  "balanceAfter": 8342,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-6154dba4453b432f.json",
+  "evidenceSha256": "29e42705898edba4dfda27915e36a8bdce6bdfa72cd981d8767476e091c6a445"
+}

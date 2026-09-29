@@ -1,0 +1,60 @@
+{
+  "id": "group_0e38eb5d66fa4309",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:41:08+00:00",
+  "balanceBefore": 7778,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_cable_internal_rotati_e82490e5",
+      "shot": "r8-open-cable-internal-rotati-e82490e5-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "2e2a54cef4bbda512c0daeb3af6a01ee9bb84bb20e44859400e6e2bfa6cc4ec9",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-internal-rotati-e82490e5-motion-051e286e.json",
+      "quoteSha256": "0b03df8aa775c9c133187c0417d0a8864d9c33ae62777f9e41cf8fdf4eed05cf",
+      "quoteCredits": 12,
+      "balance": 7778,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_iron_cross_3fdabc25",
+      "shot": "r8-open-cable-iron-cross-3fdabc25-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "48157324c8a70c22aaf6189c33281155f457d92d2fcaca216b083d856d54c719",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-iron-cross-3fdabc25-motion-d736023b.json",
+      "quoteSha256": "81c124aae18b6a82a6964c42de1fe0c2fdc22b9e63dd2aacb2c06a22c8ce381c",
+      "quoteCredits": 12,
+      "balance": 7778,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_judo_flip_5081c871",
+      "shot": "r8-open-cable-judo-flip-5081c871-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "ec07667d364d97769400f6130accff88b6878ef11a3d12ffd4962c70459970bd",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-judo-flip-5081c871-motion-58482502.json",
+      "quoteSha256": "a0efeae01c33a37140bb2ea6cbf2441fab6ba8e9b95b8e712979ad1bba09f228",
+      "quoteCredits": 12,
+      "balance": 7778,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_lying_triceps_e_ff29abb1",
+      "shot": "r8-open-cable-lying-triceps-e-ff29abb1-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "15dc0d4012a7b699bf87bbf372b0bf8b5f2e36f47aa8d7348dcd1ff3bd3e32c0",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-lying-triceps-e-ff29abb1-motion-e533f0d2.json",
+      "quoteSha256": "ae2225cd30a5458c594a088b46c72ea9c85e010f33164421e70f364c3a8220c9",
+      "quoteCredits": 12,
+      "balance": 7778,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:42:50+00:00",
+  "balanceAfter": 7730,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-922581ffcd43471d.json",
+  "evidenceSha256": "0487c1dd315d2dc1f830cab7b9650a6ca0bb83867a1d534c4d8c3a95d30557ec"
+}

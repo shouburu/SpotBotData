@@ -1,0 +1,572 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "attemptId": "attempt_d0b8137b05304686",
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r9-open-decline-smith-press-ab9938f7-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-decline-smith-press-ab9938f7-start/attempt_d0b8137b05304686.jpg",
+      "outputSha256": "f2fb276ab06878ad4767605a29163985fd194c2baa919df3d287bee68f3790a5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:00:23+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bench slopes upward toward the head: this is an incline setup rather than the requested decline setup.",
+        "The bar has hanging hooks but neither end connects to Smith guide rails. Animating this source would preserve a free bar rather than the required guided machine.",
+        "Pectoral orange is localized and the body is supported, but those positives do not repair the exercise/equipment identity."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-decline-smith-press-ab9938f7-start/attempt_d0b8137b05304686.jpg"
+      ],
+      "correctionPrompt": "Portrait Anatomical 3D instructional still of a DECLINE Smith bench press. Use a true head-down decline bench: the head and shoulders are visibly LOWER than the hips, with the feet secured at the raised foot end. The head, back and pelvis remain supported. Show the bar just above the lower chest with bent elbows, both hands gripping, and both bar ends continuously attached to sliding collars on TWO tall parallel Smith guide rails. The rails attach to a fixed machine frame; hooks are disengaged and safety stops sit below the working range. Only pectoral muscle bellies glow orange; other tissue is gray muscle fiber. Side three-quarter view with enough space above the bar for full arm extension. Show all working contacts and the complete bar. Plain studio, no labels or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/smith-reference-corrections/r9-open-decline-smith-press-ab9938f7-start-after-attempt_d0b8137b05304686.txt",
+      "adoptionNote": "Correct the reference still and review the replacement before paid I2V. Do not animate this source or put different-reference changes in the automatic motion corrections folder."
+    },
+    {
+      "attemptId": "attempt_16981af0e0964968",
+      "exerciseId": "open_smith_machine_bench_p_4ee3a150",
+      "shot": "r9-open-smith-machine-bench-p-4ee3a150-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-bench-p-4ee3a150-start/attempt_16981af0e0964968.jpg",
+      "outputSha256": "fb1a63b99348cadf3d130cfadc1b52948cbe20851153e2edde7912d903be85e0",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:00:23+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The flat bench, planted feet, supported upper back and two connected rail collars are recognizable and stable.",
+        "The bar is positioned over the face/upper-neck area rather than a clear mid-chest low endpoint. Because the Smith rails fix its travel plane, this source does not establish a safe, readable chest-to-extension movement path.",
+        "Pectoral highlighting is correctly localized; the correction is bench position and bar plane, not a style failure."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-bench-p-4ee3a150-start/attempt_16981af0e0964968.jpg"
+      ],
+      "correctionPrompt": "Portrait Anatomical 3D still of Smith flat bench press at the LOW endpoint. Reposition the flat bench relative to the fixed Smith rails so the bar lies immediately above the MIDDLE of the chest, well away from the face and throat. Show this unmistakably in a side three-quarter view: the head rests on the bench behind the bar plane, both elbows are bent below the bar, and forearms are nearly vertical. Head, shoulders, pelvis and both feet stay supported. Both bar ends remain continuously attached to sliding rail collars; fixed rails, disengaged hooks and stops below the low endpoint are visible. Only pectoral muscle bellies orange, otherwise gray fibers. Leave full overhead press clearance; no text or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/smith-reference-corrections/r9-open-smith-machine-bench-p-4ee3a150-start-after-attempt_16981af0e0964968.txt",
+      "adoptionNote": "Correct the reference still and review the replacement before paid I2V. Do not animate this source or put different-reference changes in the automatic motion corrections folder."
+    },
+    {
+      "attemptId": "attempt_8c444028bb964702",
+      "exerciseId": "open_smith_machine_bent_ov_01d0d0f3",
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-start/attempt_8c444028bb964702.jpg",
+      "outputSha256": "2a3420084353ca542566a26df6415a05f8c0a7cf386ecc21b5988c39b58389c1",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:00:23+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bar connects to both Smith rail collars and the relevant back muscles are orange, with feet planted.",
+        "The two arms do not show the same bilateral row endpoint: one visible arm is nearly long while the opposite elbow is sharply bent back toward the hip. The far grip is hidden, so the intended hand-to-bar connection and matched pulling geometry are not readable.",
+        "The torso is relatively upright, amplifying the unclear row posture. This should be corrected before I2V rather than instructing motion from an assumed symmetric contracted pose."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-start/attempt_8c444028bb964702.jpg"
+      ],
+      "correctionPrompt": "Portrait Anatomical 3D still of a Smith bent-over row at the LONG-ARM bottom position. Use a front-side three-quarter angle that clearly reveals BOTH hands on the same bar and BOTH nearly straight elbows. The hips hinge back and torso inclines clearly forward, approximately halfway between upright and horizontal; knees softly bent, back comfortable and feet planted. The guided bar hangs near the knees, not pulled to one hip. Both bar ends visibly join sliding collars on parallel fixed Smith rails. Leave room for a bilateral pull to the lower ribs and return. Only middle-back muscle bellies orange; other body regions gray muscle fibers. No labels or arrows. The next motion must start from these long arms, pull to the ribs, then return to these same long arms.",
+      "correctionPromptPath": "reports/round-9-preparation/smith-reference-corrections/r9-open-smith-machine-bent-ov-01d0d0f3-start-after-attempt_8c444028bb964702.txt",
+      "adoptionNote": "Correct the reference still and review the replacement before paid I2V. Do not animate this source or put different-reference changes in the automatic motion corrections folder."
+    },
+    {
+      "attemptId": "attempt_ef2b527e5b2e4379",
+      "exerciseId": "open_smith_machine_calf_ra_ccc5bca6",
+      "shot": "r9-open-smith-machine-calf-ra-ccc5bca6-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-calf-ra-ccc5bca6-start/attempt_ef2b527e5b2e4379.jpg",
+      "outputSha256": "484fa74d7874445650160f4ab0af5991ef8fb24e1caccbff27f37f1233d527a9",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:01:20+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both feet visibly bear on the forefeet, heels raised, with a straight supported body and the guided bar across the upper back.",
+        "Hands hold the bar and both ends join visible Smith rail collars. Orange is localized to the calf muscle bellies, and the entire short ankle movement envelope is visible.",
+        "This is a usable HIGH endpoint. The plate lies below the heels as well as the forefeet, so lowering must stop at the plate surface/comfortable neutral ankle rather than pass through the plate."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review.",
+        "Smith rails extend beyond the upper crop and stop above the floor; their overhead anchoring is outside the image. Do not invent moving rails. Heel travel is limited by the plate directly underneath."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-calf-ra-ccc5bca6-start/attempt_ef2b527e5b2e4379.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "High tiptoe reference \u2192 lower heels under control toward the plate surface \u2192 return fully to the same high tiptoe reference.",
+        "mustPreserve": [
+          "Both forefeet stay on the same plate; heels never pass through its surface.",
+          "Knees and hips remain quiet; the bar follows the shoulders on the same guide rails.",
+          "Keep calf orange visible throughout one cycle."
+        ]
+      },
+      "adoptionNote": "Ready for exact-reference assignment using the actual cycle described here. Keep all human approvals and motion review gates separate.",
+      "motionPromptFile": "reports/round-9-preparation/concise-remaining-freeweight/r9-open-smith-machine-calf-ra-ccc5bca6-motion-smith-i2v.txt",
+      "motionPromptSha256": "90cd2f956afb85348d52c00b318cc9aa7e982be27008adb31bbe2304b6d8eb5d",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-2",
+      "motionShot": "r9-open-smith-machine-calf-ra-ccc5bca6-motion"
+    },
+    {
+      "attemptId": "attempt_2e454cab58514d84",
+      "exerciseId": "open_smith_machine_incline_100af028",
+      "shot": "r9-open-smith-machine-incline-100af028-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-incline-100af028-start/attempt_2e454cab58514d84.jpg",
+      "outputSha256": "fd728511ad2a2215a736fd683bfcd5ae6d5de28b428d72ea302a01f2eaf41c37",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:01:20+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The bench is visibly head-up inclined; head, back and pelvis are supported, and both feet are planted.",
+        "The bar is in a low position just forward of the upper chest, with bent elbows and both working grips continuously connected to Smith collars. Its upward travel has ample room.",
+        "Both pectoral muscle bellies are distinctly orange. The low source is slightly above chest contact, so motion must return to this actual source rather than invent a lower through-body endpoint."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review.",
+        "An outer bar sleeve is partly cropped, but both working grips and moving rail collars are visible; future motion must preserve the complete body movement and both working connections."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-incline-100af028-start/attempt_2e454cab58514d84.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Low upper-chest reference \u2192 press guided bar to comfortable arm extension \u2192 return completely to the same low upper-chest reference.",
+        "mustPreserve": [
+          "Keep head and back supported, both feet planted, and hands on the same connected bar.",
+          "The bar and both collars travel together on unchanged rails.",
+          "Return slowly to the actual visible low pose; no bounce, extra press or throat contact."
+        ]
+      },
+      "adoptionNote": "Ready for exact-reference assignment using the actual cycle described here. Keep all human approvals and motion review gates separate.",
+      "motionPromptFile": "reports/round-9-preparation/concise-remaining-freeweight/r9-open-smith-machine-incline-100af028-motion-smith-i2v.txt",
+      "motionPromptSha256": "c7c0a66cf8e079f57555a76b530ba6a18202c295f16bf27f5abf73643b80d876",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-2",
+      "motionShot": "r9-open-smith-machine-incline-100af028-motion"
+    },
+    {
+      "attemptId": "attempt_a4a6d0f906be44af",
+      "exerciseId": "open_smith_machine_overhea_f4f4e023",
+      "shot": "r9-open-smith-machine-overhea-f4f4e023-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-overhea-f4f4e023-start/attempt_a4a6d0f906be44af.jpg",
+      "outputSha256": "d4d5c52589f6ef17ea1de3741278f91d8f6ba1faf496f34efc8535c4804e1139",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:00:23+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The seated supported posture, planted feet and continuous Smith bar-to-collar connections are visible; deltoid orange is relevant, with some secondary triceps coloring.",
+        "The bar is at eye/forehead height, not front-shoulder height. This provides an incomplete low endpoint for the catalog movement and would produce an abbreviated rep if animated straight up and back to the source.",
+        "The face lies immediately behind the bar projection, so a corrected lower source should explicitly show the bar forward of the face with clear vertical clearance."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-overhea-f4f4e023-start/attempt_a4a6d0f906be44af.jpg"
+      ],
+      "correctionPrompt": "Portrait Anatomical 3D still of a seated Smith overhead shoulder press at the LOW endpoint. Lower the bar to front-shoulder/upper-chest height, below the chin, with both elbows visibly lowered below shoulder level. The bar is in FRONT of the torso and face; the head stays behind its fixed vertical travel plane, with no behind-neck path. Both feet are planted and back and pelvis are supported by the upright bench. Show both hands gripping and continuous bar connections to two sliding Smith rail collars. Leave generous space above the head for full arm extension without cropping. Only the deltoid muscle bellies glow orange; the remainder is gray muscle fiber. Fixed front-side three-quarter camera, plain studio, no text or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/smith-reference-corrections/r9-open-smith-machine-overhea-f4f4e023-start-after-attempt_a4a6d0f906be44af.txt",
+      "adoptionNote": "Correct the reference still and review the replacement before paid I2V. Do not animate this source or put different-reference changes in the automatic motion corrections folder."
+    },
+    {
+      "attemptId": "attempt_e59ae0fbe3164541",
+      "exerciseId": "open_smith_machine_squat_37823d7a",
+      "shot": "r9-open-smith-machine-squat-37823d7a-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-squat-37823d7a-start/attempt_e59ae0fbe3164541.jpg",
+      "outputSha256": "b6fea02da06da1a3e8f78a49774c459407bf9ca6fbd40745b72b82e83024270f",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:01:20+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin holds a recognizable bottom squat around thigh-parallel, with both heels grounded and the bar supported across the upper back.",
+        "Both hands, working collars and bar-to-rail connections are visible. There is ample vertical room to stand tall and return to the original depth.",
+        "Orange includes the correctly located quadriceps and some involved posterior-thigh region; this is a disclosed secondary highlight, not unrelated anatomy."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review.",
+        "An outer bar sleeve is partly cropped, but both working grips and moving rail collars are visible; future motion must preserve the complete body movement and both working connections."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-squat-37823d7a-start/attempt_e59ae0fbe3164541.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Bottom squat reference \u2192 stand tall with hips and knees extended \u2192 return to the exact original bottom squat depth.",
+        "mustPreserve": [
+          "Both feet and heels remain fixed; knees follow foot direction.",
+          "Bar stays on upper back and both collars travel with it along fixed rails.",
+          "Use one complete rise-and-return with no pulse or bounce."
+        ]
+      },
+      "adoptionNote": "Ready for exact-reference assignment using the actual cycle described here. Keep all human approvals and motion review gates separate.",
+      "motionPromptFile": "reports/round-9-preparation/concise-remaining-freeweight/r9-open-smith-machine-squat-37823d7a-motion-smith-i2v.txt",
+      "motionPromptSha256": "333c14e1c21cb1c18f041131ff9a904043efd7d9fadaadc073dc0ee970e6eaf8",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-2",
+      "motionShot": "r9-open-smith-machine-squat-37823d7a-motion"
+    },
+    {
+      "attemptId": "attempt_0ef2d35209a845f1",
+      "exerciseId": "open_smith_machine_stiff_l_73127ddd",
+      "shot": "r9-open-smith-machine-stiff-l-73127ddd-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-stiff-l-73127ddd-start/attempt_0ef2d35209a845f1.jpg",
+      "outputSha256": "8acda751c274bb4b801a3253a3fa76f200ecabdb8d97f05f6f9a39ef841c0c49",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:01:20+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The source shows hips behind the feet, torso hinged forward, arms long, a guided bar near/below knee height, and both feet grounded.",
+        "Hamstring muscle bellies are visibly orange on the rear thigh. The working bar and Smith rail connection are readable, with clearance for standing upright.",
+        "Knees are visibly flexed rather than locked. The intended hinge can be preserved by keeping that knee angle nearly constant instead of turning the movement into a squat."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review.",
+        "The far hand is partially occluded in this side view and knee flexion is more visible than an almost-straight-leg example. Motion review must confirm matched bilateral grip and a hinge with nearly fixed knee angle."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-stiff-l-73127ddd-start/attempt_0ef2d35209a845f1.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Low hinged reference \u2192 extend hips to stand tall with bar near thighs \u2192 hinge back to the same low reference.",
+        "mustPreserve": [
+          "Keep the knee angle nearly unchanged and arms long.",
+          "Hips move back on lowering; do not dip the pelvis by bending knees further.",
+          "Hands remain attached to the same guided bar and heels stay grounded."
+        ]
+      },
+      "adoptionNote": "Ready for exact-reference assignment using the actual cycle described here. Keep all human approvals and motion review gates separate.",
+      "motionPromptFile": "reports/round-9-preparation/concise-remaining-freeweight/r9-open-smith-machine-stiff-l-73127ddd-motion-smith-i2v.txt",
+      "motionPromptSha256": "2c29bdf615c56e9f358b158e03496f1d731d89808a6c6d8556966d99e6406336",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-2",
+      "motionShot": "r9-open-smith-machine-stiff-l-73127ddd-motion"
+    },
+    {
+      "attemptId": "attempt_493cbb77cafc4b39",
+      "exerciseId": "open_smith_machine_upright_8cdb2f40",
+      "shot": "r9-open-smith-machine-upright-8cdb2f40-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-upright-8cdb2f40-start/attempt_493cbb77cafc4b39.jpg",
+      "outputSha256": "86b509bf6145933b89bb3b5c7ee25f4859238eb5ded55d9bc8ce8cdc50904ea5",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:01:20+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin stands upright with planted feet, bar below the chest and elbows raised outward to roughly shoulder level.",
+        "Both hands and continuous bar-to-collar connections are visible, and the complete lowering path to the thighs fits within the frame.",
+        "Orange lies over upper-trapezius regions. The bar remains well below the chin and the pose is a recognizable top upright-row endpoint."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-upright-8cdb2f40-start/attempt_493cbb77cafc4b39.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Top upright-row reference \u2192 lower bar until arms are long near thighs \u2192 lift once back to the same top reference.",
+        "mustPreserve": [
+          "Keep feet and trunk still and bar attached to unchanged rails.",
+          "Do not raise elbows higher than the reference or lift the bar toward the chin.",
+          "Finish in the original top pose and hold without a second pull."
+        ]
+      },
+      "adoptionNote": "Ready for exact-reference assignment using the actual cycle described here. Keep all human approvals and motion review gates separate.",
+      "motionPromptFile": "reports/round-9-preparation/concise-remaining-freeweight/r9-open-smith-machine-upright-8cdb2f40-motion-smith-i2v.txt",
+      "motionPromptSha256": "8e2bf496deedfb3c76a2e421de266d05bf37d1054a684185657d35a5763d0a39",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-2",
+      "motionShot": "r9-open-smith-machine-upright-8cdb2f40-motion"
+    },
+    {
+      "attemptId": "attempt_3df63cfb3991490c",
+      "exerciseId": "open_smith_single_leg_spli_c8f7e55e",
+      "shot": "r9-open-smith-single-leg-spli-c8f7e55e-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-single-leg-spli-c8f7e55e-start/attempt_3df63cfb3991490c.jpg",
+      "outputSha256": "dadaccfaf910154b33491b147f1792fa90e4fa04fad40d16298a0c16a13e5768",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:01:20+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The front foot is fully planted and the rear foot visibly rests on a bench; both knees are bent in a clear low rear-foot-elevated split squat.",
+        "The bar rests across the upper back with both hands holding it, and both working Smith collars are visible. There is room to rise without changing stance.",
+        "The front quadriceps has a localized orange region. Some orange also covers the rear thigh, a plausible involved secondary region; the correctly visible working front thigh remains clear."
+      ],
+      "limitations": [
+        "Exact single master still inspected; this does not establish continuous movement quality or trainer approval. Every generated motion output needs its own review.",
+        "An outer bar sleeve is partly cropped, but both working grips and moving rail collars are visible; future motion must preserve the complete body movement and both working connections."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-single-leg-spli-c8f7e55e-start/attempt_3df63cfb3991490c.jpg"
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Low split-squat reference \u2192 rise by extending the front leg \u2192 lower to the exact original split-squat pose.",
+        "mustPreserve": [
+          "Preserve which foot is planted in front and which rear foot rests on the bench; do not switch sides.",
+          "Front heel remains grounded and rear foot remains on the same support.",
+          "Keep the bar on the upper back and its two collars attached to unchanged rails."
+        ]
+      },
+      "adoptionNote": "Ready for exact-reference assignment using the actual cycle described here. Keep all human approvals and motion review gates separate.",
+      "motionPromptFile": "reports/round-9-preparation/concise-remaining-freeweight/r9-open-smith-single-leg-spli-c8f7e55e-motion-smith-i2v.txt",
+      "motionPromptSha256": "19f538467abd59c26b76207a5b27765b9514e29b690c1246134a391d50c1c9c9",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-2",
+      "motionShot": "r9-open-smith-single-leg-spli-c8f7e55e-motion"
+    },
+    {
+      "attemptId": "attempt_4ee64a67f69f48ac",
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r9-open-decline-smith-press-ab9938f7-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-decline-smith-press-ab9938f7-start/attempt_4ee64a67f69f48ac.jpg",
+      "outputSha256": "903c5ce65b01a220fa1fdb366c88466f38b4a18547194c613ea79009eb969e4a",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:12:43+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Two connected Smith rails and a fixed frame have now been added, but the mannequin and bench still slope upward toward the head. The image remains an incline press instead of a decline press.",
+        "The requested head-below-hips relationship has not changed from the rejected source; its visual exercise identity is still wrong."
+      ],
+      "limitations": [
+        "Single exact master still inspected; no animation or trainer approval. Corrected image must receive its own exact-output review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-decline-smith-press-ab9938f7-start/attempt_4ee64a67f69f48ac.jpg"
+      ],
+      "correctionPrompt": "Create a fresh single-pose Anatomical 3D still, landscape 16:9, pure SIDE VIEW of a Smith DECLINE bench press. Use an unmistakable HEAD-DOWN bench: put the mannequin head on the LEFT at a LOWER height than its hips on the RIGHT. The straight padded bench slopes DOWN from right hips to left head by about 15 degrees. Secure both ankles at the raised right end. Show the HIGH press endpoint: arms nearly straight upward, hands on the guided bar directly above the LOWER CHEST, away from the face. Two Smith rails and their bar collars must be continuous and fixed to a stable frame. Head, shoulders and pelvis all touch the pad. Keep full bar, contacts and lowering space visible. Silver-gray muscle-fiber body, charcoal shorts, orange pectoral muscle bellies only, plain studio. Do not depict a head-up incline bench, extra figure or labels.",
+      "correctionPromptPath": "reports/round-9-preparation/smith-reference-corrections/r9-open-decline-smith-press-ab9938f7-start-after-attempt_4ee64a67f69f48ac-fresh.txt",
+      "adoptionNote": "The rejected edit retains or worsens the source geometry. Stage a fresh composition without using this flawed image as an edit input; the logical shot remains unchanged."
+    },
+    {
+      "attemptId": "attempt_b1247f2ee80e4aed",
+      "exerciseId": "open_smith_machine_bench_p_4ee3a150",
+      "shot": "r9-open-smith-machine-bench-p-4ee3a150-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-bench-p-4ee3a150-start/attempt_b1247f2ee80e4aed.jpg",
+      "outputSha256": "73b4c4a4073c0aee81229606be7415b786469a233ae8cd4f15b2dca85a036663",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:12:43+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The generated edit retains the same flat bench and connected Smith rails, but the bar still projects across the face/upper-neck region.",
+        "The requested bench repositioning to put the bar over the middle chest is not established. A source with a different pose and side camera is needed to make the vertical rail plane unambiguous."
+      ],
+      "limitations": [
+        "Single exact master still inspected; no animation or trainer approval. Corrected image must receive its own exact-output review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-bench-p-4ee3a150-start/attempt_b1247f2ee80e4aed.jpg"
+      ],
+      "correctionPrompt": "Create a fresh single-pose Anatomical 3D still, landscape 16:9, pure SIDE VIEW of a Smith FLAT bench press. Put the mannequin head on the LEFT and feet on the RIGHT. Lie on a completely horizontal bench with head, shoulders and pelvis supported and both feet planted. Show the HIGH endpoint with nearly straight arms extending vertically above the MIDDLE OF THE CHEST. The bar and fixed vertical Smith travel plane must be above the sternum, at least one forearm length toward the feet from the face. Both hands grip one rigid bar; both ends attach continuously to sliding collars on two fixed Smith rails. Include sufficient room below for the bar to reach the middle chest with bent elbows. Show all contacts and complete working hardware. Silver-gray muscle fibers, charcoal shorts, orange pectorals only, plain studio. No front view, bar above face, additional figures or labels.",
+      "correctionPromptPath": "reports/round-9-preparation/smith-reference-corrections/r9-open-smith-machine-bench-p-4ee3a150-start-after-attempt_b1247f2ee80e4aed-fresh.txt",
+      "adoptionNote": "The rejected edit retains or worsens the source geometry. Stage a fresh composition without using this flawed image as an edit input; the logical shot remains unchanged."
+    },
+    {
+      "attemptId": "attempt_fb73141dd80f45dd",
+      "exerciseId": "open_smith_machine_bent_ov_01d0d0f3",
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-start/attempt_fb73141dd80f45dd.jpg",
+      "outputSha256": "af8eb5e2253211100fe3acb65405627383c5ccf1a90a9dbced823de428ee1b64",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:12:43+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The body now faces the camera, but the bar passes behind the thighs/hips rather than hanging in front of the shins or knees.",
+        "One visible hand hangs open near the thigh rather than clearly wrapping around the bar. This is not a usable bilateral connected row setup.",
+        "The source cannot be corrected by a motion brief without hand/bar teleportation and should not be assigned to I2V."
+      ],
+      "limitations": [
+        "Single exact master still inspected; no animation or trainer approval. Corrected image must receive its own exact-output review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-start/attempt_fb73141dd80f45dd.jpg"
+      ],
+      "correctionPrompt": "Create a fresh single-pose Anatomical 3D still, landscape 16:9, of a Smith bent-over row from the SIDE and slightly behind, with BOTH GRIPS visible. Show the LONG-ARM bottom position: hips pushed back, torso inclined forward about 45 degrees, knees softly bent, both arms hanging down IN FRONT of the knees. BOTH hands visibly wrap an overhand grip around the SAME bar just below the kneecaps; the bar is in front of the shins, never behind the legs or inside the thighs. Connect both bar ends to sliding collars on two fixed Smith rails. Leave clear space above the bar for a pull to the lower ribs without changing the torso hinge. Both feet flat. Orange paired middle-back muscles visible, otherwise silver-gray fibers and charcoal shorts, plain studio. One figure, no labels or arrows.",
+      "correctionPromptPath": "reports/round-9-preparation/smith-reference-corrections/r9-open-smith-machine-bent-ov-01d0d0f3-start-after-attempt_fb73141dd80f45dd-fresh.txt",
+      "adoptionNote": "The rejected edit retains or worsens the source geometry. Stage a fresh composition without using this flawed image as an edit input; the logical shot remains unchanged."
+    },
+    {
+      "attemptId": "attempt_2d6008e4488e49e9",
+      "exerciseId": "open_smith_machine_overhea_f4f4e023",
+      "shot": "r9-open-smith-machine-overhea-f4f4e023-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-overhea-f4f4e023-start/attempt_2d6008e4488e49e9.jpg",
+      "outputSha256": "121a8bebb488f0db526f4f8c8bc331c8777f49a1f5adcffa2903f426a690738b",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:13:44+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected bar is below the chin and in front of the upper chest, with both elbows now visibly below shoulder level. This is a usable low pressing endpoint rather than the previous eye-height partial start.",
+        "Head, back and pelvis are supported, both feet planted, and both hands hold the bar connected continuously to the two Smith sliding collars.",
+        "There is ample rail and headroom for overhead extension. Both deltoid muscle regions are visibly orange."
+      ],
+      "limitations": [
+        "Exact single still inspected, not evidence of continuous movement or trainer approval.",
+        "Orange also extends into portions of the upper arms; the primary shoulder regions are clear and this is not a mechanical rejection. The far outside bar sleeve is cropped, while both working grips and rail collars are visible."
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Low bar just below chin \u2192 comfortable overhead extension \u2192 exact same low bar and elbow pose.",
+        "mustPreserve": [
+          "Head remains behind the vertical bar plane; no behind-neck path.",
+          "Back and pelvis stay supported and feet remain planted.",
+          "Use the actual below-chin bar start; do not invent a lower through-neck endpoint.",
+          "Same rigid bar and both collars move together on unchanged rails."
+        ]
+      },
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-overhea-f4f4e023-start/attempt_2d6008e4488e49e9.jpg"
+      ],
+      "motionPromptFile": "reports/round-9-preparation/smith-reference-corrections/r9-open-smith-machine-overhea-f4f4e023-motion-reviewed-i2v.txt",
+      "motionPromptSha256": "c249959d17b57c857dae2cf9ae095e38818226c2981a725475802c2087c1c70f",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-3",
+      "motionShot": "r9-open-smith-machine-overhea-f4f4e023-motion",
+      "adoptionNote": "Ready for exact-reference I2V assignment. Actual motion still requires exact-output review."
+    },
+    {
+      "attemptId": "attempt_521995cea25e4c5f",
+      "exerciseId": "open_decline_smith_press_ab9938f7",
+      "shot": "r9-open-decline-smith-press-ab9938f7-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-decline-smith-press-ab9938f7-start/attempt_521995cea25e4c5f.jpg",
+      "outputSha256": "527b454e127f6266ea0522529e131cbca48faee41b5459077167c9095ddb27cb",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:53:21+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The bench now clearly slopes down toward the head: the head and shoulders are lower than the hips. This corrects the prior incline-versus-decline identity error.",
+        "Both hands hold a rigid bar connected to two visible Smith collars, with arms extended above the chest. The source provides a high endpoint and room to lower toward the torso.",
+        "The head, shoulders and pelvis lie on the same bench, and an ankle roller is present at the raised foot end. Orange pectoral tissue is visible on the near chest."
+      ],
+      "limitations": [
+        "Single exact master still inspected; not continuous movement evidence or trainer approval.",
+        "The pure side view foreshortens bar/grip width and partially hides the far pectoral region. Ankle-restraint mounting is less explicit than the main Smith rail connections; motion must preserve support and cannot let the feet or bench drift."
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "High guided press reference \u2192 lower to a comfortable chest-level bar position in the fixed rail plane \u2192 return to the exact high press reference.",
+        "mustPreserve": [
+          "Keep the head-down bench angle, head/back/pelvis support and ankle support unchanged.",
+          "Both hands and collars stay on the same rigid bar; no free-bar drift or rack-hook animation.",
+          "Demonstrate one clear elbow-flexion descent and full extension return, with pectoral orange maintained."
+        ]
+      },
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-decline-smith-press-ab9938f7-start/attempt_521995cea25e4c5f.jpg"
+      ],
+      "motionPromptFile": "reports/round-9-preparation/smith-reference-corrections/r9-open-decline-smith-press-ab9938f7-motion-reviewed-attempt_521995cea25e4c5f-i2v.txt",
+      "motionPromptSha256": "d2b83b5ea2a103a5eb2db53f75020434a36ea9c71495fa0d60b4ecad0a5a858d",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-4",
+      "motionShot": "r9-open-decline-smith-press-ab9938f7-motion",
+      "adoptionNote": "Ready for exact-reference I2V using the actual pose and fixed equipment. Future output still requires visual review."
+    },
+    {
+      "attemptId": "attempt_2b0e0d4cd47d45dd",
+      "exerciseId": "open_smith_machine_bench_p_4ee3a150",
+      "shot": "r9-open-smith-machine-bench-p-4ee3a150-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-bench-p-4ee3a150-start/attempt_2b0e0d4cd47d45dd.jpg",
+      "outputSha256": "c63d292f82c73eaf444a11fbffc33965baf137f2039ebce4766a7fb8f0c88a15",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:53:21+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The source now shows extended arms over the chest rather than a bent-arm bar across the face. The flat bench is horizontal and supports the head, upper back and pelvis.",
+        "Both working hands, one continuous bar and both sliding collars are readable, with room beneath the bar for chest-level lowering.",
+        "The feet sit below the bent knees at the base level. Orange is localized to visible pectoral muscle tissue."
+      ],
+      "limitations": [
+        "Single exact master still inspected; not continuous movement evidence or trainer approval.",
+        "The gray background gives limited floor-contact contrast, and the near upright partially obscures the head. Require stable feet and head/bench support in the exact video rather than inferring those contacts from its prompt."
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "High Smith flat-press reference \u2192 controlled descent to chest level \u2192 exact original high bar height and extended arms.",
+        "mustPreserve": [
+          "Head remains behind the rail plane and on the bench throughout.",
+          "Back, pelvis and both feet remain fixed; do not raise legs or arch/lift the body to meet the bar.",
+          "Both collars descend with the same rigid bar and return to their original height."
+        ]
+      },
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-bench-p-4ee3a150-start/attempt_2b0e0d4cd47d45dd.jpg"
+      ],
+      "motionPromptFile": "reports/round-9-preparation/smith-reference-corrections/r9-open-smith-machine-bench-p-4ee3a150-motion-reviewed-attempt_2b0e0d4cd47d45dd-i2v.txt",
+      "motionPromptSha256": "a72a331cb6760256cdd5d5e4a29e25fda44373d9b7c16e80361a92540c42ffd5",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-4",
+      "motionShot": "r9-open-smith-machine-bench-p-4ee3a150-motion",
+      "adoptionNote": "Ready for exact-reference I2V using the actual pose and fixed equipment. Future output still requires visual review."
+    },
+    {
+      "attemptId": "attempt_d935521412c84a01",
+      "exerciseId": "open_smith_machine_bent_ov_01d0d0f3",
+      "shot": "r9-open-smith-machine-bent-ov-01d0d0f3-start",
+      "roundId": "round-9",
+      "outputPath": "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-start/attempt_d935521412c84a01.jpg",
+      "outputSha256": "93fdbe10d2fa9c3d5873c6fd00292dba4a8fdb0efcfcf6a334871debbcf39950",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-21T21:53:21+00:00",
+      "reviewKind": "reference-still-physical-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The mannequin has a clear forward hip hinge with softly bent knees, long arms and a low guided bar around knee height.",
+        "The near hand visibly wraps around the bar and the far fingertips grip the same bar through partial leg occlusion. Both ends join visible collars on fixed Smith rails.",
+        "Both feet are planted, and there is room for a pull toward the lower torso without standing. Orange middle-back and involved lat regions remain visible."
+      ],
+      "limitations": [
+        "Single exact master still inspected; not continuous movement evidence or trainer approval.",
+        "The rear-side angle partially hides the far grip and overlaps the bar with the leg silhouette. That is not a clear missing-hand failure here, but exact motion review must confirm both grips and that the guided bar remains in front of the working leg plane."
+      ],
+      "animationGuidance": {
+        "cycleDefinition": "Long-arm low row reference \u2192 pull bar toward lower ribs while holding the hinge \u2192 exact original long-arm low reference.",
+        "mustPreserve": [
+          "Both hands stay attached to the same bar; preserve the visible bar-to-collar connections.",
+          "Keep feet, knees and torso hinge steady; elbows bend to row rather than lifting the trunk.",
+          "Complete one full pull and long-arm return; do not place the bar through either thigh."
+        ]
+      },
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r9-open-smith-machine-bent-ov-01d0d0f3-start/attempt_d935521412c84a01.jpg"
+      ],
+      "motionPromptFile": "reports/round-9-preparation/smith-reference-corrections/r9-open-smith-machine-bent-ov-01d0d0f3-motion-reviewed-attempt_d935521412c84a01-i2v.txt",
+      "motionPromptSha256": "d21b9db3c598a1bd0070dec18429ba47f46268adfc31e1201ce88ffd1a4f0d81",
+      "motionPromptVersion": "9.smith-i2v-reviewed-reference-4",
+      "motionShot": "r9-open-smith-machine-bent-ov-01d0d0f3-motion",
+      "adoptionNote": "Ready for exact-reference I2V using the actual pose and fixed equipment. Future output still requires visual review."
+    }
+  ]
+}

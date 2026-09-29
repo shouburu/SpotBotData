@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-cable-rope-overhead-t-cbb7aa38-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-rope-overhead-t-cbb7aa38-start-a15cbb65.json"
+    },
+    {
+      "shot": "r9-open-leverage-shrug-33bef3fa-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-start-c18fc3a8.json"
+    },
+    {
+      "shot": "r9-open-leverage-incline-ches-0c70165e-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-incline-ches-0c70165e-start-c9fb62f8.json"
+    },
+    {
+      "shot": "r9-open-standing-cable-chest--ddb29d76-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-standing-cable-chest--ddb29d76-start-4f4c4c2a.json"
+    }
+  ]
+}

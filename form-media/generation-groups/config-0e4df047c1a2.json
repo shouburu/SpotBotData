@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-dumbbell-clean-45633ce4-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-clean-45633ce4-motion-1e14e4c8.json"
+    },
+    {
+      "shot": "r9-open-leverage-decline-ches-adfbca13-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-decline-ches-adfbca13-motion-65b6b4f0.json"
+    },
+    {
+      "shot": "r9-open-leverage-incline-ches-0c70165e-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-incline-ches-0c70165e-motion-191bddea.json"
+    },
+    {
+      "shot": "r9-open-leverage-shrug-33bef3fa-motion",
+      "quoteFile": "form-media/ui-quotes/r9-open-leverage-shrug-33bef3fa-motion-2c5a2870.json"
+    }
+  ]
+}

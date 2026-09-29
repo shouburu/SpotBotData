@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r11-barbell-triceps-extension-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-barbell-triceps-extension-t2v-230611a6.json"
+    },
+    {
+      "shot": "r11-machine-chest-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-machine-chest-press-t2v-3ff38391.json"
+    },
+    {
+      "shot": "r11-dumbbell-shrug-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-dumbbell-shrug-t2v-64fe545f.json"
+    },
+    {
+      "shot": "r11-standing-dumbbell-calf-t2v",
+      "quoteFile": "form-media/ui-quotes/r11-standing-dumbbell-calf-t2v-7ee6623e.json"
+    }
+  ]
+}

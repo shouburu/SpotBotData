@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-ex-skullcrusher-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-skullcrusher-start-554708e5.json"
+    },
+    {
+      "shot": "r9-ex-pullover-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-pullover-start-4c65a173.json"
+    },
+    {
+      "shot": "r9-ex-dumbbell-fly-start",
+      "quoteFile": "form-media/ui-quotes/r9-ex-dumbbell-fly-start-74bc07e6.json"
+    },
+    {
+      "shot": "r9-open-bent-arm-barbell-pull-bd488038-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-bent-arm-barbell-pull-bd488038-start-ae0510fb.json"
+    }
+  ]
+}

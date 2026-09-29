@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r9-open-dumbbell-lying-pronat-95605e7c-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-dumbbell-lying-pronat-95605e7c-start-b6b7d7e4.json"
+    },
+    {
+      "shot": "r9-open-cable-wrist-curl-a1feb456-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-cable-wrist-curl-a1feb456-start-f7a953dc.json"
+    },
+    {
+      "shot": "r9-open-clean-5137c876-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-clean-5137c876-start-a17700c0.json"
+    },
+    {
+      "shot": "r9-open-hang-snatch-5089a95c-start",
+      "quoteFile": "form-media/ui-quotes/r9-open-hang-snatch-5089a95c-start-2824268c.json"
+    }
+  ]
+}

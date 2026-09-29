@@ -1,0 +1,311 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "shot": "r6-ex-hammer-curl-start",
+      "exerciseId": "ex_hammer_curl",
+      "outputPath": "form-media/assets/masters/r6-ex-hammer-curl-start/attempt_c9e4f5846f5d4101.jpg",
+      "outputSha256": "d3b0dfc37a8f9385c3b201adfcc08621c711f77438f6c83a59fba283ad26371c",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:24:48.879337+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Front three-quarter standing pose; arms extended, dumbbells beside thighs with inward-facing closed grips. Orange upper-arm and blue forearm fibers visible. Full movement envelope available. Inspect grip throughout motion: this still does not prove no supination."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-hammer-curl-motion",
+      "exerciseId": "ex_hammer_curl",
+      "outputPath": "form-media/assets/delivery/round-6/r6-ex-hammer-curl-motion-9c4e9b55.mp4",
+      "outputSha256": "956427405e82f2ddc2037494a194961f69c75ebf317182a8c6a993de47f17d21",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:27:20.419632+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "The full return is present, but the dumbbells rotate into a palms-up curl during the lift. This repeats the user-rejected hammer-curl failure. Not a Hammer Curl candidate. Orange/blue glow remains visible; fixed framing. Keep raw result for history, do not approve or silently relabel."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-machine-chest-press-start",
+      "exerciseId": "ex_machine_chest_press",
+      "outputPath": "form-media/assets/masters/r6-ex-machine-chest-press-start/attempt_4ea7814e492e47a3.jpg",
+      "outputSha256": "4c419318cd214d97475702fd2afc7aeab36a2c8c3d615ca1babfa0aee0a5152b",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:30:20.648005+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Seated machine setup and orange chest are clear, but blue support coloring extends onto anterior upper-arm fibers rather than clearly isolating triceps. Establish primary-only orange chest with other regions gray before motion; do not propagate ambiguous anatomy."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-machine-row-start",
+      "exerciseId": "ex_machine_row",
+      "outputPath": "form-media/assets/masters/r6-ex-machine-row-start/attempt_4e8e75dbe814462e.jpg",
+      "outputSha256": "7776a6703183e8d1dfe75adaf790bf8fdbe1f6760606b1e10fb6a40130acb01c",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:35:14.474532+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Rear three-quarter chest-supported machine row: extended elbows, both hands on fixed neutral vertical handles, chest on pad, feet supported. Orange upper-back fibers and blue lat/arm support visible. Full equipment and movement envelope in frame. Check lever pivot/contact continuity and complete elbow return in video."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-pec-deck-start",
+      "exerciseId": "ex_pec_deck",
+      "outputPath": "form-media/assets/masters/r6-ex-pec-deck-start/attempt_fff60136c878446a.jpg",
+      "outputSha256": "dd7a317d7b47b2745253f8499c1319a79f7c46df15c12dac7f362742bf49e2d6",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:35:14.539176+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Pec-deck start shows supported back, feet planted, arms opened to torso level with soft elbows, both closed grips on vertical levers. Chest-only orange glow, no misplaced secondary patches. Head and both lever arcs fit frame. Motion must retain elbow angle and machine geometry."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-dumbbell-fly-start",
+      "exerciseId": "ex_dumbbell_fly",
+      "outputPath": "form-media/assets/masters/r6-ex-dumbbell-fly-start/attempt_cd65416e48a14e46.jpg",
+      "outputSha256": "193366d06ad0541d9c064aacc8054040fcba85506d6274b928781e59ea69292b",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:35:14.600402+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Orange chest and supine bench setup present, but raised dumbbells touch/cross the upper frame edge and weights visually overlap. Need more headroom and separation to make grip and complete motion readable before paid animation."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-hammer-curl-motion",
+      "exerciseId": "ex_hammer_curl",
+      "outputPath": "form-media/assets/delivery/round-6/r6-ex-hammer-curl-motion-a9bf9818.mp4",
+      "outputSha256": "038d2738571447d8b4fc76718f185a5b2046b48359c4254e21dcadd208b7ddc1",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:38:16.332292+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Neutral grip is retained through early lift, but both forearms supinate near the top; full-size 3s frame confirms horizontal dumbbells and palms-up curl. Not acceptable as Hammer Curl. Second paid take, one corrective take remains."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-pec-deck-motion",
+      "exerciseId": "ex_pec_deck",
+      "outputPath": "form-media/assets/delivery/round-6/r6-ex-pec-deck-motion-48bd2b29.mp4",
+      "outputSha256": "566be8761d1fb5332d893ca3bfd15e764cbc3e92dd34fce789868c95440d57e6",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:38:16.391174+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "Pec deck repeatedly makes short partial fly motions; handles never meet in front of sternum. Full-size 2.5s frame confirms substantial separation at the inward endpoint. Chest glow and grips remain stable, but motion fails full-range/single-rep criterion."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-machine-row-motion",
+      "exerciseId": "ex_machine_row",
+      "outputPath": "form-media/assets/delivery/round-6/r6-ex-machine-row-motion-893704a0.mp4",
+      "outputSha256": "379df9c1216ec89937f2d4cdab88a3ebf62465b8cc9c59fa6f5584695c1c3d5e",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:38:16.449735+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "First row cycle completes, then another partial pull starts after about 6s. Full-size 6.5s frame confirms new elbow flexion. Preserve source as flagged and inspect a contiguous first-cycle excerpt before proposing it."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-machine-row-motion",
+      "exerciseId": "ex_machine_row",
+      "outputPath": "form-media/assets/delivery/round-6/r6-machine-row-cycle.mp4",
+      "outputSha256": "15b87ba867fe2d85736e164cf033c3382fddeb56bfab42bc0d163d586aa64a32",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:39:09+00:00",
+      "reviewKind": "edited-motion-ai-editorial",
+      "evidence": [
+        "Exact 5.5s original-speed excerpt inspected at 4fps. One pull brings elbows behind the torso, followed by a complete return to extended arms. The extra tail pulse is excluded. Chest remains against pad, feet fixed and orange upper-back glow visible; grips remain attached."
+      ],
+      "limitations": [
+        "AI editorial candidate only; operator/trainer review remains separate. Rear view partly occludes the far hand."
+      ]
+    },
+    {
+      "shot": "r6-ex-barbell-row-start",
+      "exerciseId": "ex_barbell_row",
+      "outputPath": "form-media/assets/masters/r6-ex-barbell-row-start/attempt_49c75b3611e14f8c.jpg",
+      "outputSha256": "8c410762f894d82bf615ec2b15b46386a0e78411c504db7b296171a8de10c719",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:41:40.141418+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Reference copied too much of deadlift pose: deep knee bend and bar/plates at floor instead of a suspended bent-over row. Correct hip hinge, soft knees and bar hanging below knees before paid motion."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-cable-fly-start",
+      "exerciseId": "ex_cable_fly",
+      "outputPath": "form-media/assets/masters/r6-ex-cable-fly-start/attempt_07d33949389f46e0.jpg",
+      "outputSha256": "65653190c4d8d89376de3bf919bcf8cbed3ed2e67f01c70fc09f8aeda10ef926",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:41:40.197748+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Tight upper-body cable-fly view exposes chest glow, soft elbows, both hands and handle-to-pulley connections. Lower legs are outside frame, so stance remains explained in text, not visually verified. Require hands to meet at chest level and full return; no wrist rotation."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-seated-cable-row-start",
+      "exerciseId": "ex_seated_cable_row",
+      "outputPath": "form-media/assets/masters/r6-ex-seated-cable-row-start/attempt_ae0e3e99e24b4977.jpg",
+      "outputSha256": "afd523aea872810375655214b14fef12fce5cf00466c4ba7cda24191bbad44f3",
+      "status": "ready-to-animate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:41:40.255146+00:00",
+      "reviewKind": "starting-frame-ai-editorial",
+      "evidence": [
+        "Seated cable row has upright unsupported torso, footplate contact, softly bent knees, forward extended arms, two neutral handle grips and a continuous low cable. Orange upper-back fibers are clear. Machine top is cropped but the complete movement path and relevant joints are visible."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-machine-row-motion",
+      "exerciseId": "ex_machine_row",
+      "outputPath": "form-media/assets/delivery/round-6/r6-machine-row-cycle.mp4",
+      "outputSha256": "15b87ba867fe2d85736e164cf033c3382fddeb56bfab42bc0d163d586aa64a32",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:46:26+00:00",
+      "reviewKind": "edited-motion-ai-editorial",
+      "evidence": [
+        "Full-resolution timeline comparison at source 1.5, 2.5, 3.5 and 5.5 seconds supersedes the earlier candidate judgment: a first pull partly resets before a second pull, then the arms finally extend fully. Neither excerpt removes this internal partial reset. Do not present as one full rep."
+      ],
+      "limitations": [
+        "Earlier small contact-sheet judgment was incorrect; retain audit history and reject both excerpts as one-rep candidates."
+      ]
+    },
+    {
+      "shot": "r6-ex-machine-row-motion",
+      "exerciseId": "ex_machine_row",
+      "outputPath": "form-media/assets/delivery/round-6/r6-machine-row-close-cycle.mp4",
+      "outputSha256": "198859661d575e272b2142a216b45b3abc6b0085a569e55ed596c3c43f63394a",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:46:26+00:00",
+      "reviewKind": "edited-motion-ai-editorial",
+      "evidence": [
+        "Full-resolution timeline comparison at source 1.5, 2.5, 3.5 and 5.5 seconds supersedes the earlier candidate judgment: a first pull partly resets before a second pull, then the arms finally extend fully. Neither excerpt removes this internal partial reset. Do not present as one full rep."
+      ],
+      "limitations": [
+        "Earlier small contact-sheet judgment was incorrect; retain audit history and reject both excerpts as one-rep candidates."
+      ]
+    },
+    {
+      "shot": "r6-ex-cable-fly-motion",
+      "exerciseId": "ex_cable_fly",
+      "outputPath": "form-media/assets/delivery/round-6/r6-ex-cable-fly-motion-698bd256.mp4",
+      "outputSha256": "1e1dcfd7edb8b1159491a1461aa7138a5f24ce20875888990fc3bbc506bb4c04",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:53:15.714127+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "One visible closing and reopening cycle with persistent chest glow, but full-size 3.25s peak frame shows elbow bend increasing substantially and hands still separated. The movement changes toward a press/curl instead of retaining a soft fixed elbow angle for a fly."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-seated-cable-row-motion",
+      "exerciseId": "ex_seated_cable_row",
+      "outputPath": "form-media/assets/delivery/round-6/r6-ex-seated-cable-row-motion-f1d6cf2b.mp4",
+      "outputSha256": "7b587cf7a05665019abe01f7fdc926d77955a72425dd690c962561ea64867063",
+      "status": "needs-correction",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:53:15.777158+00:00",
+      "reviewKind": "motion-ai-editorial",
+      "evidence": [
+        "First seated-row pull and return are followed by another partial pull at about 6–8s. Dense timeline and larger one-second frames confirm the extra tail. Review a first-cycle excerpt only; grip and cable stay connected, with some torso-angle change to assess."
+      ],
+      "limitations": [
+        "AI editorial inspection only; operator and trainer review remain separate."
+      ]
+    },
+    {
+      "shot": "r6-ex-seated-cable-row-motion",
+      "exerciseId": "ex_seated_cable_row",
+      "outputPath": "form-media/assets/delivery/round-6/r6-seated-cable-row-close-cycle.mp4",
+      "outputSha256": "a18206aba1bc38b9be6935d37304ba0f5a1718437c6c414e175f08f5300fbd88",
+      "status": "candidate",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-09-15T20:54:45+00:00",
+      "reviewKind": "edited-motion-ai-editorial",
+      "evidence": [
+        "Exact 0–5.5s excerpt inspected at 4fps with enlarged timeline. One pull brings the handle to lower ribs, followed by return to the original forward arm position. Later second pull excluded. Fixed closer crop retains cable/handle/footplate contacts and upper-back glow."
+      ],
+      "limitations": [
+        "Small torso-angle change and comfortable soft elbow extension remain operator/trainer review points. AI candidate, not trainer approval."
+      ]
+    }
+  ]
+}

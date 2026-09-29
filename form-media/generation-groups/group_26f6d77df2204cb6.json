@@ -1,0 +1,60 @@
+{
+  "id": "group_26f6d77df2204cb6",
+  "status": "completed",
+  "roundId": "round-8",
+  "createdAt": "2026-09-16T05:46:27+00:00",
+  "balanceBefore": 7634,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "open_cable_shoulder_press_7ddeefb0",
+      "shot": "r8-open-cable-shoulder-press-7ddeefb0-motion",
+      "profile": "spotbot_r7_1",
+      "promptSha256": "fd8bd0e2e5e80e2e9fb087f023f14c59efd57257f44746c71b701a8dad63db3d",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-shoulder-press-7ddeefb0-motion-978af631.json",
+      "quoteSha256": "e4f19fc44e3db9c7031be882a8275054655558863c486a31719e2b5f9f9dae74",
+      "quoteCredits": 12,
+      "balance": 7634,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_shrugs_c5ea5dc6",
+      "shot": "r8-open-cable-shrugs-c5ea5dc6-motion",
+      "profile": "spotbot_r7_2",
+      "promptSha256": "34a54d6ccbc8fd39e6f5a65fa9decbef80776e83f4fccb929a8c212ec32cb8c4",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-shrugs-c5ea5dc6-motion-72c8f2f2.json",
+      "quoteSha256": "ea0aa33a6535a5062ed9e03346ccf9610ef22699291739f6ae8f514cf5ca8497",
+      "quoteCredits": 12,
+      "balance": 7634,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cable_wrist_curl_a1feb456",
+      "shot": "r8-open-cable-wrist-curl-a1feb456-motion",
+      "profile": "spotbot_r7_4",
+      "promptSha256": "97692db142db35187880a505dbbc8c4837192d8672827ddc11dc350c0129dc8e",
+      "quoteFile": "form-media/ui-quotes/r8-open-cable-wrist-curl-a1feb456-motion-2fd38547.json",
+      "quoteSha256": "94e2e4acb8b5d37bff54e7eee2a35f262acd3292b860f08e73644efddac4acfc",
+      "quoteCredits": 12,
+      "balance": 7634,
+      "references": []
+    },
+    {
+      "exerciseId": "open_calf_press_619d1416",
+      "shot": "r8-open-calf-press-619d1416-motion",
+      "profile": "spotbot_r7_5",
+      "promptSha256": "0ef2c750419c23aee78b47bf8420d5a1a2e31be2480efe60246f8e416f41ebda",
+      "quoteFile": "form-media/ui-quotes/r8-open-calf-press-619d1416-motion-b77129c6.json",
+      "quoteSha256": "35fd60176f1333fd60e0989fbcf6935c8409248ebfec605e16a228abdcea2fd5",
+      "quoteCredits": 12,
+      "balance": 7634,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "settledAt": "2026-09-16T05:47:54+00:00",
+  "balanceAfter": 7586,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-2da672abf5154db8.json",
+  "evidenceSha256": "37d0c5c52951c6470ab4be38b6e19ff451f015999e7641041eca6ac67bb286bb"
+}

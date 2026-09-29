@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r10-open-power-snatch-3f9ccaec-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-power-snatch-3f9ccaec-start-c093c0b3.json"
+    },
+    {
+      "shot": "r10-open-smith-machine-calf-ra-ccc5bca6-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-smith-machine-calf-ra-ccc5bca6-start-4d4a1340.json"
+    },
+    {
+      "shot": "r10-open-standing-dumbbell-cal-ed527460-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-standing-dumbbell-cal-ed527460-start-109dc53c.json"
+    },
+    {
+      "shot": "r10-open-standing-overhead-bar-1c42b3f8-start",
+      "quoteFile": "form-media/ui-quotes/r10-open-standing-overhead-bar-1c42b3f8-start-29cbbec2.json"
+    }
+  ]
+}
