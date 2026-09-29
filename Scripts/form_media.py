@@ -29,7 +29,6 @@ ROOT = Path(__file__).resolve().parent.parent
 MEDIA = ROOT / "form-media"
 MANIFEST = MEDIA / "manifest.json"
 LEDGER = MEDIA / "attempts.json"
-ROUND_ONE_SNAPSHOT = MEDIA / "reviews" / "round-1-before-round-2.json"
 THREAD_LOCK = threading.RLock()
 REVIEWS = {"pending", "accepted", "rejected", "needs-review"}
 STATUSES = {"reserved", "submitted", "completed", "failed", "uncertain", "cancelled"}
@@ -361,20 +360,6 @@ def prompt_spec(manifest, exercise_id, shot, prompt_file=None, round_id=None):
                 candidates[0] if len(candidates) == 1 else {})
 
 
-def review_history(manifest):
-    # The fixed snapshot is never rewritten. Project its original decisions into
-    # the same read-only history view as subsequent, atomically saved decisions.
-    snapshot = read_json(ROUND_ONE_SNAPSHOT, {"exercises": {}})
-    history = []
-    for exercise_id, record in snapshot.get("exercises", {}).items():
-        if record.get("reviewStatus", "pending") == "pending" and not record.get("notes") and not record.get("selectedAssetIds"):
-            continue
-        history.append(dict(record, id=f"round-1-snapshot:{exercise_id}", exerciseId=exercise_id,
-                            roundId="round-1", source="round-snapshot",
-                            createdAt=record.get("reviewedAt") or snapshot.get("capturedAt")))
-    return history + manifest.get("reviewHistory", [])
-
-
 def state():
     with locked():
         manifest = read_json(MANIFEST)
@@ -390,8 +375,12 @@ def state():
             if path.exists():
                 style = path.read_text(encoding="utf-8")
                 break
+        # Only current authoring briefs are file-backed. Historical generated
+        # prompts stay frozen in attempts/assets and are displayed from there.
         prompts = []
         for spec in manifest.get("prompts", []):
+            if (spec.get("roundId") or "round-1") != active_round(manifest):
+                continue
             prompt_path = repo_path(spec["path"])
             if not prompt_path.is_relative_to((MEDIA / "prompts").resolve()):
                 raise ValueError("Prompt specs must point inside form-media/prompts/.")
@@ -409,7 +398,7 @@ def state():
                 "attempts": records["attempts"], "budget": budget(manifest, records),
                 "style": style, "styleVersion": manifest["styleVersion"], "prompts": prompts,
                 "activeRoundId": active_round(manifest), "rounds": rounds,
-                "reviewHistory": review_history(manifest)}
+                "reviewHistory": manifest.get("reviewHistory", [])}
 
 
 def review(payload):

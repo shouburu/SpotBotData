@@ -26,6 +26,7 @@ def observe(kind=None, aspect='9:16', duration=8, model=None):
 def main():
  p=argparse.ArgumentParser(description=__doc__);p.add_argument('--round',required=True);p.add_argument('--max-groups',type=int,default=150);p.add_argument('--kind',choices=['image','video'],help='Restrict this run to reviewed still references or motion jobs.');p.add_argument('--settle-terminal-failures',action='store_true',help='Reconcile exact provider-terminal failures against a fresh balance, then continue other jobs without retrying failed shots.');args=p.parse_args()
  if not 1<=args.max_groups<=150:raise ValueError('Choose 1–150 groups.')
+ (f.MEDIA/'generation-groups').mkdir(exist_ok=True)
  for _ in range(args.max_groups):
   with f.locked():
    m=f.read_json(f.MANIFEST);records=f.ledger()

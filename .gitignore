@@ -6,3 +6,5 @@ node_modules/
 reports/
 form-media/assets/
 form-media/.form-media.lock
+outputs/
+*.inspect.ndjson

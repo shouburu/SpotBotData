@@ -1,9 +1,0 @@
-Animate the EXACT supplied Anatomical 3D starting frame for Machine Chest Press. Show ONE complete controlled repetition over six seconds.
-0.0–0.5s HOLD start: Sit with the back fixed against the pad, hands on paired handles immediately in front of mid-chest, elbows bent.
-0.5–2.6s travel monotonically outward: Press BOTH paired horizontal levers straight FORWARD, away from the chest, until elbows are nearly straight.
-2.6–3.2s HOLD full endpoint.
-3.2–5.5s travel monotonically back: Bring the SAME handles and levers directly backward to the exact original chest-height bent-elbow pose.
-5.5–6.0s HOLD exact restored starting position.
-The seat, backrest and weight stack housing remain fixed. Neither handle swings outward like a pec fly; both lever-to-handle linkages remain intact.
-Temporal constraint: the working joints and the loaded machine travel continuously in ONE direction for each phase; the only direction reversal occurs at the full endpoint. No springing, bouncing, twitching, mini-reps, momentum or abbreviated travel.
-Preserve sculpted silver-gray anatomical muscle fibers, charcoal shorts, fixed close camera and physically connected rigid equipment. A localized bright-orange glow on the chest persists throughout the ENTIRE clip, including final hold. Show both movement endpoints and all contact points in frame. Clean studio, silent, single continuous shot. No text, arrows, extra objects, camera motion or cuts.

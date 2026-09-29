@@ -1,9 +1,0 @@
-Animate the EXACT supplied Anatomical 3D starting frame for Dumbbell Fly. Show ONE complete controlled repetition over six seconds.
-0.0–0.5s HOLD start: Lie supported on the flat bench with exactly two separate dumbbells above the chest, elbows softly bent and both rigid shafts LEVEL AND HORIZONTAL.
-0.5–2.6s travel monotonically outward: Open both shoulders through one wide lateral fly arc until hands are near bench height; the elbows keep the same small bend and both weight shafts keep their original level orientation.
-2.6–3.2s HOLD full endpoint.
-3.2–5.5s travel monotonically back: Close both arms through the same arc to the exact starting position over the chest while shafts remain perfectly horizontal.
-5.5–6.0s HOLD exact restored starting position.
-Each dumbbell is a rigid cylinder-and-shaft object; the shaft direction is locked in world space from first to last frame. No wrist pronation or rolling weights, no press path, no extra partial repetition.
-Temporal constraint: the working joints and the loaded machine travel continuously in ONE direction for each phase; the only direction reversal occurs at the full endpoint. No springing, bouncing, twitching, mini-reps, momentum or abbreviated travel.
-Preserve sculpted silver-gray anatomical muscle fibers, charcoal shorts, fixed close camera and physically connected rigid equipment. A localized bright-orange glow on the chest persists throughout the ENTIRE clip, including final hold. Show both movement endpoints and all contact points in frame. Clean studio, silent, single continuous shot. No text, arrows, extra objects, camera motion or cuts.

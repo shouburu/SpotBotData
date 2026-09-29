@@ -1,9 +1,0 @@
-Anatomical 3D instructional video of Leg Press, animating the exact supplied starting frame. Show ONE complete and unhurried repetition in six seconds.
-0.0–0.5 seconds: Hold the initial pose motionless. At the exact supplied bent-knee pose, the torso and reclined seat are motionless; both heels press on the sled footplate.
-0.5–2.6 seconds: Press the separate footplate sled smoothly up its fixed rails until both knees are nearly straight but not locked. The sled moves away from the stationary seat.
-2.6–3.2 seconds: Freeze at that full endpoint for a readable beat.
-3.2–5.5 seconds: Lower that same sled back down the same rails until both knees are again deeply bent at exactly the original footplate position.
-5.5–6.0 seconds: Freeze at the original starting pose. End the clip there.
-The knee angle opens continuously during the press and closes continuously during the return. Never stop or reverse halfway. Both feet remain flat on the footplate; pelvis and back remain on the fixed seat.
-Temporal rule: the working joints and moving machine parts travel continuously and monotonically between the two endpoints. There is only one reversal, at the full endpoint. No bouncy, springy, rocking, twitching, looping, or abbreviated motion.
-Keep the supplied sculpted silver-gray anatomical mannequin, charcoal shorts, exact rigid equipment and fixed camera. Persistent localized bright-orange muscle glow follows the quadriceps through the entire cycle, including both endpoint holds. Frame the working joints, hands, feet, pads, rails and movement envelope closely without cropping an endpoint. Plain light studio. Silent, one continuous shot, natural speed; no cuts, camera movement, words, logos, arrows, or extra objects.
