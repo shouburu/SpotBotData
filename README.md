@@ -1,8 +1,8 @@
 # SpotBotData
 
-The canonical SpotBot exercise catalog and its media authoring tools. The active catalog is `2026.09.22.5`, revision `15`: **427 exercises**, 564 retired identities and 21 starter workouts. `catalog.json` is the source of truth; generated app snapshots live in the sibling SpotBot repository.
+The canonical SpotBot exercise catalog and its media authoring tools. The active catalog is `2026.09.29.2`, revision `17`: **439 exercises**, 565 retired identities and 21 starter workouts. `catalog.json` is the source of truth; generated app snapshots live in the sibling SpotBot repository.
 
-Round 11 human media review is complete. The app release contains **111 approved generated videos and six direct YouTube references**, with 222 video/poster files totaling 71,750,810 bytes. All 427 active exercises also have a separately curated YouTube recommendation. Generation remains available, but the completed queues are not authorization to spend more credits.
+Round 11 human media review is complete. The app release contains **111 approved generated videos and six direct YouTube references**, with 222 video/poster files totaling 71,750,810 bytes. All 439 active exercises also have a separately curated YouTube recommendation. Generation remains available, but the completed queues are not authorization to spend more credits.
 
 ## Current files
 
@@ -25,7 +25,7 @@ Round 11 human media review is complete. The app release contains **111 approved
 
 Edit `catalog.json` directly. Preserve canonical IDs for editorial corrections. Keep one record per actual movement, useful unambiguous aliases and precise apparatus, laterality and counting semantics. Record explicit product removals in `provenance.retiredExercises`, remove active reviews, and update source decisions and starter references. Retired IDs cannot be reimported. Do not substitute a different movement or add media from the removed scraping pipeline.
 
-Every active exercise needs source evidence and an honest editorial decision. The 873 approved upstream source IDs retain their imported, mapped or excluded decisions, original row hashes and pinned Unlicense snapshot. Catalog reviews are AI editorial assessments, not independent trainer or clinical approval. Lower Back–SMR remains flagged for a removal/qualified-review decision in its Form Guidance audit.
+Every active exercise needs source evidence and an honest editorial decision. The 873 approved upstream source IDs retain their imported, mapped or excluded decisions, original row hashes and pinned Unlicense snapshot. Catalog reviews are AI editorial assessments, not independent trainer or clinical approval. Lower Back–SMR was explicitly retired on September 29 following its unresolved Form Guidance audit concern; its identity remains excluded from active content.
 
 Use short ordered setup, movement/hold and controlled-return steps. Preserve safe loading/unloading, contact points, useful optional variations and per-side counting. Measurement contracts are `reps`, `duration` (seconds), `distance` (metres), and `time_distance`; defaults are editable starting targets. Required apparatus must exist in SpotBot's shared equipment vocabulary. Increment version and revision for a new published release.
 
@@ -83,6 +83,6 @@ Historical paths and hashes inside immutable attempts, approvals, assets and ret
 
 ## Handoff and validation scope
 
-Current phase remains focused manual web/media feedback. Catalog content, generated app descriptors, selected media and credit history are preserved. The cleanup received source/diff inspection and a phone-sized dashboard review of the current catalog/budget, active prompt, historical prompt text and migrated Round 1 review history; no review was saved and no credits were spent. Earlier playback/content evidence remains historical. Detailed run results belong in the cleanup PR.
+Current phase remains focused manual web/media feedback. Lower Back–SMR is retired without replacement at the user’s request, using the existing history-preserving retirement mechanism. The requested Smith-machine expansion adds 13 movements (23 Smith entries total), repairs Bulgarian Split Squat naming, adds Romanian-deadlift search aliases and retains all retired identities. Catalog and YouTube descriptor exports are current; new entries have original guidance, editorial evidence and external video recommendations. Existing approved generated media and credit history remain unchanged.
 
-No generation, exporters, automated tests, builds, lint/type checks, theme sweeps or native checks ran for cleanup. Further media production needs a requested action; automated validation, native verification, catalog publication and binary hosting remain deferred until explicitly selected.
+Source/diff inspection and current-theme web review at 390 × 844 confirmed Smith results, Bulgarian and RDL discoverability, preserved Bulgarian identity/media, and the new lunge's per-leg guidance and reference descriptor. All 13 new recommendations returned public oEmbed metadata; the floor-bridge reference received a visual setup spot check. The lunge embed remained on “Loading video…” in the preview, so full embedded playback is unverified. A subsequent current-theme web review at 390 × 844 confirmed that searching for Lower Back-SMR returns zero exercises, while Lower Back Curl remains in the broader search. The two content exporters completed their built-in source/schema/coverage guards; no separate test suite, lint/typecheck, app build, theme sweep or native check ran. No generation credits were spent. Cloud catalog publication and media hosting remain separately deferred; the next optional checkpoint is user-selected playback/platform review or an automated sweep.

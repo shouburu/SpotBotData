@@ -5461,16 +5461,6 @@
       "selectedAssetIds": [],
       "notes": ""
     },
-    "open_lower_back_smr_60c1307d": {
-      "teachingFormat": "video",
-      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
-      "priority": 2,
-      "recommendationStatus": "provisional",
-      "reviewStatus": "pending",
-      "pilot": false,
-      "selectedAssetIds": [],
-      "notes": ""
-    },
     "open_lower_back_curl_dd4375a1": {
       "teachingFormat": "animation",
       "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
@@ -148256,6 +148246,15 @@
       "archiveSha256": "2440bdbe1ce7778f8c04baffedd5d9429bf2434aea534cd1100b3c3a4b0b45be",
       "reason": "User resumed Round 11 after submitting dashboard reviews; seven active Round 11 entries contain explicit user removal decisions.",
       "removedFromActiveRound": 7
+    },
+    {
+      "date": "2026-09-29",
+      "kind": "explicit-form-guidance-removal",
+      "count": 1,
+      "exerciseIds": [
+        "open_lower_back_smr_60c1307d"
+      ],
+      "reason": "User explicitly removed Lower Back-SMR on 2026-09-29 following the unresolved lumbar foam-rolling concern in the Form Guidance audit. No replacement or identity redirect is implied. Preserve historical workouts and saved references; do not reimport this identity."
     }
   ],
   "aiReviewBatches": [

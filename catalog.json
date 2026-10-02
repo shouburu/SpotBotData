@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "version": "2026.09.22.5",
-  "revision": 15,
+  "version": "2026.09.29.2",
+  "revision": 17,
   "sources": [
     {
       "name": "free-exercise-db",
@@ -22,13 +22,14 @@
       "revisions": [
         "2026.09.1",
         "2026.09.2",
-        "2026.09.3"
+        "2026.09.3",
+        "2026.09.29.1"
       ],
       "method": "Original instructions and editable exercise prescriptions authored for SpotBot. AI editorial work; no independent professional review claimed."
     }
   ],
   "provenance": {
-    "authoringPolicy": "Open-source or original content only; names/aliases do not establish identity; supported position/apparatus/contraction variants remain distinct; no media included. Rewritten instructions and all editable defaults are SpotBot editorial adaptations, not claims by the original provider. Range-of-motion drills and stretching recorded under retiredExercises are excluded from active content and future imports. Yoga identities remain available, including poses with overlapping stretching tags. Loaded/bodyweight strength and foam-rolling recovery are retained. Retirements never redirect to a different movement. Grip-only variants are consolidated when a matching base movement exists; preserve equipment, support, position and movement differences. The 40 unusual exercise entries explicitly retired on 2026-09-17 are excluded by product direction; no inferred replacements. On 2026-09-21 the user approved all 176 explicitly ranked form/setup consolidations, including conditional seated/standing, unilateral, support and range cases. Those approved mappings supersede earlier keep-distinct decisions for those pairs; retain standard identities, useful aliases and optional instructions without rewriting historical workout loads or counts. Other equipment/movement distinctions remain individually reviewed. On 2026-09-21 the user approved all 186 rows of the second simplification review: 102 consolidations into their explicitly listed standards and 84 product-scope removals without replacement. These approved choices supersede prior keep-distinct decisions for those rows. Preserve aliases for consolidations only, optional movement/counting distinctions, and original historical workout identities and prescriptions; alternative apparatus must not become simultaneous requirements. On 2026-09-22 the user explicitly removed Finger Curls, Wrist Roller, Barbell Wrist Curl, and Seated Palms-Down Barbell Wrist Curl without replacements. Their former variants remain excluded; remaining dumbbell and cable wrist curls are unchanged. On 2026-09-22 the user reviewed Round 9 and explicitly removed sixteen named exercises without replacement; their historical identities, reviews, media and spending are preserved. The user also requested the display name Plate Loaded Incline Chest Press for the surviving incline machine, then accepted its selected clip.",
+    "authoringPolicy": "Open-source or original content only; names/aliases do not establish identity; supported position/apparatus/contraction variants remain distinct; no media included. Rewritten instructions and all editable defaults are SpotBot editorial adaptations, not claims by the original provider. Range-of-motion drills and stretching recorded under retiredExercises are excluded from active content and future imports. Yoga identities remain available, including poses with overlapping stretching tags. Loaded/bodyweight strength and foam-rolling recovery are retained. Retirements never redirect to a different movement. Grip-only variants are consolidated when a matching base movement exists; preserve equipment, support, position and movement differences. The 40 unusual exercise entries explicitly retired on 2026-09-17 are excluded by product direction; no inferred replacements. On 2026-09-21 the user approved all 176 explicitly ranked form/setup consolidations, including conditional seated/standing, unilateral, support and range cases. Those approved mappings supersede earlier keep-distinct decisions for those pairs; retain standard identities, useful aliases and optional instructions without rewriting historical workout loads or counts. Other equipment/movement distinctions remain individually reviewed. On 2026-09-21 the user approved all 186 rows of the second simplification review: 102 consolidations into their explicitly listed standards and 84 product-scope removals without replacement. These approved choices supersede prior keep-distinct decisions for those rows. Preserve aliases for consolidations only, optional movement/counting distinctions, and original historical workout identities and prescriptions; alternative apparatus must not become simultaneous requirements. On 2026-09-22 the user explicitly removed Finger Curls, Wrist Roller, Barbell Wrist Curl, and Seated Palms-Down Barbell Wrist Curl without replacements. Their former variants remain excluded; remaining dumbbell and cable wrist curls are unchanged. On 2026-09-22 the user reviewed Round 9 and explicitly removed sixteen named exercises without replacement; their historical identities, reviews, media and spending are preserved. The user also requested the display name Plate Loaded Incline Chest Press for the surviving incline machine, then accepted its selected clip. On 2026-09-29 the requested Smith-machine coverage expansion added reviewed apparatus variants, preserving existing Bulgarian-split-squat and stiff-legged/Romanian-hinge identities and all retirements. No automatic Smith counterparts are inferred for Olympic catches, jumps, landmine pivots, rolling bars, torso twists, overhead squats, overhead triceps extensions or pullovers; these are not straightforward guided-bar substitutions. A drag curl and lying skullcrusher have separately authored rail-compatible execution. Front and box squats remain distinct as in the barbell catalog; ordinary grip and stance options are not duplicated. On 2026-09-29 the user explicitly removed Lower Back-SMR following its unresolved Form Guidance audit concern; retain its retirement identity without replacement or reimport.",
     "aliasOmissions": [
       {
         "alias": "Dead Bug",
@@ -97,6 +98,34 @@
         "decision": "keep-distinct",
         "reason": "Compared full current instructions after the approved barbell display-name generalization: the cable exercise defaults to a rope on a low pulley with cable resistance behind the head; the barbell exercise holds and lowers a free straight bar overhead. Their required apparatus, resistance direction, setup and load records differ. This pair was not approved for consolidation. Retain the cable and barbell standards separately.",
         "reviewedAt": "2026-09-21"
+      },
+      {
+        "leftId": "open_decline_smith_press_ab9938f7",
+        "rightId": "open_smith_machine_incline_100af028",
+        "decision": "keep-distinct",
+        "reason": "Decline and incline Smith presses use opposite bench angles; names were standardized, movements remain distinct.",
+        "reviewedAt": "2026-09-29"
+      },
+      {
+        "leftId": "open_smith_machine_squat_37823d7a",
+        "rightId": "cat_smith_box_squat",
+        "decision": "keep-distinct",
+        "reason": "The existing Smith squat, including its feet-forward chair-squat option, has no physical seat. The box squat requires a stable box and a supported braced pause.",
+        "reviewedAt": "2026-09-29"
+      },
+      {
+        "leftId": "cat_smith_deadlift",
+        "rightId": "cat_smith_sumo_deadlift",
+        "decision": "keep-distinct",
+        "reason": "Conventional Smith deadlifts grip outside a hip-width stance; sumo deadlifts use a wide stance and inside-leg grip, matching the separately retained barbell movements.",
+        "reviewedAt": "2026-09-29"
+      },
+      {
+        "leftId": "open_decline_smith_press_ab9938f7",
+        "rightId": "open_smith_machine_bench_p_4ee3a150",
+        "decision": "keep-distinct",
+        "reason": "Decline and flat Smith presses use distinct supported torso angles.",
+        "reviewedAt": "2026-09-29"
       }
     ],
     "retiredExercises": [
@@ -4047,6 +4076,13 @@
         "retiredAt": "2026-09-22",
         "revision": 14,
         "reason": "User explicitly requested removal in a dashboard review, retained in Round 11 planning: remove this exercise from app. No replacement exercise or media approval transfer is implied; historical assets and reviews remain archived. Do not reimport this identity."
+      },
+      {
+        "canonicalId": "open_lower_back_smr_60c1307d",
+        "name": "Lower Back-SMR",
+        "retiredAt": "2026-09-29",
+        "revision": 17,
+        "reason": "User explicitly removed Lower Back-SMR on 2026-09-29 following the unresolved lumbar foam-rolling concern in the Form Guidance audit. No replacement or identity redirect is implied. Preserve historical workouts and saved references; do not reimport this identity."
       }
     ],
     "retiredStarterWorkouts": [
@@ -16486,7 +16522,7 @@
     },
     {
       "id": "open_decline_smith_press_ab9938f7",
-      "name": "Decline Smith Press",
+      "name": "Smith Machine Decline Bench Press",
       "muscle_group": "Chest",
       "movementType": "compound",
       "instructions": [
@@ -16520,7 +16556,8 @@
         "measurementType": "reps",
         "loadBehavior": "required",
         "aliases": [
-          "Smith Machine Decline Press"
+          "Smith Machine Decline Press",
+          "Decline Smith Press"
         ],
         "defaultPrescription": {
           "sets": 2,
@@ -16535,8 +16572,8 @@
           "url": "https://github.com/yuhonas/free-exercise-db"
         },
         "review": {
-          "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
-          "reviewedAt": "2026-09-22"
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
         }
       }
     },
@@ -20200,55 +20237,6 @@
       }
     },
     {
-      "id": "open_lower_back_smr_60c1307d",
-      "name": "Lower Back-SMR",
-      "muscle_group": "Back",
-      "movementType": "other",
-      "instructions": [
-        "In a seated position, place a foam roll under your lower back. Cross your arms in front of you and protract your shoulders. This will be your starting position.",
-        "Raise your hips off of the floor and lean back, keeping your weight on your lower back. Now shift your weight slightly to one side, keeping your weight off of the spine and on the muscles to the side of it. Roll over your lower back, holding points of tension for 10-30 seconds. Repeat on the other side.",
-        "Use the selected duration on each side."
-      ],
-      "metadata": {
-        "schemaVersion": 1,
-        "activities": [
-          "mobility"
-        ],
-        "goals": [
-          "mobility",
-          "general"
-        ],
-        "primaryMuscles": [
-          "lower back"
-        ],
-        "secondaryMuscles": [],
-        "equipment": [
-          "foam roller"
-        ],
-        "difficulty": "beginner",
-        "measurementType": "duration",
-        "loadBehavior": "none",
-        "aliases": [],
-        "defaultPrescription": {
-          "sets": 1,
-          "restSeconds": 15,
-          "durationSeconds": 20
-        },
-        "source": {
-          "name": "free-exercise-db",
-          "id": "Lower_Back-SMR",
-          "revision": "sha256:d68a817484964095e6af0be2cdcbcc2c2504168d1d190c7d5c725ce52f3ae1f4",
-          "license": "Unlicense",
-          "url": "https://github.com/yuhonas/free-exercise-db"
-        },
-        "review": {
-          "method": "AI editorial Form Guidance audit: unresolved floor-based lumbar foam-rolling concern; qualified review or product retirement pending. Not independent trainer or clinical validation.",
-          "reviewedAt": "2026-09-22"
-        },
-        "perSide": true
-      }
-    },
-    {
       "id": "open_lower_back_curl_dd4375a1",
       "name": "Lower Back Curl",
       "muscle_group": "Back",
@@ -23628,7 +23616,11 @@
         "difficulty": "beginner",
         "measurementType": "reps",
         "loadBehavior": "required",
-        "aliases": [],
+        "aliases": [
+          "Smith Machine Romanian Deadlift",
+          "Smith Machine RDL",
+          "Smith RDL"
+        ],
         "defaultPrescription": {
           "sets": 2,
           "restSeconds": 60,
@@ -23642,8 +23634,8 @@
           "url": "https://github.com/yuhonas/free-exercise-db"
         },
         "review": {
-          "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
-          "reviewedAt": "2026-09-22"
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
         }
       }
     },
@@ -23706,7 +23698,7 @@
     },
     {
       "id": "open_smith_single_leg_spli_c8f7e55e",
-      "name": "Smith Single-Leg Split Squat",
+      "name": "Smith Machine Bulgarian Split Squat",
       "muscle_group": "Legs",
       "movementType": "compound",
       "instructions": [
@@ -23740,7 +23732,11 @@
         "difficulty": "intermediate",
         "measurementType": "reps",
         "loadBehavior": "required",
-        "aliases": [],
+        "aliases": [
+          "Smith Single-Leg Split Squat",
+          "Smith Bulgarian Split Squat",
+          "Smith Machine Rear-Foot-Elevated Split Squat"
+        ],
         "defaultPrescription": {
           "sets": 2,
           "restSeconds": 60,
@@ -23754,8 +23750,8 @@
           "url": "https://github.com/yuhonas/free-exercise-db"
         },
         "review": {
-          "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
-          "reviewedAt": "2026-09-22"
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
         },
         "perSide": true
       }
@@ -26771,6 +26767,705 @@
           "reviewedAt": "2026-09-22"
         },
         "perSide": true
+      }
+    },
+    {
+      "id": "cat_smith_front_squat",
+      "name": "Smith Machine Front Squat",
+      "muscle_group": "Legs",
+      "movementType": "compound",
+      "instructions": [
+        "Set the Smith bar just below shoulder height and the safety stops below your controlled squat depth. Support the bar across the front of the shoulders with a secure front-rack or crossed-arm grip; keep the elbows raised and stand to unhook it.",
+        "With both feet planted, bend the hips and knees to lower while keeping the torso upright and knees tracking with the toes.",
+        "Push through the whole foot to stand. Rerack securely before releasing your grip."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "general"
+        ],
+        "primaryMuscles": [
+          "quadriceps"
+        ],
+        "secondaryMuscles": [
+          "glutes",
+          "hamstrings",
+          "calves"
+        ],
+        "equipment": [
+          "smith machine"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Front Squat"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 90,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_deadlift",
+      "name": "Smith Machine Deadlift",
+      "muscle_group": "Legs",
+      "movementType": "compound",
+      "instructions": [
+        "Set the Smith bar at a low reachable height with stops that support a controlled bottom position. Stand close with feet about hip-width, bend the hips and knees, and grip outside the legs. Brace before unhooking the bar.",
+        "Push through the floor and extend the hips and knees together, keeping the bar close and arms straight. Finish upright without leaning back.",
+        "Lower by hinging and bending the knees, settle gently on the stops and reset your brace for each rep. Rerack securely after the set.",
+        "A higher stop position makes this a partial pull; record the start height. Do not force floor depth or use an unstable platform when the machine limits travel."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "general"
+        ],
+        "primaryMuscles": [
+          "glutes"
+        ],
+        "secondaryMuscles": [
+          "hamstrings",
+          "quadriceps",
+          "lower back"
+        ],
+        "equipment": [
+          "smith machine"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Machine Conventional Deadlift",
+          "Smith Machine Rack Pull",
+          "Smith Machine Rack Pulls"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 90,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_sumo_deadlift",
+      "name": "Smith Machine Sumo Deadlift",
+      "muscle_group": "Legs",
+      "movementType": "compound",
+      "instructions": [
+        "Set the Smith bar and stops at a low height you can reach with a steady back. Take a wide stance with toes turned out, knees following the toes and hands gripping inside the legs; leave clearance from the frame.",
+        "Brace, unhook the bar and push through both feet to extend the hips and knees. Keep the chest and hips rising together; finish tall without leaning back.",
+        "Lower under control, settle gently at the starting height and reset before the next rep. Rerack securely after the set; use the machine's available travel rather than forcing floor depth."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "general"
+        ],
+        "primaryMuscles": [
+          "glutes"
+        ],
+        "secondaryMuscles": [
+          "hamstrings",
+          "quadriceps",
+          "lower back"
+        ],
+        "equipment": [
+          "smith machine"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Sumo Deadlift"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 90,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_hip_thrust",
+      "name": "Smith Machine Hip Thrust",
+      "muscle_group": "Legs",
+      "movementType": "isolation",
+      "instructions": [
+        "Secure a bench behind the Smith bar. Support the upper back on the bench, plant both feet and position a padded bar across the hip crease. Set the stops so you can rerack and exit without being pinned.",
+        "Steady the bar with both hands, brace and unhook it. Press through the feet to raise the hips until the trunk and thighs align, keeping the ribs down.",
+        "Lower the hips under control while the upper back stays supported. Rerack the bar securely before moving out from underneath."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "general"
+        ],
+        "primaryMuscles": [
+          "glutes"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "smith machine",
+          "bench"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Hip Thrust"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_glute_bridge",
+      "name": "Smith Machine Glute Bridge",
+      "muscle_group": "Legs",
+      "movementType": "isolation",
+      "instructions": [
+        "Use a Smith machine whose bar travel and catches allow a floor bridge. Lie on your back with knees bent and feet planted, a padded bar over the hip crease, and stops set to keep the bar from pinning you. Confirm you can unhook, rerack and exit before loading.",
+        "Hold the bar securely, brace and unhook it. Lift the hips until the trunk and thighs align while the shoulders stay on the floor; keep the ribs down.",
+        "Lower the hips under control to the floor. After the set, rerack securely before sliding out; do not substitute a bench-supported hip thrust when recording this movement."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "glutes"
+        ],
+        "secondaryMuscles": [
+          "hamstrings"
+        ],
+        "equipment": [
+          "smith machine"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Machine Floor Glute Bridge",
+          "Smith Glute Bridge"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_lunge",
+      "name": "Smith Machine Lunge",
+      "muscle_group": "Legs",
+      "movementType": "compound",
+      "instructions": [
+        "Set a reachable Smith bar height and safety stops. Place the bar across the upper back, grip it securely and unhook it with both feet grounded.",
+        "Keep the front foot planted and step the other foot back. Bend both knees to lower with the front knee tracking its toes and the torso steady.",
+        "Push through the front foot to stand and bring the rear foot back beside it. Complete the target on each leg; rerack before changing the setup.",
+        "For a stationary split squat, keep both feet in the split stance between repetitions, with the rear toes on the floor. Rear-foot-elevated repetitions belong to Smith Machine Bulgarian Split Squat."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "quadriceps"
+        ],
+        "secondaryMuscles": [
+          "calves",
+          "glutes",
+          "hamstrings"
+        ],
+        "equipment": [
+          "smith machine"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Machine Reverse Lunge",
+          "Smith Machine Split Squat",
+          "Smith Machine Stationary Lunge"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 90,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        },
+        "perSide": true
+      }
+    },
+    {
+      "id": "cat_smith_step_up",
+      "name": "Smith Machine Step Up",
+      "muscle_group": "Legs",
+      "movementType": "compound",
+      "instructions": [
+        "Place a low stable box within the Smith machine so the bar can travel freely as you rise. With the bar racked, place one whole foot on the box and position the bar across the upper back. Set reachable catches and stops for this setup; try the path unloaded first.",
+        "Grip securely and unhook the bar. Press through the foot on the box to straighten that leg, using minimal push from the trailing foot.",
+        "Bend the working knee and hip to lower the trailing foot gently to the floor. Keep the working foot planted on the box for the set.",
+        "Complete the target on each leg. Rerack securely before switching legs or moving the box."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "quadriceps"
+        ],
+        "secondaryMuscles": [
+          "calves",
+          "glutes",
+          "hamstrings"
+        ],
+        "equipment": [
+          "smith machine",
+          "box"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Machine Step Ups",
+          "Smith Step Up"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 90,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        },
+        "perSide": true
+      }
+    },
+    {
+      "id": "cat_smith_good_morning",
+      "name": "Smith Machine Good Morning",
+      "muscle_group": "Legs",
+      "movementType": "compound",
+      "instructions": [
+        "Set the Smith bar at reachable upper-back height and stops just below a short controlled hinge. Place the bar across the upper back, grip securely, brace and unhook it with both feet planted.",
+        "Keep a small, steady knee bend as you move the hips back and incline the torso. Choose foot placement that stays balanced along the rail path; stop before the back position changes.",
+        "Extend the hips to return upright without leaning back. Rerack securely after the set. Start light and increase the range only while the hinge stays controlled."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "hamstrings"
+        ],
+        "secondaryMuscles": [
+          "abdominals",
+          "glutes",
+          "lower back"
+        ],
+        "equipment": [
+          "smith machine"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Good Morning"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 90,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_shrug",
+      "name": "Smith Machine Shrug",
+      "muscle_group": "Back",
+      "movementType": "isolation",
+      "instructions": [
+        "Set the Smith bar near mid-thigh and stops just below the starting position. Stand close with the bar in front of the thighs, take an overhand grip and unhook it with arms straight.",
+        "Lift the shoulders toward the ears without bending the elbows, rolling the shoulders or using a leg drive. Pause briefly.",
+        "Lower the shoulders under control and rerack the bar securely after the set."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "general"
+        ],
+        "primaryMuscles": [
+          "traps"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "smith machine"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Machine Shrugs",
+          "Smith Shrug"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_drag_curl",
+      "name": "Smith Machine Drag Curl",
+      "muscle_group": "Arms",
+      "movementType": "isolation",
+      "instructions": [
+        "Set the Smith bar near thigh height with stops below the starting position. Stand close, take a comfortable underhand grip and unhook the bar with a light load.",
+        "Bend the elbows and let them move behind the torso as the bar rises close to the body. Stop at a comfortable height without shrugging or leaning back.",
+        "Lower slowly until the arms are nearly straight, then rerack after the set. Follow the rail path rather than trying to swing the bar forward like a free-bar curl."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "general"
+        ],
+        "primaryMuscles": [
+          "biceps"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "smith machine"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Machine Bicep Curl",
+          "Smith Machine Biceps Curl",
+          "Smith Machine Curl"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_box_squat",
+      "name": "Smith Machine Box Squat",
+      "muscle_group": "Legs",
+      "movementType": "compound",
+      "instructions": [
+        "Place a stable box at a controlled squat depth under the Smith machine. Set a reachable bar height and stops, position the bar across the upper back and unhook it with both feet grounded.",
+        "Bend the hips and knees to sit onto the box under control, keeping the knees tracking the toes. Pause with the trunk braced; do not drop, rock or relax onto the box.",
+        "Push through both feet to stand. Rerack securely after the set and record the box height for consistent comparisons."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "quadriceps"
+        ],
+        "secondaryMuscles": [
+          "adductors",
+          "calves",
+          "glutes",
+          "hamstrings",
+          "lower back"
+        ],
+        "equipment": [
+          "smith machine",
+          "box"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Box Squat"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 90,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_inverted_row",
+      "name": "Smith Machine Inverted Row",
+      "muscle_group": "Back",
+      "movementType": "compound",
+      "instructions": [
+        "Lock the Smith bar at a suitable height and secure it against both rotation and movement, with the safety stops directly underneath. Check the hold before getting below it; the bar stays fixed throughout.",
+        "Grip comfortably outside shoulder-width and position yourself underneath with heels grounded and the body straight. Pull the chest toward the bar without letting the hips sag.",
+        "Lower under control until the arms straighten. A higher bar or bent knees makes the movement easier; step clear before adjusting the bar."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength",
+          "calisthenics"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "middle back"
+        ],
+        "secondaryMuscles": [
+          "lats"
+        ],
+        "equipment": [
+          "bodyweight",
+          "smith machine"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "reps",
+        "loadBehavior": "none",
+        "aliases": [
+          "Smith Inverted Row",
+          "Smith Machine Bodyweight Row"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 90,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
+      }
+    },
+    {
+      "id": "cat_smith_skullcrusher",
+      "name": "Smith Machine Skull Crusher",
+      "muscle_group": "Arms",
+      "movementType": "isolation",
+      "instructions": [
+        "Position a flat bench under the Smith bar and set stops above head level so the bar cannot contact your face. Lie with feet planted and take a comfortable narrow overhand grip. Check a light, controlled range that fits the rail path before adding load.",
+        "Unhook the bar with arms extended. Bend the elbows to lower toward, but not onto, the forehead, allowing the upper arms to adjust enough to follow the rails without straining the elbows.",
+        "Extend the elbows to raise the bar without bouncing or turning the rep into a chest press. Rerack securely before sitting up; stop if the fixed path is uncomfortable."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "strength"
+        ],
+        "goals": [
+          "strength",
+          "hypertrophy",
+          "general"
+        ],
+        "primaryMuscles": [
+          "triceps"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "smith machine",
+          "bench"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "reps",
+        "loadBehavior": "required",
+        "aliases": [
+          "Smith Machine Skullcrushers",
+          "Smith Machine Lying Triceps Extension"
+        ],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 60,
+          "repRange": "8-12"
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.29.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-29"
+        }
       }
     }
   ],
@@ -31305,18 +32000,8 @@
     {
       "sourceId": "Lower_Back-SMR",
       "sourceName": "Lower Back-SMR",
-      "status": "imported",
-      "canonicalId": "open_lower_back_smr_60c1307d",
-      "reason": "Distinct source movement or apparatus/position variant normalized into the local model.",
-      "normalization": {
-        "equipment": [
-          "foam roller"
-        ],
-        "measurementType": "duration",
-        "loadBehavior": "none",
-        "difficulty": "beginner",
-        "doseOrigin": "SpotBot editorial default; editable, not attributed to provider"
-      },
+      "status": "excluded",
+      "reason": "User explicitly removed Lower Back-SMR on 2026-09-29 following the unresolved lumbar foam-rolling concern in the Form Guidance audit. No replacement or identity redirect is implied. Preserve historical workouts and saved references; do not reimport this identity.",
       "sourceRecordSha256": "d1aec34b0b9e541919681f6d675a1741c0ae34f186b968ba4e7ae5c503f00252"
     },
     {
@@ -43977,11 +44662,11 @@
     },
     "open_decline_smith_press_ab9938f7": {
       "decision": "repair",
-      "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
-      "reviewedAt": "2026-09-22",
-      "instructionReview": "Form Guidance audit: Added bench/bar alignment and safety setup missing from the guided-bar instructions; avoided mandatory torso contact.",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Form Guidance audit: Added bench/bar alignment and safety setup missing from the guided-bar instructions; avoided mandatory torso contact. Standardized Smith Machine naming and retained the old display name as a search alias.",
       "evidence": {
-        "identity": "Decline Smith Press; reps execution; smith machine, bench.",
+        "identity": "Smith Machine Decline Bench Press; smith machine, bench.",
         "instructions": "Added bench/bar alignment and safety setup missing from the guided-bar instructions; avoided mandatory torso contact.",
         "equipment": "Required setup: smith machine, bench. Load entry: required.",
         "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
@@ -44001,10 +44686,15 @@
               "reason": "Existing sourced reference evidence: Publisher's exercise title and indexed description identify Decline Smith Press; movement name and available setup cues compared with canonical instructions."
             }
           ]
+        },
+        "smithCoverageReview": {
+          "reviewedAt": "2026-09-29",
+          "decision": "Standardized Smith Machine naming and retained the old display name as a search alias."
         }
       },
       "changes": [
-        "Form Guidance audit: Added bench/bar alignment and safety setup missing from the guided-bar instructions; avoided mandatory torso contact."
+        "Form Guidance audit: Added bench/bar alignment and safety setup missing from the guided-bar instructions; avoided mandatory torso contact.",
+        "Standardized Smith Machine naming and retained the old display name as a search alias."
       ]
     },
     "open_dip_machine_74e49ff5": {
@@ -46365,51 +47055,6 @@
         "Form Guidance audit: Existing supported range and optional hand positions are appropriate; added selected-time wording."
       ]
     },
-    "open_lower_back_smr_60c1307d": {
-      "decision": "repair",
-      "method": "AI editorial Form Guidance audit: unresolved floor-based lumbar foam-rolling concern; qualified review or product retirement pending. Not independent trainer or clinical validation.",
-      "reviewedAt": "2026-09-22",
-      "instructionReview": "Form Guidance audit: The initial seated-to-hips-raised setup loads a floor roller beneath the lumbar region before the later side-of-spine cue. It cannot be marked correct from generic reference-title evidence. NASM cautions against rolling directly over the lumbar spine; ACE advises avoiding direct lower-back foam rolling. Neither validates this body-weight floor setup. A primary RCT used standing wall-supported lumbar rolling to reduce pressure, but that adds wall apparatus and is not proof of universal safety. A substantive supported adaptation or exercise retirement requires the parent audit decision; original text retained here rather than silently changing the exercise.",
-      "evidence": {
-        "identity": "Lower Back-SMR; duration execution; foam roller.",
-        "instructions": "The initial seated-to-hips-raised setup loads a floor roller beneath the lumbar region before the later side-of-spine cue. It cannot be marked correct from generic reference-title evidence. NASM cautions against rolling directly over the lumbar spine; ACE advises avoiding direct lower-back foam rolling. Neither validates this body-weight floor setup. A primary RCT used standing wall-supported lumbar rolling to reduce pressure, but that adds wall apparatus and is not proof of universal safety. A substantive supported adaptation or exercise retirement requires the parent audit decision; original text retained here rather than silently changing the exercise.",
-        "equipment": "Required setup: foam roller. Load entry: none.",
-        "tracking": "20 seconds per side. Count definition and laterality are stated in the instructions or target label.",
-        "anatomy": "Primary: lower back. Supporting: none asserted.",
-        "eligibility": "beginner; activities mobility; goals mobility, general.",
-        "prescription": "1 sets; 20 seconds per side; 15 seconds rest. Editable SpotBot editorial dose.",
-        "formGuidanceAudit": {
-          "assessment": "unresolved",
-          "previousWordCount": 94,
-          "wordCount": 94,
-          "preserved": [
-            "Current identity is lumbar/paraspinal timed foam rolling per side; no silent substitution with glute or thoracic rolling."
-          ],
-          "sources": [
-            {
-              "url": "https://www.youtube.com/watch?v=MnWWDAsEfXk",
-              "reason": "Existing sourced reference evidence: Publisher's exercise title and indexed description identify Lower Back-SMR; movement name and available setup cues compared with canonical instructions."
-            },
-            {
-              "url": "https://www.nasm.org/resource-center/blog/recovery/foam-rolling-and-self-myofascial-release-the-trainer-application-guide",
-              "reason": "Live NASM caution against direct lumbar-spine rolling."
-            },
-            {
-              "url": "https://www.acefitness.org/resources/everyone/blog/5624/foam-rolling-101/",
-              "reason": "Live ACE guidance identifies the lumbar spine as an area to avoid direct rolling."
-            },
-            {
-              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8234052/",
-              "reason": "Primary RCT describes standing wall-supported lower-back rolling specifically to limit excessive pressure, but does not validate current floor setup."
-            }
-          ]
-        }
-      },
-      "changes": [
-        "Clarified the user-facing per-side quantity wording.",
-        "Form Guidance audit found an unresolved lumbar foam-rolling concern; existing movement was not silently replaced."
-      ]
-    },
     "open_lower_back_curl_dd4375a1": {
       "decision": "repair",
       "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
@@ -48640,11 +49285,11 @@
     },
     "open_smith_machine_stiff_l_73127ddd": {
       "decision": "repair",
-      "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
-      "reviewedAt": "2026-09-22",
-      "instructionReview": "Form Guidance audit: Soft, steady knees and a hip hinge distinguish the stiff-legged variant; unlock, comfortable depth and rerack are complete.",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Form Guidance audit: Soft, steady knees and a hip hinge distinguish the stiff-legged variant; unlock, comfortable depth and rerack are complete. Added Romanian-deadlift search aliases to the existing top-down soft-knee hinge, consistent with the barbell catalog consolidation; no duplicate hinge entry.",
       "evidence": {
-        "identity": "Smith Machine Stiff-Legged Deadlift; reps execution; smith machine.",
+        "identity": "Smith Machine Stiff-Legged Deadlift; smith machine.",
         "instructions": "Soft, steady knees and a hip hinge distinguish the stiff-legged variant; unlock, comfortable depth and rerack are complete.",
         "equipment": "Required setup: smith machine. Load entry: required.",
         "tracking": "6–8 repetitions for the complete movement. Count definition and laterality are stated in the instructions or target label.",
@@ -48665,12 +49310,17 @@
               "reason": "Existing publisher evidence supplied with the catalog recommendation corroborates movement identity and apparatus; this audit does not claim new complete-video or trainer review."
             }
           ]
+        },
+        "smithCoverageReview": {
+          "reviewedAt": "2026-09-29",
+          "decision": "Added Romanian-deadlift search aliases to the existing top-down soft-knee hinge, consistent with the barbell catalog consolidation; no duplicate hinge entry."
         }
       },
       "changes": [
         "Corrected instructions.",
         "Corrected overhand grip, unracking and hip hinge.",
-        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags.",
+        "Added Romanian-deadlift search aliases to the existing top-down soft-knee hinge, consistent with the barbell catalog consolidation; no duplicate hinge entry."
       ]
     },
     "open_smith_machine_upright_8cdb2f40": {
@@ -48711,11 +49361,11 @@
     },
     "open_smith_single_leg_spli_c8f7e55e": {
       "decision": "repair",
-      "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
-      "reviewedAt": "2026-09-22",
-      "instructionReview": "Form Guidance audit: Removed duplicated counting wording while preserving rear-foot support, knee tracking, stops and reracking before changing sides.",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Form Guidance audit: Removed duplicated counting wording while preserving rear-foot support, knee tracking, stops and reracking before changing sides. Renamed the existing rear-foot-elevated movement to its expected Bulgarian Split Squat name; preserved its canonical ID, instructions, counting and media.",
       "evidence": {
-        "identity": "Smith Single-Leg Split Squat; reps execution; smith machine, bench.",
+        "identity": "Smith Machine Bulgarian Split Squat; smith machine, bench.",
         "instructions": "Removed duplicated counting wording while preserving rear-foot support, knee tracking, stops and reracking before changing sides.",
         "equipment": "Required setup: smith machine, bench. Load entry: required.",
         "tracking": "6–8 repetitions per side. Count definition and laterality are stated in the instructions or target label.",
@@ -48736,6 +49386,10 @@
               "reason": "Existing publisher evidence supplied with the catalog recommendation corroborates movement identity and apparatus; this audit does not claim new complete-video or trainer review."
             }
           ]
+        },
+        "smithCoverageReview": {
+          "reviewedAt": "2026-09-29",
+          "decision": "Renamed the existing rear-foot-elevated movement to its expected Bulgarian Split Squat name; preserved its canonical ID, instructions, counting and media."
         }
       },
       "changes": [
@@ -48743,7 +49397,8 @@
         "Corrected instructions.",
         "Corrected knee tracking and split-squat eligibility.",
         "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags.",
-        "Form Guidance audit: Removed duplicated counting wording while preserving rear-foot support, knee tracking, stops and reracking before changing sides."
+        "Form Guidance audit: Removed duplicated counting wording while preserving rear-foot support, knee tracking, stops and reracking before changing sides.",
+        "Renamed the existing rear-foot-elevated movement to its expected Bulgarian Split Squat name; preserved its canonical ID, instructions, counting and media."
       ]
     },
     "open_speed_band_overhead_t_4f889ac0": {
@@ -50811,6 +51466,305 @@
       "changes": [
         "Originally authored recovery: First reuse an existing bent-knee side-lying V-up with the same two-leg lift and floor-arm support if present. Otherwise author this explicitly named variant. The empty source does not prove a unique knee angle or one-leg/two-leg form, so do not claim exact source reconstruction or add several invented aliases.",
         "Form Guidance audit: Condensed the simultaneous torso/two-leg side curl without removing bent knees, floor-arm support or per-side counting."
+      ]
+    },
+    "cat_smith_front_squat": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Front-shoulder loading distinguishes this from the existing Smith back squat. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Front Squat",
+        "barbellCounterpartId": "ex_front_squat",
+        "equipment": "Required apparatus: smith machine.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://www.muscleandstrength.com/exercises/smith-machine-front-squat.html",
+            "reason": "Front-shoulder loading distinguishes this from the existing Smith back squat."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_deadlift": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Bent-knee pulls from a supported start are distinct from the existing top-down, soft-knee Smith hinge; partial rack pulls remain an option. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Deadlift",
+        "barbellCounterpartId": "ex_deadlift",
+        "equipment": "Required apparatus: smith machine.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://repfitness.com/blogs/guides/smith-machine-deadlift",
+            "reason": "Bent-knee pulls from a supported start are distinct from the existing top-down, soft-knee Smith hinge; partial rack pulls remain an option."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_sumo_deadlift": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Wide stance and inside-leg grip parallel the separately retained barbell sumo deadlift. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Sumo Deadlift",
+        "barbellCounterpartId": "ex_sumo_deadlift",
+        "equipment": "Required apparatus: smith machine.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://powerliftingtechnique.com/smith-machine-back-workout/sumo-deadlift/",
+            "reason": "Wide stance and inside-leg grip parallel the separately retained barbell sumo deadlift."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_hip_thrust": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Upper back supported on a bench; distinct from the floor-supported glute bridge and the retired feet-on-bar hip raise. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Hip Thrust",
+        "barbellCounterpartId": "ex_hip_thrust",
+        "equipment": "Required apparatus: smith machine, bench.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://repfitness.com/blogs/guides/smith-machine-hip-thrust",
+            "reason": "Upper back supported on a bench; distinct from the floor-supported glute bridge and the retired feet-on-bar hip raise."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_glute_bridge": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Shoulders remain on the floor. Excludes bench-supported hip thrusts sometimes also marketed as glute bridges. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Glute Bridge",
+        "barbellCounterpartId": "open_barbell_glute_bridge_0e7afdbd",
+        "equipment": "Required apparatus: smith machine.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://www.youtube.com/watch?v=TPuwKUch9Lw",
+            "reason": "Shoulders remain on the floor. Excludes bench-supported hip thrusts sometimes also marketed as glute bridges."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_lunge": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Reverse lunges and stationary floor-supported split squats share this entry; the existing Bulgarian version requires rear-foot elevation. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Lunge",
+        "barbellCounterpartId": "open_barbell_lunge_be010510",
+        "equipment": "Required apparatus: smith machine.",
+        "tracking": "Repetitions per side.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://www.strengthlog.com/smith-machine-lunge/",
+            "reason": "Reverse lunges and stationary floor-supported split squats share this entry; the existing Bulgarian version requires rear-foot elevation."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_step_up": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "One-foot box support with guided upper-back loading; per-side count includes the controlled descent. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Step Up",
+        "barbellCounterpartId": "open_barbell_step_ups_78799b06",
+        "equipment": "Required apparatus: smith machine, box.",
+        "tracking": "Repetitions per side.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://www.youtube.com/watch?v=815NigHuI6c",
+            "reason": "One-foot box support with guided upper-back loading; per-side count includes the controlled descent."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_good_morning": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Hip hinge with load across the upper back, distinct from holding the bar in the hands for a Smith deadlift. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Good Morning",
+        "barbellCounterpartId": "open_good_morning_a5c85ff9",
+        "equipment": "Required apparatus: smith machine.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://repfitness.com/blogs/training/smith-machine-good-morning",
+            "reason": "Hip hinge with load across the upper back, distinct from holding the bar in the hands for a Smith deadlift."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_shrug": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Standard bar-in-front shrug; does not restore the explicitly retired behind-the-back Smith shrug. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Shrug",
+        "barbellCounterpartId": "ex_shrugs",
+        "equipment": "Required apparatus: smith machine.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://www.muscleandfitness.com/exercise/workouts/smith-machine-shrug/",
+            "reason": "Standard bar-in-front shrug; does not restore the explicitly retired behind-the-back Smith shrug."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_drag_curl": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "The straight rail path requires a drag curl with rearward elbow travel; not a copied fixed-elbow free-bar curl. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Drag Curl",
+        "barbellCounterpartId": "ex_bicep_curl",
+        "equipment": "Required apparatus: smith machine.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://cdn.muscleandstrength.com/videos/ryan-terry-arm-workout",
+            "reason": "The straight rail path requires a drag curl with rearward elbow travel; not a copied fixed-elbow free-bar curl."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_box_squat": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "An actual box and supported pause distinguish this from the consolidated feet-forward Smith chair-squat stance, which uses no chair. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Box Squat",
+        "barbellCounterpartId": "open_box_squat_bc96e223",
+        "equipment": "Required apparatus: smith machine, box.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://www.muscleandstrength.com/node/3954",
+            "reason": "An actual box and supported pause distinguish this from the consolidated feet-forward Smith chair-squat stance, which uses no chair."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_inverted_row": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Bodyweight row beneath a fixed Smith bar; records Smith apparatus without falsely requiring a separate rack and free barbell. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Inverted Row",
+        "barbellCounterpartId": "open_inverted_row_1ce9a06f",
+        "equipment": "Required apparatus: bodyweight, smith machine.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://www.youtube.com/watch?v=XZV9IwluPjw",
+            "reason": "Bodyweight row beneath a fixed Smith bar; records Smith apparatus without falsely requiring a separate rack and free barbell."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
+      ]
+    },
+    "cat_smith_skullcrusher": {
+      "decision": "add",
+      "method": "AI editorial Smith-machine coverage review: compared existing movements, apparatus, retirements and publisher guidance; original SpotBot instructions and editable defaults. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-29",
+      "instructionReview": "Lying elbow-extension adaptation with an above-head safety stop; distinct from close-grip pressing or bodyweight extensions against a fixed bar. Authored machine-specific setup, movement, controlled return and secure exit guidance.",
+      "evidence": {
+        "identity": "Smith Machine Skull Crusher",
+        "barbellCounterpartId": "ex_skullcrusher",
+        "equipment": "Required apparatus: smith machine, bench.",
+        "tracking": "Repetitions for the complete movement.",
+        "prescription": "Editable SpotBot starting target; not a publisher prescription.",
+        "sources": [
+          {
+            "url": "https://www.strengthlog.com/smith-machine-exercises/",
+            "reason": "Lying elbow-extension adaptation with an above-head safety stop; distinct from close-grip pressing or bodyweight extensions against a fixed bar."
+          }
+        ],
+        "authorship": "Original SpotBot wording informed by movement identity and publisher guidance; no external instructions or media copied."
+      },
+      "changes": [
+        "Added a distinct Smith-machine apparatus variant."
       ]
     }
   },
