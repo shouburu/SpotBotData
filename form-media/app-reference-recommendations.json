@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
-  "catalogVersion": "2026.09.22.4",
-  "catalogRevision": 14,
-  "updatedAt": "2026-09-23T03:16:59.408702+00:00",
+  "catalogVersion": "2026.09.29.2",
+  "catalogRevision": 17,
+  "updatedAt": "2026-09-29T20:53:10.579342+00:00",
   "purpose": "One recommended YouTube video for every active catalog exercise, preserving the six human-approved references and the two explicitly requested Round 11 replacements.",
   "selectionPolicy": "Prefer concise demonstrations from exercise publishers matching the catalog movement and equipment. Use source-verified excerpts for longer instructions. Preserve existing exact-asset human selections. Authoring recommendations do not approve generated assets.",
   "availabilityPolicy": "Every selected URL returned public YouTube oEmbed video metadata. Watch-player availability was additionally checked where recorded; selected ambiguous movements received visual spot checks. This is not exhaustive playback, regional availability or trainer verification. Unavailable embeds retain text and the search action.",
   "counts": {
-    "activeExercises": 427,
-    "references": 427,
+    "activeExercises": 439,
+    "references": 439,
     "humanApprovedReferences": 6,
-    "publicEmbedMetadata": 427
+    "publicEmbedMetadata": 439
   },
   "references": [
     {
@@ -7283,7 +7283,7 @@
       ],
       "reviewedAt": "2026-09-22",
       "reviewer": "Codex",
-      "exerciseName": "Decline Smith Press",
+      "exerciseName": "Smith Machine Decline Bench Press",
       "availability": {
         "videoId": "NI1J6ipqdgo",
         "oembedAvailable": true,
@@ -9315,36 +9315,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_lower_back_smr_60c1307d",
-      "url": "https://www.youtube.com/watch?v=MnWWDAsEfXk",
-      "title": "How to Foam Roll Away Lower Back Pain | Foam Rolling",
-      "source": "Howcast",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=MnWWDAsEfXk",
-          "evidence": "Publisher's exercise title and indexed description identify Lower Back-SMR; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Lower Back-SMR",
-      "availability": {
-        "videoId": "MnWWDAsEfXk",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:01:37.309786+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMnWWDAsEfXk&format=json",
-        "publisherTitle": "How to Foam Roll Away Lower Back Pain | Foam Rolling",
-        "publisherName": "Howcast"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_lower_back_curl_dd4375a1",
       "url": "https://www.youtube.com/watch?v=K7iBRciXigs",
       "title": "How To Do Lower Back Curl | Exercise Demo",
@@ -11215,7 +11185,7 @@
       ],
       "reviewedAt": "2026-09-22",
       "reviewer": "Codex",
-      "exerciseName": "Smith Single-Leg Split Squat",
+      "exerciseName": "Smith Machine Bulgarian Split Squat",
       "availability": {
         "videoId": "wmfPdzqwbIY",
         "oembedAvailable": true,
@@ -12823,6 +12793,373 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHJLE_VQ3Knc&format=json",
         "publisherTitle": "How to Do an Oblique V Up | Ab Workout",
         "publisherName": "Howcast"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_front_squat",
+      "url": "https://www.youtube.com/watch?v=gyYxhh_g7no",
+      "title": "Smith Machine Front Squat | Machine | Strength and Conditioning Exercises",
+      "source": "Rehab My Patient",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=gyYxhh_g7no — Publisher title identifies the Smith-machine movement.",
+        "https://www.muscleandstrength.com/exercises/smith-machine-front-squat.html — Front-shoulder loading distinguishes this from the existing Smith back squat."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Front Squat",
+      "availability": {
+        "videoId": "gyYxhh_g7no",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.449607+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgyYxhh_g7no&format=json",
+        "publisherTitle": "Smith Machine Front Squat | Machine | Strength and Conditioning Exercises",
+        "publisherName": "Rehab My Patient"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_deadlift",
+      "url": "https://www.youtube.com/watch?v=rtYH-SKh0to",
+      "title": "WORKOUT 101 - Smith Machine Deadlift (EXPERT INSTRUCTION)",
+      "source": "JYM Supplement Science",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=rtYH-SKh0to — Publisher title identifies the Smith-machine movement.",
+        "https://repfitness.com/blogs/guides/smith-machine-deadlift — Bent-knee pulls from a supported start are distinct from the existing top-down, soft-knee Smith hinge; partial rack pulls remain an option."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Deadlift",
+      "availability": {
+        "videoId": "rtYH-SKh0to",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.416909+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrtYH-SKh0to&format=json",
+        "publisherTitle": "WORKOUT 101 - Smith Machine Deadlift (EXPERT INSTRUCTION)",
+        "publisherName": "JYM Supplement Science"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_sumo_deadlift",
+      "url": "https://www.youtube.com/watch?v=rEBLlBZJloE",
+      "title": "How to do Sumo Deadlifts on a Smith Machine‼️ - Schaum Fitness",
+      "source": "Chris Schaum",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=rEBLlBZJloE — Publisher title identifies the Smith-machine movement.",
+        "https://powerliftingtechnique.com/smith-machine-back-workout/sumo-deadlift/ — Wide stance and inside-leg grip parallel the separately retained barbell sumo deadlift."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Sumo Deadlift",
+      "availability": {
+        "videoId": "rEBLlBZJloE",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.482090+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrEBLlBZJloE&format=json",
+        "publisherTitle": "How to do Sumo Deadlifts on a Smith Machine‼️ - Schaum Fitness",
+        "publisherName": "Chris Schaum"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_hip_thrust",
+      "url": "https://www.youtube.com/watch?v=SiYiv9lLjdU",
+      "title": "Smith Machine Hip Thrusts: How To",
+      "source": "Hammer Fitness",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=SiYiv9lLjdU — Publisher title identifies the Smith-machine movement.",
+        "https://repfitness.com/blogs/guides/smith-machine-hip-thrust — Upper back supported on a bench; distinct from the floor-supported glute bridge and the retired feet-on-bar hip raise."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Hip Thrust",
+      "availability": {
+        "videoId": "SiYiv9lLjdU",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.454322+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSiYiv9lLjdU&format=json",
+        "publisherTitle": "Smith Machine Hip Thrusts: How To",
+        "publisherName": "Hammer Fitness"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_glute_bridge",
+      "url": "https://www.youtube.com/watch?v=TPuwKUch9Lw",
+      "title": "Weighted Smith Machine Glute Bridge",
+      "source": "Jeremy Reid",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=TPuwKUch9Lw — Publisher title identifies the Smith-machine movement.",
+        "https://www.youtube.com/watch?v=TPuwKUch9Lw — Shoulders remain on the floor. Excludes bench-supported hip thrusts sometimes also marketed as glute bridges.",
+        "Browser visual spot check at 0:04 confirmed shoulders supported on the floor beneath the Smith bar, rather than a bench-supported hip thrust. The watch player loaded and displayed 0:47 duration."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Glute Bridge",
+      "availability": {
+        "videoId": "TPuwKUch9Lw",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.432674+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTPuwKUch9Lw&format=json",
+        "publisherTitle": "Weighted Smith Machine Glute Bridge",
+        "publisherName": "Jeremy Reid"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted.",
+      "durationSeconds": 47
+    },
+    {
+      "exerciseId": "cat_smith_lunge",
+      "url": "https://www.youtube.com/watch?v=SRJWDaHqJII",
+      "title": "Smith Machine Reverse Lunge: How To",
+      "source": "Hammer Fitness",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=SRJWDaHqJII — Publisher title identifies the Smith-machine movement.",
+        "https://www.strengthlog.com/smith-machine-lunge/ — Reverse lunges and stationary floor-supported split squats share this entry; the existing Bulgarian version requires rear-foot elevation."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Lunge",
+      "availability": {
+        "videoId": "SRJWDaHqJII",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.516844+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSRJWDaHqJII&format=json",
+        "publisherTitle": "Smith Machine Reverse Lunge: How To",
+        "publisherName": "Hammer Fitness"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_step_up",
+      "url": "https://www.youtube.com/watch?v=815NigHuI6c",
+      "title": "Shannon Petralito Smith Machine Step Ups",
+      "source": "Shannon Petralito Fit",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=815NigHuI6c — Publisher title identifies the Smith-machine movement.",
+        "https://www.youtube.com/watch?v=815NigHuI6c — One-foot box support with guided upper-back loading; per-side count includes the controlled descent."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Step Up",
+      "availability": {
+        "videoId": "815NigHuI6c",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.577593+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D815NigHuI6c&format=json",
+        "publisherTitle": "Shannon Petralito Smith Machine Step Ups",
+        "publisherName": "Shannon Petralito Fit "
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_good_morning",
+      "url": "https://www.youtube.com/watch?v=MgZ5Nm2fKLA",
+      "title": "Smith Machine Good Morning",
+      "source": "nutritioneering",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=MgZ5Nm2fKLA — Publisher title identifies the Smith-machine movement.",
+        "https://repfitness.com/blogs/training/smith-machine-good-morning — Hip hinge with load across the upper back, distinct from holding the bar in the hands for a Smith deadlift."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Good Morning",
+      "availability": {
+        "videoId": "MgZ5Nm2fKLA",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.605892+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMgZ5Nm2fKLA&format=json",
+        "publisherTitle": "Smith Machine Good Morning",
+        "publisherName": "nutritioneering"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_shrug",
+      "url": "https://www.youtube.com/watch?v=XsSCc8HbYfg",
+      "title": "How To Do Smith Machine Shrug | Exercise Demo",
+      "source": "OriGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=XsSCc8HbYfg — Publisher title identifies the Smith-machine movement.",
+        "https://www.muscleandfitness.com/exercise/workouts/smith-machine-shrug/ — Standard bar-in-front shrug; does not restore the explicitly retired behind-the-back Smith shrug."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Shrug",
+      "availability": {
+        "videoId": "XsSCc8HbYfg",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.614979+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXsSCc8HbYfg&format=json",
+        "publisherTitle": "How To Do Smith Machine Shrug | Exercise Demo",
+        "publisherName": "OriGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_drag_curl",
+      "url": "https://www.youtube.com/watch?v=YPqp1LxV9lY",
+      "title": "How to: Smith Machine Drag Curl",
+      "source": "Andreos Canavati",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=YPqp1LxV9lY — Publisher title identifies the Smith-machine movement.",
+        "https://cdn.muscleandstrength.com/videos/ryan-terry-arm-workout — The straight rail path requires a drag curl with rearward elbow travel; not a copied fixed-elbow free-bar curl."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Drag Curl",
+      "availability": {
+        "videoId": "YPqp1LxV9lY",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.617980+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYPqp1LxV9lY&format=json",
+        "publisherTitle": "How to: Smith Machine Drag Curl",
+        "publisherName": "Andreos Canavati"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_box_squat",
+      "url": "https://www.youtube.com/watch?v=QVfZLm4os5A",
+      "title": "Sentadilla a Cajón en Multipower  I Explicación Completa I Sergio Tejeda",
+      "source": "Sergio Tejeda",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=QVfZLm4os5A — Publisher title identifies the Smith-machine movement.",
+        "https://www.muscleandstrength.com/node/3954 — An actual box and supported pause distinguish this from the consolidated feet-forward Smith chair-squat stance, which uses no chair."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Box Squat",
+      "availability": {
+        "videoId": "QVfZLm4os5A",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.626581+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DQVfZLm4os5A&format=json",
+        "publisherTitle": "Sentadilla a Cajón en Multipower  I Explicación Completa I Sergio Tejeda",
+        "publisherName": "Sergio Tejeda"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted.",
+      "note": "Spanish-language demonstration of the Smith machine box squat."
+    },
+    {
+      "exerciseId": "cat_smith_inverted_row",
+      "url": "https://www.youtube.com/watch?v=XZV9IwluPjw",
+      "title": "How To: Smith Machine- Inverted Row",
+      "source": "ScottHermanFitness",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=XZV9IwluPjw — Publisher title identifies the Smith-machine movement.",
+        "https://www.youtube.com/watch?v=XZV9IwluPjw — Bodyweight row beneath a fixed Smith bar; records Smith apparatus without falsely requiring a separate rack and free barbell."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Inverted Row",
+      "availability": {
+        "videoId": "XZV9IwluPjw",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.651240+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXZV9IwluPjw&format=json",
+        "publisherTitle": "How To: Smith Machine- Inverted Row",
+        "publisherName": "ScottHermanFitness"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_smith_skullcrusher",
+      "url": "https://www.youtube.com/watch?v=jiaaCNw83-I",
+      "title": "How to do smith machine skull crushers",
+      "source": "Medina Health and Fitness",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=jiaaCNw83-I — Publisher title identifies the Smith-machine movement.",
+        "https://www.strengthlog.com/smith-machine-exercises/ — Lying elbow-extension adaptation with an above-head safety stop; distinct from close-grip pressing or bodyweight extensions against a fixed bar."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-09-29T18:04:06.455367+00:00",
+      "reviewer": "Codex",
+      "exerciseName": "Smith Machine Skull Crusher",
+      "availability": {
+        "videoId": "jiaaCNw83-I",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-29T18:03:15.736824+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjiaaCNw83-I&format=json",
+        "publisherTitle": "How to do smith machine skull crushers",
+        "publisherName": "Medina Health and Fitness"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     }
