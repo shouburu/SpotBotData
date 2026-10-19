@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_pil_single_leg_kick-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_single_leg_kick-start-6496a7d3.json"
+    },
+    {
+      "shot": "r13-open_glute_kickback_ca0b85d2-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_glute_kickback_ca0b85d2-start-52e6edf4.json"
+    },
+    {
+      "shot": "r13-cat_band_pallof_press-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pallof_press-start-bdae5287.json"
+    },
+    {
+      "shot": "r13-open_leg_lift_7bf3c8b4-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_leg_lift_7bf3c8b4-start-de8d0e40.json"
+    },
+    {
+      "shot": "r13-open_bench_press_with_band_61b84557-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_bench_press_with_band_61b84557-start-dfd29696.json"
+    },
+    {
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_skull_crusher_d4b2fbd2-start-aa821c5f.json"
+    }
+  ]
+}

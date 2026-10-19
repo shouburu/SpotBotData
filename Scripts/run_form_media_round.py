@@ -53,10 +53,10 @@ def main():
     candidates.append(j)
   if not candidates:
    print(json.dumps({'status':'awaiting-editorial-or-final-single-job','eligibleJobs':[j['shot'] for j in candidates]}),flush=True);return
-  # Give untouched exercises their first trial before repeatedly revisiting
-  # earlier corrections. Stable ordering retains catalog priority within a tier.
+  # Animate reviewed poses before producing more free references. Within each
+  # kind, give untouched exercises their first trial before earlier corrections.
   attempt_counts={j['shot']:sum(f.counts_toward_shot_limit(a) for a in records['attempts'] if a['shot']==j['shot']) for j in candidates}
-  candidates.sort(key=lambda j:attempt_counts[j['shot']])
+  candidates.sort(key=lambda j:(0 if j['kind']=='video' else 1,attempt_counts[j['shot']]))
   quote_settings=lambda j:('text-video' if j.get('videoMode')=='t2v' else j['kind'],j['aspect'],j.get('duration') or 8,j['model'])
   # Keep the first eligible job's priority, then fill its workers with matching
   # settings where possible. Each exact settings cohort needs a fresh visible
@@ -66,7 +66,7 @@ def main():
   matching=[j for j in candidates if quote_settings(j)==first_settings and attempt_counts[j['shot']]==first_count]
   matching_shots={j['shot'] for j in matching}
   others=[j for j in candidates if j['shot'] not in matching_shots]
-  candidates=(matching+others)[:min(4,len(m['generationWorkers']))]
+  candidates=(matching+others)[:min(6,len(m['generationWorkers']))]
   quotes={settings:observe(*settings)[1] for settings in dict.fromkeys(quote_settings(j) for j in candidates)};members=[]
   for j in candidates:
    quote=quotes[quote_settings(j)]

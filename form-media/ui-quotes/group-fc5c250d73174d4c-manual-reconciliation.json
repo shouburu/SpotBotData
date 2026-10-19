@@ -1,0 +1,104 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 2921,
+  "visibleBalanceText": "2,921 Google Flow credits",
+  "observedAt": "2026-10-09T22:55:37.779933+00:00",
+  "outputRecoveryEvidence": {
+    "path": "reports/round-13/missing-source-recovery-diagnosis.json",
+    "sha256": "5801618366c6be3d791fb7916184b6be1023bd6b5221f200124f5119c384584d"
+  },
+  "groupId": "group_fc5c250d73174d4c",
+  "reconciliationType": "manual-zero-credit-accounting-with-two-unrecoverable-sources",
+  "unknownProviderOutcomes": [
+    {
+      "attemptId": "attempt_c9dcb03da16942ef",
+      "exerciseId": "cat_cal_scapular_pullup",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_c9dcb03da16942ef/stdout.json",
+        "sha256": "e8454df2d8d9b41dca1c44d93a4e2a67a7b2f9b9d18b38e434058ac4cd291c93"
+      },
+      "providerOutcome": "unknown",
+      "countedSourceAttempts": 1
+    },
+    {
+      "attemptId": "attempt_8da104b00fd1416c",
+      "exerciseId": "cat_cal_foot_assisted_pullup",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_8da104b00fd1416c/stdout.json",
+        "sha256": "49a39b19a9a682669f3859cac94e564a9ee592b955fc943299bee67d20dd43fe"
+      },
+      "providerOutcome": "unknown",
+      "countedSourceAttempts": 1
+    }
+  ],
+  "successfulPeerMasters": [
+    {
+      "attemptId": "attempt_166dfc5b33f4488c",
+      "exerciseId": "open_front_squats_with_two_04034125",
+      "path": "form-media/assets/masters/r13-open_front_squats_with_two_04034125-start/attempt_166dfc5b33f4488c.jpg",
+      "sha256": "292ff0279151016e61624a02e40a329cde352d4859b3b3dfed0788562af7fec4"
+    },
+    {
+      "attemptId": "attempt_8b6fa1d185544baa",
+      "exerciseId": "ex_tricep_dip",
+      "path": "form-media/assets/masters/r13-ex_tricep_dip-start/attempt_8b6fa1d185544baa.jpg",
+      "sha256": "0ef654c0dc27e1fd3c47a1d2cf222d471fed8dc3433e93d95d8756d6e7600455"
+    },
+    {
+      "attemptId": "attempt_08f94501e0584baf",
+      "exerciseId": "ex_chin_up",
+      "path": "form-media/assets/masters/r13-ex_chin_up-start/attempt_08f94501e0584baf.jpg",
+      "sha256": "69b7410c8b1e7b39c3dfe85e8ebe525b737a8c0883f64242f4048edcce95de4c"
+    },
+    {
+      "attemptId": "attempt_f7a3b8e211974786",
+      "exerciseId": "cat_pil_seated_knee_extension",
+      "path": "form-media/assets/masters/r13-cat_pil_seated_knee_extension-start/attempt_f7a3b8e211974786.jpg",
+      "sha256": "adf1d6dc1565818b3db290ce8a7b0a618502eae4eb5835fa115c8a328d11e4a7"
+    }
+  ],
+  "frozenZeroQuoteProofs": [
+    {
+      "attemptId": "attempt_c9dcb03da16942ef",
+      "path": "form-media/ui-quotes/r13-cat_cal_scapular_pullup-start-497b6b7e.json",
+      "sha256": "69e1a5c68897e4230675915c87ed82df3b882fabbc5c45a328d7ebfb8893a6c3",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_166dfc5b33f4488c",
+      "path": "form-media/ui-quotes/r13-open_front_squats_with_two_04034125-start-b577c710.json",
+      "sha256": "d8ad359cae21de49ac702c19721a0bd20340909dff69f8a7e76697081300606a",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_8b6fa1d185544baa",
+      "path": "form-media/ui-quotes/r13-ex_tricep_dip-start-20a1550d.json",
+      "sha256": "abc7bac0da9807a58833518ef267823b1b7b1cb6feb211be274243955dabbcaa",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_8da104b00fd1416c",
+      "path": "form-media/ui-quotes/r13-cat_cal_foot_assisted_pullup-start-790f7816.json",
+      "sha256": "2c8ae158e62dc2de995da8d2d39dfcb097e6225e10153363473ac12e1cffca32",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_08f94501e0584baf",
+      "path": "form-media/ui-quotes/r13-ex_chin_up-start-86e414d5.json",
+      "sha256": "2e5aac4e723ca23b4402c35726b671e20d1b869a89f78cb55bff52d1733a78da",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_f7a3b8e211974786",
+      "path": "form-media/ui-quotes/r13-cat_pil_seated_knee_extension-start-88fba8e3.json",
+      "sha256": "082ad007f0eff393d756b099f17482ed62447ceda27af0a71bef8f086cecb2f8",
+      "credits": 0
+    }
+  ],
+  "scope": "Billing only: six exact zero-credit quotes and unchanged aggregate visible balance. Four exact downloaded masters may complete. Two local parsing/retrieval failures retain unknown provider outcomes; no provider-terminal failure or non-submission is inferred.",
+  "retryPolicy": "Both unknown source attempts remain counted. Source and dependent motion are held without resubmission, even though the four-attempt quality cap is not exhausted. No automatic settlement guard is changed."
+}

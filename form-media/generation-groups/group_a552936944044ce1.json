@@ -1,0 +1,114 @@
+{
+  "id": "group_a552936944044ce1",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T20:18:44+00:00",
+  "balanceBefore": 3525,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_smith_deadlift",
+      "shot": "r12-smith-deadlift-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "4b04c39c0115586a3f99845d6ba5691b6a168f93bc2b913c5fbf634f7ec4a551",
+      "quoteFile": "form-media/ui-quotes/r12-smith-deadlift-start-7d6f4c4f.json",
+      "quoteSha256": "7c5081d464c0bab0211e76acbe169a7de3b1fe2ebe5702a6d72c1d8f0446c944",
+      "quoteCredits": 0,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-deadlift-start/attempt_2c428c9ed2394265.jpg",
+          "sha256": "9146e3bf91f8541e409267b767bd2b252b1ccfe2093fff8ae481c79a90e58de3"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_sumo_deadlift",
+      "shot": "r12-smith-sumo-deadlift-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "8007962f211ecc8d02c3d6e4ab428b5a619bfbe48eeb7c8de085d6ed79ac999b",
+      "quoteFile": "form-media/ui-quotes/r12-smith-sumo-deadlift-start-b9d81943.json",
+      "quoteSha256": "78ec015b258ff72ffd4909b407ac4b457365b6c23515b0b73ab2a59f0fda9e3d",
+      "quoteCredits": 0,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-sumo-deadlift-start/attempt_f7654b2d98b64d19.jpg",
+          "sha256": "a1ea2cecfd6f138e627fe57bc128b2646a565c8eda9493386af2c7fcfb70c860"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_good_morning",
+      "shot": "r12-smith-good-morning-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "2ab0dc939cc6f62a0186e2d762b7fd8c26f8aa417e5defeefaddf347f359d609",
+      "quoteFile": "form-media/ui-quotes/r12-smith-good-morning-start-a7dff368.json",
+      "quoteSha256": "c3db02348770186921b2acd32b50158fde7baed159cf587cd9ccf932e24a431f",
+      "quoteCredits": 0,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-good-morning-start/attempt_661ed82a5a7443db.jpg",
+          "sha256": "445ca1080c13390e89d140612f3aaff8f33f697bdc3e634615bbbb09d9927247"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_hip_thrust",
+      "shot": "r12-smith-hip-thrust-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "54855c8a6b72a78a4d5d51dd855b8da0575cecc6bae58b434936c18c54866c30",
+      "quoteFile": "form-media/ui-quotes/r12-smith-hip-thrust-start-fc5483d4.json",
+      "quoteSha256": "c46fd2c575e4016ddc9802604df32aa62c0811da17b0ccb494bdd3e686b72729",
+      "quoteCredits": 0,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-hip-thrust-start/attempt_da1f762ef2e44bb0.jpg",
+          "sha256": "ff74001b15963fa767a56298a4bddde8eb7e7477f80586b66310ff34b9b65203"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_seated_single_db_press",
+      "shot": "r12-seated-single-db-press-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "c71760448bd4b449f3241b1a03aab1d068c2897d620bbf98bd65c4ae7105b3c6",
+      "quoteFile": "form-media/ui-quotes/r12-seated-single-db-press-start-c0760930.json",
+      "quoteSha256": "971467c4d4ba723e4cf56f084287f1dfa40642229734c194d80c26f47944de2f",
+      "quoteCredits": 0,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-seated-single-db-press-start/attempt_585fb14e5e3f47bb.jpg",
+          "sha256": "aa35b222c08d5955d44b3efba5b5174dceb145cd220dc4d6c0676734ca5cb610"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_single_cable_fly",
+      "shot": "r12-single-cable-fly-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "fa030a202654853dd0912dabab62e05a328f0e3588611a941f600fb5e7c49e93",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-fly-start-8f3bc412.json",
+      "quoteSha256": "7c5668b124e24765043fe7330ecde186457df834d25c3473e913875d0cf1b012",
+      "quoteCredits": 0,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-single-cable-fly-start/attempt_68c7981eccb742a1.jpg",
+          "sha256": "c1f3d0fa9e06baf53a809a41417f0395b5424ecb483642841682ee856ed5783d"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T20:20:21+00:00",
+  "balanceAfter": 3525,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-20380f678d954c74.json",
+  "evidenceSha256": "57cc70021ade8880805ca141e2867f8d77f54e519837c1c8605f8c44b053478a",
+  "terminalFailureIds": []
+}

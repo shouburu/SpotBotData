@@ -1,0 +1,16 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_cond_mountain_climber-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_mountain_climber-video-09df9b38.json"
+    },
+    {
+      "shot": "r13-open_ball_leg_curl_68242a59-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_ball_leg_curl_68242a59-video-65843294.json"
+    },
+    {
+      "shot": "r13-open_leg_pull_in_5e6cf513-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_leg_pull_in_5e6cf513-video-c83e6b10.json"
+    }
+  ]
+}

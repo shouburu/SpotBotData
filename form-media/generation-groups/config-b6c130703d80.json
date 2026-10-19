@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-assisted_dip-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-assisted_dip-t2v-ccc4b861.json"
+    },
+    {
+      "shot": "r12-lever_lat_pulldown-start",
+      "quoteFile": "form-media/ui-quotes/r12-lever_lat_pulldown-start-0470626d.json"
+    },
+    {
+      "shot": "r12-single-cable-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-curl-start-085a579b.json"
+    },
+    {
+      "shot": "r12-lying-cable-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-lying-cable-curl-start-38a7f65b.json"
+    }
+  ]
+}

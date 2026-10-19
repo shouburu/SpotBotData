@@ -1,0 +1,2262 @@
+{
+  "schemaVersion": 1,
+  "appliedAt": "2026-10-16T03:10:23+00:00",
+  "authorization": "User confirmed the last review was saved and requested processing all reviews and removing exercises marked for removal.",
+  "previousCatalogVersion": "2026.10.15.1",
+  "previousCatalogRevision": 21,
+  "catalogVersion": "2026.10.15.2",
+  "catalogRevision": 22,
+  "previousCatalogSha256": "84bc6fd72ec9c8f90bfb1d46dd8580d62fbbc4640c8bbe7d7fd63b8330389781",
+  "previousManifestSha256": "a54bf6b54804f043823af85e2150b74bdb17feeac91ccb8b085e4c5e5076f5cf",
+  "ledgerSha256": "a7f349d761866e1c0bae7f3dbd95abf589071da6916f2b2a0ffffacdcc06432e",
+  "budgetBefore": {
+    "limit": 10000,
+    "reserved": 0,
+    "spent": 9839,
+    "remaining": 161,
+    "lifetimeSpent": 14411,
+    "historicalSpent": 4572,
+    "periodId": "google-flow-2026-09-21",
+    "periodStartedAt": "2026-09-21T19:37:27+00:00",
+    "unresolvedAttemptCount": 0
+  },
+  "removedWithoutReplacement": [
+    "cat_card_standing_ham_curl",
+    "cat_cond_quick_feet"
+  ],
+  "retirementReasons": {
+    "cat_cond_quick_feet": "User explicitly requested removal in the saved Round 14 review: remove this exercise entirely Product scope decision; no replacement or identity redirect. Preserve saved workouts/history; do not reimport this identity.",
+    "cat_card_standing_ham_curl": "User explicitly requested removal in the saved Round 14 review: remove this exercise entirely Product scope decision; no replacement or identity redirect. Preserve saved workouts/history; do not reimport this identity."
+  },
+  "catalogExercises": {
+    "cat_card_standing_ham_curl": {
+      "id": "cat_card_standing_ham_curl",
+      "name": "Standing Alternating Hamstring Curl",
+      "muscle_group": "Full Body",
+      "movementType": "other",
+      "instructions": [
+        "Stand with the feet about hip width apart and the torso upright.",
+        "Bend one knee to bring the heel gently toward the back of the thigh, then lower and change legs.",
+        "Continue alternating without hopping for the selected time. Keep the knees pointing toward the floor and the pace comfortable."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "cardio",
+          "conditioning"
+        ],
+        "goals": [
+          "endurance",
+          "general"
+        ],
+        "primaryMuscles": [
+          "cardiovascular system"
+        ],
+        "secondaryMuscles": [
+          "hamstrings"
+        ],
+        "equipment": [
+          "bodyweight"
+        ],
+        "difficulty": "beginner",
+        "measurementType": "duration",
+        "loadBehavior": "none",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 2,
+          "restSeconds": 30,
+          "durationSeconds": 30
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "id": "cat_card_standing_ham_curl",
+          "revision": "2026.09.3",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-22"
+        }
+      }
+    },
+    "cat_cond_quick_feet": {
+      "id": "cat_cond_quick_feet",
+      "name": "Quick Feet in Place",
+      "muscle_group": "Legs",
+      "movementType": "other",
+      "instructions": [
+        "Stand with knees softly bent and take small quick steps in place.",
+        "Keep the feet low and the trunk controlled, slowing down whenever the steps become heavy."
+      ],
+      "metadata": {
+        "schemaVersion": 1,
+        "activities": [
+          "conditioning",
+          "cardio"
+        ],
+        "goals": [
+          "endurance",
+          "athleticism",
+          "weight-loss",
+          "general"
+        ],
+        "primaryMuscles": [
+          "calves"
+        ],
+        "secondaryMuscles": [],
+        "equipment": [
+          "bodyweight"
+        ],
+        "difficulty": "intermediate",
+        "measurementType": "duration",
+        "loadBehavior": "none",
+        "aliases": [],
+        "defaultPrescription": {
+          "sets": 3,
+          "restSeconds": 45,
+          "durationSeconds": 30
+        },
+        "source": {
+          "name": "SpotBot original exercise guidance",
+          "revision": "2026.09.1",
+          "license": "SpotBot original content"
+        },
+        "review": {
+          "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
+          "reviewedAt": "2026-09-22"
+        }
+      }
+    }
+  },
+  "catalogReviews": {
+    "cat_card_standing_ham_curl": {
+      "decision": "add",
+      "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-22",
+      "instructionReview": "Form Guidance audit: The timed alternating heel curls remain grounded rather than a jumping butt-kick drill.",
+      "evidence": {
+        "identity": "Standing Alternating Hamstring Curl; duration execution; bodyweight.",
+        "instructions": "The timed alternating heel curls remain grounded rather than a jumping butt-kick drill.",
+        "equipment": "Required setup: bodyweight. Load entry: none.",
+        "tracking": "30 seconds for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: cardiovascular system. Supporting: hamstrings.",
+        "eligibility": "beginner; activities cardio, conditioning; goals endurance, general.",
+        "prescription": "2 sets; 30 seconds for the complete movement; 30 seconds rest. Editable SpotBot editorial dose.",
+        "formGuidanceAudit": {
+          "assessment": "consistent",
+          "previousWordCount": 50,
+          "wordCount": 50,
+          "preserved": [
+            "Canonical setup: bodyweight.",
+            "Existing tracking: duration total/bilateral as defined in guidance; prescription metadata unchanged."
+          ],
+          "sources": [
+            {
+              "url": "https://www.youtube.com/watch?v=oMW59TKZvaI",
+              "reason": "Existing publisher evidence supplied with the catalog recommendation corroborates movement identity and apparatus; this audit does not claim new complete-video or trainer review."
+            }
+          ]
+        }
+      },
+      "changes": [
+        "Original movement added to close a documented beginner or equipment coverage gap."
+      ]
+    },
+    "cat_cond_quick_feet": {
+      "decision": "repair",
+      "method": "AI editorial Form Guidance audit: movement/setup, full sequence, controlled range, counting and retained options checked; concise wording applied where useful. Not independent trainer or clinical validation.",
+      "reviewedAt": "2026-09-22",
+      "instructionReview": "Form Guidance audit: Low quick steps rather than high knee lifts correctly describe this timed conditioning activity.",
+      "evidence": {
+        "identity": "Quick Feet in Place; duration execution; bodyweight.",
+        "instructions": "Low quick steps rather than high knee lifts correctly describe this timed conditioning activity.",
+        "equipment": "Required setup: bodyweight. Load entry: none.",
+        "tracking": "30 seconds for the complete movement. Count definition and laterality are stated in the instructions or target label.",
+        "anatomy": "Primary: calves. Supporting: none asserted.",
+        "eligibility": "intermediate; activities conditioning, cardio; goals endurance, athleticism, weight-loss, general.",
+        "prescription": "3 sets; 30 seconds for the complete movement; 45 seconds rest. Editable SpotBot editorial dose.",
+        "formGuidanceAudit": {
+          "assessment": "consistent",
+          "previousWordCount": 27,
+          "wordCount": 27,
+          "preserved": [
+            "Default apparatus: bodyweight.",
+            "One total duration target, not a separate target per limb."
+          ],
+          "sources": [
+            {
+              "url": "https://www.youtube.com/watch?v=tnR_6qtYSho",
+              "reason": "Existing sourced reference evidence: Publisher identifies exercise demonstration rather than lateral dance-step version."
+            }
+          ]
+        }
+      },
+      "changes": [
+        "Corrected metadata.activities: Quick feet remains fast low stepping, not high-knee march; intermediate timed conditioning with cardio overlap.",
+        "Normalized the broad muscle group; detailed anatomy remains in primary/secondary muscle tags."
+      ]
+    }
+  },
+  "mediaDecisions": {
+    "cat_card_standing_ham_curl": {
+      "teachingFormat": "animation",
+      "rationale": "The name and instructions indicate a small repeatable movement; an authored diagram may explain direction and return without a generated video.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise entirely ",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewedAt": "2026-10-16T02:45:26+00:00",
+      "reviewRoundId": "round-14",
+      "reviewedAssetIds": [
+        "r13-cat_card_standing_ham_curl-video-31d230e4"
+      ]
+    },
+    "cat_cond_quick_feet": {
+      "teachingFormat": "video",
+      "rationale": "Several joints, limbs or equipment contacts move together; a short locked-camera repetition is a candidate, subject to review against simpler media.",
+      "priority": 2,
+      "recommendationStatus": "pilot-reviewed",
+      "reviewStatus": "rejected",
+      "pilot": true,
+      "selectedAssetIds": [],
+      "notes": "remove this exercise entirely ",
+      "productionStatus": "ready-for-review",
+      "productionNote": "Exact-output AI-screened candidate delivered; human decision remains yours.",
+      "reviewedAt": "2026-10-16T02:41:26+00:00",
+      "reviewRoundId": "round-14",
+      "reviewedAssetIds": [
+        "r13-cat_cond_quick_feet-video-6ec3b7c0"
+      ]
+    }
+  },
+  "sourceDecisions": [],
+  "duplicateCandidateReviews": [],
+  "retiredYouTubeRecommendations": [
+    {
+      "exerciseId": "cat_cond_quick_feet",
+      "url": "https://www.youtube.com/watch?v=tnR_6qtYSho",
+      "title": "How To Do 'Quick Feet' Exercise",
+      "source": "Higher Purpose Fitness",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        {
+          "url": "https://www.youtube.com/watch?v=tnR_6qtYSho",
+          "evidence": "Publisher identifies exercise demonstration rather than lateral dance-step version."
+        }
+      ],
+      "limitations": [
+        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
+      ],
+      "reviewedAt": "2026-09-22",
+      "reviewer": "Codex",
+      "exerciseName": "Quick Feet in Place",
+      "availability": {
+        "videoId": "tnR_6qtYSho",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-23T03:08:20.221862+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtnR_6qtYSho&format=json",
+        "publisherTitle": "How To Do 'Quick Feet' Exercise",
+        "publisherName": "Higher Purpose Fitness"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_card_standing_ham_curl",
+      "url": "https://www.youtube.com/watch?v=oMW59TKZvaI",
+      "title": "How to Butt-Kick with Proper Form",
+      "source": "Get Healthy U - with Chris Freytag",
+      "orientation": "landscape",
+      "note": "Use the slow, low-impact version with one foot grounded; skip the jogging progression.",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=oMW59TKZvaI — Description explicitly starts with alternate knee bends bringing heels toward buttocks, slowly and with low impact, before faster progressions."
+      ],
+      "limitations": [
+        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
+      ],
+      "reviewedAt": "2026-09-22",
+      "reviewer": "Codex",
+      "exerciseName": "Standing Alternating Hamstring Curl",
+      "availability": {
+        "videoId": "oMW59TKZvaI",
+        "oembedAvailable": true,
+        "checkedAt": "2026-09-23T03:02:52.712132+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoMW59TKZvaI&format=json",
+        "publisherTitle": "How to Butt-Kick with Proper Form",
+        "publisherName": "Get Healthy U - with Chris Freytag"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    }
+  ],
+  "processedReviews": [
+    {
+      "id": "review_029481441d8948ff",
+      "exerciseId": "cat_var_bb_preacher_curl",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-bb_preacher_curl-t2v-283fd63d"
+      ],
+      "createdAt": "2026-10-16T02:31:36+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-bb_preacher_curl-t2v-283fd63d",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-bb_preacher_curl-t2v-283fd63d"
+      ]
+    },
+    {
+      "id": "review_1ea7d0d6b76c406e",
+      "exerciseId": "cat_var_bb_spider_curl",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-bb-spider-curl-t2v-a3ded74e"
+      ],
+      "createdAt": "2026-10-16T02:31:46+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-bb-spider-curl-t2v-a3ded74e",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-bb-spider-curl-t2v-a3ded74e"
+      ]
+    },
+    {
+      "id": "review_357adeb1486b43c6",
+      "exerciseId": "cat_var_cable_preacher_curl",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-cable_preacher_curl-t2v-1f7fd453"
+      ],
+      "createdAt": "2026-10-16T02:31:55+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-cable_preacher_curl-t2v-1f7fd453",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-cable_preacher_curl-t2v-1f7fd453"
+      ]
+    },
+    {
+      "id": "review_075b70f973c54e36",
+      "exerciseId": "cat_var_rope_hammer_curl",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-rope-hammer-first-cycle-603368a2"
+      ],
+      "createdAt": "2026-10-16T02:32:05+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-rope-hammer-first-cycle-603368a2",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-rope-hammer-first-cycle-603368a2"
+      ]
+    },
+    {
+      "id": "review_9f7e7169c3994a4d",
+      "exerciseId": "cat_var_decline_crunch",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-decline-crunch-t2v-63c25360"
+      ],
+      "createdAt": "2026-10-16T02:32:14+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-decline-crunch-t2v-63c25360",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-decline-crunch-t2v-63c25360"
+      ]
+    },
+    {
+      "id": "review_c976d05e23bf4874",
+      "exerciseId": "cat_var_decline_ez_triceps",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-decline_ez_triceps-t2v-3c1af402"
+      ],
+      "createdAt": "2026-10-16T02:32:25+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-decline_ez_triceps-t2v-3c1af402",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-decline_ez_triceps-t2v-3c1af402"
+      ]
+    },
+    {
+      "id": "review_30694e05f4ab454f",
+      "exerciseId": "cat_var_db_floor_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-db-floor-press-first-cycle-d7df1bde"
+      ],
+      "createdAt": "2026-10-16T02:32:36+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-db-floor-press-first-cycle-d7df1bde",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-db-floor-press-first-cycle-d7df1bde"
+      ]
+    },
+    {
+      "id": "review_1391491c1bae4ccf",
+      "exerciseId": "cat_var_db_hammer_curl",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-db_hammer_curl-t2v-fb3ea329"
+      ],
+      "createdAt": "2026-10-16T02:32:48+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-db_hammer_curl-t2v-fb3ea329",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-db_hammer_curl-t2v-fb3ea329"
+      ]
+    },
+    {
+      "id": "review_7bcb553e909444c2",
+      "exerciseId": "cat_var_ball_crunch",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-ball-crunch-t2v-dbffb94a"
+      ],
+      "createdAt": "2026-10-16T02:32:57+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-ball-crunch-t2v-dbffb94a",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-ball-crunch-t2v-dbffb94a"
+      ]
+    },
+    {
+      "id": "review_fb65709bf75a419a",
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-flat-db-rear-fly-t2v-f75d7e80"
+      ],
+      "createdAt": "2026-10-16T02:33:07+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-flat-db-rear-fly-t2v-f75d7e80",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-flat-db-rear-fly-t2v-f75d7e80"
+      ]
+    },
+    {
+      "id": "review_6acf6580102e4572",
+      "exerciseId": "cat_var_incline_cable_chest",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-incline-cable-chest-t2v-8670a4bd"
+      ],
+      "createdAt": "2026-10-16T02:33:21+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-incline-cable-chest-t2v-8670a4bd",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-incline-cable-chest-t2v-8670a4bd"
+      ]
+    },
+    {
+      "id": "review_c6daea7aecb94482",
+      "exerciseId": "cat_var_incline_db_lateral",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-incline-db-lateral-t2v-fc077ae5"
+      ],
+      "createdAt": "2026-10-16T02:33:34+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-incline-db-lateral-t2v-fc077ae5",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-incline-db-lateral-t2v-fc077ae5"
+      ]
+    },
+    {
+      "id": "review_5e4d9bcbb9dc46f1",
+      "exerciseId": "cat_var_machine_high_row",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-machine-high-row-i2v-cycle-e28484d9"
+      ],
+      "createdAt": "2026-10-16T02:33:44+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-machine-high-row-i2v-cycle-e28484d9",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-machine-high-row-i2v-cycle-e28484d9"
+      ]
+    },
+    {
+      "id": "review_9f5f1c6cb76c47d7",
+      "exerciseId": "cat_var_machine_back_extension",
+      "roundId": "round-14",
+      "reviewStatus": "rejected",
+      "notes": "",
+      "selectedAssetIds": [],
+      "createdAt": "2026-10-16T02:33:55+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [],
+      "reviewedAssetIds": [
+        "r12-machine-back-extension-first-cycle-89879f6a"
+      ]
+    },
+    {
+      "id": "review_4d0a58a82e504e00",
+      "exerciseId": "cat_var_assisted_dip",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-assisted-dip-first-cycle-84e3f3fa"
+      ],
+      "createdAt": "2026-10-16T02:34:14+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-assisted-dip-first-cycle-84e3f3fa",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-assisted-dip-first-cycle-84e3f3fa"
+      ]
+    },
+    {
+      "id": "review_0873b432fc884eaa",
+      "exerciseId": "cat_var_high_cable_curl",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-high_cable_curl-t2v-2c415c45"
+      ],
+      "createdAt": "2026-10-16T02:34:50+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-high_cable_curl-t2v-2c415c45",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-high_cable_curl-t2v-2c415c45"
+      ]
+    },
+    {
+      "id": "review_ba0da2388bd34acc",
+      "exerciseId": "cat_var_seated_bb_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-seated-bb-press-t2v-ac5e4d07"
+      ],
+      "createdAt": "2026-10-16T02:35:02+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-seated-bb-press-t2v-ac5e4d07",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-seated-bb-press-t2v-ac5e4d07"
+      ]
+    },
+    {
+      "id": "review_aab3b2ddbed94203",
+      "exerciseId": "cat_var_seated_db_rear_fly",
+      "roundId": "round-14",
+      "reviewStatus": "rejected",
+      "notes": "weird positioning and dumbells go through bench",
+      "selectedAssetIds": [],
+      "createdAt": "2026-10-16T02:35:34+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [],
+      "reviewedAssetIds": [
+        "r12-seated-db-rear-fly-t2v-ad9267f6"
+      ]
+    },
+    {
+      "id": "review_e9f1027fd8144a94",
+      "exerciseId": "cat_var_seated_cable_crunch",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-seated-cable-crunch-i2v-cycle-d9728643"
+      ],
+      "createdAt": "2026-10-16T02:36:07+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-seated-cable-crunch-i2v-cycle-d9728643",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-seated-cable-crunch-i2v-cycle-d9728643"
+      ]
+    },
+    {
+      "id": "review_e3e4ee712bd84ad3",
+      "exerciseId": "cat_var_seated_cable_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-seated-cable-press-i2v-cycle-3463af47"
+      ],
+      "createdAt": "2026-10-16T02:36:15+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-seated-cable-press-i2v-cycle-3463af47",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-seated-cable-press-i2v-cycle-3463af47"
+      ]
+    },
+    {
+      "id": "review_b16c5676992a4ae3",
+      "exerciseId": "cat_var_seated_db_curl",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-seated-db-curl-t2v-dea8f569"
+      ],
+      "createdAt": "2026-10-16T02:36:33+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-seated-db-curl-t2v-dea8f569",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-seated-db-curl-t2v-dea8f569"
+      ]
+    },
+    {
+      "id": "review_2bb3c267ea174963",
+      "exerciseId": "cat_var_seated_db_lateral",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-seated-db-lateral-t2v-ab0503ce"
+      ],
+      "createdAt": "2026-10-16T02:36:44+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-seated-db-lateral-t2v-ab0503ce",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-seated-db-lateral-t2v-ab0503ce"
+      ]
+    },
+    {
+      "id": "review_2c10933ae39045d4",
+      "exerciseId": "cat_var_seated_db_triceps",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-seated-db-triceps-first-cycle-ad1d2e46"
+      ],
+      "createdAt": "2026-10-16T02:36:58+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-seated-db-triceps-first-cycle-ad1d2e46",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-seated-db-triceps-first-cycle-ad1d2e46"
+      ]
+    },
+    {
+      "id": "review_04c6f1692b344943",
+      "exerciseId": "cat_var_seated_db_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-seated-db-press-t2v-601acd58"
+      ],
+      "createdAt": "2026-10-16T02:37:07+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-seated-db-press-t2v-601acd58",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-seated-db-press-t2v-601acd58"
+      ]
+    },
+    {
+      "id": "review_f44893461b3d4ef8",
+      "exerciseId": "cat_var_seated_leg_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-seated-leg-press-t2v-73c76a80"
+      ],
+      "createdAt": "2026-10-16T02:37:19+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-seated-leg-press-t2v-73c76a80",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-seated-leg-press-t2v-73c76a80"
+      ]
+    },
+    {
+      "id": "review_bae44e164aae4d6a",
+      "exerciseId": "cat_var_seated_single_db_triceps",
+      "roundId": "round-14",
+      "reviewStatus": "rejected",
+      "notes": "",
+      "selectedAssetIds": [],
+      "createdAt": "2026-10-16T02:37:32+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [],
+      "reviewedAssetIds": [
+        "r12-seated-single-db-triceps-i2v-cycle-db298236"
+      ]
+    },
+    {
+      "id": "review_44f477ba8fec487e",
+      "exerciseId": "cat_var_seated_single_db_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-seated-single-db-press-t2v-73fff9bd"
+      ],
+      "createdAt": "2026-10-16T02:37:44+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-seated-single-db-press-t2v-73fff9bd",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-seated-single-db-press-t2v-73fff9bd"
+      ]
+    },
+    {
+      "id": "review_2dddd55fe6be436a",
+      "exerciseId": "cat_var_single_leg_extension",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-single-leg-extension-i2v-cycle-a7a540be"
+      ],
+      "createdAt": "2026-10-16T02:39:02+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "accepted",
+        "notes": "",
+        "selectedAssetIds": [
+          "r12-single-leg-extension-i2v-cycle-a7a540be"
+        ],
+        "reviewedAt": "2026-10-16T02:38:14+00:00",
+        "reviewRoundId": "round-14",
+        "reviewedAssetIds": [
+          "r12-single-leg-extension-i2v-cycle-a7a540be"
+        ]
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-single-leg-extension-i2v-cycle-a7a540be",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-single-leg-extension-i2v-cycle-a7a540be"
+      ]
+    },
+    {
+      "id": "review_6d811dac285b4511",
+      "exerciseId": "cat_var_single_leg_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-single-leg-press-i2v-cycle-a5e8ba50"
+      ],
+      "createdAt": "2026-10-16T02:39:15+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-single-leg-press-i2v-cycle-a5e8ba50",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-single-leg-press-i2v-cycle-a5e8ba50"
+      ]
+    },
+    {
+      "id": "review_1a79b557a59648d9",
+      "exerciseId": "cat_smith_box_squat",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-smith-box-squat-video-fcbe7fb8"
+      ],
+      "createdAt": "2026-10-16T02:39:24+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-smith-box-squat-video-fcbe7fb8",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-smith-box-squat-video-fcbe7fb8"
+      ]
+    },
+    {
+      "id": "review_ea866d3d645641be",
+      "exerciseId": "cat_smith_front_squat",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-smith-front-squat-i2v-cycle-5decde99"
+      ],
+      "createdAt": "2026-10-16T02:39:42+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-smith-front-squat-i2v-cycle-5decde99",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-smith-front-squat-i2v-cycle-5decde99"
+      ]
+    },
+    {
+      "id": "review_4fe3e6acf906436b",
+      "exerciseId": "cat_smith_lunge",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-smith-lunge-i2v-cycle-ad82d731"
+      ],
+      "createdAt": "2026-10-16T02:39:55+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-smith-lunge-i2v-cycle-ad82d731",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-smith-lunge-i2v-cycle-ad82d731"
+      ]
+    },
+    {
+      "id": "review_3da52823ee1f4058",
+      "exerciseId": "cat_var_standing_db_rear_fly",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-standing-db-rear-fly-t2v-6b2728d8"
+      ],
+      "createdAt": "2026-10-16T02:40:03+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-standing-db-rear-fly-t2v-6b2728d8",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-standing-db-rear-fly-t2v-6b2728d8"
+      ]
+    },
+    {
+      "id": "review_eaaa688b241841d1",
+      "exerciseId": "cat_var_standing_cable_crunch",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-standing-cable-crunch-t2v-4cb0b2d2"
+      ],
+      "createdAt": "2026-10-16T02:40:13+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-standing-cable-crunch-t2v-4cb0b2d2",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-standing-cable-crunch-t2v-4cb0b2d2"
+      ]
+    },
+    {
+      "id": "review_2483ee8b8fd94fbc",
+      "exerciseId": "cat_var_single_db_triceps",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-single-db-triceps-t2v-f22d1a79"
+      ],
+      "createdAt": "2026-10-16T02:40:30+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-single-db-triceps-t2v-f22d1a79",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-single-db-triceps-t2v-f22d1a79"
+      ]
+    },
+    {
+      "id": "review_80d4802a7be94971",
+      "exerciseId": "cat_var_single_db_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-single-db-press-i2v-cycle-afa0b029"
+      ],
+      "createdAt": "2026-10-16T02:40:37+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-single-db-press-i2v-cycle-afa0b029",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-single-db-press-i2v-cycle-afa0b029"
+      ]
+    },
+    {
+      "id": "review_b2b20a6c7ca045d8",
+      "exerciseId": "cat_var_standing_smith_press",
+      "roundId": "round-14",
+      "reviewStatus": "rejected",
+      "notes": "hands should rotate during rep",
+      "selectedAssetIds": [],
+      "createdAt": "2026-10-16T02:41:01+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [],
+      "reviewedAssetIds": [
+        "r12-standing-smith-press-t2v-2ea47b6a"
+      ]
+    },
+    {
+      "id": "review_978f12264b5f479c",
+      "exerciseId": "cat_cond_quick_feet",
+      "roundId": "round-14",
+      "reviewStatus": "rejected",
+      "notes": "remove this exercise entirely ",
+      "selectedAssetIds": [],
+      "createdAt": "2026-10-16T02:41:26+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [],
+      "reviewedAssetIds": [
+        "r13-cat_cond_quick_feet-video-6ec3b7c0"
+      ]
+    },
+    {
+      "id": "review_8c66f47427914bf2",
+      "exerciseId": "cat_card_recreational_skating",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-cat_card_recreational_skating-video-83e97191"
+      ],
+      "createdAt": "2026-10-16T02:41:36+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-cat_card_recreational_skating-video-83e97191",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-cat_card_recreational_skating-video-83e97191"
+      ]
+    },
+    {
+      "id": "review_0eb87400037645ac",
+      "exerciseId": "cat_band_curl",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-cat_band_curl-video-ac1eb92c"
+      ],
+      "createdAt": "2026-10-16T02:41:46+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-cat_band_curl-video-ac1eb92c",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-cat_band_curl-video-ac1eb92c"
+      ]
+    },
+    {
+      "id": "review_7b83f4410b1545c9",
+      "exerciseId": "cat_band_lateral_raise",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-cat_band_lateral_raise-video-04f3ed48-first-cycle"
+      ],
+      "createdAt": "2026-10-16T02:42:00+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-cat_band_lateral_raise-video-04f3ed48-first-cycle",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-cat_band_lateral_raise-video-04f3ed48-first-cycle"
+      ]
+    },
+    {
+      "id": "review_0debefcb76d64e4e",
+      "exerciseId": "cat_band_ohead_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-cat_band_ohead_press-video-3537bb26"
+      ],
+      "createdAt": "2026-10-16T02:42:11+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-cat_band_ohead_press-video-3537bb26",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-cat_band_ohead_press-video-3537bb26"
+      ]
+    },
+    {
+      "id": "review_166717c1fa864f8a",
+      "exerciseId": "cat_band_pallof_press",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-cat_band_pallof_press-video-cf9d6594"
+      ],
+      "createdAt": "2026-10-16T02:42:26+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-cat_band_pallof_press-video-cf9d6594",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-cat_band_pallof_press-video-cf9d6594"
+      ]
+    },
+    {
+      "id": "review_b299f60821554de5",
+      "exerciseId": "cat_band_romanian_deadlift",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle"
+      ],
+      "createdAt": "2026-10-16T02:42:53+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle"
+      ]
+    },
+    {
+      "id": "review_e4bad583fc214280",
+      "exerciseId": "open_reverse_crunch_533db487",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_reverse_crunch_533db487-video-c23a9368"
+      ],
+      "createdAt": "2026-10-16T02:43:06+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_reverse_crunch_533db487-video-c23a9368",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_reverse_crunch_533db487-video-c23a9368"
+      ]
+    },
+    {
+      "id": "review_2f5a86045709482a",
+      "exerciseId": "open_scissor_kick_0399c7e5",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_scissor_kick_0399c7e5-video-53e89b4a"
+      ],
+      "createdAt": "2026-10-16T02:43:17+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_scissor_kick_0399c7e5-video-53e89b4a",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_scissor_kick_0399c7e5-video-53e89b4a"
+      ]
+    },
+    {
+      "id": "review_587eeaaa07274fdf",
+      "exerciseId": "open_seated_band_hamstring_7487455a",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_seated_band_hamstring_7487455a-video-7ac1c0ef"
+      ],
+      "createdAt": "2026-10-16T02:43:34+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_seated_band_hamstring_7487455a-video-7ac1c0ef",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_seated_band_hamstring_7487455a-video-7ac1c0ef"
+      ]
+    },
+    {
+      "id": "review_d6aba6dc90334b63",
+      "exerciseId": "open_single_leg_butt_kick_379cdc31",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_single_leg_butt_kick_379cdc31-video-4178c961"
+      ],
+      "createdAt": "2026-10-16T02:43:50+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_single_leg_butt_kick_379cdc31-video-4178c961",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_single_leg_butt_kick_379cdc31-video-4178c961"
+      ]
+    },
+    {
+      "id": "review_03d76880551248e1",
+      "exerciseId": "open_single_cone_sprint_dr_5ca190ca",
+      "roundId": "round-14",
+      "reviewStatus": "rejected",
+      "notes": "no video for this exercises",
+      "selectedAssetIds": [],
+      "createdAt": "2026-10-16T02:44:13+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [],
+      "reviewedAssetIds": [
+        "r13-open_single_cone_sprint_dr_5ca190ca-video-93542537"
+      ]
+    },
+    {
+      "id": "review_51ba2e6ed07c421f",
+      "exerciseId": "open_sit_up_4e39cf08",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-sit-up-60e0bd8d-complete-partial-cycle"
+      ],
+      "createdAt": "2026-10-16T02:44:21+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-sit-up-60e0bd8d-complete-partial-cycle",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-sit-up-60e0bd8d-complete-partial-cycle"
+      ]
+    },
+    {
+      "id": "review_eccfc33d9f9a452d",
+      "exerciseId": "open_split_jump_4d120fdd",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_split_jump_4d120fdd-video-33729549"
+      ],
+      "createdAt": "2026-10-16T02:45:16+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_split_jump_4d120fdd-video-33729549",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_split_jump_4d120fdd-video-33729549"
+      ]
+    },
+    {
+      "id": "review_d27b061e9eae4890",
+      "exerciseId": "cat_card_standing_ham_curl",
+      "roundId": "round-14",
+      "reviewStatus": "rejected",
+      "notes": "remove this exercise entirely ",
+      "selectedAssetIds": [],
+      "createdAt": "2026-10-16T02:45:26+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [],
+      "reviewedAssetIds": [
+        "r13-cat_card_standing_ham_curl-video-31d230e4"
+      ]
+    },
+    {
+      "id": "review_b81fe60d903641e5",
+      "exerciseId": "open_standing_long_jump_f080bf3c",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_standing_long_jump_f080bf3c-video-f0a16244"
+      ],
+      "createdAt": "2026-10-16T02:45:35+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_standing_long_jump_f080bf3c-video-f0a16244",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_standing_long_jump_f080bf3c-video-f0a16244"
+      ]
+    },
+    {
+      "id": "review_3c71cbcb84fe416b",
+      "exerciseId": "open_star_jump_c78a518b",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_star_jump_c78a518b-video-57191611"
+      ],
+      "createdAt": "2026-10-16T02:45:48+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_star_jump_c78a518b-video-57191611",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_star_jump_c78a518b-video-57191611"
+      ]
+    },
+    {
+      "id": "review_6dc59a86d9794dc2",
+      "exerciseId": "cat_card_step_mill",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-cat_card_step_mill-video-77210ee3"
+      ],
+      "createdAt": "2026-10-16T02:45:58+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-cat_card_step_mill-video-77210ee3",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-cat_card_step_mill-video-77210ee3"
+      ]
+    },
+    {
+      "id": "review_29144dd62d3d4a65",
+      "exerciseId": "open_superman_27d5233d",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_superman_27d5233d-video-25f6831c"
+      ],
+      "createdAt": "2026-10-16T02:46:05+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_superman_27d5233d-video-25f6831c",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_superman_27d5233d-video-25f6831c"
+      ]
+    },
+    {
+      "id": "review_874e3080034e4cf5",
+      "exerciseId": "open_knee_hip_raise_on_par_3b7a0c25",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_knee_hip_raise_on_par_3b7a0c25-video-9e8f5e13"
+      ],
+      "createdAt": "2026-10-16T02:46:17+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_knee_hip_raise_on_par_3b7a0c25-video-9e8f5e13",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_knee_hip_raise_on_par_3b7a0c25-video-9e8f5e13"
+      ]
+    },
+    {
+      "id": "review_3f6d7d179c8e4dcd",
+      "exerciseId": "open_suspended_reverse_cru_87b7b4f2",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_suspended_reverse_cru_87b7b4f2-video-7a452b15"
+      ],
+      "createdAt": "2026-10-16T02:46:36+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_suspended_reverse_cru_87b7b4f2-video-7a452b15",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_suspended_reverse_cru_87b7b4f2-video-7a452b15"
+      ]
+    },
+    {
+      "id": "review_958a975eb6494ac9",
+      "exerciseId": "cat_cal_inverted_row",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-cat_cal_inverted_row-video-60968dfa"
+      ],
+      "createdAt": "2026-10-16T02:46:45+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-cat_cal_inverted_row-video-60968dfa",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-cat_cal_inverted_row-video-60968dfa"
+      ]
+    },
+    {
+      "id": "review_a187aca488b142d1",
+      "exerciseId": "open_two_arm_kettlebell_mi_01904129",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_two_arm_kettlebell_mi_01904129-video-dd4f58fa"
+      ],
+      "createdAt": "2026-10-16T02:47:08+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_two_arm_kettlebell_mi_01904129-video-dd4f58fa",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_two_arm_kettlebell_mi_01904129-video-dd4f58fa"
+      ]
+    },
+    {
+      "id": "review_3908edf22c2b4b05",
+      "exerciseId": "open_upright_row_with_band_c3eb96e4",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-upright-row-band-0c7ca300-complete-first-cycle"
+      ],
+      "createdAt": "2026-10-16T02:47:19+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-upright-row-band-0c7ca300-complete-first-cycle",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-upright-row-band-0c7ca300-complete-first-cycle"
+      ]
+    },
+    {
+      "id": "review_6fff52f3caa5472b",
+      "exerciseId": "open_alternating_renegade__318e9981",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_alternating_renegade__318e9981-video-d7e1e081"
+      ],
+      "createdAt": "2026-10-16T02:47:32+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_alternating_renegade__318e9981-video-d7e1e081",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_alternating_renegade__318e9981-video-d7e1e081"
+      ]
+    },
+    {
+      "id": "review_c7a54524e191479a",
+      "exerciseId": "open_backward_drag_25c303d9",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_backward_drag_25c303d9-video-6313bb0d-single-step"
+      ],
+      "createdAt": "2026-10-16T02:47:44+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_backward_drag_25c303d9-video-6313bb0d-single-step",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_backward_drag_25c303d9-video-6313bb0d-single-step"
+      ]
+    },
+    {
+      "id": "review_df4f5a0faf914f30",
+      "exerciseId": "open_sled_drag_harness_cf49f109",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_sled_drag_harness_cf49f109-video-00a64f49"
+      ],
+      "createdAt": "2026-10-16T02:47:55+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_sled_drag_harness_cf49f109-video-00a64f49",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_sled_drag_harness_cf49f109-video-00a64f49"
+      ]
+    },
+    {
+      "id": "review_add48db196d14fac",
+      "exerciseId": "open_kettlebell_dead_clean_60e2d3ef",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_kettlebell_dead_clean_60e2d3ef-video-181b225b"
+      ],
+      "createdAt": "2026-10-16T02:48:09+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_kettlebell_dead_clean_60e2d3ef-video-181b225b",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_kettlebell_dead_clean_60e2d3ef-video-181b225b"
+      ]
+    },
+    {
+      "id": "review_682017dcf6284c92",
+      "exerciseId": "open_one_arm_overhead_kett_d62c6265",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_one_arm_overhead_kett_d62c6265-video-5b4fbceb-first-cycle"
+      ],
+      "createdAt": "2026-10-16T02:48:30+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_one_arm_overhead_kett_d62c6265-video-5b4fbceb-first-cycle",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_one_arm_overhead_kett_d62c6265-video-5b4fbceb-first-cycle"
+      ]
+    },
+    {
+      "id": "review_362871a499474a36",
+      "exerciseId": "open_ring_dips_c8cfcf7b",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-open_ring_dips_c8cfcf7b-video-e918f6ae"
+      ],
+      "createdAt": "2026-10-16T02:48:37+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_ring_dips_c8cfcf7b-video-e918f6ae",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_ring_dips_c8cfcf7b-video-e918f6ae"
+      ]
+    },
+    {
+      "id": "review_551bd1e4b73944d8",
+      "exerciseId": "cat_kb_single_arm_swing",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-cat_kb_single_arm_swing-video-2272780b"
+      ],
+      "createdAt": "2026-10-16T02:48:50+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-cat_kb_single_arm_swing-video-2272780b",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-cat_kb_single_arm_swing-video-2272780b"
+      ]
+    },
+    {
+      "id": "review_9b73199c9c494305",
+      "exerciseId": "open_two_arm_kettlebell_cl_b79d9f7d",
+      "roundId": "round-14",
+      "reviewStatus": "rejected",
+      "notes": "not sure why zoomed out and hes on the left",
+      "selectedAssetIds": [
+        "r13-open_two_arm_kettlebell_cl_b79d9f7d-video-7fae33bc"
+      ],
+      "createdAt": "2026-10-16T02:49:24+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "accepted",
+        "notes": "",
+        "selectedAssetIds": [
+          "r13-open_two_arm_kettlebell_cl_b79d9f7d-video-7fae33bc"
+        ],
+        "reviewedAt": "2026-10-16T02:49:10+00:00",
+        "reviewRoundId": "round-14",
+        "reviewedAssetIds": [
+          "r13-open_two_arm_kettlebell_cl_b79d9f7d-video-7fae33bc"
+        ]
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-open_two_arm_kettlebell_cl_b79d9f7d-video-7fae33bc",
+          "roundId": "round-13",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-open_two_arm_kettlebell_cl_b79d9f7d-video-7fae33bc"
+      ]
+    },
+    {
+      "id": "review_b2e186d1100e4619",
+      "exerciseId": "ex_back_extension",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r13-ex_back_extension-video-76dff856"
+      ],
+      "createdAt": "2026-10-16T02:49:37+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "needs-review",
+        "notes": "",
+        "selectedAssetIds": [
+          "r13-ex_back_extension-video-76dff856"
+        ],
+        "reviewedAt": "2026-10-16T01:53:45+00:00",
+        "reviewRoundId": "round-13",
+        "reviewedAssetIds": [
+          "r13-ex_back_extension-start-768b5bad",
+          "r13-ex_back_extension-video-76dff856"
+        ]
+      },
+      "assetReviews": [
+        {
+          "assetId": "r13-ex_back_extension-video-76dff856",
+          "roundId": "round-13",
+          "reviewStatusBefore": "needs-review",
+          "reviewStatusAfter": "needs-review"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r13-ex_back_extension-start-768b5bad",
+        "r13-ex_back_extension-video-76dff856"
+      ]
+    },
+    {
+      "id": "review_4ca3864f8c154b13",
+      "exerciseId": "cat_var_single_cable_curl",
+      "roundId": "round-14",
+      "reviewStatus": "accepted",
+      "notes": "",
+      "selectedAssetIds": [
+        "r12-single-cable-curl-i2v-cycle-0d5dc096"
+      ],
+      "createdAt": "2026-10-16T03:08:21+00:00",
+      "source": "dashboard",
+      "previous": {
+        "reviewStatus": "pending",
+        "notes": "",
+        "selectedAssetIds": []
+      },
+      "assetReviews": [
+        {
+          "assetId": "r12-single-cable-curl-i2v-cycle-0d5dc096",
+          "roundId": "round-12",
+          "reviewStatusBefore": "pending",
+          "reviewStatusAfter": "pending"
+        }
+      ],
+      "reviewedAssetIds": [
+        "r12-single-cable-curl-i2v-cycle-0d5dc096"
+      ]
+    }
+  ],
+  "reviewCounts": {
+    "accepted": 63,
+    "rejected": 8
+  },
+  "retainedCorrectionExerciseIds": [
+    "cat_var_machine_back_extension",
+    "cat_var_seated_db_rear_fly",
+    "cat_var_seated_single_db_triceps",
+    "cat_var_standing_smith_press",
+    "open_single_cone_sprint_dr_5ca190ca",
+    "open_two_arm_kettlebell_cl_b79d9f7d"
+  ],
+  "retiredStarterWorkouts": [],
+  "policy": "Preserve all review history, original asset generation rounds, prompts, binaries, credit history, and saved workout identities. No generation or cloud publication."
+}

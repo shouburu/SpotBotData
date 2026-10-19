@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_band_pallof_press-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pallof_press-video-b1a53926.json"
+    },
+    {
+      "shot": "r13-cat_band_lateral_raise-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_lateral_raise-video-3aac8278.json"
+    },
+    {
+      "shot": "r13-ex_back_extension-video",
+      "quoteFile": "form-media/ui-quotes/r13-ex_back_extension-video-7a71182d.json"
+    },
+    {
+      "shot": "r13-ex_leg_raise-video",
+      "quoteFile": "form-media/ui-quotes/r13-ex_leg_raise-video-d823797b.json"
+    }
+  ]
+}

@@ -25,7 +25,11 @@ def export(app_root: Path):
     ids = [reference["exerciseId"] for reference in references]
     if len(ids) != len(set(ids)):
         raise ValueError("Duplicate YouTube recommendations for a canonical exercise.")
-    missing, retired = active - set(ids), set(ids) - active
+    text_only = document.get("textOnlyExerciseIds", [])
+    if (len(text_only) != len(set(text_only)) or not set(text_only).issubset(active)
+            or set(text_only) & set(ids)):
+        raise ValueError("Text-only exceptions must be unique active exercises without a video recommendation.")
+    missing, retired = active - set(ids) - set(text_only), set(ids) - active
     if missing or retired:
         raise ValueError(f"Recommendation coverage differs from the active catalog: missing={sorted(missing)}, inactive={sorted(retired)}")
     output = {}
@@ -68,7 +72,7 @@ def export(app_root: Path):
               "import type { ExerciseFormReference } from './exerciseFormReferences';\n\n"
               "export const exerciseYouTubeRecommendations: Record<string, ExerciseFormReference> = ")
     destination.write_text(header + json.dumps(dict(sorted(output.items())), indent=2, ensure_ascii=False) + ";\n")
-    print(f"Exported YouTube recommendations for all {len(output)} active exercises to {destination}")
+    print(f"Exported {len(output)} YouTube recommendations; {len(text_only)} explicitly text-only exercises; {destination}")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,114 @@
+{
+  "id": "group_62c3b3b58d344c60",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:31:50+00:00",
+  "balanceBefore": 2013,
+  "quotedCredits": 60,
+  "members": [
+    {
+      "exerciseId": "open_leg_lift_7bf3c8b4",
+      "shot": "r13-open_leg_lift_7bf3c8b4-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "ccad0ae81648ff738b007dcc6158f8bf9ed93731cfe7cf896cd1dcdb5115fd58",
+      "quoteFile": "form-media/ui-quotes/r13-open_leg_lift_7bf3c8b4-video-23bb0c1e.json",
+      "quoteSha256": "c0769f1aeba27cb5c4d03df863f90b4f1ecef82b6f03f8d6fd860dbdcd2e9e6a",
+      "quoteCredits": 10,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_leg_lift_7bf3c8b4-start/attempt_e3f1710821944a1d.jpg",
+          "sha256": "41e439dacfb23ab769ede18061fb11fce98ff9ebba4082253fb56c3845df1177"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_bench_press_with_band_61b84557",
+      "shot": "r13-open_bench_press_with_band_61b84557-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "5a4d4f17698d674c9636ee3af549c36a76a750052949f6e8fc55b1b835fe0a11",
+      "quoteFile": "form-media/ui-quotes/r13-open_bench_press_with_band_61b84557-video-22758e1c.json",
+      "quoteSha256": "704aa83b7a42984d8248802a92adb41fb013b0e6ecdc5916f0d6606d32b3fa33",
+      "quoteCredits": 10,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_bench_press_with_band_61b84557-start/attempt_b31a68636450488c.jpg",
+          "sha256": "fc27d6ec044dddbae61a0cf3f693ba4b0a5bd54325a5d0da003de3e973bb92db"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_bodyweight_hip_hinge",
+      "shot": "r13-cat_cal_bodyweight_hip_hinge-video",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "b24922c5d4fd25f4a9aa9b18a6f4a987b00ab616f961eb54074db43121cb068f",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bodyweight_hip_hinge-video-2a5176cf.json",
+      "quoteSha256": "a2b99b8ead5cc7632f40a8478c4641cdf2258bc42086702ce2a011eda73b3518",
+      "quoteCredits": 10,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_bodyweight_hip_hinge-start/attempt_8220f880313b4091.jpg",
+          "sha256": "387b87097dd4d12f128995f575107485bd2bd5b546abfedcacb1fdb6326d1faf"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_heel_slide",
+      "shot": "r13-cat_pil_heel_slide-video",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "05dc7c87c86628f8739f82c8e1304fa9f2add8f144ef6bf50cc38ab8d26f86ce",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_heel_slide-video-f228a029.json",
+      "quoteSha256": "53dc81df2c89149cb8b9a39782db71e968cc7dbc77c1f53d1031c835c745a5c9",
+      "quoteCredits": 10,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_pil_heel_slide-start/attempt_1cda993310af458b.jpg",
+          "sha256": "81eda78b44864a75573093f48243419bfa69f890db531aa0eee8b79016925597"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_pallof_press",
+      "shot": "r13-cat_band_pallof_press-video",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "428f3c275404f4f6818dd1857ee496860f46125f95f556c7377ef22fa99efa98",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pallof_press-video-84ce40d3.json",
+      "quoteSha256": "8a508cc756837bd30003a5e9a17f3f805325a92f6479dd884d32fdd4aa48fb80",
+      "quoteCredits": 10,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_pallof_press-start/attempt_74e2db3503414316.jpg",
+          "sha256": "33e8a38b8ed4d7f09f12252d55f310d9a0a5dff75f3d7475bb94d29b4e9fb647"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_band_skull_crusher_d4b2fbd2",
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-video",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "15dce7188979f425f9f1efda684b48c44542b87f849fce3b1affa67b3ab3d24a",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_skull_crusher_d4b2fbd2-video-ca4957b9.json",
+      "quoteSha256": "d5daf9382fed0909398edbdbb00d5ab49b68dcc763c6eb54adda2a3a44dbe243",
+      "quoteCredits": 10,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_band_skull_crusher_d4b2fbd2-start/attempt_ef2a17905ee94776.jpg",
+          "sha256": "68945029ff249a0c0fa97024b220bd8a676723b66e52f33a0e4db5e9739b9beb"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:33:34+00:00",
+  "balanceAfter": 1953,
+  "actualCredits": 60,
+  "evidenceFile": "form-media/ui-quotes/observed-7448f548a50347e5.json",
+  "evidenceSha256": "ade6efdd1d367869f207dacdc6c8c5b3fce191c85f95e66ac75e1484a25d4168",
+  "terminalFailureIds": []
+}

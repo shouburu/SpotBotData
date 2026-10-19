@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "shot": "r12-incline-cable-chest-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-chest-t2v-3fb6c6dd.json"
+    },
+    {
+      "shot": "r12-smith-inverted-row-video",
+      "quoteFile": "form-media/ui-quotes/r12-smith-inverted-row-video-cd220b1e.json"
+    },
+    {
+      "shot": "r12-flat-cable-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-flat-cable-fly-t2v-5bbf2d7f.json"
+    },
+    {
+      "shot": "r12-smith-shrug-video",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-video-837ee260.json"
+    },
+    {
+      "shot": "r12-incline-cable-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-fly-t2v-018d9bac.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_goblet_squat_b5c618ef-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_goblet_squat_b5c618ef-start-0f3e210f.json"
+    },
+    {
+      "shot": "r13-open_one_arm_kettlebell_pa_10f1ec7a-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_one_arm_kettlebell_pa_10f1ec7a-start-735c6892.json"
+    },
+    {
+      "shot": "r13-open_two_arm_kettlebell_mi_01904129-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_two_arm_kettlebell_mi_01904129-start-aa2bd868.json"
+    },
+    {
+      "shot": "r13-cat_pil_seated_heel_raise-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_seated_heel_raise-start-813edc2f.json"
+    },
+    {
+      "shot": "r13-open_band_good_morning_0b137d10-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_good_morning_0b137d10-start-671ad4d8.json"
+    },
+    {
+      "shot": "r13-open_calf_raises_with_band_eddf26eb-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_calf_raises_with_band_eddf26eb-start-70405c3c.json"
+    }
+  ]
+}

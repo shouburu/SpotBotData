@@ -1,0 +1,69 @@
+{
+  "id": "group_12f29c145dac4504",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T19:05:36+00:00",
+  "balanceBefore": 4079,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_var_single_leg_extension",
+      "shot": "r12-single-leg-extension-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "30c4a46b0dd5cce274908890a9d4de2003d10829e104ee31d19e5338ba0bf2aa",
+      "quoteFile": "form-media/ui-quotes/r12-single-leg-extension-start-d7e9a67b.json",
+      "quoteSha256": "6b98d7e441f43e795ab3a45039c574374b8b8e4e04347af5f60715592db86649",
+      "quoteCredits": 0,
+      "balance": 4079,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_seated_bb_press",
+      "shot": "r12-seated-bb-press-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "ab045caa2e00ae983bfbace6797706944e70bb4b69e8205348b8b2e7b228987c",
+      "quoteFile": "form-media/ui-quotes/r12-seated-bb-press-start-b930b977.json",
+      "quoteSha256": "8afac946a050ad7e89b6f332b7b09a68971adc35194e56cc16e738be00e330e9",
+      "quoteCredits": 0,
+      "balance": 4079,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_incline_cable_triceps",
+      "shot": "r12-incline_cable_triceps-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "e19343f6a26839f115bc2308430aba233d1942eaf446a311cbc220a5134ee101",
+      "quoteFile": "form-media/ui-quotes/r12-incline_cable_triceps-start-296a429a.json",
+      "quoteSha256": "c4c54ea149c17c6de3699844436439c746fd282a5fb4eeab4ad01ed2e059802a",
+      "quoteCredits": 0,
+      "balance": 4079,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "membersExcludedBeforeReservation": [
+    {
+      "exerciseId": "cat_var_single_db_bench",
+      "shot": "r12-single-db-bench-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "48985236e647f0e15f31a7654920720a45447db238a21957c4f5c1b052b5eb8c",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-bench-start-4f76e511.json",
+      "quoteSha256": "c61d275feb717feeb5fd636a08c4f9700d17d9ca73efb7bc4fa14e354c635b60",
+      "quoteCredits": 0,
+      "balance": 4079,
+      "references": [],
+      "disposition": "never-reserved-never-submitted",
+      "removedAt": "2026-10-09T19:12:10+00:00",
+      "reason": "Generator read canonical shot.txt while group pointed to alternative reviewed filename; reservation hash guard rejected before any attempt/provider submission. Corrected by copying reviewed bytes to canonical filename.",
+      "evidenceFile": "reports/round-12/adaptive-production.log",
+      "evidenceSha256": "d5d409b64748f8442b471b8e33971edd49e60dd1f9aa2e1083314fd0e55ac433"
+    }
+  ],
+  "settledAt": "2026-10-09T19:13:02+00:00",
+  "balanceAfter": 4079,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/round-12-partial-free-group-balance.json",
+  "evidenceSha256": "8048977b034a6110a7c9695a7466c588eaca78ac577ce2a17937f4eda0cd17df",
+  "terminalFailureIds": []
+}

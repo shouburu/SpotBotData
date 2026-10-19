@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_suspended_fallout_a1311340-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_suspended_fallout_a1311340-start-02957913.json"
+    },
+    {
+      "shot": "r13-open_suspended_reverse_cru_87b7b4f2-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_suspended_reverse_cru_87b7b4f2-start-746a0c75.json"
+    },
+    {
+      "shot": "r13-open_glute_ham_raise_5158d2f2-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_glute_ham_raise_5158d2f2-start-44ab70ea.json"
+    },
+    {
+      "shot": "r13-open_rear_leg_raises_0bbd6757-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_rear_leg_raises_0bbd6757-start-9411a06b.json"
+    },
+    {
+      "shot": "r13-open_exercise_ball_pull_in_98443332-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_exercise_ball_pull_in_98443332-start-eb3936f7.json"
+    },
+    {
+      "shot": "r13-cat_cal_inverted_row-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_inverted_row-start-46ded39e.json"
+    }
+  ]
+}

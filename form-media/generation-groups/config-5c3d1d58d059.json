@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-leg-extension-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-leg-extension-t2v-3d337045.json"
+    },
+    {
+      "shot": "r12-decline_ez_triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-decline_ez_triceps-start-c236c155.json"
+    },
+    {
+      "shot": "r12-incline-db-lateral-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline-db-lateral-start-e23e6e0d.json"
+    },
+    {
+      "shot": "r12-bb_floor_press-start",
+      "quoteFile": "form-media/ui-quotes/r12-bb_floor_press-start-fdb3a041.json"
+    }
+  ]
+}

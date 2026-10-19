@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-ex_v_up-video",
+      "quoteFile": "form-media/ui-quotes/r13-ex_v_up-video-f8e1e689.json"
+    },
+    {
+      "shot": "r13-open_scissor_kick_0399c7e5-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_scissor_kick_0399c7e5-video-b8df9739.json"
+    },
+    {
+      "shot": "r13-open_sit_up_4e39cf08-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_sit_up_4e39cf08-video-c9d4ead8.json"
+    },
+    {
+      "shot": "r13-cat_pil_single_leg_kick-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_single_leg_kick-video-5212276e.json"
+    },
+    {
+      "shot": "r13-cat_band_pallof_press-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pallof_press-video-781a7f4b.json"
+    },
+    {
+      "shot": "r13-open_two_arm_kettlebell_mi_01904129-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_two_arm_kettlebell_mi_01904129-video-0aa1acf9.json"
+    }
+  ]
+}

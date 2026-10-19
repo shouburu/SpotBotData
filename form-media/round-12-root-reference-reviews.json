@@ -1,0 +1,80 @@
+{
+  "roundId": "round-12",
+  "reviews": [
+    {
+      "assetId": "r12-high_cable_curl-start-930ee332",
+      "attemptId": "attempt_930ee332f29548f5",
+      "exerciseId": "cat_var_high_cable_curl",
+      "shot": "r12-high_cable_curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-high_cable_curl-start/attempt_930ee332f29548f5.jpg",
+      "outputSha256": "5b0246671d19322c29eda347dd4a83520111224372b65e649da0f03b222c553d",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent source review",
+      "reviewedAt": "2026-10-09T20:44:53+00:00",
+      "reviewKind": "exact-master-starting-reference-full-resolution-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both actual tower carriages are near shoulder height with one taut horizontal route to each genuinely gripped D handle. Both nearly straight upper arms extend horizontally; head, feet, hands and both pulleys are fully visible in the16:9 envelope.",
+        "Actual silver fiber anatomy, bounded orange biceps and explicitly authored blue supporting forearm bellies remain separate from the silver chest, shoulders and legs. No cue floats or paints opaque charcoal shorts.",
+        "This is a static starting reference only. Motion must keep upper arms elevated while each elbow curls the handles toward the head, then fully returns without dropping or rowing."
+      ],
+      "limitations": [
+        "Exact full-resolution still inspected against current catalog instructions and standard10.0. Paid motion and its full timeline/endpoints need separate review; no human acceptance implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-high_cable_curl-start/attempt_930ee332f29548f5.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-db_spider_curl-start-013f750f",
+      "attemptId": "attempt_013f750f5032453e",
+      "exerciseId": "cat_var_db_spider_curl",
+      "shot": "r12-db_spider_curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-db_spider_curl-start/attempt_013f750f5032453e.jpg",
+      "outputSha256": "031475ce4d7585740db0006eda501383bc6e3d15a7095d53d54925ffa5b31875",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent source review",
+      "reviewedAt": "2026-10-09T20:44:53+00:00",
+      "reviewKind": "exact-master-starting-reference-full-resolution-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual wide16:9 composition finally includes both whole dumbbells with ample side margin and clear closed supinated grips; both softly extended arms hang below the shoulders.",
+        "Chest and pelvis rest on the inclined bench, both visible feet brace on the floor, and opaque shorts and readable silver fibers remain intact. Orange is attached to actual biceps; subtler blue is on exposed forearm muscles.",
+        "A valid dumbbell spider-curl reference requires still supported upper arms and a single elbow-flexion cycle. The static source does not itself establish motion correctness."
+      ],
+      "limitations": [
+        "Exact full-resolution still inspected against current catalog instructions and standard10.0. Paid motion and its full timeline/endpoints need separate review; no human acceptance implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-db_spider_curl-start/attempt_013f750f5032453e.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-machine_back_extension-start-8206d148",
+      "attemptId": "attempt_8206d14898434b16",
+      "exerciseId": "cat_var_machine_back_extension",
+      "shot": "r12-machine_back_extension-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-machine_back_extension-start/attempt_8206d14898434b16.jpg",
+      "outputSha256": "4b77bfc6fde03279967cfc5651a663be8d9a7934878df2c8272f238414e9cca3",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent source review",
+      "reviewedAt": "2026-10-09T20:44:53+00:00",
+      "reviewKind": "exact-master-starting-reference-full-resolution-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "A distinct seated resistance machine secures both feet and pelvis; a real upper-back pad attaches to an articulated resistance arm. Both hands have genuine handles and necessary body/pad/support contacts are readable.",
+        "Two actual lumbar erector columns carry bounded orange with a gray center line and gray outer lats. Blue is limited to the visible posterior thigh above the knee; calves/tibialis remain gray, and shorts remain opaque.",
+        "The full actual working apparatus envelope, blank studio and silver muscle texture remain stable in this still. The motion must demonstrate one controlled trunk extension and return with secured pelvis; optional hidden glute cue is omitted."
+      ],
+      "limitations": [
+        "Exact full-resolution still inspected against current catalog instructions and standard10.0. Paid motion and its full timeline/endpoints need separate review; no human acceptance implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-machine_back_extension-start/attempt_8206d14898434b16.jpg"
+      ]
+    }
+  ]
+}

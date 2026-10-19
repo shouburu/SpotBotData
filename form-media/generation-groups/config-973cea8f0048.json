@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-leg-extension-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-leg-extension-t2v-7c966d95.json"
+    },
+    {
+      "shot": "r12-seated-db-rear-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-db-rear-fly-start-657b3827.json"
+    },
+    {
+      "shot": "r12-db_floor_press-start",
+      "quoteFile": "form-media/ui-quotes/r12-db_floor_press-start-dce7c2f1.json"
+    },
+    {
+      "shot": "r12-flat-db-rear-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-flat-db-rear-fly-start-e6a18ce0.json"
+    }
+  ]
+}

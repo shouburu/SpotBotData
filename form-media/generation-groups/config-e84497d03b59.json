@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_pil_swan_prep-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_swan_prep-start-7f9c6bc9.json"
+    },
+    {
+      "shot": "r13-open_two_arm_kettlebell_ro_96bbbbeb-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_two_arm_kettlebell_ro_96bbbbeb-start-e1359f89.json"
+    },
+    {
+      "shot": "r13-ex_woodchopper-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_woodchopper-start-50f1976b.json"
+    },
+    {
+      "shot": "r13-open_weighted_sit_ups_with_c13c1b33-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_weighted_sit_ups_with_c13c1b33-start-2c8f6029.json"
+    },
+    {
+      "shot": "r13-open_suspended_fallout_a1311340-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_suspended_fallout_a1311340-start-53fd7cd1.json"
+    },
+    {
+      "shot": "r13-cat_pil_swimming-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_swimming-start-30cf5f8e.json"
+    }
+  ]
+}

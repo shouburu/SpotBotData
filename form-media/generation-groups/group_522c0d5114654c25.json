@@ -1,0 +1,55 @@
+{
+  "id": "group_522c0d5114654c25",
+  "status": "billing-reconciled-with-unrecoverable-free-sources",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T01:33:09+00:00",
+  "balanceBefore": 1737,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_cond_mountain_climber",
+      "shot": "r13-cat_cond_mountain_climber-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "0fafa4c35a1c733575f8d7fe236d7a925a66cb561538c1088de4aa8d2f28fc68",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_mountain_climber-start-4091512d.json",
+      "quoteSha256": "0f627dcf6e3b1a770cd92c5c8cf30ad5f69234ec14954cfc635708a79e4bbd9a",
+      "quoteCredits": 0,
+      "balance": 1737,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_cond_shadow_boxing",
+      "shot": "r13-cat_cond_shadow_boxing-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "b33ffec21f6906367ed20486009871aa10ce655a3a1f5f187dde19e145f0b803",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_shadow_boxing-start-3c20446c.json",
+      "quoteSha256": "24cb9a33a225ac1c90947a5904a997a90b7106329bbde0d6e14faedf33b933d6",
+      "quoteCredits": 0,
+      "balance": 1737,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_cond_step_back_burpee",
+      "shot": "r13-cat_cond_step_back_burpee-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "1a1f26db216730b0c1153ede63558a3cd7ca03eed091c62c0c0bef59c25482ef",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_step_back_burpee-start-31abc574.json",
+      "quoteSha256": "2832d2c143321f891935f916abe8f8b46817835ce0f94c4e46c3575d59d16f2b",
+      "quoteCredits": 0,
+      "balance": 1737,
+      "references": []
+    }
+  ],
+  "settlementMethod": "manual-all-zero-quote-and-aggregate-balance",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "actualCredits": 0,
+  "balanceAfter": 1737,
+  "settledAt": "2026-10-10T01:40:21+00:00",
+  "evidenceFile": "form-media/ui-quotes/group-522c0d5114654c25-manual-reconciliation.json",
+  "evidenceSha256": "9a074df4635a8870d21ce4ba455bb11d02e9c29443b577d661d7d2fc846e9fcb",
+  "unknownProviderOutcomeAttemptIds": [
+    "attempt_65cd06cd5b3f4ff0",
+    "attempt_ac2a80183b8b45ba"
+  ],
+  "terminalFailureIds": []
+}

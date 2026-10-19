@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-incline-cable-chest-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-chest-start-3a72285b.json"
+    },
+    {
+      "shot": "r12-incline-bb-triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline-bb-triceps-start-8d22e517.json"
+    },
+    {
+      "shot": "r12-bb_rack_pull-start",
+      "quoteFile": "form-media/ui-quotes/r12-bb_rack_pull-start-d30b712d.json"
+    },
+    {
+      "shot": "r12-smith_rack_pull-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith_rack_pull-start-a914c595.json"
+    },
+    {
+      "shot": "r12-machine_hip_thrust-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine_hip_thrust-start-2205cf49.json"
+    },
+    {
+      "shot": "r12-machine_glute_kickback-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine_glute_kickback-start-a611e73a.json"
+    }
+  ]
+}

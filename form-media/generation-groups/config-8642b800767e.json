@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_mob_scapular_pushup-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_mob_scapular_pushup-video-392a356c.json"
+    },
+    {
+      "shot": "r13-open_body_tricep_press_cd8e102d-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_body_tricep_press_cd8e102d-video-88f7962c.json"
+    },
+    {
+      "shot": "r13-open_decline_push_up_981019c1-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_decline_push_up_981019c1-video-5251acfe.json"
+    },
+    {
+      "shot": "r13-open_bench_dips_4a7e0804-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_bench_dips_4a7e0804-video-fa6bf4a7.json"
+    },
+    {
+      "shot": "r13-open_internal_rotation_wit_18c67d97-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_internal_rotation_wit_18c67d97-video-cd53a1f9.json"
+    },
+    {
+      "shot": "r13-open_back_flyes_with_bands_e8a30917-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_back_flyes_with_bands_e8a30917-video-68ed5210.json"
+    }
+  ]
+}

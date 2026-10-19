@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-smith-front-squat-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-front-squat-start-1ce22117.json"
+    },
+    {
+      "shot": "r12-smith-box-squat-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-box-squat-start-e7638694.json"
+    },
+    {
+      "shot": "r12-smith-lunge-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-lunge-start-d0ed9144.json"
+    },
+    {
+      "shot": "r12-smith-step-up-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-step-up-start-d45213f8.json"
+    },
+    {
+      "shot": "r12-smith-glute-bridge-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-glute-bridge-start-4bd698c6.json"
+    },
+    {
+      "shot": "r12-db_spider_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-start-1e42dec3.json"
+    }
+  ]
+}

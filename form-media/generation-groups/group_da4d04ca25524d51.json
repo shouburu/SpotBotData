@@ -1,0 +1,109 @@
+{
+  "id": "group_da4d04ca25524d51",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:31:14+00:00",
+  "balanceBefore": 2715,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_cal_bodyweight_squat",
+      "shot": "r13-cat_cal_bodyweight_squat-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "d6b0e9ee1ffcde04b6a82715329c0f0e9c44716d4b6f3af205ce2295c1f01571",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bodyweight_squat-start-5111ef21.json",
+      "quoteSha256": "bd3cc3740bd9d8a3b8e67be5f71bd1fdab54c2ca40412da08b3ef53f029f9112",
+      "quoteCredits": 0,
+      "balance": 2715,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_bodyweight_squat-start/attempt_f4e40f5c5dc244cb.jpg",
+          "sha256": "702de3d4e2ea79c757a01f0282a9bba786a9d4d0e3aed34c4fcd8f55128eb048"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_chair_squat",
+      "shot": "r13-cat_cal_chair_squat-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "2b69f3ec4320ec485f5d9d46ca160957bb17d43169794ae561bc34f88d6cc32a",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_chair_squat-start-2fa95726.json",
+      "quoteSha256": "e2b666c4e924b0da48c66ce7371a79f540d9da9cd5cc52d57b00055b327f3ce1",
+      "quoteCredits": 0,
+      "balance": 2715,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_chair_squat-start/attempt_dd52123f92334e17.jpg",
+          "sha256": "a1a2f651f4459d6a360d33f428191daee159f8510cd28e6002feee5be17faa5f"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_ohead_press",
+      "shot": "r13-cat_band_ohead_press-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "b383ee31e2370ce72c4f098a8e82cd4db9bf4dc90209da0cd51296636d5e6d14",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_ohead_press-start-6cb3de47.json",
+      "quoteSha256": "3290f5882e22d2e00b44aa370ce6018c146695e2084a1e13b4ead1c93c39b25b",
+      "quoteCredits": 0,
+      "balance": 2715,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_band_curl",
+      "shot": "r13-cat_band_curl-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "88720c1f03f66aab55d98882218f9924be436f3c85a4a4055cc7e3891ef86740",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_curl-start-760d636f.json",
+      "quoteSha256": "91e9c8818c44ce22b29c5beae0838c4ccba9ac1364541e3dfef90edc5b16c620",
+      "quoteCredits": 0,
+      "balance": 2715,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_curl-start/attempt_91a91cdb55f14e4d.jpg",
+          "sha256": "48b7456fc5f39df1c1bb5aa547f7359f81bf3dcfc504be684170f70b7ba4d007"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_triceps",
+      "shot": "r13-cat_band_triceps-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "774b34fa2abb1aff8ab26c27dbfe7eddcc40d3fe467e86e96b0a6b9242969318",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_triceps-start-eef44d48.json",
+      "quoteSha256": "670e5d1070fa535b298a0fa921ccac76bd6334e89ddaa829b71cd6deed69eac3",
+      "quoteCredits": 0,
+      "balance": 2715,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_triceps-start/attempt_a907d38f62774229.jpg",
+          "sha256": "76e8b65939610a611eb06fc1f2d8a6d7eae5e435c7ea1309bac655b1f8359c8c"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_squat",
+      "shot": "r13-cat_band_squat-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "69c3b44f4ef2d308c59c02aa348e4409d7e94157d1227d73892ef53208fcb1b1",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_squat-start-9cf6b164.json",
+      "quoteSha256": "46d7c00db08cd6ff3439494a0a576c0766f3658b4a2c188ee04ff0e40d104220",
+      "quoteCredits": 0,
+      "balance": 2715,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_squat-start/attempt_6a3b3101e1874c25.jpg",
+          "sha256": "fca202a907a9e44fe21518e7fb69d3fd217ddc24cc7ae7c1e47288ac1d4e7bca"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T23:32:54+00:00",
+  "balanceAfter": 2715,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-3cee740f0b254fbe.json",
+  "evidenceSha256": "5fed045f0ab80236f4b9af38f61f3de0cc2d9bc4526610bcdb75f48ea965c6b6",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_pil_roll_up-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_roll_up-start-4fef0e89.json"
+    },
+    {
+      "shot": "r13-cat_pil_double_leg_kick-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_double_leg_kick-start-1252ece2.json"
+    },
+    {
+      "shot": "r13-cat_pil_swimming-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_swimming-start-c480f4b3.json"
+    },
+    {
+      "shot": "r13-cat_pil_side_leg_circle-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_leg_circle-start-fa7df402.json"
+    },
+    {
+      "shot": "r13-cat_pil_side_kick-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_kick-start-bb18815e.json"
+    },
+    {
+      "shot": "r13-open_band_hip_adductions_78d2d658-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_hip_adductions_78d2d658-start-f405ff02.json"
+    }
+  ]
+}

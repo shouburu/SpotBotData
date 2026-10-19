@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-high_cable_curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-high_cable_curl-t2v-4988b91e.json"
+    },
+    {
+      "shot": "r12-machine_back_extension-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-machine_back_extension-t2v-b12c435d.json"
+    },
+    {
+      "shot": "r12-incline-cable-chest-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-chest-t2v-3f252867.json"
+    },
+    {
+      "shot": "r12-db_spider_curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-t2v-1aad10fa.json"
+    },
+    {
+      "shot": "r12-smith-shrug-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-start-053a2ef1.json"
+    },
+    {
+      "shot": "r12-flat-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-flat-cable-fly-start-a0618549.json"
+    }
+  ]
+}

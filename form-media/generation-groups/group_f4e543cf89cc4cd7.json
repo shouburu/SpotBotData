@@ -1,0 +1,94 @@
+{
+  "id": "group_f4e543cf89cc4cd7",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T19:52:52+00:00",
+  "balanceBefore": 3889,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_var_incline_cable_chest",
+      "shot": "r12-incline-cable-chest-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "254bbedd25b86154fcd6889e5aa4b042c831c92af9126c20faa03ed28ca14d75",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-chest-start-3a72285b.json",
+      "quoteSha256": "f1585b4d72af7876aae4e3cdba50f141578a35b3d91a63423948ead2ad82b930",
+      "quoteCredits": 0,
+      "balance": 3889,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-incline-cable-chest-start/attempt_a8341a80f12e4e19.jpg",
+          "sha256": "28f01600b8d003e041396ef72b110ca6d4fa1ce7a681dbb0ee2c2ed4706177b6"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "shot": "r12-incline-bb-triceps-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "01e93ca36f1316b49d3a1b4937ce2c9f320a38b203c54686c3a501c3bc37d6cb",
+      "quoteFile": "form-media/ui-quotes/r12-incline-bb-triceps-start-8d22e517.json",
+      "quoteSha256": "32e5dd21b5a7a6779aad8d9934c658c8e67a9b9408d457afc1b9edaf9a457916",
+      "quoteCredits": 0,
+      "balance": 3889,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_a652b59f9a4d489f.jpg",
+          "sha256": "a8d4055d65aec126001b3c46a89d7b6be12ecfb10457340ac9a88d91e1d8bed2"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_bb_rack_pull",
+      "shot": "r12-bb_rack_pull-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "c79644a54c670b4822114d7a1aecaf339f899fb74b6671a9d4ee463d4b6db99e",
+      "quoteFile": "form-media/ui-quotes/r12-bb_rack_pull-start-d30b712d.json",
+      "quoteSha256": "2445ab69013847261d8b55cafae2f9e7e434c89347d943393e4beb8d40c9ed57",
+      "quoteCredits": 0,
+      "balance": 3889,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_smith_rack_pull",
+      "shot": "r12-smith_rack_pull-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "d772e049b05f88ee9e84e64e131deb72f70dc956713ccb22f3df71f2a0966e12",
+      "quoteFile": "form-media/ui-quotes/r12-smith_rack_pull-start-a914c595.json",
+      "quoteSha256": "fa868ccf3101e13af6d82d0973f81a16c61a9291b3b7de1ba69d8db683f42888",
+      "quoteCredits": 0,
+      "balance": 3889,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_machine_hip_thrust",
+      "shot": "r12-machine_hip_thrust-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "2b02141475478f6dad4ebbd24b575e7ad8bc39dc990a1aea241c608731389906",
+      "quoteFile": "form-media/ui-quotes/r12-machine_hip_thrust-start-2205cf49.json",
+      "quoteSha256": "3adc5f2f4f795ba23bf595b8c9f907c38391698a3e07275f6ff335f5a738c4f4",
+      "quoteCredits": 0,
+      "balance": 3889,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_machine_glute_kickback",
+      "shot": "r12-machine_glute_kickback-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "eee9b2486afc1870a8663a8d7d86ba178821f06036c06c152c092ce3c52904dd",
+      "quoteFile": "form-media/ui-quotes/r12-machine_glute_kickback-start-a611e73a.json",
+      "quoteSha256": "94f22839454e919b432cf620bae33ed6cc109763573d9b1f7f41dc5edf3dfb0f",
+      "quoteCredits": 0,
+      "balance": 3889,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T19:54:29+00:00",
+  "balanceAfter": 3889,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-76da8dbcc52347e6.json",
+  "evidenceSha256": "9383d17528974a77b5c3451cadb20e7d732dec85aface76ab85fc80934cf5850",
+  "terminalFailureIds": []
+}

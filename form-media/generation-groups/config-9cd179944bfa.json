@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-seated-db-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-db-press-start-3bbe5eff.json"
+    },
+    {
+      "shot": "r12-seated-cable-crunch-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-crunch-start-66b63ed3.json"
+    },
+    {
+      "shot": "r12-standing-cable-crunch-start",
+      "quoteFile": "form-media/ui-quotes/r12-standing-cable-crunch-start-7eba1c63.json"
+    },
+    {
+      "shot": "r12-seated-cable-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-press-start-125e2328.json"
+    }
+  ]
+}

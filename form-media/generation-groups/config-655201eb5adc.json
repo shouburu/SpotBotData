@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-cable-row-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-row-t2v-32476d82.json"
+    },
+    {
+      "shot": "r12-single-db-preacher-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-preacher-start-797fa1d1.json"
+    },
+    {
+      "shot": "r12-low-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-low-cable-fly-start-f1819e98.json"
+    },
+    {
+      "shot": "r12-machine_back_extension-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine_back_extension-start-ca24fb1c.json"
+    },
+    {
+      "shot": "r12-seated-cable-rear-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-rear-fly-start-7846c630.json"
+    },
+    {
+      "shot": "r12-flat-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-flat-cable-fly-start-30d63dd9.json"
+    }
+  ]
+}

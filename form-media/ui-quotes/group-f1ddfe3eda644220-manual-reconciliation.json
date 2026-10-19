@@ -1,0 +1,21 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 3235,
+  "visibleBalanceText": "3,235 Google Flow credits",
+  "observedAt": "2026-10-09T21:21:00.924190+00:00",
+  "groupId": "group_f1ddfe3eda644220",
+  "reconciliationType": "manual-zero-credit-accounting-with-unrecoverable-source",
+  "unknownProviderOutcomeAttemptId": "attempt_27cd276ca170429c",
+  "providerOutcome": "unknown",
+  "outputRecovery": "failed locally; no provider terminal verdict available",
+  "retryPolicy": "No retry: this is the fourth counted source; source and dependent video are held.",
+  "submissionResponse": {
+    "path": "reports/form-media/attempt_27cd276ca170429c/stdout.json",
+    "sha256": "165a5770441a4f71c3e6a7c1b94fc2e0f3429e366ad59cc203ad7a09896c0d48"
+  },
+  "scope": "Billing is resolved from six exact zero-credit quotes and unchanged aggregate account balance. Five exact downloaded masters are completed; the sixth local retrieval failed. This does not prove the provider failed or never generated an image."
+}

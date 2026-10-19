@@ -1,0 +1,109 @@
+{
+  "id": "group_f4cc077d9f7a43a3",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T20:22:41+00:00",
+  "balanceBefore": 3525,
+  "quotedCredits": 36,
+  "members": [
+    {
+      "exerciseId": "cat_smith_box_squat",
+      "shot": "r12-smith-box-squat-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "c0acc289a2240c464abca4f6a3303df06db8c960a79ab73bf0993fe12d61c60a",
+      "quoteFile": "form-media/ui-quotes/r12-smith-box-squat-video-22e1d70b.json",
+      "quoteSha256": "97d8d0b1b0215ee22d97c565018f7444480255e9a0695495fede9864efe9d281",
+      "quoteCredits": 12,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-box-squat-start/attempt_8afa593b44d24e9a.jpg",
+          "sha256": "935c31fb99bcb345ec5125ae14429131c98e5fe43b0399ebb701ba92db2c8b4a"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_lunge",
+      "shot": "r12-smith-lunge-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "23ac26f7624d9297c4375c8812497b40bd94e53242b1d37c5bf1fd0030cfb17f",
+      "quoteFile": "form-media/ui-quotes/r12-smith-lunge-video-8fb92bdd.json",
+      "quoteSha256": "b941c2971e3474958783f265d0b2283734593f3dfcaeba3f6765b98e7559bcba",
+      "quoteCredits": 12,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-lunge-start/attempt_6b6b3acdba274693.jpg",
+          "sha256": "905ad0f06b6981abf958a03411eb77086c192be89d90d05aea0c510457576c90"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_standing_smith_press",
+      "shot": "r12-standing-smith-press-t2v",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "bbc27d19409443b156f27884fe9b3d785a5bcc8a1702ae3be0233d2199aecee0",
+      "quoteFile": "form-media/ui-quotes/r12-standing-smith-press-t2v-3127f8f5.json",
+      "quoteSha256": "5211f297d04ce17ab08d3a92b4c521354bdc2672e9d1fea634e953881db3d60d",
+      "quoteCredits": 12,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-standing-smith-press-start/attempt_42fc4fe972dc437f.jpg",
+          "sha256": "44fffc30192afff5c53acf483e36a9b0c0dc8f36fcbbd627ed0cc84f5219f908"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "ad3d4b4c137d665bf07dc72935e9754f78098b65eee8b5f914d90efdceb02e62",
+      "quoteFile": "form-media/ui-quotes/r12-smith-front-squat-start-31226321.json",
+      "quoteSha256": "052cfe7f57d2e0803092e10c5d04d74e87eda8ebef82ef5d2cbb29e95931cdc6",
+      "quoteCredits": 0,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-front-squat-start/attempt_eefc2a2f715043ba.jpg",
+          "sha256": "f89c73492bb9f5875fde37d7d01fba161251179322cc06ebc56e170ee072a4fa"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_step_up",
+      "shot": "r12-smith-step-up-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "727593474b813a19be7ae3f5fc1b631eee6ffd1d062e79f384fb7f6a47e17841",
+      "quoteFile": "form-media/ui-quotes/r12-smith-step-up-start-88d1a5ce.json",
+      "quoteSha256": "a2b97d8eaba776f967027d6a637c50db7285b2d8ee210a7fea04e631ba7bb16a",
+      "quoteCredits": 0,
+      "balance": 3525,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-step-up-start/attempt_65264e0516f24059.jpg",
+          "sha256": "9e1438f2e5d438cca13e15d9002295617e259d60d21042425d6cc2efbf95ce25"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_glute_bridge",
+      "shot": "r12-smith-glute-bridge-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "cfb77d4bc0d50dfce0dd094d019dc68a78cc49cf1dab9a28f3bd272f8488fb39",
+      "quoteFile": "form-media/ui-quotes/r12-smith-glute-bridge-start-46962796.json",
+      "quoteSha256": "1e71313000bf15935071b5ea966c008460f14a66795c55785ac26c22c257c1ad",
+      "quoteCredits": 0,
+      "balance": 3525,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T20:24:40+00:00",
+  "balanceAfter": 3489,
+  "actualCredits": 36,
+  "evidenceFile": "form-media/ui-quotes/observed-1cceeec2ed374db8.json",
+  "evidenceSha256": "1704aa88c7749e94cb6879b0abea787efac81a9345008461abbeb8d31f2e1206",
+  "terminalFailureIds": []
+}

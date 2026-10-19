@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_cal_split_squat-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_split_squat-start-8f0e3515.json"
+    },
+    {
+      "shot": "r13-ex_bicycle_crunch-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_bicycle_crunch-start-bd270f2a.json"
+    },
+    {
+      "shot": "r13-cat_pil_single_leg_kick-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_single_leg_kick-start-419f3951.json"
+    },
+    {
+      "shot": "r13-cat_band_row-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_row-start-6e1a2f57.json"
+    },
+    {
+      "shot": "r13-cat_cal_side_jackknife-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_side_jackknife-start-64f5744f.json"
+    },
+    {
+      "shot": "r13-cat_band_chest_press-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_chest_press-start-8eb96630.json"
+    }
+  ]
+}

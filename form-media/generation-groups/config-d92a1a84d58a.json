@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_bal_single_leg_reach-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_single_leg_reach-video-ae254820.json"
+    },
+    {
+      "shot": "r13-cat_pil_side_leg_circle-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_leg_circle-video-5482450f.json"
+    },
+    {
+      "shot": "r13-cat_pil_side_kick-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_kick-video-0cde4d7f.json"
+    },
+    {
+      "shot": "r13-open_hip_flexion_with_band_e4aae89b-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_hip_flexion_with_band_e4aae89b-video-0254fdc9.json"
+    },
+    {
+      "shot": "r13-cat_band_side_walk-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_side_walk-video-c56e6c21.json"
+    },
+    {
+      "shot": "r13-cat_mob_scapular_pushup-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_mob_scapular_pushup-video-84f28707.json"
+    }
+  ]
+}

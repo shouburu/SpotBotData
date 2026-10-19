@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_reverse_crunch_533db487-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_reverse_crunch_533db487-start-364dffb5.json"
+    },
+    {
+      "shot": "r13-open_alternate_heel_touche_0718c1bb-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_alternate_heel_touche_0718c1bb-start-0486062e.json"
+    },
+    {
+      "shot": "r13-cat_band_row-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_row-start-0ba33834.json"
+    },
+    {
+      "shot": "r13-cat_band_chest_press-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_chest_press-start-7d60a657.json"
+    },
+    {
+      "shot": "r13-cat_band_pull_apart-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pull_apart-start-7f8bd764.json"
+    },
+    {
+      "shot": "r13-cat_band_romanian_deadlift-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_romanian_deadlift-start-c158a44e.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_seated_band_hamstring_7487455a-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_seated_band_hamstring_7487455a-start-d16803d0.json"
+    },
+    {
+      "shot": "r13-open_back_flyes_with_bands_e8a30917-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_back_flyes_with_bands_e8a30917-start-97e4380d.json"
+    },
+    {
+      "shot": "r13-open_bench_press_with_band_61b84557-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_bench_press_with_band_61b84557-start-027e7047.json"
+    },
+    {
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_skull_crusher_d4b2fbd2-start-86dc70ef.json"
+    },
+    {
+      "shot": "r13-open_two_arm_kettlebell_ro_96bbbbeb-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_two_arm_kettlebell_ro_96bbbbeb-start-74a0ca66.json"
+    },
+    {
+      "shot": "r13-ex_glute_bridge-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_glute_bridge-start-c5f0494b.json"
+    }
+  ]
+}

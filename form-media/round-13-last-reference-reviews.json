@@ -1,0 +1,1255 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-13",
+  "reviews": [
+    {
+      "exerciseId": "open_front_squats_with_two_04034125",
+      "shot": "r13-open_front_squats_with_two_04034125-start",
+      "attemptId": "attempt_166dfc5b33f4488c",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-10-09T22:49:52+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-open_front_squats_with_two_04034125-start/attempt_166dfc5b33f4488c.jpg",
+      "outputSha256": "292ff0279151016e61624a02e40a329cde352d4859b3b3dfed0788562af7fec4",
+      "evidence": [
+        "One complete standing figure with two separate kettlebell handle grips; bell bodies rest against the corresponding outside forearms beside the shoulders.",
+        "Both complete feet are planted on a plain gray floor plane; knees unforced, trunk stacked and the standing pose is the highest planned endpoint.",
+        "Readable gray anatomical fibers on trunk/limbs, opaque charcoal shorts and orange bounded to the anterior quadriceps below the shorts; other visible primary groups are not colored.",
+        "Whole head, both bells, both feet and the downward squat envelope fit. No photographic set, text or duplicate mannequin."
+      ],
+      "limitations": [
+        "Source has a finite gray floor plane rather than pure white floor; it is a plain support surface with no lighting-set props.",
+        "Modest headroom is sufficient for the current full standing endpoint; motion must keep this fixed frame without an overhead bell lift.",
+        "Optional secondary calf blue is not visibly present; no covered glute cue is claimed.",
+        "Attempt was not yet settled/registered at visual inspection; ledger settlement and matching exact reference remain mandatory before animation."
+      ],
+      "reviewMethod": "Actual original-resolution master inspected; no motion inferred from text."
+    },
+    {
+      "exerciseId": "ex_chin_up",
+      "shot": "r13-ex_chin_up-start",
+      "attemptId": "attempt_08f94501e0584baf",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-10-09T22:49:52+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-ex_chin_up-start/attempt_08f94501e0584baf.jpg",
+      "outputSha256": "69b7410c8b1e7b39c3dfe85e8ebe525b737a8c0883f64242f4048edcce95de4c",
+      "evidence": [
+        "The source starts with both elbows markedly bent rather than a straight-arm full hang; it is already a partial pull-up pose.",
+        "From the actual rear view, dorsal finger/hand surfaces face the camera at the bar; a supinated underhand palm-facing-body grip is not demonstrated and reads as overhand.",
+        "Both latissimus sheets are coherently orange and forearms subtle blue; whole bar frame and feet fit, so the decisive failures are start range and grip."
+      ],
+      "limitations": [
+        "Grip depth is inferred from visible dorsal hand surfaces, so the correction requires clearly visible palmar orientation rather than an unmeasured wrist angle.",
+        "Attempt was not yet settled/registered at visual inspection; no source retry may submit until exact settlement."
+      ],
+      "reviewMethod": "Actual original-resolution master inspected; no motion inferred from text."
+    },
+    {
+      "exerciseId": "ex_tricep_dip",
+      "shot": "r13-ex_tricep_dip-start",
+      "attemptId": "attempt_8b6fa1d185544baa",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-10-09T22:49:52+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-ex_tricep_dip-start/attempt_8b6fa1d185544baa.jpg",
+      "outputSha256": "0ef654c0dc27e1fd3c47a1d2cf222d471fed8dc3433e93d95d8756d6e7600455",
+      "evidence": [
+        "Actual image contains TWO full exercising mannequins and TWO dip-bar frames stacked into separate upper/lower views, rather than one static source.",
+        "The lower rear-three-quarter figure has readable orange posterior triceps, blue deltoids and closed rail grips; this usable support geometry can be retained in a targeted single-figure edit.",
+        "A horizontal panel division and duplicated apparatus are incompatible with a single fixed-camera motion source."
+      ],
+      "limitations": [
+        "No animation or correct motion is inferred from the static duplicated figures.",
+        "Attempt was not yet settled/registered at visual inspection; any exact-master edit awaits settlement."
+      ],
+      "reviewMethod": "Actual original-resolution master inspected; no motion inferred from text."
+    },
+    {
+      "exerciseId": "ex_leg_raise",
+      "shot": "r13-ex_leg_raise-start",
+      "attemptId": "attempt_8540e34320d54e49",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:09:40+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-ex_leg_raise-start/attempt_8540e34320d54e49.jpg",
+      "outputSha256": "4636011141d48359c273349386448f4ca9308329656ac3198f3c4050f7bf77c3",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel detail crop where needed; no motion presumed.",
+      "evidence": [
+        "Single complete hanging figure with two visibly closed bar grips, long unforced arm chains, feet clear of the floor and a quiet near-vertical torso.",
+        "Actual body faces image left and hangs on the right side of the landscape frame; the large clear left field accommodates both forward legs. Both full feet and the raised-leg envelope fit.",
+        "Readable silver-gray fibers, opaque charcoal shorts and bounded orange rectus/oblique abdominal anatomy. Actual-pixel shoulder crop confirms the apparent warm armpit sliver is gray shading, not an orange deltoid patch."
+      ],
+      "limitations": [
+        "The overhead bar has connected supports extending outside the top crop; the source does not show the full floor-standing rig originally proposed. Canonical secure-bar setup and relevant hand/bar contacts are present.",
+        "Starting knees have a soft bend; this source supports mostly-straight-leg raising, not a locked-knee or pike progression.",
+        "Covered hip-flexor secondary anatomy omitted; no visible cue is claimed beneath shorts."
+      ]
+    },
+    {
+      "exerciseId": "ex_back_extension",
+      "shot": "r13-ex_back_extension-start",
+      "attemptId": "attempt_768b5bad75084585",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:09:40+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-ex_back_extension-start/attempt_768b5bad75084585.jpg",
+      "outputSha256": "c82cbb603be888f03db93ac1adc24848fa6dbd8f4c90e59a604fabc1987eb826",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel detail crop where needed; no motion presumed.",
+      "evidence": [
+        "Actual source is the straight trunk-to-leg UPPER aligned endpoint, not the modest lower pose requested. This is a valid supported top start for a down-and-return back-extension cycle.",
+        "A coherent diagonal Roman-chair bench supports upper thighs below the hip crease, with legs braced by paired lower-leg rollers and the foot platform; hips are free above the pad, arms folded across the chest.",
+        "Orange is bounded to dorsal lumbar erector fibers above the opaque shorts, subtle blue stays on visible posterior hamstrings, and readable anatomical fibers persist over the torso/limbs.",
+        "The complete head, arms, platform, rollers and bench base fit; clear white room in front/right and below the head allows a comfortable hip-hinge arc."
+      ],
+      "limitations": [
+        "Actual top start governs the adopted motion; no low-start claim is made.",
+        "No optional plate, ball or covered glute cue is shown.",
+        "Full motion and restraint/contact persistence still require actual video review."
+      ]
+    },
+    {
+      "exerciseId": "ex_ab_wheel",
+      "shot": "r13-ex_ab_wheel-start",
+      "attemptId": "attempt_e5be3d7d25e2457f",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:09:40+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-ex_ab_wheel-start/attempt_e5be3d7d25e2457f.jpg",
+      "outputSha256": "5d9aa241483254ff3ac6f9e72f130f79e93b58378c7ddd38d2cd23968b474521",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel detail crop where needed; no motion presumed.",
+      "evidence": [
+        "The near hand has a clear closed axle-handle grip, but the far hand and its actual opposite axle-handle contact are completely hidden behind the wheel rim. Actual-pixel grip crop shows only the far forearm disappearing behind the top of the wheel.",
+        "A two-hand supported ab-wheel setup cannot be fully screened from this projection; no measured physical impossibility is claimed, but the second required hand contact is not demonstrated.",
+        "Knees/mat/toe supports, neutral torso, one wheel, readable anatomical fibers and bounded orange abdomen are otherwise coherent and should be retained in a targeted grip/view edit."
+      ],
+      "limitations": [
+        "Occlusion limits inference of the far hand; failure is unclear/unverifiable second load-bearing grip rather than a claim that it rests on a specific wheel surface.",
+        "A newly rendered source must be inspected before any rollout motion."
+      ]
+    },
+    {
+      "exerciseId": "ex_v_up",
+      "shot": "r13-ex_v_up-start",
+      "attemptId": "attempt_c601fb3f806949a3",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:23:15+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-ex_v_up-start/attempt_c601fb3f806949a3.jpg",
+      "outputSha256": "55d12aac028575b63d7ff33081d44acfc46fc0b324f6ba475c9e0a2669d9cdfd",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel detail where necessary; no motion inferred.",
+      "evidence": [
+        "Single supine extended-leg source with both arms fully overhead, distinct whole hands/feet and head/back/pelvis supported on a blank mat.",
+        "Readable anatomical fibers and bounded orange abdominal/oblique muscles; opaque shorts, no unsupported shoulder/chest orange or secondary cues.",
+        "Body lies in the lower half with broad white space above the torso/legs for the inward V-up envelope. Extended arms and legs are already the widest horizontal endpoint and both fit."
+      ],
+      "limitations": [
+        "No raised V-up performance is inferred from the source. Actual motion must lift both legs and upper body together and return slowly, without substituting a sit-up or knee tuck."
+      ]
+    },
+    {
+      "exerciseId": "open_scissor_kick_0399c7e5",
+      "shot": "r13-open_scissor_kick_0399c7e5-start",
+      "attemptId": "attempt_db9bbc9a154a41b5",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:23:15+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-open_scissor_kick_0399c7e5-start/attempt_db9bbc9a154a41b5.jpg",
+      "outputSha256": "f70610e12ba0d027f31c18af827f77356874ee8ccfb2d3246b98944877e02738",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel detail where necessary; no motion inferred.",
+      "evidence": [
+        "Single supine figure with extended legs held above the mat and arms alongside the torso; actual-pixel heel detail shows both heel undersides separated from the mat, with shadows below rather than a planted heel contact.",
+        "Torso/head/pelvis are supported, orange is bounded to the rectus/oblique abdominal region and the exposed limbs/torso retain gray anatomical fibers; shorts opaque charcoal.",
+        "Both full feet and lower-leg chains fit, with ample white space above for a small opposed leg arc; no apparatus or photography set."
+      ],
+      "limitations": [
+        "Starting hover clearance is modest, so the lower alternating foot must remain above the mat through a small comfortable range.",
+        "One left-right cycle counts one repetition; motion must demonstrate both opposed phases and a stable return, not one one-sided kick."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_db9bbc9a154a41b5/workflow-feet-contact.png"
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_bird_dog",
+      "shot": "r13-cat_cal_bird_dog-start",
+      "attemptId": "attempt_2187ca996f7048ed",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:23:15+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_bird_dog-start/attempt_2187ca996f7048ed.jpg",
+      "outputSha256": "3e7b4dff91badf1992271acc687f79af8db7e7b326212e982cce246b83a9ee7a",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel detail where necessary; no motion inferred.",
+      "evidence": [
+        "Actual full-resolution source has plausible separate palms below shoulders/knees beneath hips, readable gray fibers, opaque shorts and attached abdominal orange/lumbar blue.",
+        "The near hip lies approximatelyx800–835 in the1376px-wide master. Its visible thigh/shin/foot segments total roughly550–570px while only~540–575px remains to the right image edge. A straight near-leg extension has no reliable endpoint margin and can clip the toes.",
+        "A farther-leg projection may be shorter, but no source pass is based on guessing that the model will select only that diagonal or foreshorten the entire extension. Preserve setup and widen the actual whole diagonal envelope before spending motion."
+      ],
+      "limitations": [
+        "Segment lengths are approximate projected image measurements, not a3D biomechanical reconstruction. The frame correction provides conservative whole-limb clearance, not a changed limb length."
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_side_jackknife",
+      "shot": "r13-cat_cal_side_jackknife-start",
+      "attemptId": "attempt_ec20465af32a49b7",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:23:15+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_side_jackknife-start/attempt_ec20465af32a49b7.jpg",
+      "outputSha256": "2407825cf51ad7f7d31675841b8ae84ea70f438bf0287af0641448d647664c5a",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel detail where necessary; no motion inferred.",
+      "evidence": [
+        "The lower/floor-side arm bends upward with its hand beside the head; the upper arm instead places its palm on the mat. This reverses the catalog lower-arm support/upper-hand-beside-head arrangement.",
+        "Both legs rest nearly extended with only a shallow knee bend, rather than a clear bent-knee side-lying starting setup.",
+        "Gray fibers and orange abdominal/oblique muscles are readable and shorts opaque; body and upward envelope fit, so the decisive defects are actual support/starting-pose geometry."
+      ],
+      "limitations": [
+        "No exact knee angle is imposed from the frontal projection; the correction asks for unambiguously bent knees and separately readable support arms."
+      ]
+    },
+    {
+      "exerciseId": "ex_glute_bridge",
+      "shot": "r13-ex_glute_bridge-start",
+      "attemptId": "attempt_ae43ad803bf740b8",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-ex_glute_bridge-start/attempt_ae43ad803bf740b8.jpg",
+      "outputSha256": "8096201cdfe9c0babe80e7260e0b8269976e91c8830b4567a8e3be14300f6d55",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:24:53+00:00",
+      "status": "needs-correction",
+      "reviewMethod": "Actual full-resolution master plus actual-pixel posterior-leg cue crop.",
+      "evidence": [
+        "The low pelvis/head/shoulder support, bent knees, planted feet and arms by sides form a plausible glute-bridge starting setup with full upward hip envelope.",
+        "The separate bordered posterior pelvic fragment has coherent gray sacrum/proximal thighs and orange bounded to both gluteus maximus masses above the gluteal fold; main shorts remain opaque charcoal.",
+        "Actual-pixel leg detail shows blue tint on the posterior calf muscle bellies as well as the exposed posterior thighs. Canonical secondary muscles are hamstrings only, so the optional blue cue spills below the knee onto an unlisted group. Preserve valid geometry/inset and remove that extra cue before motion."
+      ],
+      "limitations": [
+        "The optional hamstring blue can be omitted completely to avoid another ambiguous boundary; the genuine primary glute inset must remain anatomically bounded.",
+        "No glute-bridge motion correctness or human acceptance inferred from this still."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ae43ad803bf740b8/workflow-leg-cue-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_standing_hip_abduction",
+      "shot": "r13-cat_pil_standing_hip_abduction-start",
+      "attemptId": "attempt_35d14898c37942ac",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_standing_hip_abduction-start/attempt_35d14898c37942ac.jpg",
+      "outputSha256": "77877ebd7b6ee9659a11f92e69a918a728db8b770243915f7a3d9013a8a1190b",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:29:58+00:00",
+      "status": "needs-correction",
+      "reviewMethod": "Actual full-resolution complete master; movement envelope assessed from visible limb proportions and floor contacts.",
+      "evidence": [
+        "The full standing figure has readable gray fibers, opaque shorts, a stable complete chair and a light hand contact on its back; the separate lateral-pelvis fragment has genuinely sculpted orange gluteus medius fibers.",
+        "The outside foot at image right is near the right edge: only about70–80px margin in the768px-wide source, while even a modest lateral arc of the long hip-to-foot chain requires more room. The full side-leg envelope is not safely framed.",
+        "The main figure is front-biased: chair is image left and outside working leg image right, whereas the posterior inset colors image-right anatomical gluteal tissue. Require source-relative cue-side alignment in the new source rather than copying requested LEFT/RIGHT labels blindly."
+      ],
+      "limitations": [
+        "The main rendered side can differ from requested anatomical labels; actual outside leg, supporting chair hand and cue side must be reviewed together."
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_single_leg_bridge",
+      "shot": "r13-cat_cal_single_leg_bridge-start",
+      "attemptId": "attempt_e57bf8a22ca749fb",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_single_leg_bridge-start/attempt_e57bf8a22ca749fb.jpg",
+      "outputSha256": "d20e61b32d134319fbbbea1e372b3ec0ce0c70305860567ff0c11a6694e1d0be",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:29:59+00:00",
+      "status": "needs-correction",
+      "reviewMethod": "Actual full-resolution complete master; movement envelope assessed from visible limb proportions and floor contacts.",
+      "evidence": [
+        "Actual low pelvis/head/shoulder support, one planted bent-knee foot and one distinct raised straight leg form a plausible single-leg bridge start; shorts opaque and the glute inset is real sculpted anatomy.",
+        "The already-raised free foot begins around60–70px from the top edge. A real pelvis rise toward aligned trunk/supporting thigh would also raise that free foot substantially, so the complete bridge endpoint can leave the frame.",
+        "The main blue hamstring cue is on the raised near leg, while the floor-planted supporting leg is the farther leg. Optional blue should be omitted and the inset must correspond to the actual supporting side rather than the requested side label."
+      ],
+      "limitations": [
+        "No raised bridge or cue-side correctness is inferred from the good-looking static pose. Preserve actual planted-foot identity in any future motion."
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_bodyweight_hip_hinge",
+      "shot": "r13-cat_cal_bodyweight_hip_hinge-start",
+      "attemptId": "attempt_cd27e517c6cf4a91",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_bodyweight_hip_hinge-start/attempt_cd27e517c6cf4a91.jpg",
+      "outputSha256": "cfc374738971f66044d6799990080a78ae4fef3b7e7d28087ecf7c8730e00b99",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:29:59+00:00",
+      "status": "needs-correction",
+      "reviewMethod": "Actual full-resolution complete master; movement envelope assessed from visible limb proportions and floor contacts.",
+      "evidence": [
+        "The actual source has coherent standing feet/hands-at-hips setup, gray fibers/opaque shorts, orange bounded posterior hamstrings, subtle lumbar blue and a real separately sculpted bilateral orange glute inset.",
+        "The body faces image left, but the large inset occupies upper-left space directly ahead of the source. A comfortable forward head/upper-trunk arc can enter that inset rectangle; no clean complete hinge envelope with visual separation is demonstrated.",
+        "Keep the valid anatomical pose/cues, widen the frame and place the inset away from the image-left head/torso path before animation."
+      ],
+      "limitations": [
+        "This is a presentation/envelope correction, not a claim that the static anatomy or supported stance is wrong."
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_side_leg_lift",
+      "shot": "r13-cat_pil_side_leg_lift-start",
+      "attemptId": "attempt_d7147c4576f9452a",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_side_leg_lift-start/attempt_d7147c4576f9452a.jpg",
+      "outputSha256": "db78abafa0e09aa189feffd439de49d25fb3fcfa4fc89e2f87c3753893cb1be3",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:29:59+00:00",
+      "status": "ready-to-animate",
+      "reviewMethod": "Actual full-resolution complete master; movement envelope assessed from visible limb proportions and floor contacts.",
+      "evidence": [
+        "One side-lying mannequin with supported head/lower arm, upper palm on mat, stacked pelvis, distinct bent lower leg and long straight upper leg. The actual upper leg is already slightly abducted in a low near-horizontal position.",
+        "The separate posterior-pelvis anatomical fragment has bounded orange glute fibers above the fold, gray adjacent thighs/sacrum and a gray opposite glute; main shorts remain fully opaque charcoal and body fibers stay gray.",
+        "Full upper foot and both support chains fit. The broad white field above the upper leg provides a moderate further lateral-lift envelope, with the inset far above/left of the working foot."
+      ],
+      "limitations": [
+        "Use the actual slightly raised source as a low comfortable starting angle; return to that same pose. Do not claim a stacked-ankle or floor-resting upper foot that is absent.",
+        "No exact side label is needed: bind motion to the actual long upper leg and keep the bent lower leg fixed."
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_clamshell",
+      "shot": "r13-cat_pil_clamshell-start",
+      "attemptId": "attempt_e263277e13f64f20",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_clamshell-start/attempt_e263277e13f64f20.jpg",
+      "outputSha256": "9c5a27c19f4890ffb1c63d798aae1e5f0fbba3928e8bf0944712aaac90625920",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:29:59+00:00",
+      "status": "needs-correction",
+      "reviewMethod": "Actual full-resolution complete master; movement envelope assessed from visible limb proportions and floor contacts.",
+      "evidence": [
+        "Actual body is side-lying with supported head, gray fibers/opaque shorts, joined feet and a separate sculpted orange glute fragment.",
+        "Both hips and knees are close to extended rather than a visibly compact bent-hip/bent-knee clamshell setup. The actual pose risks becoming a straight-leg lift rather than knee opening around touching feet.",
+        "Keep primary orange anatomically bounded, but rebuild the source with both hips/knees clearly bent and distinct closed stacked knees/continuously touching feet."
+      ],
+      "limitations": [
+        "No exact joint angle is imposed from the oblique projection; decisive requirement is an unambiguously bent-knee clamshell geometry."
+      ]
+    },
+    {
+      "exerciseId": "open_glute_kickback_ca0b85d2",
+      "shot": "r13-open_glute_kickback_ca0b85d2-start",
+      "attemptId": "attempt_771b3ee5cdaa4ecb",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_glute_kickback_ca0b85d2-start/attempt_771b3ee5cdaa4ecb.jpg",
+      "outputSha256": "021083032823e1661a1002d2c8f344fe27159e460d3491aab3453ba1496dec63",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:36:14+00:00",
+      "status": "ready-to-animate",
+      "reviewMethod": "Actual full-resolution complete master; contacts, true muscle boundaries and complete movement envelope reviewed.",
+      "evidence": [
+        "One complete neutral four-contact quadruped figure with separate flat palms below shoulders, knees under hips and bent lower legs; readable gray fibers and opaque shorts.",
+        "The separate posterior-pelvis fragment has genuine orange gluteus maximus anatomy above the fold, gray opposite glute/sacrum/proximal thighs; optional blue stays on visible posterior hamstrings below the main shorts.",
+        "Large white area behind/above the near bent thigh supports a modest bent-knee kickback. Both full hands/knees/toes and the inset are clear of the intended near-leg arc."
+      ],
+      "limitations": [
+        "Subtle blue appears on both posterior hamstring regions; these are canonical secondary muscles. Future moving limb is the actual nearer knee/leg, with far knee grounded."
+      ]
+    },
+    {
+      "exerciseId": "open_superman_27d5233d",
+      "shot": "r13-open_superman_27d5233d-start",
+      "attemptId": "attempt_73ea64e002ec45f4",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_superman_27d5233d-start/attempt_73ea64e002ec45f4.jpg",
+      "outputSha256": "b2cdddaac2b2436f2f9240b6da77e9527d82e48f00e1b6a59d49cee5b844d612",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:36:14+00:00",
+      "status": "ready-to-animate",
+      "reviewMethod": "Actual full-resolution complete master; contacts, true muscle boundaries and complete movement envelope reviewed.",
+      "evidence": [
+        "One prone low figure with extended resting legs and both arms reaching image-left in front of the head, supported by the mat; orange is bounded to lumbar erector fibers and secondary blue to exposed posterior hamstrings.",
+        "Gray anatomical fibers persist on back/shoulders/arms/legs and main shorts remain opaque charcoal. Whole hands/head/feet fit with white space above for a short comfortable lift.",
+        "Both arms reach forward with a visible relaxed elbow bend rather than fully locked straight elbows; this supports a limited-range source-relative Superman, not a long overhead straight-arm claim."
+      ],
+      "limitations": [
+        "Canonical arms reach forward and do not require locked elbows. Preserve the actual soft elbow bend while lifting arms/chest/legs a short distance; do not turn the motion into a palm-supported cobra."
+      ]
+    },
+    {
+      "exerciseId": "open_lower_back_curl_dd4375a1",
+      "shot": "r13-open_lower_back_curl_dd4375a1-start",
+      "attemptId": "attempt_005d0b8f040a41a6",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_lower_back_curl_dd4375a1-start/attempt_005d0b8f040a41a6.jpg",
+      "outputSha256": "5def7c41b0125e22386d14a8b0f25472c564bb053b89a6ab68562af6079924ea",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:36:14+00:00",
+      "status": "ready-to-animate",
+      "reviewMethod": "Actual full-resolution complete master; contacts, true muscle boundaries and complete movement envelope reviewed.",
+      "evidence": [
+        "One prone low torso with long resting legs, both hands lightly beside the head, bent relaxed elbows and grounded pelvis; no head-pulling grip.",
+        "Orange stays on bounded lower-back erector fibers above opaque shorts; upper-back/shoulder/limb anatomy remains readable gray. Covered secondary glutes omitted.",
+        "Whole head/hands/feet and low mat contacts fit, with generous white space above for a small chest lift; no apparatus or duplicated pose."
+      ],
+      "limitations": [
+        "Actual head/upper chest have a modest low contour above the mat; future motion must make only a short comfortable chest lift and return to this actual low source without forcing the face down."
+      ]
+    },
+    {
+      "exerciseId": "ex_woodchopper",
+      "shot": "r13-ex_woodchopper-start",
+      "attemptId": "attempt_6ce2733170524906",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-ex_woodchopper-start/attempt_6ce2733170524906.jpg",
+      "outputSha256": "645361bd611b01989c3439bf5aa25633fa00e5926eadab70efa708abcc246370",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:36:14+00:00",
+      "status": "needs-correction",
+      "reviewMethod": "Actual full-resolution complete master; contacts, true muscle boundaries and complete movement envelope reviewed.",
+      "evidence": [
+        "Actual grip region is attached to TWO separate taut routes: one from the high pulley and another from the low pulley, forming a restrained triangle rather than one high-pulley woodchopper cable.",
+        "The hands also hold a broad/compound grip near the chest with bent elbows, rather than one readable two-hand handle near the higher shoulder with comfortably long arms.",
+        "Readable gray fibers, opaque shorts and orange abdominals are otherwise valid; rebuild the single-cable apparatus geometry before motion."
+      ],
+      "limitations": [
+        "Do not infer a physically correct cable path from the requested prompt; the actual second low route is visible."
+      ]
+    },
+    {
+      "exerciseId": "open_leg_lift_7bf3c8b4",
+      "shot": "r13-open_leg_lift_7bf3c8b4-start",
+      "attemptId": "attempt_cba2f9874ebf4000",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_leg_lift_7bf3c8b4-start/attempt_cba2f9874ebf4000.jpg",
+      "outputSha256": "0246eaf86d534d53a2f427790be613d6a3a85ab7b27cc260a48c13cb35dc7aba",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:36:14+00:00",
+      "status": "needs-correction",
+      "reviewMethod": "Actual full-resolution complete master; contacts, true muscle boundaries and complete movement envelope reviewed.",
+      "evidence": [
+        "Actual source contains TWO whole mannequins and TWO chairs, showing front and rear views side by side; one motion source must have one figure and one apparatus setup.",
+        "The rear/right figure has readable support-hand contacts and exposed posterior anatomy, and can be preserved in a targeted exact-master single-view edit.",
+        "The separate orange posterior-glute fragment is actual sculpted anatomy and can be retained; recenter the retained figure/chair with real backward-leg envelope."
+      ],
+      "limitations": [
+        "No standing hip-extension motion or valid working-side assignment is inferred from the duplicated static figures."
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_swan_prep",
+      "shot": "r13-cat_pil_swan_prep-start",
+      "attemptId": "attempt_c4433d00bf804e49",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_swan_prep-start/attempt_c4433d00bf804e49.jpg",
+      "outputSha256": "143ae9f4e7db8d597ea4235879299787e8d5ff830299438dbacc3b36d6fffa41",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:36:14+00:00",
+      "status": "needs-correction",
+      "reviewMethod": "Actual full-resolution complete master; contacts, true muscle boundaries and complete movement envelope reviewed.",
+      "evidence": [
+        "The near palm is visibly planted beside the lower ribs, but the far forearm disappears behind the torso and its actual second palm/floor contact is not demonstrated.",
+        "Canonical Swan preparation uses the hands beside the lower ribs for light support; clarify both actual palm contacts instead of assuming an occluded hand is correctly placed.",
+        "Prone body/long legs, bounded lumbar orange, upper-back blue, gray fibers and opaque shorts are otherwise coherent; preserve these geometry/materials while clarifying the view."
+      ],
+      "limitations": [
+        "This is missing/unclear second hand-contact evidence, not a measured claim of an impossible grip or incorrect far wrist. Optional blue can be omitted in the correction."
+      ]
+    },
+    {
+      "exerciseId": "ex_ab_wheel",
+      "shot": "r13-ex_ab_wheel-start",
+      "attemptId": "attempt_49f11c236c1b435c",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:41:22+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-ex_ab_wheel-start/attempt_49f11c236c1b435c.jpg",
+      "outputSha256": "47ae5b950eeeec16d983c6aec4a43a6bbaa7b8fda217df2ef07cf0927a12e202",
+      "reviewMethod": "Actual original-resolution second master inspected; no required contact or motion inferred from its prompt.",
+      "evidence": [
+        "The actual second source still shows only the nearer closed axle-handle grip. The farther forearm disappears behind the wheel rim, with no visibly closed opposite handle contact.",
+        "The previous camera/grip clarification preserved essentially the same side-biased projection; it did not make the second required support readable.",
+        "Knees, toes, neutral rib/pelvis alignment, full gray anatomical fibers, opaque shorts and bounded abdominal orange are otherwise coherent. The failure is unverified second load-bearing grip, not an asserted impossible hand placement."
+      ],
+      "limitations": [
+        "No paid motion may use this failed source. Next source must be independently reviewed; lifetime source/video caps remain."
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_side_jackknife",
+      "shot": "r13-cat_cal_side_jackknife-start",
+      "attemptId": "attempt_826febcfe509454e",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:41:22+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_side_jackknife-start/attempt_826febcfe509454e.jpg",
+      "outputSha256": "cbaf5947c77c7451b1be6159110f82f7b4260feae906711f083fc8254e8d9528",
+      "reviewMethod": "Actual original-resolution second master inspected; no required contact or motion inferred from its prompt.",
+      "evidence": [
+        "The actual second source still places the lower/floor-side left hand beside the head while the upper right palm is on the mat. The required lower-arm support and upper-hand-beside-head roles remain reversed.",
+        "Only the upper knee is clearly bent. The lower leg lies nearly straight on the mat, so the source does not demonstrate both knees bent and legs together.",
+        "The full gray anatomical fibers, bounded orange abdominal muscles, opaque shorts and whole-figure frame are useful and can be retained. A targeted arm-role and both-knee correction is warranted after the fresh source repeated the lounging pose."
+      ],
+      "limitations": [
+        "No paid motion may use this failed source. Next source must be independently reviewed; lifetime source/video caps remain."
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_eccentric_pullup",
+      "shot": "r13-cat_cal_eccentric_pullup-start",
+      "attemptId": "attempt_e26db9ef6b644e78",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:57:29+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_eccentric_pullup-start/attempt_e26db9ef6b644e78.jpg",
+      "outputSha256": "e39ada32a0cf1ff88419c9a7067b3d696371206ad38cf132c1483b318da1fa7b",
+      "reviewMethod": "Actual full original-resolution master and actual-pixel apparatus/cue crop inspected; no motion inferred.",
+      "evidence": [
+        "The actual chin lies BELOW the bar rather than clearly above it; the elbow-bent source is not the canonical completed upper setup from which eccentric lowering starts.",
+        "Both feet are planted on a box directly beneath the body. The box fills the natural vertical foot/lowering lane, rather than being offset clear of that lane and within reach.",
+        "Actual-pixel upper-back detail shows orange on two narrow central paraspinal/scapular strips as well as the broad lateral latissimus surfaces. Catalog primary is lats only; central middle-back/erector tissue must remain gray under the primary-only policy.",
+        "Whole-body fibers, opaque shorts, distinct closed overhand grips and rigid apparatus are useful, but the pose/path and cue boundaries need a fresh corrected source before motion."
+      ],
+      "limitations": [
+        "The new actual source requires independent review before motion; source/video lifetime limits are retained."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e26db9ef6b644e78/workflow-contact-cue-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "open_single_leg_high_box_s_4d516c61",
+      "shot": "r13-open_single_leg_high_box_s_4d516c61-start",
+      "attemptId": "attempt_fd7ab612ced440a7",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:57:29+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-open_single_leg_high_box_s_4d516c61-start/attempt_fd7ab612ced440a7.jpg",
+      "outputSha256": "689d127fef67ade1a02b2372fb1ba1e5086eb8a5341bea3d22862cd0d56530eb",
+      "reviewMethod": "Actual full original-resolution master and actual-pixel apparatus/cue crop inspected; no motion inferred.",
+      "evidence": [
+        "The actual hanging strap continues below the hand grips and forms a return loop beneath/around the raised working thigh near the knee. This makes the strap a thigh sling/obstacle, rather than only a hand-held balance support.",
+        "The raised working foot is fully planted on the box, trailing foot is grounded and the intact rack/whole body/headroom fit. These useful physical contacts should be preserved in an exact-master edit.",
+        "Actual-pixel thigh detail also shows an orange strip on the posterior underside of the raised thigh, separate from the anterior quadriceps, and a small orange fleck at the back of the trailing knee. Keep primary orange within true working quadriceps and remove stray posterior/joint tint.",
+        "The main exposed anatomy has readable gray fibers and opaque shorts. No motion or valid future strap route is assumed from this failed still."
+      ],
+      "limitations": [
+        "The new actual source requires independent review before motion; source/video lifetime limits are retained."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_fd7ab612ced440a7/workflow-contact-cue-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "open_rear_leg_raises_0bbd6757",
+      "shot": "r13-open_rear_leg_raises_0bbd6757-start",
+      "attemptId": "attempt_a08c4bda09694cc8",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:06:21+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-open_rear_leg_raises_0bbd6757-start/attempt_a08c4bda09694cc8.jpg",
+      "outputSha256": "52af93709bf40b2f8b6f7d8c75af4cc169b31e2f681d09cf271134605ceee4f4",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel contact crop where necessary; no motion inferred.",
+      "evidence": [
+        "One coherent quadruped with both actual palms beneath shoulders, both knees beneath hips, supported whole feet, quiet level trunk/pelvis and aligned downward-looking neck.",
+        "Readable neutral gray fibers across exposed torso/arms/legs, uniform opaque shorts and no main-body tint. Separate upper-left fragment has genuine sculpted orange primary glute anatomy with gray pelvic bone/surrounding anatomy; no orange clothing.",
+        "The body faces IMAGE RIGHT. Estimated actual near-leg hip-to-knee, knee-to-ankle and ankle-to-toe projected segment sum is roughly550–580px, versus about680–700px from near hip to image-left boundary. This leaves roughly100–150px margin for a fully straight rear leg. At controlled hip height the foot remains below the inset lower edge, and the stationary head/hands fit."
+      ],
+      "limitations": [
+        "Segment measurements are approximate image projections, not an exact3D reconstruction. Bind only the actual near bent leg and keep its endpoint at/below torso height; no opposite arm extension or pelvic rotation.",
+        "Inset is a static explanatory primary-glute fragment, not real-time main-body color or a second figure."
+      ]
+    },
+    {
+      "exerciseId": "open_glute_ham_raise_5158d2f2",
+      "shot": "r13-open_glute_ham_raise_5158d2f2-start",
+      "attemptId": "attempt_676ab44d68714b51",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:06:21+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-open_glute_ham_raise_5158d2f2-start/attempt_676ab44d68714b51.jpg",
+      "outputSha256": "d43e74442ef622dd28b48003e893f27c912f7f70d638837718f857b121d3848b",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel contact crop where necessary; no motion inferred.",
+      "evidence": [
+        "The source uses a diagonal Roman-chair-like setup whose rounded pad supports the proximal thighs/hip area, while both actual knees lie far behind the pad. This does not show the catalog distal-thigh/knee support required for a knee-flexion glute-ham raise.",
+        "The extended torso and orange hamstrings/gray fibers are readable, but the current pad position invites a hip-hinge/back-extension substitution rather than supported knee flexion.",
+        "Footplate and ankle rollers are present; a fresh GHD with the pad immediately beside the actual knees, not near the hips, is needed before a knee-bending animation."
+      ],
+      "limitations": [
+        "No actual knee-flexion motion or safe unseen distal contact is inferred from the apparatus name."
+      ]
+    },
+    {
+      "exerciseId": "open_suspended_reverse_cru_87b7b4f2",
+      "shot": "r13-open_suspended_reverse_cru_87b7b4f2-start",
+      "attemptId": "attempt_a905b82dc60c41bc",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:06:21+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-open_suspended_reverse_cru_87b7b4f2-start/attempt_a905b82dc60c41bc.jpg",
+      "outputSha256": "3632b5e0e2e8db80deff0b86c39aa834b3c8a04e7bebc211fda5160314176b9c",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel contact crop where necessary; no motion inferred.",
+      "evidence": [
+        "One straight-body plank with both clear floor palm contacts, readable gray fibers, opaque shorts, bounded orange abdomen and coherent straps to a visible wall anchor.",
+        "Actual-pixel foot detail confirms the horizontal bands are around the forefeet, not ankle cuffs. However both pointed toe tips meet the floor/shadow boundary, without a readable gap demonstrating that the feet are suspended rather than toe-supported.",
+        "A narrow source clarity edit should preserve the actual forefoot cradles/anchor/plank while elevating their toe tips clearly above the floor. This does not assert an impossible strap route from occlusion."
+      ],
+      "limitations": [
+        "The source floor/contact projection is ambiguous at the toe tips; the failure is unverified suspended support, not a measured claim of load on the toes."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a905b82dc60c41bc/workflow-contact-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "open_suspended_fallout_a1311340",
+      "shot": "r13-open_suspended_fallout_a1311340-start",
+      "attemptId": "attempt_acadbac27bf6488d",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:06:21+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-open_suspended_fallout_a1311340-start/attempt_acadbac27bf6488d.jpg",
+      "outputSha256": "0e00f51807d92a695a7ec1f4e1c0c407d25977ae94c5c67e50e6b11e21cddc3e",
+      "reviewMethod": "Actual original-resolution full master, with actual-pixel contact crop where necessary; no motion inferred.",
+      "evidence": [
+        "Actual-pixel grip detail shows the near hand with long extended fingers rather than a closed wrapping grip on its D-handle; the far hand has a clear closed grip. The near required load-bearing grip must be corrected before leaning farther.",
+        "Actual supported toe stance, straight inclined body, gray fibers, opaque shorts and bounded abdominal orange are otherwise coherent. The rearward upper strap anchor is not rejected merely for being behind the body.",
+        "The upper anchor connection is cropped at the top and the initial head has little upper margin relative to a long overhead arm chain. A wider full-anchor frame with clear overhead/front hand envelope is warranted before shoulder-flexion motion."
+      ],
+      "limitations": [
+        "No mandatory facing direction is invented from the catalog. Preserve the actual rear anchor and below-waist handles; clarify the real grip and whole overhead envelope."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_acadbac27bf6488d/workflow-contact-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_cross_body_reach",
+      "shot": "r13-cat_bal_cross_body_reach-start",
+      "attemptId": "attempt_c1f13dedf0094e19",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:11:58+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-cat_bal_cross_body_reach-start/attempt_c1f13dedf0094e19.jpg",
+      "outputSha256": "5f745b1ec31da362d160753b5cb0361f85e3c3b830dcb60d26ac0bb83c07e2a9",
+      "reviewMethod": "Actual original-resolution full master inspected; setup/whole motion envelope reviewed without presuming motion.",
+      "evidence": [
+        "One complete upright hip-width stance with both whole feet grounded, soft unforced knees and both relaxed arms down. Bounded orange rectus/oblique abdominal fibers, opaque shorts and exposed gray muscle-fiber surfaces are readable.",
+        "The actual source adds blue to the bounded deltoid surfaces, a catalog secondary shoulder group; no unsupported orange shoulder/chest patch. The small shoulder-level across-body reach remains within the full body/arm frame.",
+        "Empty white scene, no props, duplicate pose or apparatus. Only one selected arm needs to reach and fully return for one counted repetition."
+      ],
+      "limitations": [
+        "Actual added secondary deltoid blue is present despite the primary-only draft; it is anatomically bounded/canonical, and its persistence still needs actual video review.",
+        "Head/face has a smoother silver treatment than the torso fibers; the actual torso/limb muscle architecture remains readable."
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_single_leg_reach",
+      "shot": "r13-cat_bal_single_leg_reach-start",
+      "attemptId": "attempt_e084cba654614fdf",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:11:58+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-cat_bal_single_leg_reach-start/attempt_e084cba654614fdf.jpg",
+      "outputSha256": "27f182a0fa938a0bfdb8925f1bbbee1c0ccc08841217f5acbe8af3e2699e0f53",
+      "reviewMethod": "Actual original-resolution full master inspected; setup/whole motion envelope reviewed without presuming motion.",
+      "evidence": [
+        "One actual single-leg standing start: the nearer IMAGE-LEFT foot is fully planted with a soft knee; the farther foot is lifted behind the supporting leg with clear floor separation. The two lower-leg/foot chains remain distinct.",
+        "Whole gray muscular anatomy, opaque shorts and a genuine orange glute fragment remain coherent; no optional main-body tint. Both relaxed bent arms/hands sit in front of the torso.",
+        "The small source-relative hip-back hinge and slight forward hands reach fit below/clear of the upper-left inset; the starting upright height is the highest endpoint."
+      ],
+      "limitations": [
+        "The free leg is softly bent behind/crossed in depth, not a long rear-leg extension. Keep this actual stance and use only a small forward range.",
+        "One selected side only; per-side counting does not require adding the opposite-leg repetition in this clip."
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_lateral_weight_shift",
+      "shot": "r13-cat_bal_lateral_weight_shift-start",
+      "attemptId": "attempt_909ae740961644f9",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:11:58+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-cat_bal_lateral_weight_shift-start/attempt_909ae740961644f9.jpg",
+      "outputSha256": "3fe02ea6082d8826d5cb9cddbdf6c06b8ee7ed3e0342aba4152fb38eecc55438",
+      "reviewMethod": "Actual original-resolution full master inspected; setup/whole motion envelope reviewed without presuming motion.",
+      "evidence": [
+        "One whole neutral standing source with both full feet apart and grounded, soft knees, hands lightly at hips, level shoulders and quiet trunk.",
+        "Readable gray muscular fiber surfaces, opaque shorts and separately sculpted bilateral orange glute anatomy; all main-body muscles stay gray. Both sides have room for a small pelvis shift without foot repositioning.",
+        "The complete feet/head/hands fit the blank white frame. One shift to EACH side is the catalog one complete repetition."
+      ],
+      "limitations": [
+        "Static bilateral glute inset is explanatory anatomy, not a second moving person. Actual feet must remain grounded through both directions."
+      ]
+    },
+    {
+      "exerciseId": "cat_cond_squat_calf_raise",
+      "shot": "r13-cat_cond_squat_calf_raise-start",
+      "attemptId": "attempt_d0302d4ae6ba4a86",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:11:58+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-cat_cond_squat_calf_raise-start/attempt_d0302d4ae6ba4a86.jpg",
+      "outputSha256": "37452bf55299a32373521747fad41b647e6f8f045cf6649bc980ff15eb9817b0",
+      "reviewMethod": "Actual original-resolution full master inspected; setup/whole motion envelope reviewed without presuming motion.",
+      "evidence": [
+        "One full standing source with both feet flat at comfortable width, soft knees and hands loosely clasped in front of the lower chest. Whole body and downward squat envelope fit.",
+        "Orange stays within anterior quadriceps muscle boundaries; calves and other exposed muscles remain gray. Readable torso/limb anatomical fibers, opaque shorts and empty white scene.",
+        "Initial head margin is about80px in this1376px-high portrait master, enough for only a modest two-heel calf raise rather than a large jump. One full squat/stand/heel rise/heel lowering counts once."
+      ],
+      "limitations": [
+        "Limit the calf raise to a modest controlled heel height within the actual head margin; no jumping or extra squat.",
+        "Optional secondary calf/glute cues are omitted; primary quads remain the teaching cue."
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_side_step_hold",
+      "shot": "r13-cat_bal_side_step_hold-start",
+      "attemptId": "attempt_1319ee0a76ea46d1",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:11:58+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-cat_bal_side_step_hold-start/attempt_1319ee0a76ea46d1.jpg",
+      "outputSha256": "b48b7f9e906772c655e9f15fbe6789e950e740f10247e72a17e893bfbd560266",
+      "reviewMethod": "Actual original-resolution full master inspected; setup/whole motion envelope reviewed without presuming motion.",
+      "evidence": [
+        "One neutral complete standing source with both feet grounded, relaxed arms by the sides, soft knees and genuine separate bilateral orange glute anatomy. Gray muscle-fiber surfaces and opaque shorts are retained.",
+        "The whole body fits with enough side room for a SMALL step toward IMAGE RIGHT and a slight opposite-foot lift. A large translating stride would exceed the hand/torso margin and is not supported by this source.",
+        "No apparatus or photography set. Count one step, about2seconds balancing and free-foot-down reset as one rep; final translated stance is legitimate."
+      ],
+      "limitations": [
+        "Restrict the actual lateral step to a small half-foot-width amount and keep arms quiet near the body; no opposite step back simply to restore the first frame."
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_quarter_turn",
+      "shot": "r13-cat_bal_quarter_turn-start",
+      "attemptId": "attempt_ef6faecc0f0f4e63",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:11:58+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-cat_bal_quarter_turn-start/attempt_ef6faecc0f0f4e63.jpg",
+      "outputSha256": "839f5b291c79599ab5505de42675693d8a65ac4b7da7fea14b656afa8c758df0",
+      "reviewMethod": "Actual original-resolution full master inspected; setup/whole motion envelope reviewed without presuming motion.",
+      "evidence": [
+        "One whole quiet grounded stance with both separate feet, relaxed hands at sides, gray anatomical fibers, opaque shorts and a real bilateral primary orange glute fragment.",
+        "An in-place quarter-turn can fit the same body envelope with small lifted/repositioned feet; no long lateral step or equipment is needed. The blank floor shows actual foot contacts.",
+        "One90degree turn followed by both-feet-grounded pause is the catalog one repetition. The end remains the new orientation; turning back would be a second counted repetition."
+      ],
+      "limitations": [
+        "The actual animation must show alternating foot lifts and landings, not twist over planted toes. No motion correctness is presumed from the still."
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_bird_dog",
+      "shot": "r13-cat_cal_bird_dog-start",
+      "attemptId": "attempt_7812c975f4644970",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:11:58+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_bird_dog-start/attempt_7812c975f4644970.jpg",
+      "outputSha256": "3631e13b932acc9f636f336d340a1a3408fb16d9bf7d0a37ecdd65967a726345",
+      "reviewMethod": "Actual original-resolution second master with conservative projected full-extension envelope inspection.",
+      "evidence": [
+        "The second bird-dog source still has a large quadruped close to the right boundary. Near hip is aroundx800–830; near hip-to-knee, knee-to-ankle and ankle-to-toe projected segments sum roughly570–620px, while only~545–575px remain to the right edge. A fully straight near leg has little or no reliable endpoint margin.",
+        "The prior wider-camera correction did not establish the requested full diagonal envelope. A farther-leg projection may fit, but no source pass assumes an unshown favorable depth/side selection.",
+        "Four actual support contacts, readable gray fibers, opaque shorts and bounded underside abdominal orange/subtle lumbar blue otherwise remain coherent. The failure is the unresolved complete-limb framing, not a new contact defect."
+      ],
+      "limitations": [
+        "Lengths are approximate projected segment sums, not exact3D angles. Fresh wider composition is warranted after the exact-source framing edit failed."
+      ]
+    },
+    {
+      "exerciseId": "ex_tricep_dip",
+      "shot": "r13-ex_tricep_dip-start",
+      "attemptId": "attempt_70a67b7bc1094ecd",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:16:34+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-ex_tricep_dip-start/attempt_70a67b7bc1094ecd.jpg",
+      "outputSha256": "b2b0c02b52d24872910f729b5f4e023244d699fc484d79353fef483f9f7a7c89",
+      "reviewMethod": "Actual original-resolution entire second master inspected against canonical geometry and full movement envelope.",
+      "evidence": [
+        "The actual second master still contains TWO complete full-body mannequins and TWO separate parallel-bar apparatus views stacked top and bottom. The requested single retained view has not been established.",
+        "Both depicted bodies have plausible straight-arm elevated support, closed bar grips and anatomically bounded orange posterior triceps, but a duplicated scene is unsuitable as a single moving source."
+      ],
+      "limitations": [
+        "Static review does not establish motion. Latest source remains held; a fresh third source must be exactly reviewed before motion."
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_standing_hip_abduction",
+      "shot": "r13-cat_pil_standing_hip_abduction-start",
+      "attemptId": "attempt_a38c14dc4b104910",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:16:34+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_standing_hip_abduction-start/attempt_a38c14dc4b104910.jpg",
+      "outputSha256": "1f520b5565297fa7e3130d43f9d9395c0ff93f576aee61b7bb8ef5eb74f6f56b",
+      "reviewMethod": "Actual original-resolution entire second master inspected against canonical geometry and full movement envelope.",
+      "evidence": [
+        "The second source still frames the body very large. The outside IMAGE-RIGHT foot reaches aroundx690 of768px, leaving roughly70–80px to the edge, with a full hip-to-foot length roughly600px. Even a modest laterally abducted leg arc has little safe whole-foot margin.",
+        "Actual IMAGE-LEFT hand lightly contacts one stable chair; opposite hand is at hip, gray exposed fibers/opaque shorts and the real upper-right bounded glute/abductor inset are otherwise coherent. The failure is unresolved outside-leg envelope, not a new support defect."
+      ],
+      "limitations": [
+        "Static review does not establish motion. Latest source remains held; a fresh third source must be exactly reviewed before motion."
+      ]
+    },
+    {
+      "exerciseId": "ex_chin_up",
+      "shot": "r13-ex_chin_up-start",
+      "attemptId": "attempt_c9275812638a4de7",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:16:34+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-ex_chin_up-start/attempt_c9275812638a4de7.jpg",
+      "outputSha256": "2d9311f6b7979ca965c3cff88653767fd8d04b0294884c1663b993da12aa1cc9",
+      "reviewMethod": "Actual original-resolution entire second master inspected against canonical geometry and full movement envelope.",
+      "evidence": [
+        "The actual rear-facing full-hang source fixes the earlier bent-elbow partial setup, but both hand dorsal/knuckle surfaces are prominent over the visible bar. From this rear view the required underhand/supinated palms-toward-face orientation is not clearly demonstrated; the source still risks an overhand pull-up substitution.",
+        "Both actual grips are closed, feet hang clear, elbows are now long and orange is broadly bounded to the lats; the actual blue forearm cue is a canonical secondary group. Do not assert a precise grip angle from the occluded palms. A front-side view with explicit underhand palm contact is needed for an unambiguous chin-up source."
+      ],
+      "limitations": [
+        "Static review does not establish motion. Latest source remains held; a fresh third source must be exactly reviewed before motion."
+      ]
+    },
+    {
+      "exerciseId": "ex_glute_bridge",
+      "shot": "r13-ex_glute_bridge-start",
+      "attemptId": "attempt_14d7e821a0a14f4c",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:22:07+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-ex_glute_bridge-start/attempt_14d7e821a0a14f4c.jpg",
+      "outputSha256": "30721ad2d23acdfccd2498fcf9de72a1a41629f27079565527028e3fc1592fa5",
+      "reviewMethod": "Actual complete original-resolution second master inspected for source contacts, primary boundaries and complete endpoint envelope.",
+      "evidence": [
+        "Actual supine low starting pose has head/shoulders/pelvis on the mat, both knees bent and both independent complete feet flat. Arms/palms rest alongside the torso. The entire body/whole feet and upward pelvic lift envelope fit the landscape.",
+        "The source correction removes the earlier cool calf/hamstring tint: all actual main exposed anatomy is now neutral gray with readable muscle fibers and opaque uniform shorts. The separately sculpted real bilateral glute fragment shows bounded orange primary muscle surfaces, not clothing paint.",
+        "One bilateral foot-driven hip raise until trunk/thigh alignment and complete low return can be drafted from this actual pose. No band/ball or unshown apparatus is required."
+      ],
+      "limitations": [
+        "Only the supported basic floor bridge is represented; catalog band/ball options are not added. Motion remains unreviewed until actual delivery."
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_single_leg_bridge",
+      "shot": "r13-cat_cal_single_leg_bridge-start",
+      "attemptId": "attempt_5bdb28a2a71e47a3",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:22:07+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_single_leg_bridge-start/attempt_5bdb28a2a71e47a3.jpg",
+      "outputSha256": "9632a54a7d6be916461e1c7625094d5c757cafe2249f28a6b5505036449549ee",
+      "reviewMethod": "Actual complete original-resolution second master inspected for source contacts, primary boundaries and complete endpoint envelope.",
+      "evidence": [
+        "The actual second single-leg bridge still places the free straight foot at roughly60–70px from the upper edge. The pelvis starts low and must rise enough to align the trunk/supporting thigh; retaining the actual high free-leg geometry would leave little or no safe whole-foot margin.",
+        "The previous wider-camera edit has not established a robust raised-hip/free-foot endpoint envelope. The far foot is planted, main exposed muscles are now gray, and the actual low pose/glute fragment are otherwise coherent. Do not approve by assuming a compensating free-leg lowering not yet shown."
+      ],
+      "limitations": [
+        "Full future motion envelope/setup is not established. A fresh third source must be exactly reviewed before animation; no fifth source or cap reset."
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_clamshell",
+      "shot": "r13-cat_pil_clamshell-start",
+      "attemptId": "attempt_3aaedc42495b4d05",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:22:07+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_clamshell-start/attempt_3aaedc42495b4d05.jpg",
+      "outputSha256": "42e78b95e0270ba144f24e31890051f057995bd329e54763c6a81417289c2260",
+      "reviewMethod": "Actual complete original-resolution second master inspected for source contacts, primary boundaries and complete endpoint envelope.",
+      "evidence": [
+        "The second clamshell master has a bent/open upper knee but the LOWER leg remains almost straight. Both hips/knees are not in the required bent side-lying setup and the source already resembles an open-knee/leg-lift pose rather than a closed clamshell start.",
+        "The anatomical inset has only an orange OUTLINE around a largely gray glute surface, instead of the bounded filled orange primary muscle fibers used in this style. Main gray fibers/opaque shorts and head support otherwise remain coherent."
+      ],
+      "limitations": [
+        "Full future motion envelope/setup is not established. A fresh third source must be exactly reviewed before animation; no fifth source or cap reset."
+      ]
+    },
+    {
+      "exerciseId": "open_leg_lift_7bf3c8b4",
+      "shot": "r13-open_leg_lift_7bf3c8b4-start",
+      "attemptId": "attempt_e3f1710821944a1d",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:24:36+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-open_leg_lift_7bf3c8b4-start/attempt_e3f1710821944a1d.jpg",
+      "outputSha256": "41e439dacfb23ab769ede18061fb11fce98ff9ebba4082253fb56c3845df1177",
+      "reviewMethod": "Actual complete original-resolution second source master inspected for support/materials and full movement envelope.",
+      "evidence": [
+        "The corrected chair-supported standing hip-extension source has only ONE complete body and ONE complete grounded chair. Both hands visibly contact the chair back, torso is upright, soft knees and both feet grounded.",
+        "Whole exposed gray muscle fibers and plain opaque charcoal shorts are retained. The real single-working-side primary glute anatomical fragment is bounded orange; main thigh/calves stay gray. The large empty IMAGE-RIGHT space behind the hips supports a small whole straight-leg backward arc without clipping."
+      ],
+      "limitations": [
+        "Actual source is a rear-side view facing IMAGE LEFT; draft selects the farther/IMAGE-RIGHT foot/leg for the one backward extension, leaving the nearer full foot planted. Exact animation remains to be reviewed."
+      ]
+    },
+    {
+      "exerciseId": "open_glute_kickback_ca0b85d2",
+      "shot": "r13-open_glute_kickback_ca0b85d2-start",
+      "attemptId": "attempt_abdc0d27a3e64036",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:24:36+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-open_glute_kickback_ca0b85d2-start/attempt_abdc0d27a3e64036.jpg",
+      "outputSha256": "e729d4769b92b04cff35d23236f0b485e5db1d59927f68e7af020028447d44f6",
+      "reviewMethod": "Actual complete original-resolution second source master inspected for support/materials and full movement envelope.",
+      "evidence": [
+        "The actual second kickback source removes all earlier blue thigh cues, preserving readable gray anatomy, four hand/knee mat contacts, quiet quadruped geometry and a proper filled orange glute inset.",
+        "However, the previously opaque charcoal SHORTS are now completely absent: exposed anatomical glute/pelvic surfaces and proximal thighs replace the required clothing on the main body. This actual material change is a source failure even though the optional cue removal succeeded."
+      ],
+      "limitations": [
+        "Prior source1 actual ready record remains retained; source2 is not ready for animation. A targeted exact-source opaque-shorts repair must be independently reviewed."
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_bodyweight_hip_hinge",
+      "shot": "r13-cat_cal_bodyweight_hip_hinge-start",
+      "attemptId": "attempt_8220f880313b4091",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:27:17+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_bodyweight_hip_hinge-start/attempt_8220f880313b4091.jpg",
+      "outputSha256": "387b87097dd4d12f128995f575107485bd2bd5b546abfedcacb1fdb6326d1faf",
+      "reviewMethod": "Actual original-resolution entire settled second master inspected; full contacts/cue boundaries and source-to-complete-movement envelope.",
+      "evidence": [
+        "Actual one-body hip-width standing source has both whole feet grounded, hands at hips, upright quiet torso and soft unforced knees. Real gray muscle fibers/opaque charcoal shorts, bounded orange posterior hamstrings and filled real bilateral orange glute fragment remain coherent.",
+        "The corrected glute inset is now LOWER LEFT beside the lower legs rather than in the forward head arc. A modest controlled hips-back/torso-forward hinge fits above/clear of it while both feet and head stay framed.",
+        "Actual lumbar blue remains bounded to the lower-back erector surfaces, a canonical secondary muscle, despite the optional omission in the draft. Preserve that valid actual cue for subsequent motion review instead of rerendering solely for draft disagreement."
+      ],
+      "limitations": [
+        "Use the small comfortable catalog hinge with nearly upright shins, not a deep squat or forced horizontal back. The actual lumbar blue must stay attached in the delivered motion."
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_eccentric_pullup",
+      "shot": "r13-cat_cal_eccentric_pullup-start",
+      "attemptId": "attempt_8bbe7cb9610b4a37",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:27:17+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_eccentric_pullup-start/attempt_8bbe7cb9610b4a37.jpg",
+      "outputSha256": "c11c599640185549cb212f046991ce47b25b311654413928daa907309395bc58",
+      "reviewMethod": "Actual original-resolution entire settled second master inspected; full contacts/cue boundaries and source-to-complete-movement envelope.",
+      "evidence": [
+        "The actual second eccentric-pull-up source still has the CHIN BELOW the bar: the bar passes across the nose/upper-face region while the lower chin/jaw lies beneath it. It is not the catalog already-supported chin-above-bar starting endpoint.",
+        "The stable box is now offset left and clear of the straight lowering lane, and bounded orange lat surfaces replace the prior central-back cue spill. Closed overhand grips/fibers/shorts are coherent; the starting arm-height error remains.",
+        "The high source also leaves limited space below its suspended feet for the remaining arm-extension drop. A farther fresh composition must show both the true above-bar chin and a complete extended-arm hang/foot-clearance envelope, rather than relying on the box to block the descent."
+      ],
+      "limitations": [
+        "No lowering motion is drafted from a below-bar source. A fresh third source must pass the actual above-bar setup and hang/reset envelope."
+      ]
+    },
+    {
+      "exerciseId": "open_single_leg_high_box_s_4d516c61",
+      "shot": "r13-open_single_leg_high_box_s_4d516c61-start",
+      "attemptId": "attempt_7a71962fbb8f4fc0",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:27:17+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-open_single_leg_high_box_s_4d516c61-start/attempt_7a71962fbb8f4fc0.jpg",
+      "outputSha256": "5ab71358fe5b47208b53262070de66c00042b80435541237d560216676c37de0",
+      "reviewMethod": "Actual original-resolution entire settled second master inspected; full contacts/cue boundaries and source-to-complete-movement envelope.",
+      "evidence": [
+        "Actual source2 fixes the earlier long strap loop around the raised thigh: one visible overhead strap now reaches two closed hands and ends above the leg space. Leading whole foot is on the box, trailing whole foot on the floor, full rise envelope and torso support are otherwise plausible.",
+        "Full master and enlarged primary crop still show a separate ORANGE posterior/underside hamstring strip beneath the raised working thigh and a small orange tint at the trailing posterior knee. Catalog primary is quadriceps only; these extra primary-colored patches remain outside anterior/lateral quad boundaries."
+      ],
+      "limitations": [
+        "This is a bounded cue/material repair on valid apparatus geometry, not grounds for a blind paid motion. Root must verify actual third image before animation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_7a71962fbb8f4fc0/workflow-primary-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "ex_woodchopper",
+      "shot": "r13-ex_woodchopper-start",
+      "attemptId": "attempt_4c446c7bbd3c4937",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:38:08+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-ex_woodchopper-start/attempt_4c446c7bbd3c4937.jpg",
+      "outputSha256": "c7ae4b570d14712341fbef5daf6ad438cee9868c49c6b2757ee1fa514cff5d10",
+      "reviewMethod": "Actual original-resolution whole second master and enlarged actual-pixel support/grip crop.",
+      "evidence": [
+        "The exact second master fixes the first dual-cable error: ONE continuous high pulley cable reaches ONE compact handle held by two visibly closed hands; both feet are grounded and orange is bounded to the abdominals.",
+        "The actual feet, pelvis/chest and face point toward the IMAGE-RIGHT cable tower. This is a forward facing-the-machine reach, rather than the catalog side-on stance with the high handle beside the pulley-side higher shoulder. The defining diagonal across-body setup remains ambiguous.",
+        "Actual full master and enlarged grip/stance crop show this orientation. Preserve the now coherent single apparatus/cable/closed grip and change only the body stance/high-side handle placement."
+      ],
+      "limitations": [
+        "No motion or occluded contact correctness is inferred from the prompt. The next exact source must pass before any motion adoption."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_4c446c7bbd3c4937/workflow-grip-stance-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "open_suspended_fallout_a1311340",
+      "shot": "r13-open_suspended_fallout_a1311340-start",
+      "attemptId": "attempt_31b86e04b95d4ff7",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:38:08+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-open_suspended_fallout_a1311340-start/attempt_31b86e04b95d4ff7.jpg",
+      "outputSha256": "d18eb0e772d0f9751454c9f8aefa5f0eae415c618e0bbbe319a96a7a84a6b3a0",
+      "reviewMethod": "Actual original-resolution whole second master and enlarged actual-pixel support/grip crop.",
+      "evidence": [
+        "The second source retains the near hand with fingers extended downward inside/along the D-handle rather than a clearly closed curl around its lower grip bar. The far hand has a visible opposed curled grip, but both required closed grips are not demonstrated after the previous targeted edit.",
+        "The actual inclined straight body, toe/forefoot floor contacts, taut rear-anchored straps, bounded orange abdominals and opaque shorts are otherwise plausible. Rear anchor direction alone is not a catalog failure.",
+        "The exact upper attachment/frame is clipped by the top edge, and the current body is still large for a clearly shown overhead arm arc. Use a smaller alternate front-side view with both actual closed grip bars and whole upper anchor visible instead of preserving an unresolved hand."
+      ],
+      "limitations": [
+        "No motion or occluded contact correctness is inferred from the prompt. The next exact source must pass before any motion adoption."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_31b86e04b95d4ff7/workflow-both-grips-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_swan_prep",
+      "shot": "r13-cat_pil_swan_prep-start",
+      "attemptId": "attempt_92c5a1601d7442d4",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:38:08+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_swan_prep-start/attempt_92c5a1601d7442d4.jpg",
+      "outputSha256": "7d20d9d32d9e81b69ba42e5a042593e627375ae2c8ac6199add21eb6a45058be",
+      "reviewMethod": "Actual original-resolution whole second master and enlarged actual-pixel support/grip crop.",
+      "evidence": [
+        "The exact second source still shows only the near flat palm beside the lower ribs. The far forearm descends behind the torso/shorts and its palm-floor contact remains completely hidden; two light hand supports cannot be verified.",
+        "The upper trunk is already raised substantially, with the near arm almost straight and far elbow bent, instead of a clearly low prone start for one slight chest lift/return. Do not infer a correct unseen far palm from a requested edit.",
+        "Gray anatomical fibers, grounded relaxed legs, opaque shorts and bounded orange lumbar cue are coherent. A fresh more elevated low source can retain this style while making both supports and the lift envelope explicit."
+      ],
+      "limitations": [
+        "No motion or occluded contact correctness is inferred from the prompt. The next exact source must pass before any motion adoption."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_92c5a1601d7442d4/workflow-support-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "open_suspended_reverse_cru_87b7b4f2",
+      "shot": "r13-open_suspended_reverse_cru_87b7b4f2-start",
+      "attemptId": "attempt_22f6eb4ec0b54dfb",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:41:50+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-open_suspended_reverse_cru_87b7b4f2-start/attempt_22f6eb4ec0b54dfb.jpg",
+      "outputSha256": "e341de4f560df73696d46e6aeb384d1e943c7efd38d9721a100323c6790148d8",
+      "reviewMethod": "Actual original-resolution entire second master plus enlarged actual-pixel suspended foot/strap detail.",
+      "evidence": [
+        "The exact full second master and enlarged foot crop show BOTH pointed feet/forefoot cradles clearly suspended above their soft floor shadows. The earlier ambiguous toe-floor contact is corrected, with readable gaps beneath both toe tips.",
+        "Two separated flat palm contacts, comfortable long arms, straight shoulder–hip–ankle plank and visible secure wall anchor behind the feet. Each taut strap leads to its own actual forefoot cradle; body faces away from the anchor.",
+        "Fine gray fibers, plain opaque charcoal shorts and bounded orange rectus/oblique abdomen are coherent. Whole head/hands/feet/anchor fit, and the open space below abdomen accommodates both knees drawing toward the torso and a small pelvic curl."
+      ],
+      "limitations": [
+        "The source ankle/foot joints are softly plantarflexed. Motion must preserve forefoot strap cradles and not invent ankle cuffs or floor toe support. Static pass does not approve any later motion."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_22f6eb4ec0b54dfb/workflow-feet-clearance.png"
+      ]
+    },
+    {
+      "exerciseId": "open_glute_ham_raise_5158d2f2",
+      "shot": "r13-open_glute_ham_raise_5158d2f2-start",
+      "attemptId": "attempt_af9ae48fa99c42b0",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:41:50+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-open_glute_ham_raise_5158d2f2-start/attempt_af9ae48fa99c42b0.jpg",
+      "outputSha256": "2242ae237a2dc9060500eb5e8ebc18b9941407ef6bc397f9dd942b5701e3dbd2",
+      "reviewMethod": "Actual full-resolution whole second master and enlarged actual apparatus-contact crop, checking full knee-to-head upright envelope.",
+      "evidence": [
+        "The second actual GHD source improves the distal-thigh/knee versus pad relationship and has visible ankle rollers/footplate, extended knees/braced long torso, crossed arms and bounded orange hamstrings.",
+        "The actual head is near the top border, while a knee-flexion lift toward upright would raise the long knee-to-head chain well above this frame. The current large diagonal body has no full upright movement envelope.",
+        "Full source and enlarged pad/foot crop were inspected. Preserve the apparatus/secured feet/knee-adjacent pad and remake the source much smaller/lower in the frame before any animation."
+      ],
+      "limitations": [
+        "Do not infer that an unshown upright endpoint will fit by clipping/camera movement or shortening limbs. Exact next source still requires pad/foot contact and full-envelope review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_af9ae48fa99c42b0/workflow-pad-foot-contact.png"
+      ]
+    },
+    {
+      "exerciseId": "ex_chin_up",
+      "shot": "r13-ex_chin_up-start",
+      "attemptId": "attempt_7323a85063854630",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:49:20+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-ex_chin_up-start/attempt_7323a85063854630.jpg",
+      "outputSha256": "262360c05cf6136c219587e694941caf5f1142994dfddde49fbfd77026e01784",
+      "reviewMethod": "Actual original-resolution complete third master with actual-pixel cue crop where needed.",
+      "evidence": [
+        "The third actual source now clearly reveals palmar underhand closed grips in a long-arm full hang, both feet clear and readable bar/headroom. The previous grip ambiguity is improved.",
+        "Actual whole master and enlarged primary detail nevertheless show orange extending well down BOTH inner upper-arm muscle regions above the armpit creases, in addition to the lateral trunk latissimus sheets. These are visible upper-arm patches rather than only a tiny hidden lat tendon insertion. Several separate anterior rib/scalloped patches are also orange.",
+        "Catalog primary is lats; biceps/forearms are secondary and not orange. Preserve the now good grip/full hanging setup and narrowly remove unsupported orange above the armpit/from anterior rib patches, keeping only the actual broad lateral/posterior lat sheets."
+      ],
+      "limitations": [
+        "Third-source negative. Only one fourth/final source remains under the existing source cap; no motion adoption or fifth source is authorized."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_7323a85063854630/workflow-primary-detail.png"
+      ]
+    },
+    {
+      "exerciseId": "ex_ab_wheel",
+      "shot": "r13-ex_ab_wheel-start",
+      "attemptId": "attempt_9d4ecce243404894",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:49:20+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-ex_ab_wheel-start/attempt_9d4ecce243404894.jpg",
+      "outputSha256": "2cf373ae9eb54bc7ce17d58469f20edf16f61cc7997b9caf59b9f3ecbdb7d8fb",
+      "reviewMethod": "Actual original-resolution complete third master with actual-pixel cue crop where needed.",
+      "evidence": [
+        "The third actual source now gives two separated closed ab-wheel handle grips, one coherent wheel/axle and both knees grounded; gray exposed fibers, opaque shorts and abdominal orange are coherent.",
+        "The top of the actual head is already clipped outside the upper border. The whole starting body is not framed, even before any rollout, so this source cannot be adopted as a complete exercise demonstration.",
+        "Preserve the improved wheel/grips/neutral kneeling setup and reframe farther back/lower with the entire head and forward wheel/body envelope visible."
+      ],
+      "limitations": [
+        "Third-source negative. Only one fourth/final source remains under the existing source cap; no motion adoption or fifth source is authorized."
+      ],
+      "reviewEvidencePaths": []
+    },
+    {
+      "exerciseId": "cat_cal_side_jackknife",
+      "shot": "r13-cat_cal_side_jackknife-start",
+      "attemptId": "attempt_1804b9c43ea342d6",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:49:20+00:00",
+      "status": "needs-correction",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_side_jackknife-start/attempt_1804b9c43ea342d6.jpg",
+      "outputSha256": "74b929fae27bfd5d75d3df3d0c373b7d95b4e4487c62ac434a1ea15853474372",
+      "reviewMethod": "Actual original-resolution complete third master with actual-pixel cue crop where needed.",
+      "evidence": [
+        "The third source again places the LOWER hand beside the head and the TOP hand flat on the mat, contrary to the catalog upper-hand-beside-head/lower-arm support arrangement. The repeated targeted edit has not reversed these actual roles.",
+        "Only the top knee is bent; the lower leg is long/straight beneath it rather than both bent legs together. This does not establish the prescribed bent-knee V-up starting setup.",
+        "Gray fibers, opaque shorts and bounded orange abdomen remain usable style, but source4 needs a fresh explicit alternate-side pose rather than preserving these repeated wrong limb roles."
+      ],
+      "limitations": [
+        "Third-source negative. Only one fourth/final source remains under the existing source cap; no motion adoption or fifth source is authorized."
+      ],
+      "reviewEvidencePaths": []
+    },
+    {
+      "exerciseId": "ex_tricep_dip",
+      "shot": "r13-ex_tricep_dip-start",
+      "attemptId": "attempt_bf3b36f4ec3545f1",
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:52:58+00:00",
+      "status": "ready-to-animate",
+      "outputPath": "form-media/assets/masters/r13-ex_tricep_dip-start/attempt_bf3b36f4ec3545f1.jpg",
+      "outputSha256": "925f482d06d6ba434698331b3c4045e8303c6f9d0e6902a6d0ce3c542e7393f6",
+      "reviewMethod": "Actual complete original-resolution third master inspected for apparatus/grips, primary boundaries and comfortable dip envelope.",
+      "evidence": [
+        "Actual third master contains ONE complete figure in a long-arm elevated top support on two separate rails. Both hands visibly wrap their respective bars with opposed thumbs, and two separate upright/base supports are grounded. The first two duplicated scenes are resolved.",
+        "Upright quiet trunk, long softly unlocked elbows and comfortably bent knees with both feet hanging above floor. The head/high endpoint fits and the roughly150–170px low-foot floor gap allows a modest comfortable dip without toe contact.",
+        "Fine gray fibers across exposed anatomy, opaque charcoal shorts and orange bounded to the posterior triceps below the gray shoulder caps. No second view, text, lighting props or optional blue."
+      ],
+      "limitations": [
+        "Only a comfortable modest descent is framed; motion must stop before feet touch floor, shoulders sink or joints are forced. No deep dip is claimed.",
+        "At the time of initial visual review the successful peer master remained in an unsettled group/submitted ledger state. Exact settlement/registration/hash confirmation remains mandatory before motion adoption. Static pass establishes no later motion."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-lever_lat_pulldown-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-lever_lat_pulldown-t2v-c4a1cb31.json"
+    },
+    {
+      "shot": "r12-bb_rack_pull-start",
+      "quoteFile": "form-media/ui-quotes/r12-bb_rack_pull-start-553fd6ab.json"
+    },
+    {
+      "shot": "r12-smith_rack_pull-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith_rack_pull-start-f9f566af.json"
+    },
+    {
+      "shot": "r12-machine_hip_thrust-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine_hip_thrust-start-634e3a44.json"
+    }
+  ]
+}

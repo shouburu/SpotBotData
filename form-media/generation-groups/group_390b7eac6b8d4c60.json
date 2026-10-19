@@ -1,0 +1,104 @@
+{
+  "id": "group_390b7eac6b8d4c60",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:40:13+00:00",
+  "balanceBefore": 1887,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_cal_split_squat",
+      "shot": "r13-cat_cal_split_squat-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "714b94c255c9af484312a0d00585f994746b0a6871503b530a5c1bf606bf4d72",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_split_squat-start-8f0e3515.json",
+      "quoteSha256": "7dfdb6908c7b39fb2a734a7fc130c2dc190f8aa7fab7be5cb9204c05086c10c6",
+      "quoteCredits": 0,
+      "balance": 1887,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_bicycle_crunch",
+      "shot": "r13-ex_bicycle_crunch-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "2acf2f4e0d94bb548d9db50137796d2c82c1f83d201e4a6c1979be618ddfec1b",
+      "quoteFile": "form-media/ui-quotes/r13-ex_bicycle_crunch-start-bd270f2a.json",
+      "quoteSha256": "7eba858cac880a286a3463c606e63afa8664ae33378cff452881702b026c3768",
+      "quoteCredits": 0,
+      "balance": 1887,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-ex_bicycle_crunch-start/attempt_ad2d2c054f9142ef.jpg",
+          "sha256": "0e7009bfececa195ec10a4e54e57e356b409b755100b3aea562ba9054e6bdf79"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_single_leg_kick",
+      "shot": "r13-cat_pil_single_leg_kick-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "e7449f329201bda9cf6b9d6799bd2c45f2c499219b85394e243d0de62a426d33",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_single_leg_kick-start-419f3951.json",
+      "quoteSha256": "bb1150305d732ba92748ad4efa2b27e9c888fa9f9ae8e319271232c81ee9ad82",
+      "quoteCredits": 0,
+      "balance": 1887,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_band_row",
+      "shot": "r13-cat_band_row-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "e7ca8dcfe5c9523ad715f3e501f583b868727d520a8638432bbead1f10021387",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_row-start-6e1a2f57.json",
+      "quoteSha256": "977d78a248286660e5ea230a1a0e8052de37b9289b8346919c44a81e6772f577",
+      "quoteCredits": 0,
+      "balance": 1887,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_row-start/attempt_80a4c48726bb4ff9.jpg",
+          "sha256": "17643e05f39d382cf1769e3332002d4486e981956fc233f12723d614e9856177"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_side_jackknife",
+      "shot": "r13-cat_cal_side_jackknife-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "363629945fbba4d4e046242b56ebbd31f6dfadb5a287a35408a2d9ce2453df00",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_side_jackknife-start-64f5744f.json",
+      "quoteSha256": "58b171f07d086db913598efd2f3f5a56b7c50af781f41216ec95e90ce498ac63",
+      "quoteCredits": 0,
+      "balance": 1887,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_side_jackknife-start/attempt_826febcfe509454e.jpg",
+          "sha256": "cbaf5947c77c7451b1be6159110f82f7b4260feae906711f083fc8254e8d9528"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_chest_press",
+      "shot": "r13-cat_band_chest_press-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "1f3fe0d90f17d1dc18277a8baf5bde765f63d259ed6cd04cd2ea0f16081ade4b",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_chest_press-start-8eb96630.json",
+      "quoteSha256": "cf53b9e4ba783be6edbfcb3bdcd69ddc33e6af355bac6a04d31341a3c3af3b37",
+      "quoteCredits": 0,
+      "balance": 1887,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_chest_press-start/attempt_2c8a0be75b664100.jpg",
+          "sha256": "22d31600a012f011496dae145ef922bc4e1c53cd0aed9c423ef29267ef63e30c"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:41:49+00:00",
+  "balanceAfter": 1887,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-b6316d323eb74c01.json",
+  "evidenceSha256": "c1e481f186abd0718dbe365942c1544aaa386cd0d20bfdaba4d928b9b469bf92",
+  "terminalFailureIds": []
+}

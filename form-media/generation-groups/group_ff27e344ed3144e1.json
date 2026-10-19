@@ -1,0 +1,35 @@
+{
+  "id": "group_ff27e344ed3144e1",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T01:17:22+00:00",
+  "balanceBefore": 1511,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_card_seated_reach",
+      "shot": "r13-cat_card_seated_reach-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "e144b56ea425464b232a32cc382547503ba36d6caf040a8ceda2e652dbaaa88e",
+      "quoteFile": "form-media/ui-quotes/r13-cat_card_seated_reach-start-paced-95f6471c.json",
+      "quoteSha256": "3b5dce4e25e4f861279f67d0dbe1b785803b93fde06bb7607460e228f9e95b25",
+      "quoteCredits": 0,
+      "balance": 1511,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_card_seated_reach-start/attempt_f9365cc5b65a422a.jpg",
+          "sha256": "6a650bbe1caa8dd2135e416c1322fdd6b1058b76ab2f54014cd2ed6947930c49"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "manual-native-free-image-with-preserved-balance-inflow",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "actualCredits": 0,
+  "balanceAfter": 1561,
+  "settledAt": "2026-10-11T01:28:15+00:00",
+  "evidenceFile": "form-media/ui-quotes/group-ff27-manual-native-free-reconciliation.json",
+  "evidenceSha256": "a34f40b2e0fcc5081d3747ef4492b541bfdbfe21d37043e7a84e1328db832803",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-cable-row-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-row-t2v-7b488322.json"
+    },
+    {
+      "shot": "r12-smith-hip-thrust-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-hip-thrust-start-fb4139a1.json"
+    },
+    {
+      "shot": "r12-bb_rack_pull-start",
+      "quoteFile": "form-media/ui-quotes/r12-bb_rack_pull-start-90a622a3.json"
+    },
+    {
+      "shot": "r12-smith_rack_pull-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith_rack_pull-start-de5dfb3a.json"
+    },
+    {
+      "shot": "r12-machine_hip_thrust-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine_hip_thrust-start-67c131a3.json"
+    },
+    {
+      "shot": "r12-machine_glute_kickback-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine_glute_kickback-start-633b12bc.json"
+    }
+  ]
+}

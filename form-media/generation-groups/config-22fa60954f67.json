@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-ex_glute_bridge-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_glute_bridge-start-3d90fbee.json"
+    },
+    {
+      "shot": "r13-open_bench_dips_4a7e0804-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_bench_dips_4a7e0804-start-200cb27e.json"
+    },
+    {
+      "shot": "r13-cat_cal_single_leg_bridge-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_single_leg_bridge-start-f1081ed7.json"
+    },
+    {
+      "shot": "r13-open_external_rotation_wit_21f1b71c-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_external_rotation_wit_21f1b71c-start-0d5686f2.json"
+    },
+    {
+      "shot": "r13-cat_pil_clamshell-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_clamshell-start-3f24d448.json"
+    },
+    {
+      "shot": "r13-open_seated_band_hamstring_7487455a-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_seated_band_hamstring_7487455a-start-116eef39.json"
+    }
+  ]
+}

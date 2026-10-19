@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_band_hip_adductions_78d2d658-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_hip_adductions_78d2d658-video-111ce420.json"
+    },
+    {
+      "shot": "r13-cat_bal_forward_weight_shift-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_forward_weight_shift-video-48cebf76.json"
+    },
+    {
+      "shot": "r13-cat_bal_clock_tap-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_clock_tap-video-9b21da95.json"
+    },
+    {
+      "shot": "r13-ex_glute_bridge-video",
+      "quoteFile": "form-media/ui-quotes/r13-ex_glute_bridge-video-b52c1624.json"
+    },
+    {
+      "shot": "r13-cat_pil_side_leg_circle-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_leg_circle-video-7418ea51.json"
+    },
+    {
+      "shot": "r13-cat_bal_lateral_weight_shift-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_lateral_weight_shift-video-9bfdc7ad.json"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "roundId": "round-12",
+  "reviews": [
+    {
+      "assetId": "r12-single-leg-extension-t2v-a7a540be",
+      "attemptId": "attempt_a7a540bef11347bc",
+      "exerciseId": "cat_var_single_leg_extension",
+      "shot": "r12-single-leg-extension-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-leg-extension-t2v-a7a540be.mp4",
+      "outputSha256": "758fa84884dad0687fa054af593f158a23c2d760bd6d101bb3a631a9237881a7",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent spot-check",
+      "reviewedAt": "2026-10-09T19:43:53+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Full 3fps timeline and exact4.33s delivery frame show foot/roller returning past their source starting height toward the floor, followed by an upward reset before the matching final pose. The extra flexion-return bounce violates one continuous cycle with a still returned finish.",
+        "Full-resolution opening and final pose match; matching endpoints alone do not establish a clean return. Correct extension and earlier monotonic lowering may support a disclosed contiguous-cycle derivative only after exact trim/endpoints are inspected."
+      ],
+      "limitations": [
+        "AI visual editorial review only; raw output is held from the human candidate queue until a newly reviewed valid derivative or replacement exists."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a7a540bef11347bc/review-3fps-01.jpg",
+        "reports/form-media/attempt_a7a540bef11347bc/review-3fps-02.jpg",
+        "reports/form-media/attempt_a7a540bef11347bc/review-full-start.png",
+        "reports/form-media/attempt_a7a540bef11347bc/review-full-turnaround.png",
+        "reports/form-media/attempt_a7a540bef11347bc/review-full-finish.png",
+        "reports/form-media/attempt_a7a540bef11347bc/root-4.33.png",
+        "reports/form-media/attempt_a7a540bef11347bc/root-5.66.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-cable-row-t2v-1f7709c4",
+      "attemptId": "attempt_1f7709c459c34631",
+      "exerciseId": "cat_var_single_cable_row",
+      "shot": "r12-single-cable-row-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-row-t2v-1f7709c4.mp4",
+      "outputSha256": "272054d8d56f93f26cf913c659f446688a71a13c452fbcc4360c1e1d19c6bc36",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent spot-check",
+      "reviewedAt": "2026-10-09T20:39:10+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Full eight-second 3fps timeline shows orange trapezius and blue latissimus fibers fading completely to silver before the contraction endpoint and staying absent through the whole first return, then reappearing near the final source pose. There is no cue-preserving complete repetition to present or trim.",
+        "A late extra partial pull also appears in the second timeline sheet. This was the fourth stable video attempt across models including the zero-charge provider failure; retain a quality hold without another generation."
+      ],
+      "limitations": [
+        "AI visual editorial judgement only; the full timeline already contains decisive material and rep-count failures. No human approval is implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_1f7709c459c34631/review-3fps-01.jpg",
+        "reports/form-media/attempt_1f7709c459c34631/review-3fps-02.jpg"
+      ]
+    }
+  ]
+}

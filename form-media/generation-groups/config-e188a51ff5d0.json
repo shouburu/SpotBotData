@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-smith-shrug-video",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-video-242d62b6.json"
+    },
+    {
+      "shot": "r12-smith-drag-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-drag-curl-start-24296f30.json"
+    },
+    {
+      "shot": "r12-smith-inverted-row-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-inverted-row-start-f7afc132.json"
+    },
+    {
+      "shot": "r12-smith-skullcrusher-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-skullcrusher-start-0c6e7835.json"
+    },
+    {
+      "shot": "r12-smith-deadlift-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-deadlift-start-38002c0a.json"
+    },
+    {
+      "shot": "r12-smith-sumo-deadlift-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-sumo-deadlift-start-93e656b6.json"
+    }
+  ]
+}

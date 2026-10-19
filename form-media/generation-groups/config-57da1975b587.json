@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_leg_lift_7bf3c8b4-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_leg_lift_7bf3c8b4-video-23bb0c1e.json"
+    },
+    {
+      "shot": "r13-open_bench_press_with_band_61b84557-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_bench_press_with_band_61b84557-video-22758e1c.json"
+    },
+    {
+      "shot": "r13-cat_cal_bodyweight_hip_hinge-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bodyweight_hip_hinge-video-2a5176cf.json"
+    },
+    {
+      "shot": "r13-cat_pil_heel_slide-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_heel_slide-video-f228a029.json"
+    },
+    {
+      "shot": "r13-cat_band_pallof_press-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pallof_press-video-84ce40d3.json"
+    },
+    {
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_skull_crusher_d4b2fbd2-video-ca4957b9.json"
+    }
+  ]
+}

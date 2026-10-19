@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_pil_side_kick-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_kick-start-053e0722.json"
+    },
+    {
+      "shot": "r13-open_hip_flexion_with_band_e4aae89b-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_hip_flexion_with_band_e4aae89b-start-4c0dc4cd.json"
+    },
+    {
+      "shot": "r13-cat_band_side_walk-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_side_walk-start-864b9f78.json"
+    },
+    {
+      "shot": "r13-open_kettlebell_sumo_high__167a225c-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_kettlebell_sumo_high__167a225c-start-11721f13.json"
+    },
+    {
+      "shot": "r13-open_ball_leg_curl_68242a59-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_ball_leg_curl_68242a59-start-d8c0e472.json"
+    },
+    {
+      "shot": "r13-open_flat_bench_lying_leg__d58bca58-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_flat_bench_lying_leg__d58bca58-start-a8c9fedc.json"
+    }
+  ]
+}

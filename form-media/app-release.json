@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": "2026.09.22.4",
-  "catalogRevision": 14,
-  "manifestSha256": "38bb9c121a949fa21b3d6d53c2a685125aa92c042cedd05935898d56ef033bf4",
+  "catalogVersion": "2026.10.15.2",
+  "catalogRevision": 22,
+  "manifestSha256": "bd77783d8eae3c95dec7a2aeec4c61175816c63ed685675eaef8cf6f7e236100",
   "selectionPolicy": "Current selected video on an accepted active exercise, backed by its latest exact-asset human dashboard decision. Keep accepted direct YouTube references as alternatives. Exclude retired exercises, superseded videos, unapproved candidates and search pages from embeds.",
   "delivery": {
     "mode": "on-demand-static-web",
@@ -10,15 +10,81 @@
     "publicDirectory": "apps/frontend/public/exercise-media",
     "nativeBaseUrlEnvironment": "EXPO_PUBLIC_EXERCISE_MEDIA_BASE_URL",
     "module": "apps/frontend/src/features/exercises/exerciseFormMediaData.ts",
-    "moduleSha256": "a7c99e20faac5bb90d9e4c20abd9496a8b93807034c03f4a1cf68edf0987e797"
+    "moduleSha256": "a638c0ba85f27d4cc68e36a49edf65da5eed573cc2a03ff4abf1e777363a573e"
   },
   "counts": {
-    "exercisesWithVideo": 111,
+    "exercisesWithVideo": 213,
     "exercisesWithYouTube": 6,
-    "files": 222,
-    "totalBytes": 71750810
+    "files": 426,
+    "totalBytes": 129281775
   },
   "approvalFlagOverrides": [
+    {
+      "exerciseId": "cat_band_curl",
+      "assetId": "r13-cat_band_curl-video-ac1eb92c",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_0eb87400037645ac",
+        "reviewedAt": "2026-10-16T02:41:46+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_band_lateral_raise",
+      "assetId": "r13-cat_band_lateral_raise-video-04f3ed48-first-cycle",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_7b83f4410b1545c9",
+        "reviewedAt": "2026-10-16T02:42:00+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_band_ohead_press",
+      "assetId": "r13-cat_band_ohead_press-video-3537bb26",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_0debefcb76d64e4e",
+        "reviewedAt": "2026-10-16T02:42:11+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_band_pallof_press",
+      "assetId": "r13-cat_band_pallof_press-video-cf9d6594",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_166717c1fa864f8a",
+        "reviewedAt": "2026-10-16T02:42:26+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_band_romanian_deadlift",
+      "assetId": "r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_b299f60821554de5",
+        "reviewedAt": "2026-10-16T02:42:53+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_cal_inverted_row",
+      "assetId": "r13-cat_cal_inverted_row-video-60968dfa",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_958a975eb6494ac9",
+        "reviewedAt": "2026-10-16T02:46:45+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
     {
       "exerciseId": "cat_cal_pike_pushup",
       "assetId": "r5-pike-pushup-anatomical-motion-c3f6f3cc",
@@ -27,6 +93,424 @@
         "reviewId": "review_bb7c27c497bf4954",
         "reviewedAt": "2026-09-21T19:26:18+00:00",
         "roundId": "round-8",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_card_recreational_skating",
+      "assetId": "r13-cat_card_recreational_skating-video-83e97191",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_8c66f47427914bf2",
+        "reviewedAt": "2026-10-16T02:41:36+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_card_step_mill",
+      "assetId": "r13-cat_card_step_mill-video-77210ee3",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_6dc59a86d9794dc2",
+        "reviewedAt": "2026-10-16T02:45:58+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_kb_single_arm_swing",
+      "assetId": "r13-cat_kb_single_arm_swing-video-2272780b",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_551bd1e4b73944d8",
+        "reviewedAt": "2026-10-16T02:48:50+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_smith_box_squat",
+      "assetId": "r12-smith-box-squat-video-fcbe7fb8",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_1a79b557a59648d9",
+        "reviewedAt": "2026-10-16T02:39:24+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_smith_front_squat",
+      "assetId": "r12-smith-front-squat-i2v-cycle-5decde99",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_ea866d3d645641be",
+        "reviewedAt": "2026-10-16T02:39:42+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_smith_lunge",
+      "assetId": "r12-smith-lunge-i2v-cycle-ad82d731",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_4fe3e6acf906436b",
+        "reviewedAt": "2026-10-16T02:39:55+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_assisted_dip",
+      "assetId": "r12-assisted-dip-first-cycle-84e3f3fa",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_4d0a58a82e504e00",
+        "reviewedAt": "2026-10-16T02:34:14+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_ball_crunch",
+      "assetId": "r12-ball-crunch-t2v-dbffb94a",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_7bcb553e909444c2",
+        "reviewedAt": "2026-10-16T02:32:57+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_bb_preacher_curl",
+      "assetId": "r12-bb_preacher_curl-t2v-283fd63d",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_029481441d8948ff",
+        "reviewedAt": "2026-10-16T02:31:36+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_bb_spider_curl",
+      "assetId": "r12-bb-spider-curl-t2v-a3ded74e",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_1ea7d0d6b76c406e",
+        "reviewedAt": "2026-10-16T02:31:46+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_cable_preacher_curl",
+      "assetId": "r12-cable_preacher_curl-t2v-1f7fd453",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_357adeb1486b43c6",
+        "reviewedAt": "2026-10-16T02:31:55+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_db_floor_press",
+      "assetId": "r12-db-floor-press-first-cycle-d7df1bde",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_30694e05f4ab454f",
+        "reviewedAt": "2026-10-16T02:32:36+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_db_hammer_curl",
+      "assetId": "r12-db_hammer_curl-t2v-fb3ea329",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_1391491c1bae4ccf",
+        "reviewedAt": "2026-10-16T02:32:48+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_decline_crunch",
+      "assetId": "r12-decline-crunch-t2v-63c25360",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_9f7e7169c3994a4d",
+        "reviewedAt": "2026-10-16T02:32:14+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_decline_ez_triceps",
+      "assetId": "r12-decline_ez_triceps-t2v-3c1af402",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_c976d05e23bf4874",
+        "reviewedAt": "2026-10-16T02:32:25+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "assetId": "r12-flat-db-rear-fly-t2v-f75d7e80",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_fb65709bf75a419a",
+        "reviewedAt": "2026-10-16T02:33:07+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_high_cable_curl",
+      "assetId": "r12-high_cable_curl-t2v-2c415c45",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_0873b432fc884eaa",
+        "reviewedAt": "2026-10-16T02:34:50+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_incline_cable_chest",
+      "assetId": "r12-incline-cable-chest-t2v-8670a4bd",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_6acf6580102e4572",
+        "reviewedAt": "2026-10-16T02:33:21+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_incline_db_lateral",
+      "assetId": "r12-incline-db-lateral-t2v-fc077ae5",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_c6daea7aecb94482",
+        "reviewedAt": "2026-10-16T02:33:34+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_machine_high_row",
+      "assetId": "r12-machine-high-row-i2v-cycle-e28484d9",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_5e4d9bcbb9dc46f1",
+        "reviewedAt": "2026-10-16T02:33:44+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_rope_hammer_curl",
+      "assetId": "r12-rope-hammer-first-cycle-603368a2",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_075b70f973c54e36",
+        "reviewedAt": "2026-10-16T02:32:05+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_seated_bb_press",
+      "assetId": "r12-seated-bb-press-t2v-ac5e4d07",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_ba0da2388bd34acc",
+        "reviewedAt": "2026-10-16T02:35:02+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_seated_cable_crunch",
+      "assetId": "r12-seated-cable-crunch-i2v-cycle-d9728643",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_e9f1027fd8144a94",
+        "reviewedAt": "2026-10-16T02:36:07+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_seated_cable_press",
+      "assetId": "r12-seated-cable-press-i2v-cycle-3463af47",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_e3e4ee712bd84ad3",
+        "reviewedAt": "2026-10-16T02:36:15+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_seated_db_curl",
+      "assetId": "r12-seated-db-curl-t2v-dea8f569",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_b16c5676992a4ae3",
+        "reviewedAt": "2026-10-16T02:36:33+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_seated_db_lateral",
+      "assetId": "r12-seated-db-lateral-t2v-ab0503ce",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_2bb3c267ea174963",
+        "reviewedAt": "2026-10-16T02:36:44+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_seated_db_press",
+      "assetId": "r12-seated-db-press-t2v-601acd58",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_04c6f1692b344943",
+        "reviewedAt": "2026-10-16T02:37:07+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_seated_db_triceps",
+      "assetId": "r12-seated-db-triceps-first-cycle-ad1d2e46",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_2c10933ae39045d4",
+        "reviewedAt": "2026-10-16T02:36:58+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_seated_leg_press",
+      "assetId": "r12-seated-leg-press-t2v-73c76a80",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_f44893461b3d4ef8",
+        "reviewedAt": "2026-10-16T02:37:19+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_seated_single_db_press",
+      "assetId": "r12-seated-single-db-press-t2v-73fff9bd",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_44f477ba8fec487e",
+        "reviewedAt": "2026-10-16T02:37:44+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_single_cable_curl",
+      "assetId": "r12-single-cable-curl-i2v-cycle-0d5dc096",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_4ca3864f8c154b13",
+        "reviewedAt": "2026-10-16T03:08:21+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_single_db_press",
+      "assetId": "r12-single-db-press-i2v-cycle-afa0b029",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_80d4802a7be94971",
+        "reviewedAt": "2026-10-16T02:40:37+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_single_db_triceps",
+      "assetId": "r12-single-db-triceps-t2v-f22d1a79",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_2483ee8b8fd94fbc",
+        "reviewedAt": "2026-10-16T02:40:30+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_single_leg_extension",
+      "assetId": "r12-single-leg-extension-i2v-cycle-a7a540be",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_2dddd55fe6be436a",
+        "reviewedAt": "2026-10-16T02:39:02+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_single_leg_press",
+      "assetId": "r12-single-leg-press-i2v-cycle-a5e8ba50",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_6d811dac285b4511",
+        "reviewedAt": "2026-10-16T02:39:15+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_standing_cable_crunch",
+      "assetId": "r12-standing-cable-crunch-t2v-4cb0b2d2",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_eaaa688b241841d1",
+        "reviewedAt": "2026-10-16T02:40:13+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "cat_var_standing_db_rear_fly",
+      "assetId": "r12-standing-db-rear-fly-t2v-6b2728d8",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_3da52823ee1f4058",
+        "reviewedAt": "2026-10-16T02:40:03+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "ex_back_extension",
+      "assetId": "r13-ex_back_extension-video-76dff856",
+      "assetReviewStatus": "needs-review",
+      "approval": {
+        "reviewId": "review_b2e186d1100e4619",
+        "reviewedAt": "2026-10-16T02:49:37+00:00",
+        "roundId": "round-14",
         "source": "dashboard"
       }
     },
@@ -53,6 +537,28 @@
       }
     },
     {
+      "exerciseId": "open_alternating_renegade__318e9981",
+      "assetId": "r13-open_alternating_renegade__318e9981-video-d7e1e081",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_6fff52f3caa5472b",
+        "reviewedAt": "2026-10-16T02:47:32+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_backward_drag_25c303d9",
+      "assetId": "r13-open_backward_drag_25c303d9-video-6313bb0d-single-step",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_c7a54524e191479a",
+        "reviewedAt": "2026-10-16T02:47:44+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
       "exerciseId": "open_clean_5137c876",
       "assetId": "r9-open-clean-5137c876-motion-25dd4585",
       "assetReviewStatus": "rejected",
@@ -60,6 +566,193 @@
         "reviewId": "review_91405a0bddf74bfb",
         "reviewedAt": "2026-09-23T00:49:22+00:00",
         "roundId": "round-11",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_kettlebell_dead_clean_60e2d3ef",
+      "assetId": "r13-open_kettlebell_dead_clean_60e2d3ef-video-181b225b",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_add48db196d14fac",
+        "reviewedAt": "2026-10-16T02:48:09+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_knee_hip_raise_on_par_3b7a0c25",
+      "assetId": "r13-open_knee_hip_raise_on_par_3b7a0c25-video-9e8f5e13",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_874e3080034e4cf5",
+        "reviewedAt": "2026-10-16T02:46:17+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_one_arm_overhead_kett_d62c6265",
+      "assetId": "r13-open_one_arm_overhead_kett_d62c6265-video-5b4fbceb-first-cycle",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_682017dcf6284c92",
+        "reviewedAt": "2026-10-16T02:48:30+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_reverse_crunch_533db487",
+      "assetId": "r13-open_reverse_crunch_533db487-video-c23a9368",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_e4bad583fc214280",
+        "reviewedAt": "2026-10-16T02:43:06+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_ring_dips_c8cfcf7b",
+      "assetId": "r13-open_ring_dips_c8cfcf7b-video-e918f6ae",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_362871a499474a36",
+        "reviewedAt": "2026-10-16T02:48:37+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_scissor_kick_0399c7e5",
+      "assetId": "r13-open_scissor_kick_0399c7e5-video-53e89b4a",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_2f5a86045709482a",
+        "reviewedAt": "2026-10-16T02:43:17+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_seated_band_hamstring_7487455a",
+      "assetId": "r13-open_seated_band_hamstring_7487455a-video-7ac1c0ef",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_587eeaaa07274fdf",
+        "reviewedAt": "2026-10-16T02:43:34+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_single_leg_butt_kick_379cdc31",
+      "assetId": "r13-open_single_leg_butt_kick_379cdc31-video-4178c961",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_d6aba6dc90334b63",
+        "reviewedAt": "2026-10-16T02:43:50+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_sit_up_4e39cf08",
+      "assetId": "r13-sit-up-60e0bd8d-complete-partial-cycle",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_51ba2e6ed07c421f",
+        "reviewedAt": "2026-10-16T02:44:21+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_sled_drag_harness_cf49f109",
+      "assetId": "r13-open_sled_drag_harness_cf49f109-video-00a64f49",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_df4f5a0faf914f30",
+        "reviewedAt": "2026-10-16T02:47:55+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_split_jump_4d120fdd",
+      "assetId": "r13-open_split_jump_4d120fdd-video-33729549",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_eccfc33d9f9a452d",
+        "reviewedAt": "2026-10-16T02:45:16+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_standing_long_jump_f080bf3c",
+      "assetId": "r13-open_standing_long_jump_f080bf3c-video-f0a16244",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_b81fe60d903641e5",
+        "reviewedAt": "2026-10-16T02:45:35+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_star_jump_c78a518b",
+      "assetId": "r13-open_star_jump_c78a518b-video-57191611",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_3c71cbcb84fe416b",
+        "reviewedAt": "2026-10-16T02:45:48+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_superman_27d5233d",
+      "assetId": "r13-open_superman_27d5233d-video-25f6831c",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_29144dd62d3d4a65",
+        "reviewedAt": "2026-10-16T02:46:05+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_suspended_reverse_cru_87b7b4f2",
+      "assetId": "r13-open_suspended_reverse_cru_87b7b4f2-video-7a452b15",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_3f6d7d179c8e4dcd",
+        "reviewedAt": "2026-10-16T02:46:36+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_two_arm_kettlebell_mi_01904129",
+      "assetId": "r13-open_two_arm_kettlebell_mi_01904129-video-dd4f58fa",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_a187aca488b142d1",
+        "reviewedAt": "2026-10-16T02:47:08+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      }
+    },
+    {
+      "exerciseId": "open_upright_row_with_band_c3eb96e4",
+      "assetId": "r13-upright-row-band-0c7ca300-complete-first-cycle",
+      "assetReviewStatus": "pending",
+      "approval": {
+        "reviewId": "review_3908edf22c2b4b05",
+        "reviewedAt": "2026-10-16T02:47:19+00:00",
+        "roundId": "round-14",
         "source": "dashboard"
       }
     }
@@ -81,6 +774,66 @@
   ],
   "selections": [
     {
+      "exerciseId": "cat_band_curl",
+      "assetId": "r13-cat_band_curl-video-ac1eb92c",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_0eb87400037645ac",
+        "reviewedAt": "2026-10-16T02:41:46+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_band_lateral_raise",
+      "assetId": "r13-cat_band_lateral_raise-video-04f3ed48-first-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_7b83f4410b1545c9",
+        "reviewedAt": "2026-10-16T02:42:00+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_band_ohead_press",
+      "assetId": "r13-cat_band_ohead_press-video-3537bb26",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_0debefcb76d64e4e",
+        "reviewedAt": "2026-10-16T02:42:11+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_band_pallof_press",
+      "assetId": "r13-cat_band_pallof_press-video-cf9d6594",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_166717c1fa864f8a",
+        "reviewedAt": "2026-10-16T02:42:26+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_band_romanian_deadlift",
+      "assetId": "r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_b299f60821554de5",
+        "reviewedAt": "2026-10-16T02:42:53+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
       "exerciseId": "cat_barbell_push_press",
       "assetId": "r9-cat-barbell-push-press-motion-c83e4482",
       "kind": "video",
@@ -88,6 +841,42 @@
         "reviewId": "review_0f43c3aef9f2492b",
         "reviewedAt": "2026-09-22T14:09:26+00:00",
         "roundId": "round-9",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_cal_bodyweight_hip_hinge",
+      "assetId": "r13-cat_cal_bodyweight_hip_hinge-video-6a05e544",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_8e75d271b7d849c4",
+        "reviewedAt": "2026-10-16T01:54:51+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_cal_bodyweight_squat",
+      "assetId": "r13-cat_cal_bodyweight_squat-video-80eb5750",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_f765cc82d9464e27",
+        "reviewedAt": "2026-10-16T01:55:01+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_cal_chair_squat",
+      "assetId": "r13-cat_cal_chair_squat-video-efbddc88",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_f04c5483d8aa471e",
+        "reviewedAt": "2026-10-16T01:55:45+00:00",
+        "roundId": "round-13",
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
@@ -104,6 +893,18 @@
       }
     },
     {
+      "exerciseId": "cat_cal_dead_bug_legs_only",
+      "assetId": "r13-cat_cal_dead_bug_legs_only-video-e18aae7f",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_22a57c88d4384099",
+        "reviewedAt": "2026-10-16T02:03:08+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "cat_cal_incline_pushup",
       "assetId": "r5-incline-pushup-cycle-v1",
       "kind": "video",
@@ -111,6 +912,30 @@
         "reviewId": "review_28c1867826ec409a",
         "reviewedAt": "2026-09-15T20:03:44+00:00",
         "roundId": "round-5",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_cal_inverted_row",
+      "assetId": "r13-cat_cal_inverted_row-video-60968dfa",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_958a975eb6494ac9",
+        "reviewedAt": "2026-10-16T02:46:45+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_cal_kneeling_pushup",
+      "assetId": "r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_4defebae0dd241ac",
+        "reviewedAt": "2026-10-16T02:05:56+00:00",
+        "roundId": "round-13",
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
@@ -152,6 +977,78 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "cat_cal_wall_pushup",
+      "assetId": "r13-cat_cal_wall_pushup-video-269f8eaf",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_4abb9ada5860492f",
+        "reviewedAt": "2026-10-16T02:00:42+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_card_indoor_march",
+      "assetId": "r13-cat_card_indoor_march-video-e6a939d6",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_15e9791434764eca",
+        "reviewedAt": "2026-10-16T01:56:48+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_card_indoor_rowing",
+      "assetId": "r13-cat_card_indoor_rowing-video-cf6f5037-first-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_84bc8fab05264ec0",
+        "reviewedAt": "2026-10-16T02:05:02+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_card_jump_rope",
+      "assetId": "r13-cat_card_jump_rope-video-e373c545",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_1987b6e564474d6a",
+        "reviewedAt": "2026-10-16T02:05:22+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_card_recreational_skating",
+      "assetId": "r13-cat_card_recreational_skating-video-83e97191",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_8c66f47427914bf2",
+        "reviewedAt": "2026-10-16T02:41:36+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_card_step_mill",
+      "assetId": "r13-cat_card_step_mill-video-77210ee3",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_6dc59a86d9794dc2",
+        "reviewedAt": "2026-10-16T02:45:58+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
       "exerciseId": "cat_card_treadmill_walking",
       "assetId": "r3-treadmill-walk-illustrated-motion-05469431",
       "kind": "video",
@@ -162,6 +1059,522 @@
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_cond_mountain_climber",
+      "assetId": "r13-cat_cond_mountain_climber-video-8c9861a8",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_cc1aec7e18564c52",
+        "reviewedAt": "2026-10-16T01:56:58+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_kb_single_arm_swing",
+      "assetId": "r13-cat_kb_single_arm_swing-video-2272780b",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_551bd1e4b73944d8",
+        "reviewedAt": "2026-10-16T02:48:50+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_pil_double_leg_kick",
+      "assetId": "r13-cat_pil_double_leg_kick-video-41d7e107",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_84c3fe558b514f81",
+        "reviewedAt": "2026-10-16T02:07:13+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_pil_half_roll_back",
+      "assetId": "r13-cat_pil_half_roll_back-video-49d3890e",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_ca919563d2374e22",
+        "reviewedAt": "2026-10-16T01:57:55+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_pil_roll_up",
+      "assetId": "r13-cat_pil_roll_up-video-28e3598d",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_24a81e9fe8ba4c67",
+        "reviewedAt": "2026-10-16T02:09:29+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_pil_side_leg_lift",
+      "assetId": "r13-side-leg-lift-first-cycle-3163d4ff",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_a866aa844a3645e7",
+        "reviewedAt": "2026-10-16T01:58:33+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_pil_tabletop_toe_tap",
+      "assetId": "r13-cat_pil_tabletop_toe_tap-video-cb56e725",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_a99b95b5e1214359",
+        "reviewedAt": "2026-10-16T02:09:38+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "cat_smith_box_squat",
+      "assetId": "r12-smith-box-squat-video-fcbe7fb8",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_1a79b557a59648d9",
+        "reviewedAt": "2026-10-16T02:39:24+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_smith_front_squat",
+      "assetId": "r12-smith-front-squat-i2v-cycle-5decde99",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_ea866d3d645641be",
+        "reviewedAt": "2026-10-16T02:39:42+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_smith_lunge",
+      "assetId": "r12-smith-lunge-i2v-cycle-ad82d731",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_4fe3e6acf906436b",
+        "reviewedAt": "2026-10-16T02:39:55+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_assisted_dip",
+      "assetId": "r12-assisted-dip-first-cycle-84e3f3fa",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_4d0a58a82e504e00",
+        "reviewedAt": "2026-10-16T02:34:14+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_ball_crunch",
+      "assetId": "r12-ball-crunch-t2v-dbffb94a",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_7bcb553e909444c2",
+        "reviewedAt": "2026-10-16T02:32:57+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_bb_preacher_curl",
+      "assetId": "r12-bb_preacher_curl-t2v-283fd63d",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_029481441d8948ff",
+        "reviewedAt": "2026-10-16T02:31:36+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_bb_spider_curl",
+      "assetId": "r12-bb-spider-curl-t2v-a3ded74e",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_1ea7d0d6b76c406e",
+        "reviewedAt": "2026-10-16T02:31:46+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_cable_preacher_curl",
+      "assetId": "r12-cable_preacher_curl-t2v-1f7fd453",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_357adeb1486b43c6",
+        "reviewedAt": "2026-10-16T02:31:55+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_db_floor_press",
+      "assetId": "r12-db-floor-press-first-cycle-d7df1bde",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_30694e05f4ab454f",
+        "reviewedAt": "2026-10-16T02:32:36+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_db_hammer_curl",
+      "assetId": "r12-db_hammer_curl-t2v-fb3ea329",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_1391491c1bae4ccf",
+        "reviewedAt": "2026-10-16T02:32:48+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_decline_crunch",
+      "assetId": "r12-decline-crunch-t2v-63c25360",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_9f7e7169c3994a4d",
+        "reviewedAt": "2026-10-16T02:32:14+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_decline_ez_triceps",
+      "assetId": "r12-decline_ez_triceps-t2v-3c1af402",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_c976d05e23bf4874",
+        "reviewedAt": "2026-10-16T02:32:25+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "assetId": "r12-flat-db-rear-fly-t2v-f75d7e80",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_fb65709bf75a419a",
+        "reviewedAt": "2026-10-16T02:33:07+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_high_cable_curl",
+      "assetId": "r12-high_cable_curl-t2v-2c415c45",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_0873b432fc884eaa",
+        "reviewedAt": "2026-10-16T02:34:50+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_incline_cable_chest",
+      "assetId": "r12-incline-cable-chest-t2v-8670a4bd",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_6acf6580102e4572",
+        "reviewedAt": "2026-10-16T02:33:21+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_incline_db_lateral",
+      "assetId": "r12-incline-db-lateral-t2v-fc077ae5",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_c6daea7aecb94482",
+        "reviewedAt": "2026-10-16T02:33:34+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_machine_high_row",
+      "assetId": "r12-machine-high-row-i2v-cycle-e28484d9",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_5e4d9bcbb9dc46f1",
+        "reviewedAt": "2026-10-16T02:33:44+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_rope_hammer_curl",
+      "assetId": "r12-rope-hammer-first-cycle-603368a2",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_075b70f973c54e36",
+        "reviewedAt": "2026-10-16T02:32:05+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_seated_bb_press",
+      "assetId": "r12-seated-bb-press-t2v-ac5e4d07",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_ba0da2388bd34acc",
+        "reviewedAt": "2026-10-16T02:35:02+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_seated_cable_crunch",
+      "assetId": "r12-seated-cable-crunch-i2v-cycle-d9728643",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_e9f1027fd8144a94",
+        "reviewedAt": "2026-10-16T02:36:07+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_seated_cable_press",
+      "assetId": "r12-seated-cable-press-i2v-cycle-3463af47",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_e3e4ee712bd84ad3",
+        "reviewedAt": "2026-10-16T02:36:15+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_seated_db_curl",
+      "assetId": "r12-seated-db-curl-t2v-dea8f569",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_b16c5676992a4ae3",
+        "reviewedAt": "2026-10-16T02:36:33+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_seated_db_lateral",
+      "assetId": "r12-seated-db-lateral-t2v-ab0503ce",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_2bb3c267ea174963",
+        "reviewedAt": "2026-10-16T02:36:44+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_seated_db_press",
+      "assetId": "r12-seated-db-press-t2v-601acd58",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_04c6f1692b344943",
+        "reviewedAt": "2026-10-16T02:37:07+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_seated_db_triceps",
+      "assetId": "r12-seated-db-triceps-first-cycle-ad1d2e46",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_2c10933ae39045d4",
+        "reviewedAt": "2026-10-16T02:36:58+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_seated_leg_press",
+      "assetId": "r12-seated-leg-press-t2v-73c76a80",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_f44893461b3d4ef8",
+        "reviewedAt": "2026-10-16T02:37:19+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_seated_single_db_press",
+      "assetId": "r12-seated-single-db-press-t2v-73fff9bd",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_44f477ba8fec487e",
+        "reviewedAt": "2026-10-16T02:37:44+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_single_cable_curl",
+      "assetId": "r12-single-cable-curl-i2v-cycle-0d5dc096",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_4ca3864f8c154b13",
+        "reviewedAt": "2026-10-16T03:08:21+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_single_db_press",
+      "assetId": "r12-single-db-press-i2v-cycle-afa0b029",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_80d4802a7be94971",
+        "reviewedAt": "2026-10-16T02:40:37+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_single_db_triceps",
+      "assetId": "r12-single-db-triceps-t2v-f22d1a79",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_2483ee8b8fd94fbc",
+        "reviewedAt": "2026-10-16T02:40:30+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_single_leg_extension",
+      "assetId": "r12-single-leg-extension-i2v-cycle-a7a540be",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_2dddd55fe6be436a",
+        "reviewedAt": "2026-10-16T02:39:02+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_single_leg_press",
+      "assetId": "r12-single-leg-press-i2v-cycle-a5e8ba50",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_6d811dac285b4511",
+        "reviewedAt": "2026-10-16T02:39:15+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_standing_cable_crunch",
+      "assetId": "r12-standing-cable-crunch-t2v-4cb0b2d2",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_eaaa688b241841d1",
+        "reviewedAt": "2026-10-16T02:40:13+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_var_standing_db_rear_fly",
+      "assetId": "r12-standing-db-rear-fly-t2v-6b2728d8",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_3da52823ee1f4058",
+        "reviewedAt": "2026-10-16T02:40:03+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "cat_yoga_low_lunge",
+      "assetId": "r13-cat_yoga_low_lunge-video-64230bc2",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_0578e8dc8dfc410b",
+        "reviewedAt": "2026-10-16T02:00:58+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "ex_back_extension",
+      "assetId": "r13-ex_back_extension-video-76dff856",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_b2e186d1100e4619",
+        "reviewedAt": "2026-10-16T02:49:37+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "needs-review"
     },
     {
       "exerciseId": "ex_barbell_row",
@@ -200,6 +1613,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "ex_box_jump",
+      "assetId": "r13-ex_box_jump-video-799152c5",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_5c79554343a943e0",
+        "reviewedAt": "2026-10-16T01:55:18+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "ex_bulgarian_split_squat",
       "assetId": "r5-bulgarian-split-squat-anatomical-motion-1a62f341",
       "kind": "video",
@@ -207,6 +1632,18 @@
         "reviewId": "review_16b009ab400a4276",
         "reviewedAt": "2026-09-15T20:00:19+00:00",
         "roundId": "round-5",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "ex_burpee",
+      "assetId": "r13-ex_burpee-video-58f3fcc3",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_44e5c84515fa443a",
+        "reviewedAt": "2026-10-16T01:55:30+00:00",
+        "roundId": "round-13",
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
@@ -266,6 +1703,18 @@
         "reviewId": "review_4534ce66f2e1402e",
         "reviewedAt": "2026-09-16T04:12:25+00:00",
         "roundId": "round-7",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "ex_crunch",
+      "assetId": "r13-ex_crunch-video-aad9323e",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_9419580954c24040",
+        "reviewedAt": "2026-10-16T01:55:55+00:00",
+        "roundId": "round-13",
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
@@ -462,6 +1911,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "ex_leg_raise",
+      "assetId": "r13-ex_leg_raise-video-c4e1024d",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_5f025061d2444346",
+        "reviewedAt": "2026-10-16T01:56:06+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "ex_lunge",
       "assetId": "r2-walking-lunge-rogue-loaded",
       "kind": "youtube",
@@ -604,6 +2065,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "ex_russian_twist",
+      "assetId": "r13-ex_russian_twist-video-3ffce3d9",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_9f629a3648d741da",
+        "reviewedAt": "2026-10-16T01:58:49+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "ex_seated_cable_row",
       "assetId": "r6-seated-cable-row-close-cycle",
       "kind": "video",
@@ -688,6 +2161,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "ex_tricep_dip",
+      "assetId": "r13-ex_tricep_dip-video-ee5e4c99",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_766a3f2ffffa40af",
+        "reviewedAt": "2026-10-16T01:57:10+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "ex_tricep_extension",
       "assetId": "r6-ex-tricep-extension-motion-2de990ab",
       "kind": "video",
@@ -735,6 +2220,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "ex_v_up",
+      "assetId": "r13-ex_v_up-video-878890be",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_64e75c62ceb64ca9",
+        "reviewedAt": "2026-10-16T02:00:31+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "ex_wrist_curl",
       "assetId": "r9-ex-wrist-curl-motion-83f0bc05",
       "kind": "video",
@@ -754,6 +2251,54 @@
         "reviewId": "review_ba4833c18c9b4368",
         "reviewedAt": "2026-09-22T14:04:38+00:00",
         "roundId": "round-9",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_alternating_renegade__318e9981",
+      "assetId": "r13-open_alternating_renegade__318e9981-video-d7e1e081",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_6fff52f3caa5472b",
+        "reviewedAt": "2026-10-16T02:47:32+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_backward_drag_25c303d9",
+      "assetId": "r13-open_backward_drag_25c303d9-video-6313bb0d-single-step",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_c7a54524e191479a",
+        "reviewedAt": "2026-10-16T02:47:44+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_band_good_morning_0b137d10",
+      "assetId": "r13-band-good-morning-0e0cf099-first-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_dc1c80c01c374781",
+        "reviewedAt": "2026-10-16T02:02:00+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_band_skull_crusher_d4b2fbd2",
+      "assetId": "r13-skull-crusher-one-cycle-96b5c011",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_9b04b597632f49e4",
+        "reviewedAt": "2026-10-16T02:02:11+00:00",
+        "roundId": "round-13",
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
@@ -819,6 +2364,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "open_bench_press_with_band_61b84557",
+      "assetId": "r13-open_bench_press_with_band_61b84557-video-e1a79611",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_49ec692b8ec342e6",
+        "reviewedAt": "2026-10-16T02:02:21+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "open_bent_over_two_dumbbel_0c77d209",
       "assetId": "r9-bent-over-dumbbell-row-first-cycle-trim-v1",
       "kind": "video",
@@ -826,6 +2383,18 @@
         "reviewId": "review_edf0a19b44ba49cf",
         "reviewedAt": "2026-09-22T14:14:29+00:00",
         "roundId": "round-9",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_body_tricep_press_cd8e102d",
+      "assetId": "r13-open_body_tricep_press_cd8e102d-video-77fd4e8c",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_70b7457f2c8e4bb0",
+        "reviewedAt": "2026-10-16T02:02:42+00:00",
+        "roundId": "round-13",
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
@@ -939,6 +2508,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "open_decline_push_up_981019c1",
+      "assetId": "r13-decline-push-up-5cbecb50-first-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_9fa73810d3a142fe",
+        "reviewedAt": "2026-10-16T02:03:21+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "open_decline_smith_press_ab9938f7",
       "assetId": "r10-open-decline-smith-press-ab9938f7-motion-v3-ecb744cc",
       "kind": "video",
@@ -946,6 +2527,18 @@
         "reviewId": "review_63c0c018e59b46eb",
         "reviewedAt": "2026-09-23T00:18:40+00:00",
         "roundId": "round-10",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_double_leg_butt_kick_6261fe23",
+      "assetId": "r13-open_double_leg_butt_kick_6261fe23-video-c8a8ad7a",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_118272e62c9d43dd",
+        "reviewedAt": "2026-10-16T02:03:33+00:00",
+        "roundId": "round-13",
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
@@ -1035,6 +2628,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "open_exercise_ball_pull_in_98443332",
+      "assetId": "r13-open_exercise_ball_pull_in_98443332-video-c2204545",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_3ff09c5281bd4d67",
+        "reviewedAt": "2026-10-16T02:03:43+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "open_external_rotation_wit_c64eb9a6",
       "assetId": "r9-open-external-rotation-wit-c64eb9a6-motion-4bc47173",
       "kind": "video",
@@ -1071,6 +2676,30 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "open_freehand_jump_squat_c59fdada",
+      "assetId": "r13-open_freehand_jump_squat_c59fdada-video-4d915557",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_11bfb3b429cf422d",
+        "reviewedAt": "2026-10-16T02:02:30+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_frog_hops_d36ec4a2",
+      "assetId": "r13-open_frog_hops_d36ec4a2-video-9fa15643",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_e68ef34f0d404554",
+        "reviewedAt": "2026-10-16T02:04:02+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "open_front_cable_raise_55c6e076",
       "assetId": "r9-open-front-cable-raise-55c6e076-motion-5f589f34",
       "kind": "video",
@@ -1078,6 +2707,30 @@
         "reviewId": "review_da39b1182832482d",
         "reviewedAt": "2026-09-22T21:55:21+00:00",
         "roundId": "round-9",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_front_squats_with_two_04034125",
+      "assetId": "r13-two-kb-front-squat-first-cycle-11486fc4",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_2626cab40a3d4193",
+        "reviewedAt": "2026-10-16T02:04:16+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_goblet_squat_b5c618ef",
+      "assetId": "r13-open_goblet_squat_b5c618ef-video-7d8306a4-first-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_617813119ba247df",
+        "reviewedAt": "2026-10-16T02:04:26+00:00",
+        "roundId": "round-13",
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
@@ -1143,6 +2796,42 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "open_kettlebell_dead_clean_60e2d3ef",
+      "assetId": "r13-open_kettlebell_dead_clean_60e2d3ef-video-181b225b",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_add48db196d14fac",
+        "reviewedAt": "2026-10-16T02:48:09+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_knee_hip_raise_on_par_3b7a0c25",
+      "assetId": "r13-open_knee_hip_raise_on_par_3b7a0c25-video-9e8f5e13",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_874e3080034e4cf5",
+        "reviewedAt": "2026-10-16T02:46:17+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_knee_tuck_jump_d2ebcd64",
+      "assetId": "r13-open_knee_tuck_jump_d2ebcd64-video-51dbb588",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_a9baab9fa388491e",
+        "reviewedAt": "2026-10-16T02:05:48+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
       "exerciseId": "open_leverage_incline_ches_0c70165e",
       "assetId": "r9-incline-leverage-single-cycle-trim-v1",
       "kind": "video",
@@ -1151,6 +2840,18 @@
         "reviewedAt": "2026-09-22T22:49:07+00:00",
         "roundId": "round-9",
         "source": "user-conditional-rename"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_lower_back_curl_dd4375a1",
+      "assetId": "r13-open_lower_back_curl_dd4375a1-video-05101dc3",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_ccc9af565eb14133",
+        "reviewedAt": "2026-10-16T02:06:15+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
     },
@@ -1177,6 +2878,42 @@
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_medicine_ball_chest_p_a83e59ad",
+      "assetId": "r13-open_medicine_ball_chest_p_a83e59ad-video-a66fbe47",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_1b37fbec2d2a4f51",
+        "reviewedAt": "2026-10-16T02:06:28+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_oblique_crunches_c1078e1e",
+      "assetId": "r13-open_oblique_crunches_c1078e1e-video-ccde1970",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_878f88de90c143d8",
+        "reviewedAt": "2026-10-16T02:07:01+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_one_arm_overhead_kett_d62c6265",
+      "assetId": "r13-open_one_arm_overhead_kett_d62c6265-video-5b4fbceb-first-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_682017dcf6284c92",
+        "reviewedAt": "2026-10-16T02:48:30+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
     },
     {
       "exerciseId": "open_one_leg_barbell_squat_589d24d2",
@@ -1227,6 +2964,30 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "open_rear_leg_raises_0bbd6757",
+      "assetId": "r13-open_rear_leg_raises_0bbd6757-video-0eb1d8f1",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_66791da3025c4153",
+        "reviewedAt": "2026-10-16T02:10:17+00:00",
+        "roundId": "round-13",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_reverse_crunch_533db487",
+      "assetId": "r13-open_reverse_crunch_533db487-video-c23a9368",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_e4bad583fc214280",
+        "reviewedAt": "2026-10-16T02:43:06+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
       "exerciseId": "open_reverse_flyes_aa2536c5",
       "assetId": "r8-open-reverse-flyes-aa2536c5-motion-776aa534",
       "kind": "video",
@@ -1237,6 +2998,42 @@
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_ring_dips_c8cfcf7b",
+      "assetId": "r13-open_ring_dips_c8cfcf7b-video-e918f6ae",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_362871a499474a36",
+        "reviewedAt": "2026-10-16T02:48:37+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_scissor_kick_0399c7e5",
+      "assetId": "r13-open_scissor_kick_0399c7e5-video-53e89b4a",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_2f5a86045709482a",
+        "reviewedAt": "2026-10-16T02:43:17+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_seated_band_hamstring_7487455a",
+      "assetId": "r13-open_seated_band_hamstring_7487455a-video-7ac1c0ef",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_587eeaaa07274fdf",
+        "reviewedAt": "2026-10-16T02:43:34+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
     },
     {
       "exerciseId": "open_seated_barbell_twist_625c8c53",
@@ -1273,6 +3070,42 @@
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_single_leg_butt_kick_379cdc31",
+      "assetId": "r13-open_single_leg_butt_kick_379cdc31-video-4178c961",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_d6aba6dc90334b63",
+        "reviewedAt": "2026-10-16T02:43:50+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_sit_up_4e39cf08",
+      "assetId": "r13-sit-up-60e0bd8d-complete-partial-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_51ba2e6ed07c421f",
+        "reviewedAt": "2026-10-16T02:44:21+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_sled_drag_harness_cf49f109",
+      "assetId": "r13-open_sled_drag_harness_cf49f109-video-00a64f49",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_df4f5a0faf914f30",
+        "reviewedAt": "2026-10-16T02:47:55+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
     },
     {
       "exerciseId": "open_smith_machine_bench_p_4ee3a150",
@@ -1371,6 +3204,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "open_split_jump_4d120fdd",
+      "assetId": "r13-open_split_jump_4d120fdd-video-33729549",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_eccfc33d9f9a452d",
+        "reviewedAt": "2026-10-16T02:45:16+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
       "exerciseId": "open_split_squat_with_dumb_9b0798a5",
       "assetId": "r8-open-split-squat-with-dumb-9b0798a5-motion-1e2aacb3",
       "kind": "video",
@@ -1405,6 +3250,54 @@
         "source": "dashboard"
       },
       "assetReviewStatusAtExport": "accepted"
+    },
+    {
+      "exerciseId": "open_standing_long_jump_f080bf3c",
+      "assetId": "r13-open_standing_long_jump_f080bf3c-video-f0a16244",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_b81fe60d903641e5",
+        "reviewedAt": "2026-10-16T02:45:35+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_star_jump_c78a518b",
+      "assetId": "r13-open_star_jump_c78a518b-video-57191611",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_3c71cbcb84fe416b",
+        "reviewedAt": "2026-10-16T02:45:48+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_superman_27d5233d",
+      "assetId": "r13-open_superman_27d5233d-video-25f6831c",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_29144dd62d3d4a65",
+        "reviewedAt": "2026-10-16T02:46:05+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
+      "exerciseId": "open_suspended_reverse_cru_87b7b4f2",
+      "assetId": "r13-open_suspended_reverse_cru_87b7b4f2-video-7a452b15",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_3f6d7d179c8e4dcd",
+        "reviewedAt": "2026-10-16T02:46:36+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
     },
     {
       "exerciseId": "open_thigh_abductor_05f17f36",
@@ -1443,6 +3336,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "open_two_arm_kettlebell_mi_01904129",
+      "assetId": "r13-open_two_arm_kettlebell_mi_01904129-video-dd4f58fa",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_a187aca488b142d1",
+        "reviewedAt": "2026-10-16T02:47:08+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
       "exerciseId": "open_upright_barbell_row_5464c784",
       "assetId": "r9-open-upright-barbell-row-5464c784-motion-76b2214e",
       "kind": "video",
@@ -1467,6 +3372,18 @@
       "assetReviewStatusAtExport": "accepted"
     },
     {
+      "exerciseId": "open_upright_row_with_band_c3eb96e4",
+      "assetId": "r13-upright-row-band-0c7ca300-complete-first-cycle",
+      "kind": "video",
+      "approval": {
+        "reviewId": "review_3908edf22c2b4b05",
+        "reviewedAt": "2026-10-16T02:47:19+00:00",
+        "roundId": "round-14",
+        "source": "dashboard"
+      },
+      "assetReviewStatusAtExport": "pending"
+    },
+    {
       "exerciseId": "open_weighted_jump_squat_f4b3559a",
       "assetId": "r9-open-weighted-jump-squat-f4b3559a-motion-30cd2f55",
       "kind": "video",
@@ -1481,6 +3398,12 @@
   ],
   "files": [
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_curl-video-ac1eb92c-poster.webp",
+      "sha256": "01491deeb14e50709a8b79e0a0625941c06099708d04b4ca1351092cdfe32d5c",
+      "bytes": 52352,
+      "filename": "01491deeb14e50709a8b79e0a0625941c06099708d04b4ca1351092cdfe32d5c.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-5/r5-lying-leg-curl-cycle-v1-poster.webp",
       "sha256": "0197f51eb05b0e649b5c528399bcb09ebd06708e262baee9ca6ed2aac88e4937",
       "bytes": 21082,
@@ -1493,6 +3416,30 @@
       "filename": "02431cc4ecb72b29668c94a851c4d2936e096ae1540c16f4094ebeb483240695.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_chair_squat-video-efbddc88.mp4",
+      "sha256": "02e9ff6382814fd4c2988d0df1c026de4475c555c000a361f2e019993345aaef",
+      "bytes": 732442,
+      "filename": "02e9ff6382814fd4c2988d0df1c026de4475c555c000a361f2e019993345aaef.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-decline-push-up-5cbecb50-first-cycle.mp4",
+      "sha256": "03487b8900152a0eb3d1374838844240f79b324b108d6eb95b159c7de9f42c2c",
+      "bytes": 437974,
+      "filename": "03487b8900152a0eb3d1374838844240f79b324b108d6eb95b159c7de9f42c2c.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-db-floor-press-first-cycle-d7df1bde.mp4",
+      "sha256": "03cb9815b575d9b5bd02444f5c040d61ac4af56f7913036e862ef0ebdbab90f1",
+      "bytes": 454637,
+      "filename": "03cb9815b575d9b5bd02444f5c040d61ac4af56f7913036e862ef0ebdbab90f1.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_kettlebell_dead_clean_60e2d3ef-video-181b225b-poster.webp",
+      "sha256": "043c534708de3b0dfc4f7e772ab5b5dc56404dcc7ca4d9fdbf4aeaa27a94ff2f",
+      "bytes": 14430,
+      "filename": "043c534708de3b0dfc4f7e772ab5b5dc56404dcc7ca4d9fdbf4aeaa27a94ff2f.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-weighted-jump-squat-f4b3559a-motion-30cd2f55-poster.webp",
       "sha256": "05b3afd7061f6d03536d574161f9df91f406fb244ae9c7ad3b520970a3b7ab08",
       "bytes": 39630,
@@ -1503,6 +3450,18 @@
       "sha256": "06af02babd1eca8cdf204b297dc86cf8cc3b0beb661c1dd027746d303cf2f378",
       "bytes": 572345,
       "filename": "06af02babd1eca8cdf204b297dc86cf8cc3b0beb661c1dd027746d303cf2f378.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_leg_raise-video-c4e1024d-poster.webp",
+      "sha256": "0712bf39c68ea72e573f15fd1dd242664441c5bfca78284450d83af9ff3c4ccf",
+      "bytes": 17034,
+      "filename": "0712bf39c68ea72e573f15fd1dd242664441c5bfca78284450d83af9ff3c4ccf.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-leg-extension-i2v-cycle-a7a540be-poster.webp",
+      "sha256": "073dc432a16906edd075921ff0b837339f340ac23fa557aef87e9ca840e9ed2e",
+      "bytes": 38504,
+      "filename": "073dc432a16906edd075921ff0b837339f340ac23fa557aef87e9ca840e9ed2e.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-hang-snatch-5089a95c-motion-e38e4476-poster.webp",
@@ -1541,6 +3500,36 @@
       "filename": "09de0575fa3c8d83e02743ac5ed4a89c9b03a9f8d1bfd85d04622577e8caf012.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_single_leg_butt_kick_379cdc31-video-4178c961-poster.webp",
+      "sha256": "0d0cd77850ccb67a3104e5c0f65bdc8fabf797faa165cec69b375153f56ac16d",
+      "bytes": 10888,
+      "filename": "0d0cd77850ccb67a3104e5c0f65bdc8fabf797faa165cec69b375153f56ac16d.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_suspended_reverse_cru_87b7b4f2-video-7a452b15.mp4",
+      "sha256": "0dff9a2d40c660432f1c673fb20d7e4f0474fee2aff69cb6e8d3a937b4211d72",
+      "bytes": 827146,
+      "filename": "0dff9a2d40c660432f1c673fb20d7e4f0474fee2aff69cb6e8d3a937b4211d72.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-decline-push-up-5cbecb50-first-cycle-poster.webp",
+      "sha256": "0f67d02d1f112cbd2dd3459c9418bb8bd0db4280c91879f63912a3f297ab30d2",
+      "bytes": 33464,
+      "filename": "0f67d02d1f112cbd2dd3459c9418bb8bd0db4280c91879f63912a3f297ab30d2.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-band-good-morning-0e0cf099-first-cycle.mp4",
+      "sha256": "1042733976b954dd7b9649164f21deda9407e3cc399cf50fbea2dc6d2cd64636",
+      "bytes": 526662,
+      "filename": "1042733976b954dd7b9649164f21deda9407e3cc399cf50fbea2dc6d2cd64636.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-db-press-t2v-601acd58-poster.webp",
+      "sha256": "10534bb98742f574ba9f12f7cf25090f5c14f341c572da726ff8ef2691cdccfd",
+      "bytes": 32342,
+      "filename": "10534bb98742f574ba9f12f7cf25090f5c14f341c572da726ff8ef2691cdccfd.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-5/r5-barbell-stepup-anatomical-motion-7d4da4ca-poster.webp",
       "sha256": "10a80bb56466c5f28f07a1ace567896ee6085ff40289b1ed734daea5adc1feea",
       "bytes": 30008,
@@ -1559,6 +3548,12 @@
       "filename": "115ac0291a2eed9072f55dcf068ece00ae4d86c63c7ec0775dbcba1c05192afe.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-incline-db-lateral-t2v-fc077ae5-poster.webp",
+      "sha256": "12f5848d25cab29f2e5eedd8fff802869693d35c5fabdf491a5afdafb8e34ea7",
+      "bytes": 21752,
+      "filename": "12f5848d25cab29f2e5eedd8fff802869693d35c5fabdf491a5afdafb8e34ea7.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-ex-skullcrusher-motion-b0786602-poster.webp",
       "sha256": "12fdf6c8d1433a55eab0a5eef61327bff3be4ab3db971d054ce943e37ea347f7",
       "bytes": 24640,
@@ -1569,6 +3564,12 @@
       "sha256": "141d6a2fbbdb29f73e9d0d1bdcc02b554a182a750a8fc866a68c7e1a87547b2d",
       "bytes": 288463,
       "filename": "141d6a2fbbdb29f73e9d0d1bdcc02b554a182a750a8fc866a68c7e1a87547b2d.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-sit-up-60e0bd8d-complete-partial-cycle.mp4",
+      "sha256": "146af5464ef44ac257eb078c3412602738a6557fa29bb88f37a44236bd1073f7",
+      "bytes": 489596,
+      "filename": "146af5464ef44ac257eb078c3412602738a6557fa29bb88f37a44236bd1073f7.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-open-incline-dumbbell-curl-4fe643b7-motion-7cf86150-poster.webp",
@@ -1583,10 +3584,22 @@
       "filename": "17ac3ba930117bc5bedf39516c102089537a80f257ab8cf3628f35b1e725cb7a.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_ring_dips_c8cfcf7b-video-e918f6ae.mp4",
+      "sha256": "18093883efdb8b89bb7f5fa64a36b494f7fab351d0a6c5d53895b5ff1580f041",
+      "bytes": 501982,
+      "filename": "18093883efdb8b89bb7f5fa64a36b494f7fab351d0a6c5d53895b5ff1580f041.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-shrugs-motion-7dcbe5f4.mp4",
       "sha256": "186d6cef7101595e15ee6e52fa9c0959fad878a48e1520d51607bb6d7b1a3642",
       "bytes": 444990,
       "filename": "186d6cef7101595e15ee6e52fa9c0959fad878a48e1520d51607bb6d7b1a3642.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_star_jump_c78a518b-video-57191611-poster.webp",
+      "sha256": "187673bcfd9d2bfd5dd8a324064704689469dacea4dc59c84449064e421ca5a5",
+      "bytes": 12428,
+      "filename": "187673bcfd9d2bfd5dd8a324064704689469dacea4dc59c84449064e421ca5a5.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-open-split-squat-with-dumb-9b0798a5-motion-1e2aacb3-poster.webp",
@@ -1607,6 +3620,24 @@
       "filename": "1a0f141a64735d50097daa617316213c2712df2bce20e0e191640f3ab10d2ae5.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_goblet_squat_b5c618ef-video-7d8306a4-first-cycle-poster.webp",
+      "sha256": "1a7ab26a28f47c563f17afd90c5b7b4933ce216629709014de6f263abfeddf9d",
+      "bytes": 32592,
+      "filename": "1a7ab26a28f47c563f17afd90c5b7b4933ce216629709014de6f263abfeddf9d.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-bb-press-t2v-ac5e4d07.mp4",
+      "sha256": "1bd64b87f6a42e8b62625e3821b7991394a921c0fb15a298492eab469bbad0ed",
+      "bytes": 398150,
+      "filename": "1bd64b87f6a42e8b62625e3821b7991394a921c0fb15a298492eab469bbad0ed.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-upright-row-band-0c7ca300-complete-first-cycle.mp4",
+      "sha256": "1be84288d3f858099064c2543cb3dea905e3f967b259d813636528e8cf469b64",
+      "bytes": 427341,
+      "filename": "1be84288d3f858099064c2543cb3dea905e3f967b259d813636528e8cf469b64.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-upright-barbell-row-5464c784-motion-76b2214e-poster.webp",
       "sha256": "1d09d119380d1c223cf71bdc1f3e3785af0a76e9e518a51f43f720685b5ca371",
       "bytes": 31992,
@@ -1619,10 +3650,28 @@
       "filename": "1d3e685866403af69ae846ceb1080964c8f21a964022d47def4ea6274da0f13a.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_crunch-video-aad9323e.mp4",
+      "sha256": "1dc8683bc6e6fd4f6dd55ce0c9856348ec326abf0202fefe7d8f6b4c1d178f2f",
+      "bytes": 828437,
+      "filename": "1dc8683bc6e6fd4f6dd55ce0c9856348ec326abf0202fefe7d8f6b4c1d178f2f.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-decline-crunch-t2v-63c25360-poster.webp",
+      "sha256": "1de38de0beb1e6c11d6c01afa324d26032338e403ff5e4cd951d14a4f36ae45a",
+      "bytes": 41006,
+      "filename": "1de38de0beb1e6c11d6c01afa324d26032338e403ff5e4cd951d14a4f36ae45a.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-cable-lying-triceps-complete-cycle-close.mp4",
       "sha256": "1ec6b2a567e2a93fb57f8dc46e19a5f9db0e5723f7de73b2f8b03b14bc4a4df1",
       "bytes": 260359,
       "filename": "1ec6b2a567e2a93fb57f8dc46e19a5f9db0e5723f7de73b2f8b03b14bc4a4df1.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-standing-cable-crunch-t2v-4cb0b2d2-poster.webp",
+      "sha256": "1ef0983649273d733b11c63cee2ac07c727f40f796f56aa9f129fae2bc626397",
+      "bytes": 44512,
+      "filename": "1ef0983649273d733b11c63cee2ac07c727f40f796f56aa9f129fae2bc626397.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-dumbbell-shoulder-press-motion-00231293.mp4",
@@ -1631,16 +3680,40 @@
       "filename": "1f2dd74982ca92e8a79a215e41bbce61a4c4dacdeca8836768e25ce150f0403f.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-machine-high-row-i2v-cycle-e28484d9-poster.webp",
+      "sha256": "1fd87f2ae0fbd42e9ea9b85d987407fbe0e66c830faf0ffec8f0d16e55a66e1a",
+      "bytes": 28162,
+      "filename": "1fd87f2ae0fbd42e9ea9b85d987407fbe0e66c830faf0ffec8f0d16e55a66e1a.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-upright-cable-row-272fd28c-motion-f4937d4e.mp4",
       "sha256": "20034733b0296e0e423f24afcd0b13631beed6309538eb28f7950735632ec415",
       "bytes": 722507,
       "filename": "20034733b0296e0e423f24afcd0b13631beed6309538eb28f7950735632ec415.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_double_leg_butt_kick_6261fe23-video-c8a8ad7a.mp4",
+      "sha256": "2112f4787331810b6a38ef954c321c3035e6612faab2df324179b4110ed34dcb",
+      "bytes": 623707,
+      "filename": "2112f4787331810b6a38ef954c321c3035e6612faab2df324179b4110ed34dcb.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-deadlift-motion-df192556.mp4",
       "sha256": "2173616c184347eec5cb174e91d20afe0686180fe42032fd248866dd9d8975d6",
       "bytes": 805634,
       "filename": "2173616c184347eec5cb174e91d20afe0686180fe42032fd248866dd9d8975d6.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_bench_press_with_band_61b84557-video-e1a79611.mp4",
+      "sha256": "21b09cc7153e0da11a3e736c1c0b3478b4c49a21b92bb8fa9e8cd9823db4d592",
+      "bytes": 490981,
+      "filename": "21b09cc7153e0da11a3e736c1c0b3478b4c49a21b92bb8fa9e8cd9823db4d592.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_tricep_dip-video-ee5e4c99.mp4",
+      "sha256": "220980e1b27e77063ff4e8f3501d78653820a5d98f96efc1fc463faa0771ad9b",
+      "bytes": 634213,
+      "filename": "220980e1b27e77063ff4e8f3501d78653820a5d98f96efc1fc463faa0771ad9b.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-open-barbell-lunge-be010510-motion-23b8fc31-poster.webp",
@@ -1667,10 +3740,34 @@
       "filename": "23e771f53ac77423b55ef87e88c6d1fcd80172113c5c8540e4fa999a44294cdc.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_rear_leg_raises_0bbd6757-video-0eb1d8f1.mp4",
+      "sha256": "25dc235bfb1c4b681386a54377b1f0a6afd058f50db2759b940b91cd0412c008",
+      "bytes": 506386,
+      "filename": "25dc235bfb1c4b681386a54377b1f0a6afd058f50db2759b940b91cd0412c008.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-cable-hip-adduction-complete-cycle.mp4",
       "sha256": "26c0b104099eb36c6a3dbde08a996c3e009870fe150ba8546776b2b081a0b613",
       "bytes": 549284,
       "filename": "26c0b104099eb36c6a3dbde08a996c3e009870fe150ba8546776b2b081a0b613.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_medicine_ball_chest_p_a83e59ad-video-a66fbe47.mp4",
+      "sha256": "2949b35fcb867c2372dc6bd44549ddfb196b0d234f362d7367b2f90fd734f9bb",
+      "bytes": 730678,
+      "filename": "2949b35fcb867c2372dc6bd44549ddfb196b0d234f362d7367b2f90fd734f9bb.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-db-curl-t2v-dea8f569-poster.webp",
+      "sha256": "29c0b7476b58102196673a52974c865768cdbffd0f208df48db4c671a197d91d",
+      "bytes": 31830,
+      "filename": "29c0b7476b58102196673a52974c865768cdbffd0f208df48db4c671a197d91d.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_step_mill-video-77210ee3-poster.webp",
+      "sha256": "2a3d2cae4cb3ae62a24f41bf1e084a8ecc80eaf3cecca8dd509a3d6d1bd4248f",
+      "bytes": 24608,
+      "filename": "2a3d2cae4cb3ae62a24f41bf1e084a8ecc80eaf3cecca8dd509a3d6d1bd4248f.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-11/r11-decline-dumbbell-bench-one-rep-v1.mp4",
@@ -1685,10 +3782,52 @@
       "filename": "2ae0f00123c081b053ec5085c467db5ed9db75c6a3bb367d17874a6f4c5d25eb.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cond_mountain_climber-video-8c9861a8.mp4",
+      "sha256": "2be419e48120642e6c95c1ab66baacbed3dde3723830ef996720d7f1e81bf97a",
+      "bytes": 866864,
+      "filename": "2be419e48120642e6c95c1ab66baacbed3dde3723830ef996720d7f1e81bf97a.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_ohead_press-video-3537bb26.mp4",
+      "sha256": "2c157b38044d557beffe6f22f1f501fcb63f704cfe24bc3b84ed91384b874542",
+      "bytes": 521898,
+      "filename": "2c157b38044d557beffe6f22f1f501fcb63f704cfe24bc3b84ed91384b874542.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_split_jump_4d120fdd-video-33729549-poster.webp",
+      "sha256": "2d143fd481fa0fc5a369c746fe8f0d119318bd880c459b724fff60caf8b0e0e0",
+      "bytes": 11790,
+      "filename": "2d143fd481fa0fc5a369c746fe8f0d119318bd880c459b724fff60caf8b0e0e0.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_box_jump-video-799152c5-poster.webp",
+      "sha256": "2dbfacfe234b72236a54083ccfd04641292ec97333bfb616001f041c91cbfb53",
+      "bytes": 13678,
+      "filename": "2dbfacfe234b72236a54083ccfd04641292ec97333bfb616001f041c91cbfb53.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_leg_raise-video-c4e1024d.mp4",
+      "sha256": "2ef149d35e3592f136f5c0fcff560ebd0820c4853df8866ec6f8bf391fc0c4c8",
+      "bytes": 542666,
+      "filename": "2ef149d35e3592f136f5c0fcff560ebd0820c4853df8866ec6f8bf391fc0c4c8.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-bb_preacher_curl-t2v-283fd63d.mp4",
+      "sha256": "2f635dc1a7a1a701f85fc3f8b516280b187e4364ea048199e7d4a05d9ab07fcd",
+      "bytes": 486108,
+      "filename": "2f635dc1a7a1a701f85fc3f8b516280b187e4364ea048199e7d4a05d9ab07fcd.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-clean-5137c876-motion-25dd4585-poster.webp",
       "sha256": "2fe5e962ce328223ea8ffb0c19d306237419dc7f82c96262c57d2ed2442e4f7a",
       "bytes": 36898,
       "filename": "2fe5e962ce328223ea8ffb0c19d306237419dc7f82c96262c57d2ed2442e4f7a.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_inverted_row-video-60968dfa.mp4",
+      "sha256": "305fef9286e36fdfd4c26287f4a0fd99bd01224b26eeef58be76947dbf254645",
+      "bytes": 422988,
+      "filename": "305fef9286e36fdfd4c26287f4a0fd99bd01224b26eeef58be76947dbf254645.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-external-rotation-wit-c64eb9a6-motion-4bc47173.mp4",
@@ -1697,16 +3836,40 @@
       "filename": "310b5138397dd34236385782993824034487b81a20d15a2afd2a9386c7fb10b6.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_indoor_march-video-e6a939d6.mp4",
+      "sha256": "31632bfc8ba5f38da84a291a2f250d39f57c8c78c6a1d6e775218717514e1d2c",
+      "bytes": 487520,
+      "filename": "31632bfc8ba5f38da84a291a2f250d39f57c8c78c6a1d6e775218717514e1d2c.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-8/r8-open-preacher-curl-c27d722a-motion-e7475c9f.mp4",
       "sha256": "3176e91a1d611b7c70a0f5ce674452e614224baf91df9c08671519074151e449",
       "bytes": 707761,
       "filename": "3176e91a1d611b7c70a0f5ce674452e614224baf91df9c08671519074151e449.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-bb-spider-curl-t2v-a3ded74e-poster.webp",
+      "sha256": "3337bdf93be7313c73adaaff4ac3b85d1aa515ce7dcfcf751e3e67dac495ae12",
+      "bytes": 24872,
+      "filename": "3337bdf93be7313c73adaaff4ac3b85d1aa515ce7dcfcf751e3e67dac495ae12.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_pil_half_roll_back-video-49d3890e-poster.webp",
+      "sha256": "33e48fb4f5883f2e355a5cf2423c4f5b0f015a7035b92649a78a74ae0dd48fdd",
+      "bytes": 39950,
+      "filename": "33e48fb4f5883f2e355a5cf2423c4f5b0f015a7035b92649a78a74ae0dd48fdd.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-tricep-kickback-motion-2da95657-poster.webp",
       "sha256": "3425ce67c950108deb7bcc06c52c512e7c81a94d06b5a0e234a5eed120dac0f4",
       "bytes": 28102,
       "filename": "3425ce67c950108deb7bcc06c52c512e7c81a94d06b5a0e234a5eed120dac0f4.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_single_leg_butt_kick_379cdc31-video-4178c961.mp4",
+      "sha256": "34d324dfa9630b42aca9ea3e79479a1067e98882d0dd25494061c2dc7fb1780a",
+      "bytes": 416153,
+      "filename": "34d324dfa9630b42aca9ea3e79479a1067e98882d0dd25494061c2dc7fb1780a.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-6/r6-seated-cable-row-close-cycle-poster.webp",
@@ -1743,6 +3906,18 @@
       "sha256": "390495750077ada23d496527fcb52fa7830e590538b50c92c60a69f001f79bd9",
       "bytes": 500166,
       "filename": "390495750077ada23d496527fcb52fa7830e590538b50c92c60a69f001f79bd9.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-rope-hammer-first-cycle-603368a2-poster.webp",
+      "sha256": "3919b2ddd5baeedb6221838bc1b47dc9d670315135870949d68fd74129edc97c",
+      "bytes": 43602,
+      "filename": "3919b2ddd5baeedb6221838bc1b47dc9d670315135870949d68fd74129edc97c.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-cable-curl-i2v-cycle-0d5dc096-poster.webp",
+      "sha256": "391d4bdbfb8a5fcd032da8785b380047e263b18a8e3ccb5e21e7c420ffc7dad6",
+      "bytes": 48156,
+      "filename": "391d4bdbfb8a5fcd032da8785b380047e263b18a8e3ccb5e21e7c420ffc7dad6.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-dumbbell-step-ups-04b3396f-motion-977d472e.mp4",
@@ -1799,6 +3974,12 @@
       "filename": "4082a751ed2a6cfef43b73041a86b87928d6084240fea089c37e8a0acbd3c6ae.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-high_cable_curl-t2v-2c415c45-poster.webp",
+      "sha256": "422772129bda833d3d7558fd8ed1994806e39580ae3321ce71d715e3e16f487a",
+      "bytes": 31872,
+      "filename": "422772129bda833d3d7558fd8ed1994806e39580ae3321ce71d715e3e16f487a.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-8/r8-open-preacher-curl-c27d722a-motion-e7475c9f-poster.webp",
       "sha256": "423d199a3efc2fbc4d05b915737e9d09032c17faeb22761fb0153df663e16cbf",
       "bytes": 32080,
@@ -1811,10 +3992,28 @@
       "filename": "42fa1bce7a228a12a03c63c8795582838e27122a9599c31b88cf12f0f71dee8d.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-skull-crusher-one-cycle-96b5c011-poster.webp",
+      "sha256": "43c165a6eb2e0124029d4e005b19a58b072b93c549dbc3a5e076c63966ab3691",
+      "bytes": 25550,
+      "filename": "43c165a6eb2e0124029d4e005b19a58b072b93c549dbc3a5e076c63966ab3691.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-side-leg-lift-first-cycle-3163d4ff-poster.webp",
+      "sha256": "44b3c666ccaf760e5d9ca25bbcebee0e702208d2aea6fa8c3c98d02d6a1fa240",
+      "bytes": 40986,
+      "filename": "44b3c666ccaf760e5d9ca25bbcebee0e702208d2aea6fa8c3c98d02d6a1fa240.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-overhead-squat-cycle-8b3dfb80-poster.webp",
       "sha256": "45001910f8cbfc6fb658910d51fbf956694f5ae7ece16f024089f6b840c980d9",
       "bytes": 33228,
       "filename": "45001910f8cbfc6fb658910d51fbf956694f5ae7ece16f024089f6b840c980d9.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_reverse_crunch_533db487-video-c23a9368.mp4",
+      "sha256": "4571b1e2040d87fe6badbc6a2fe8f7acd75a4a58d329e2d7e7af17761553a397",
+      "bytes": 464316,
+      "filename": "4571b1e2040d87fe6badbc6a2fe8f7acd75a4a58d329e2d7e7af17761553a397.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-5/r5-single-arm-db-row-cycle-v1.mp4",
@@ -1829,10 +4028,52 @@
       "filename": "465c2102a95fd53b9dcc14c5f8262d5b580c19b9a495ec5f57b64b260383eb21.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_medicine_ball_chest_p_a83e59ad-video-a66fbe47-poster.webp",
+      "sha256": "466b3c0d811d0ed44a9dea7646e932188614e62bd94e43ea6c0f83802efad2d7",
+      "bytes": 23054,
+      "filename": "466b3c0d811d0ed44a9dea7646e932188614e62bd94e43ea6c0f83802efad2d7.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-ex-lateral-raise-motion-861b669e.mp4",
       "sha256": "46ecfd7f50c46f251e6e9e1f530ef9654b2968efa4475a0c678ffe1ed02e820b",
       "bytes": 475961,
       "filename": "46ecfd7f50c46f251e6e9e1f530ef9654b2968efa4475a0c678ffe1ed02e820b.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_alternating_renegade__318e9981-video-d7e1e081.mp4",
+      "sha256": "46f1cd462d410750e067083c413e75636da9b68d2c4306cafaa3a36809ff12cd",
+      "bytes": 691622,
+      "filename": "46f1cd462d410750e067083c413e75636da9b68d2c4306cafaa3a36809ff12cd.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_pil_double_leg_kick-video-41d7e107-poster.webp",
+      "sha256": "46f26b4dcb1d180b06aafbd53e6c225d2e8f709be1f4ab7449431abf96b792f5",
+      "bytes": 34052,
+      "filename": "46f26b4dcb1d180b06aafbd53e6c225d2e8f709be1f4ab7449431abf96b792f5.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_goblet_squat_b5c618ef-video-7d8306a4-first-cycle.mp4",
+      "sha256": "47324121968b43bf16fdb70b5b0b6e2a775173bebb829408030f5783532cc671",
+      "bytes": 531132,
+      "filename": "47324121968b43bf16fdb70b5b0b6e2a775173bebb829408030f5783532cc671.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_pil_tabletop_toe_tap-video-cb56e725.mp4",
+      "sha256": "4857c03322431fbaf038afd2153df115a19fc9e251190e41da92ab609ea5e066",
+      "bytes": 648827,
+      "filename": "4857c03322431fbaf038afd2153df115a19fc9e251190e41da92ab609ea5e066.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_knee_hip_raise_on_par_3b7a0c25-video-9e8f5e13.mp4",
+      "sha256": "487f1451ea2f5f1a405ed1e326eb4ccfd49774bedec11d9c775235f540725ee1",
+      "bytes": 507187,
+      "filename": "487f1451ea2f5f1a405ed1e326eb4ccfd49774bedec11d9c775235f540725ee1.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_double_leg_butt_kick_6261fe23-video-c8a8ad7a-poster.webp",
+      "sha256": "4905f0d478f2ed5554d0cbd67f4fb18e8f3f1b6d0e5aed55a39fc391b4a318e2",
+      "bytes": 14662,
+      "filename": "4905f0d478f2ed5554d0cbd67f4fb18e8f3f1b6d0e5aed55a39fc391b4a318e2.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-smith-bench-press-complete-cycle-close-poster.webp",
@@ -1841,10 +4082,34 @@
       "filename": "49ce84cf41bcf73b2ed75e178ac58dc3461710c0cb238a24e2f3a4c44e715070.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_kb_single_arm_swing-video-2272780b-poster.webp",
+      "sha256": "4a81062ffa424d43796f9eacd4ff6fb74d56ca6e8ee7ab2d237b8b9e1395a82c",
+      "bytes": 15154,
+      "filename": "4a81062ffa424d43796f9eacd4ff6fb74d56ca6e8ee7ab2d237b8b9e1395a82c.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-assisted-dip-first-cycle-84e3f3fa.mp4",
+      "sha256": "4b1f368766bad857dc0d2631ae769b42be9f13f5a4ccd51dd92ab340e708fce0",
+      "bytes": 386821,
+      "filename": "4b1f368766bad857dc0d2631ae769b42be9f13f5a4ccd51dd92ab340e708fce0.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-cable-press-i2v-cycle-3463af47.mp4",
+      "sha256": "4b4dfbc1138b6709c17d419664969547b0926c1de86117286d9ffd86ad7cbfec",
+      "bytes": 475531,
+      "filename": "4b4dfbc1138b6709c17d419664969547b0926c1de86117286d9ffd86ad7cbfec.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-5/r5-incline-pushup-cycle-v1-poster.webp",
       "sha256": "4ba6a43980404eda35ff243322e8dd302877eb76c1b7d89d49ad8e4e193192a7",
       "bytes": 21120,
       "filename": "4ba6a43980404eda35ff243322e8dd302877eb76c1b7d89d49ad8e4e193192a7.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-smith-front-squat-i2v-cycle-5decde99-poster.webp",
+      "sha256": "4d76a2dcc0b6fea80708c1cfc6021b408f7778d9c00825d1700de2b581edcd38",
+      "bytes": 31958,
+      "filename": "4d76a2dcc0b6fea80708c1cfc6021b408f7778d9c00825d1700de2b581edcd38.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-3/r3-lat-pulldown-illustrated-cycle-v1-poster.webp",
@@ -1859,6 +4124,30 @@
       "filename": "4f12416e52993e73fe956231298fe47e99fbb9920c36972b394c52e0b37d7a9e.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-smith-lunge-i2v-cycle-ad82d731.mp4",
+      "sha256": "50232d4bf8741c47561c9ae2331eb74cbdc025970087b3dad261dd51e19acb3a",
+      "bytes": 506213,
+      "filename": "50232d4bf8741c47561c9ae2331eb74cbdc025970087b3dad261dd51e19acb3a.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-smith-front-squat-i2v-cycle-5decde99.mp4",
+      "sha256": "50a19895b32ca75f11c6becae6efe2c94cf1acfd144508e39476af21925ce601",
+      "bytes": 401048,
+      "filename": "50a19895b32ca75f11c6becae6efe2c94cf1acfd144508e39476af21925ce601.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-rope-hammer-first-cycle-603368a2.mp4",
+      "sha256": "50e2e68958a01704e1bc4bd6845fa4b5d3463445e4b8ca42112d13cbe6197221",
+      "bytes": 462048,
+      "filename": "50e2e68958a01704e1bc4bd6845fa4b5d3463445e4b8ca42112d13cbe6197221.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_pil_tabletop_toe_tap-video-cb56e725-poster.webp",
+      "sha256": "50fb93d378db86000bc1135068e8c28ebcdb9d74a252fc3093b39fd72537f679",
+      "bytes": 36882,
+      "filename": "50fb93d378db86000bc1135068e8c28ebcdb9d74a252fc3093b39fd72537f679.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-10/r10-open-smith-machine-squat-37823d7a-motion-75497878-poster.webp",
       "sha256": "50fc5bf8ed8f0282076b59999edfbc90738475b5249ecced3f5e5c728b7f0408",
       "bytes": 35544,
@@ -1869,6 +4158,18 @@
       "sha256": "530d104ec1cbb0f4703084e4d1f8ed1d9e9beb299fd23df6974e888531e1cefa",
       "bytes": 792847,
       "filename": "530d104ec1cbb0f4703084e4d1f8ed1d9e9beb299fd23df6974e888531e1cefa.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_bodyweight_hip_hinge-video-6a05e544.mp4",
+      "sha256": "5436081a5be71f957415b7ca8c86bd0685307f941cc0fa59720c331b030bdaab",
+      "bytes": 585098,
+      "filename": "5436081a5be71f957415b7ca8c86bd0685307f941cc0fa59720c331b030bdaab.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_jump_rope-video-e373c545.mp4",
+      "sha256": "54410c7b1e5b969856a3cb515148d8e90bd0a96fda6b75a739e25eaa6a91a71b",
+      "bytes": 473065,
+      "filename": "54410c7b1e5b969856a3cb515148d8e90bd0a96fda6b75a739e25eaa6a91a71b.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-6/r6-pushup-user-trim.mp4",
@@ -1889,6 +4190,12 @@
       "filename": "55444fd28a008bf92ea4b8503d585b988a6b7b3d3fd2fd66dd322e34722d2f9c.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cond_mountain_climber-video-8c9861a8-poster.webp",
+      "sha256": "55649725ba9e197c47612ab7a333718165e5f82a348a7a587ff797f2405b25af",
+      "bytes": 38338,
+      "filename": "55649725ba9e197c47612ab7a333718165e5f82a348a7a587ff797f2405b25af.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-sumo-deadlift-motion-7cd9d486-poster.webp",
       "sha256": "56763e95f88f7eb13f4978f6784787f064f509e1063dadcb1c01c9d9468a0002",
       "bytes": 21550,
@@ -1901,10 +4208,22 @@
       "filename": "56b1a09ccb061a0af76bc14bf50a44ef1a09fdf35d8c7f88600f5b7318b0dc0d.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle.mp4",
+      "sha256": "56e2f485cdba3e4d7fa016fd849fe33e9e27b0ee5443f2d099965927f5016910",
+      "bytes": 390877,
+      "filename": "56e2f485cdba3e4d7fa016fd849fe33e9e27b0ee5443f2d099965927f5016910.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-5/r5-pike-pushup-anatomical-motion-c3f6f3cc-poster.webp",
       "sha256": "585ce580e5b9b2879106e7a29729edba95ebb313e221f984eff15820b54e5dad",
       "bytes": 27012,
       "filename": "585ce580e5b9b2879106e7a29729edba95ebb313e221f984eff15820b54e5dad.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-incline-cable-chest-t2v-8670a4bd-poster.webp",
+      "sha256": "58a839844a2f7c63821b4128887800253584b55480a73eab7c78fd8a255a7b6b",
+      "bytes": 44980,
+      "filename": "58a839844a2f7c63821b4128887800253584b55480a73eab7c78fd8a255a7b6b.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-pec-deck-complete-cycle-poster.webp",
@@ -1917,6 +4236,12 @@
       "sha256": "591b9a6dded6c7166f375a9677b98fc6898a72f80871e6cf45c9909841961421",
       "bytes": 36956,
       "filename": "591b9a6dded6c7166f375a9677b98fc6898a72f80871e6cf45c9909841961421.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-smith-box-squat-video-fcbe7fb8.mp4",
+      "sha256": "595d849fdb86ac37a0edaeebf6ebbaefb9239f6cbffbcba4514022074a96a7e7",
+      "bytes": 732063,
+      "filename": "595d849fdb86ac37a0edaeebf6ebbaefb9239f6cbffbcba4514022074a96a7e7.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-upright-row-motion-76f4aace.mp4",
@@ -1943,10 +4268,28 @@
       "filename": "5b077ff2e9556651bc47f156e613bd637e384ddced8c73c8b59a5395b7a1a82e.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-leg-press-t2v-73c76a80.mp4",
+      "sha256": "5b6d0383cbccba7c11e5af7750d2ba5ecf15895fe5fcb7876e6a6570a4a46338",
+      "bytes": 383652,
+      "filename": "5b6d0383cbccba7c11e5af7750d2ba5ecf15895fe5fcb7876e6a6570a4a46338.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-smith-incline-press-complete-cycle-poster.webp",
       "sha256": "5c404fb2c0f0101f7b20a7e11784adde22caef508ab5babd8ca56c3cded5374a",
       "bytes": 56808,
       "filename": "5c404fb2c0f0101f7b20a7e11784adde22caef508ab5babd8ca56c3cded5374a.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_reverse_crunch_533db487-video-c23a9368-poster.webp",
+      "sha256": "5cda5d048c4576e8a104ddb36eea5520b7a2e3007d0ca2a962c9cbae858e7e5d",
+      "bytes": 29552,
+      "filename": "5cda5d048c4576e8a104ddb36eea5520b7a2e3007d0ca2a962c9cbae858e7e5d.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_lower_back_curl_dd4375a1-video-05101dc3-poster.webp",
+      "sha256": "5dcc4dbfd4bf947aa74dea13779127ee7db90226d6af72f618d92bb3495ddedc",
+      "bytes": 32026,
+      "filename": "5dcc4dbfd4bf947aa74dea13779127ee7db90226d6af72f618d92bb3495ddedc.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-cable-rope-overhead-t-cbb7aa38-motion-c407e13b-poster.webp",
@@ -1955,10 +4298,22 @@
       "filename": "5dccf745942813bcae461aed18c8cd95ec55b092712dc29b5ca419bcec2202ec.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_backward_drag_25c303d9-video-6313bb0d-single-step.mp4",
+      "sha256": "5ed382ec0078e3a84d9caa1589f0efeb3973cf1f8b14957cc1703a2e0ef9c6e9",
+      "bytes": 244221,
+      "filename": "5ed382ec0078e3a84d9caa1589f0efeb3973cf1f8b14957cc1703a2e0ef9c6e9.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-5/r5-lying-leg-curl-cycle-v1.mp4",
       "sha256": "5f2ef1e42aa50177ced802533bd1a0df5587ded6693d3cc4f8e5f268ee1097cb",
       "bytes": 351801,
       "filename": "5f2ef1e42aa50177ced802533bd1a0df5587ded6693d3cc4f8e5f268ee1097cb.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-db-triceps-t2v-f22d1a79.mp4",
+      "sha256": "6147149aaeacf7090b7dc81de88bd0e28918018fc1e140e787a4d38f8a8af7e6",
+      "bytes": 456270,
+      "filename": "6147149aaeacf7090b7dc81de88bd0e28918018fc1e140e787a4d38f8a8af7e6.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-cable-hip-adduction-complete-cycle-poster.webp",
@@ -1967,16 +4322,46 @@
       "filename": "6188925419bd6ec3b239bf6692bc4d1f5c80a0b3c018010593ddfd13bded6d7e.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-sit-up-60e0bd8d-complete-partial-cycle-poster.webp",
+      "sha256": "618bdccd664077dee72e67de7566176b1812ec81efca23d4434f4bfbbebcf7b1",
+      "bytes": 40116,
+      "filename": "618bdccd664077dee72e67de7566176b1812ec81efca23d4434f4bfbbebcf7b1.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_pil_half_roll_back-video-49d3890e.mp4",
+      "sha256": "61e7fa56b30dea8ce335b0df0570f10d63229c2d41018c88b1975c15e0813be8",
+      "bytes": 528192,
+      "filename": "61e7fa56b30dea8ce335b0df0570f10d63229c2d41018c88b1975c15e0813be8.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-front-raise-motion-0b93dfcd.mp4",
       "sha256": "632e5a4d6f61ac19c03bf6c40dfc803f6d45637953139679c8b30bfa1f4524b9",
       "bytes": 972111,
       "filename": "632e5a4d6f61ac19c03bf6c40dfc803f6d45637953139679c8b30bfa1f4524b9.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-decline_ez_triceps-t2v-3c1af402-poster.webp",
+      "sha256": "63639f33554e0cb788b0015f47fe215d1a570765d292d9f30031b3f095b07329",
+      "bytes": 38542,
+      "filename": "63639f33554e0cb788b0015f47fe215d1a570765d292d9f30031b3f095b07329.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-dumbbell-bench-press-94bb9ae4-motion-5c9e09da-poster.webp",
       "sha256": "64119a8d765adcde2d38aa43fdd00c0d3e592fe9e8d658d076f674912abce342",
       "bytes": 25296,
       "filename": "64119a8d765adcde2d38aa43fdd00c0d3e592fe9e8d658d076f674912abce342.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_v_up-video-878890be-poster.webp",
+      "sha256": "64dbabd5f0be4e87b96a05d4d1ce2adc6b0f1d771bf0d3562275d2995c5e3005",
+      "bytes": 22782,
+      "filename": "64dbabd5f0be4e87b96a05d4d1ce2adc6b0f1d771bf0d3562275d2995c5e3005.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_standing_long_jump_f080bf3c-video-f0a16244-poster.webp",
+      "sha256": "650d5b7eea8f383adc7a94b71751475cd698d797f40591776615576dd89b543c",
+      "bytes": 13552,
+      "filename": "650d5b7eea8f383adc7a94b71751475cd698d797f40591776615576dd89b543c.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-smith-bench-press-complete-cycle-close.mp4",
@@ -1991,10 +4376,22 @@
       "filename": "65952b8bfe2b5e9247b0e51e1e1ba1fcdc4966cac0262c7683ac29fb68bdd199.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-flat-db-rear-fly-t2v-f75d7e80.mp4",
+      "sha256": "66ab333e4f2041be7949c19bdc631b54781d10c580de72fde96804520cd034ad",
+      "bytes": 517417,
+      "filename": "66ab333e4f2041be7949c19bdc631b54781d10c580de72fde96804520cd034ad.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-single-arm-linear-jam-b53226fa-motion-83ba81a2.mp4",
       "sha256": "6a21c05306dde7521356dad138f614760c94f8727b1c74f105d65d8f102e5ace",
       "bytes": 679978,
       "filename": "6a21c05306dde7521356dad138f614760c94f8727b1c74f105d65d8f102e5ace.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_exercise_ball_pull_in_98443332-video-c2204545.mp4",
+      "sha256": "6d533ea28b95aa1a47cc35a95aeeab760e0f7c4205ac723db27a2cba6f348bfb",
+      "bytes": 778619,
+      "filename": "6d533ea28b95aa1a47cc35a95aeeab760e0f7c4205ac723db27a2cba6f348bfb.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-hip-thrust-complete-cycle-v2.mp4",
@@ -2009,10 +4406,28 @@
       "filename": "6db19574579730a6411c6daf7b4970a490010ccca464e9538624137a2dbc5fd2.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-standing-db-rear-fly-t2v-6b2728d8-poster.webp",
+      "sha256": "6ea19d10054be7e975c9112e07b4a5db9f277935ec8473812c5e7c80a79533bd",
+      "bytes": 19118,
+      "filename": "6ea19d10054be7e975c9112e07b4a5db9f277935ec8473812c5e7c80a79533bd.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-weighted-jump-squat-f4b3559a-motion-30cd2f55.mp4",
       "sha256": "70957b8f8c85eba4bb47b4ea9d27d7466c6d439894ddf18da56a2ac85123d0a9",
       "bytes": 742105,
       "filename": "70957b8f8c85eba4bb47b4ea9d27d7466c6d439894ddf18da56a2ac85123d0a9.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_ring_dips_c8cfcf7b-video-e918f6ae-poster.webp",
+      "sha256": "71874fc44a29ebb6571abe24409cce6afce5a09479f495ee14c78646abcb5df6",
+      "bytes": 17880,
+      "filename": "71874fc44a29ebb6571abe24409cce6afce5a09479f495ee14c78646abcb5df6.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-cable_preacher_curl-t2v-1f7fd453-poster.webp",
+      "sha256": "71e676175a73ebcdce12ad213cf146d42f12ccd1dd90a72c28badb934b94f905",
+      "bytes": 33602,
+      "filename": "71e676175a73ebcdce12ad213cf146d42f12ccd1dd90a72c28badb934b94f905.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-7/r6-ex-dumbbell-curl-motion-4bccd9b9.mp4",
@@ -2051,6 +4466,12 @@
       "filename": "752731c2ae0e6a21fb889d5b98a8eeddbd83017800febc4373c91b520d764a64.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_sled_drag_harness_cf49f109-video-00a64f49.mp4",
+      "sha256": "754093ae08c81992880a8b1590899f943b314b116972980cd5904c24145b1fe6",
+      "bytes": 940886,
+      "filename": "754093ae08c81992880a8b1590899f943b314b116972980cd5904c24145b1fe6.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-trap-bar-deadlift-c526cf24-motion-ad0237a2.mp4",
       "sha256": "7600c147e8220345cfcbaa5d61ec1199ea8b348bb517c38330258d33fb0d8ad8",
       "bytes": 978519,
@@ -2081,10 +4502,22 @@
       "filename": "7b2d79331f6a4a898803a0e0bf212b4ec87c9f3c8d3305beba3e1cb8206f9446.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-cable-press-i2v-cycle-3463af47-poster.webp",
+      "sha256": "7d04a5fee070a8e69dcb6a7328a791e62244f911f2e3a1f56f0ac9fb154f0d4b",
+      "bytes": 46084,
+      "filename": "7d04a5fee070a8e69dcb6a7328a791e62244f911f2e3a1f56f0ac9fb154f0d4b.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-10/r10-hack-squat-user-0-4-trim-v1-poster.webp",
       "sha256": "7da9c3746c1f6e42097700e666b829a9cf3cfc914610076cbe5168068da27f30",
       "bytes": 37644,
       "filename": "7da9c3746c1f6e42097700e666b829a9cf3cfc914610076cbe5168068da27f30.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_superman_27d5233d-video-25f6831c-poster.webp",
+      "sha256": "7e9ec071defe996b098a94a48c6e2155e72ed72ba36447ca6df86f3d79344c59",
+      "bytes": 32036,
+      "filename": "7e9ec071defe996b098a94a48c6e2155e72ed72ba36447ca6df86f3d79344c59.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-7/r6-ex-tricep-extension-motion-2de990ab-poster.webp",
@@ -2111,6 +4544,36 @@
       "filename": "80203774089c0ffb53c70d0444bd520638164063add0b253b58290fd11d0605b.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_dead_bug_legs_only-video-e18aae7f.mp4",
+      "sha256": "80485b4035c43d66dfe04c29108fc1e2512227dd6d0f71476c7a977ceb618022",
+      "bytes": 540512,
+      "filename": "80485b4035c43d66dfe04c29108fc1e2512227dd6d0f71476c7a977ceb618022.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_pallof_press-video-cf9d6594-poster.webp",
+      "sha256": "805d12205a1915ca9e697b0f8d3f06b0230dbe903df80443c7145923511195e7",
+      "bytes": 17048,
+      "filename": "805d12205a1915ca9e697b0f8d3f06b0230dbe903df80443c7145923511195e7.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-leg-press-t2v-73c76a80-poster.webp",
+      "sha256": "80684923498436d4d226b65b29bedab8432b447a3009bb55fd175c990d0566f2",
+      "bytes": 22748,
+      "filename": "80684923498436d4d226b65b29bedab8432b447a3009bb55fd175c990d0566f2.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-db-press-i2v-cycle-afa0b029.mp4",
+      "sha256": "80bad761cd7bd51162b0bc4d313f153d4baf77332c65a4f15f92e24b96dedbd5",
+      "bytes": 322052,
+      "filename": "80bad761cd7bd51162b0bc4d313f153d4baf77332c65a4f15f92e24b96dedbd5.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_standing_long_jump_f080bf3c-video-f0a16244.mp4",
+      "sha256": "80e87ef34b6914e5e4c552d25fa2fe780f83628c9f973f93b6ed9042e3244f86",
+      "bytes": 613310,
+      "filename": "80e87ef34b6914e5e4c552d25fa2fe780f83628c9f973f93b6ed9042e3244f86.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-ez-bar-curl-single-cycle-color-corrected-v1-poster.webp",
       "sha256": "82396da969066d92b43cefd0c3b2284dca94d9e1714fb6d876a279d2b6cddc6a",
       "bytes": 40664,
@@ -2129,10 +4592,22 @@
       "filename": "82e28cbcc8f608ac4f367788032ef7c24febefbf21ceffa760981d233eea83b5.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-db-lateral-t2v-ab0503ce-poster.webp",
+      "sha256": "832ef8ac915aee3cfbfad95df6ff7f2f7db106729f3245a368fe42c731acb991",
+      "bytes": 21190,
+      "filename": "832ef8ac915aee3cfbfad95df6ff7f2f7db106729f3245a368fe42c731acb991.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-11/r11-barbell-bench-press-t2v-26269c92-poster.webp",
       "sha256": "8333635276ff7a5ce86096605d5fdcbc3071dd81dcc178f8d3d122ef245784d1",
       "bytes": 26820,
       "filename": "8333635276ff7a5ce86096605d5fdcbc3071dd81dcc178f8d3d122ef245784d1.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-db_hammer_curl-t2v-fb3ea329-poster.webp",
+      "sha256": "834560b16b0f75b90572e8ed4e0c66dcf7969431bf76b5e2a300f232b9a24e66",
+      "bytes": 33880,
+      "filename": "834560b16b0f75b90572e8ed4e0c66dcf7969431bf76b5e2a300f232b9a24e66.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-thruster-motion-f01bbcc5.mp4",
@@ -2145,6 +4620,12 @@
       "sha256": "843c5dd1d2bac529c6a690e181c9e3211e13d71e6966a2516cd351f780811483",
       "bytes": 658228,
       "filename": "843c5dd1d2bac529c6a690e181c9e3211e13d71e6966a2516cd351f780811483.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-db_hammer_curl-t2v-fb3ea329.mp4",
+      "sha256": "849196c66fbd2e0a872f2a8f64de851e41bee9dbb338a3d2a233ff877d80a456",
+      "bytes": 617494,
+      "filename": "849196c66fbd2e0a872f2a8f64de851e41bee9dbb338a3d2a233ff877d80a456.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-open-barbell-lunge-be010510-motion-23b8fc31.mp4",
@@ -2171,10 +4652,22 @@
       "filename": "8a911ac132bde09d9805f5e6537ce98a1f3e9781d00ba4e9b1ab0ad82b57fc75.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_dead_bug_legs_only-video-e18aae7f-poster.webp",
+      "sha256": "8b492452956b5d883fc6ef45c00ba06d655943e1cb8b2f9564893f51c277df0c",
+      "bytes": 28864,
+      "filename": "8b492452956b5d883fc6ef45c00ba06d655943e1cb8b2f9564893f51c277df0c.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-ex-skullcrusher-motion-b0786602.mp4",
       "sha256": "8bccbd802c508aab08501f10552d0d7c4bd5c925abe4d0c4adbcee8386828252",
       "bytes": 557781,
       "filename": "8bccbd802c508aab08501f10552d0d7c4bd5c925abe4d0c4adbcee8386828252.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_inverted_row-video-60968dfa-poster.webp",
+      "sha256": "8c4d007d018303f8734726c887df04438e78e28b216dd97f277bfd3df557a308",
+      "bytes": 18766,
+      "filename": "8c4d007d018303f8734726c887df04438e78e28b216dd97f277bfd3df557a308.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-7/r6-ex-decline-bench-press-motion-eaf6a380-poster.webp",
@@ -2201,16 +4694,46 @@
       "filename": "8f28f810a9bd67c8f312ff600268f909395e726ff618c9fd746c4f23083c9127.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_yoga_low_lunge-video-64230bc2.mp4",
+      "sha256": "8f76902ebb2a7241419487a08049b8c21d3f551321bb30201f500ab5fac5dfe4",
+      "bytes": 585094,
+      "filename": "8f76902ebb2a7241419487a08049b8c21d3f551321bb30201f500ab5fac5dfe4.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-2/r2-calf-raise-illustrated-motion-0f0acba9-poster.webp",
       "sha256": "8fa81e736cc41df404e91167d5eab2f0b1d83a149b51b5a4f4c532fb6ca05edd",
       "bytes": 20994,
       "filename": "8fa81e736cc41df404e91167d5eab2f0b1d83a149b51b5a4f4c532fb6ca05edd.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_body_tricep_press_cd8e102d-video-77fd4e8c.mp4",
+      "sha256": "91cfd898344bbb5d894f8995fcf9fcf7cc876345ee4a629d48ca9d637fdd4779",
+      "bytes": 453879,
+      "filename": "91cfd898344bbb5d894f8995fcf9fcf7cc876345ee4a629d48ca9d637fdd4779.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-dumbbell-squat-standing-cycle-trim-v1-poster.webp",
       "sha256": "92927241031e3a174273764442a5340972d394b29b3c5305787da9dfce866c07",
       "bytes": 37362,
       "filename": "92927241031e3a174273764442a5340972d394b29b3c5305787da9dfce866c07.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_burpee-video-58f3fcc3-poster.webp",
+      "sha256": "9293ee1783917709518ce6918cd9fd845e399be53ae633b507c9804652f1fc02",
+      "bytes": 12290,
+      "filename": "9293ee1783917709518ce6918cd9fd845e399be53ae633b507c9804652f1fc02.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_frog_hops_d36ec4a2-video-9fa15643.mp4",
+      "sha256": "93564979bf601afad9b239530f49c275a7f4364829a4d9555a51643c36fec6d1",
+      "bytes": 503137,
+      "filename": "93564979bf601afad9b239530f49c275a7f4364829a4d9555a51643c36fec6d1.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-smith-lunge-i2v-cycle-ad82d731-poster.webp",
+      "sha256": "93e3e7dd3254584f78df5a8cd33c430ed7a7bb842a57e135fee156990d87d95e",
+      "bytes": 27784,
+      "filename": "93e3e7dd3254584f78df5a8cd33c430ed7a7bb842a57e135fee156990d87d95e.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-3/r3-treadmill-walk-illustrated-motion-05469431.mp4",
@@ -2223,6 +4746,12 @@
       "sha256": "945f0153200a1046675a59af40fb6092e89f8ef9d133143b6810e25aec4d0810",
       "bytes": 712311,
       "filename": "945f0153200a1046675a59af40fb6092e89f8ef9d133143b6810e25aec4d0810.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-bb-press-t2v-ac5e4d07-poster.webp",
+      "sha256": "94ecb993f657ecca92393f2c23ceec4cc4df2393bdad9b2778d274fc13fdd90d",
+      "bytes": 23784,
+      "filename": "94ecb993f657ecca92393f2c23ceec4cc4df2393bdad9b2778d274fc13fdd90d.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-romanian-deadlift-veo-quality-single-cycle-trim-poster.webp",
@@ -2243,6 +4772,18 @@
       "filename": "954a7f4b458b965c07118432edf0fe0cfd6668ba9ad03e4cab536e139b895dd1.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_kettlebell_dead_clean_60e2d3ef-video-181b225b.mp4",
+      "sha256": "9584057330d37bc1053fe91426f41333366fb4f133397cd66003eef1da8a5a45",
+      "bytes": 378079,
+      "filename": "9584057330d37bc1053fe91426f41333366fb4f133397cd66003eef1da8a5a45.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-db-triceps-t2v-f22d1a79-poster.webp",
+      "sha256": "96fb979a5d449f90585865b82b3589662f18c51546b1331c095d8e947a2af7b6",
+      "bytes": 31216,
+      "filename": "96fb979a5d449f90585865b82b3589662f18c51546b1331c095d8e947a2af7b6.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-ex-preacher-curl-motion-3ac0f65c-poster.webp",
       "sha256": "97296013fa9ace527b9c9d1a318c79be763a8330b80b648d448aa7a9145ee0a2",
       "bytes": 36298,
@@ -2261,6 +4802,18 @@
       "filename": "9a755f43674b5913eb1d15065bc54e610ef428da3c72b9ea0365e90a835ae152.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_scissor_kick_0399c7e5-video-53e89b4a-poster.webp",
+      "sha256": "9a7c67e8f4ad20891876a5dcb3e6bc3418dc7f569034a8d4562c9ec5471d3098",
+      "bytes": 39540,
+      "filename": "9a7c67e8f4ad20891876a5dcb3e6bc3418dc7f569034a8d4562c9ec5471d3098.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-db-press-t2v-601acd58.mp4",
+      "sha256": "9beb000b34ce4ce1581516d71b77009e66f43f4143e19533368032eca054479b",
+      "bytes": 513616,
+      "filename": "9beb000b34ce4ce1581516d71b77009e66f43f4143e19533368032eca054479b.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-10/r10-open-thigh-adductor-933feed1-motion-v3-7a7c9a0b.mp4",
       "sha256": "9d7c70888296a0399dc4851a03f0be242ef6caf8860ea5df3035fc3ecba5dcf0",
       "bytes": 701346,
@@ -2273,10 +4826,40 @@
       "filename": "9eb498addc2665885528b14a6343f380408d6b68858808d4aecf96fa040f0edc.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-high_cable_curl-t2v-2c415c45.mp4",
+      "sha256": "9ef774a802c3b8b475d559e6677269e273abbac0151bccba72f8273209c7b4ed",
+      "bytes": 596927,
+      "filename": "9ef774a802c3b8b475d559e6677269e273abbac0151bccba72f8273209c7b4ed.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-10/r10-hack-squat-user-0-4-trim-v1.mp4",
       "sha256": "9f76afa21572edc6e33aa891b04545de622c9a77dcbd19d0ed85abb9b9c70441",
       "bytes": 362085,
       "filename": "9f76afa21572edc6e33aa891b04545de622c9a77dcbd19d0ed85abb9b9c70441.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_oblique_crunches_c1078e1e-video-ccde1970-poster.webp",
+      "sha256": "9f83eef46b692f2eb8a19984f4d7af987f357505ed1ab944e4c9fa19255e23ba",
+      "bytes": 35400,
+      "filename": "9f83eef46b692f2eb8a19984f4d7af987f357505ed1ab944e4c9fa19255e23ba.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-bb_preacher_curl-t2v-283fd63d-poster.webp",
+      "sha256": "9ffdbaae4d0c29842e3c6c5e7b42f53ca708907b0f218b24f2cebf1ac031a787",
+      "bytes": 34172,
+      "filename": "9ffdbaae4d0c29842e3c6c5e7b42f53ca708907b0f218b24f2cebf1ac031a787.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-cable-crunch-i2v-cycle-d9728643-poster.webp",
+      "sha256": "a0168e009cd799d72758c13ee25fd87fddc8ba271ea3917c2e2d62d2d5e579dc",
+      "bytes": 46476,
+      "filename": "a0168e009cd799d72758c13ee25fd87fddc8ba271ea3917c2e2d62d2d5e579dc.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_one_arm_overhead_kett_d62c6265-video-5b4fbceb-first-cycle-poster.webp",
+      "sha256": "a0fab2385cf31ede7c938069b184e09fd2c523ec022010ed2a5f4f8b741d6de9",
+      "bytes": 15216,
+      "filename": "a0fab2385cf31ede7c938069b184e09fd2c523ec022010ed2a5f4f8b741d6de9.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-7/r6-ex-face-pull-motion-cdc90c31.mp4",
@@ -2297,10 +4880,34 @@
       "filename": "a18206aba1bc38b9be6935d37304ba0f5a1718437c6c414e175f08f5300fbd88.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_wall_pushup-video-269f8eaf-poster.webp",
+      "sha256": "a1f054a46db34e6ec3c300e03176ccbaf0f43861fbe2d7f21a75ebe29a20bd84",
+      "bytes": 18176,
+      "filename": "a1f054a46db34e6ec3c300e03176ccbaf0f43861fbe2d7f21a75ebe29a20bd84.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-cable-curl-i2v-cycle-0d5dc096.mp4",
+      "sha256": "a27b00f1d39c49876276751c5941ae221cf9fdd2950b3b1193e79da0a2828d67",
+      "bytes": 285270,
+      "filename": "a27b00f1d39c49876276751c5941ae221cf9fdd2950b3b1193e79da0a2828d67.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-incline-cable-chest-t2v-8670a4bd.mp4",
+      "sha256": "a31685fad060d01bbfdabd999729158190b5991ac66017192e8da1939f2c55cb",
+      "bytes": 646153,
+      "filename": "a31685fad060d01bbfdabd999729158190b5991ac66017192e8da1939f2c55cb.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-10/r10-leg-press-full-cycle-glow-trim-v1-poster.webp",
       "sha256": "a4279e7a7b99c231f7fe9086793e6d9a36e5394e72af57e5a86650b9ad04becf",
       "bytes": 41076,
       "filename": "a4279e7a7b99c231f7fe9086793e6d9a36e5394e72af57e5a86650b9ad04becf.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_indoor_march-video-e6a939d6-poster.webp",
+      "sha256": "a79656b74610f24a399aeb5ae1c3e83b334a8f4db1a9524a8e06f94eb9bb650a",
+      "bytes": 16634,
+      "filename": "a79656b74610f24a399aeb5ae1c3e83b334a8f4db1a9524a8e06f94eb9bb650a.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-good-morning-single-cycle-trim-v1.mp4",
@@ -2315,10 +4922,34 @@
       "filename": "a8ef75e8a0a419b538de09502667a0eb4964ef434aaf4a47057d5ca9a1de43e3.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_bodyweight_squat-video-80eb5750-poster.webp",
+      "sha256": "a901b5250691a4320060a68bca6e4a719b6ed59d124c47120096e521d2c12ff5",
+      "bytes": 32134,
+      "filename": "a901b5250691a4320060a68bca6e4a719b6ed59d124c47120096e521d2c12ff5.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-db-press-i2v-cycle-afa0b029-poster.webp",
+      "sha256": "a9537d05be3cb7bdda8f948b1b6a3d8351086376989c43c14cb62f125aaa6a45",
+      "bytes": 25344,
+      "filename": "a9537d05be3cb7bdda8f948b1b6a3d8351086376989c43c14cb62f125aaa6a45.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_frog_hops_d36ec4a2-video-9fa15643-poster.webp",
+      "sha256": "a96c498e886a224878af0a3e98250be1b15a6c1e6709721b759bfc6c72e96eef",
+      "bytes": 9752,
+      "filename": "a96c498e886a224878af0a3e98250be1b15a6c1e6709721b759bfc6c72e96eef.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-landmine-row-complete-cycle.mp4",
       "sha256": "a972d904f2fdfc371ad753df2099c54ceef4acb88168ad61d0767d76a4dbf856",
       "bytes": 458038,
       "filename": "a972d904f2fdfc371ad753df2099c54ceef4acb88168ad61d0767d76a4dbf856.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_freehand_jump_squat_c59fdada-video-4d915557-poster.webp",
+      "sha256": "aa121cb2534c2d6e791faa051e8ace224113b3449da805954b6283f9d92d099c",
+      "bytes": 15946,
+      "filename": "aa121cb2534c2d6e791faa051e8ace224113b3449da805954b6283f9d92d099c.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-3/r3-overhead-press-studio-user-trim-0-6-poster.webp",
@@ -2327,10 +4958,40 @@
       "filename": "ab3a82f6b8db42233ee4b595b9c3628f66be4e349568974f5ccde2c2c188dbfb.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_sled_drag_harness_cf49f109-video-00a64f49-poster.webp",
+      "sha256": "acfe0cdb29c3cadd4804618663ad50330024e9b5d73f5bcfe2b4a3f23ed84c66",
+      "bytes": 28506,
+      "filename": "acfe0cdb29c3cadd4804618663ad50330024e9b5d73f5bcfe2b4a3f23ed84c66.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-leg-press-i2v-cycle-a5e8ba50-poster.webp",
+      "sha256": "aeafe1bdd2b13ae0c9f1475c9814b2600746079855cbbe028795855366b9651a",
+      "bytes": 43132,
+      "filename": "aeafe1bdd2b13ae0c9f1475c9814b2600746079855cbbe028795855366b9651a.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_two_arm_kettlebell_mi_01904129-video-dd4f58fa.mp4",
+      "sha256": "aee5b9f735e15445044cd10bcb804535502b2c3be425116fa3096bb14018df83",
+      "bytes": 481162,
+      "filename": "aee5b9f735e15445044cd10bcb804535502b2c3be425116fa3096bb14018df83.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_back_extension-video-76dff856.mp4",
+      "sha256": "afc0cf5b805cd01a345360cc524fde6340a1646abe71e3bb484e08ec793612b7",
+      "bytes": 486228,
+      "filename": "afc0cf5b805cd01a345360cc524fde6340a1646abe71e3bb484e08ec793612b7.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-3/r3-lat-pulldown-illustrated-cycle-v1.mp4",
       "sha256": "b08c80fe497e29ce9aa1d743c8233a8a64fade79a8c4eb5cd5b327fd51770d3a",
       "bytes": 525117,
       "filename": "b08c80fe497e29ce9aa1d743c8233a8a64fade79a8c4eb5cd5b327fd51770d3a.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-cable_preacher_curl-t2v-1f7fd453.mp4",
+      "sha256": "b230d442fe306e044c34f328aed436b74ed27aff51ff71c781081afbcff4839a",
+      "bytes": 515711,
+      "filename": "b230d442fe306e044c34f328aed436b74ed27aff51ff71c781081afbcff4839a.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-open-incline-dumbbell-curl-4fe643b7-motion-7cf86150.mp4",
@@ -2351,6 +5012,12 @@
       "filename": "b2a3653e31e163a73e3171da0d32ae4571b08234083dc04ee2936611513ac2de.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-skull-crusher-one-cycle-96b5c011.mp4",
+      "sha256": "b2ebc7208d8d91694220416b2e357004faa53d59476081153f57caca61ac6bc5",
+      "bytes": 356595,
+      "filename": "b2ebc7208d8d91694220416b2e357004faa53d59476081153f57caca61ac6bc5.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-upright-barbell-row-5464c784-motion-76b2214e.mp4",
       "sha256": "b37edb5af9b3c340fcce9b12429d88c1565c5a89b4f684cfd0a97c82e2d4e56f",
       "bytes": 818857,
@@ -2361,6 +5028,12 @@
       "sha256": "b3c8397b382b461dd1fa5a36050dc028bcd6d0085e9f5631a2154ce572a03ae3",
       "bytes": 23148,
       "filename": "b3c8397b382b461dd1fa5a36050dc028bcd6d0085e9f5631a2154ce572a03ae3.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_rear_leg_raises_0bbd6757-video-0eb1d8f1-poster.webp",
+      "sha256": "b49a17e034541a5b31d9d151b0618dc170e07254fcc7e34d4b0dc0a09a071aa2",
+      "bytes": 39908,
+      "filename": "b49a17e034541a5b31d9d151b0618dc170e07254fcc7e34d4b0dc0a09a071aa2.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-cat-cal-reverse-lunge-motion-ed7ffc9f.mp4",
@@ -2381,16 +5054,70 @@
       "filename": "b5e2709b614b386a8d43fc162957795fc26781e46f06c349cbf610692e0f0ec5.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_split_jump_4d120fdd-video-33729549.mp4",
+      "sha256": "b6a5802a70047974fdda995b8058cd423c925136472a8dda9cf6b21e3dcf0a6b",
+      "bytes": 524203,
+      "filename": "b6a5802a70047974fdda995b8058cd423c925136472a8dda9cf6b21e3dcf0a6b.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-smith-box-squat-video-fcbe7fb8-poster.webp",
+      "sha256": "b75d9cec13c77fd1ae367da2e57869ff85f4cc60f728cf75d22e86ca8a987613",
+      "bytes": 38986,
+      "filename": "b75d9cec13c77fd1ae367da2e57869ff85f4cc60f728cf75d22e86ca8a987613.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_lateral_raise-video-04f3ed48-first-cycle-poster.webp",
+      "sha256": "b7a3c0b714d06fe2716fc6d3e69261ada59136ace4503a12faa70f925b9da850",
+      "bytes": 20114,
+      "filename": "b7a3c0b714d06fe2716fc6d3e69261ada59136ace4503a12faa70f925b9da850.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_recreational_skating-video-83e97191.mp4",
+      "sha256": "b7e072b0dab00539195e27d91b3f4a546d5a3f9dcf03194e0ef76636574ed7fb",
+      "bytes": 725016,
+      "filename": "b7e072b0dab00539195e27d91b3f4a546d5a3f9dcf03194e0ef76636574ed7fb.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_yoga_low_lunge-video-64230bc2-poster.webp",
+      "sha256": "b86342516cb9c57afd9441b412219f08b2fad87f910c97e451cc7bcaded15ca7",
+      "bytes": 28506,
+      "filename": "b86342516cb9c57afd9441b412219f08b2fad87f910c97e451cc7bcaded15ca7.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-ball-crunch-t2v-dbffb94a.mp4",
+      "sha256": "b8d513cce42815da7b0e04465f8cb65b7c9192c14f19b1ccdafe1b3d0b478253",
+      "bytes": 581018,
+      "filename": "b8d513cce42815da7b0e04465f8cb65b7c9192c14f19b1ccdafe1b3d0b478253.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle.mp4",
+      "sha256": "b96267d374d716ee460af6e7493e37f25513ddd434266d996f5c43ec63a3b6f0",
+      "bytes": 311047,
+      "filename": "b96267d374d716ee460af6e7493e37f25513ddd434266d996f5c43ec63a3b6f0.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-smith-machine-overhea-f4f4e023-motion-6540cebe.mp4",
       "sha256": "b98568d523cd6021181d76c3ea58b4454a40aa40bc37114d04d2c52918e89773",
       "bytes": 656957,
       "filename": "b98568d523cd6021181d76c3ea58b4454a40aa40bc37114d04d2c52918e89773.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-leg-extension-i2v-cycle-a7a540be.mp4",
+      "sha256": "baa04df06fa92024fe5749b90dfe44b865187debe2916bc9a9d265a5875e6bc3",
+      "bytes": 392850,
+      "filename": "baa04df06fa92024fe5749b90dfe44b865187debe2916bc9a9d265a5875e6bc3.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-5/r5-barbell-curl-cycle-v1-poster.webp",
       "sha256": "bab9f4f15d1c7a0a3be56b0731cc0e077a9c3bd0971e93b66089fdc54259b43e",
       "bytes": 27382,
       "filename": "bab9f4f15d1c7a0a3be56b0731cc0e077a9c3bd0971e93b66089fdc54259b43e.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-cable-crunch-i2v-cycle-d9728643.mp4",
+      "sha256": "bbd89123056301cfd5c327d04bfa9b85a59b9c7c75b53c1359946adb25e0b7cf",
+      "bytes": 401845,
+      "filename": "bbd89123056301cfd5c327d04bfa9b85a59b9c7c75b53c1359946adb25e0b7cf.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-5/r5-barbell-stepup-anatomical-motion-7d4da4ca.mp4",
@@ -2403,6 +5130,12 @@
       "sha256": "bcd42167dc408029df2d1c00a0b29e9c45cf64f42dc282e7bfd413e73f7558f5",
       "bytes": 798160,
       "filename": "bcd42167dc408029df2d1c00a0b29e9c45cf64f42dc282e7bfd413e73f7558f5.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-standing-cable-crunch-t2v-4cb0b2d2.mp4",
+      "sha256": "be962c7883d2c3e0b11cce04a8f1619dcfde0f60a5a178c5bfaad5a1a9f7e976",
+      "bytes": 556932,
+      "filename": "be962c7883d2c3e0b11cce04a8f1619dcfde0f60a5a178c5bfaad5a1a9f7e976.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-single-arm-linear-jam-b53226fa-motion-83ba81a2-poster.webp",
@@ -2429,10 +5162,22 @@
       "filename": "c2204db2198491997834638bbf9b4e7abe014ed646d87cce359dd1670de4f5a9.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_kb_single_arm_swing-video-2272780b.mp4",
+      "sha256": "c24d00e64a5173ba22b11b1cc28e4a616b671f16ce1cdb2e43633bf801601fa0",
+      "bytes": 590343,
+      "filename": "c24d00e64a5173ba22b11b1cc28e4a616b671f16ce1cdb2e43633bf801601fa0.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-romanian-deadlift-veo-quality-single-cycle-trim.mp4",
       "sha256": "c2b16eddaa3f9b8eb0797881ff225374ff4c3dd9b10cb3641c8e444ea4bb6ebd",
       "bytes": 651585,
       "filename": "c2b16eddaa3f9b8eb0797881ff225374ff4c3dd9b10cb3641c8e444ea4bb6ebd.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_knee_tuck_jump_d2ebcd64-video-51dbb588-poster.webp",
+      "sha256": "c2f6e15bf4d79978f6ede8785edd5b1ba1f6f88c65942ee0a0ecc062f9a311a8",
+      "bytes": 10678,
+      "filename": "c2f6e15bf4d79978f6ede8785edd5b1ba1f6f88c65942ee0a0ecc062f9a311a8.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-cable-lying-triceps-complete-cycle-close-poster.webp",
@@ -2465,16 +5210,46 @@
       "filename": "c6210c62e866367845dbddbcf9947c211206afa3715959759e1dc06d22ff31ab.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-decline_ez_triceps-t2v-3c1af402.mp4",
+      "sha256": "c6d9c8a6fee815b47a8d1862fa27d6531995e28f484bdc947c18693813b7343e",
+      "bytes": 695212,
+      "filename": "c6d9c8a6fee815b47a8d1862fa27d6531995e28f484bdc947c18693813b7343e.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-7/r6-ex-decline-bench-press-motion-eaf6a380.mp4",
       "sha256": "c6f4384ed43f42dbac0b804c2b6c08d2e438308b67dd90fd3a613bad92d06abb",
       "bytes": 608826,
       "filename": "c6f4384ed43f42dbac0b804c2b6c08d2e438308b67dd90fd3a613bad92d06abb.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-incline-db-lateral-t2v-fc077ae5.mp4",
+      "sha256": "c724b2289765ec7907e75aa18990fb554856bf4ce149efdc23c2a8430492e1be",
+      "bytes": 537084,
+      "filename": "c724b2289765ec7907e75aa18990fb554856bf4ce149efdc23c2a8430492e1be.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_backward_drag_25c303d9-video-6313bb0d-single-step.webp",
+      "sha256": "c78b306879525d04ffa3fa7aaefbfd05a3dbd1d102e4a019c6ef3ff081c27df0",
+      "bytes": 24160,
+      "filename": "c78b306879525d04ffa3fa7aaefbfd05a3dbd1d102e4a019c6ef3ff081c27df0.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_ohead_press-video-3537bb26-poster.webp",
+      "sha256": "c79a1cd3e3acf08a4f80d4a5f19b2896dd56dbf050400a86d52c31fd8c2f9f79",
+      "bytes": 26800,
+      "filename": "c79a1cd3e3acf08a4f80d4a5f19b2896dd56dbf050400a86d52c31fd8c2f9f79.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-hang-clean-1e812852-motion-c1b25c44.mp4",
       "sha256": "c7ff2d6c105a3b2dcc8bf18327c6e5a5037dfd011c6185688abc7acdf4daacd2",
       "bytes": 805096,
       "filename": "c7ff2d6c105a3b2dcc8bf18327c6e5a5037dfd011c6185688abc7acdf4daacd2.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_back_extension-video-76dff856-poster.webp",
+      "sha256": "c83b7596289f4b7d470eba7ae7ed3cb7b6ab4698897b6f56e2b6978b94216e8a",
+      "bytes": 25804,
+      "filename": "c83b7596289f4b7d470eba7ae7ed3cb7b6ab4698897b6f56e2b6978b94216e8a.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-bent-over-dumbbell-row-first-cycle-trim-v1-poster.webp",
@@ -2495,10 +5270,46 @@
       "filename": "c9827015fe8ee2bd265440af878a1c2cfaee76071be5ad00b0158f5e28557a65.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_burpee-video-58f3fcc3.mp4",
+      "sha256": "c9c49caf4d807781af68583465328a16ff5a24393cb1f2d6919de47729a0bb55",
+      "bytes": 640474,
+      "filename": "c9c49caf4d807781af68583465328a16ff5a24393cb1f2d6919de47729a0bb55.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-6/r6-pushup-user-trim-poster.webp",
       "sha256": "ca33640bb6406453408a044469a0d9bc20e6691ac6329b09802641ef190dc03a",
       "bytes": 36604,
       "filename": "ca33640bb6406453408a044469a0d9bc20e6691ac6329b09802641ef190dc03a.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-db-lateral-t2v-ab0503ce.mp4",
+      "sha256": "ca452717fc3fdebbc10ec6dbe943a94e2f9ae0ff6743f2ebb5d05768a3813cd9",
+      "bytes": 415011,
+      "filename": "ca452717fc3fdebbc10ec6dbe943a94e2f9ae0ff6743f2ebb5d05768a3813cd9.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-db-triceps-first-cycle-ad1d2e46.mp4",
+      "sha256": "ca9bdba83d71d560d74b6bfe8e82bddf72487188a2fd682c04e2bd27bbf52a76",
+      "bytes": 334057,
+      "filename": "ca9bdba83d71d560d74b6bfe8e82bddf72487188a2fd682c04e2bd27bbf52a76.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_seated_band_hamstring_7487455a-video-7ac1c0ef-poster.webp",
+      "sha256": "cab2e23a1a0d827a23a567e180f8770432fd315325cdd6f6cd864eb875798347",
+      "bytes": 39034,
+      "filename": "cab2e23a1a0d827a23a567e180f8770432fd315325cdd6f6cd864eb875798347.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_bench_press_with_band_61b84557-video-e1a79611-poster.webp",
+      "sha256": "cb86dfd0088b69f6f1b4665e31d762e2a6df0e996415efa21dc69deb083d9566",
+      "bytes": 31490,
+      "filename": "cb86dfd0088b69f6f1b4665e31d762e2a6df0e996415efa21dc69deb083d9566.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_box_jump-video-799152c5.mp4",
+      "sha256": "cb95b31f3eb27ea0a9ae254087a4c3e102354ee932ee5802c7b274f4b23c00c3",
+      "bytes": 540234,
+      "filename": "cb95b31f3eb27ea0a9ae254087a4c3e102354ee932ee5802c7b274f4b23c00c3.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-dumbbell-step-ups-04b3396f-motion-977d472e-poster.webp",
@@ -2513,10 +5324,34 @@
       "filename": "cd3d58c32de10d413ecb2b82db1a6a36e83702d6b7beb3b5d3e2fb159ff2097c.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-band-good-morning-0e0cf099-first-cycle-poster.webp",
+      "sha256": "cd4122dfe8311647b3b5d53da89218bbd45708a4d42e1048447d80149cc99b0a",
+      "bytes": 44932,
+      "filename": "cd4122dfe8311647b3b5d53da89218bbd45708a4d42e1048447d80149cc99b0a.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_bodyweight_squat-video-80eb5750.mp4",
+      "sha256": "ce6d40e2a808bd96886f2d7d94e22fe309703d26b688f1015d05ffc42c021032",
+      "bytes": 643852,
+      "filename": "ce6d40e2a808bd96886f2d7d94e22fe309703d26b688f1015d05ffc42c021032.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_lower_back_curl_dd4375a1-video-05101dc3.mp4",
+      "sha256": "cf7d771f80a8ad3c93382b8b61f86376341ddbf4bf1cd2aabaab7163b820dd1e",
+      "bytes": 483731,
+      "filename": "cf7d771f80a8ad3c93382b8b61f86376341ddbf4bf1cd2aabaab7163b820dd1e.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-7/r7-barbell-row-complete-cycle-poster.webp",
       "sha256": "d08ebf344eaa2bf5a8a58a9edc794387757b597d866125a3434784309cf64103",
       "bytes": 30404,
       "filename": "d08ebf344eaa2bf5a8a58a9edc794387757b597d866125a3434784309cf64103.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-machine-high-row-i2v-cycle-e28484d9.mp4",
+      "sha256": "d11c85851448cd521f8e836fc9d733003352171afc55a31b4625516382972918",
+      "bytes": 355492,
+      "filename": "d11c85851448cd521f8e836fc9d733003352171afc55a31b4625516382972918.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-tricep-kickback-motion-2da95657.mp4",
@@ -2531,6 +5366,18 @@
       "filename": "d147d6ab5ec70fdcdf48b05d1c7316fca262275d58d42fb02d1a11447ed2a666.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_knee_hip_raise_on_par_3b7a0c25-video-9e8f5e13-poster.webp",
+      "sha256": "d14f5a08b4aa59b5a3ff664855283ddeb915b82a864e5eb439fde02e4f691d4a",
+      "bytes": 32676,
+      "filename": "d14f5a08b4aa59b5a3ff664855283ddeb915b82a864e5eb439fde02e4f691d4a.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_jump_rope-video-e373c545-poster.webp",
+      "sha256": "d26a35aae7f3ffe3bd82a815c04ff32e5086cdc21345d27fec0b4a2f10214dff",
+      "bytes": 9044,
+      "filename": "d26a35aae7f3ffe3bd82a815c04ff32e5086cdc21345d27fec0b4a2f10214dff.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-smith-machine-overhea-f4f4e023-motion-6540cebe-poster.webp",
       "sha256": "d2b911615c694b4b236f2ef24f567abff01714965a57e5e07eac388ef17dd023",
       "bytes": 58238,
@@ -2541,6 +5388,12 @@
       "sha256": "d445f2d519509a8da8b60221bc320ce6886f8f0110df78f61d25a2971fdc83e5",
       "bytes": 477113,
       "filename": "d445f2d519509a8da8b60221bc320ce6886f8f0110df78f61d25a2971fdc83e5.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_body_tricep_press_cd8e102d-video-77fd4e8c-poster.webp",
+      "sha256": "d455ef70681585ad65b9628e88c4d995ccc5834fa970f9c68c48b395c4d3905a",
+      "bytes": 28804,
+      "filename": "d455ef70681585ad65b9628e88c4d995ccc5834fa970f9c68c48b395c4d3905a.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-cable-wrist-curl-a1feb456-motion-fac44554.mp4",
@@ -2561,16 +5414,52 @@
       "filename": "d496a624c7dec4d46d2d6facfed044f002b35f569f2f3ac70d4cce2050e86aaf.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_alternating_renegade__318e9981-video-d7e1e081-poster.webp",
+      "sha256": "d4cb0a4bbc9a903b9e13df5586bfffafce241516c44ecc08eebe5c6dc7d094bd",
+      "bytes": 36026,
+      "filename": "d4cb0a4bbc9a903b9e13df5586bfffafce241516c44ecc08eebe5c6dc7d094bd.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-standing-db-rear-fly-t2v-6b2728d8.mp4",
+      "sha256": "d52def1e63cddee049d8f3e97b0c927809bd4037b2420b764f3d542a5430c931",
+      "bytes": 405486,
+      "filename": "d52def1e63cddee049d8f3e97b0c927809bd4037b2420b764f3d542a5430c931.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-flat-db-rear-fly-t2v-f75d7e80-poster.webp",
+      "sha256": "d58c659c113fa8466dc124c89e76273b86915bf819afd1867c27f556ecc15696",
+      "bytes": 19986,
+      "filename": "d58c659c113fa8466dc124c89e76273b86915bf819afd1867c27f556ecc15696.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-dumbbell-side-bend-cycle-ff2a3af4-poster.webp",
       "sha256": "d5f3b6b7c10512a11a7cc3e083cbaad0be856df79b71a5b78568656b3884fd68",
       "bytes": 38524,
       "filename": "d5f3b6b7c10512a11a7cc3e083cbaad0be856df79b71a5b78568656b3884fd68.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_two_arm_kettlebell_mi_01904129-video-dd4f58fa-poster.webp",
+      "sha256": "d698d83fe3acd68124b13739b449240178572b352040094e3409348f5c1b8098",
+      "bytes": 19400,
+      "filename": "d698d83fe3acd68124b13739b449240178572b352040094e3409348f5c1b8098.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-barbell-glute-bridge-first-cycle-trim-v2.mp4",
       "sha256": "d6b46ebf4541d3a40e64785a32328c2c166635698e93853b61a1e348d1e0cfac",
       "bytes": 547446,
       "filename": "d6b46ebf4541d3a40e64785a32328c2c166635698e93853b61a1e348d1e0cfac.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_curl-video-ac1eb92c.mp4",
+      "sha256": "d6ffa2cb318dbd4cbe132ae48259be6887979ba5ef5a82eae0a761215ff18077",
+      "bytes": 710657,
+      "filename": "d6ffa2cb318dbd4cbe132ae48259be6887979ba5ef5a82eae0a761215ff18077.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-single-db-press-t2v-73fff9bd.mp4",
+      "sha256": "d8db9b3a64d71c04a2394767ea0094ff3c0c3f24b5afef4411a75749049aaf20",
+      "bytes": 567253,
+      "filename": "d8db9b3a64d71c04a2394767ea0094ff3c0c3f24b5afef4411a75749049aaf20.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-7/r6-ex-concentration-curl-motion-487b2b4e.mp4",
@@ -2583,6 +5472,18 @@
       "sha256": "d90f667992bb86b5ad10e4af406e32f2ea3607bc3b7252c7f0a4649765b7ab17",
       "bytes": 818715,
       "filename": "d90f667992bb86b5ad10e4af406e32f2ea3607bc3b7252c7f0a4649765b7ab17.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_freehand_jump_squat_c59fdada-video-4d915557.mp4",
+      "sha256": "d92c47ac76a6e32992ab757e1bba059c2248318293008018befeac6d8984fb19",
+      "bytes": 561472,
+      "filename": "d92c47ac76a6e32992ab757e1bba059c2248318293008018befeac6d8984fb19.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_russian_twist-video-3ffce3d9.mp4",
+      "sha256": "d93f589156070f674d0ce8613364aeaf34cecc9b59d27ff6d5c9644d8784f132",
+      "bytes": 582762,
+      "filename": "d93f589156070f674d0ce8613364aeaf34cecc9b59d27ff6d5c9644d8784f132.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-bulgarian-split-squat-cycle-5a64c606.mp4",
@@ -2615,16 +5516,70 @@
       "filename": "da99785b7c0c19853a9585d0a80bc2f6de81782ae1163b9da8c78b221e54c161.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle-poster.webp",
+      "sha256": "dad13e3b485dd0f871451204b52360d9a2d6de9f10469b84892d0864b5cff377",
+      "bytes": 29712,
+      "filename": "dad13e3b485dd0f871451204b52360d9a2d6de9f10469b84892d0864b5cff377.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-5/r5-bulgarian-split-squat-anatomical-motion-1a62f341-poster.webp",
       "sha256": "db207482076d26e5ebb2db97a4a1e3cfe97a6508923002ee4bc4153ac1b15931",
       "bytes": 20588,
       "filename": "db207482076d26e5ebb2db97a4a1e3cfe97a6508923002ee4bc4153ac1b15931.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-two-kb-front-squat-first-cycle-11486fc4.mp4",
+      "sha256": "db338da9cbe8b67613cfd5cce667194f385c075ef22e3fe5acb960d84e176ded",
+      "bytes": 659787,
+      "filename": "db338da9cbe8b67613cfd5cce667194f385c075ef22e3fe5acb960d84e176ded.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_suspended_reverse_cru_87b7b4f2-video-7a452b15-poster.webp",
+      "sha256": "db5920715c47a25b00476361e033487fa669757b9c189a8974b6f91eb5d20e9e",
+      "bytes": 42350,
+      "filename": "db5920715c47a25b00476361e033487fa669757b9c189a8974b6f91eb5d20e9e.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_step_mill-video-77210ee3.mp4",
+      "sha256": "dbd3b2f804d706aa49c5f927166f8566704b3db1ff9e932aedb48330f48503f7",
+      "bytes": 609745,
+      "filename": "dbd3b2f804d706aa49c5f927166f8566704b3db1ff9e932aedb48330f48503f7.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_oblique_crunches_c1078e1e-video-ccde1970.mp4",
+      "sha256": "dbf2b17db8434dbdf6d4003bb0ea71ab95887a45f114e06c3095575192529f94",
+      "bytes": 542217,
+      "filename": "dbf2b17db8434dbdf6d4003bb0ea71ab95887a45f114e06c3095575192529f94.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-single-leg-press-i2v-cycle-a5e8ba50.mp4",
+      "sha256": "dc04afec2b4e915300936f1e1ea167e69e1dbd3fe698e831be8551b8d39d7ac0",
+      "bytes": 345401,
+      "filename": "dc04afec2b4e915300936f1e1ea167e69e1dbd3fe698e831be8551b8d39d7ac0.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-pullover-long-arm-single-cycle-trim-v1.mp4",
       "sha256": "dc9d403e1b55c4ba935247f8fad3fac91040207044b662145d5263a6481637af",
       "bytes": 350411,
       "filename": "dc9d403e1b55c4ba935247f8fad3fac91040207044b662145d5263a6481637af.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-two-kb-front-squat-first-cycle-11486fc4-poster.webp",
+      "sha256": "dcaefcdb839d3aba632308ccf5715ba22217be926a7ebaa216b5a8d13565cea6",
+      "bytes": 41092,
+      "filename": "dcaefcdb839d3aba632308ccf5715ba22217be926a7ebaa216b5a8d13565cea6.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_crunch-video-aad9323e-poster.webp",
+      "sha256": "dce2e491724bff2c493489c09daf7f3297f4e169c4d6db6f524457f243da550d",
+      "bytes": 54590,
+      "filename": "dce2e491724bff2c493489c09daf7f3297f4e169c4d6db6f524457f243da550d.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_russian_twist-video-3ffce3d9-poster.webp",
+      "sha256": "de01128bda49cf7a715ea50c9cd3d410e75113e9f8994596f3bed4acbdfaad3e",
+      "bytes": 32882,
+      "filename": "de01128bda49cf7a715ea50c9cd3d410e75113e9f8994596f3bed4acbdfaad3e.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-good-morning-single-cycle-trim-v1-poster.webp",
@@ -2639,6 +5594,12 @@
       "filename": "df74788ec1f0844d59651259e97545ac9bf228e4aa698558529e4141e35a3bdc.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_bodyweight_hip_hinge-video-6a05e544-poster.webp",
+      "sha256": "dfb69c27c208a6e04fb51e6fc3569f62eafa2230c75e7d9e9d13e56833fb0d06",
+      "bytes": 38364,
+      "filename": "dfb69c27c208a6e04fb51e6fc3569f62eafa2230c75e7d9e9d13e56833fb0d06.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-seated-leg-curl-complete-cycle-close-poster.webp",
       "sha256": "dfba1e7e8b0f1581d20ec9ea64ec7040d316aac52b0ee0da1c895600ec2bcc3c",
       "bytes": 36942,
@@ -2651,16 +5612,58 @@
       "filename": "e0fa3e040c488c14fc98d203c696d5a028aa62e7ea60854181eec298d8981f34.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_one_arm_overhead_kett_d62c6265-video-5b4fbceb-first-cycle.mp4",
+      "sha256": "e14728fb2aceabc3d3b555223cad806ea5467640e9a820ffe2e4b9ef19385b31",
+      "bytes": 377965,
+      "filename": "e14728fb2aceabc3d3b555223cad806ea5467640e9a820ffe2e4b9ef19385b31.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-side-leg-lift-first-cycle-3163d4ff.mp4",
+      "sha256": "e147be35d886a235f0a2d66c5818ecd11cbd50dee8aa9ef5c4b04c487af46556",
+      "bytes": 457351,
+      "filename": "e147be35d886a235f0a2d66c5818ecd11cbd50dee8aa9ef5c4b04c487af46556.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-upright-row-motion-76f4aace-poster.webp",
       "sha256": "e1c824731d78a95f0f0d78691a5be89cef1b5099268eedde95ee875bceb53e23",
       "bytes": 23260,
       "filename": "e1c824731d78a95f0f0d78691a5be89cef1b5099268eedde95ee875bceb53e23.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-upright-row-band-0c7ca300-complete-first-cycle-poster.webp",
+      "sha256": "e26a4f0c3f73a0911b4702c9ed6baf780ec12c81b61280c5a26c3d4c04bc73e5",
+      "bytes": 45148,
+      "filename": "e26a4f0c3f73a0911b4702c9ed6baf780ec12c81b61280c5a26c3d4c04bc73e5.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-ez-bar-skullcrusher-18e6f719-motion-3ceb920b-poster.webp",
       "sha256": "e4518e549abfe9732c343fc735a6b9b5ce4d7ca2fe54d8ad94df3d776be8363a",
       "bytes": 23666,
       "filename": "e4518e549abfe9732c343fc735a6b9b5ce4d7ca2fe54d8ad94df3d776be8363a.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_star_jump_c78a518b-video-57191611.mp4",
+      "sha256": "e461497805518c9a9a9d6dad7f2164b22a266185d59a6fee874847c71df0e069",
+      "bytes": 458209,
+      "filename": "e461497805518c9a9a9d6dad7f2164b22a266185d59a6fee874847c71df0e069.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_recreational_skating-video-83e97191-poster.webp",
+      "sha256": "e476e7712b047bf19e68ef01dc0941db1b63d93f32eff5240c63824e81ac5199",
+      "bytes": 17918,
+      "filename": "e476e7712b047bf19e68ef01dc0941db1b63d93f32eff5240c63824e81ac5199.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_pil_roll_up-video-28e3598d.mp4",
+      "sha256": "e5c02fb3f297101e46d6ac7bea227b220b46b8866373489d59381451adbe4c0c",
+      "bytes": 892354,
+      "filename": "e5c02fb3f297101e46d6ac7bea227b220b46b8866373489d59381451adbe4c0c.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_pallof_press-video-cf9d6594.mp4",
+      "sha256": "e5e7a588f3353cb86ae3687e4862ce05bdd5f068760c1a8076452d91dfbc8983",
+      "bytes": 385894,
+      "filename": "e5e7a588f3353cb86ae3687e4862ce05bdd5f068760c1a8076452d91dfbc8983.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-8/r8-ex-thruster-motion-f01bbcc5-poster.webp",
@@ -2687,6 +5690,12 @@
       "filename": "e6de5ff6248f36af518806e5a78f48ad370d2adfa1ab3b72b117ea48e8f4276b.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_pil_double_leg_kick-video-41d7e107.mp4",
+      "sha256": "e6dfed05da329c18607474cea92d89be514d9fd78f33f0e68f37af2757369fad",
+      "bytes": 613311,
+      "filename": "e6dfed05da329c18607474cea92d89be514d9fd78f33f0e68f37af2757369fad.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-landmine-row-complete-cycle-poster.webp",
       "sha256": "e7843bfeccd302a3ef0ad9c574869686c7137bea1590d7df8d6072da13fb4b99",
       "bytes": 25498,
@@ -2705,6 +5714,12 @@
       "filename": "e88414f43b737d7ee40b906da8491909139fa98666225a8a09c5e8812a4e5bae.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-decline-crunch-t2v-63c25360.mp4",
+      "sha256": "e896f7f8110e6ef1c8d2253ef593362fce1588a8bf9d5f477483c33161cf2863",
+      "bytes": 529653,
+      "filename": "e896f7f8110e6ef1c8d2253ef593362fce1588a8bf9d5f477483c33161cf2863.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-ab-crunch-machine-complete-cycle.mp4",
       "sha256": "e93d9d31a392ac0ee88e2950f1607ef880459348a2d3573176972107866e91ef",
       "bytes": 647689,
@@ -2717,10 +5732,22 @@
       "filename": "e985e2c0957b0fdb726b6512f9ce22da9c292fa4cf5a725b1825d27a4372d7ed.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_indoor_rowing-video-cf6f5037-first-cycle-poster.webp",
+      "sha256": "e987afb4952891463db8044df9eb25e73bf7fcce93cd4a44e37c1eaa8ac5eef9",
+      "bytes": 28466,
+      "filename": "e987afb4952891463db8044df9eb25e73bf7fcce93cd4a44e37c1eaa8ac5eef9.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-7/r6-ex-dumbbell-curl-motion-4bccd9b9-poster.webp",
       "sha256": "ea5ac6a06e1cc31699821c71d9fe09ca3aff65e982061513e5509e50f5e9bb59",
       "bytes": 50478,
       "filename": "ea5ac6a06e1cc31699821c71d9fe09ca3aff65e982061513e5509e50f5e9bb59.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-db-floor-press-first-cycle-d7df1bde-poster.webp",
+      "sha256": "ea64478996879e8b5d145052d6d20219af324c2aec9698a02bf366a7cb7b3b65",
+      "bytes": 29506,
+      "filename": "ea64478996879e8b5d145052d6d20219af324c2aec9698a02bf366a7cb7b3b65.webp"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-9/r9-bent-over-dumbbell-row-first-cycle-trim-v1.mp4",
@@ -2733,6 +5760,60 @@
       "sha256": "eb334f277a67320aa0e5b1838bd5f9572c51d5ac832f4e1bb4ccafc595047d77",
       "bytes": 19328,
       "filename": "eb334f277a67320aa0e5b1838bd5f9572c51d5ac832f4e1bb4ccafc595047d77.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_exercise_ball_pull_in_98443332-video-c2204545-poster.webp",
+      "sha256": "ed01fdf24cd781f44ac9d7e9379b4292c0c18f7d46bec5c43c110240954ea364",
+      "bytes": 31054,
+      "filename": "ed01fdf24cd781f44ac9d7e9379b4292c0c18f7d46bec5c43c110240954ea364.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_chair_squat-video-efbddc88-poster.webp",
+      "sha256": "ee84a35878897e0306c8a0bd4efd4f7136adab035dd8f7734284c0a4bb1cef97",
+      "bytes": 31056,
+      "filename": "ee84a35878897e0306c8a0bd4efd4f7136adab035dd8f7734284c0a4bb1cef97.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-single-db-press-t2v-73fff9bd-poster.webp",
+      "sha256": "ee9772ba5dc3dd21dd848658c7ca291747c3c0fc16a5d9940a78614b6bb3fb12",
+      "bytes": 32990,
+      "filename": "ee9772ba5dc3dd21dd848658c7ca291747c3c0fc16a5d9940a78614b6bb3fb12.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-ball-crunch-t2v-dbffb94a-poster.webp",
+      "sha256": "efdba4a867cb3844e01e1740243256b84b30d319c8a7ccc8ef3456db3391d210",
+      "bytes": 28636,
+      "filename": "efdba4a867cb3844e01e1740243256b84b30d319c8a7ccc8ef3456db3391d210.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_pil_roll_up-video-28e3598d-poster.webp",
+      "sha256": "eff6d34dcd4139678d879fcc6d38762f90918ffa044be84c37f5c2e599e9ff3d",
+      "bytes": 27432,
+      "filename": "eff6d34dcd4139678d879fcc6d38762f90918ffa044be84c37f5c2e599e9ff3d.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_knee_tuck_jump_d2ebcd64-video-51dbb588.mp4",
+      "sha256": "effdc8c90f98a33b5c004e4c0254eca7eb31c9671ed48986f734251dc2abaa69",
+      "bytes": 477717,
+      "filename": "effdc8c90f98a33b5c004e4c0254eca7eb31c9671ed48986f734251dc2abaa69.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_superman_27d5233d-video-25f6831c.mp4",
+      "sha256": "f0f04456b7102f955521de533bc5730c161dd650dc795bd0a38c029f8dba30c9",
+      "bytes": 503414,
+      "filename": "f0f04456b7102f955521de533bc5730c161dd650dc795bd0a38c029f8dba30c9.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_tricep_dip-video-ee5e4c99-poster.webp",
+      "sha256": "f0f244f5e42066dae58e66ac42366cef5f9cb3e798aec3fb3f84cdbb1104f805",
+      "bytes": 30804,
+      "filename": "f0f244f5e42066dae58e66ac42366cef5f9cb3e798aec3fb3f84cdbb1104f805.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_cal_wall_pushup-video-269f8eaf.mp4",
+      "sha256": "f0f9a84f2776f555e6253717870ceeeb0361a3d2390517a9eaee2ccaa6e65472",
+      "bytes": 415420,
+      "filename": "f0f9a84f2776f555e6253717870ceeeb0361a3d2390517a9eaee2ccaa6e65472.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-5/r5-leg-extension-cycle-v1-poster.webp",
@@ -2759,6 +5840,18 @@
       "filename": "f2adef0531f301d8f2be799711e316a4f70f26881504e4be4b9c88cb8dbffc57.webp"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_card_indoor_rowing-video-cf6f5037-first-cycle.mp4",
+      "sha256": "f2d49f9f33fef42656d2659b54dd34b2333b21c97ec14e33cff67baa752955c2",
+      "bytes": 883813,
+      "filename": "f2d49f9f33fef42656d2659b54dd34b2333b21c97ec14e33cff67baa752955c2.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-assisted-dip-first-cycle-84e3f3fa-poster.webp",
+      "sha256": "f2e4c20170869b64ec2381ada202eeb08d87a03f978b73622ebb8c6da3bacc6e",
+      "bytes": 36202,
+      "filename": "f2e4c20170869b64ec2381ada202eeb08d87a03f978b73622ebb8c6da3bacc6e.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-open-power-jerk-56e87432-motion-6c025c02.mp4",
       "sha256": "f3da5e2f1549444129c83882a901d88f8dec44fe416d379c23dddf7e3b217541",
       "bytes": 804324,
@@ -2783,16 +5876,58 @@
       "filename": "f603bfee360e2c96433c09b6ab06570f846e3b2177d4f7b1dc9a2adfcb75d539.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-ex_v_up-video-878890be.mp4",
+      "sha256": "f634625729cfc5624198155dd449334ba6ddc9c5bdf4758e547936f27e157cb7",
+      "bytes": 715073,
+      "filename": "f634625729cfc5624198155dd449334ba6ddc9c5bdf4758e547936f27e157cb7.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-db-triceps-first-cycle-ad1d2e46-poster.webp",
+      "sha256": "f81a3428d39bd7fdbf07e560c68067dc05ad40683f60b1d2ca2d33bfa3d0c7e5",
+      "bytes": 33572,
+      "filename": "f81a3428d39bd7fdbf07e560c68067dc05ad40683f60b1d2ca2d33bfa3d0c7e5.webp"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-standing-machine-calf-complete-cycle.mp4",
       "sha256": "f84c47d3afc5e25a7d45f0ea6989a8a5c6605992c6c542a9eaac0da66c45e73d",
       "bytes": 555168,
       "filename": "f84c47d3afc5e25a7d45f0ea6989a8a5c6605992c6c542a9eaac0da66c45e73d.mp4"
     },
     {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_scissor_kick_0399c7e5-video-53e89b4a.mp4",
+      "sha256": "f927c7688c95abf51559458d1f9fc31766ffe8701521eb254fb148db084bed62",
+      "bytes": 821958,
+      "filename": "f927c7688c95abf51559458d1f9fc31766ffe8701521eb254fb148db084bed62.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle-poster.webp",
+      "sha256": "fa5fe54c702591983c01d83c47cdbba08c986aa321ffc965195c4dfe7cf1e0cc",
+      "bytes": 17850,
+      "filename": "fa5fe54c702591983c01d83c47cdbba08c986aa321ffc965195c4dfe7cf1e0cc.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-cat_band_lateral_raise-video-04f3ed48-first-cycle.mp4",
+      "sha256": "fabc5b9c45114e4ab30c1802388dc8b1c9ab76e3f728e86f1b488357ac95cc31",
+      "bytes": 335057,
+      "filename": "fabc5b9c45114e4ab30c1802388dc8b1c9ab76e3f728e86f1b488357ac95cc31.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-seated-db-curl-t2v-dea8f569.mp4",
+      "sha256": "fadb86e127c1a4d7da3df2eb12dfd443481ddee0ce7c4dc6bb4813da1f4d42c9",
+      "bytes": 611776,
+      "filename": "fadb86e127c1a4d7da3df2eb12dfd443481ddee0ce7c4dc6bb4813da1f4d42c9.mp4"
+    },
+    {
       "sourcePath": "form-media/assets/delivery/round-9/r9-dumbbell-side-bend-cycle-ff2a3af4.mp4",
       "sha256": "fb09abc2a9ca4512e16bf9491c7afc7b688ab35893af9392289f9d3236db0c50",
       "bytes": 488064,
       "filename": "fb09abc2a9ca4512e16bf9491c7afc7b688ab35893af9392289f9d3236db0c50.mp4"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-12/r12-bb-spider-curl-t2v-a3ded74e.mp4",
+      "sha256": "fdc2bf48e25dd566fe61978d8bd4853c5ef5ea2040211dec796f2d73eb89701e",
+      "bytes": 471129,
+      "filename": "fdc2bf48e25dd566fe61978d8bd4853c5ef5ea2040211dec796f2d73eb89701e.mp4"
     },
     {
       "sourcePath": "form-media/assets/delivery/round-7/r6-ex-concentration-curl-motion-487b2b4e-poster.webp",
@@ -2811,6 +5946,12 @@
       "sha256": "ff459a3b1eedd04268f195ee720ee8094a22fbed25f731b3ca549153068c9cbc",
       "bytes": 19120,
       "filename": "ff459a3b1eedd04268f195ee720ee8094a22fbed25f731b3ca549153068c9cbc.webp"
+    },
+    {
+      "sourcePath": "form-media/assets/delivery/round-13/r13-open_seated_band_hamstring_7487455a-video-7ac1c0ef.mp4",
+      "sha256": "ffa1a030ec597bf92f381d98b021528dd19d26bc71404551ecaff55dff166815",
+      "bytes": 528137,
+      "filename": "ffa1a030ec597bf92f381d98b021528dd19d26bc71404551ecaff55dff166815.mp4"
     }
   ]
 }

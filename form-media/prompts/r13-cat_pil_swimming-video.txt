@@ -1,0 +1,10 @@
+HOLD — DO NOT GENERATE THIS PLACEHOLDER.
+Exercise: Pilates — Swimming Preparation (cat_pil_swimming).
+Actual source master and full-resolution anatomical/contact review are pending. A pose-specific motion-only brief must be authored from a ready-to-animate exact source path/SHA256, then explicitly adopted by root before I2V submission.
+Canonical instructions:
+Lie face down with arms reaching forward and neck in line with the spine.
+Lift one arm and the opposite leg slightly, then lower. Alternate diagonal pairs without rocking the trunk.
+Each lift and return is one rep; log the total across both pairs.
+
+Each ONE diagonal arm/opposite-leg lift and return counts once toward the total; no invented two-pair combination rep or frantic paddling. Actual video chooses one visible pair after source review.
+Preserve exact equipment/counting and one complete catalog cycle at original speed; finished video requires whole-timeline dense and full-resolution phase/grip review before candidate status. Source and video each have four total stable-shot outputs/attempts maximum; never reset history. AI candidate is separate from human approval.

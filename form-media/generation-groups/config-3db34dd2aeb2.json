@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_bal_cross_body_reach-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_cross_body_reach-video-237ae177.json"
+    },
+    {
+      "shot": "r13-cat_bal_lateral_weight_shift-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_lateral_weight_shift-video-0fbfe354.json"
+    },
+    {
+      "shot": "r13-cat_bal_side_step_hold-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_side_step_hold-video-9f212fc1.json"
+    },
+    {
+      "shot": "r13-cat_cal_assisted_pullup-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_assisted_pullup-video-8d19ec40.json"
+    },
+    {
+      "shot": "r13-cat_bal_quarter_turn-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_quarter_turn-video-8a3ca262.json"
+    },
+    {
+      "shot": "r13-cat_cond_squat_calf_raise-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_squat_calf_raise-video-a2e417d0.json"
+    }
+  ]
+}

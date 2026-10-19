@@ -137,6 +137,8 @@ def main():
                 raise ValueError(f'This shot has reached its {attempt_limit}-attempt limit.')
             form_media.submission_window(manifest, records, args.generation_group,
                                          args.profile, args.exercise, args.shot)
+            project_id = (manifest['activeGenerationGroup'].get('projectId', manifest['projectId'])
+                          if args.generation_group else manifest['projectId'])
         if not shutil.which('ffprobe'):
             raise ValueError('ffprobe is required to record downloaded media before any generation is submitted.')
         if args.kind == 'video' and (len(args.reference) != (0 if args.video_mode == 't2v' else 1) or not args.duration or args.aspect not in ['16:9', '9:16']):
@@ -160,17 +162,20 @@ def main():
         prompt_patch = command_json([sys.executable, str(SCRIPTS / 'patch_gflow_prompt.py'), 'status'])
         if prompt_patch.get('patched') is not True:
             raise ValueError('The reviewed prompt replacement/readback guard is not active; run patch_gflow_prompt.py apply first.')
+        wire_patch = command_json([sys.executable, str(SCRIPTS / 'patch_gflow_wire.py'), 'status'])
+        if wire_patch.get('patched') is not True:
+            raise ValueError('The reviewed migrated record/workflow guard is not active; run patch_gflow_wire.py apply first.')
         print(f'Verifying current Flow price for {key}…',
               file=sys.stderr if args.ui_quote_file else sys.stdout, flush=True)
         if args.ui_quote_file:
-            quote_file, quote_bytes, quote = ui_quote(args.ui_quote_file, args, manifest['projectId'], key)
+            quote_file, quote_bytes, quote = ui_quote(args.ui_quote_file, args, project_id, key)
         else:
             quote = command_json([sys.executable, str(SCRIPTS / 'flow_pricing.py'), '--model-key', key])
             quote_file = ROOT / 'form-media/pricing.json'
             quote_bytes = quote_file.read_bytes()
             snapshot = json.loads(quote_bytes)
             matching_offers = [item for item in snapshot.get('offers', []) if item.get('modelKey') == key]
-            if snapshot.get('observedAt') != quote.get('observedAt') or snapshot.get('balance') != quote.get('balance') or snapshot.get('projectId') != manifest['projectId'] or len(matching_offers) != 1 or matching_offers[0].get('credits') != quote.get('credits'):
+            if snapshot.get('observedAt') != quote.get('observedAt') or snapshot.get('balance') != quote.get('balance') or snapshot.get('projectId') != project_id or len(matching_offers) != 1 or matching_offers[0].get('credits') != quote.get('credits'):
                 raise ValueError('Live pricing snapshot changed before reservation; no generation submitted.')
             if args.end_reference and any(quote.get(field) != value for field, value in matching_offers[0].items()):
                 raise ValueError('First/last quote settings differ from the retained live pricing snapshot.')
@@ -192,6 +197,7 @@ def main():
             reserve_args.extend(['--end-reference', references[-1].relative_to(ROOT)])
         reservation = ledger(*reserve_args)
         attempt_id = reservation['id']
+        project_id = reservation['attempt']['projectId']
         # The ledger's frozen text is what must actually be sent, even if an
         # editor changed the prompt file while the live-price read was running.
         prompt = reservation['attempt']['prompt']
@@ -252,7 +258,7 @@ def main():
             if args.end_reference:
                 command.extend(['--end-frame', str(upload_references[1])])
         command.extend(['--model', model, '--aspect', args.aspect, '--count', '1',
-                        '--project', manifest['projectId'], '--output', str(output), '--json'])
+                        '--project', project_id, '--output', str(output), '--json'])
         if args.profile:
             command.extend(['--profile', args.profile])
         for reference in reservation['attempt']['references']:
@@ -262,7 +268,7 @@ def main():
             if form_media.sha256(upload) != reference['sha256']:
                 raise ValueError('An upload copy changed before submission; reconcile the reservation.')
         if args.ui_quote_file:
-            _, current_bytes, _ = ui_quote(quote_file, args, manifest['projectId'], key)
+            _, current_bytes, _ = ui_quote(quote_file, args, project_id, key)
             if current_bytes != quote_bytes or frozen_ui_quote.read_bytes() != quote_bytes:
                 raise ValueError('UI quote evidence changed before submission; reconcile the reservation.')
         ledger('update', '--attempt', attempt_id, '--status', 'submitted', '--notes',

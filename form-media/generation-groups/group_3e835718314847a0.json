@@ -1,0 +1,99 @@
+{
+  "id": "group_3e835718314847a0",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T19:44:50+00:00",
+  "balanceBefore": 3939,
+  "quotedCredits": 20,
+  "members": [
+    {
+      "exerciseId": "cat_var_rope_hammer_curl",
+      "shot": "r12-rope_hammer_curl-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "1c7685160e3fb24b70796b80be4602a44d6594fc7ca3aab25cc6e8a23e857882",
+      "quoteFile": "form-media/ui-quotes/r12-rope_hammer_curl-t2v-b1007186.json",
+      "quoteSha256": "4ea8e98c24d95bae73df307c7303fd6683110c1123976efc468cc57bfeb3a335",
+      "quoteCredits": 10,
+      "balance": 3939,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-rope_hammer_curl-start/attempt_3939bd8667a34c6e.jpg",
+          "sha256": "2aa72185ba2bc629ded72aa96026a7874d1007929c35b45cdc9b73bd4c547569"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_db_spider_curl",
+      "shot": "r12-db_spider_curl-t2v",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "ed5531e7fddae029c0f673d4eca1667a20de22e3c7e13dff709f1e5345194bd8",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-t2v-beec82dd.json",
+      "quoteSha256": "c784fa1747c86543c37189117557843a81f99acaed9e77e1f7fe1faa046ecdbe",
+      "quoteCredits": 10,
+      "balance": 3939,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-db_spider_curl-start/attempt_5d67cb0c4c654a98.jpg",
+          "sha256": "7c7cc97c8f6e485ed74048f77cc00493eb5902eca0139279d3843ce4c3abea41"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_single_cable_fly",
+      "shot": "r12-single-cable-fly-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "5fa747323d4bcc04027043dfdce0189800961b34b9ed345795bc30c76ee1d762",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-fly-start-2bcc1e8f.json",
+      "quoteSha256": "0441b9bed7fdf05af1c74844ff06702e053ddc1ed5f9cc4553a5bdab8ef21c23",
+      "quoteCredits": 0,
+      "balance": 3939,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_db_floor_press",
+      "shot": "r12-db_floor_press-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "b892c1f3b2b26202b75f96d627bb54f76bcd8aae503783c4fb2b373be772b59b",
+      "quoteFile": "form-media/ui-quotes/r12-db_floor_press-start-3f6b7fc1.json",
+      "quoteSha256": "eccb33f1a173cc42b5ea43c4b0af626a5c778aaecb1964c513edb7f6abce3e04",
+      "quoteCredits": 0,
+      "balance": 3939,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_single_db_triceps",
+      "shot": "r12-single-db-triceps-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "f1a8dbb7f19ce36f6c7a5f282de1d30730d740db78d4f2b26b0b9122ea18e75c",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-triceps-start-7798a664.json",
+      "quoteSha256": "febd215f94de15432af9dc427920e8b8af64cff3ce0ebfb628cd13323d5c2bd4",
+      "quoteCredits": 0,
+      "balance": 3939,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "ede95173fce82b35c64d81f76e18f5e1748091435d0f47392176588f23b1911f",
+      "quoteFile": "form-media/ui-quotes/r12-flat-db-rear-fly-start-ecbc5be5.json",
+      "quoteSha256": "543efa3ae7cdae60195138bf956a21ba9d995a089cb7819eb4f497d3cf717e06",
+      "quoteCredits": 0,
+      "balance": 3939,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-flat-db-rear-fly-start/attempt_12277ea2e621453b.jpg",
+          "sha256": "4a50a286a53ce8479055b37fd3cadf4ce65190ccf8e6ab175543482c12110a76"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T19:46:36+00:00",
+  "balanceAfter": 3919,
+  "actualCredits": 20,
+  "evidenceFile": "form-media/ui-quotes/observed-4351f90dbc1241ec.json",
+  "evidenceSha256": "78c1efd4222f27efaf9b56ddf1cfedbc00420a6c8b1e25a9a6ced974d285ddef",
+  "terminalFailureIds": []
+}

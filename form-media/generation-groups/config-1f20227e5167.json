@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "shot": "r12-standing-leg-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-standing-leg-curl-start-6b46ea7b.json"
+    },
+    {
+      "shot": "r12-incline_hammer_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline_hammer_curl-start-8d28212f.json"
+    },
+    {
+      "shot": "r12-assisted_pullup-start",
+      "quoteFile": "form-media/ui-quotes/r12-assisted_pullup-start-b4335ea3.json"
+    },
+    {
+      "shot": "r12-high-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-high-cable-fly-start-608c0c9c.json"
+    },
+    {
+      "shot": "r12-machine_back_extension-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine_back_extension-start-438ddea4.json"
+    }
+  ]
+}

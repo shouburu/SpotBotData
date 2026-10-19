@@ -1,0 +1,99 @@
+{
+  "id": "group_e1db5a6a97504fae",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:36:05+00:00",
+  "balanceBefore": 1953,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_leg_pull_in_5e6cf513",
+      "shot": "r13-open_leg_pull_in_5e6cf513-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "01fc530d9f902f1716449750af8b35b6fcdb6810398d598c5d78f1a8fa5d7a17",
+      "quoteFile": "form-media/ui-quotes/r13-open_leg_pull_in_5e6cf513-start-1c0de3bf.json",
+      "quoteSha256": "ee8ddf4a8cdabf1613bcf52aa19b5043daad169f1555bb52cc5668dddea860bd",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_leg_pull_in_5e6cf513-start/attempt_5ecfe35afecd43dc.jpg",
+          "sha256": "70c2427d2bccfdb2cd3e214ecd1d0c19600752c7bd6855de615dba5a73563bc4"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_knee_hip_raise_on_par_3b7a0c25",
+      "shot": "r13-open_knee_hip_raise_on_par_3b7a0c25-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "3f879113759e29f221ce45caa45a406a2e9f02e3f23f020dc9c7b0af551f24e6",
+      "quoteFile": "form-media/ui-quotes/r13-open_knee_hip_raise_on_par_3b7a0c25-start-797fc11a.json",
+      "quoteSha256": "014a80ce2cea21148f857efe02d3be4958af1ebde415bf881c34bb5fd93a14f8",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_knee_hip_raise_on_par_3b7a0c25-start/attempt_4fbd40f090d54810.jpg",
+          "sha256": "c4ac040e10151e2e96606b0cb8cf9d025e87974b37f00ddf159801b117e446b1"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_oblique_crunches_on_t_30346079",
+      "shot": "r13-open_oblique_crunches_on_t_30346079-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "c3cb502ffedf520445f5cdc1720098b679825120b98c4894552cf43bdabbb1e7",
+      "quoteFile": "form-media/ui-quotes/r13-open_oblique_crunches_on_t_30346079-start-01a1a14d.json",
+      "quoteSha256": "e38827b91094c39060c7cfc2aefb9dabd3c5b99d2205a6a83ff67954d941d6e1",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_cal_dead_bug_legs_only",
+      "shot": "r13-cat_cal_dead_bug_legs_only-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "222be724e7b308c02976df571f5a717b019116e40b4a9e4caf2b072f7acc6de1",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_dead_bug_legs_only-start-ecbdf7c9.json",
+      "quoteSha256": "216daa305cd2597c2dcc947ba9554cb47fce46b24f289cc2a4601c5d00a15676",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_dead_bug_legs_only-start/attempt_b359af99bf5b414d.jpg",
+          "sha256": "0bf2e99bbb714a4ce8b9962c3a74a061cf9f970bbf0c54005dc771c5e848a22d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_ab_wheel",
+      "shot": "r13-ex_ab_wheel-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "fec8fdd474c0573804e2f50e26f2a64e711ea3a0fd8896d5f15eddaaf7095981",
+      "quoteFile": "form-media/ui-quotes/r13-ex_ab_wheel-start-11a61844.json",
+      "quoteSha256": "535390d7a75a23670e66dc2d60549fd61d84a0f9b03f54cdca28ad80c7540b84",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": []
+    },
+    {
+      "exerciseId": "ex_chin_up",
+      "shot": "r13-ex_chin_up-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "e510eef983cc4404cd08fbb6d88377ab8b170b4c10a0e04045d778928ab621c0",
+      "quoteFile": "form-media/ui-quotes/r13-ex_chin_up-start-80fd45ed.json",
+      "quoteSha256": "6a089b4bed20a8cf45ed2eb94984b72e3257cf2d8b69a3a77345f611b06c0a39",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:37:38+00:00",
+  "balanceAfter": 1953,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-e8f7d1e981654ae5.json",
+  "evidenceSha256": "4cb42d67969be13ae2b002fab0ba67caeba0daee14a9e1a791ab0fa42584cfdd",
+  "terminalFailureIds": []
+}

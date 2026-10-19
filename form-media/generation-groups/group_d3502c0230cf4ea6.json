@@ -1,0 +1,114 @@
+{
+  "id": "group_d3502c0230cf4ea6",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:39:39+00:00",
+  "balanceBefore": 2595,
+  "quotedCredits": 60,
+  "members": [
+    {
+      "exerciseId": "cat_cal_wall_pushup",
+      "shot": "r13-cat_cal_wall_pushup-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "8b72009d3866e871c3fcb20ad3bc4c941ed84539e8365975ebb20f030f2456ef",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_wall_pushup-video-e43af91c.json",
+      "quoteSha256": "682aae489b36dc33abd459cbc52483021c60aa1a86d5f586117e4301a487cc02",
+      "quoteCredits": 10,
+      "balance": 2595,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_wall_pushup-start/attempt_a41182b324ca42b8.jpg",
+          "sha256": "8bd4b2ff514fa65b3b8fab40297c0bc0ea645c9e535c440e9c14dd31b23415c3"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_kneeling_pushup",
+      "shot": "r13-cat_cal_kneeling_pushup-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "55de4d1849e3cad871cdabb7da320889dc6227227a4040cce3dd25184347663c",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_kneeling_pushup-video-72cd5a0c.json",
+      "quoteSha256": "51dfb062d8308118a9923c03e74fa4976798d4d47d47d3d85f118a060e576444",
+      "quoteCredits": 10,
+      "balance": 2595,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_kneeling_pushup-start/attempt_050099e9ac4f438f.jpg",
+          "sha256": "0a876eeb5068f75379f76160d258fa0170f18f5e9c1743554217e6abbf0299a3"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_crunch",
+      "shot": "r13-ex_crunch-video",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "b3145e60a39ce93a0c678aad17146d7fb7eceb211c9b8f3c95f314c8188c1b43",
+      "quoteFile": "form-media/ui-quotes/r13-ex_crunch-video-d6df9545.json",
+      "quoteSha256": "b81bfe47056687a37905e6b07bdeaf248c8db69b2d4419c317eacaefd2d38887",
+      "quoteCredits": 10,
+      "balance": 2595,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-ex_crunch-start/attempt_8cc79dc470dc41d8.jpg",
+          "sha256": "1d2233413ab31504d1f7eb404d45523db1207d5615668e4e078aeacf531fd7f9"
+        }
+      ]
+    },
+    {
+      "exerciseId": "ex_russian_twist",
+      "shot": "r13-ex_russian_twist-video",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "7a14578c8d2c01441ed3fb378d68057e8afd42cfbcc2029c1cd60d25f21eb7c6",
+      "quoteFile": "form-media/ui-quotes/r13-ex_russian_twist-video-edd1451a.json",
+      "quoteSha256": "a2afe6b274cd07b9e14c1e0e1100caf25b918d6c24602747413057410389789e",
+      "quoteCredits": 10,
+      "balance": 2595,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-ex_russian_twist-start/attempt_45b5fad1e7564269.jpg",
+          "sha256": "daafef7a0fe846da41887bf17d3fdace4c2119ec29021966e68d5038e12c94c8"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_bodyweight_squat",
+      "shot": "r13-cat_cal_bodyweight_squat-video",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "0a4013cbcca22d30fbc60c0d7941579c0fa6cf983a57166d0f0428927b45bc98",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bodyweight_squat-video-96724697.json",
+      "quoteSha256": "3bb7f9b336894a4d581e4815c733aa3f6d5d564e61288590928483ec293f140d",
+      "quoteCredits": 10,
+      "balance": 2595,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_bodyweight_squat-start/attempt_2698129fa5a3487e.jpg",
+          "sha256": "83fd3b245994c3354dd3a29bbba3daa5eb98bd5b7c402883a6761aa07fe19509"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_chair_squat",
+      "shot": "r13-cat_cal_chair_squat-video",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "b3e09750115faa519f62b85a0f86d12d064adb65a928504af0ff1a97028030e2",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_chair_squat-video-1de3b80e.json",
+      "quoteSha256": "5b4d0980aee6880104476b1aa3b6783c81984c70ecd9a87a806b627ed6271598",
+      "quoteCredits": 10,
+      "balance": 2595,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_chair_squat-start/attempt_8f4c1c4659724105.jpg",
+          "sha256": "3c03d0a943620af29c375d524b85413c9ad809e9f731e5213334f8960cc41624"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T23:41:26+00:00",
+  "balanceAfter": 2535,
+  "actualCredits": 60,
+  "evidenceFile": "form-media/ui-quotes/observed-7e246589c9b8401d.json",
+  "evidenceSha256": "7b18ac4c598b86b7d0bbb03cad95a8f140f70237760776f7caeac1821d02f123",
+  "terminalFailureIds": []
+}

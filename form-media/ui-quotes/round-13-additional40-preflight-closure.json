@@ -1,0 +1,18 @@
+{
+  "recordedAt": "2026-10-09T23:46:58+00:00",
+  "groupId": "group_f9170396715648da",
+  "classification": "preflight-rejected-before-reservation-or-provider-submission",
+  "logPath": "reports/round-13/drive-packed-014-image.log",
+  "logSha256": "f713a95ba7fa238a00a06826a086b53afd91a66445fe4a59f35f4033a638f2e0",
+  "memberCount": 6,
+  "preflightRejectionCount": 6,
+  "noReservationMessageCount": 6,
+  "matchingLedgerAttemptCount": 0,
+  "providerSubmissionCount": 0,
+  "actualCredits": 0,
+  "balanceBefore": 2471,
+  "balanceAfter": 2471,
+  "balanceEvidenceFile": "form-media/ui-quotes/observed-6a41c63cf2d04456.json",
+  "balanceEvidenceSha256": "fc9df61408fe867353a9d281b847c90412288540207001bf22e07e6abd739971",
+  "sourceCodeEvidence": "Scripts/generate_form_media.py pilot guard precedes reservation and provider invocation; all six workers exited there. No unknown provider outcome or counted attempt is created."
+}

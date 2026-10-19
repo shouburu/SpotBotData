@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-seated-leg-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-leg-press-t2v-8792e4f0.json"
+    },
+    {
+      "shot": "r12-seated-db-lateral-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-db-lateral-t2v-2c5f26a5.json"
+    },
+    {
+      "shot": "r12-standing-db-rear-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-standing-db-rear-fly-t2v-c9e59ec3.json"
+    },
+    {
+      "shot": "r12-decline-crunch-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-decline-crunch-t2v-3a81164b.json"
+    }
+  ]
+}

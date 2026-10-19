@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-decline-crunch-start",
+      "quoteFile": "form-media/ui-quotes/r12-decline-crunch-start-7d1ae6a9.json"
+    },
+    {
+      "shot": "r12-machine-high-row-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine-high-row-start-ee3afb0e.json"
+    },
+    {
+      "shot": "r12-ball-crunch-start",
+      "quoteFile": "form-media/ui-quotes/r12-ball-crunch-start-079fcca3.json"
+    },
+    {
+      "shot": "r12-single-cable-row-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-row-start-b2b64243.json"
+    }
+  ]
+}

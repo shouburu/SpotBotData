@@ -1,0 +1,79 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 1713,
+  "visibleBalanceText": "1,713 Google Flow credits",
+  "observedAt": "2026-10-10T01:57:48.718854+00:00",
+  "groupId": "group_6565fd1e1b914c99",
+  "reconciliationType": "manual-billing-only-two-returned-one-unknown",
+  "balanceBefore": 1737,
+  "aggregateDebit": 24,
+  "outputRecoveryEvidence": {
+    "path": "reports/round-13/paid-6565-recovery-diagnosis.json",
+    "sha256": "2a4adfabbb7edf23480c7118fd5366707d7bc4c349ac06532b9d58c56748c20d"
+  },
+  "unknownProviderOutcomes": [
+    {
+      "attemptId": "attempt_b3f410ec75124e38",
+      "exerciseId": "open_leg_pull_in_5e6cf513",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_b3f410ec75124e38/stdout.json",
+        "sha256": "a464e4a9c8e1e18b88c007ed31d6606e32e07fd582a909aca5d443e01e3001ca"
+      },
+      "knownMediaId": null,
+      "knownWorkflowId": null,
+      "providerOutcome": "unknown",
+      "countedVideoAttempts": 2,
+      "accountedNetCredits": 0
+    }
+  ],
+  "successfulPeerMasters": [
+    {
+      "attemptId": "attempt_8c9861a8c3f340fe",
+      "exerciseId": "cat_cond_mountain_climber",
+      "path": "form-media/assets/masters/r13-cat_cond_mountain_climber-video/attempt_8c9861a8c3f340fe.mp4",
+      "sha256": "4384c06f5e245ceadb0273defbdbe58326ed7d5f9cdc78733ab64f7f1c967d3e",
+      "accountedCredits": 12,
+      "responseEvidence": {
+        "path": "reports/form-media/attempt_8c9861a8c3f340fe/stdout.json",
+        "sha256": "a6326d9ef0b3d586e59f541d277cfe24aae14fe32fa0b2a9f55007e1f22e866f"
+      }
+    },
+    {
+      "attemptId": "attempt_77f3936edacf45d8",
+      "exerciseId": "open_ball_leg_curl_68242a59",
+      "path": "form-media/assets/masters/r13-open_ball_leg_curl_68242a59-video/attempt_77f3936edacf45d8.mp4",
+      "sha256": "384ff6fac13122c6aaa4c7485df7621cb2e1b0504bba4c44043526f6c18cc8f1",
+      "accountedCredits": 12,
+      "responseEvidence": {
+        "path": "reports/form-media/attempt_77f3936edacf45d8/stdout.json",
+        "sha256": "5c3d4492cb9254e4c1bfd140bf0ebc268bc908d8d1d9edda56f718341ab37be3"
+      }
+    }
+  ],
+  "frozenQuoteProofs": [
+    {
+      "attemptId": "attempt_8c9861a8c3f340fe",
+      "path": "form-media/ui-quotes/r13-cat_cond_mountain_climber-video-09df9b38.json",
+      "sha256": "e5309622b4da92eb342ab5c2766e49723b98c117b5fc8f01f841a62caaf1c5d0",
+      "credits": 12
+    },
+    {
+      "attemptId": "attempt_77f3936edacf45d8",
+      "path": "form-media/ui-quotes/r13-open_ball_leg_curl_68242a59-video-65843294.json",
+      "sha256": "e1d0313029c85f14d40f4e9884d7c4e13ee51a3ebc94a90fe72da16a3af9750d",
+      "credits": 12
+    },
+    {
+      "attemptId": "attempt_b3f410ec75124e38",
+      "path": "form-media/ui-quotes/r13-open_leg_pull_in_5e6cf513-video-c83e6b10.json",
+      "sha256": "1837612eade61dd5672423ab22ac1fd82d46837aff22bafeee6bfb3e3889e033",
+      "credits": 10
+    }
+  ],
+  "scope": "Billing only: fresh supported aggregate debit24 matches the two returned frozen12/12quotes, allocated by those quotes rather than per-media provider transactions. The remaining10 quoted credits have no observed net debit allocated in this cohort observation. No failure, rejection, cancellation, refund semantics or non-submission is inferred for the missing result. Its provider outcome remains unknown.",
+  "retryPolicy": "The second video attempt remains counted and source/dependent-video production is held without resubmission. Exact known media/workflow identifiers are retained. No automatic settlement guard or provider-status classifier is altered."
+}

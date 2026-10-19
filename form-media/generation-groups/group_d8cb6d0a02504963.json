@@ -1,0 +1,45 @@
+{
+  "id": "group_d8cb6d0a02504963",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T21:30:43+00:00",
+  "balanceBefore": 3157,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_var_single_cable_fly",
+      "shot": "r12-single-cable-fly-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "32f0d71d0f108ad2b442ac4d3b09a95673ad571d173b0f1c4f7d01deef6e845d",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-fly-start-0465a7cb.json",
+      "quoteSha256": "8727ab350b6551f5a7edaed25abb4e229d65e9082880e250cfbc272e81b804da",
+      "quoteCredits": 0,
+      "balance": 3157,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "aae605683e597c6bd119ae734da6dfdfecd4e9fc4d6a1a31920f0c60e6a758eb",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-curl-start-ce54cc9b.json",
+      "quoteSha256": "f651bf76115a0f4a88e65bdc215b8d87f96792976ce49bfe06a5be1aad18f4fe",
+      "quoteCredits": 0,
+      "balance": 3157,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-single-cable-curl-start/attempt_33fb0109e6dd45ee.jpg",
+          "sha256": "846ba090a82c394f6f8fbe9a5364c3e0eb1c961bd1ba466832f581a76fe77b1b"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T21:32:15+00:00",
+  "balanceAfter": 3157,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-91bace78fcf24940.json",
+  "evidenceSha256": "3f397d2a254ff046cda4a1a0ea79cd9ac2884b098623affa3575fedc3d8d4526",
+  "terminalFailureIds": []
+}

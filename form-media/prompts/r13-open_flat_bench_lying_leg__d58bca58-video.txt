@@ -1,0 +1,10 @@
+HOLD — DO NOT GENERATE THIS PLACEHOLDER.
+Exercise: Flat Bench Lying Leg Raise (open_flat_bench_lying_leg__d58bca58).
+Actual source master and full-resolution anatomical/contact review are pending. A pose-specific motion-only brief must be authored from a ready-to-animate exact source path/SHA256, then explicitly adopted by root before I2V submission.
+Canonical instructions:
+Lie on a stable bench with the legs extending past the end. Hold the bench sides or place the hands under the hips for support.
+Keep a small, steady knee bend and raise both legs toward vertical without swinging.
+Lower only as far as you can keep the pelvis and lower back controlled, then repeat. Do not force the legs below that range.
+
+Later bilateral raise toward vertical and lower only to this controlled supported range; no forced drop below it. Stable pelvis/lower-back and actual hand grips must remain clear. Actual genuine iliopsoas inset requires review.
+Preserve exact equipment/counting and one complete catalog cycle at original speed; finished video requires whole-timeline dense and full-resolution phase/grip review before candidate status. Source and video each have four total stable-shot outputs/attempts maximum; never reset history. AI candidate is separate from human approval.

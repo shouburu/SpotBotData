@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-smith-shrug-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-start-7ae0e2f9.json"
+    },
+    {
+      "shot": "r12-smith-drag-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-drag-curl-start-2392a69a.json"
+    },
+    {
+      "shot": "r12-smith-inverted-row-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-inverted-row-start-f54939b6.json"
+    },
+    {
+      "shot": "r12-smith-skullcrusher-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-skullcrusher-start-2ca261b8.json"
+    },
+    {
+      "shot": "r12-assisted_pullup-start",
+      "quoteFile": "form-media/ui-quotes/r12-assisted_pullup-start-9ba649c4.json"
+    },
+    {
+      "shot": "r12-high-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-high-cable-fly-start-7374ecc8.json"
+    }
+  ]
+}

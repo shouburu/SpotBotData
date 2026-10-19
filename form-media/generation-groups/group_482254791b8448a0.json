@@ -1,0 +1,35 @@
+{
+  "id": "group_482254791b8448a0",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T15:33:14+00:00",
+  "balanceBefore": 519,
+  "quotedCredits": 12,
+  "members": [
+    {
+      "exerciseId": "cat_card_recreational_skating",
+      "shot": "r13-cat_card_recreational_skating-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "14c07ba17672cbec7360d95ec8451bf1e3d1c8c2aeb2fd4ea33b3ef38bfeb435",
+      "quoteFile": "form-media/ui-quotes/r13-cat_card_recreational_skating-video-paced-647ea314.json",
+      "quoteSha256": "97caadd8d98f3e1684da387974fff1bc7b674da5bd167096b499243745bef08d",
+      "quoteCredits": 12,
+      "balance": 519,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_card_recreational_skating-start/attempt_bb2c52433d7c4c6f.jpg",
+          "sha256": "68275f3371b2d9d8528adbddcc644b8e80b2dbdaa8a92a7007373a3f61808fa2"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T15:34:33+00:00",
+  "balanceAfter": 507,
+  "actualCredits": 12,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-090f25019d1c4ae7.json",
+  "evidenceSha256": "5f8188441d336a5104a1fe4e86462f493ed75facb409bbd0b31c117a9c162564",
+  "terminalFailureIds": []
+}

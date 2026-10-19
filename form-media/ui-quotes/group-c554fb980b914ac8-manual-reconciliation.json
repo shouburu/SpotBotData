@@ -1,0 +1,116 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 1717,
+  "visibleBalanceText": "1,717 Google Flow credits",
+  "observedAt": "2026-10-10T01:13:45.439149+00:00",
+  "groupId": "group_c554fb980b914ac8",
+  "reconciliationType": "manual-billing-only-four-returned-two-unknown",
+  "balanceBefore": 1761,
+  "aggregateDebit": 44,
+  "outputRecoveryEvidence": {
+    "path": "reports/round-13/paid-c554-recovery-diagnosis.json",
+    "sha256": "636904d7779c33e61349c55168e43c0b6f497d7813e0e3ffb1617083c8938b8c"
+  },
+  "unknownProviderOutcomes": [
+    {
+      "attemptId": "attempt_fb1533c6e9a74f86",
+      "exerciseId": "cat_pil_side_kick",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_fb1533c6e9a74f86/stdout.json",
+        "sha256": "817326268bcecd2fda45ade8109a3763754dd442cda4c701c9b2173048824ef7"
+      },
+      "knownMediaId": null,
+      "knownWorkflowId": null,
+      "providerOutcome": "unknown",
+      "countedVideoAttempts": 3,
+      "accountedNetCredits": 0
+    },
+    {
+      "attemptId": "attempt_b831462a37fe4069",
+      "exerciseId": "cat_band_side_walk",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_b831462a37fe4069/stdout.json",
+        "sha256": "e2e96c3a7da8de4d4d8a10bc8e5f5f1d2c2df72943196c2e582126bd9ca54bcd"
+      },
+      "knownMediaId": "76b53ace-6e76-4bbd-8462-7e40cbcebc1a",
+      "knownWorkflowId": "090ebb05-603a-4890-ad56-0c2f2affbcb6",
+      "providerOutcome": "unknown",
+      "countedVideoAttempts": 3,
+      "accountedNetCredits": 0
+    }
+  ],
+  "successfulPeerMasters": [
+    {
+      "attemptId": "attempt_36af9c8beb7d490c",
+      "exerciseId": "cat_pil_seated_heel_raise",
+      "path": "form-media/assets/masters/r13-cat_pil_seated_heel_raise-video/attempt_36af9c8beb7d490c.mp4",
+      "sha256": "0c7645cd4c9c32f25533a0c722abd08715a1156e93df847313a1dae1f4260cb5",
+      "accountedCredits": 10
+    },
+    {
+      "attemptId": "attempt_b2cc22b51f714c08",
+      "exerciseId": "cat_bal_quarter_turn",
+      "path": "form-media/assets/masters/r13-cat_bal_quarter_turn-video/attempt_b2cc22b51f714c08.mp4",
+      "sha256": "d9c93c7b25b13e6ce50f02e12b39fe0b463ea8884aec312e8edef156994b1f2e",
+      "accountedCredits": 12
+    },
+    {
+      "attemptId": "attempt_ee4763b3e5d844c2",
+      "exerciseId": "cat_bal_side_step_hold",
+      "path": "form-media/assets/masters/r13-cat_bal_side_step_hold-video/attempt_ee4763b3e5d844c2.mp4",
+      "sha256": "efd6430b9c1f7d801d5357f296949ee2f906e499c8c75f1402a5b80947962acc",
+      "accountedCredits": 12
+    },
+    {
+      "attemptId": "attempt_e1cdef00f275459a",
+      "exerciseId": "cat_mob_scapular_pushup",
+      "path": "form-media/assets/masters/r13-cat_mob_scapular_pushup-video/attempt_e1cdef00f275459a.mp4",
+      "sha256": "b72ed4d914e5364ace9c86aadf6d3e7940f7c24fc186bf80ad6470d47b1c0afd",
+      "accountedCredits": 10
+    }
+  ],
+  "frozenQuoteProofs": [
+    {
+      "attemptId": "attempt_fb1533c6e9a74f86",
+      "path": "form-media/ui-quotes/r13-cat_pil_side_kick-video-8ca33a38.json",
+      "sha256": "3202f6e113547810e2a4295bc9818ee7598c824842ba3650d6d7674531f4fb56",
+      "credits": 12
+    },
+    {
+      "attemptId": "attempt_36af9c8beb7d490c",
+      "path": "form-media/ui-quotes/r13-cat_pil_seated_heel_raise-video-3fd2cf24.json",
+      "sha256": "8cdf1f16f71e25a582da2b405c1f49b770db2a2fb4647826d5e91e5605272e1d",
+      "credits": 10
+    },
+    {
+      "attemptId": "attempt_b2cc22b51f714c08",
+      "path": "form-media/ui-quotes/r13-cat_bal_quarter_turn-video-31fb473b.json",
+      "sha256": "29d21638ac3bf3f83714e1099e7bde1636fcec857561dab75b68adeb8e10ea70",
+      "credits": 12
+    },
+    {
+      "attemptId": "attempt_b831462a37fe4069",
+      "path": "form-media/ui-quotes/r13-cat_band_side_walk-video-956a1ea1.json",
+      "sha256": "7fd082070af86065512fa18461db79aa392ba94e9f16fa51f961a08a16d4ad66",
+      "credits": 12
+    },
+    {
+      "attemptId": "attempt_ee4763b3e5d844c2",
+      "path": "form-media/ui-quotes/r13-cat_bal_side_step_hold-video-9adbb6c9.json",
+      "sha256": "5c688476e4f0742dec8d70558b64c8c0b6cd5a477f8abe3844b72b586f2c51dc",
+      "credits": 12
+    },
+    {
+      "attemptId": "attempt_e1cdef00f275459a",
+      "path": "form-media/ui-quotes/r13-cat_mob_scapular_pushup-video-a40823f1.json",
+      "sha256": "0863f3e2aebf83cae707cb90b1172834724074cf155a64f60de22bdbd0cbbaaa",
+      "credits": 10
+    }
+  ],
+  "scope": "Billing only: fresh supported aggregate debit44 exactly matches four returned frozen10/12/12/10quotes. Remaining24 quoted credits have no net debit in this observation. Neither failure, rejection, cancellation, refund semantics nor non-submission is inferred for either missing result. Provider outcomes remain unknown.",
+  "retryPolicy": "Both third video attempts remain counted and source/dependent-video production is held without resubmission. Exact known media/workflow identifiers are retained. No automatic settlement guard or provider-status classifier is altered."
+}

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-high-cable-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-high-cable-fly-t2v-b7d2fab8.json"
+    },
+    {
+      "shot": "r12-low-cable-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-low-cable-fly-t2v-90945a13.json"
+    },
+    {
+      "shot": "r12-seated-cable-chest-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-chest-t2v-9974b6c3.json"
+    },
+    {
+      "shot": "r12-db_spider_curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-t2v-52d0ff2d.json"
+    }
+  ]
+}

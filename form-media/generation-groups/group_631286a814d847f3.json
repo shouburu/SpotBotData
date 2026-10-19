@@ -1,0 +1,30 @@
+{
+  "id": "group_631286a814d847f3",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T15:08:55+00:00",
+  "balanceBefore": 543,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_medicine_ball_scoop_t_f5bb3d6d",
+      "shot": "r13-open_medicine_ball_scoop_t_f5bb3d6d-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "0b79a259290781563c3ba3995844151fd9b704c85c299673a755f1f96bc0e02b",
+      "quoteFile": "form-media/ui-quotes/r13-open_medicine_ball_scoop_t_f5bb3d6d-start-paced-e1c13d8d.json",
+      "quoteSha256": "34fa4c4eadf6c327bd667da39246cf8ba3de1d79e8c39e1dde71c60166b14deb",
+      "quoteCredits": 0,
+      "balance": 543,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T15:10:10+00:00",
+  "balanceAfter": 543,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-72b1330a82f44894.json",
+  "evidenceSha256": "1aa38633559f4e3fa801350b15d9a629c94aca68629c810220e9e8c921f297ff",
+  "terminalFailureIds": []
+}

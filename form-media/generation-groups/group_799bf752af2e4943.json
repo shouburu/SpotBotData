@@ -1,0 +1,30 @@
+{
+  "id": "group_799bf752af2e4943",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T02:20:59+00:00",
+  "balanceBefore": 1505,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_bal_cone_weave",
+      "shot": "r13-cat_bal_cone_weave-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "624fa63bd7167c779f6eb3f64f7a2e7ab1377f3930193ed3df9c61209a64fd39",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_cone_weave-start-paced-1dd66142.json",
+      "quoteSha256": "fce10262fdcf206e6f311504ecec56d0afb6a88b8996e2d8c3238deb7de8bdfe",
+      "quoteCredits": 0,
+      "balance": 1505,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T02:21:57+00:00",
+  "balanceAfter": 1505,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-23a1e1fb0aff4feb.json",
+  "evidenceSha256": "2e83bc113de0c41ba90344be4590cf597a5baf2a310e724dd0d693befc685885",
+  "terminalFailureIds": []
+}

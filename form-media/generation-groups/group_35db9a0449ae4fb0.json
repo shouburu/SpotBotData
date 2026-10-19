@@ -1,0 +1,84 @@
+{
+  "id": "group_35db9a0449ae4fb0",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:51:31+00:00",
+  "balanceBefore": 2471,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_knee_hip_raise_on_par_3b7a0c25",
+      "shot": "r13-open_knee_hip_raise_on_par_3b7a0c25-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "a0b3d88af7f6166a1ac6567e10be7c712737c202527cb8022b631c34e7d6ad8b",
+      "quoteFile": "form-media/ui-quotes/r13-open_knee_hip_raise_on_par_3b7a0c25-start-2133e7c4.json",
+      "quoteSha256": "2141ede6d3387bf788e4541b7698754f0c51236b5752e2c4b52e8bcf81bb26af",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "open_weighted_sit_ups_with_c13c1b33",
+      "shot": "r13-open_weighted_sit_ups_with_c13c1b33-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "c8200d3a4ff5a1521fcea9142eb67bce04d315d90bf3775e9e434dd3bcabfa8f",
+      "quoteFile": "form-media/ui-quotes/r13-open_weighted_sit_ups_with_c13c1b33-start-0218a7e2.json",
+      "quoteSha256": "0a90b5406e7979e20687463d6cd59dc158191ad68309af0a5f33b83c5ff697f4",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "open_cross_over_with_bands_38ecf82d",
+      "shot": "r13-open_cross_over_with_bands_38ecf82d-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "e1af474ad57c3285173a4e9d8577be6d8740ba5e9c33aea632533271e64faea1",
+      "quoteFile": "form-media/ui-quotes/r13-open_cross_over_with_bands_38ecf82d-start-4b7ce343.json",
+      "quoteSha256": "d6641d7b4429b87304690a725099f71b0e64a795f4af276f4553748d7b91333a",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "open_kettlebell_one_legged_c60e91d5",
+      "shot": "r13-open_kettlebell_one_legged_c60e91d5-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "917988810fb21f5e2aec9124af90499ff229ca63fdf4e0e74c1f441f9fcd22f3",
+      "quoteFile": "form-media/ui-quotes/r13-open_kettlebell_one_legged_c60e91d5-start-33ee54aa.json",
+      "quoteSha256": "2582731092480e31f7027ee99fdac2cf5ed4770c7a8621e69b9ade645ec70973",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "open_kettlebell_sumo_high__167a225c",
+      "shot": "r13-open_kettlebell_sumo_high__167a225c-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "3f587c69224e1d471bb303f0bf60c4565314d307ec012be44eaec7978d0cd5b0",
+      "quoteFile": "form-media/ui-quotes/r13-open_kettlebell_sumo_high__167a225c-start-389fb87f.json",
+      "quoteSha256": "bdc9b1b42bf533e14f6191c0875d44f1635ab20a0b4e3408ca7989fc85101d6d",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "open_ball_leg_curl_68242a59",
+      "shot": "r13-open_ball_leg_curl_68242a59-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "16976b1148696a96e681fe8fd33652de33bf1c1053bd006dd32da48936433063",
+      "quoteFile": "form-media/ui-quotes/r13-open_ball_leg_curl_68242a59-start-107f36b1.json",
+      "quoteSha256": "d2e68ac306e7a5c9a2ac2aa25c0f130eac9473972b89c647c169337c7369da48",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T23:52:53+00:00",
+  "balanceAfter": 2471,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-bab7435588da428f.json",
+  "evidenceSha256": "622cb6bc3fb12f9b2ec1ef7a3a29b637a3903ccf3c5adb2faaf7acb2b836f8f0",
+  "terminalFailureIds": []
+}

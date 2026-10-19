@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-seated-leg-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-leg-press-start-e53b0e0b.json"
+    },
+    {
+      "shot": "r12-seated-db-lateral-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-db-lateral-start-a22d7dd6.json"
+    },
+    {
+      "shot": "r12-standing-db-rear-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-standing-db-rear-fly-start-a7ec5c20.json"
+    },
+    {
+      "shot": "r12-decline-machine-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-decline-machine-press-start-f2e706c5.json"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "group_fbbda504ceeb4ccd",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T20:40:33+00:00",
+  "balanceBefore": 3399,
+  "quotedCredits": 60,
+  "members": [
+    {
+      "exerciseId": "cat_var_incline_cable_chest",
+      "shot": "r12-incline-cable-chest-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "81d67b339ebd3851c10631f244ef35798313f59fcd5180cc992f4c6abe6cbc80",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-chest-t2v-3fb6c6dd.json",
+      "quoteSha256": "3e8ebfb4580561ea55fa9dccb5f787591c93f135ec3930b25e4e0d9cc30e0d0e",
+      "quoteCredits": 12,
+      "balance": 3399,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-incline-cable-chest-start/attempt_f816d2881282489e.jpg",
+          "sha256": "153bf2b1093716e7d61fbae06d3cb18085621ed4a4ddf28569db8a74867b3751"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_inverted_row",
+      "shot": "r12-smith-inverted-row-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "0b12746a828e256c05b2b0f40e832e4b11845936b152eecf3e0cfd0271a64b0c",
+      "quoteFile": "form-media/ui-quotes/r12-smith-inverted-row-video-cd220b1e.json",
+      "quoteSha256": "899d11f10031d1d8dfad3d44a268e84500e95f84ff24b137cf1a8f183c5c1901",
+      "quoteCredits": 12,
+      "balance": 3399,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-inverted-row-start/attempt_30a63670d3b74cb9.jpg",
+          "sha256": "af70bba54465669c58f23ab49aa3ce917523b6fbb60e5551c2cef52d23bec62d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_flat_cable_fly",
+      "shot": "r12-flat-cable-fly-t2v",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "c653f69458bbbd78b9ceeaeb41d7cf699b83f55ac2432f45a2ea0e598ea05f0d",
+      "quoteFile": "form-media/ui-quotes/r12-flat-cable-fly-t2v-5bbf2d7f.json",
+      "quoteSha256": "ce35d5034f18d80ec4b463f681c985e4e2e3966a7056086d800386cbd32f5da6",
+      "quoteCredits": 12,
+      "balance": 3399,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-flat-cable-fly-start/attempt_ed748855b7eb47b3.jpg",
+          "sha256": "7b4634d855d4dad892bd531a132a22a7f231696b57ecf3f71d14bf0f03fede47"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-video",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "48142dac86da8f71d801e072dfa5fa9042fd695e3db23fbedf6ecfffadc4b7ed",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-video-837ee260.json",
+      "quoteSha256": "67c61444a48e7539a2be0e13f61db7923c2eed21e69ef10c2bd586ffaabd64a1",
+      "quoteCredits": 12,
+      "balance": 3399,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-shrug-start/attempt_eb904c2e4ee64e84.jpg",
+          "sha256": "c792695b2b0a10149cdc4c79e89a4b8a6f4112249b28685f116c63f7be3ed878"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_incline_cable_fly",
+      "shot": "r12-incline-cable-fly-t2v",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "7c98fd84f4a3379020fb6258a2ead1b6f5b83cd8676c800c86646e85d163a3e3",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-fly-t2v-018d9bac.json",
+      "quoteSha256": "578826e9e8822b56411477c46fa45ee6bd7f6bb1d60f533e930702af550100c4",
+      "quoteCredits": 12,
+      "balance": 3399,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-incline-cable-fly-start/attempt_69b311709d9b49e9.jpg",
+          "sha256": "8d3979da61988714cbc194a6ecd01aed577522660f3531945e92ed30f02b6017"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T20:42:13+00:00",
+  "balanceAfter": 3339,
+  "actualCredits": 60,
+  "evidenceFile": "form-media/ui-quotes/observed-7091cdc0cc0846a4.json",
+  "evidenceSha256": "8982baac2df2397c2ff156089d4c53cb91d7357e4f1249fb4171bb8e5474d9ea",
+  "terminalFailureIds": []
+}

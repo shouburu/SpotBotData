@@ -1,0 +1,89 @@
+{
+  "id": "group_8c4fcc3b8d534d12",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T20:13:59+00:00",
+  "balanceBefore": 3635,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "26901f56cf1b094812e25f95caa44f17a073f5748fa38a006eeb97ff41cda2ad",
+      "quoteFile": "form-media/ui-quotes/r12-smith-front-squat-start-1ce22117.json",
+      "quoteSha256": "142770e4ce9b25be2a96d1ae725ff3903223abb817434702f967fddf0afdac9d",
+      "quoteCredits": 0,
+      "balance": 3635,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_smith_box_squat",
+      "shot": "r12-smith-box-squat-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "36358ff8a972be52cdd6e79158de8f5b79b885419557643ad315298625168952",
+      "quoteFile": "form-media/ui-quotes/r12-smith-box-squat-start-e7638694.json",
+      "quoteSha256": "543b152105737420c25a34672cd097b8dc73a8a90e5014609a3cc2900c97e038",
+      "quoteCredits": 0,
+      "balance": 3635,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_smith_lunge",
+      "shot": "r12-smith-lunge-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "c55ae1962e26a4ddee9f051f943e57b09c80b8c935cc8dfa1e7107978793a1b0",
+      "quoteFile": "form-media/ui-quotes/r12-smith-lunge-start-d0ed9144.json",
+      "quoteSha256": "15a9ac256b14336192af668420055240c437f6c2b169b26d9d319d9e0bb09638",
+      "quoteCredits": 0,
+      "balance": 3635,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_smith_step_up",
+      "shot": "r12-smith-step-up-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "89ec22f0e04c06b8e9ab4d9a5db1dc5b4bd171eb1e1067209bc962aecc8281a0",
+      "quoteFile": "form-media/ui-quotes/r12-smith-step-up-start-d45213f8.json",
+      "quoteSha256": "fe7154cde45843486fe920440712c8c88dc2bc8c61ce8d9f3f352627a49167bb",
+      "quoteCredits": 0,
+      "balance": 3635,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_smith_glute_bridge",
+      "shot": "r12-smith-glute-bridge-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "bc7093e7a8c79a57aabeaf52211ddd97f75e748eec7ccc3564d93ac5f1f609bb",
+      "quoteFile": "form-media/ui-quotes/r12-smith-glute-bridge-start-4bd698c6.json",
+      "quoteSha256": "71e325c5fb873ec56d7d4b6c8b29e71daa949337ca379d219ca431395d819b7a",
+      "quoteCredits": 0,
+      "balance": 3635,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_db_spider_curl",
+      "shot": "r12-db_spider_curl-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "d7d3b3620900f6b8f30011e7de6c9b8f88fc408e1b155bdd8dc5d30afdd23e5c",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-start-1e42dec3.json",
+      "quoteSha256": "593d211bdd183656e39c3085966a4abdf28da28239eba34d537f2958be9e2088",
+      "quoteCredits": 0,
+      "balance": 3635,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-db_spider_curl-start/attempt_5d67cb0c4c654a98.jpg",
+          "sha256": "7c7cc97c8f6e485ed74048f77cc00493eb5902eca0139279d3843ce4c3abea41"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T20:15:16+00:00",
+  "balanceAfter": 3635,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-8e85c98562214671.json",
+  "evidenceSha256": "0d88b2f4852691c83b32299fe60007f8e1ad5e34a86acd2caca88021930680a5",
+  "terminalFailureIds": []
+}

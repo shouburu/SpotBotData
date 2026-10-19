@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-bb-spider-curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-bb-spider-curl-t2v-3aa428a5.json"
+    },
+    {
+      "shot": "r12-high_cable_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-high_cable_curl-start-5d7d9e7b.json"
+    },
+    {
+      "shot": "r12-single-lat-pulldown-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-lat-pulldown-start-e6d13908.json"
+    },
+    {
+      "shot": "r12-rope_hammer_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-rope_hammer_curl-start-cc91c176.json"
+    }
+  ]
+}

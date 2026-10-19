@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-seated_db_triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated_db_triceps-t2v-0a039eba.json"
+    },
+    {
+      "shot": "r12-standing-cable-crunch-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-standing-cable-crunch-t2v-3e644d72.json"
+    },
+    {
+      "shot": "r12-seated-bb-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-bb-press-t2v-1c15f1f8.json"
+    },
+    {
+      "shot": "r12-decline_ez_triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-decline_ez_triceps-t2v-7eefb5d9.json"
+    },
+    {
+      "shot": "r12-assisted_pullup-start",
+      "quoteFile": "form-media/ui-quotes/r12-assisted_pullup-start-84ba87fb.json"
+    },
+    {
+      "shot": "r12-seated-single-db-triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-single-db-triceps-start-120f88e1.json"
+    }
+  ]
+}

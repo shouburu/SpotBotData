@@ -1,0 +1,109 @@
+{
+  "id": "group_89853852a317442e",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:11:01+00:00",
+  "balanceBefore": 2279,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "ex_glute_bridge",
+      "shot": "r13-ex_glute_bridge-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "3196ac6c787c5d939eb1a2108ee76673be4dad45917cea450a868858882110e4",
+      "quoteFile": "form-media/ui-quotes/r13-ex_glute_bridge-start-3d90fbee.json",
+      "quoteSha256": "3c0567c8c370185b4510c56717ae25d14c08e736aecc5ae1f09f359dcbe4348d",
+      "quoteCredits": 0,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-ex_glute_bridge-start/attempt_ae43ad803bf740b8.jpg",
+          "sha256": "8096201cdfe9c0babe80e7260e0b8269976e91c8830b4567a8e3be14300f6d55"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_bench_dips_4a7e0804",
+      "shot": "r13-open_bench_dips_4a7e0804-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "c0b911b1cd1510728e2325c5124974cfb62f823786824ea8ff183209d1032ad2",
+      "quoteFile": "form-media/ui-quotes/r13-open_bench_dips_4a7e0804-start-200cb27e.json",
+      "quoteSha256": "8d2e5b97e94aa9ee11f9b656b4381a0a99bedfbb875f923bf14cbabbc0738c3c",
+      "quoteCredits": 0,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_bench_dips_4a7e0804-start/attempt_0cfaa4404f814dca.jpg",
+          "sha256": "8e37a95cd1f9ba68f7abf2ae848bcd0823fb89893eeeb7ab27964cf52ac557ad"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_single_leg_bridge",
+      "shot": "r13-cat_cal_single_leg_bridge-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "9301b43f0dba28ae057b3bc56695e8be44d7d6ad1196898ff58845df5cf518c8",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_single_leg_bridge-start-f1081ed7.json",
+      "quoteSha256": "000fb50b16e34e1e2d4e1af6c2f1d53444c63084bd8f79f8195386a070bdae05",
+      "quoteCredits": 0,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_single_leg_bridge-start/attempt_e57bf8a22ca749fb.jpg",
+          "sha256": "d20e61b32d134319fbbbea1e372b3ec0ce0c70305860567ff0c11a6694e1d0be"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_external_rotation_wit_21f1b71c",
+      "shot": "r13-open_external_rotation_wit_21f1b71c-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "5ddfed751982fd117f34b59607a4005aa95c1b100e3b6cc08dc13a678f586258",
+      "quoteFile": "form-media/ui-quotes/r13-open_external_rotation_wit_21f1b71c-start-0d5686f2.json",
+      "quoteSha256": "38599c1fdd9c1545aa06e8ca73fcecff103d4ebd4cf69cb77b7a2d72475aea89",
+      "quoteCredits": 0,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_external_rotation_wit_21f1b71c-start/attempt_9c2cd283e012452c.jpg",
+          "sha256": "09d39525f017905c8e10c6cb14ace54fa76f96f86706f7aba77ab0dbd113de4b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_pil_clamshell",
+      "shot": "r13-cat_pil_clamshell-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "d139ebbd75bdfe4a125eea7ac7cc459206316b296aebdff7b3495e5ef6bb32d0",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_clamshell-start-3f24d448.json",
+      "quoteSha256": "656a466941310a1c8be0030cf36e4e9a0b7c46eba5c23816a1d6b2960370670d",
+      "quoteCredits": 0,
+      "balance": 2279,
+      "references": []
+    },
+    {
+      "exerciseId": "open_seated_band_hamstring_7487455a",
+      "shot": "r13-open_seated_band_hamstring_7487455a-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "d2bf375bc7526c5bcc7b43090c74634eeae4920afabc6da89999dee6529696cc",
+      "quoteFile": "form-media/ui-quotes/r13-open_seated_band_hamstring_7487455a-start-116eef39.json",
+      "quoteSha256": "d46f0bf2368acabd0bd8df4876709bc0d247066aebb75644ad735c5145ce599c",
+      "quoteCredits": 0,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_seated_band_hamstring_7487455a-start/attempt_3ddb5ec67e454694.jpg",
+          "sha256": "afd854d5187a28a56faf96c38f7ab5b1c3ad60e121d928441ae1e65817874db5"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:12:38+00:00",
+  "balanceAfter": 2279,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-29f6f03bc8b94f9c.json",
+  "evidenceSha256": "740a28fd945fa7cff4bee36d8183f56da3763fe641d4c04e484aef9c402a5128",
+  "terminalFailureIds": []
+}

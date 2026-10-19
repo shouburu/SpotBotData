@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "shot": "r12-machine_hip_thrust-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-machine_hip_thrust-t2v-3f44e005.json"
+    },
+    {
+      "shot": "r12-incline-db-lateral-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-incline-db-lateral-t2v-412aa93a.json"
+    },
+    {
+      "shot": "r12-smith-deadlift-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-deadlift-start-ad5b165b.json"
+    },
+    {
+      "shot": "r12-smith-sumo-deadlift-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-sumo-deadlift-start-ddd429f4.json"
+    },
+    {
+      "shot": "r12-smith-hip-thrust-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-hip-thrust-start-48499ffd.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_upright_row_with_band_c3eb96e4-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_upright_row_with_band_c3eb96e4-start-4fa4e94b.json"
+    },
+    {
+      "shot": "r13-cat_pil_standing_hip_abduction-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_standing_hip_abduction-start-341b3993.json"
+    },
+    {
+      "shot": "r13-cat_cal_bodyweight_hip_hinge-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bodyweight_hip_hinge-start-15bc2e51.json"
+    },
+    {
+      "shot": "r13-cat_cal_single_leg_bridge-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_single_leg_bridge-start-cbc87e2a.json"
+    },
+    {
+      "shot": "r13-cat_pil_clamshell-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_clamshell-start-4d6839be.json"
+    },
+    {
+      "shot": "r13-cat_pil_side_leg_lift-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_leg_lift-start-29edfb12.json"
+    }
+  ]
+}

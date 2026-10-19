@@ -582,6 +582,10 @@ def reserve(args):
     with locked():
         manifest = read_json(MANIFEST)
         exercise = require_exercise(manifest, args.exercise)
+        current_round = next((r for r in manifest.get("productionRounds", [])
+                              if r["id"] == active_round(manifest)), {})
+        if current_round.get("generationAllowed") is False:
+            raise ValueError("The active round is for human review only; generation is not authorized.")
         records = ledger()
         if end_reference and manifest.get("generationCapabilities", {}).get("endFrameSupported") is False:
             raise ValueError("The reviewed account frontend does not support end-frame submission.")
@@ -593,13 +597,31 @@ def reserve(args):
             raise ValueError(f"The limit of {attempt_limit} attempts per exercise/shot has been reached.")
         submission_window(manifest, records, getattr(args, "generation_group", None),
                           getattr(args, "profile", None), args.exercise, args.shot)
+        project_id = manifest.get("projectId")
         if getattr(args, "generation_group", None):
-            member = next(x for x in manifest["activeGenerationGroup"]["members"] if x["shot"] == args.shot)
+            group = manifest["activeGenerationGroup"]
+            project_id = group.get("projectId", project_id)
+            member = next(x for x in group["members"] if x["shot"] == args.shot)
             if (member["quoteCredits"] != args.quote or member["balance"] != args.balance_before
                     or member.get("promptSha256") != sha256(prompt_path)
                     or member["quoteSha256"] != quote.get("snapshotSha256")
+                    or quote.get("projectId") != project_id
                     or [{"path":r["path"], "sha256":r["sha256"]} for r in references] != member["references"]):
                 raise ValueError("Group prompt, quote or reference changed after its explicit plan.")
+            if project_id != manifest.get("projectId"):
+                authorization = group.get("projectOverrideAuthorization")
+                if (len(group["members"]) != 1 or group.get("defaultProjectId") != manifest.get("projectId")
+                        or not isinstance(authorization, str) or not authorization.strip()
+                        or media_kind != "image" or args.model != "nano-pro" or args.duration is not None
+                        or references or any(a["exerciseId"] == args.exercise for a in records["attempts"])):
+                    raise ValueError("A different project is limited to one authorized untouched image-source attempt.")
+                selected = set(exercise.get("selectedAssetIds", []))
+                if any(a["exerciseId"] == args.exercise and a["kind"] in {"video", "animation"}
+                       and (a.get("reviewStatus") == "accepted"
+                            or (a["id"] in selected and exercise.get("reviewStatus") == "accepted")
+                            or (a.get("editorialReview") or {}).get("status") == "candidate")
+                       for a in manifest.get("assets", [])):
+                    raise ValueError("An accepted or AI-screened motion prevents an untouched project probe.")
         available = budget(manifest, records)
         if args.quote > available["remaining"]:
             raise ValueError(f"Quote exceeds the remaining pilot budget ({available['remaining']} credits).")
@@ -613,7 +635,7 @@ def reserve(args):
         prompt_version = spec.get("promptVersion", manifest["styleVersion"])
         attempt = {
             "id": "attempt_" + uuid.uuid4().hex[:16], "exerciseId": args.exercise,
-            "projectId": manifest.get("projectId"), "promptVersion": prompt_version, "styleVersion": manifest["styleVersion"],
+            "projectId": project_id, "promptVersion": prompt_version, "styleVersion": manifest["styleVersion"],
             "shot": args.shot, "model": args.model, "durationSeconds": args.duration,
             "aspect": args.aspect,
             "quoteCredits": args.quote, "quoteSource": args.quote_source,

@@ -1,0 +1,11 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 3157,
+  "visibleBalanceText": "3,157 Google Flow credits",
+  "observedAt": "2026-10-09T21:28:29.936809+00:00",
+  "groupId": "group_ffab73d7094749b2"
+}

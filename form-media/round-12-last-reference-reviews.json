@@ -1,0 +1,1610 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-12",
+  "reviews": [
+    {
+      "attemptId": "attempt_03ebff03d2b6479e",
+      "exerciseId": "cat_var_standing_leg_curl",
+      "shot": "r12-standing-leg-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-leg-curl-start/attempt_03ebff03d2b6479e.jpg",
+      "outputSha256": "de6796064128b96a649841c7d0dd028fc1c568f04596fb948a42598d9251c555",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-10-09T18:54:59.236823+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Orange primary-muscle coloring appears on the right calf/lower leg as well as the posterior thigh. Standing machine leg curl has hamstrings as its sole primary muscle; the calf must remain silver-gray.",
+        "The working thigh is raised roughly horizontal with a deeply bent knee, rather than the reviewed nearly straight working-leg setup. The hip and roller geometry require a clear standing-curl source before motion adoption."
+      ],
+      "limitations": [
+        "Exact 768\u00d71376 provider master inspected at full resolution. Static pose review does not establish animation quality, human acceptance, or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-leg-curl-start/attempt_03ebff03d2b6479e.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_225c031d2a50444f",
+      "exerciseId": "cat_var_seated_leg_press",
+      "shot": "r12-seated-leg-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-leg-press-start/attempt_225c031d2a50444f.jpg",
+      "outputSha256": "47d525860dfe3f51491617692e45747349a5b88e30b4d78b9fd5fec929d554b1",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-10-09T18:57:31.075764+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both feet are flat on the same vertical footplate, knees bent about a right angle, with the back and pelvis supported. Horizontal rails and the seat carriage establish a horizontal leg-press setup.",
+        "Orange is confined to visible anterior thigh fibers and blue supporting cues remain on exposed posterior thigh/calf regions; charcoal shorts remain unpainted.",
+        "The rendered machine has a sliding seat carriage and a fixed footplate, so motion must move the supported seat/body along the horizontal rails while keeping feet planted. This matches canonical permission for platform or seat travel."
+      ],
+      "limitations": [
+        "Exact 1376\u00d7768 provider master inspected at full resolution. Static setup quality does not establish animation accuracy, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-leg-press-start/attempt_225c031d2a50444f.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_e905a24215b04f7e",
+      "exerciseId": "cat_var_decline_machine_press",
+      "shot": "r12-decline-machine-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-decline-machine-press-start/attempt_e905a24215b04f7e.jpg",
+      "outputSha256": "ed814c7f9302832aade6374756c05424349d7e29e07a3d29989b869d5d46e7b7",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-10-09T18:57:31.077546+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both grip handles are at waist/upper-abdominal height rather than beside the lower chest, and the low-pivot lever geometry reads as a seated dip/low press setup. The required decline chest-press handle alignment is not established.",
+        "Blue coloring extends onto the anterior upper-arm/biceps regions rather than remaining on the posterior triceps and deltoid fibers; do not propagate that muscle map into animation."
+      ],
+      "limitations": [
+        "Exact 1376\u00d7768 provider master inspected at full resolution. Static setup quality does not establish animation accuracy, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-decline-machine-press-start/attempt_e905a24215b04f7e.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_0013e3170e1a400b",
+      "exerciseId": "cat_var_machine_high_row",
+      "shot": "r12-machine-high-row-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-machine-high-row-start/attempt_0013e3170e1a400b.jpg",
+      "outputSha256": "d3cd3ff35abdead2ec9361b8056fd070772b2fc4a12594570b6b633ff0280342",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-10-09T18:58:49.487897+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Blue highlights occupy visible posterior upper-arm/triceps regions, although the high row secondary muscles are lats, biceps and forearms. The exposed lat fibers remain gray.",
+        "Both elbows are already strongly bent at the high-handle pose rather than establishing the extended high-row start. A clear supported high reach is needed before the single-cycle motion brief."
+      ],
+      "limitations": [
+        "Exact 1376\u00d7768 provider master inspected at full resolution. This is static AI editorial review, without motion, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-machine-high-row-start/attempt_0013e3170e1a400b.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_d816615941bf4edd",
+      "exerciseId": "cat_var_single_cable_row",
+      "shot": "r12-single-cable-row-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-row-start/attempt_d816615941bf4edd.jpg",
+      "outputSha256": "5490fca9c2569debb300a8e2e1b9a2cda1763488cbc0de874c05f044c1a584a3",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-10-09T18:58:49.489148+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The one-arm seated row setup has planted braced feet, a single connected handle/cable and square trunk, but blue highlights extend across the visible posterior right upper-arm/triceps instead of the anterior biceps.",
+        "This posterior-arm color map should be corrected in the source instead of propagated to the instructional video."
+      ],
+      "limitations": [
+        "Exact 1376\u00d7768 provider master inspected at full resolution. This is static AI editorial review, without motion, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-row-start/attempt_d816615941bf4edd.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_675795d159fc433a",
+      "exerciseId": "cat_var_single_lat_pulldown",
+      "shot": "r12-single-lat-pulldown-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-lat-pulldown-start/attempt_675795d159fc433a.jpg",
+      "outputSha256": "fa7746127a098374e5b7df1932f128ab976c63c9a800db4cc68a082a67e11e39",
+      "reviewerType": "ai",
+      "reviewer": "Codex",
+      "reviewedAt": "2026-10-09T19:03:22.029015+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The single right-hand handle, high cable and seated thigh support are readable, but orange covers both lats and blue also appears on the unused left forearm despite the reviewed right-side-only cue map.",
+        "The rear-view raised-arm blue does not clearly establish an anterior biceps-only boundary. Omit the hidden optional biceps cue instead of risking posterior-arm spill."
+      ],
+      "limitations": [
+        "Exact 768\u00d71376 provider master inspected at full resolution. Upper-arm orientation makes the biceps boundary ambiguous in this rear view; no guessed corrective anatomy is accepted. Static review does not validate animation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-lat-pulldown-start/attempt_675795d159fc433a.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_59d8ce15d0f84255",
+      "exerciseId": "cat_var_single_db_press",
+      "shot": "r12-single-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-press-start/attempt_59d8ce15d0f84255.jpg",
+      "outputSha256": "f438af520af9aa7d877596e649a24afaa9cf75aed98c127cf3e5c187d761e63c",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:09:05.657218+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Orange covers both shoulders although this is a unilateral press with only one working arm. The unused shoulder cue should be removed.",
+        "The blue working upper-arm area crosses the visible front/medial upper-arm belly instead of establishing a clear posterior triceps-only boundary. The otherwise usable standing setup has enough overhead clearance; omit that optional ambiguous upper-arm cue in the exact source edit."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-press-start/attempt_59d8ce15d0f84255.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_0a25166898ad4787",
+      "exerciseId": "cat_var_seated_single_db_press",
+      "shot": "r12-seated-single-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-single-db-press-start/attempt_0a25166898ad4787.jpg",
+      "outputSha256": "ca6089612f41e3a12f83c584648b4e5dd6d76ca473621a7e3d027f9375a2fb8d",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:09:05.657218+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Orange extends medially from the working right deltoid onto visible right pectoral/chest fibers below the dumbbell. This primary cue spill should be removed before overhead animation.",
+        "The seated support, planted feet and single held weight are usable. Preserve that geometry and keep optional upper-arm secondary coloring out of ambiguous partly occluded boundaries."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-single-db-press-start/attempt_0a25166898ad4787.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_1269c931c3b44023",
+      "exerciseId": "cat_var_single_leg_extension",
+      "shot": "r12-single-leg-extension-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-leg-extension-start/attempt_1269c931c3b44023.jpg",
+      "outputSha256": "c81049f01a185ae67ae8cc8a89487a0fd2fac58a40d74060d949c65b5ce955cf",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:09:05.657218+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The machine has a visible knee-aligned lever pivot, one shin roller just above the working ankle, supported back/pelvis, and the unused foot planted clear of the independent working lever.",
+        "Orange is confined to the exposed anterior working quadriceps, with opaque unpainted shorts and no extraneous blue cues. The actual working knee is moderately bent rather than the originally requested approximately right-angle setup; canonical instructions permit a comfortable extension range. Animate from and back to this exact pose."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-leg-extension-start/attempt_1269c931c3b44023.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_1025856a2eac4d1b",
+      "exerciseId": "cat_var_single_db_bench",
+      "shot": "r12-single-db-bench-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-bench-start/attempt_1025856a2eac4d1b.jpg",
+      "outputSha256": "6e98ded6295eb5a3e065347808c47a97c3f195c2c0194f42aec0d5a4a11d242a",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:14:51.620410+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The flat bench, supported head/shoulders/hips, planted feet and single gripped chest-height dumbbell establish a usable unilateral flat bench-press source.",
+        "Orange also covers the visible working upper-arm belly from below the blue shoulder region toward the elbow. That colors upper-arm fibers as primary chest anatomy and must be removed before animation."
+      ],
+      "limitations": [
+        "Exact 1376\u00d7768 provider master inspected at full resolution. Static AI review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-bench-start/attempt_1025856a2eac4d1b.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_f99552837d1946cf",
+      "exerciseId": "cat_var_single_cable_fly",
+      "shot": "r12-single-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-fly-start/attempt_f99552837d1946cf.jpg",
+      "outputSha256": "467f389d5e644af62a5b62117a071b7284c7c9541a317f92da76ebe7c2342842",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:19:55.986861+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Orange spreads from the chest onto the working upper-arm belly below the shoulder; that incorrectly treats upper-arm fibers as primary chest anatomy.",
+        "The working D-handle is positioned immediately against the cable tower, with its visible short connection routing down to a waist-level pulley. The intended taut shoulder-height cable connecting an open fly hand to a side pulley is not established."
+      ],
+      "limitations": [
+        "Exact 768\u00d71376 provider master inspected at full resolution. Static AI editorial review does not establish animation accuracy, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-fly-start/attempt_f99552837d1946cf.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_d95d2309e1b643e0",
+      "exerciseId": "cat_var_single_db_triceps",
+      "shot": "r12-single-db-triceps-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-triceps-start/attempt_d95d2309e1b643e0.jpg",
+      "outputSha256": "a4d94b7b1c3dc880d2f240f4d5e88605a2fbe344e1eadaf50a96c333800131e5",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:19:55.988153+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working upper arm projects outward close to horizontal, with a bent elbow and upright forearm. It does not establish the overhead upper-arm-beside-head geometry needed for a stable overhead triceps extension.",
+        "The visible orange posterior upper-arm triceps cue and planted standing setup are useful, but the working arm must be repositioned before motion so elbow bending can take the dumbbell behind the head without turning this into a shoulder press."
+      ],
+      "limitations": [
+        "Exact 768\u00d71376 provider master inspected at full resolution. Static AI editorial review does not establish animation accuracy, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-triceps-start/attempt_d95d2309e1b643e0.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_d68c290bcabd402a",
+      "exerciseId": "cat_var_seated_single_db_triceps",
+      "shot": "r12-seated-single-db-triceps-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-single-db-triceps-start/attempt_d68c290bcabd402a.jpg",
+      "outputSha256": "a8ac5ad8f828a141cc1a1f4ea7807ee9f04bae9458c1b15b83a680dac69c1275",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:19:55.988924+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Orange colors the unused left posterior upper-arm triceps as well as the raised working right triceps. Remove the unused-arm primary cue before unilateral animation.",
+        "The seated support, planted feet and raised working upper arm beside the head are usable. Preserve this actual pose and single dumbbell grip while correcting the cue map; forearm highlights must stay gray."
+      ],
+      "limitations": [
+        "Exact 768\u00d71376 provider master inspected at full resolution. Static AI editorial review does not establish animation accuracy, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-single-db-triceps-start/attempt_d68c290bcabd402a.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_f95904d78b6041bf",
+      "exerciseId": "cat_var_single_db_preacher",
+      "shot": "r12-single-db-preacher-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-preacher-start/attempt_f95904d78b6041bf.jpg",
+      "outputSha256": "d734a0ad27cd0deb9eee5e19099bc0daddbdbcad2f1f1348659635799281b8a6",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:23:57.492877+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The single dumbbell grip is palm-up and the orange cue follows the working biceps, but the sloping pad sits under the forearm/elbow region. The proximal working upper arm remains above the pad rather than resting flush along it.",
+        "A preacher-curl source must establish supported upper-arm contact from the armpit-side upper pad edge to the elbow-side lower edge, with the forearm free beyond that lower edge. The present support relationship does not establish that canonical setup."
+      ],
+      "limitations": [
+        "Exact 768\u00d71376 provider master inspected at full resolution. The three-quarter view occludes part of the posterior arm; the visible proximal support relationship is insufficient for full-upper-arm-support acceptance. Static AI review does not validate animation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-preacher-start/attempt_f95904d78b6041bf.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_446188a77db748d5",
+      "exerciseId": "cat_var_seated_cable_rear_fly",
+      "shot": "r12-seated-cable-rear-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-rear-fly-start/attempt_446188a77db748d5.jpg",
+      "outputSha256": "af893eed7c7cc7127517e20b3e9de61098bc167e31e61bb0fd3ce90595f364e1",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:26:33.451434+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Two separate visible cable lines run from the two held handles toward the same foreground/right low-pulley unit. The rear/left pulley line disappears behind the bench/legs rather than establishing a readable opposite-side handle connection.",
+        "The required two-cable topology is one right-hand handle connected to the left pulley and one left-hand handle connected to the right pulley, crossing once in clear space below the torso without bench contact. This source does not establish that canonical setup.",
+        "The bench, planted seated stance and orange rear-deltoid cue are useful, but cable routing must be corrected before fly animation."
+      ],
+      "limitations": [
+        "Exact 1376\u00d7768 provider master inspected at full resolution. Occlusion prevents tracing the hidden left-side route to a hand; the clearly visible duplicate foreground-pulley routes are sufficient to reject topology. Static review does not validate motion."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-rear-fly-start/attempt_446188a77db748d5.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_5fc53d80b615466f",
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-curl-start/attempt_5fc53d80b615466f.jpg",
+      "outputSha256": "8f36d50da6ec926cf8d8b03082e71104ec4ca8bf387e713e4ac02af28f4ed114",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:29:30.485900+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The rendered camera is behind the mannequin. Orange occupies the visible posterior working upper arm and the lower deltoid region instead of being confined to anterior biceps fibers.",
+        "The cable route, planted stance and single D-handle are usable, but an anterior working-arm view is needed to establish the intended biceps cue clearly instead of painting rear anatomy."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution; actual source setup is reviewed without inferring animation. Static AI review is separate from human and trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-curl-start/attempt_5fc53d80b615466f.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_5e7e3c47cce149eb",
+      "exerciseId": "cat_var_lying_cable_curl",
+      "shot": "r12-lying-cable-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-lying-cable-curl-start/attempt_5e7e3c47cce149eb.jpg",
+      "outputSha256": "4a118cf21d0dcd8897204ea2e21ced3029959503f137db9f0f328ddcdfc68e92",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:29:30.486284+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The supported supine bench position, single center-connected overhead cable bar and raised arms are coherent, but small orange cue patches continue past both elbow boundaries onto forearm fibers.",
+        "A full-resolution arm/grip detail crop confirms the distal cue spill. Preserve the useful apparatus and pose while confining orange to actual upper-arm biceps fibers only."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution; actual source setup is reviewed without inferring animation. Static AI review is separate from human and trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-lying-cable-curl-start/attempt_5e7e3c47cce149eb.jpg",
+        "reports/form-media/attempt_5e7e3c47cce149eb/review-arm-grip-detail.png"
+      ]
+    },
+    {
+      "attemptId": "attempt_0c07dc964bdf4bf2",
+      "exerciseId": "cat_var_single_leg_press",
+      "shot": "r12-single-leg-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-leg-press-start/attempt_0c07dc964bdf4bf2.jpg",
+      "outputSha256": "8eacaab1953956bfa60fc72e62a7960c6582431207a52fc03bbbd3ac78cebd85",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:34:49.775227+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The angled rails are attached to a sliding seat carriage behind the mannequin while the working footplate is mounted to the fixed front frame. This is a moving-seat/fixed-plate layout rather than the reviewed fixed-seat angled footplate-sled leg press.",
+        "Blue also appears on the unused leg. A source with the moving footplate carriage on forward angled rails and only the working-side cues is required before the intended sled-motion brief."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-leg-press-start/attempt_0c07dc964bdf4bf2.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_66799ef1e8df4075",
+      "exerciseId": "cat_var_bb_spider_curl",
+      "shot": "r12-bb-spider-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-bb-spider-curl-start/attempt_66799ef1e8df4075.jpg",
+      "outputSha256": "b1648560a1ac727c6a3f93ca1bfbb95086ed626835732aa60dc3a80c37b22b4d",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:34:49.775949+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Chest and torso lie face down against the stable inclined pad, feet are braced, and both upper arms hang vertically unsupported beyond its top edge. One matching-plate straight bar hangs free beneath the shoulders.",
+        "Full-resolution arm/grip detail confirms both palm-up grips and orange along actual anterior biceps fibers; forearms, deltoids and triceps remain gray. The bar and both elbows have room for a controlled curl without changing chest contact."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-bb-spider-curl-start/attempt_66799ef1e8df4075.jpg",
+        "reports/form-media/attempt_66799ef1e8df4075/review-arm-grip-detail.png"
+      ]
+    },
+    {
+      "attemptId": "attempt_a652b59f9a4d489f",
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "shot": "r12-incline-bb-triceps-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_a652b59f9a4d489f.jpg",
+      "outputSha256": "a8d4055d65aec126001b3c46a89d7b6be12ecfb10457340ac9a88d91e1d8bed2",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:34:49.777282+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The supported face-up incline bench position, planted feet and single overhand bar grip are coherent, but the frontal three-quarter angle does not clearly establish posterior-only triceps cue boundaries. Orange occupies broad inner/front-facing upper-arm lobes.",
+        "A full-resolution arm detail was inspected. Do not propagate an ambiguous biceps/triceps map; preserve the apparatus and use a slightly rear-side raised-arm view with gray anterior biceps and orange explicitly confined to exposed posterior triceps fibers."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation. The front-facing raised-arm view makes the precise anterior/posterior cue boundary ambiguous; no guessed muscle-map acceptance is asserted."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_a652b59f9a4d489f.jpg",
+        "reports/form-media/attempt_a652b59f9a4d489f/review-arm-grip-detail.png"
+      ]
+    },
+    {
+      "attemptId": "attempt_04e4dd8cd534421e",
+      "exerciseId": "cat_var_standing_leg_curl",
+      "shot": "r12-standing-leg-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-leg-curl-start/attempt_04e4dd8cd534421e.jpg",
+      "outputSha256": "3ca465a21803ae11eb6f1930d1565f23808ee877c9381dcefb0fc377e165a7ea",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:39:08.363375+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The hamstring cue now stops above the knee, but the roller sits high on the lower calf rather than just above the heel/ankle. Preserve the readable pivot and supported unilateral stance while placing the roller at the proper distal contact.",
+        "The actual machine fixes the working thigh in a raised supported position. Canonical instructions require stable standing support, fixed hip, knee/pivot alignment and a roller above the heel; they do not mandate a neutral hip angle. Do not reject or reset this source solely for that pose preference."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI review does not establish animation accuracy, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-leg-curl-start/attempt_04e4dd8cd534421e.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_c2fc9d979d22446a",
+      "exerciseId": "cat_var_decline_machine_press",
+      "shot": "r12-decline-machine-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-decline-machine-press-start/attempt_c2fc9d979d22446a.jpg",
+      "outputSha256": "1f3d52f5b995b6f442f967ff7a9e6a17565d98ffe663f5f5d6d3df393bfd2fb2",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:39:08.363995+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second source establishes lower-chest handle alignment, matched loaded levers and supported seated chest-press geometry.",
+        "Orange extends onto both visible anterior upper-arm/biceps bellies as well as the chest. Primary chest cues must stop at the chest boundary, with both upper arms free of orange. Correct this source map while preserving the repaired apparatus."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI review does not establish animation accuracy, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-decline-machine-press-start/attempt_c2fc9d979d22446a.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_863fccb734cb43ce",
+      "exerciseId": "cat_var_machine_high_row",
+      "shot": "r12-machine-high-row-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-machine-high-row-start/attempt_863fccb734cb43ce.jpg",
+      "outputSha256": "027a2a6dfe6e6e4ba85f726d5f48204cad0537cfcb9760ea90935a1ee91827be",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:39:08.364436+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second source improves the supported high reach and confines blue to exposed outer lats; the previous posterior-arm blue is gone.",
+        "Orange still occupies the rounded posterior shoulder/deltoid caps beyond the upper-back trapezius/rhomboid region. Revert those shoulder caps to gray while preserving the orange medial upper-back fibers and blue lats."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI review does not establish animation accuracy, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-machine-high-row-start/attempt_863fccb734cb43ce.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_e54fc980ca334251",
+      "exerciseId": "cat_var_single_lat_pulldown",
+      "shot": "r12-single-lat-pulldown-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-lat-pulldown-start/attempt_e54fc980ca334251.jpg",
+      "outputSha256": "654ef836bed1df8167c8f38cb1aa406e19ea3db98e51b652c0805f4fc28dc7ba",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:51:14.237863+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second source places orange on the lat beneath the LOWERED unused arm; the raised handle-side lat remains gray. The unilateral primary cue is now on the wrong side.",
+        "The visible left return cable also terminates as a loose vertical end above the lower frame rather than showing a connected counterweight route. Preserve the usable overhead handle/supports while correcting active-side coloring and that exposed cable termination."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-lat-pulldown-start/attempt_e54fc980ca334251.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_dde076c0bab643c8",
+      "exerciseId": "cat_var_single_cable_row",
+      "shot": "r12-single-cable-row-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-row-start/attempt_dde076c0bab643c8.jpg",
+      "outputSha256": "073e3beace0da037a70441847a26661ebce0a12be2b47ac81c1d45a619d8e93d",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:51:14.238562+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact edited source preserves one connected low cable/handle, planted braced feet, square seated trunk and a nearly extended working arm. The unused arm is relaxed and free of a handle.",
+        "Orange remains on actual upper-back trapezius/rhomboid fibers and blue only on exposed outer lats. Both posterior upper arms now remain gray, repairing the previous cue failure."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-row-start/attempt_dde076c0bab643c8.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_6e1f43e3159b44b8",
+      "exerciseId": "cat_var_single_db_bench",
+      "shot": "r12-single-db-bench-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-bench-start/attempt_6e1f43e3159b44b8.jpg",
+      "outputSha256": "0fea63918c31373437ebee5936904a1f3e74bfa9ac10241b50c1922d8f1d0b27",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:51:14.239182+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The large orange upper-arm belly was removed, but a warm orange region remains on the lower working shoulder/deltoid outside the pectoral chest boundary.",
+        "Keep the unchanged bench, supine support, planted feet and single gripped weight; a final exact-source cue edit should make the entire shoulder cap blue or gray and all upper-arm fibers gray."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-bench-start/attempt_6e1f43e3159b44b8.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_5c31c35eac6746f8",
+      "exerciseId": "cat_var_single_db_press",
+      "shot": "r12-single-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-press-start/attempt_5c31c35eac6746f8.jpg",
+      "outputSha256": "c52bc2f34a317a34fa835667672d4e40af7bfe01e15d3d0646909bf156a00b5d",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:51:14.239576+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The unused shoulder and background bench were successfully corrected, but orange now extends from the working deltoid down the upper-arm belly almost to the elbow.",
+        "The standing pose, overhead space and single dumbbell grip remain usable. Remove orange from biceps/triceps below the actual deltoid boundary before animation."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-press-start/attempt_5c31c35eac6746f8.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_585fb14e5e3f47bb",
+      "exerciseId": "cat_var_seated_single_db_press",
+      "shot": "r12-seated-single-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-single-db-press-start/attempt_585fb14e5e3f47bb.jpg",
+      "outputSha256": "aa35b222c08d5955d44b3efba5b5174dceb145cd220dc4d6c0676734ca5cb610",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:14:03.776147+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact edited source has an upright backrest, supported pelvis/back, both planted feet and one securely held shoulder-height dumbbell; overhead clearance remains available.",
+        "Orange is now confined to the working deltoid, chest and upper arms remain gray, and subtle blue stays only on exposed abdominal fibers. The previous orange pectoral spill and ambiguous upper-arm blue are repaired.",
+        "Later exact animation attempt_48223920e48940fb proves this source composition lacks the necessary overhead envelope: the near-straight endpoint crops the upper dumbbell plate. Preserve the valid source pose/cues but scale the entire figure/bench/weight group down before another animation."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-single-db-press-start/attempt_585fb14e5e3f47bb.jpg",
+        "reports/form-media/attempt_48223920e48940fb/workflow-turnaround.png"
+      ],
+      "supersedesStatus": "ready-to-animate"
+    },
+    {
+      "attemptId": "attempt_68c7981eccb742a1",
+      "exerciseId": "cat_var_single_cable_fly",
+      "shot": "r12-single-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-fly-start/attempt_68c7981eccb742a1.jpg",
+      "outputSha256": "c1f3d0fa9e06baf53a809a41417f0395b5424ecb483642841682ee856ed5783d",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:56:26.148874+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The shoulder-height adjustable pulley and freely held handle now have a coherent taut near-horizontal cable route, repairing the earlier apparatus setup.",
+        "Orange still extends onto the working shoulder/deltoid cap beyond the chest and slightly onto the working upper arm. Remove these non-pectoral orange areas while retaining the repaired apparatus."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation accuracy or human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-fly-start/attempt_68c7981eccb742a1.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_d1911716937f4a8e",
+      "exerciseId": "cat_var_single_db_triceps",
+      "shot": "r12-single-db-triceps-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-triceps-start/attempt_d1911716937f4a8e.jpg",
+      "outputSha256": "5fe675bcf9506185a9b94e0913fab95bda186a2a3ca0064d2e1360f3f191e258",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:56:26.149330+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected standing source now has the working upper arm raised vertically beside the head, elbow almost straight and one securely held overhead dumbbell; planted feet and neutral trunk are clear.",
+        "Orange follows exposed posterior working triceps fibers, with the other arm, forearm and back gray and shorts opaque. The rear view establishes the posterior primary anatomy and space for a behind-head lowering."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation accuracy or human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-triceps-start/attempt_d1911716937f4a8e.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_fe7df4ef0ed44f68",
+      "exerciseId": "cat_var_seated_single_db_triceps",
+      "shot": "r12-seated-single-db-triceps-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-single-db-triceps-start/attempt_fe7df4ef0ed44f68.jpg",
+      "outputSha256": "60fd930cf378a661b428356f7347ce18cd16a2527f736a6336617e56f3a7b358",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:56:26.149976+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact edited source retains stable seated support, planted feet, working upper arm beside the head and one gripped overhead dumbbell; unused hand stays on the thigh.",
+        "Unused-arm orange was removed. Orange is now confined to visible working posterior triceps; the source begins with a moderately bent working elbow, so motion must extend first and return to that actual bend rather than assume a straight-arm start."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not establish animation accuracy or human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-single-db-triceps-start/attempt_fe7df4ef0ed44f68.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_1836fb84711a4b22",
+      "exerciseId": "cat_var_single_db_preacher",
+      "shot": "r12-single-db-preacher-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-preacher-start/attempt_1836fb84711a4b22.jpg",
+      "outputSha256": "c2564c322fb9ee2ce52de5d8d843c57b776a5c29b20e35440970376e374d90c4",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:59:19.106150+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second source raises the pad, but its lower edge still lies near the wrist and the forearm remains on the pad. The working elbow is above the middle of the pad rather than at its lower edge.",
+        "Shorten/reposition the existing pad to support only the upper arm from armpit to elbow, leaving the forearm free. Orange also extends just beyond the elbow and should stop at that boundary."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI review does not validate animation or imply human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-preacher-start/attempt_1836fb84711a4b22.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_40c96d38f91f41b1",
+      "exerciseId": "cat_var_seated_cable_rear_fly",
+      "shot": "r12-seated-cable-rear-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-rear-fly-start/attempt_40c96d38f91f41b1.jpg",
+      "outputSha256": "73e8c1ae743a1e7144fe63aa94a2aa2c4950c3640f1e75b2d91c6618c767a3b8",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:59:19.106792+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second source includes large generated A and B labels, contrary to the blank/no-text exercise style.",
+        "Multiple extra cable segments span between towers and each held handle has a visible same-side route. The required exactly two opposite-side hand-to-pulley routes crossing once in clear space is still not established."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI review does not validate animation or imply human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-rear-fly-start/attempt_40c96d38f91f41b1.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_79f048916af345b4",
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-curl-start/attempt_79f048916af345b4.jpg",
+      "outputSha256": "ea5e1fad29d1f9a38a4978e71c61df48a82446889ec356868db6d57632539aba",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:59:19.107238+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The front camera now establishes a clear supinated single-handle grip, readable working biceps and a coherent low cable route.",
+        "Orange covers a large forearm belly below the elbow as well as the biceps. Revert the entire working forearm to gray while retaining the upper-arm biceps cue and repaired setup."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI review does not validate animation or imply human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-curl-start/attempt_79f048916af345b4.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_e9cb6d80c69f43f8",
+      "exerciseId": "cat_var_lying_cable_curl",
+      "shot": "r12-lying-cable-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-lying-cable-curl-start/attempt_e9cb6d80c69f43f8.jpg",
+      "outputSha256": "9525d318f28a04b32b3634fb11a7dbdb1d9e1535aeb4d50b9f2255815ec26a78",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:04:08.216136+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact corrected master preserves a flat supported bench, planted feet, overhead pulley and one taut centered cable connected to a single bar held by both hands with palms toward the head.",
+        "Orange is now confined to the exposed upper-arm biceps; both forearms below the elbows are gray. The upper arms point toward the pulley and the bar begins above the chest with space to curl toward the forehead without contact."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not validate animation or imply human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-lying-cable-curl-start/attempt_e9cb6d80c69f43f8.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_a10a8d8efddc43f0",
+      "exerciseId": "cat_var_single_leg_press",
+      "shot": "r12-single-leg-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-leg-press-start/attempt_a10a8d8efddc43f0.jpg",
+      "outputSha256": "e701573b12b005ad1e2dd420b0ba4a802a92df36f426f39e37bee50118f98bf9",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:04:08.216136+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected master now clearly has a fixed supported incline seat/backrest and one moving footplate carriage on forward angled rails, with coherent sleeves and open upward sled travel.",
+        "Only one whole foot is on the central footplate; the unused foot rests on its separate lower support. Working quadriceps are orange, exposed working posterior thigh/calf cues are blue, grips and opaque shorts are preserved."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not validate animation or imply human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-leg-press-start/attempt_a10a8d8efddc43f0.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_dd9bcc4e662b42f2",
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "shot": "r12-incline-bb-triceps-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_dd9bcc4e662b42f2.jpg",
+      "outputSha256": "481df011b7d33088742bd3be45713abb0705dda488d8aff298aa863075b2b046",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:04:08.216136+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact corrected master retains a supported incline bench, planted feet and one straight bar held above the chest/head with two narrow overhand grips; elbow hinges and space behind the head are readable.",
+        "The near upper arm now distinguishes orange posterior triceps from gray anterior biceps and forearm, with blue confined to the shoulder cap. The actual source elbows are slightly bent, so the motion must return to that exact pose."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not validate animation or imply human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_dd9bcc4e662b42f2.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_8eccc93eb21b45d7",
+      "exerciseId": "cat_var_decline_machine_press",
+      "shot": "r12-decline-machine-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-decline-machine-press-start/attempt_8eccc93eb21b45d7.jpg",
+      "outputSha256": "22f20f9b4d1b12045c892cc4061e5c3f2e8eb91001254db1a1b8bdb0d906fb7b",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:06:07.472579+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact edited source now confines orange to pectoral chest fibers, with blue shoulder/posterior-arm supporting cues and gray biceps/forearms; previous orange biceps spill is repaired.",
+        "Both feet are supported, back and pelvis contact the seat/backrest, both hands grip lower-chest handles and matched plate-loaded levers have a coherent downward-forward path from high rear pivots."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not validate animation or imply human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-decline-machine-press-start/attempt_8eccc93eb21b45d7.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_620db8f460e94708",
+      "exerciseId": "cat_var_machine_high_row",
+      "shot": "r12-machine-high-row-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-machine-high-row-start/attempt_620db8f460e94708.jpg",
+      "outputSha256": "ef4ee939859e59e88420d1c2f90b5d703c76838dfdd83f1e62a53796266ebb1a",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:06:07.472579+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact edited master removes orange from both posterior shoulder caps. Orange is now limited to medial upper-back/trapezius fibers and subtle blue remains on exposed lats; arms are gray.",
+        "The supported seated setup preserves planted feet, chest against its pad, two overhead/in-front gripped handles and two evenly loaded high-row levers with coherent pivots."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static AI editorial review does not validate animation or imply human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-machine-high-row-start/attempt_620db8f460e94708.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_5b119c10fe5a4d6f",
+      "exerciseId": "cat_var_standing_leg_curl",
+      "shot": "r12-standing-leg-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-leg-curl-start/attempt_5b119c10fe5a4d6f.jpg",
+      "outputSha256": "50d8ad37d6190f9974218c81dec3e5f01c005e63109b1cbd6f88064a0470a5db",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:06:07.472579+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The roller is now lower on the distal posterior calf and the useful supported raised-thigh setup is retained; these geometric improvements should be preserved.",
+        "Orange extends across a large upper/anterior-facing working-thigh belly as well as the posterior region, instead of clearly isolating the catalog hamstrings. Most main-body surfaces are also smooth rather than showing the established anatomical fiber structure. Clarify posterior-only hamstrings and readable anatomical boundaries before animation."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. The raised supported thigh itself is allowed by canonical instructions; no neutral-hip requirement is imposed.",
+        "Static AI review does not imply human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-leg-curl-start/attempt_5b119c10fe5a4d6f.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_eefc2a2f715043ba",
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-front-squat-start/attempt_eefc2a2f715043ba.jpg",
+      "outputSha256": "f89c73492bb9f5875fde37d7d01fba161251179322cc06ebc56e170ee072a4fa",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:21:36.501964+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The source has coherent two-rail guided bar carriages, matching plates, planted feet and correctly isolated orange quadriceps.",
+        "Both crossed-arm elbows sit clearly below the bar instead of raised forward, and the bar lies high near the neck rather than visibly supported on a front-deltoid shelf. Correct this front-rack support/grip before animation."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-front-squat-start/attempt_eefc2a2f715043ba.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_8afa593b44d24e9a",
+      "exerciseId": "cat_smith_box_squat",
+      "shot": "r12-smith-box-squat-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-box-squat-start/attempt_8afa593b44d24e9a.jpg",
+      "outputSha256": "935c31fb99bcb345ec5125ae14429131c98e5fe43b0399ebb701ba92db2c8b4a",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:21:36.501964+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact source has a securely held upper-back guided bar, two rail carriages, planted whole feet and a stable knee-height box directly behind the pelvis with visible top and floor-supported base.",
+        "Orange is confined to both exposed anterior quadriceps, subtle blue is on exposed supporting leg anatomy, and the covered pelvis stays opaque charcoal. Source begins standing with room to lower onto the box; bar grips, feet and box contact region are readable."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-box-squat-start/attempt_8afa593b44d24e9a.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_6b6b3acdba274693",
+      "exerciseId": "cat_smith_lunge",
+      "shot": "r12-smith-lunge-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-lunge-start/attempt_6b6b3acdba274693.jpg",
+      "outputSha256": "905ad0f06b6981abf958a03411eb77086c192be89d90d05aea0c510457576c90",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:21:36.501964+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact source begins upright with both feet beside one another, securely gripped upper-back Smith bar, coherent guided carriages and matched plates. Both feet and knees are readable with floor space for one controlled reverse step.",
+        "Both quadriceps are orange, consistent with the catalog primary involvement for the lunge; exposed supporting leg fibers are subtle blue and shorts remain opaque. Motion will designate the actual right foot (viewer left) as the fixed front foot and the actual left foot as the stepping foot, preserving actual source cues."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-lunge-start/attempt_6b6b3acdba274693.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_65264e0516f24059",
+      "exerciseId": "cat_smith_step_up",
+      "shot": "r12-smith-step-up-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-step-up-start/attempt_65264e0516f24059.jpg",
+      "outputSha256": "9e1438f2e5d438cca13e15d9002295617e259d60d21042425d6cc2efbf95ce25",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:21:36.501964+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual box-planted working foot is whole and flat on a stable low box, with the other foot on the floor and a coherent upper-back guided bar/grip setup.",
+        "The head is already clipped at the source top edge, with no upward clearance for the raised endpoint. The rear view also colors a broad posterior working-thigh envelope orange instead of cleanly isolating quadriceps. Reframe the complete rig/body with upward space and a clear front-side primary-anatomy view before animation."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-step-up-start/attempt_65264e0516f24059.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_5f4f5d485e2f45d1",
+      "exerciseId": "cat_smith_glute_bridge",
+      "shot": "r12-smith-glute-bridge-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_5f4f5d485e2f45d1.jpg",
+      "outputSha256": "bdf17c4be841fbf204582d34c70563438ac77653e522ffa2fc8a1abe9e10364f",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:21:36.501964+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The separate posterior-pelvis inset clearly displays actual orange glute fibers, with gray adjacent thigh and bone anatomy. Main shorts remain opaque, and the Smith guide rails and low catches are visible.",
+        "The padded bar is high over the torso instead of visibly contacting the front hip crease; both hands are above the shoulder region on bent forearms, rather than holding the bar beside the hips. The exact main-body bar/hip contact is not a valid floor bridge setup. Preserve the valid inset but rebuild the floor starting contact before animation."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_5f4f5d485e2f45d1.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_522bec1a3650473d",
+      "exerciseId": "cat_var_single_lat_pulldown",
+      "shot": "r12-single-lat-pulldown-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-lat-pulldown-start/attempt_522bec1a3650473d.jpg",
+      "outputSha256": "6270a263ebeed84a7ce5ee92cc56313f4c0f54998600f641d4cc80d2a0a43b57",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.333117+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The repaired cable is now connected through the overhead pulley to the stack, with supported seated body and raised one-hand grip.",
+        "Orange still colors the large lat beneath the LOWERED UNUSED arm on image left; the raised working-arm side on image right is gray. The oblique camera hides much of the working-side lat, so repeated recoloring needs a working-side camera reset."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-lat-pulldown-start/attempt_522bec1a3650473d.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_d15c5563ad754d26",
+      "exerciseId": "cat_var_single_db_bench",
+      "shot": "r12-single-db-bench-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-bench-start/attempt_d15c5563ad754d26.jpg",
+      "outputSha256": "3d399b59cbd6942a25b1801c14058390609cef2a5086d42df5fcb0b1dba0ce53",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.333750+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The latest actual master finally confines orange to chest fibers and blue to the working deltoid; gray arm fibers, supported supine body, planted feet and held dumbbell are coherent.",
+        "The working shoulder is near the upper third of this landscape canvas, leaving less vertical clearance than the combined upper-arm/forearm/dumbbell reach. A full upward press would cross the top boundary; pull the complete supported group back and place it lower before motion."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-bench-start/attempt_d15c5563ad754d26.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_ea647c4f0e2e4d91",
+      "exerciseId": "cat_var_single_db_press",
+      "shot": "r12-single-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-press-start/attempt_ea647c4f0e2e4d91.jpg",
+      "outputSha256": "61df2921dd7aa056119f7a8c7c1f99faec1cfde15e1c542fca1acda89b5ae132",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.334258+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The single dumbbell is held by the arm on IMAGE RIGHT, but orange is on the unused shoulder on IMAGE LEFT while the dumbbell-side cap is gray. Blue abdominal cues and planted stance are usable.",
+        "Correct the cue by the actual dumbbell-side relationship, and reserve a substantially larger blank upper field for the complete overhead reach before motion."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-press-start/attempt_ea647c4f0e2e4d91.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_40712a22801b4b59",
+      "exerciseId": "cat_var_seated_single_db_press",
+      "shot": "r12-seated-single-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-single-db-press-start/attempt_40712a22801b4b59.jpg",
+      "outputSha256": "97cb6d0eb9a06062fad292ec82921f557779bc37edc7c59ab7b813bebd876511",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.334785+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Actual shoulder cue, dumbbell grip, supported upright seated torso and planted feet remain coherent.",
+        "The requested smaller/lower composition was not achieved: the head, shoulder, feet and bench occupy essentially the same large composition as the prior master whose video already cropped the overhead plate. A fresh source must reserve the full extended-arm/dumbbell envelope."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-single-db-press-start/attempt_40712a22801b4b59.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_867a0319daa54cca",
+      "exerciseId": "cat_var_single_cable_fly",
+      "shot": "r12-single-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-fly-start/attempt_867a0319daa54cca.jpg",
+      "outputSha256": "78abb238d63dce455e378ee8f050a6759780fca709304620cf85249791a00efa",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.335180+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The active shoulder-height pulley is connected by one taut cable to the single held D-handle, with a visible gap before the pulley. The working arm is open at shoulder height, unused hand stays at the waist, and both feet are planted.",
+        "Orange now stays on actual chest pectoral fibers; shoulder caps, both arms and all other anatomy remain gray. The inward fly arc fits within the portrait composition."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-fly-start/attempt_867a0319daa54cca.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_5bcabba4367c43ad",
+      "exerciseId": "cat_var_single_db_preacher",
+      "shot": "r12-single-db-preacher-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-preacher-start/attempt_5bcabba4367c43ad.jpg",
+      "outputSha256": "f647a85c0859f87c99d5904ed7d3ab9dcbe6d2f95f00a0a068b987b1df7963d2",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.335368+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The pad still extends beneath most of the forearm toward the wrist, instead of ending at the elbow with the forearm freely projecting beyond it. The upper-arm/pad relationship cannot support a clear isolated elbow curl.",
+        "Much of the body has become smooth rather than readable muscle fibers, and a narrow orange continuation below the main biceps belly remains. A fresh short-pad source is warranted after the attempted physical edit preserved the oversized pad."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-preacher-start/attempt_5bcabba4367c43ad.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_a2ea65cc27ed403c",
+      "exerciseId": "cat_var_seated_cable_rear_fly",
+      "shot": "r12-seated-cable-rear-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-rear-fly-start/attempt_a2ea65cc27ed403c.jpg",
+      "outputSha256": "a98a2063adf3d200ef788d36e0dd67c6c7aade5017fcc2e2ed654b4818c274b4",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.335526+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The nearer hand connects to the opposite foreground low pulley, but the other cable curves underneath the bench and its opposite hand is hidden. Both handles are still beside/behind the knees instead of in clear open air in front.",
+        "The exact required two direct taut opposite-side hand routes crossing once below the torso without bench contact are not established. A frontal three-quarter source reset should expose both grips and the free-air crossing."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-rear-fly-start/attempt_a2ea65cc27ed403c.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_33fb0109e6dd45ee",
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-curl-start/attempt_33fb0109e6dd45ee.jpg",
+      "outputSha256": "846ba090a82c394f6f8fbe9a5364c3e0eb1c961bd1ba466832f581a76fe77b1b",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.335710+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual single working hand on image right holds the low-connected D-handle palm-up, with neutral wrist, prepared almost-straight elbow, planted stance and quiet unused arm.",
+        "Orange now ends above the elbow on the actual anterior biceps belly; the entire forearm below the elbow is gray. The frontward curl to shoulder height fits in the full portrait envelope."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-curl-start/attempt_33fb0109e6dd45ee.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_5b9c53c7fd114d88",
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-front-squat-start/attempt_5b9c53c7fd114d88.jpg",
+      "outputSha256": "c0eb5e8ba7881f19084be1524f217ee77be9d54b37a8a0247ece15bb16200ef5",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.336273+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bar now lies across the front-shoulder/clavicle region with crossed hands, while the Smith rig, planted stance and orange quad cues remain coherent.",
+        "Both elbows still hang well below the bar/front-shoulder shelf rather than remaining raised in the front rack. The previous physical edit did not establish the distinctive horizontal-upper-arm front-rack geometry."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-front-squat-start/attempt_5b9c53c7fd114d88.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_5fbead8309f24234",
+      "exerciseId": "cat_smith_step_up",
+      "shot": "r12-smith-step-up-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-step-up-start/attempt_5fbead8309f24234.jpg",
+      "outputSha256": "14505e2bc79348377201bba9dfdf1d2e7a02fe5baa0ec93fd73813dd03a44bbe",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.336691+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The upper-back bar and one whole foot on the stable low box are visible, but the other foot/floor contact remains largely hidden behind the box.",
+        "The head has only a small upper margin relative to the box height and required guided rise. This still does not reserve the complete head/bar envelope at standing atop the box; use a smaller group with blank upper space and a camera exposing the trailing floor foot."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-step-up-start/attempt_5fbead8309f24234.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_2ec02de5d99e472e",
+      "exerciseId": "cat_smith_glute_bridge",
+      "shot": "r12-smith-glute-bridge-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_2ec02de5d99e472e.jpg",
+      "outputSha256": "ca5b6beb108335b3b7efa2b21d4c059306eb3e1701c8e28257243183cd3788a5",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:48:13.337311+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The separate inset retains actual posterior glute fibers colored orange, with adjacent bone/thigh tissue gray and opaque shorts on the main figure.",
+        "The main figure again holds the padded bar above the upper abdomen/torso with hands near the shoulders and bent forearms. The pad does not visibly contact the front hip crease, and this raised-hip position still reads as a floor press rather than a grounded bridge starting setup. Rebuild that physical contact from a fresh side view."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution against actual catalog instructions and complete source envelope; no motion is inferred from the prompt.",
+        "AI static review does not imply animation quality, human acceptance or trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_2ec02de5d99e472e.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_ce2e9aacb6944ac0",
+      "exerciseId": "cat_var_standing_leg_curl",
+      "shot": "r12-standing-leg-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-leg-curl-start/attempt_ce2e9aacb6944ac0.jpg",
+      "outputSha256": "5b6a86847de5d72b4fa27c42ff86ec137cc5894abbf205461a525c5ba3ce543b",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:56:51.990418+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual fourth source now isolates orange on the back/underside of the supported working thigh, and the lower-calf roller/contact is visible.",
+        "It additionally colors the UNUSED standing-leg hamstring orange, while much of the body remains smooth rather than anatomical fibers. The source remains held at its four-source limit; no animation is authorized from this incorrect cue map."
+      ],
+      "limitations": [
+        "Actual full-resolution master inspected; source-pose refinement judged against the concrete prompt/canonical setup, not assumed motion.",
+        "AI static review only; human/trainer acceptance remains separate."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-leg-curl-start/attempt_ce2e9aacb6944ac0.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_aa0ae33ea82d4789",
+      "exerciseId": "cat_var_lying_cable_curl",
+      "shot": "r12-lying-cable-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-lying-cable-curl-start/attempt_aa0ae33ea82d4789.jpg",
+      "outputSha256": "861c6cb17cdfbd59a5a8d9365f51f0d4046e5ea637a90ef232f6b659a4a63aba",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:56:51.990935+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The requested distinctive closed-elbow endpoint was not achieved: both elbows remain almost straight and the bar is above the chest, essentially preserving the prior ambiguous reference instead of placing the bar above the forehead with raised upper arms and bent forearms.",
+        "Body support, cable/grips and biceps boundaries remain usable, but this does not solve the repeated pulldown substitution. A final fresh physically explicit bent-elbow source is warranted before another animation."
+      ],
+      "limitations": [
+        "Actual full-resolution master inspected; source-pose refinement judged against the concrete prompt/canonical setup, not assumed motion.",
+        "AI static review only; human/trainer acceptance remains separate."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-lying-cable-curl-start/attempt_aa0ae33ea82d4789.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_2b62275a74354157",
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "shot": "r12-incline-bb-triceps-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_2b62275a74354157.jpg",
+      "outputSha256": "7aacac8ca24f0c37838dd25e62f78f07b74e2cfea26c4339d1971474058d8e45",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:56:51.991448+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual refined source does achieve clearly bent elbows, supported incline body and raised upper arms with readable triceps/deltoid cues.",
+        "The upper arms still angle toward the chest/feet side and the held bar is above the forehead/top of skull, rather than distinctly behind the occiput. The requested behind-head bottom relationship remains ambiguous for the canonical movement; a final fresh side-view reference should put the elbows and bar toward the head end before paid motion."
+      ],
+      "limitations": [
+        "Actual full-resolution master inspected; source-pose refinement judged against the concrete prompt/canonical setup, not assumed motion.",
+        "AI static review only; human/trainer acceptance remains separate."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_2b62275a74354157.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_593d500a3cc5439e",
+      "exerciseId": "cat_var_single_lat_pulldown",
+      "shot": "r12-single-lat-pulldown-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-lat-pulldown-start/attempt_593d500a3cc5439e.jpg",
+      "outputSha256": "3d6e74b5358acc027432e37081774319c1bdb830dc2f3f254b83dd1ea9c3f02b",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:06:00.705105+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fourth source finally places orange on the raised working-arm lat side and leaves the opposite unused lat gray.",
+        "The active handle clip is BELOW the hand and its cable descends toward the low stack instead of running UP to the high pulley. The exact high-pulley load connection is invalid for a pulldown; this remains a quality hold at the four-source cap, without paid animation."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution; actual geometry governs the verdict, not literal prompt compliance alone.",
+        "Root settlement/provenance gates still govern adoption; AI static review does not imply animation quality or human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-lat-pulldown-start/attempt_593d500a3cc5439e.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_cf77d706933b4d4d",
+      "exerciseId": "cat_var_single_db_press",
+      "shot": "r12-single-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-press-start/attempt_cf77d706933b4d4d.jpg",
+      "outputSha256": "07982f75c3f08a54ca203ce668113e9dd73ab80ece24202abb7ece7380acaf5d",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:06:00.705498+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The fourth actual source has orange precisely on the deltoid cap belonging to the held dumbbell on image right, with the unused shoulder/arms gray and blue abdominal fibers bounded above opaque shorts. Both feet are planted and the standing trunk is square.",
+        "The smaller figure and actual shoulder/arm/dumbbell proportions leave sufficient blank upper room for the full overhead reach despite not literally matching the requested head-height percentage. Closed grip, weight, fibers and full supports are coherent."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution; actual geometry governs the verdict, not literal prompt compliance alone.",
+        "Root settlement/provenance gates still govern adoption; AI static review does not imply animation quality or human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-press-start/attempt_cf77d706933b4d4d.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_9dbf4611eeea433c",
+      "exerciseId": "cat_var_decline_machine_press",
+      "shot": "r12-decline-machine-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-decline-machine-press-start/attempt_9dbf4611eeea433c.jpg",
+      "outputSha256": "13a296d6b6e2f966a67b8562363308ee0e4429ba7e97a0802cc98ed793c1dd92",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:34:03.270593+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fresh extended endpoint is not a decline chest press: both straight arms point downward beside the torso and grip handles at hip level, rather than reaching forward/slightly below the lower chest. The resulting apparatus/pose reads a seated shrug or dip setup.",
+        "Orange covers both rounded shoulder caps in addition to the pectorals, despite pectorals being the sole primary muscle. This fourth source cannot support a correct press animation; hold, no fifth source."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static pose review does not establish animation quality, human acceptance or trainer validation.",
+        "Fourth source output; no further source attempt is authorized for a failed master."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-decline-machine-press-start/attempt_9dbf4611eeea433c.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_6d3f9156bece4218",
+      "exerciseId": "cat_var_single_db_preacher",
+      "shot": "r12-single-db-preacher-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-db-preacher-start/attempt_6d3f9156bece4218.jpg",
+      "outputSha256": "c5b57db66825303a11b7b4548184034d74bb12ab534f24f9d9544dda865ccc75",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:34:03.270593+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Readable anatomical fibers and a bounded orange working biceps are improved, but the narrow diagonal pad lies beside/medial to the working arm and extends alongside the elbow/forearm rather than demonstrating full upper-arm support from near the armpit to elbow.",
+        "The proximal upper arm near the shoulder has no clearly demonstrated pad support, which is essential to the preacher-curl variation. Independent reviewer agrees; frontal projection limits precise contact depth, so the failure is missing/unclear full upper-arm support rather than a measured collision. Fourth source held; no fifth source."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static pose review does not establish animation quality, human acceptance or trainer validation.",
+        "Fourth source output; no further source attempt is authorized for a failed master."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-db-preacher-start/attempt_6d3f9156bece4218.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_64b9e2dc581147a3",
+      "exerciseId": "cat_var_seated_cable_rear_fly",
+      "shot": "r12-seated-cable-rear-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-rear-fly-start/attempt_64b9e2dc581147a3.jpg",
+      "outputSha256": "ac37174489366cb391dec3b7a6c9f24da6ecf0e85e97d3dbf739264fc2468df9",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:34:03.270593+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The orange cue covers broad front/lateral deltoid-cap fibers facing the camera rather than remaining bounded to posterior deltoids, the canonical primary muscle for this rear fly.",
+        "Both grips are now visible, but additional cable spans remain beneath/between the handles and the pulley towers; the setup does not read as exactly one independent taut opposite-pulley cable ending at each grip. The static topology remains unsuitable for animation. Fourth source held; no fifth source."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static pose review does not establish animation quality, human acceptance or trainer validation.",
+        "Fourth source output; no further source attempt is authorized for a failed master."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-rear-fly-start/attempt_64b9e2dc581147a3.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_f54a3a6ac92c4c06",
+      "exerciseId": "cat_var_lying_cable_curl",
+      "shot": "r12-lying-cable-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-lying-cable-curl-start/attempt_f54a3a6ac92c4c06.jpg",
+      "outputSha256": "59e1af20153c6d9c31dae73c90aa9e8bac94fcc5f0b16ed17f19bef8807a137f",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:34:03.270593+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The distinctive raised-upper-arm/bent-elbow endpoint and bar above the forehead are useful, but a separate orange patch lies on the rounded near shoulder/deltoid cap below the biceps. Its coverage crosses deltoid fibers beyond the biceps insertion.",
+        "Catalog primary is biceps only. Independent full-resolution second opinion agrees this is a real deltoid cue artifact, so good joint geometry cannot justify readiness. Fourth source held; no fifth source."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static pose review does not establish animation quality, human acceptance or trainer validation.",
+        "Fourth source output; no further source attempt is authorized for a failed master."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-lying-cable-curl-start/attempt_f54a3a6ac92c4c06.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_20caa02ec4fe4dba",
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "shot": "r12-incline-bb-triceps-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_20caa02ec4fe4dba.jpg",
+      "outputSha256": "3721ae94345d1b40fba16a97e0fb51411780ee390b5429a717b454d5b95fab52",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:34:03.270593+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact source shows the distinctive bent skull-crusher endpoint on an incline bench: both upper arms are raised toward the head end, both forearms fold behind the occiput, and the same rigid bar is held behind the skull with closed narrow grips.",
+        "Head/back/pelvis remain supported and feet planted, with free bar/hand clearance. The complete elbow/shoulder/wrist envelope is visible in the side-biased three-quarter view.",
+        "Orange is bounded to actual posterior upper-arm triceps fibers; blue remains on the supporting deltoid area, with gray biceps/forearms and opaque charcoal shorts. Starting bent means the first motion must extend the elbows, then return to this exact behind-skull endpoint."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static pose review does not establish animation quality, human acceptance or trainer validation.",
+        "Fourth source output; no further source attempt is authorized for a failed master."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_20caa02ec4fe4dba.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_27f2fff638bf450b",
+      "exerciseId": "cat_var_single_cable_fly",
+      "shot": "r12-single-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-fly-start/attempt_27f2fff638bf450b.jpg",
+      "outputSha256": "a1ce18c88452fc6248c2c745cf529de33f2e2422154d6a4144506341b5135305",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:36:37.844831+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fourth fresh source loses the required readable anatomical fiber style over almost the entire body, leaving smooth metallic skin on shoulders, abdomen, unused arm and legs.",
+        "Orange now extends along the working upper-arm biceps as well as both pectorals, rather than remaining bounded to working pectoral fibers. The visible handle cable runs upward to an above-head pulley instead of directly to the required chest-height pulley.",
+        "The camera/pose change introduced new style, cue and apparatus defects; no animation may use this fourth source, and no fifth source is authorized."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static review does not establish animation quality, human acceptance or trainer validation.",
+        "Fourth source output; a failed master remains held without a fifth source."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-fly-start/attempt_27f2fff638bf450b.jpg"
+      ]
+    },
+    {
+      "attemptId": "attempt_aecd15f3b0f74d46",
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-single-cable-curl-start/attempt_aecd15f3b0f74d46.jpg",
+      "outputSha256": "d3160174f9de55716d28a683a113fb7103ac2d5f557a5fdbd94f0050315c9483",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:36:37.844831+00:00",
+      "reviewKind": "exact-master-full-resolution-static-anatomy-apparatus-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The exact edited source preserves one compact D-handle in the original image-right orange-biceps hand and one taut cable to the low pulley. The working upper arm remains beside the torso with a closed palm-up/forward grip and neutral wrist.",
+        "The opposite image-left gray hand is now visibly empty, open and spread flat against its own hip/shorts, giving a clear support contact that must remain fixed during animation.",
+        "Readable fibers, planted feet, bounded orange biceps above the elbow, entirely gray forearm and unused anatomy, and opaque charcoal shorts are retained. The complete curl and return envelope is visible."
+      ],
+      "limitations": [
+        "Exact provider master inspected at full resolution. Static review does not establish animation quality, human acceptance or trainer validation.",
+        "Fourth source output; a failed master remains held without a fifth source."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-single-cable-curl-start/attempt_aecd15f3b0f74d46.jpg"
+      ]
+    }
+  ]
+}

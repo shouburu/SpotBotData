@@ -1,0 +1,30 @@
+{
+  "id": "group_e77f5beb050c4692",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T16:06:30+00:00",
+  "balanceBefore": 471,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_rope_climb_b0ec05a6",
+      "shot": "r13-open_rope_climb_b0ec05a6-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "93e9a674ce9f227a6479eeffdefe4f5c6ee87f1cc57d83cafd9a75ca7f0184df",
+      "quoteFile": "form-media/ui-quotes/r13-open_rope_climb_b0ec05a6-start-paced-22c56a9b.json",
+      "quoteSha256": "cf91c007fdcdfb65bfe501bd5e13f7f3ccaf6d3cad15ca594cadc297ef7e977b",
+      "quoteCredits": 0,
+      "balance": 471,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T16:07:35+00:00",
+  "balanceAfter": 471,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-54d51769d1e448e5.json",
+  "evidenceSha256": "3f2b4da700850f5002fc98ae19bd1916a4951f850ee9c4b5ace7e55cb25bc183",
+  "terminalFailureIds": []
+}

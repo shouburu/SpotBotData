@@ -1,0 +1,30 @@
+{
+  "id": "group_5171f4cf595d4c60",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T12:53:36+00:00",
+  "balanceBefore": 719,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_knee_tuck_jump_d2ebcd64",
+      "shot": "r13-open_knee_tuck_jump_d2ebcd64-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "62b2ddf9b3f7ecfcd296470fdc57fcf041c390f5981aa38d9fa3179143fac0f1",
+      "quoteFile": "form-media/ui-quotes/r13-open_knee_tuck_jump_d2ebcd64-start-paced-16c6909c.json",
+      "quoteSha256": "1ec964abf31aede923771dd656274c2b61e4bda9d9057b0d74054eab425729b1",
+      "quoteCredits": 0,
+      "balance": 719,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T12:54:36+00:00",
+  "balanceAfter": 719,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-9f8cca6f14e347ce.json",
+  "evidenceSha256": "f5c9f5577069a3db0ff9f415eced4f1eabefa17c13e0aad9b8834a8772aad2fc",
+  "terminalFailureIds": []
+}

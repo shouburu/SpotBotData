@@ -1,0 +1,114 @@
+{
+  "id": "group_7ef851d0f407430d",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:12:52+00:00",
+  "balanceBefore": 2279,
+  "quotedCredits": 72,
+  "members": [
+    {
+      "exerciseId": "cat_bal_cross_body_reach",
+      "shot": "r13-cat_bal_cross_body_reach-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "17461155c0320d8d3e192e5ec8b1691e3d5f465d6cf5627da18dd4199ffa0747",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_cross_body_reach-video-237ae177.json",
+      "quoteSha256": "9e53908f831abe603013af5c3d81bf9180b525f4bd9b73e13eb9a0d1ea427c37",
+      "quoteCredits": 12,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_bal_cross_body_reach-start/attempt_c1f13dedf0094e19.jpg",
+          "sha256": "5f745b1ec31da362d160753b5cb0361f85e3c3b830dcb60d26ac0bb83c07e2a9"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_lateral_weight_shift",
+      "shot": "r13-cat_bal_lateral_weight_shift-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "37483b93146499f4bc980b9f72b4d3d61fb5b2920c0593175d75d3e4ad7b54ef",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_lateral_weight_shift-video-0fbfe354.json",
+      "quoteSha256": "b3030584f96804c00eb3a6d544e62fe4c7e1d671984a4de0d15baacc40a6de84",
+      "quoteCredits": 12,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_bal_lateral_weight_shift-start/attempt_909ae740961644f9.jpg",
+          "sha256": "3fe02ea6082d8826d5cb9cddbdf6c06b8ee7ed3e0342aba4152fb38eecc55438"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_side_step_hold",
+      "shot": "r13-cat_bal_side_step_hold-video",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "008e9957fc9b4e36ffd4e46b3b67addddd9b3b5543a6c7851eaeb3d2168eb6d9",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_side_step_hold-video-9f212fc1.json",
+      "quoteSha256": "3c847271214e6187aef75e730061753093ae5247342670d03597038471133639",
+      "quoteCredits": 12,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_bal_side_step_hold-start/attempt_1319ee0a76ea46d1.jpg",
+          "sha256": "b48b7f9e906772c655e9f15fbe6789e950e740f10247e72a17e893bfbd560266"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_assisted_pullup",
+      "shot": "r13-cat_cal_assisted_pullup-video",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "3c96bf227d9427545a6e22ac3da0485c228d902a0673bb8e42ad198fef949692",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_assisted_pullup-video-8d19ec40.json",
+      "quoteSha256": "9dcc868dd5badcad58ea0b107acafc5e8fa54941ba0d5649dfbda8cc126151d3",
+      "quoteCredits": 12,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_assisted_pullup-start/attempt_bfed8fb419024f39.jpg",
+          "sha256": "80ad424469686612998310d7a0eb28c3570e367a7560771903a82ec45e114f1a"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_quarter_turn",
+      "shot": "r13-cat_bal_quarter_turn-video",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "3cbca7157136cfec7280d195e5b5e79a31b9635ce30d6949c9956c66f1cf14e3",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_quarter_turn-video-8a3ca262.json",
+      "quoteSha256": "c2c832ab0bdf4d7b32f330707120ff7c5ffed9fd029e192f123be05ffd70d4ed",
+      "quoteCredits": 12,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_bal_quarter_turn-start/attempt_ef6faecc0f0f4e63.jpg",
+          "sha256": "839f5b291c79599ab5505de42675693d8a65ac4b7da7fea14b656afa8c758df0"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cond_squat_calf_raise",
+      "shot": "r13-cat_cond_squat_calf_raise-video",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "10d031917415fd289e6e0fd180352be8c40379bc14c88d5bf80565910cc2f6b5",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_squat_calf_raise-video-a2e417d0.json",
+      "quoteSha256": "375d03e30d0ab4f4748ab68ddeb769bd78f39431562a0648c3c5cc3997bc7924",
+      "quoteCredits": 12,
+      "balance": 2279,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cond_squat_calf_raise-start/attempt_d0302d4ae6ba4a86.jpg",
+          "sha256": "37452bf55299a32373521747fad41b647e6f8f045cf6649bc980ff15eb9817b0"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:14:39+00:00",
+  "balanceAfter": 2207,
+  "actualCredits": 72,
+  "evidenceFile": "form-media/ui-quotes/observed-7ab3416f32324853.json",
+  "evidenceSha256": "87748af889df684a8c2a286c7384e329511b73c564684449c62f8c97c3b08912",
+  "terminalFailureIds": []
+}

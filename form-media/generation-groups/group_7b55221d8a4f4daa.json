@@ -1,0 +1,109 @@
+{
+  "id": "group_7b55221d8a4f4daa",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:21:43+00:00",
+  "balanceBefore": 2081,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_cal_bodyweight_hip_hinge",
+      "shot": "r13-cat_cal_bodyweight_hip_hinge-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "d6f2ed016ea5d570a705a5819d7d9cb924f1fd0205703d12166a8f13e996b5b9",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bodyweight_hip_hinge-start-54f017de.json",
+      "quoteSha256": "4c0244d7b1218d4e3517db1d62ea9ae83c53946702a11a4717fa36c80e292214",
+      "quoteCredits": 0,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_bodyweight_hip_hinge-start/attempt_cd27e517c6cf4a91.jpg",
+          "sha256": "cfc374738971f66044d6799990080a78ae4fef3b7e7d28087ecf7c8730e00b99"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_one_arm_kettlebell_pa_10f1ec7a",
+      "shot": "r13-open_one_arm_kettlebell_pa_10f1ec7a-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "a3d42477ff00512da44ded1736fa0ba05582bcd73aeccb90e5192cce68464337",
+      "quoteFile": "form-media/ui-quotes/r13-open_one_arm_kettlebell_pa_10f1ec7a-start-a4aedb3d.json",
+      "quoteSha256": "a8098021573e46f9a7fb3c712dfddc33c897b7487d5c873b8524bd38be6c893f",
+      "quoteCredits": 0,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_one_arm_kettlebell_pa_10f1ec7a-start/attempt_572c8959b29e4902.jpg",
+          "sha256": "1007f41673c3a7fc586ad64205565f2242f7f6375ffff2fddd1d7f8dc740aeb5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_wind_sprints_d7829971",
+      "shot": "r13-open_wind_sprints_d7829971-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "a3e0a6f65e8d99eeb93cdf9bfb64d2ed113f4d0ff1b98d9d08a04d054c948bce",
+      "quoteFile": "form-media/ui-quotes/r13-open_wind_sprints_d7829971-start-ce00cfdc.json",
+      "quoteSha256": "ad6e8b3ab634f0104340ec0e63fc1fdfac02c9156f820deada115fb2cf3f5b38",
+      "quoteCredits": 0,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_wind_sprints_d7829971-start/attempt_a1d2615293dc4c12.jpg",
+          "sha256": "aeae41a155c85be5b0dc175dc5d5fb61e6006e84a7c61a4a54f739181926a669"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_eccentric_pullup",
+      "shot": "r13-cat_cal_eccentric_pullup-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "5dd2a69b9fbda7d2246028ae0978f20ed777501453cddeea0f448793d4dd6532",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_eccentric_pullup-start-59eeccbc.json",
+      "quoteSha256": "4ed2610df88dd70ec82f42feffe760bc8d70f28f048319dbdb196e6716866a9d",
+      "quoteCredits": 0,
+      "balance": 2081,
+      "references": []
+    },
+    {
+      "exerciseId": "open_speed_band_overhead_t_4f889ac0",
+      "shot": "r13-open_speed_band_overhead_t_4f889ac0-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "bb62543ccb7d45335c82d46000b37ef2a21ae7b34c60a6d804f57eadbef1b96e",
+      "quoteFile": "form-media/ui-quotes/r13-open_speed_band_overhead_t_4f889ac0-start-f2acd295.json",
+      "quoteSha256": "46ba5c938d9b884baee4ef3a30b15209844562b1a6e8a8acd6e4bafde5eef4f3",
+      "quoteCredits": 0,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_speed_band_overhead_t_4f889ac0-start/attempt_d63bba0cea534985.jpg",
+          "sha256": "6e64efea2e1d2c2438bbeb322cd25bedb988d0ae74698de861c2a378b23a2d06"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_single_leg_high_box_s_4d516c61",
+      "shot": "r13-open_single_leg_high_box_s_4d516c61-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "76995d0af4166705f8a5954f3cdce36c259d139d4dec4789aef4b46225e8da80",
+      "quoteFile": "form-media/ui-quotes/r13-open_single_leg_high_box_s_4d516c61-start-d0dc2cef.json",
+      "quoteSha256": "dd4af21b5e3667bd62f51b2aefc3f78d902e7eb0bde5dec211b9c0abff2ce530",
+      "quoteCredits": 0,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_single_leg_high_box_s_4d516c61-start/attempt_fd7ab612ced440a7.jpg",
+          "sha256": "689d127fef67ade1a02b2372fb1ba1e5086eb8a5341bea3d22862cd0d56530eb"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:23:23+00:00",
+  "balanceAfter": 2081,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-cd084f66a9614595.json",
+  "evidenceSha256": "cc78e99d0fa59acaa7cfb0b52a5a376650f6e0d9acd20abd44ff6b219ce6bee3",
+  "terminalFailureIds": []
+}

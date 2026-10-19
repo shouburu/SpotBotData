@@ -1,0 +1,35 @@
+{
+  "id": "group_78950cdf654b43b2",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T13:18:53+00:00",
+  "balanceBefore": 685,
+  "quotedCredits": 12,
+  "members": [
+    {
+      "exerciseId": "open_ring_dips_c8cfcf7b",
+      "shot": "r13-open_ring_dips_c8cfcf7b-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "1107d3d933258294c993f547841384099b2be6ef8d97ffe1d0227bd1727613f5",
+      "quoteFile": "form-media/ui-quotes/r13-open_ring_dips_c8cfcf7b-video-paced-137c90ac.json",
+      "quoteSha256": "37ba6d6e3ac288f5801c6bbc88092eb207f224165e08123d4308d4e60cd3dec7",
+      "quoteCredits": 12,
+      "balance": 685,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_ring_dips_c8cfcf7b-start/attempt_8148b86a3d8b488b.jpg",
+          "sha256": "32c1fb7dacf4ecd3e01046aa53ba0e09b53891471468739bfce4ad89cf3ce978"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T13:19:59+00:00",
+  "balanceAfter": 673,
+  "actualCredits": 12,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-75e042f2ab274e48.json",
+  "evidenceSha256": "097a27a0827c9a65eb5a7e1ec5258f267453854bc92170f9f3c07f5fb66f5d74",
+  "terminalFailureIds": []
+}

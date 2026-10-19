@@ -1,0 +1,77 @@
+{
+  "id": "group_5fe0a0282395457a",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T19:28:00+00:00",
+  "balanceBefore": 3989,
+  "quotedCredits": 30,
+  "members": [
+    {
+      "exerciseId": "cat_var_low_cable_fly",
+      "shot": "r12-low-cable-fly-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "8bcfb158b71bd559b87fcb41f8598bd7df68364a276e1f5c8dd6af6a80c6cb32",
+      "quoteFile": "form-media/ui-quotes/r12-low-cable-fly-t2v-21001df2.json",
+      "quoteSha256": "799a0f9e4d7da4099b665510c9c9b53a459fbd7e8b82733616fa6fe6b3e8e81e",
+      "quoteCredits": 10,
+      "balance": 3989,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-low-cable-fly-start/attempt_e581272261f2400a.jpg",
+          "sha256": "5595d6c3db946fbf88ce260438efc8aeb1ffdfb53fa912760c77cc2fecb48039"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_decline_ez_triceps",
+      "shot": "r12-decline_ez_triceps-t2v",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "c1c01dc3ba1f65d9ab00742273e62f2a17d5cb9bf52f1e1091ab097bbf684c5e",
+      "quoteFile": "form-media/ui-quotes/r12-decline_ez_triceps-t2v-a7a232d4.json",
+      "quoteSha256": "33f2b4424f14ec1878b6f896dc622fdd3d55a301a4493a9ea06da606aaa12758",
+      "quoteCredits": 10,
+      "balance": 3989,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-decline_ez_triceps-start/attempt_8471fc38357d457c.jpg",
+          "sha256": "1b57a178f356e399295ace7f6f90abf8992324091e89d90f4c5626657e0e975b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-t2v",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "a6eb6ff5ab8b78b6953fddbd1c4d331be23ec11351d2e373076cc56f752c09da",
+      "quoteFile": "form-media/ui-quotes/r12-flat-db-rear-fly-t2v-98e134f2.json",
+      "quoteSha256": "4ae3ed8e27785a30c892256a2feb050d7516cc069c2c46ea69c2e702e331bea2",
+      "quoteCredits": 10,
+      "balance": 3989,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-flat-db-rear-fly-start/attempt_12277ea2e621453b.jpg",
+          "sha256": "4a50a286a53ce8479055b37fd3cadf4ce65190ccf8e6ab175543482c12110a76"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_seated_cable_chest",
+      "shot": "r12-seated-cable-chest-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "8cb04c9a84dd1858f52da9dcff7a798c481229717ddf3449f7ae5de5ac330980",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-chest-start-257f6797.json",
+      "quoteSha256": "49a200a82a73d76d1052fb6b4674139b4c71b982bcfbd99feb8bc74a4cc809b5",
+      "quoteCredits": 0,
+      "balance": 3989,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T19:29:48+00:00",
+  "balanceAfter": 3959,
+  "actualCredits": 30,
+  "evidenceFile": "form-media/ui-quotes/observed-200b8cf4f00a4e0f.json",
+  "evidenceSha256": "091dbf7c6bef9d9fb1b33196986d50ed4ec09b050817fcd6190157e3e97057a6",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": "group_14969df158e34a40",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T19:33:08+00:00",
+  "balanceBefore": 3949,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_var_machine_glute_kickback",
+      "shot": "r12-machine_glute_kickback-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "87ca12e61f0d457ec529e35fdeaaa0c406929b40066da33c6922b0e71371cca6",
+      "quoteFile": "form-media/ui-quotes/r12-machine_glute_kickback-start-7c6fb71c.json",
+      "quoteSha256": "328bc03b537b4b2f88c780bb1f0b0241d21f668782c3e7d0b45f1c1d9f309df8",
+      "quoteCredits": 0,
+      "balance": 3949,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_decline_machine_press",
+      "shot": "r12-decline-machine-press-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "5042319c149892013ea04a30277bbf5bcf3098fdb79767ec28d750f067a64b45",
+      "quoteFile": "form-media/ui-quotes/r12-decline-machine-press-start-4087b4a3.json",
+      "quoteSha256": "e91a97dfc8c6286e28ae2f2905894ca9525ddcc25d7213472b8cef9d8981ef5f",
+      "quoteCredits": 0,
+      "balance": 3949,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_machine_high_row",
+      "shot": "r12-machine-high-row-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "844912d487a74beec0cfd41bceeecd072628b8330ab4f7acff4c9af797cfbc9a",
+      "quoteFile": "form-media/ui-quotes/r12-machine-high-row-start-bd91b6d1.json",
+      "quoteSha256": "ca08f92ce7ec1c991ef5645beffcdf79983e2295905ff67e566b54971c42d8cb",
+      "quoteCredits": 0,
+      "balance": 3949,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_ball_crunch",
+      "shot": "r12-ball-crunch-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "521ce434afc113a4c2549bf297e6f07704e140eab08363fa772388dedd2a4804",
+      "quoteFile": "form-media/ui-quotes/r12-ball-crunch-start-293cb9bb.json",
+      "quoteSha256": "46c773ea092630a5cf7db73f11f6d266c2473c1685c4d9a25ab815449b2d4919",
+      "quoteCredits": 0,
+      "balance": 3949,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-ball-crunch-start/attempt_1268c4103449490a.jpg",
+          "sha256": "d6a9764291b77d007882910a4427591e690e90d71c31fc1d194ed639327955c1"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T19:34:31+00:00",
+  "balanceAfter": 3949,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-decd1e1eae1c4ed7.json",
+  "evidenceSha256": "a8a2ce536ce9771e63f8aaf52996cd62bc3a0d2c5744e7be4b949fab6e7509f3",
+  "terminalFailureIds": []
+}

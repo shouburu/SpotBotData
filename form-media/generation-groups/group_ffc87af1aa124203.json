@@ -1,0 +1,114 @@
+{
+  "id": "group_ffc87af1aa124203",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:33:54+00:00",
+  "balanceBefore": 1953,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_pil_side_kick",
+      "shot": "r13-cat_pil_side_kick-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "a0974b696902c1bf300efe3cab33b4162c4d40698a1606568c6734852a18688b",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_kick-start-053e0722.json",
+      "quoteSha256": "c9694ebb479b121c221eeb83f4331197611cf64a0a317b216932008365706df8",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_pil_side_kick-start/attempt_ce2e8c7d981d4f61.jpg",
+          "sha256": "ef364be452e04faf0ee648ce154e55289b041d5712bc70d624e69e030af63ca7"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_hip_flexion_with_band_e4aae89b",
+      "shot": "r13-open_hip_flexion_with_band_e4aae89b-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "56f8f2db0fb20e654aa6e5b7665b7ea6b1a54f0d54a3cd6ca79fe7b9769313e9",
+      "quoteFile": "form-media/ui-quotes/r13-open_hip_flexion_with_band_e4aae89b-start-4c0dc4cd.json",
+      "quoteSha256": "45762a620c40f7bfa389936caa2b6a09f71e24c6efa0f3db139bdf8842e6ec9f",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_hip_flexion_with_band_e4aae89b-start/attempt_4a061a3841ec4185.jpg",
+          "sha256": "bba3ad4c98ddc55e63623073326e3c2d88265ecfe5a139f43630cc622cb69b59"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_side_walk",
+      "shot": "r13-cat_band_side_walk-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "c4e08a37afe5c9729daa2399fa1c42b2d5a7dfe2105348f2a0d8424c1ba05bbd",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_side_walk-start-864b9f78.json",
+      "quoteSha256": "319aaee52e191289f928c7c2d42bb240e417468078011606e87892d4738338f8",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_side_walk-start/attempt_4a3bb67e4d924ee5.jpg",
+          "sha256": "ad392473cb0a9be293e1bfb64168871313cf6ad13a3afc1ad9d595d8f203d205"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_kettlebell_sumo_high__167a225c",
+      "shot": "r13-open_kettlebell_sumo_high__167a225c-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "456bd71d982c4cd100c8121b6805f90fbcf281e7f0d295b47d3a1a24dcec0abc",
+      "quoteFile": "form-media/ui-quotes/r13-open_kettlebell_sumo_high__167a225c-start-11721f13.json",
+      "quoteSha256": "dfd2f8a786850217d4182e986e28c37c785ff12f536cf5a619f252f94535ea0a",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_kettlebell_sumo_high__167a225c-start/attempt_cd0de65fa7444ab8.jpg",
+          "sha256": "7074e2cd3af919b5d25ed15ce0dc56b55fc61d34526b4267a6258f0ea502b7aa"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_ball_leg_curl_68242a59",
+      "shot": "r13-open_ball_leg_curl_68242a59-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "00388c51edc7635cd9efeb1ff012ac79fdde6d559fbff434fa9bfe114246c784",
+      "quoteFile": "form-media/ui-quotes/r13-open_ball_leg_curl_68242a59-start-d8c0e472.json",
+      "quoteSha256": "d4e4b45648606d75ed2c8c0600865f1ad41131c763a68f07b35e13dbde29883e",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_ball_leg_curl_68242a59-start/attempt_80179e3eeea94ede.jpg",
+          "sha256": "a3faf49833ef01b1ea9d59fcb5752adaca798fa0e2a25a339e7e7335ef3c9380"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_flat_bench_lying_leg__d58bca58",
+      "shot": "r13-open_flat_bench_lying_leg__d58bca58-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "d258fa903ab30d570e9ab1342834c65f5b7f9fe8cce75f28d5ad84f9e0336114",
+      "quoteFile": "form-media/ui-quotes/r13-open_flat_bench_lying_leg__d58bca58-start-a8c9fedc.json",
+      "quoteSha256": "7a42d742a007061dc227d6f4a5f33050347df81dcb86d90c8264e93fe25f5888",
+      "quoteCredits": 0,
+      "balance": 1953,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_flat_bench_lying_leg__d58bca58-start/attempt_6d3b5f50b3664fca.jpg",
+          "sha256": "f87b865ac5799e314a0cb77e62300ae83673aee26c6361c591aec8fecc1a10d0"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:35:42+00:00",
+  "balanceAfter": 1953,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-3827a1ba7a93425d.json",
+  "evidenceSha256": "7b838d338fb864d3c6edc3bf3ea0cc0bbe4c6e48f4d24e6b28a46c4a04514a88",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,44 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "0a22dda2-a12d-48bb-b3e4-2f74450ddcbd",
+  "profile": "shouburu",
+  "balance": 1713,
+  "visibleBalanceText": "1,713 Google Flow credits",
+  "observedAt": "2026-10-10T02:29:10.189059+00:00",
+  "outputRecoveryEvidence": {
+    "path": "reports/round-13/source-6ca9-recovery-diagnosis.json",
+    "sha256": "ac1b88d625141bc27161b477ca1d328de296b41132588ca21463176430ccd391"
+  },
+  "imageResponseDiagnosticEvidence": {
+    "path": "reports/round-13/image-response-diagnostics/image-20261010T022804184811Z-cb62554d0e72.json",
+    "sha256": "386c8fcb72048da47b474d349d468a917820b47aab6b011cb1310eedf7fd6a1f",
+    "scope": "Exact null ogiZ0b response states PUBLIC_ERROR_UNUSUAL_ACTIVITY_TOO_MUCH_TRAFFIC in typed ErrorInfo. No success payload/IDs or formal media-terminal status. Billing settlement does not claim a recovered output or reset trial counts."
+  },
+  "groupId": "group_6ca960b5e9024955",
+  "reconciliationType": "manual-zero-credit-accounting-with-one-unrecoverable-source",
+  "unknownProviderOutcomes": [
+    {
+      "attemptId": "attempt_166c1e4e0a5540ee",
+      "exerciseId": "open_calves_smr_c8db3e21",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_166c1e4e0a5540ee/stdout.json",
+        "sha256": "83bd97a9672c2f66ae910679ad85e9b7c5fe715f9580765ab4c6e65703879438"
+      },
+      "providerOutcome": "unknown",
+      "countedSourceAttempts": 1
+    }
+  ],
+  "successfulPeerMasters": [],
+  "frozenZeroQuoteProofs": [
+    {
+      "attemptId": "attempt_166c1e4e0a5540ee",
+      "path": "form-media/ui-quotes/round-13-fresh-project-second-source-probe.json",
+      "sha256": "11d711666178b0a0b9daa7510fe7d8a4fa9ea32865978082c035f9c305a386f9",
+      "credits": 0
+    }
+  ],
+  "scope": "Billing only: one exact zero-credit quote and unchanged aggregate visible balance. The local parsing/retrieval failure retains an unknown provider outcome; no provider-terminal failure or non-submission is inferred.",
+  "retryPolicy": "The unknown first source attempt remains counted. Source and dependent motion are held without resubmission, even though the four-attempt quality cap is not exhausted. No automatic settlement guard is changed."
+}

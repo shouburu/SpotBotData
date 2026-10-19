@@ -1,0 +1,32 @@
+{
+  "id": "group_487b51cbcc16436d",
+  "status": "billing-reconciled-with-unrecoverable-free-sources",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T01:58:33+00:00",
+  "balanceBefore": 1713,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_push_up_to_side_plank_9f39a0c7",
+      "shot": "r13-open_push_up_to_side_plank_9f39a0c7-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "d714809fb89c6dd92ea971c71a5ce562ed3e6e52040794679049ae6d7aba61c8",
+      "quoteFile": "form-media/ui-quotes/r13-open_push_up_to_side_plank_9f39a0c7-start-54e12585.json",
+      "quoteSha256": "45c8da642450e2185b0061757bb87d6ca9f7b6ef0e711e95a4cfc258789b5a24",
+      "quoteCredits": 0,
+      "balance": 1713,
+      "references": []
+    }
+  ],
+  "settlementMethod": "manual-all-zero-quote-and-aggregate-balance",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "actualCredits": 0,
+  "balanceAfter": 1713,
+  "settledAt": "2026-10-10T02:04:55+00:00",
+  "evidenceFile": "form-media/ui-quotes/group-487b51cbcc16436d-manual-reconciliation.json",
+  "evidenceSha256": "d2e50aa1227b68fa2425b53429aabe6de5568e36000c218f08db32fbcef4e78e",
+  "unknownProviderOutcomeAttemptIds": [
+    "attempt_5b195b85cb0b47a9"
+  ],
+  "terminalFailureIds": []
+}

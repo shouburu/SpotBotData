@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-rope_hammer_curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-rope_hammer_curl-t2v-b1007186.json"
+    },
+    {
+      "shot": "r12-db_spider_curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-t2v-beec82dd.json"
+    },
+    {
+      "shot": "r12-single-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-fly-start-2bcc1e8f.json"
+    },
+    {
+      "shot": "r12-db_floor_press-start",
+      "quoteFile": "form-media/ui-quotes/r12-db_floor_press-start-3f6b7fc1.json"
+    },
+    {
+      "shot": "r12-single-db-triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-triceps-start-7798a664.json"
+    },
+    {
+      "shot": "r12-flat-db-rear-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-flat-db-rear-fly-start-ecbc5be5.json"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "group_657caa58c6f3408d",
+  "status": "completed-with-failures",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T21:40:07+00:00",
+  "balanceBefore": 2921,
+  "quotedCredits": 100,
+  "members": [
+    {
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "shot": "r12-incline-bb-triceps-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "c204bd495df961059148b1035d9397725c95bcfe6384c0e4bc596a6487b28a7d",
+      "quoteFile": "form-media/ui-quotes/r12-incline-bb-triceps-t2v-53ba87e0.json",
+      "quoteSha256": "57dad4d1876146ad98068fd84701014c4740449f97ce2f39aef248b3c3ff4663",
+      "quoteCredits": 100,
+      "balance": 2921,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_20caa02ec4fe4dba.jpg",
+          "sha256": "3721ae94345d1b40fba16a97e0fb51411780ee390b5429a717b454d5b95fab52"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T21:41:50+00:00",
+  "balanceAfter": 2921,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-d72fb15cdc824923.json",
+  "evidenceSha256": "5e1a0fd7db4e66bca49e7989594a891b384afa797ecec1232c43f7b241547f0b",
+  "terminalFailureIds": [
+    "attempt_60b37a084e0f4828"
+  ]
+}

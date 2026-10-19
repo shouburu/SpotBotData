@@ -1,0 +1,69 @@
+{
+  "id": "group_6565fd1e1b914c99",
+  "status": "billing-reconciled-with-unrecoverable-results",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T01:50:02+00:00",
+  "balanceBefore": 1737,
+  "quotedCredits": 34,
+  "members": [
+    {
+      "exerciseId": "cat_cond_mountain_climber",
+      "shot": "r13-cat_cond_mountain_climber-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "c5ffc338ee94a32621c84250cfbb7cf3d6122441e1f70566fe9283044eebeacc",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_mountain_climber-video-09df9b38.json",
+      "quoteSha256": "e5309622b4da92eb342ab5c2766e49723b98c117b5fc8f01f841a62caaf1c5d0",
+      "quoteCredits": 12,
+      "balance": 1737,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cond_mountain_climber-start/attempt_6540a83a2c854f1c.jpg",
+          "sha256": "19e4afb910d95345d854e976e05cd7015a6452146a3b7a4289bbcf16662f4e64"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_ball_leg_curl_68242a59",
+      "shot": "r13-open_ball_leg_curl_68242a59-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "45ea655b17b6b84023978319bdfdfb31ff4b8b52de1de012beeb8c23380ee89d",
+      "quoteFile": "form-media/ui-quotes/r13-open_ball_leg_curl_68242a59-video-65843294.json",
+      "quoteSha256": "e1d0313029c85f14d40f4e9884d7c4e13ee51a3ebc94a90fe72da16a3af9750d",
+      "quoteCredits": 12,
+      "balance": 1737,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_ball_leg_curl_68242a59-start/attempt_ae5542eb2cf84a0b.jpg",
+          "sha256": "cfd25fe5814c11b361323738363fa7898c2fc4fa276563bfb81d7b911a73e9a2"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_leg_pull_in_5e6cf513",
+      "shot": "r13-open_leg_pull_in_5e6cf513-video",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "65f9c6f39b591a483388f9710a5e2d0985fe01d21ae397a72d531c9a47fad8b9",
+      "quoteFile": "form-media/ui-quotes/r13-open_leg_pull_in_5e6cf513-video-c83e6b10.json",
+      "quoteSha256": "1837612eade61dd5672423ab22ac1fd82d46837aff22bafeee6bfb3e3889e033",
+      "quoteCredits": 10,
+      "balance": 1737,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_leg_pull_in_5e6cf513-start/attempt_cd5c76229576486c.jpg",
+          "sha256": "58e9bd8494a109bf38621ae4a55323a04c73a44233a47ec025738be3a2f47f78"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "manual-known-master-quotes-and-aggregate-balance",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "actualCredits": 24,
+  "balanceAfter": 1713,
+  "settledAt": "2026-10-10T01:58:21+00:00",
+  "evidenceFile": "form-media/ui-quotes/group-6565fd1e1b914c99-manual-reconciliation.json",
+  "evidenceSha256": "c374accb6e623471494100ffe07e3db61842b86d1cd97013759f05e1964be49a",
+  "unknownProviderOutcomeAttemptIds": [
+    "attempt_b3f410ec75124e38"
+  ],
+  "terminalFailureIds": []
+}

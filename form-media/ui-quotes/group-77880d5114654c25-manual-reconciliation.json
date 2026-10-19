@@ -1,0 +1,39 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 1737,
+  "visibleBalanceText": "1,737 Google Flow credits",
+  "observedAt": "2026-10-10T01:45:38.822873+00:00",
+  "outputRecoveryEvidence": {
+    "path": "reports/round-13/source-7788-recovery-diagnosis.json",
+    "sha256": "32b31caf4b02b1edf6f92d10aa2372eac0e763d67ba9b4835ab0d351280d1257"
+  },
+  "groupId": "group_7788102641e64bc4",
+  "reconciliationType": "manual-zero-credit-accounting-with-one-unrecoverable-source",
+  "unknownProviderOutcomes": [
+    {
+      "attemptId": "attempt_e28c5aaedfa14519",
+      "exerciseId": "open_inchworm_0237b925",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_e28c5aaedfa14519/stdout.json",
+        "sha256": "80cda15db8bc9842b981c962cc9eb350f367cd0c18b60ccc08cbe0715936ad17"
+      },
+      "providerOutcome": "unknown",
+      "countedSourceAttempts": 1
+    }
+  ],
+  "successfulPeerMasters": [],
+  "frozenZeroQuoteProofs": [
+    {
+      "attemptId": "attempt_e28c5aaedfa14519",
+      "path": "form-media/ui-quotes/r13-open_inchworm_0237b925-start-2029e496.json",
+      "sha256": "9306d462622cf9a6f4a8bf82ce11fafe4c033660f2937047ed3fc9a321cb1328",
+      "credits": 0
+    }
+  ],
+  "scope": "Billing only: one exact zero-credit quote and unchanged aggregate visible balance. The local parsing/retrieval failure retains an unknown provider outcome; no provider-terminal failure or non-submission is inferred.",
+  "retryPolicy": "The unknown first source attempt remains counted. Source and dependent motion are held without resubmission, even though the four-attempt quality cap is not exhausted. No automatic settlement guard is changed."
+}

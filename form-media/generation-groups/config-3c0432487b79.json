@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-ex_tricep_dip-video",
+      "quoteFile": "form-media/ui-quotes/r13-ex_tricep_dip-video-545220e6.json"
+    },
+    {
+      "shot": "r13-open_ball_leg_curl_68242a59-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_ball_leg_curl_68242a59-video-9e98390d.json"
+    },
+    {
+      "shot": "r13-open_band_hip_adductions_78d2d658-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_hip_adductions_78d2d658-video-6002c284.json"
+    },
+    {
+      "shot": "r13-cat_bal_forward_weight_shift-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_forward_weight_shift-video-e956940e.json"
+    },
+    {
+      "shot": "r13-ex_glute_bridge-video",
+      "quoteFile": "form-media/ui-quotes/r13-ex_glute_bridge-video-a0d0599d.json"
+    },
+    {
+      "shot": "r13-cat_band_triceps-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_triceps-video-fa54e47a.json"
+    }
+  ]
+}

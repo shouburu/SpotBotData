@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-db_spider_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-start-3695396f.json"
+    },
+    {
+      "shot": "r12-ball-crunch-start",
+      "quoteFile": "form-media/ui-quotes/r12-ball-crunch-start-45dd41ab.json"
+    },
+    {
+      "shot": "r12-high_cable_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-high_cable_curl-start-d163103e.json"
+    },
+    {
+      "shot": "r12-incline_cable_triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline_cable_triceps-start-06021cd5.json"
+    },
+    {
+      "shot": "r12-incline-db-lateral-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline-db-lateral-start-92c592be.json"
+    },
+    {
+      "shot": "r12-bb_floor_press-start",
+      "quoteFile": "form-media/ui-quotes/r12-bb_floor_press-start-834f60c8.json"
+    }
+  ]
+}

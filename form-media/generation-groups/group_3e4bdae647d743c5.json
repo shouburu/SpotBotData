@@ -1,0 +1,84 @@
+{
+  "id": "group_3e4bdae647d743c5",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:18:51+00:00",
+  "balanceBefore": 2783,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_cal_dead_bug_legs_only",
+      "shot": "r13-cat_cal_dead_bug_legs_only-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "31a710a4fc8fcaea566f19d2aa4eb5523f92be54cf7328b4d95e3ef34eb292aa",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_dead_bug_legs_only-start-898a6063.json",
+      "quoteSha256": "f56a92581dbe4743553e3bb4242245ccce41916d12a2c2a31831b94d2cb9a589",
+      "quoteCredits": 0,
+      "balance": 2783,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_tabletop_toe_tap",
+      "shot": "r13-cat_pil_tabletop_toe_tap-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "c37f0f50e9cbb3d3cc5aa1684ac42545f28b1ca8a45a32f4703c237ca49b3dda",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_tabletop_toe_tap-start-58f6d6be.json",
+      "quoteSha256": "096f4e26b17f5b315513b4af6cdb8eb417478389fd8582a867111566456895b1",
+      "quoteCredits": 0,
+      "balance": 2783,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_heel_slide",
+      "shot": "r13-cat_pil_heel_slide-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "e973134e82ee1a734cd9a00aecc9a94a9d2c800f925bb25e196dcb039e77f914",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_heel_slide-start-18f57d8b.json",
+      "quoteSha256": "6599cb6cf3ebde7425f64948b32353b4c0019e1b70ceee10dfa88a18f02664e1",
+      "quoteCredits": 0,
+      "balance": 2783,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_bent_knee_fallout",
+      "shot": "r13-cat_pil_bent_knee_fallout-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "ba1aee9dad855eada4fcc1aef6cec949b6d256c2ea34102c3e631c0b88b64913",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_bent_knee_fallout-start-630a497d.json",
+      "quoteSha256": "26d27db377dfd58816e07abf89d15625ec636fb18680b5fa613a0056441fcd07",
+      "quoteCredits": 0,
+      "balance": 2783,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_half_roll_back",
+      "shot": "r13-cat_pil_half_roll_back-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "deddadb7f1ec1fe717bf8b98f45a90b8d53e8f569b9e6cb1bab57f727ae4becf",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_half_roll_back-start-c773e0d5.json",
+      "quoteSha256": "547ce52a5118b84645d8c870fbda5bad9feb964b57f5167ae8877dc2376f1a29",
+      "quoteCredits": 0,
+      "balance": 2783,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_single_leg_kick",
+      "shot": "r13-cat_pil_single_leg_kick-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "49837f17896a2d854463f4bf2450d17cafa2b02de60076369e80293dc4491153",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_single_leg_kick-start-2c13624c.json",
+      "quoteSha256": "de031bf44c810fe94d77fbb65ee2c7e2fec36db6b897226148924a385e9b9399",
+      "quoteCredits": 0,
+      "balance": 2783,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T23:20:11+00:00",
+  "balanceAfter": 2783,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-f78c56b674aa4bfb.json",
+  "evidenceSha256": "5ca211fd2267c5e47b0c5487fc92aa7c3fbffb99ad21b947cbdf48bad9ac4b31",
+  "terminalFailureIds": []
+}

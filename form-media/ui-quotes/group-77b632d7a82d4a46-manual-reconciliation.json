@@ -1,0 +1,100 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 1887,
+  "visibleBalanceText": "1,887 Google Flow credits",
+  "observedAt": "2026-10-10T00:51:21.579363+00:00",
+  "outputRecoveryEvidence": {
+    "path": "reports/round-13/hip-abduction-recovery-diagnosis.json",
+    "sha256": "4f7a3fe5182a1f630e0960833ee10058b28285c4ddf7a9d1ee878599ad17e4ef"
+  },
+  "groupId": "group_77b632d7a82d4a46",
+  "reconciliationType": "manual-zero-credit-accounting-with-one-unrecoverable-source",
+  "unknownProviderOutcomes": [
+    {
+      "attemptId": "attempt_4ebb77912b094b27",
+      "exerciseId": "cat_pil_standing_hip_abduction",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_4ebb77912b094b27/stdout.json",
+        "sha256": "c42e5f9bb30dd81767f16a4a00d5c6ae56700f6d45fa1da0c10368b144cc6f04"
+      },
+      "providerOutcome": "unknown",
+      "countedSourceAttempts": 3
+    }
+  ],
+  "successfulPeerMasters": [
+    {
+      "attemptId": "attempt_4b35d29d75e34327",
+      "exerciseId": "cat_band_squat",
+      "path": "form-media/assets/masters/r13-cat_band_squat-start/attempt_4b35d29d75e34327.jpg",
+      "sha256": "ecb7258a96b956cd5683a933b16fea91d0b9c502a40279ef88697c622b9cf8f6"
+    },
+    {
+      "attemptId": "attempt_ab87c151b0ca4be8",
+      "exerciseId": "cat_pil_seated_heel_raise",
+      "path": "form-media/assets/masters/r13-cat_pil_seated_heel_raise-start/attempt_ab87c151b0ca4be8.jpg",
+      "sha256": "ec759d5769060727995860e88c65fed359e77f56678e48441bf3d4120044d7ae"
+    },
+    {
+      "attemptId": "attempt_bf3b36f4ec3545f1",
+      "exerciseId": "ex_tricep_dip",
+      "path": "form-media/assets/masters/r13-ex_tricep_dip-start/attempt_bf3b36f4ec3545f1.jpg",
+      "sha256": "925f482d06d6ba434698331b3c4045e8303c6f9d0e6902a6d0ce3c542e7393f6"
+    },
+    {
+      "attemptId": "attempt_09c432298e904f2c",
+      "exerciseId": "cat_pil_seated_knee_extension",
+      "path": "form-media/assets/masters/r13-cat_pil_seated_knee_extension-start/attempt_09c432298e904f2c.jpg",
+      "sha256": "19597a19f31199af3f91a6c0f88dae771f993a38c52d6793b755adada588a4f6"
+    },
+    {
+      "attemptId": "attempt_ef6dbce5761344ac",
+      "exerciseId": "cat_band_triceps",
+      "path": "form-media/assets/masters/r13-cat_band_triceps-start/attempt_ef6dbce5761344ac.jpg",
+      "sha256": "75097b1dbeab02a7e13664fb0613531c939cad10cbbd2deffc24cf66dbc6dd4d"
+    }
+  ],
+  "frozenZeroQuoteProofs": [
+    {
+      "attemptId": "attempt_4b35d29d75e34327",
+      "path": "form-media/ui-quotes/r13-cat_band_squat-start-ba15e090.json",
+      "sha256": "28a52dfd9d8915c4e4116b2d39df35c4d270f0de28b2ea3cf0540ab73bfe1a77",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_ab87c151b0ca4be8",
+      "path": "form-media/ui-quotes/r13-cat_pil_seated_heel_raise-start-0350bfb5.json",
+      "sha256": "755d5b39fad897cb8face8645f6c4a401667ccdb619452481b909068d620e82d",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_4ebb77912b094b27",
+      "path": "form-media/ui-quotes/r13-cat_pil_standing_hip_abduction-start-cd6ad6f6.json",
+      "sha256": "f227c401657e4b10680d52ce51b956dd09650ee9f19d39839cc64b547f1edff9",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_bf3b36f4ec3545f1",
+      "path": "form-media/ui-quotes/r13-ex_tricep_dip-start-89386d02.json",
+      "sha256": "01c67a285047f82d6d8e4ead73be06afad5b196a585be58e3d1e338b03e854a8",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_09c432298e904f2c",
+      "path": "form-media/ui-quotes/r13-cat_pil_seated_knee_extension-start-d75e8a45.json",
+      "sha256": "d6931883a4f7a9c5e9f3518f6e615f93e8151ae4b5d297b0ec0d2f6106f69004",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_ef6dbce5761344ac",
+      "path": "form-media/ui-quotes/r13-cat_band_triceps-start-da9d5fc2.json",
+      "sha256": "849345a14b8e59601b522427e0a06b65bf5179b2d1b6eb57c7654727127c4407",
+      "credits": 0
+    }
+  ],
+  "scope": "Billing only: six exact zero-credit quotes and unchanged aggregate visible balance. Five exact downloaded masters may complete. One local parsing/retrieval failure retains an unknown provider outcome; no provider-terminal failure or non-submission is inferred.",
+  "retryPolicy": "The unknown third source attempt remain counted. Source and dependent motion are held without resubmission, even though the four-attempt quality cap is not exhausted. No automatic settlement guard is changed."
+}

@@ -26,10 +26,10 @@
         <div class="catalog-controls">
           <div class="catalog-heading"><h2>Exercises</h2><span id="result-count" class="subtle"></span></div>
           <label class="search-field"><span class="sr-only">Search exercises, equipment, or muscles</span><svg viewBox="0 0 24 24" width="19" height="19" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4 4"/></svg><input type="search" id="search" placeholder="Search exercises" autocomplete="off"></label>
-          <div class="scope-control" role="group" aria-label="Exercise scope"><button id="scope-pilot" type="button" aria-pressed="true">Pilot sample</button><button id="scope-all" type="button" aria-pressed="false">All exercises</button></div>
+          <div class="scope-control" role="group" aria-label="Exercise scope"><button id="scope-pilot" type="button" aria-pressed="true">Current review queue</button><button id="scope-all" type="button" aria-pressed="false">All exercises</button></div>
           <button id="show-needs-review" type="button" class="button secondary">Show media needing review</button>
+          <label class="form-field">Review or generation round<select id="filter-generated-round"><option value="">All rounds</option></select></label>
           <details class="filter-details"><summary>Filters <span id="active-filter-count"></span></summary><div class="filter-grid">
-            <label>Generated in<select id="filter-generated-round"><option value="">All generation rounds</option></select></label>
             <label>Activity<select id="filter-activity"><option value="">All activities</option></select></label>
             <label>Format<select id="filter-format"><option value="">All formats</option></select></label>
             <label>Review status<select id="filter-status"><option value="">All statuses</option><option value="pending">Pending</option><option value="needs-review">Needs review</option><option value="accepted">Accepted</option><option value="rejected">Rejected</option></select></label>

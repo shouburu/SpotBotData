@@ -1,0 +1,1759 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-13",
+  "reviews": [
+    {
+      "assetId": "r13-cat_cal_wall_pushup-start-f08b6679",
+      "attemptId": "attempt_f08b6679c6b64030",
+      "exerciseId": "cat_cal_wall_pushup",
+      "shot": "r13-cat_cal_wall_pushup-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_wall_pushup-start/attempt_f08b6679c6b64030.jpg",
+      "outputSha256": "b15489efdcdfc76cd989dd8916415a85f8e0836b5f7a6459066aae592a709523",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:45:40.202724+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The straight leaning head-to-heel line, straight arms, two palm-wall contacts and whole planted feet are visible; pectoral orange and exposed silver-gray fibers are usable.",
+        "Large gray photographic backdrop slabs, the left support stand and a dark studio edge replace the required clean white background. Only the actual exercise wall is needed."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_wall_pushup-start/attempt_f08b6679c6b64030.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_kneeling_pushup-start-1b8e1b1c",
+      "attemptId": "attempt_1b8e1b1ccf2346c6",
+      "exerciseId": "cat_cal_kneeling_pushup",
+      "shot": "r13-cat_cal_kneeling_pushup-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_kneeling_pushup-start/attempt_1b8e1b1ccf2346c6.jpg",
+      "outputSha256": "7a30d4bb5d89122af355e935b1b50fe1c3b972d24c0276feabeea63247617210",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:45:40.202724+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both hands and both knees support the correct straight-arm head-to-knee diagonal; chest-orange stays attached to pectoral fibers.",
+        "Three photography lighting tripods are visible behind the body and the hand area has a rectangular white insert; this violates the clean empty background."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_kneeling_pushup-start/attempt_1b8e1b1ccf2346c6.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_split_squat-start-cf70944d",
+      "attemptId": "attempt_cf70944dfee54668",
+      "exerciseId": "cat_cal_split_squat",
+      "shot": "r13-cat_cal_split_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_split_squat-start/attempt_cf70944dfee54668.jpg",
+      "outputSha256": "30c7b8939ffee3a7e362afc540a47ea839f66b46b33d4475328a5ebd9bb98fb9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:45:40.202724+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both foot contacts are visible in a stable staggered stance, but the front knee is already substantially bent and the rear knee remains almost extended.",
+        "Orange extends down the rear/posterior exposed thigh rather than being confined to the requested quadriceps.",
+        "Gray backdrop panels and unrelated studio objects occupy the background."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_split_squat-start/attempt_cf70944dfee54668.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_crunch-start-959a68be",
+      "attemptId": "attempt_959a68be7efb41ba",
+      "exerciseId": "ex_crunch",
+      "shot": "r13-ex_crunch-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-ex_crunch-start/attempt_959a68be7efb41ba.jpg",
+      "outputSha256": "301be8adb39fe9ac773e3b034e1d710890fb64f2424672dd25103d3db137c490",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:45:40.202724+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The head, shoulders and pelvis are supported at the floor; bent knees, whole planted feet, light head-side hand placement and attached abdominal fibers are visible.",
+        "Large gray studio backdrop panels and frame bases occupy the background behind the knees."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-ex_crunch-start/attempt_959a68be7efb41ba.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_bicycle_crunch-start-76b56041",
+      "attemptId": "attempt_76b56041b0404b7b",
+      "exerciseId": "ex_bicycle_crunch",
+      "shot": "r13-ex_bicycle_crunch-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-ex_bicycle_crunch-start/attempt_76b56041b0404b7b.jpg",
+      "outputSha256": "0e6264afde28077aeb763340e074e39844dd128f15b897d040a9b768a42ba55a",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:45:40.202724+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "One shin is elevated approximately horizontally while the other leg is partly extended; the source is not the requested symmetric centered tabletop. The shoulder region remains close to its floor-supported position.",
+        "Photography lighting stands and panels flank both sides of the body.",
+        "Actual exposed abdominal orange, charcoal shorts and silver-gray fibers are well defined."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-ex_bicycle_crunch-start/attempt_76b56041b0404b7b.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_russian_twist-start-9e68d1f8",
+      "attemptId": "attempt_9e68d1f86b784f43",
+      "exerciseId": "ex_russian_twist",
+      "shot": "r13-ex_russian_twist-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-ex_russian_twist-start/attempt_9e68d1f86b784f43.jpg",
+      "outputSha256": "829209e3204f9f52db71e53296f9dafcd0a7c2d127a01c6a44ded380a77f2710",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:45:40.202724+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The seated start has both heels on the floor, bent knees, a long slightly reclined spine and both hands together; abdominal-orange stays on actual exposed fibers.",
+        "The background includes a lighting stand, suspended panel, backdrop slabs and a loose floor cable."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-ex_russian_twist-start/attempt_9e68d1f86b784f43.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_bodyweight_squat-start-f4e40f5c",
+      "attemptId": "attempt_f4e40f5c5dc244cb",
+      "exerciseId": "cat_cal_bodyweight_squat",
+      "shot": "r13-cat_cal_bodyweight_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_bodyweight_squat-start/attempt_f4e40f5c5dc244cb.jpg",
+      "outputSha256": "702de3d4e2ea79c757a01f0282a9bba786a9d4d0e3aed34c4fcd8f55128eb048",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:47:43.408253+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Upright whole-body setup, flat comfortable-width feet, arms forward and bounded orange quadriceps are visible.",
+        "Photography stands and a curved paper-backdrop edge remain visible at both image sides."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_bodyweight_squat-start/attempt_f4e40f5c5dc244cb.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_chair_squat-start-dd52123f",
+      "attemptId": "attempt_dd52123f92334e17",
+      "exerciseId": "cat_cal_chair_squat",
+      "shot": "r13-cat_cal_chair_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_chair_squat-start/attempt_dd52123f92334e17.jpg",
+      "outputSha256": "a1a2f651f4459d6a360d33f428191daee159f8510cd28e6002feee5be17faa5f",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:47:43.408253+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Pelvis contacts a stable four-legged gray chair; both heels/feet are planted and hands rest lightly on the thighs.",
+        "The hanging backdrop stops across the scene at seat height, exposing gray photographic panels and tripod legs below it."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_chair_squat-start/attempt_dd52123f92334e17.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_curl-start-91a91cdb",
+      "attemptId": "attempt_91a91cdb55f14e4d",
+      "exerciseId": "cat_band_curl",
+      "shot": "r13-cat_band_curl-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_curl-start/attempt_91a91cdb55f14e4d.jpg",
+      "outputSha256": "48b7456fc5f39df1c1bb5aa547f7359f81bf3dcfc504be684170f70b7ba4d007",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:47:43.408253+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both low closed hand grips, long arms, neutral wrists and two tensioned branches of one under-foot band are visible; upper-arm biceps orange is bounded.",
+        "Unrelated gray exercise machines and blocks appear behind both sides of the person."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_curl-start/attempt_91a91cdb55f14e4d.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_triceps-start-a907d38f",
+      "attemptId": "attempt_a907d38f62774229",
+      "exerciseId": "cat_band_triceps",
+      "shot": "r13-cat_band_triceps-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_triceps-start/attempt_a907d38f62774229.jpg",
+      "outputSha256": "76e8b65939610a611eb06fc1f2d8a6d7eae5e435c7ea1309bac655b1f8359c8c",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:47:43.408253+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "A visible high anchor connects by two band branches to separate closed hand grips; bent elbows and both whole feet are visible.",
+        "Orange covers the anterior biceps-like upper-arm spindle as well as posterior tissue, rather than only the requested triceps.",
+        "The large gray floor area breaks the requested white environment."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_triceps-start/attempt_a907d38f62774229.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_squat-start-6a3b3101",
+      "attemptId": "attempt_6a3b3101e1874c25",
+      "exerciseId": "cat_band_squat",
+      "shot": "r13-cat_band_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_squat-start/attempt_6a3b3101e1874c25.jpg",
+      "outputSha256": "fca202a907a9e44fe21518e7fb69d3fd217ddc24cc7ae7c1e47288ac1d4e7bca",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:47:43.408253+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Whole planted feet, a continuous under-foot band with two shoulder-hand branches and bounded quadriceps-orange are visible.",
+        "An open backdrop gap exposes photographic/gym panels and poles behind the head and shoulders."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_squat-start/attempt_6a3b3101e1874c25.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_ohead_press-start-688a5611",
+      "attemptId": "attempt_688a561104274e59",
+      "exerciseId": "cat_band_ohead_press",
+      "shot": "r13-cat_band_ohead_press-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_ohead_press-start/attempt_688a561104274e59.jpg",
+      "outputSha256": "66434277b490519855f2b7144a2876637ffa12574240e83aa677409a46c698d6",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T22:47:43.408253+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The intended deltoid-orange and readable fibers are visible, but the grips sit forward at chest level with a narrow uneven arm arrangement rather than a clearly prepared matching shoulder rack.",
+        "Lighting stands, gray backdrop pieces and a wall-mounted fixture remain in the background."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; a still does not establish correct motion.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_ohead_press-start/attempt_688a561104274e59.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_reverse_crunch_533db487-start-b614c15d",
+      "attemptId": "attempt_b614c15db49c4e17",
+      "exerciseId": "open_reverse_crunch_533db487",
+      "shot": "r13-open_reverse_crunch_533db487-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_reverse_crunch_533db487-start/attempt_b614c15db49c4e17.jpg",
+      "outputSha256": "592a8040f2068dbab469126a91e4f0412372d6c67e15f4f65cc7fdf2dbc1b90c",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:06:41.867871+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both hips/knees are prepared near right angles, both whole feet raised, arms beside the torso and head/upper back supported. Pelvis begins at the floor.",
+        "Attached abdominal-orange fibers, readable silver-gray fibers, opaque shorts and the empty white environment match the style; the small pelvic-curl envelope fits."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. A starting still does not establish correct video motion.",
+        "AI source review only; actual video and human acceptance remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_reverse_crunch_533db487-start/attempt_b614c15db49c4e17.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_alternate_heel_touche_0718c1bb-start-ecca132a",
+      "attemptId": "attempt_ecca132adbc2435f",
+      "exerciseId": "open_alternate_heel_touche_0718c1bb",
+      "shot": "r13-open_alternate_heel_touche_0718c1bb-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_alternate_heel_touche_0718c1bb-start/attempt_ecca132adbc2435f.jpg",
+      "outputSha256": "296fd6472434996eb36d5128c03c4db9873752dde6a44535f44db924aee5d433",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:06:41.867871+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both whole feet are grounded apart with bent knees; lower back/pelvis are supported and the shoulders are already curled gently above the floor.",
+        "Both arms begin beside the body, the near hand and its heel are separately visible; abdominal-orange stays attached to exposed fibers and the whole side-reach envelope has margin.",
+        "Opaque shorts, readable gray fibers and clean white background are present."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. A starting still does not establish correct video motion.",
+        "AI source review only; actual video and human acceptance remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_alternate_heel_touche_0718c1bb-start/attempt_ecca132adbc2435f.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_romanian_deadlift-start-4b1bf949",
+      "attemptId": "attempt_4b1bf949be284925",
+      "exerciseId": "cat_band_romanian_deadlift",
+      "shot": "r13-cat_band_romanian_deadlift-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_romanian_deadlift-start/attempt_4b1bf949be284925.jpg",
+      "outputSha256": "778affcce01c39cddab91bdddf2c4f64bffa87cddc1524eb33357eb53db6d90c",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:06:41.867871+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Upright source, softly bent knees, both closed low grips and both whole feet pinning a continuous under-foot band are visible. Each branch connects to its matching hand.",
+        "The rear-side view exposes bounded hamstring-orange fibers below opaque shorts, with the rest of the exposed body in readable silver-gray fibers.",
+        "The empty white frame has ample horizontal room for a hip hinge, and both foot contacts remain clear."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. A starting still does not establish correct video motion.",
+        "AI source review only; actual video and human acceptance remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_romanian_deadlift-start/attempt_4b1bf949be284925.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_pull_apart-start-1d188a96",
+      "attemptId": "attempt_1d188a96b6fb453e",
+      "exerciseId": "cat_band_pull_apart",
+      "shot": "r13-cat_band_pull_apart-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_pull_apart-start/attempt_1d188a96b6fb453e.jpg",
+      "outputSha256": "d56c96d81afeec0b66d54c81a0c6013e17f32a87cb4649904a47f51293f99861",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:06:41.867871+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The narrow front-of-chest band setup and two long arms are visible, with adequate whole arm-span margins and no photography props.",
+        "A large orange patch covers the near rear deltoid cap and a smaller far shoulder patch, outside the requested upper-back map. Deltoid caps must remain gray."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. A starting still does not establish correct video motion.",
+        "AI source review only; actual video and human acceptance remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_pull_apart-start/attempt_1d188a96b6fb453e.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_row-start-4f5ad395",
+      "attemptId": "attempt_4f5ad3950c1643f7",
+      "exerciseId": "cat_band_row",
+      "shot": "r13-cat_band_row-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_row-start/attempt_4f5ad3950c1643f7.jpg",
+      "outputSha256": "bad69343e0394e0034e845d3f48c7a8203a8d0ac1f7bd74692defe14ff57bda5",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:06:41.867871+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The empty white background and readable body fibers improve the first render style.",
+        "The anchor ring is below the chest at approximately abdominal height; the far arm is already bent rather than both arms being extended.",
+        "Orange covers the deltoid shoulder caps outside the upper-back primary map, and the dark shorts visibly reveal/imitate underlying buttock fibers instead of a uniformly opaque cover."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. A starting still does not establish correct video motion.",
+        "AI source review only; actual video and human acceptance remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_row-start/attempt_4f5ad3950c1643f7.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_chest_press-start-27a3a05f",
+      "attemptId": "attempt_27a3a05fa6244cb1",
+      "exerciseId": "cat_band_chest_press",
+      "shot": "r13-cat_band_chest_press-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_chest_press-start/attempt_27a3a05fa6244cb1.jpg",
+      "outputSha256": "30e58519f458fd52dec5f0453db0dde3126e4d64e2078cf1682996105f43ade9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:06:41.867871+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The pectoral-orange, opaque charcoal shorts, readable gray fibers and empty white background are present.",
+        "The source anchor sits substantially below the chest and the palm-up grips are forward at abdomen level in a curl-like arrangement, rather than beside the chest in a prepared press rack."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. A starting still does not establish correct video motion.",
+        "AI source review only; actual video and human acceptance remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_chest_press-start/attempt_27a3a05fa6244cb1.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_lateral_raise-start-10f2b851",
+      "attemptId": "attempt_10f2b85163784e8d",
+      "exerciseId": "cat_band_lateral_raise",
+      "shot": "r13-cat_band_lateral_raise-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_lateral_raise-start/attempt_10f2b85163784e8d.jpg",
+      "outputSha256": "0197ca81b8f613d4bf81d7a6a41dc97dbfea16986faacaa73114f3c79ab9abf6",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:09:18.468573+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both whole feet pin the continuous band; each low closed hand grip retains a visible uninterrupted branch and the arms begin long beside the body.",
+        "Orange is bounded on the actual deltoid caps; other exposed fibers remain gray, shorts opaque and background empty white.",
+        "The wide landscape composition provides enough white margin for both complete hands and the lateral raise envelope."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; motion mechanics and band clearance require actual delivered-video review.",
+        "AI source review only; actual video and human acceptance remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_lateral_raise-start/attempt_10f2b85163784e8d.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_pallof_press-start-377f5a48",
+      "attemptId": "attempt_377f5a48b4034327",
+      "exerciseId": "cat_band_pallof_press",
+      "shot": "r13-cat_band_pallof_press-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_pallof_press-start/attempt_377f5a48b4034327.jpg",
+      "outputSha256": "457304924706b60fbfe514f34dfaaca64425d2dd63094fd2412d9bc82d90e487",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:09:18.468573+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual source is the fully extended Pallof endpoint rather than the initially requested chest-held preparation. Both hands share a secure front grip while the body faces forward and the anchor is lateral.",
+        "Both feet are grounded, abdominal/oblique-orange is attached to actual exposed fibers, shorts are opaque, and white side margin accommodates the press path.",
+        "The visible lateral band branches connect the fixed gray wall/column ring to the joined grips. Their frontal overlap with the arms is perspective projection; the still alone does not establish later band-body clearance."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; motion mechanics and band clearance require actual delivered-video review.",
+        "AI source review only; actual video and human acceptance remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_pallof_press-start/attempt_377f5a48b4034327.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_one_arm_kettlebell_ro_f1152bb2-start-9d1aaf49",
+      "attemptId": "attempt_9d1aaf4991374abb",
+      "exerciseId": "open_one_arm_kettlebell_ro_f1152bb2",
+      "shot": "r13-open_one_arm_kettlebell_ro_f1152bb2-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_one_arm_kettlebell_ro_f1152bb2-start/attempt_9d1aaf4991374abb.jpg",
+      "outputSha256": "211bcd3ab511330ff20c2f17d00e61f9ea045ced1327dadff43e5703bf606cd1",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:09:18.468573+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The whole feet, closed kettlebell handle grip and extended working arm are visible in a clean white rear-side view.",
+        "Orange covers large posterior deltoid caps and the upper neck/trapezius region, outside the requested middle-back map.",
+        "Both knees are substantially flexed in a low crouched preparation rather than the intended soft-knee steady hinge."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; no motion readiness is inferred.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_one_arm_kettlebell_ro_f1152bb2-start/attempt_9d1aaf4991374abb.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_goblet_squat_b5c618ef-start-b65e38dd",
+      "attemptId": "attempt_b65e38dd89a2424b",
+      "exerciseId": "open_goblet_squat_b5c618ef",
+      "shot": "r13-open_goblet_squat_b5c618ef-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_goblet_squat_b5c618ef-start/attempt_b65e38dd89a2424b.jpg",
+      "outputSha256": "c606b723c99c165629fad0e543e78af19033ea397717744add7f3e0ee90498de",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:10:54.825188+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Both closed hands grip the actual kettlebell horns with the single bell close in front of the chest; wrists and elbows form a stable symmetric hold.",
+        "Whole comfortable-width feet, upright trunk and full working margins are visible. The anterior-quadriceps orange stays bounded above the knees, shorts opaque and other readable fibers gray.",
+        "The white environment is clean; the bell has blank dark-gray cast faces with no textual branding."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; actual motion is still pending review.",
+        "AI source review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_goblet_squat_b5c618ef-start/attempt_b65e38dd89a2424b.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_two_arm_kettlebell_mi_01904129-start-2c95fb0a",
+      "attemptId": "attempt_2c95fb0ad35244bb",
+      "exerciseId": "open_two_arm_kettlebell_mi_01904129",
+      "shot": "r13-open_two_arm_kettlebell_mi_01904129-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_two_arm_kettlebell_mi_01904129-start/attempt_2c95fb0ad35244bb.jpg",
+      "outputSha256": "0bfb0fce827923e7c850e5a9e02b501b69c8bc8767bd0c6382c479217ec7e998",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:10:54.825188+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exactly two gray kettlebells are securely held at the shoulders in prepared closed palm-in grips; each bell sits outside its matching forearm and both feet are grounded.",
+        "Both actual deltoid caps have bounded attached orange; all other exposed fibers remain readable gray and shorts opaque.",
+        "The figure sits low in the portrait with substantial white headroom for the complete two-arm overhead endpoint. This is the prepared rack after setup, not an unreviewed clean."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; actual motion is still pending review.",
+        "AI source review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_two_arm_kettlebell_mi_01904129-start/attempt_2c95fb0ad35244bb.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_one_arm_kettlebell_pa_10f1ec7a-start-572c8959",
+      "attemptId": "attempt_572c8959b29e4902",
+      "exerciseId": "open_one_arm_kettlebell_pa_10f1ec7a",
+      "shot": "r13-open_one_arm_kettlebell_pa_10f1ec7a-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_one_arm_kettlebell_pa_10f1ec7a-start/attempt_572c8959b29e4902.jpg",
+      "outputSha256": "1007f41673c3a7fc586ad64205565f2242f7f6375ffff2fddd1d7f8dc740aeb5",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:10:54.825188+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The IMAGE LEFT arm holds the actual kettlebell in a stable shoulder rack, with a neutral closed grip and enough portrait overhead room.",
+        "The loaded IMAGE LEFT deltoid is gray while the idle IMAGE RIGHT deltoid is orange. This reverses the requested working-arm primary cue.",
+        "Fiber treatment, opaque shorts and empty white background are otherwise usable."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected; no animation readiness is claimed until the actual cue correction is reviewed.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_one_arm_kettlebell_pa_10f1ec7a-start/attempt_572c8959b29e4902.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_wall_pushup-start-a41182b3",
+      "attemptId": "attempt_a41182b324ca42b8",
+      "exerciseId": "cat_cal_wall_pushup",
+      "shot": "r13-cat_cal_wall_pushup-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_wall_pushup-start/attempt_a41182b324ca42b8.jpg",
+      "outputSha256": "8bd4b2ff514fa65b3b8fab40297c0bc0ea645c9e535c440e9c14dd31b23415c3",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Corrected exact source retains the functional image-right gray wall and removes photographic apparatus. Both palms contact it at shoulder height; arms are long, feet planted far enough back, and the body holds a long supported head-to-heel line.",
+        "Attached orange stays on actual exposed pectoral fibers, other anatomy gray and readable, shorts opaque. Whole head, feet, palms and the chest-to-wall lowering envelope are visible."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_wall_pushup-start/attempt_a41182b324ca42b8.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_crunch-start-8cc79dc4",
+      "attemptId": "attempt_8cc79dc470dc41d8",
+      "exerciseId": "ex_crunch",
+      "shot": "r13-ex_crunch-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-ex_crunch-start/attempt_8cc79dc470dc41d8.jpg",
+      "outputSha256": "1d2233413ab31504d1f7eb404d45523db1207d5615668e4e078aeacf531fd7f9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected source removes background panels while preserving both flat feet, bent knees and supported head/back/pelvis. Hands lightly support beside/behind the head with elbows relaxed outward; the prepared torso is centered.",
+        "Actual rectus-abdominis/oblique fibers are orange, chest and thighs gray, shorts opaque. Whole body and the modest shoulder-blade curl envelope fit."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-ex_crunch-start/attempt_8cc79dc470dc41d8.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_russian_twist-start-45b5fad1",
+      "attemptId": "attempt_45b5fad1e7564269",
+      "exerciseId": "ex_russian_twist",
+      "shot": "r13-ex_russian_twist-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-ex_russian_twist-start/attempt_45b5fad1e7564269.jpg",
+      "outputSha256": "daafef7a0fe846da41887bf17d3fdace4c2119ec29021966e68d5038e12c94c8",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Corrected source is a centered seated preparation with knees bent, both heels grounded, long spine slightly leaned back and hands clasped ahead of the chest. Photographic stands/panels are gone.",
+        "Actual abdominal-orange is bounded to exposed rectus/oblique fibers. Both heel contacts, head and hands fit a small torso-rotation envelope."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-ex_russian_twist-start/attempt_45b5fad1e7564269.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_kneeling_pushup-start-050099e9",
+      "attemptId": "attempt_050099e9ac4f438f",
+      "exerciseId": "cat_cal_kneeling_pushup",
+      "shot": "r13-cat_cal_kneeling_pushup-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_kneeling_pushup-start/attempt_050099e9ac4f438f.jpg",
+      "outputSha256": "0a876eeb5068f75379f76160d258fa0170f18f5e9c1743554217e6abbf0299a3",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected empty source has both palms on the floor beneath the shoulders and both knees visibly supported. Extended arms and a long trunk/knee preparation are retained without photo stands or floor inserts.",
+        "Pectoral-orange stays on the chest; gray arms/legs retain readable anatomical fibers and shorts remain opaque. Whole figure, palms and knee support fit the lowering envelope."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_kneeling_pushup-start/attempt_050099e9ac4f438f.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_ohead_press-start-19d3c9ca",
+      "attemptId": "attempt_19d3c9caeede4c82",
+      "exerciseId": "cat_band_ohead_press",
+      "shot": "r13-cat_band_ohead_press-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_ohead_press-start/attempt_19d3c9caeede4c82.jpg",
+      "outputSha256": "dc00a48bd2fabf4d92580936a3b3c7fb19ddc69d8983b28f405a401ee47fe808",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Fresh corrected source presents two matched closed grips near shoulder height, elbows bent beside the body, neutral tall trunk and whole feet planted on one continuous band. Large genuine portrait overhead margin is available.",
+        "Orange is bounded to actual deltoid fibers. Other anatomical fibers stay gray and readable, shorts opaque; no photographic or unrelated apparatus remains."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_ohead_press-start/attempt_19d3c9caeede4c82.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_bodyweight_squat-start-2698129f",
+      "attemptId": "attempt_2698129fa5a3487e",
+      "exerciseId": "cat_cal_bodyweight_squat",
+      "shot": "r13-cat_cal_bodyweight_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_bodyweight_squat-start/attempt_2698129fa5a3487e.jpg",
+      "outputSha256": "83fd3b245994c3354dd3a29bbba3daa5eb98bd5b7c402883a6761aa07fe19509",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Corrected source removes photo equipment and preserves an upright whole-foot stance with softly unlocked knees and arms extended forward. All body parts fit the portrait canvas.",
+        "Actual anterior quadriceps are orange below opaque shorts, with gray shoulders/torso/calves and readable anatomical fiber surfaces. Comfortable squat lowering room is clear."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_bodyweight_squat-start/attempt_2698129fa5a3487e.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_chair_squat-start-8f4c1c46",
+      "attemptId": "attempt_8f4c1c4659724105",
+      "exerciseId": "cat_cal_chair_squat",
+      "shot": "r13-cat_cal_chair_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_chair_squat-start/attempt_8f4c1c4659724105.jpg",
+      "outputSha256": "3c03d0a943620af29c375d524b85413c9ad809e9f731e5213334f8960cc41624",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Corrected actual source has pelvis supported on one stable non-rolling four-leg chair, both whole feet grounded slightly behind the knee line and hands on thighs for permitted light assistance. Headroom now accommodates standing.",
+        "Attached anterior quadriceps-orange is visible; all other anatomy is gray and readable, shorts opaque, and the empty white floor has no backdrop equipment."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_chair_squat-start/attempt_8f4c1c4659724105.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_triceps-start-83698f9f",
+      "attemptId": "attempt_83698f9f302c4220",
+      "exerciseId": "cat_band_triceps",
+      "shot": "r13-cat_band_triceps-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_triceps-start/attempt_83698f9f302c4220.jpg",
+      "outputSha256": "f1594ef53d04b5b38a745a63f6ff3a4476e578049a9e75bad052016e0c3ae72d",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Corrected source restores the anterior biceps to gray while retaining orange only on the visible posterior triceps fibers; far-side occluded tissue is not guessed. Both closed hands hold ends of the continuous high-anchored band.",
+        "Elbows are bent beside ribs, torso tall, whole feet planted. The functional high post/tie, blank gray apparatus and full press-down envelope are visible on empty white with readable anatomy."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_triceps-start/attempt_83698f9f302c4220.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_curl-start-83d43d06",
+      "attemptId": "attempt_83d43d06023f4724",
+      "exerciseId": "cat_band_curl",
+      "shot": "r13-cat_band_curl-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_curl-start/attempt_83d43d06023f4724.jpg",
+      "outputSha256": "8aad7f4bb22089335c9bebbf3663095ee901de21dd22fb28934b4e3190aa6930",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Corrected frontal source has two actual closed palms-forward grips, long arms and one continuous band under both planted feet, with no unrelated gray machines.",
+        "Orange stays on exposed anterior biceps fibers, deltoids/forearms/torso gray and readable, shorts opaque. Hands, elbows and curl envelope remain visible."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_curl-start/attempt_83d43d06023f4724.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_bicycle_crunch-start-ad2d2c05",
+      "attemptId": "attempt_ad2d2c054f9142ef",
+      "exerciseId": "ex_bicycle_crunch",
+      "shot": "r13-ex_bicycle_crunch-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-ex_bicycle_crunch-start/attempt_ad2d2c054f9142ef.jpg",
+      "outputSha256": "0e7009bfececa195ec10a4e54e57e356b409b755100b3aea562ba9054e6bdf79",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Fresh corrected master establishes a centered bent-knee tabletop and lifted-shoulder preparation with bounded abdominal-orange on empty white.",
+        "However the feet have become an opaque black sock-like mass rather than the exposed gray anatomical feet required by the style; the overlapping feet are not individually readable. Targeted foot-material/separation correction is required before motion."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-ex_bicycle_crunch-start/attempt_ad2d2c054f9142ef.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_split_squat-start-0f85bafb",
+      "attemptId": "attempt_0f85bafb42d843d0",
+      "exerciseId": "cat_cal_split_squat",
+      "shot": "r13-cat_cal_split_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_split_squat-start/attempt_0f85bafb42d843d0.jpg",
+      "outputSha256": "b8e7d7f45380525e6bfab5dc63bd28ad2ed5f640889a74e272b21bbccf64fb4e",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second source still crops the entire head and shoulder tops, so the full straight-down body envelope is not established.",
+        "It also retains orange on a visible posterior rear-thigh muscle rather than limiting primary cues to actual anterior quadriceps. Whole feet and staggered stance otherwise exist. A self-contained fresh framing/cue reset is required before motion."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_split_squat-start/attempt_0f85bafb42d843d0.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_squat-start-54b34b77",
+      "attemptId": "attempt_54b34b776a804912",
+      "exerciseId": "cat_band_squat",
+      "shot": "r13-cat_band_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_squat-start/attempt_54b34b776a804912.jpg",
+      "outputSha256": "9f6f7e8ea5e34be65c3dcc782c6009e48e79fe5a7c27068c0cd5a5f1b88619ff",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:37:15.452730+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The corrected source removes background hardware and retains continuous under-foot band, shoulder rack, planted feet and proper anterior quadriceps-orange.",
+        "At least the image-right hand is open with extended fingers while the flat band passes at the palm/wrist instead of a closed finger/thumb grip. Targeted closed-grip refinement is required; do not animate an ambiguous open loaded hold."
+      ],
+      "limitations": [
+        "Actual settled full-resolution starting master inspected. A still image does not prove correct motion; pose-specific I2V and actual dense delivered-output review remain required.",
+        "AI editorial source screening only; human selection and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_squat-start/attempt_54b34b776a804912.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_one_arm_kettlebell_ro_f1152bb2-start-f584010f",
+      "attemptId": "attempt_f584010feaaa4e97",
+      "exerciseId": "open_one_arm_kettlebell_ro_f1152bb2",
+      "shot": "r13-open_one_arm_kettlebell_ro_f1152bb2-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_one_arm_kettlebell_ro_f1152bb2-start/attempt_f584010feaaa4e97.jpg",
+      "outputSha256": "6e8ca1d54b2d0e88b047c2fdeb0a53dbedfe8387d4021893cce88010f21bc57d",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:39:49.035381+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second source has a usable one-hand closed bell hang, steady hinged trunk, grounded feet and gray opaque shorts on clean white.",
+        "However orange still covers both posterior shoulder caps and upper descending trapezius toward the neck, outside the catalog middle-back primary region. Apply a targeted exact-source anatomical material correction; do not animate these incorrect cues."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Actual pose-specific motion and dense delivered-output review still required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_one_arm_kettlebell_ro_f1152bb2-start/attempt_f584010feaaa4e97.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_chest_press-start-2c8a0be7",
+      "attemptId": "attempt_2c8a0be75b664100",
+      "exerciseId": "cat_band_chest_press",
+      "shot": "r13-cat_band_chest_press-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_chest_press-start/attempt_2c8a0be75b664100.jpg",
+      "outputSha256": "22d31600a012f011496dae145ef922bc4e1c53cd0aed9c423ef29267ef63e30c",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:39:49.035381+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Stable staggered feet, closed real handles, readable gray body and bounded pectoral-orange are visible.",
+        "But the band anchor and grips remain around upper abdomen rather than chest height/beside chest, and the band itself is orange-brown instead of blank gray. The next exact-source edit must raise the ring/held press rack to actual mid-pectorals and make all equipment gray."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Actual pose-specific motion and dense delivered-output review still required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_chest_press-start/attempt_2c8a0be75b664100.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_row-start-80a4c487",
+      "attemptId": "attempt_80a4c48726bb4ff9",
+      "exerciseId": "cat_band_row",
+      "shot": "r13-cat_band_row-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_row-start/attempt_80a4c48726bb4ff9.jpg",
+      "outputSha256": "17643e05f39d382cf1769e3332002d4486e981956fc233f12723d614e9856177",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:39:49.035381+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fresh source fixes chest-height anchor and both extended arms, with two closed handle grips, grounded softly unlocked stance and opaque shorts.",
+        "Attached upper-back trapezius fibers are valid primary-orange, but both posterior shoulder caps are also orange. The deltoid caps must be restored gray while preserving true upper-back orange and the good rig."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Actual pose-specific motion and dense delivered-output review still required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_row-start/attempt_80a4c48726bb4ff9.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_pull_apart-start-14a8174d",
+      "attemptId": "attempt_14a8174d2b1d4347",
+      "exerciseId": "cat_band_pull_apart",
+      "shot": "r13-cat_band_pull_apart-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_pull_apart-start/attempt_14a8174d2b1d4347.jpg",
+      "outputSha256": "409c904715b7f47d5b604fc602d6417b211a4d51aa38e32af5c39bbf7850e3c9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:39:49.035381+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected exact source restores both shoulder caps gray while retaining actual bounded upper-back/trapezius-orange.",
+        "Both comfortably extended arms hold one continuous loop band ahead of chest, feet grounded and torso upright. Full figure and broad lateral opening margin fit on empty white; all other anatomy has gray fibers and opaque shorts."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Actual pose-specific motion and dense delivered-output review still required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_pull_apart-start/attempt_14a8174d2b1d4347.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_double_leg_kick-start-966d941e",
+      "attemptId": "attempt_966d941e21d749ae",
+      "exerciseId": "cat_pil_double_leg_kick",
+      "shot": "r13-cat_pil_double_leg_kick-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_double_leg_kick-start/attempt_966d941e21d749ae.jpg",
+      "outputSha256": "251fedd225d800168e2ef1eb86fc628184ac6374364535db9ddd39c577e06e8e",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.057651+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual full-resolution source shows a prone resting preparation with head on the hands/forearms, chest and pelvis down, both legs long and feet supported. Both posterior-thigh hamstring fiber groups carry bounded orange while calves, trunk and other fibers stay gray.",
+        "Full figure, both feet and enough empty space above the heels fit. The reference is for the catalog preparation with head/chest remaining down, not the head-lifting or double-pulse classical kick."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_pil_double_leg_kick-start/attempt_966d941e21d749ae.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_swimming-start-3c3adb26",
+      "attemptId": "attempt_3c3adb2677fd41c2",
+      "exerciseId": "cat_pil_swimming",
+      "shot": "r13-cat_pil_swimming-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_swimming-start/attempt_3c3adb2677fd41c2.jpg",
+      "outputSha256": "00609b88bb8754c42ec5570d9bcad04216508c686bf1afa2a5ef85e6bed62acf",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.059330+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual prone pose, long forward arms, grounded pelvis and full limb envelope are useful. However orange occupies the broad latissimus-dorsi side-back sheets from the armpit/side ribs rather than the catalog primary lower-back muscles.",
+        "Correct the material boundaries on this exact master before animation; preserve neutral shoulders/glutes and the already useful body/contact geometry."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_pil_swimming-start/attempt_3c3adb2677fd41c2.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_side_leg_circle-start-cdb001b7",
+      "attemptId": "attempt_cdb001b7e7a84a49",
+      "exerciseId": "cat_pil_side_leg_circle",
+      "shot": "r13-cat_pil_side_leg_circle-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_side_leg_circle-start/attempt_cdb001b7e7a84a49.jpg",
+      "outputSha256": "0f6cb07b896f65cbb5e8615b3af8a306e09f50ef4ab74061f0afec63d3bb609b",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.060146+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual source has stacked side-lying hips, a straight upper leg with slight clearance, supported head, stabilizing free palm and grounded lower leg. Whole figure and small-circle space fit.",
+        "The separate sculpted pelvic inset shows recognizable sacrum/ilium/proximal femur and genuine bounded orange gluteal fibers. Main shorts remain opaque charcoal and all main exposed body fibers neutral gray; no guessed colored pelvis surface is present."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_pil_side_leg_circle-start/attempt_cdb001b7e7a84a49.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_band_hip_adductions_78d2d658-start-4f013eda",
+      "attemptId": "attempt_4f013eda27724c76",
+      "exerciseId": "open_band_hip_adductions_78d2d658",
+      "shot": "r13-open_band_hip_adductions_78d2d658-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_band_hip_adductions_78d2d658-start/attempt_4f013eda27724c76.jpg",
+      "outputSha256": "0220e008f8fda76b488e06bafbb610fa24890a018dc1acbb694855dc2d96166e",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.060835+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The near cuffed leg is positioned toward the low image-left anchor with a continuous lightly taut band, and the other foot/body provide a coherent standing preparation.",
+        "Orange incorrectly covers most of the cuffed leg anterior quadriceps sheet rather than being bounded to genuine inner-thigh adductor fibers. Restore actual rectus-femoris/vasti gray and isolate true medial adductors before motion."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_band_hip_adductions_78d2d658-start/attempt_4f013eda27724c76.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_side_kick-start-ce2e8c7d",
+      "attemptId": "attempt_ce2e8c7d981d4f61",
+      "exerciseId": "cat_pil_side_kick",
+      "shot": "r13-cat_pil_side_kick-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_side_kick-start/attempt_ce2e8c7d981d4f61.jpg",
+      "outputSha256": "ef364be452e04faf0ee648ce154e55289b041d5712bc70d624e69e030af63ca7",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.061408+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual full-resolution source shows stacked side-lying hips, supported head, stabilizing palm, bent lower leg for balance and one long lifted upper leg with forward/back movement room.",
+        "The bordered separate posterior pelvic specimen contains recognizable sacrum/ilium and actual attached gluteal fiber masses. Main pelvis stays under opaque shorts; neutral fibers remain readable with no extra blue/support cue."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_pil_side_kick-start/attempt_ce2e8c7d981d4f61.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_hip_extension_with_ba_c371dda7-start-b2e8ee33",
+      "attemptId": "attempt_b2e8ee332d1441fe",
+      "exerciseId": "open_hip_extension_with_ba_c371dda7",
+      "shot": "r13-open_hip_extension_with_ba_c371dda7-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_hip_extension_with_ba_c371dda7-start/attempt_b2e8ee332d1441fe.jpg",
+      "outputSha256": "530a53a776211eeeb3bde406df0d7481cc08618d484d98268b9ccb9cc53cf2bf",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.061994+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The cuffed nearer ankle and continuous low band face the actual support post; both hands hold a rigid support and the genuine gluteal inset is useful.",
+        "The uncuffed balancing leg instead reaches behind the body onto its toes, while the cuffed working leg carries the flat planted support. Before lifting that working leg, the other whole foot needs a stable planted position beneath the body, as requested in the frozen starting-pose brief."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_hip_extension_with_ba_c371dda7-start/attempt_b2e8ee332d1441fe.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_oblique_crunches_c1078e1e-start-646bea13",
+      "attemptId": "attempt_646bea13022d4cad",
+      "exerciseId": "open_oblique_crunches_c1078e1e",
+      "shot": "r13-open_oblique_crunches_c1078e1e-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_oblique_crunches_c1078e1e-start/attempt_646bea13022d4cad.jpg",
+      "outputSha256": "50f01db7d65c0effd16a850b9296b55aec594847239206f97a17e7e67374580f",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.062533+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual source supports head/shoulders/pelvis on the floor, both lower legs on one rigid bench, and keeps light fingertips beside the head with elbows open. Entire figure and curl clearance fit, while required bench contact remains visible.",
+        "Actual abdominal fiber groups carry bounded orange; other fibers, legs, bench and shorts remain neutral/opaque with no secondary-color guess."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_oblique_crunches_c1078e1e-start/attempt_646bea13022d4cad.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_side_walk-start-4a3bb67e",
+      "attemptId": "attempt_4a3bb67e4d924ee5",
+      "exerciseId": "cat_band_side_walk",
+      "shot": "r13-cat_band_side_walk-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_side_walk-start/attempt_4a3bb67e4d924ee5.jpg",
+      "outputSha256": "ad392473cb0a9be293e1bfb64168871313cf6ad13a3afc1ad9d595d8f203d205",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.063165+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual starting image has a slight hip/knee bend, whole grounded feet in a separated stance and one continuous gray loop around the thighs just above the knees. Knees remain aligned with feet, and clear lateral stepping margin fits.",
+        "The separate genuine posterior pelvic specimen shows bounded orange gluteus-maximus/medius fibers with bone landmarks. Main shorts remain opaque charcoal and all exposed main-body fibers neutral gray."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_side_walk-start/attempt_4a3bb67e4d924ee5.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_flat_bench_lying_leg__d58bca58-start-6d3b5f50",
+      "attemptId": "attempt_6d3b5f50b3664fca",
+      "exerciseId": "open_flat_bench_lying_leg__d58bca58",
+      "shot": "r13-open_flat_bench_lying_leg__d58bca58-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_flat_bench_lying_leg__d58bca58-start/attempt_6d3b5f50b3664fca.jpg",
+      "outputSha256": "f87b865ac5799e314a0cb77e62300ae83673aee26c6361c591aec8fecc1a10d0",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.063850+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact source has secure bench-edge grips, a rigid stable bench and head/back/pelvis support, long legs beyond its end with a small knee bend, and genuine hip-flexor anatomy in a separate pelvic specimen.",
+        "The camera does not reserve the vertical leg-rise envelope: the visible hip-to-toe length exceeds the white clearance above the hip. A toward-vertical leg endpoint would run outside the top of this landscape frame. Refine the camera before paying for an animation."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_flat_bench_lying_leg__d58bca58-start/attempt_6d3b5f50b3664fca.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_hip_flexion_with_band_e4aae89b-start-4a061a38",
+      "attemptId": "attempt_4a061a3841ec4185",
+      "exerciseId": "open_hip_flexion_with_band_e4aae89b",
+      "shot": "r13-open_hip_flexion_with_band_e4aae89b-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_hip_flexion_with_band_e4aae89b-start/attempt_4a061a3841ec4185.jpg",
+      "outputSha256": "bba3ad4c98ddc55e63623073326e3c2d88265ecfe5a139f43630cc622cb69b59",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.064590+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual full-resolution source has a tall neutral standing torso, planted uncuffed support foot, a near cuffed ankle with one continuous gray band attached to a rated low post behind the body, and room for a forward knee path.",
+        "The orange main cue is confined to the actual central anterior rectus-femoris belly of the cuffed thigh; the separate genuine anterior pelvic specimen shows lumbar/iliac/proximal-femur landmarks and actual iliopsoas fibers. Other primary-component surroundings and secondary muscles remain gray, shorts opaque."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_hip_flexion_with_band_e4aae89b-start/attempt_4a061a3841ec4185.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_leg_pull_in_5e6cf513-start-5ecfe35a",
+      "attemptId": "attempt_5ecfe35afecd43dc",
+      "exerciseId": "open_leg_pull_in_5e6cf513",
+      "shot": "r13-open_leg_pull_in_5e6cf513-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_leg_pull_in_5e6cf513-start/attempt_5ecfe35afecd43dc.jpg",
+      "outputSha256": "70c2427d2bccfdb2cd3e214ecd1d0c19600752c7bd6855de615dba5a73563bc4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.065148+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual simple supine leg-pull-in preparation has supported head/trunk/pelvis, palms beside hips, long legs and a useful genuine hip-flexor specimen. Orange main rectus-femoris components remain bounded rather than coloring shorts.",
+        "An unnecessary long loose strip/rolled mat-like apparatus appears separately alongside the main mat. Remove this extra piece from the exact source before animation; retain the one actual thin floor mat and useful prepared geometry."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_leg_pull_in_5e6cf513-start/attempt_5ecfe35afecd43dc.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_knee_hip_raise_on_par_3b7a0c25-start-4fbd40f0",
+      "attemptId": "attempt_4fbd40f090d54810",
+      "exerciseId": "open_knee_hip_raise_on_par_3b7a0c25",
+      "shot": "r13-open_knee_hip_raise_on_par_3b7a0c25-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_knee_hip_raise_on_par_3b7a0c25-start/attempt_4fbd40f090d54810.jpg",
+      "outputSha256": "c4ac040e10151e2e96606b0cb8cf9d025e87974b37f00ddf159801b117e446b1",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:59:07.065657+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual station has real supported forearms, closed hands around handles, a supported back, rigid base and visible straight legs. Rectus-femoris orange and the genuine iliopsoas pelvic specimen are useful.",
+        "Both legs already slope substantially forward from the hips instead of hanging beneath the pelvis in the canonical supported straight-leg-raise start. Correct the static hanging pose before motion; keep the already valid support/grip apparatus."
+      ],
+      "limitations": [
+        "Actual settled full-resolution master inspected. Pose-specific motion and exact whole delivered-output review remain required; a source image cannot establish a correct repetition.",
+        "AI editorial screening only; human selection and trainer/clinical certification not implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_knee_hip_raise_on_par_3b7a0c25-start/attempt_4fbd40f090d54810.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_pallof_press-start-74e2db35",
+      "attemptId": "attempt_74e2db3503414316",
+      "exerciseId": "cat_band_pallof_press",
+      "shot": "r13-cat_band_pallof_press-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_pallof_press-start/attempt_74e2db3503414316.jpg",
+      "outputSha256": "33e8a38b8ed4d7f09f12252d55f310d9a0a5dff75f3d7475bb94d29b4e9fb647",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:24:58.965973+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual full-resolution refined master replaces the previous extended-arm endpoint with a chest-held central grip. Both hands visibly overlap around one vertical handle, with joined fingers/thumbs and bent elbows; the continuous supplied loop-band edges attach to that single handle and the chest-height lateral wall anchor. This provides explicit physical hand contact after two motion outputs separated the original hands.",
+        "Both whole feet are separate and grounded, pelvis/torso tall and neutral, readable attached abdominal/oblique orange remains bounded by neutral gray fibers, opaque charcoal shorts and an empty white rendered scene. The whole body and rig contacts are visible; ample image-right space allows the one central forward press. Original source-positive provenance and both prior video negatives are retained."
+      ],
+      "limitations": [
+        "Single actual settled master inspected at full resolution; motion and complete return remain unreviewed until an actual generated output exists.",
+        "AI source screening only; human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_pallof_press-start/attempt_74e2db3503414316.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_one_arm_kettlebell_pa_10f1ec7a-start-8cd041b9",
+      "attemptId": "attempt_8cd041b9ab7f4fd8",
+      "exerciseId": "open_one_arm_kettlebell_pa_10f1ec7a",
+      "shot": "r13-open_one_arm_kettlebell_pa_10f1ec7a-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_one_arm_kettlebell_pa_10f1ec7a-start/attempt_8cd041b9ab7f4fd8.jpg",
+      "outputSha256": "699845a301bfa99a845e78142a3413ad41ed126306ef126dba43848fd2492c78",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:33:30.126637+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual second master places orange across the working image-left pectoral fan and proximal arm rather than the rounded working deltoid shoulder cap. The idle shoulder is gray, but the intended working-shoulder swap did not produce the catalog primary muscle cue.",
+        "The closed shoulder-rack grip, supported kettlebell, grounded whole feet, complete overhead margin and neutral body pose are useful and should be preserved. No motion is authorized from this incorrect primary cue."
+      ],
+      "limitations": [
+        "Actual master inspected at full resolution. Single-frame source screening does not establish correct motion or complete return.",
+        "AI editorial review only; human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_one_arm_kettlebell_pa_10f1ec7a-start/attempt_8cd041b9ab7f4fd8.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_swimming-start-d35112b5",
+      "attemptId": "attempt_d35112b514d844b8",
+      "exerciseId": "cat_pil_swimming",
+      "shot": "r13-cat_pil_swimming-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_swimming-start/attempt_d35112b514d844b8.jpg",
+      "outputSha256": "458b730880835e57a5785b6df57d8c3c22f15193062f0685f26e8ab4150ddf2f",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:33:30.127319+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second master still shows orange on broad lateral lower-lat patches and the lateral abdominal wall beneath them. These areas are not the paired lumbar erector fiber columns required for the catalog lower-back cue.",
+        "The actual prone long-arm/long-leg supported preparation and full movement margin are usable. A targeted cue refinement will neutralize all main-body orange and provide a genuine bone-attached lumbar-erector teaching inset instead of painting lateral muscles or thoracolumbar fascia. No motion is authorized until that actual corrected anatomy is reviewed."
+      ],
+      "limitations": [
+        "Actual master inspected at full resolution. Single-frame source screening does not establish correct motion or complete return.",
+        "AI editorial review only; human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_pil_swimming-start/attempt_d35112b514d844b8.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_hip_extension_with_ba_c371dda7-start-1fa969e6",
+      "attemptId": "attempt_1fa969e6526f4684",
+      "exerciseId": "open_hip_extension_with_ba_c371dda7",
+      "shot": "r13-open_hip_extension_with_ba_c371dda7-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_hip_extension_with_ba_c371dda7-start/attempt_1fa969e6526f4684.jpg",
+      "outputSha256": "0380306630a0a21f2277465d3eee91151588d0732eea8f884d81aa6f4dd328f2",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:33:30.127796+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The cuffed near foot remains planted while the far uncuffed support leg is behind the body on its toes with heel elevated. This persists after the requested support-foot correction; it does not provide the clear whole-foot supporting base for the cuffed leg to move backward.",
+        "The blank low front anchor, closed support grips, continuous band and actual glute-orange inset are useful. A fresh source reset is proposed for the unresolved support geometry, retaining the stable shot and source count; no paid motion is authorized."
+      ],
+      "limitations": [
+        "Actual master inspected at full resolution. Single-frame source screening does not establish correct motion or complete return.",
+        "AI editorial review only; human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_hip_extension_with_ba_c371dda7-start/attempt_1fa969e6526f4684.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_band_hip_adductions_78d2d658-start-e90f70fb",
+      "attemptId": "attempt_e90f70fb709b446f",
+      "exerciseId": "open_band_hip_adductions_78d2d658",
+      "shot": "r13-open_band_hip_adductions_78d2d658-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_band_hip_adductions_78d2d658-start/attempt_e90f70fb709b446f.jpg",
+      "outputSha256": "5790c721b9487ac63fd71a364cd9019554af6c9c022100dd70daa13832b2270f",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:33:30.128327+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected master has bounded medial inner-thigh adductor-orange while anterior quadriceps are neutral gray. The near image-left cuffed leg is slightly abducted toward its low image-left anchor and visibly suspended; the far whole foot is separately grounded under the body with a soft knee.",
+        "One continuous plain-gray band attaches to the closed near ankle cuff and actual low anchor eye. The upright torso/pelvis, relaxed arms, opaque shorts, readable anatomical muscle forms/fibers and blank rendered scene are coherent; both full feet and the inward crossing-leg envelope are visible. Actual source review supports a one-side inward adduction and controlled return."
+      ],
+      "limitations": [
+        "Actual master inspected at full resolution. Single-frame source screening does not establish correct motion or complete return.",
+        "AI editorial review only; human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_band_hip_adductions_78d2d658-start/attempt_e90f70fb709b446f.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_side_kick-start-fa0848b1",
+      "attemptId": "attempt_fa0848b1b35545f8",
+      "exerciseId": "cat_pil_side_kick",
+      "shot": "r13-cat_pil_side_kick-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_side_kick-start/attempt_fa0848b1b35545f8.jpg",
+      "outputSha256": "fc3f3c079c1ef74715ccfaaec87650acaec94463bc1df9714e1c38c070f8cdf3",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:48:14.285509+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual revised elevated-oblique side-lying view exposes the floor in front of and behind the body, preserving stacked pelvis, long slightly lifted top leg, bent balancing lower leg, resting head/hand and separate stabilizing palm. Whole head, hands and feet remain in frame. The original front/back plane is clearer than the failed lateral-motion view.",
+        "Readable gray fibers and opaque shorts remain coherent. Genuine orange glute muscles remain attached to pelvic/sacral/proximal-thigh anatomy in a clear upper-left inset; the right-side working-leg envelope has no inset overlap. This source is eligible for one modest forward/backward cycle on the shown side; actual motion and return still need review."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish movement, grip persistence, return, counting or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_pil_side_kick-start/attempt_fa0848b1b35545f8.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_side_walk-start-cb445db1",
+      "attemptId": "attempt_cb445db1e0d94035",
+      "exerciseId": "cat_band_side_walk",
+      "shot": "r13-cat_band_side_walk-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_side_walk-start/attempt_cb445db1e0d94035.jpg",
+      "outputSha256": "3475f8db102dbd79f9ecf87826f1c834fd30223dcd84b3601f904b669694a9d0",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:48:14.285839+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual revised three-quarter starting stance shows two separate whole planted feet, shallow flexed hips/knees and a closed taut loop above both knees, with generous empty image-right translation room. It provides a physical lead/follow step reference rather than a one-foot in/out cue.",
+        "Closed loop, gray readable fibers, opaque shorts and hands resting on hips remain coherent. Genuine primary glute-orange is confined to the bone-attached inset in the upper-left, away from the translation envelope. One leading/following pair should finish in the same stance width at a translated location, without a second return pair."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish movement, grip persistence, return, counting or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_side_walk-start/attempt_cb445db1e0d94035.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_leg_pull_in_5e6cf513-start-cd5c7622",
+      "attemptId": "attempt_cd5c76229576486c",
+      "exerciseId": "open_leg_pull_in_5e6cf513",
+      "shot": "r13-open_leg_pull_in_5e6cf513-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_leg_pull_in_5e6cf513-start/attempt_cd5c76229576486c.jpg",
+      "outputSha256": "58e9bd8494a109bf38621ae4a55323a04c73a44233a47ec025738be3a2f47f78",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:48:14.286013+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual corrected master removes the unwanted extra rolled strip. It shows one supine body on one plain mat: head/back/pelvis supported, both legs long with heels supported, arms beside hips and a visible near palm on the mat. Both distinct full feet and knees have clear room for a controlled tuck and return.",
+        "Readable gray fibers, bounded bilateral anterior rectus-femoris orange and a genuine iliopsoas inset attached to lumbar spine, pelvis and proximal femurs support the catalog primary hip-flexor cue. Opaque shorts, empty white render and apparatus remain coherent. This supports the basic supine leg tuck without the optional added trunk curl."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish movement, grip persistence, return, counting or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_leg_pull_in_5e6cf513-start/attempt_cd5c76229576486c.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_knee_hip_raise_on_par_3b7a0c25-start-09c5a172",
+      "attemptId": "attempt_09c5a1724ad54e96",
+      "exerciseId": "open_knee_hip_raise_on_par_3b7a0c25",
+      "shot": "r13-open_knee_hip_raise_on_par_3b7a0c25-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_knee_hip_raise_on_par_3b7a0c25-start/attempt_09c5a1724ad54e96.jpg",
+      "outputSha256": "129df596a0f42af5ed27bf762027a5b9459ff3d4e3e880276bc47c129d46273a",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:48:14.286205+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual revised master has both long legs hanging from a supported trunk instead of the earlier forward-raised source. Forearms contact both horizontal pads, closed fingers/thumbs grasp the two handles, back contacts the backrest, shoulders remain down and both full feet are visible clear of the floor.",
+        "The plain station, readable gray fibers, bounded bilateral rectus-femoris orange and genuine bone-attached iliopsoas inset remain coherent. There is usable image-left space for both straight legs toward horizontal without overlapping the inset, then a full controlled hanging return. The station name does not authorize bent-knee substitution."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish movement, grip persistence, return, counting or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_knee_hip_raise_on_par_3b7a0c25-start/attempt_09c5a1724ad54e96.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_hip_flexion_with_band_e4aae89b-start-9aa7b3b0",
+      "attemptId": "attempt_9aa7b3b08598418a",
+      "exerciseId": "open_hip_flexion_with_band_e4aae89b",
+      "shot": "r13-open_hip_flexion_with_band_e4aae89b-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_hip_flexion_with_band_e4aae89b-start/attempt_9aa7b3b08598418a.jpg",
+      "outputSha256": "5bee05a66f2140ad0c4df77c73163f8ecb7a234a99fabb063389f397c8ea014d",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:48:14.286351+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The raised cuffed knee and single far-foot support now provide the authorized endpoint geometry, with an upright pelvis/trunk and the same continuous band to the low anchor behind the body. Those geometry improvements should be preserved.",
+        "The actual main orange is placed prominently on the PLANTED supporting thigh, while the anterior surface of the raised cuffed working thigh is gray and a separate orange underside strip appears beneath it. This does not provide a bounded working rectus-femoris cue. A cue-only correction must gray the support thigh/working underside and color only the true working anterior rectus, preserving the valid iliopsoas inset and rig."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish movement, grip persistence, return, counting or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_hip_flexion_with_band_e4aae89b-start/attempt_9aa7b3b08598418a.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_flat_bench_lying_leg__d58bca58-start-1217ed0d",
+      "attemptId": "attempt_1217ed0d7be64292",
+      "exerciseId": "open_flat_bench_lying_leg__d58bca58",
+      "shot": "r13-open_flat_bench_lying_leg__d58bca58-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_flat_bench_lying_leg__d58bca58-start/attempt_1217ed0d7be64292.jpg",
+      "outputSha256": "e51881389908357cbb11689c789d059f6eab292a3085fc41891fbe2c81790d42",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:48:14.286509+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second master again keeps the body/bench large and high in the frame despite the requested pullback. The hip-to-full-foot length is greater than the available vertical clearance above the hips, so both legs cannot reach the required near-vertical endpoint within the fixed frame. The actual inset also takes much of the upper-left clearance.",
+        "There is broad orange across multiple anterior quadriceps bellies rather than an unambiguous bounded rectus-femoris cue. A fresh smaller lower-frame reference with all main body neutral gray and a genuine exact hip-flexor teaching inset avoids that ambiguity while reserving the actual full upward envelope. No motion is authorized from this source."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish movement, grip persistence, return, counting or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_flat_bench_lying_leg__d58bca58-start/attempt_1217ed0d7be64292.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_bicycle_crunch-start-c2573a40",
+      "attemptId": "attempt_c2573a40ecf0420e",
+      "exerciseId": "ex_bicycle_crunch",
+      "shot": "r13-ex_bicycle_crunch-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-ex_bicycle_crunch-start/attempt_c2573a40ecf0420e.jpg",
+      "outputSha256": "f2797130c14f5740c84cde132cddd5ef55001dacce452195a8adeccebe9fc8ca",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:50:28.822994+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual third master restores distinct gray anatomical feet, correcting the earlier merged dark silhouettes. It shows a neutral lifted-shoulder tabletop preparation with both knees bent, light hands beside/behind the head, supported pelvis/lower back and whole separate feet in frame. There is space to extend one long leg and make a modest opposite-shoulder/knee approach.",
+        "Bounded rectus-abdominis/oblique-orange, readable neutral-gray fibers, opaque shorts and empty white render remain coherent. This can show one counted side approach and full tabletop return; subsequent alternate side is a separate counted rep. No forced elbow contact or neck pulling is required."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish movement, grip persistence, return, counting or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-ex_bicycle_crunch-start/attempt_c2573a40ecf0420e.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_row-start-495697e2",
+      "attemptId": "attempt_495697e246e14306",
+      "exerciseId": "cat_band_row",
+      "shot": "r13-cat_band_row-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_row-start/attempt_495697e246e14306.jpg",
+      "outputSha256": "8e5a9d43443db392761661eb2f5d323fbb662fb3b9bd3e59a7f6f4dab5b73958",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:50:28.823318+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The third master fixes the wrong orange deltoid cap; the orange now stays on the upper/middle back while both shoulder caps are gray. Upright support, chest-height anchor, closed fingers/thumbs and straight-arm setup are usable and should be retained.",
+        "The actual gray rig has an additional long strand running from the anchor diagonally into the torso/under-arm region without reaching either closed handle. The two handle-connected tension paths are already present. A body-attached/free-ending extra band is not a valid anchored two-handle row. A final targeted apparatus edit must show exactly one continuous path from the same eye to each handle and remove the unattached body-ending strand."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish movement, grip persistence, return, counting or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_row-start/attempt_495697e246e14306.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_chest_press-start-38f39ee6",
+      "attemptId": "attempt_38f39ee6bf064210",
+      "exerciseId": "cat_band_chest_press",
+      "shot": "r13-cat_band_chest_press-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_chest_press-start/attempt_38f39ee6bf064210.jpg",
+      "outputSha256": "1f957822354db5554a1bf3df717f3a676df87632aa1f9f561771be33b1901773",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:50:28.823511+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The third master keeps a low anchor at approximately upper-abdomen/lower-sternum level and holds both handles ahead of the upper abdomen rather than beside the chest. The two earlier setup corrections have not established the catalog chest-height behind-body anchor and chest-held starting geometry.",
+        "The staggered planted feet, upright trunk, closed grips and bounded pectoral-orange are useful, but the low apparatus/waist-like rack remains a repeated source failure. A fresh final source with a tall behind-body post, eye explicitly level with the pectoral center and both bent-elbow hands beside the chest is required before any motion."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish movement, grip persistence, return, counting or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_chest_press-start/attempt_38f39ee6bf064210.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_split_squat-start-378cfc07",
+      "attemptId": "attempt_378cfc07daf44b0c",
+      "exerciseId": "cat_cal_split_squat",
+      "shot": "r13-cat_cal_split_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_split_squat-start/attempt_378cfc07daf44b0c.jpg",
+      "outputSha256": "9120724d635a123c1de11c22f2a999d4743404ae65983592906863a6cc953019",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:52:50.076779+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The third source restores a complete head, both hands and both foot contacts, with a valid lowered stable staggered stance: front whole foot planted, rear forefoot planted/heel raised, upright trunk and soft supported arms. This actual lower endpoint can use rise-first and complete lowered return; it should not be rejected merely for differing from the intended high preparation.",
+        "However, the actual lowered source has only approximately 65 pixels above the scalp. Extending the front knee/hip will lift the whole trunk/head; even a modest estimated 45\u201360-pixel rise leaves almost no headroom. The full moving envelope is not established by static head visibility, so a final cue-preserving 20\u201325 percent camera pullback is required before initial motion.",
+        "The separate orange medial strip below the long diagonal gray anterior band is anatomically compatible with vastus medialis beneath sartorius and converges toward the medial knee/extensor region. It is not a confidently identified hamstring/adductor cue. Preserve the now-plausible quadriceps boundaries rather than changing colors based solely on lower pixel position. An independent second reviewer agreed with both the anatomy compatibility and envelope concern."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. The exact height gain is an estimate from the lowered pose, not measured animation; the reserved top envelope is currently too small to support a dependable full rise.",
+        "Medial-muscle identity is stylized; compatible quadriceps evidence is recorded without certainty about every depicted fiber. Static source approval does not establish motion or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_split_squat-start/attempt_378cfc07daf44b0c.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_triceps-start-ef6dbce5",
+      "attemptId": "attempt_ef6dbce5761344ac",
+      "exerciseId": "cat_band_triceps",
+      "shot": "r13-cat_band_triceps-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_triceps-start/attempt_ef6dbce5761344ac.jpg",
+      "outputSha256": "75097b1dbeab02a7e13664fb0613531c939cad10cbbd2deffc24cf66dbc6dd4d",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:56:44.746802+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual source refinement establishes both elbows bent approximately 90 degrees beside the ribs, horizontal forward forearms and two closed band-end grips at upper-abdomen height, resolving the earlier shallow waist-level starting angle. Upright supported trunk, planted whole feet, fixed high anchor and two coherent gray band branches remain intact.",
+        "Orange stays on visible genuine posterior triceps, while shoulder/biceps/forearms and apparatus remain gray. Readable fibers, opaque shorts and complete portrait body framing provide the downward elbow-extension and exact bent-return envelope. This source supports the next stable third video; full motion grip/return/count still require review."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish loaded grip persistence, return/count or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_triceps-start/attempt_ef6dbce5761344ac.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_squat-start-4b35d29d",
+      "attemptId": "attempt_4b35d29d75e34327",
+      "exerciseId": "cat_band_squat",
+      "shot": "r13-cat_band_squat-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_band_squat-start/attempt_4b35d29d75e34327.jpg",
+      "outputSha256": "ecb7258a96b956cd5683a933b16fea91d0b9c502a40279ef88697c622b9cf8f6",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:56:44.747461+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual third source preserves the suitable planted-feet squat stance, same band beneath both feet and shoulder-level rack, coherent bilateral quadriceps-orange/gray fibers, opaque shorts and complete portrait envelope. The image-left hand is closed.",
+        "The image-RIGHT loaded hand still shows extended/upward fingers and exposed dorsal/palm region with the band resting beside the hand/wrist instead of being enclosed by curled fingers and an opposing thumb. The targeted third-source closed-grip instruction was not achieved. A final hand-only correction is required; no paid motion is authorized from this open loaded grip."
+      ],
+      "limitations": [
+        "Actual full-resolution starting master inspected. Static approval does not establish loaded grip persistence, return/count or human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_band_squat-start/attempt_4b35d29d75e34327.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cond_mountain_climber-start-6540a83a",
+      "attemptId": "attempt_6540a83a2c854f1c",
+      "exerciseId": "cat_cond_mountain_climber",
+      "shot": "r13-cat_cond_mountain_climber-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cond_mountain_climber-start/attempt_6540a83a2c854f1c.jpg",
+      "outputSha256": "19e4afb910d95345d854e976e05cd7015a6452146a3b7a4289bbcf16662f4e64",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T01:41:56.940856+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual full-resolution master shows a high plank facing image-right with both flat palms below the shoulders, long elbows, two distinct toe-supported feet and a mostly long aligned trunk/pelvis. Head, hands, knees and feet are completely visible.",
+        "The knee-drive path has empty floor beneath the abdomen and space between the legs/arms, with separate near and far toe contacts; the intended in-place drives do not require the torso/head to rise or translate beyond the current frame.",
+        "Readable gray fibers cover exposed limbs/head/torso, bounded attached abdominal/oblique-orange follows the actual muscle surfaces, deltoids and thighs remain gray, opaque charcoal shorts and an empty white educational render are retained without labels, inset, photographic props or blue."
+      ],
+      "limitations": [
+        "Exact settled source is ready for a pose-specific motion trial, not a passed animation. Final actual delivery must show both alternating knee drives with steady supports, return, cue persistence and rhythm.",
+        "Far-side limb portions are partly occluded in the starting plank. Framing is close around the hands/head, so motion must retain their fixed positions and be reviewed over the whole output."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cond_mountain_climber-start/attempt_6540a83a2c854f1c.jpg"
+      ]
+    }
+  ]
+}

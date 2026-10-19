@@ -1,0 +1,80 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 1737,
+  "visibleBalanceText": "1,737 Google Flow credits",
+  "observedAt": "2026-10-10T01:31:59.106586+00:00",
+  "groupId": "group_35f095802c6c4aad",
+  "reconciliationType": "manual-official-native-credit-activity",
+  "balanceBefore": 1717,
+  "actualCredits": 30,
+  "nativeDebitEntries": [
+    {
+      "dateTimeUtc": "2026-10-10T01:17:15+00:00",
+      "category": "Google Flow credits",
+      "amount": -10
+    },
+    {
+      "dateTimeUtc": "2026-10-10T01:17:16+00:00",
+      "category": "Google Flow credits",
+      "amount": -10
+    },
+    {
+      "dateTimeUtc": "2026-10-10T01:17:17+00:00",
+      "category": "Google Flow credits",
+      "amount": -10
+    }
+  ],
+  "nativeHistory": {
+    "path": "reports/round-13/balance-35f0-native/account-summary.json",
+    "sha256": "830adc139964dedd448c05ebce96c7590ace6616a26e3728769ac8dee766f1d8"
+  },
+  "diagnosis": {
+    "path": "reports/round-13/balance-35f0-recovery-diagnosis.json",
+    "sha256": "b0de8bc98de9c4eb2f225d6a1f9104cf574f8804991b98f43942c5e7d6d91ba5"
+  },
+  "frozenGroupSnapshot": {
+    "path": "reports/round-13/group-35f0-frozen-before-settlement.json",
+    "sha256": "c5b5fff4b7efce26a6795198d570cee590697608a0c2cd375b6b85b14f690980"
+  },
+  "successfulMasterProofs": [
+    {
+      "attemptId": "attempt_825cf2fb7b6242f5",
+      "exerciseId": "open_oblique_crunches_on_t_30346079",
+      "quoteFile": "form-media/ui-quotes/r13-open_oblique_crunches_on_t_30346079-video-8afaa79e.json",
+      "quoteSha256": "6720e47816bf3b703823aa96e01b8d1be8108feaee1cb91a33bc805b6b2eec95",
+      "quoteCredits": 10,
+      "masterPath": "form-media/assets/masters/r13-open_oblique_crunches_on_t_30346079-video/attempt_825cf2fb7b6242f5.mp4",
+      "masterSha256": "2908d952026b0101fef68e771e5f7a793c5966e6da7988a00adf35c26552b612",
+      "responseSha256": "b7919f0067bb2ab40c375b86b90e1d549612312a19cda7799d1db5566112802e"
+    },
+    {
+      "attemptId": "attempt_87cbd4b167ce4acb",
+      "exerciseId": "ex_bicycle_crunch",
+      "quoteFile": "form-media/ui-quotes/r13-ex_bicycle_crunch-video-50bf3647.json",
+      "quoteSha256": "3dd616929478ae05afa1cb4bde27a225a58c6779bcfa007cbc5cd0a5f185dd9f",
+      "quoteCredits": 10,
+      "masterPath": "form-media/assets/masters/r13-ex_bicycle_crunch-video/attempt_87cbd4b167ce4acb.mp4",
+      "masterSha256": "db05daa14da309cd8efb2c4e3b82343a804a80d6d225a46a0a0026b4e8c77c41",
+      "responseSha256": "2a48682856956e7be821fb089f25e9cdb23d16b275a15f0300a7ec37157f5858"
+    },
+    {
+      "attemptId": "attempt_e18aae7f2ca54a41",
+      "exerciseId": "cat_cal_dead_bug_legs_only",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_dead_bug_legs_only-video-763d9cff.json",
+      "quoteSha256": "5986536d3dd2942b5908e868795f0b5e1cded7bfe321f07a9ca7824e74c629ee",
+      "quoteCredits": 10,
+      "masterPath": "form-media/assets/masters/r13-cat_cal_dead_bug_legs_only-video/attempt_e18aae7f2ca54a41.mp4",
+      "masterSha256": "aa5fd8ba11c60617dd8f8b7d94b2b4dec6d86072260e6d54e06090b989347dc2",
+      "responseSha256": "00f119d6ee4c463c0c4ecc98ece5df41e0b6f95e16b20632da65548e83813dfa"
+    }
+  ],
+  "dailyFlowCreditsRemainingObserved": 50,
+  "balanceResidualAfterKnownDebits": 50,
+  "scope": "Three official native ten-credit debit entries in the sole active cohort submission window prove total actual cost30, matching all three returned frozen ten-credit quotes. Equal member quotes allocate ten each. Balance1717-to1737 is retained verbatim; native account also shows50 daily credits. No timestamped +50 adjustment transaction, refund, daily reset time or per-media billing ID is claimed.",
+  "budgetPolicy": "Charge all30 confirmed debit credits to the existing conservative monthly cap; do not add the separate daily allowance, increase the cap, reset the period or credit the unexplained balance residual.",
+  "guards": "Core automatic aggregate-balance settlement remains unchanged. Exact returned master, prompt, source, quote and response provenance is required; no retry or duplicate submission."
+}

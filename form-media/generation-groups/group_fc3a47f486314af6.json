@@ -1,0 +1,30 @@
+{
+  "id": "group_fc3a47f486314af6",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T16:21:45+00:00",
+  "balanceBefore": 471,
+  "quotedCredits": 10,
+  "members": [
+    {
+      "exerciseId": "open_natural_glute_ham_rai_6dcfda67",
+      "shot": "r13-open_natural_glute_ham_rai_6dcfda67-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "f1a0856eacbc4d78a614485709dd92d36c541188cd3f40098fb60fdcbeca8b1a",
+      "quoteFile": "form-media/ui-quotes/r13-open_natural_glute_ham_rai_6dcfda67-video-paced-c87348d4.json",
+      "quoteSha256": "a87bf04f6d8a41fa399e0b3e3ea79aea80045f0ab1eca3a7eaf71a15950f9fae",
+      "quoteCredits": 10,
+      "balance": 471,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T16:22:46+00:00",
+  "balanceAfter": 461,
+  "actualCredits": 10,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-1c834e13a8c841d8.json",
+  "evidenceSha256": "d794c26da312b00f5b8a9af525a41b5ce33bebe97b3d5572731eb603f3b1412f",
+  "terminalFailureIds": []
+}

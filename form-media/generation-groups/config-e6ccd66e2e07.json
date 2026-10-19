@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_leg_pull_in_5e6cf513-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_leg_pull_in_5e6cf513-start-1c0de3bf.json"
+    },
+    {
+      "shot": "r13-open_knee_hip_raise_on_par_3b7a0c25-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_knee_hip_raise_on_par_3b7a0c25-start-797fc11a.json"
+    },
+    {
+      "shot": "r13-open_oblique_crunches_on_t_30346079-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_oblique_crunches_on_t_30346079-start-01a1a14d.json"
+    },
+    {
+      "shot": "r13-cat_cal_dead_bug_legs_only-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_dead_bug_legs_only-start-ecbdf7c9.json"
+    },
+    {
+      "shot": "r13-ex_ab_wheel-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_ab_wheel-start-11a61844.json"
+    },
+    {
+      "shot": "r13-ex_chin_up-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_chin_up-start-80fd45ed.json"
+    }
+  ]
+}

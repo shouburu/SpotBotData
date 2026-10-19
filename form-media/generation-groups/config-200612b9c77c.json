@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_cal_bodyweight_hip_hinge-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bodyweight_hip_hinge-start-54f017de.json"
+    },
+    {
+      "shot": "r13-open_one_arm_kettlebell_pa_10f1ec7a-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_one_arm_kettlebell_pa_10f1ec7a-start-a4aedb3d.json"
+    },
+    {
+      "shot": "r13-open_wind_sprints_d7829971-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_wind_sprints_d7829971-start-ce00cfdc.json"
+    },
+    {
+      "shot": "r13-cat_cal_eccentric_pullup-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_eccentric_pullup-start-59eeccbc.json"
+    },
+    {
+      "shot": "r13-open_speed_band_overhead_t_4f889ac0-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_speed_band_overhead_t_4f889ac0-start-f2acd295.json"
+    },
+    {
+      "shot": "r13-open_single_leg_high_box_s_4d516c61-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_single_leg_high_box_s_4d516c61-start-d0dc2cef.json"
+    }
+  ]
+}

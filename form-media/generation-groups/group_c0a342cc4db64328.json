@@ -1,0 +1,67 @@
+{
+  "id": "group_c0a342cc4db64328",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T19:31:37+00:00",
+  "balanceBefore": 3959,
+  "quotedCredits": 10,
+  "members": [
+    {
+      "exerciseId": "cat_var_lever_lat_pulldown",
+      "shot": "r12-lever_lat_pulldown-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "9a18921f1404bd9468cfda297a794b1fb048fbbdeed01663b77c7d1f3211e345",
+      "quoteFile": "form-media/ui-quotes/r12-lever_lat_pulldown-t2v-c4a1cb31.json",
+      "quoteSha256": "e617a8271ef378cb6950b019af9a79984032fda4805851ce1b7a688794d9d320",
+      "quoteCredits": 10,
+      "balance": 3959,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-lever_lat_pulldown-start/attempt_a8c8b7df6b37496e.jpg",
+          "sha256": "731bdbb7387c45c178401e8df2c9edc13eb6dd7dfe766deaeb4fd53959633a86"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_bb_rack_pull",
+      "shot": "r12-bb_rack_pull-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "6da123ca970c199bb20c34014c7ab30fff8d141c5576bc530b9a1e315a41f004",
+      "quoteFile": "form-media/ui-quotes/r12-bb_rack_pull-start-553fd6ab.json",
+      "quoteSha256": "5e387d1470c2d03687021dad99c228920e180cdf7be9d31fa6653b463bb3506d",
+      "quoteCredits": 0,
+      "balance": 3959,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_smith_rack_pull",
+      "shot": "r12-smith_rack_pull-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "72c1f643c003bb31665614062341cce8bcf9064fa5f99d9a9392b5dc3e63999a",
+      "quoteFile": "form-media/ui-quotes/r12-smith_rack_pull-start-f9f566af.json",
+      "quoteSha256": "39888576ac80d8563edd46ac679401d027a82fb9fbd56a0d1f2662d6dca9b38a",
+      "quoteCredits": 0,
+      "balance": 3959,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_machine_hip_thrust",
+      "shot": "r12-machine_hip_thrust-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "f3c6807eba75953c71a1b413cce4d923a4627fbb8feeed567f1a01e16f092ec7",
+      "quoteFile": "form-media/ui-quotes/r12-machine_hip_thrust-start-634e3a44.json",
+      "quoteSha256": "a99832deb361a327237df946695f067a3d1b59770b3507acd50ac34c79083ac7",
+      "quoteCredits": 0,
+      "balance": 3959,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T19:32:55+00:00",
+  "balanceAfter": 3949,
+  "actualCredits": 10,
+  "evidenceFile": "form-media/ui-quotes/observed-023d598e217d4543.json",
+  "evidenceSha256": "dc7a99313b1e4079fb83bbd4e2d890fa83c6e5088f5913078948d0effec375a5",
+  "terminalFailureIds": []
+}

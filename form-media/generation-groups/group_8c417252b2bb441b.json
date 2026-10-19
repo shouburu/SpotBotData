@@ -1,0 +1,114 @@
+{
+  "id": "group_8c417252b2bb441b",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:55:01+00:00",
+  "balanceBefore": 2471,
+  "quotedCredits": 62,
+  "members": [
+    {
+      "exerciseId": "cat_pil_single_leg_kick",
+      "shot": "r13-cat_pil_single_leg_kick-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "0f03522369aba8417b2e9e9e45164ca039cff5ca9ccca654d6ca1dbcf6dadf4e",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_single_leg_kick-video-754e718e.json",
+      "quoteSha256": "1f538a20414d851ec734874741c5a9ffdb62c583e1acdf88de145b3c7af4afd8",
+      "quoteCredits": 12,
+      "balance": 2471,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_pil_single_leg_kick-start/attempt_54863e48e1024548.jpg",
+          "sha256": "225ba29a92ee56fe2c1d157118a9c50b03ff6240edbcc3ba5b24a07386836e7d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_mob_scapular_pushup",
+      "shot": "r13-cat_mob_scapular_pushup-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "6842ded866dce632fc237334f8bdb69e2bb94a81886c4b238c065eebf6eac10c",
+      "quoteFile": "form-media/ui-quotes/r13-cat_mob_scapular_pushup-video-78594cc9.json",
+      "quoteSha256": "5245853f5c5c44eb9071a2b825b3d78919c04617fa092a7c1efe7039ab9547df",
+      "quoteCredits": 10,
+      "balance": 2471,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_mob_scapular_pushup-start/attempt_a0dee79423f84c48.jpg",
+          "sha256": "823e609774c2c810ed6759bd95e75a1cf1db23a579f21e2c999b455c88c6da64"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_ohead_press",
+      "shot": "r13-cat_band_ohead_press-video",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "45661623275b525d54899c154233c275ddec7a2d747500eb1070d890a65d74c8",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_ohead_press-video-287ed9a9.json",
+      "quoteSha256": "0ef2d6c4f82129b0b57b9cc0148cd9b3e54822e09059d8ebbb49aa961f71c1f2",
+      "quoteCredits": 10,
+      "balance": 2471,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_ohead_press-start/attempt_19d3c9caeede4c82.jpg",
+          "sha256": "dc00a48bd2fabf4d92580936a3b3c7fb19ddc69d8983b28f405a401ee47fe808"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_pull_apart",
+      "shot": "r13-cat_band_pull_apart-video",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "ce342ccecb6593bfa19e16fff1a2ae279830ed63930fdf56cf80737923f077a0",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pull_apart-video-92f744cf.json",
+      "quoteSha256": "9b20396b214727960feb9285a03c8acda7857cf36685a29ca2323317ab89f174",
+      "quoteCredits": 10,
+      "balance": 2471,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_pull_apart-start/attempt_14a8174d2b1d4347.jpg",
+          "sha256": "409c904715b7f47d5b604fc602d6417b211a4d51aa38e32af5c39bbf7850e3c9"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_triceps",
+      "shot": "r13-cat_band_triceps-video",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "efbdaf8d35fca1d0909424b46186a29d5eb1d89e997f3670f5cd9260e69a94ca",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_triceps-video-ba55c6cd.json",
+      "quoteSha256": "2602cf230ae632525b7731ae74c10de58a29bf1022cce7a857a74e0bd83cde36",
+      "quoteCredits": 10,
+      "balance": 2471,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_triceps-start/attempt_83698f9f302c4220.jpg",
+          "sha256": "f1594ef53d04b5b38a745a63f6ff3a4476e578049a9e75bad052016e0c3ae72d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_back_flyes_with_bands_e8a30917",
+      "shot": "r13-open_back_flyes_with_bands_e8a30917-video",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "f6071a89be14280269ef548ede438eca72f0a8f6e4d8aa1b0f4e0fb38034b46c",
+      "quoteFile": "form-media/ui-quotes/r13-open_back_flyes_with_bands_e8a30917-video-db6eb7b9.json",
+      "quoteSha256": "70e7779055a80cdb82455718c9635f5f817d9030bb8e403a5c5a0b2730452ea0",
+      "quoteCredits": 10,
+      "balance": 2471,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_back_flyes_with_bands_e8a30917-start/attempt_5a20dccf05d843cd.jpg",
+          "sha256": "c60480e268f71e9b66218220c18f1487243e14f22c3423293fc6385ee34e6516"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T23:56:52+00:00",
+  "balanceAfter": 2409,
+  "actualCredits": 62,
+  "evidenceFile": "form-media/ui-quotes/observed-6f5df24d9d9042b8.json",
+  "evidenceSha256": "378b1d1694aca2a81b6c6d4b5346762c7e130c4421fe88683152d7aaac07e38d",
+  "terminalFailureIds": []
+}

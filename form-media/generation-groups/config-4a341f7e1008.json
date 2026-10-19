@@ -1,0 +1,16 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_cond_mountain_climber-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_mountain_climber-start-4091512d.json"
+    },
+    {
+      "shot": "r13-cat_cond_shadow_boxing-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_shadow_boxing-start-3c20446c.json"
+    },
+    {
+      "shot": "r13-cat_cond_step_back_burpee-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_step_back_burpee-start-31abc574.json"
+    }
+  ]
+}

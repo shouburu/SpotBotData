@@ -1,0 +1,114 @@
+{
+  "id": "group_644ac6805d784090",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:23:58+00:00",
+  "balanceBefore": 2081,
+  "quotedCredits": 68,
+  "members": [
+    {
+      "exerciseId": "ex_glute_bridge",
+      "shot": "r13-ex_glute_bridge-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "c44d4bfcdc6a8b9b2edf4850145331b765e5fe29d8efad4e1691d5ae76628fb8",
+      "quoteFile": "form-media/ui-quotes/r13-ex_glute_bridge-video-e8fca395.json",
+      "quoteSha256": "cfb900a029299717c53b4bd6478788e772f873edf06d31ed8a340009b9d24019",
+      "quoteCredits": 10,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-ex_glute_bridge-start/attempt_14d7e821a0a14f4c.jpg",
+          "sha256": "30721ad2d23acdfccd2498fcf9de72a1a41629f27079565527028e3fc1592fa5"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_seated_band_hamstring_7487455a",
+      "shot": "r13-open_seated_band_hamstring_7487455a-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "97035dcd2c782f485904b51e87866a9c4fb9e2d0363b2d2df5e980442ac256e4",
+      "quoteFile": "form-media/ui-quotes/r13-open_seated_band_hamstring_7487455a-video-7b14498d.json",
+      "quoteSha256": "1be68b7d496ba41d10c6c40ada62c552136a5289bd646c47380209beed4f66d2",
+      "quoteCredits": 10,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_seated_band_hamstring_7487455a-start/attempt_4077aca433b84d4f.jpg",
+          "sha256": "a14f61d913e9c52425ec40a7f8624de225fc15b00b053245e9c4ff625ec6dbaf"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_lateral_weight_shift",
+      "shot": "r13-cat_bal_lateral_weight_shift-video",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "0c9345f909a8be15976cba9d651300e1c7bd2c7a93f2200dd6fd2f28df8df638",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_lateral_weight_shift-video-a0804fe5.json",
+      "quoteSha256": "ceb1326402d4110234a70abfd0ef72b3c447cb42eb8c7061f39d506a1e1a4648",
+      "quoteCredits": 12,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_bal_lateral_weight_shift-start/attempt_909ae740961644f9.jpg",
+          "sha256": "3fe02ea6082d8826d5cb9cddbdf6c06b8ee7ed3e0342aba4152fb38eecc55438"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_exercise_ball_pull_in_98443332",
+      "shot": "r13-open_exercise_ball_pull_in_98443332-video",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "17b0cdee5149209f36d5c451017115e9a9b9107e9e5201a94d8e7198e0a6b484",
+      "quoteFile": "form-media/ui-quotes/r13-open_exercise_ball_pull_in_98443332-video-7c072524.json",
+      "quoteSha256": "18362b73651a4da0aeef90cd47317e0ccd2ef6e6bbc6b72863d8f10c973b796b",
+      "quoteCredits": 12,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_exercise_ball_pull_in_98443332-start/attempt_b0d9aa8b7b20472b.jpg",
+          "sha256": "f912807842266d503b4022f0a50c0afbefb27f7d65d0a228723becd8522d6a98"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_side_step_hold",
+      "shot": "r13-cat_bal_side_step_hold-video",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "91d4211834111f05d422a0a48b387e31b3625ff353ed7a13dfbfef3b1bc7ab2d",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_side_step_hold-video-15478264.json",
+      "quoteSha256": "9a0071d058d94dc35fcf04cc187b469486355fb8fbfe9db2ca0564bf86d72779",
+      "quoteCredits": 12,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_bal_side_step_hold-start/attempt_1319ee0a76ea46d1.jpg",
+          "sha256": "b48b7f9e906772c655e9f15fbe6789e950e740f10247e72a17e893bfbd560266"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_quarter_turn",
+      "shot": "r13-cat_bal_quarter_turn-video",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "74c5f5c43fbf92393cea6c5b68dcfd3788a4dafb28ff2f4cafbddf70b71dfe49",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_quarter_turn-video-96426d30.json",
+      "quoteSha256": "7d105b64aba937f89e0eda996f42832884969ed1b86be56f9881b706a55b87ee",
+      "quoteCredits": 12,
+      "balance": 2081,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_bal_quarter_turn-start/attempt_ef6faecc0f0f4e63.jpg",
+          "sha256": "839f5b291c79599ab5505de42675693d8a65ac4b7da7fea14b656afa8c758df0"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:25:42+00:00",
+  "balanceAfter": 2013,
+  "actualCredits": 68,
+  "evidenceFile": "form-media/ui-quotes/observed-6a2809ad22ed4bd2.json",
+  "evidenceSha256": "ae8b315fefd56030ce1f591779e822186dbc76eff4475598ad23fff74b0132ff",
+  "terminalFailureIds": []
+}

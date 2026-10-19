@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-fly-start-f656cf9a.json"
+    },
+    {
+      "shot": "r12-single-db-triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-triceps-start-d0e2d503.json"
+    },
+    {
+      "shot": "r12-assisted_pullup-start",
+      "quoteFile": "form-media/ui-quotes/r12-assisted_pullup-start-21a6d535.json"
+    },
+    {
+      "shot": "r12-seated-single-db-triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-single-db-triceps-start-d49fd451.json"
+    }
+  ]
+}

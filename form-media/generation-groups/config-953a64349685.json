@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "shot": "r12-incline-bb-triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline-bb-triceps-start-b908f673.json"
+    },
+    {
+      "shot": "r12-smith-front-squat-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-front-squat-start-f269dea1.json"
+    },
+    {
+      "shot": "r12-smith-glute-bridge-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-glute-bridge-start-fa9ca5c9.json"
+    },
+    {
+      "shot": "r12-smith-shrug-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-start-47ab9990.json"
+    },
+    {
+      "shot": "r12-smith-step-up-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-step-up-start-639d5b35.json"
+    }
+  ]
+}

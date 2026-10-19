@@ -1,0 +1,35 @@
+{
+  "id": "group_d2249ae2eb54495e",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T07:22:48+00:00",
+  "balanceBefore": 1055,
+  "quotedCredits": 12,
+  "members": [
+    {
+      "exerciseId": "open_fast_skipping_5e7af79c",
+      "shot": "r13-open_fast_skipping_5e7af79c-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "9a7e2f679b01e5bd3c05f7d15aa2cadc129cee150cb1f5590ac085c473a2c5dc",
+      "quoteFile": "form-media/ui-quotes/r13-open_fast_skipping_5e7af79c-video-paced-854f035e.json",
+      "quoteSha256": "375a65f6cb3b27fb6d7834f1cf961cacd33bf0fbc4ae8cff2338665518b53127",
+      "quoteCredits": 12,
+      "balance": 1055,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_fast_skipping_5e7af79c-start/attempt_5cb9bd50e94346ff.jpg",
+          "sha256": "607ef392a394a89dfb2a8b1422105b01abf8af897792e8cc9f6af1b3688c660e"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T07:23:54+00:00",
+  "balanceAfter": 1043,
+  "actualCredits": 12,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-f89412e0ff84499b.json",
+  "evidenceSha256": "c617193dc13e1c0fd35b02eb59731fcc100a1331bd48b434e4e04626962ab40b",
+  "terminalFailureIds": []
+}

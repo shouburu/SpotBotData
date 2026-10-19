@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-db_floor_press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-db_floor_press-t2v-926e2c95.json"
+    },
+    {
+      "shot": "r12-smith_rack_pull-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-smith_rack_pull-t2v-0f43a43e.json"
+    },
+    {
+      "shot": "r12-single-cable-row-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-row-t2v-26b1617c.json"
+    },
+    {
+      "shot": "r12-seated-single-db-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-single-db-press-t2v-0163971a.json"
+    },
+    {
+      "shot": "r12-single-db-triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-triceps-t2v-d62beee1.json"
+    },
+    {
+      "shot": "r12-seated-single-db-triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-single-db-triceps-t2v-3c28cfd1.json"
+    }
+  ]
+}

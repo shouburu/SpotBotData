@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_pil_tabletop_toe_tap-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_tabletop_toe_tap-start-544377ed.json"
+    },
+    {
+      "shot": "r13-cat_pil_heel_slide-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_heel_slide-start-e9979497.json"
+    },
+    {
+      "shot": "r13-cat_pil_bent_knee_fallout-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_bent_knee_fallout-start-c976fa05.json"
+    },
+    {
+      "shot": "r13-cat_pil_half_roll_back-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_half_roll_back-start-109e8ac0.json"
+    },
+    {
+      "shot": "r13-cat_mob_scapular_pushup-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_mob_scapular_pushup-start-f4eec28a.json"
+    },
+    {
+      "shot": "r13-cat_cal_bird_dog-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bird_dog-start-27858549.json"
+    }
+  ]
+}

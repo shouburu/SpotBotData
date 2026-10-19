@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-standing-cable-crunch-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-standing-cable-crunch-t2v-beeff874.json"
+    },
+    {
+      "shot": "r12-seated-bb-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-bb-press-t2v-2166a5cf.json"
+    },
+    {
+      "shot": "r12-seated-cable-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-press-t2v-fc57f7bb.json"
+    },
+    {
+      "shot": "r12-standing-smith-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-standing-smith-press-t2v-cce74919.json"
+    }
+  ]
+}

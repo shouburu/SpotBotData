@@ -1,0 +1,104 @@
+{
+  "id": "group_5ed31d4194bd4a59",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T20:10:46+00:00",
+  "balanceBefore": 3679,
+  "quotedCredits": 44,
+  "members": [
+    {
+      "exerciseId": "cat_var_high_cable_fly",
+      "shot": "r12-high-cable-fly-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "51a1d1e5d960716351d218e48be4a371c990bd072859dc23241ccb74ba51269a",
+      "quoteFile": "form-media/ui-quotes/r12-high-cable-fly-t2v-ef2906c6.json",
+      "quoteSha256": "b29592d04c40fdfb7f10f9c57e0152e4bbccf0b90368f1cc94be875ed3474134",
+      "quoteCredits": 10,
+      "balance": 3679,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-high-cable-fly-start/attempt_c63017c1e9254ba3.jpg",
+          "sha256": "db9dc414ccdc7a18ebd70f3199d169dedad9af8fd999235a9769618e1823cc90"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_incline_cable_fly",
+      "shot": "r12-incline-cable-fly-t2v",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "f8e26efe3b5d49b453c35f28123268818bc05b8dd6452d250e0fd53d243c04eb",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-fly-t2v-c7500be7.json",
+      "quoteSha256": "f812621f7b1e7141785730eaf814f5a122f97bbd46015e84f46af3290f9a68dd",
+      "quoteCredits": 10,
+      "balance": 3679,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-incline-cable-fly-start/attempt_569e2b511e214d14.jpg",
+          "sha256": "0632ae6b7ff8cfaa8cab0073e8699ec5140ad7dbc1af612afcb96f387e92d8f8"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-t2v",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "888f6c926d7201c3e14b15776f2ffd1d81210326164b03c07add881f35677e1e",
+      "quoteFile": "form-media/ui-quotes/r12-flat-db-rear-fly-t2v-7484262c.json",
+      "quoteSha256": "4c30a5e26ed0a62ceb10f5523d38aec5d9530a4066494071601131d10324d643",
+      "quoteCredits": 12,
+      "balance": 3679,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-flat-db-rear-fly-start/attempt_8c1b8563b1ff4dd4.jpg",
+          "sha256": "9a52a2d1428c8d3b8b5d9103e58593b7c7c7826f67264a77ab9834e44ce08a61"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_decline_ez_triceps",
+      "shot": "r12-decline_ez_triceps-t2v",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "55e12719f5e072022b6d3574b339011e7906ad802b561d7783b30363caec7a94",
+      "quoteFile": "form-media/ui-quotes/r12-decline_ez_triceps-t2v-b0c95eb7.json",
+      "quoteSha256": "182a63b51df2f38ac5253983341e803791c24b37164b6f3f5b9c1a96f475a2c5",
+      "quoteCredits": 12,
+      "balance": 3679,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-decline_ez_triceps-start/attempt_5598b4489246421f.jpg",
+          "sha256": "96ea16fb50a9781e8a164a6d570a1075235e4e0a8071602dc8b954f557b02a77"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "4d829e4329cbf66797a0f16ce04942542103c580177d37a95fac1af17e689055",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-start-dfc437f7.json",
+      "quoteSha256": "b871aefcba428dd3dfd579874d609c74da7083b4f659f638c0d62ee7172ae0a4",
+      "quoteCredits": 0,
+      "balance": 3679,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_smith_drag_curl",
+      "shot": "r12-smith-drag-curl-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "3b37231d3490b46197b72e98a01e93d1910f26294a0ff1491cace045592cb2df",
+      "quoteFile": "form-media/ui-quotes/r12-smith-drag-curl-start-b49062cd.json",
+      "quoteSha256": "f41c946a25c0cdae4b97629e1b66595beaaabec0dc3c65f9bf6be21159ad9839",
+      "quoteCredits": 0,
+      "balance": 3679,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T20:12:03+00:00",
+  "balanceAfter": 3635,
+  "actualCredits": 44,
+  "evidenceFile": "form-media/ui-quotes/observed-e70cf390ba86494e.json",
+  "evidenceSha256": "1abe499ca2ffc94d9b9bcbd36ecdcc996323bd7862c3c105325b2526450cc8c8",
+  "terminalFailureIds": []
+}

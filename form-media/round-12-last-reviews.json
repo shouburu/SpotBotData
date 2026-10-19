@@ -1,0 +1,1183 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-12",
+  "reviews": [
+    {
+      "assetId": "r12-seated-leg-press-t2v-73c76a80",
+      "attemptId": "attempt_73c76a80613e4c93",
+      "exerciseId": "cat_var_seated_leg_press",
+      "shot": "r12-seated-leg-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-leg-press-t2v-73c76a80.mp4",
+      "outputSha256": "5b6d0383cbccba7c11e5af7750d2ba5ecf15895fe5fcb7876e6a6570a4a46338",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:07:08.959860+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Across both three-frames-per-second sheets, the exact six-second delivery shows one bilateral knee extension from the supported bent-knee setup to comfortably nearly straight legs, then one continuous return to the original bend and a still finish. No extra partial repetition is visible.",
+        "The seat carriage and supported body move horizontally backward and forward along the rails. The vertical platform remains fixed, both feet remain planted on it and both hands preserve their grip contacts. Full-resolution turnaround confirms supported back and pelvis without lift or frame morphing.",
+        "Orange stays on the exposed anterior thigh/quadriceps fibers and subtle blue supporting cues remain anatomically attached throughout the cycle. Opaque shorts, fixed camera, equipment and source lighting persist."
+      ],
+      "limitations": [
+        "Whole exact delivery screened at three frames per second, with full-resolution opening, near-extension turnaround and final return images. The side perspective limits depth-axis knee alignment assessment.",
+        "AI editorial candidate only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_73c76a80613e4c93/review-3fps-01.jpg",
+        "reports/form-media/attempt_73c76a80613e4c93/review-3fps-02.jpg",
+        "reports/form-media/attempt_73c76a80613e4c93/review-full-start.png",
+        "reports/form-media/attempt_73c76a80613e4c93/review-full-turnaround.png",
+        "reports/form-media/attempt_73c76a80613e4c93/review-full-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-leg-extension-t2v-a08b3607",
+      "attemptId": "attempt_a08b3607ff5349cf",
+      "exerciseId": "cat_var_single_leg_extension",
+      "shot": "r12-single-leg-extension-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-leg-extension-t2v-a08b3607.mp4",
+      "outputSha256": "d26f9e17d26f3a09132459f4045b6fa40ed7092037c9d00eee7e8c3feb56b877",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:17:57.900538+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Across the whole delivery, the working foot first lowers from the moderately bent source pose toward the floor as the knee bends further. It then rises only back to the original partly extended angle. The knee never reaches a comfortably nearly straight extension endpoint.",
+        "Full-resolution start, deepest-flexion and finish frames confirm a flexion-first partial movement rather than the requested extension then return. No contiguous trim contains the missing near-extension endpoint.",
+        "The selected stack visibly rises during knee flexion and lowers on the return, reinforcing the reversed machine action. The unused foot and seat supports remain stable; the motion direction and range need correction."
+      ],
+      "limitations": [
+        "Whole exact six-second delivery screened at three frames per second, with full-resolution initial, deepest-flexion and final images.",
+        "AI editorial review only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a08b3607ff5349cf/review-3fps-01.jpg",
+        "reports/form-media/attempt_a08b3607ff5349cf/review-3fps-02.jpg",
+        "reports/form-media/attempt_a08b3607ff5349cf/review-full-start.png",
+        "reports/form-media/attempt_a08b3607ff5349cf/review-full-deep-flexion.png",
+        "reports/form-media/attempt_a08b3607ff5349cf/review-full-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-leg-extension-t2v-a7a540be",
+      "attemptId": "attempt_a7a540bef11347bc",
+      "exerciseId": "cat_var_single_leg_extension",
+      "shot": "r12-single-leg-extension-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-leg-extension-t2v-a7a540be.mp4",
+      "outputSha256": "758fa84884dad0687fa054af593f158a23c2d760bd6d101bb3a631a9237881a7",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:44:58.594653+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The raw delivery has a visible near-straight extension, but after returning toward the initial bend it overshoots: the working foot/roller are markedly below the pictured start at 4.33 seconds, then rise back to the start by the finish. That adds a flexion-return bounce.",
+        "The opening and final poses match, but matching endpoints alone do not establish exactly one controlled cycle. The previous candidate verdict is superseded after a whole-timeline re-review.",
+        "Inspecting the initial continuous extension and return for an honest complete-cycle trim before the overshoot; no trim or still finish is accepted without exact delivery inspection."
+      ],
+      "limitations": [
+        "Whole exact delivery screened at three frames per second plus full-resolution start, near-extension turnaround and finish. This uses the reviewed source moderate starting bend and a comfortable extension range.",
+        "AI editorial candidate only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a7a540bef11347bc/review-3fps-01.jpg",
+        "reports/form-media/attempt_a7a540bef11347bc/review-3fps-02.jpg",
+        "reports/form-media/attempt_a7a540bef11347bc/review-full-start.png",
+        "reports/form-media/attempt_a7a540bef11347bc/review-full-turnaround.png",
+        "reports/form-media/attempt_a7a540bef11347bc/review-full-finish.png",
+        "reports/form-media/attempt_a7a540bef11347bc/root-4.33.png",
+        "reports/form-media/attempt_a7a540bef11347bc/root-5.66.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-leg-extension-i2v-cycle-a7a540be",
+      "attemptId": "attempt_a7a540bef11347bc",
+      "exerciseId": "cat_var_single_leg_extension",
+      "shot": "r12-single-leg-extension-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-leg-extension-i2v-cycle-a7a540be.mp4",
+      "outputSha256": "baa04df06fa92024fe5749b90dfe44b865187debe2916bc9a9d265a5875e6bc3",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:48:46.312247+00:00",
+      "reviewKind": "exact-derived-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact 4.541667-second registered derivative shows one unilateral working-knee extension to a plainly near-straight endpoint, then a continuous return to the pictured opening foot/roller height followed by an actual still presentation hold. The later overshoot and bounce are excluded.",
+        "Both entire three-frames-per-second sheets and full-resolution start, extension turnaround, returned pose and final hold were re-inspected on the exact derivative. The working roller retains its lower-shin contact; unused foot, hands, back and pelvis keep their original support contacts. Orange remains attached to working quadriceps.",
+        "Provenance retains only the contiguous original-speed source interval 0\u20133.541667 seconds and adds disclosed 0.50-second cloned still frames at each endpoint. The unedited source passes through the returned pose and later overshoots; it did not itself finish still at this early return. No reverse, invented return, interpolation or new generated motion was used; generation credits are zero and original source remains retained."
+      ],
+      "limitations": [
+        "Exact derived delivery and complete timeline independently reviewed. The original raw delivery remains needs-correction for its later added flexion-return bounce.",
+        "AI editorial candidate only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-single-leg-extension-i2v-cycle-a7a540be/review-3fps-01.jpg",
+        "reports/form-media/r12-single-leg-extension-i2v-cycle-a7a540be/review-3fps-02.jpg",
+        "reports/form-media/r12-single-leg-extension-i2v-cycle-a7a540be/review-full-start.png",
+        "reports/form-media/r12-single-leg-extension-i2v-cycle-a7a540be/review-full-turnaround.png",
+        "reports/form-media/r12-single-leg-extension-i2v-cycle-a7a540be/review-full-returned.png",
+        "reports/form-media/r12-single-leg-extension-i2v-cycle-a7a540be/review-full-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-bb-spider-curl-t2v-a3ded74e",
+      "attemptId": "attempt_a3ded74e3181409a",
+      "exerciseId": "cat_var_bb_spider_curl",
+      "shot": "r12-bb-spider-curl-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-bb-spider-curl-t2v-a3ded74e.mp4",
+      "outputSha256": "fdc2bf48e25dd566fe61978d8bd4853c5ef5ea2040211dec796f2d73eb89701e",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T19:53:29.938520+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The complete six-second delivery shows one bilateral barbell spider curl from the hanging source bar to a visibly flexed-elbow endpoint, followed by one continuous controlled lowering all the way to the opening bar/hand position and a still finish.",
+        "In addition to both dense three-frames-per-second sheets, actual full-resolution return frames at 3.7, 4.33 and 5.33 seconds were inspected. They show the same ongoing return reaching the source position by the final hold; no added bounce, extra partial curl or overshoot-return is present.",
+        "Chest remains against the inclined pad, feet keep their braced contacts, and upper arms remain hanging in place while the forearms curl. Both palm-up grips remain on the same rigid straight bar with matching plates, clear of the bench. Orange stays on actual anterior biceps fibers, shorts opaque, camera fixed."
+      ],
+      "limitations": [
+        "Whole exact delivery screened at three frames per second with full-resolution start, working turnaround, three late-return samples and finish. Single-view perspective limits exact three-dimensional joint-angle measurement.",
+        "AI editorial candidate only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a3ded74e3181409a/review-3fps-01.jpg",
+        "reports/form-media/attempt_a3ded74e3181409a/review-3fps-02.jpg",
+        "reports/form-media/attempt_a3ded74e3181409a/review-full-start.png",
+        "reports/form-media/attempt_a3ded74e3181409a/review-full-turnaround.png",
+        "reports/form-media/attempt_a3ded74e3181409a/review-full-return-3.7.png",
+        "reports/form-media/attempt_a3ded74e3181409a/review-full-late-4.33.png",
+        "reports/form-media/attempt_a3ded74e3181409a/review-full-late-5.33.png",
+        "reports/form-media/attempt_a3ded74e3181409a/review-full-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-cable-row-t2v-3c507b33",
+      "attemptId": "attempt_3c507b33cf5f42f8",
+      "exerciseId": "cat_var_single_cable_row",
+      "shot": "r12-single-cable-row-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-row-t2v-3c507b33.mp4",
+      "outputSha256": "e1ba996d6b757760555c56fa2e6b1141d6ba35f14a2894fdb3e655a3b751e602",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:14:03.776147+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The full timeline shows one pull/return, but orange upper-back and blue lat cues fade almost completely to gray at the contraction endpoint; full-resolution 2.33 seconds confirms disappearance rather than anatomical occlusion.",
+        "The unused arm drops from its source pose, and after returning forward the working elbow bends slightly again near the finish. A complete still finish is not preserved. The working handle also remains noticeably forward of the ribs at the pull endpoint."
+      ],
+      "limitations": [
+        "Exact entire six-second delivery inspected at three frames per second, with full-resolution start, turnaround, return and late/final frames.",
+        "AI editorial review is separate from human acceptance and trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3c507b33cf5f42f8/review-3fps-01.jpg",
+        "reports/form-media/attempt_3c507b33cf5f42f8/review-3fps-02.jpg",
+        "reports/form-media/attempt_3c507b33cf5f42f8/workflow-start.png",
+        "reports/form-media/attempt_3c507b33cf5f42f8/workflow-turnaround.png",
+        "reports/form-media/attempt_3c507b33cf5f42f8/workflow-return.png",
+        "reports/form-media/attempt_3c507b33cf5f42f8/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-db-triceps-t2v-8149f6c0",
+      "attemptId": "attempt_8149f6c0166a405b",
+      "exerciseId": "cat_var_single_db_triceps",
+      "shot": "r12-single-db-triceps-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-db-triceps-t2v-8149f6c0.mp4",
+      "outputSha256": "349b2c338d12b327eb101594cbe636842a87f22a73f6e440692c1650eed7b2c8",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:14:03.776147+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The cycle bends and re-extends the working elbow, but the upper arm swings outward markedly: the elbow travels from above the shoulder toward the side at the lowering endpoint instead of remaining beside the head. Full-resolution endpoint comparison shows approximately 25 degrees of upper-arm change.",
+        "After reaching its original overhead return near 4.33 seconds, the elbow bends again slightly by the 5.9-second final frame. The raw delivery therefore includes a late partial movement rather than a still finish. Primary triceps cues remain visible."
+      ],
+      "limitations": [
+        "Exact entire six-second delivery inspected at three frames per second, with full-resolution start, turnaround, return and late/final frames.",
+        "AI editorial review is separate from human acceptance and trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8149f6c0166a405b/review-3fps-01.jpg",
+        "reports/form-media/attempt_8149f6c0166a405b/review-3fps-02.jpg",
+        "reports/form-media/attempt_8149f6c0166a405b/workflow-start.png",
+        "reports/form-media/attempt_8149f6c0166a405b/workflow-turnaround.png",
+        "reports/form-media/attempt_8149f6c0166a405b/workflow-return.png",
+        "reports/form-media/attempt_8149f6c0166a405b/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-single-db-triceps-t2v-db298236",
+      "attemptId": "attempt_db2982365ef94913",
+      "exerciseId": "cat_var_seated_single_db_triceps",
+      "shot": "r12-seated-single-db-triceps-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-single-db-triceps-t2v-db298236.mp4",
+      "outputSha256": "204755c0bc43e3f4e83ea6c6c125ae73a560a5bfb124ecb15f7f579620f77ebd",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:14:03.776147+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact delivery shows one seated elbow extension to a nearly straight overhead endpoint and a continuous return, with preserved support, grip and orange triceps cues.",
+        "The return passes through the pictured initial bend/weight height at about 3.6667 seconds, then lowers slightly farther by 4.0 seconds and rises back toward the source height around 5.0 seconds. Raw late overshoot/rebound is rejected; a contiguous original-speed first-cycle derivative is proposed separately and is not yet registered or accepted."
+      ],
+      "limitations": [
+        "Exact entire six-second delivery inspected at three frames per second, with full-resolution start, turnaround, return and late/final frames.",
+        "AI editorial review is separate from human acceptance and trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_db2982365ef94913/review-3fps-01.jpg",
+        "reports/form-media/attempt_db2982365ef94913/review-3fps-02.jpg",
+        "reports/form-media/attempt_db2982365ef94913/workflow-start.png",
+        "reports/form-media/attempt_db2982365ef94913/workflow-turnaround.png",
+        "reports/form-media/attempt_db2982365ef94913/workflow-return-3.666667.png",
+        "reports/form-media/attempt_db2982365ef94913/workflow-returned.png",
+        "reports/form-media/attempt_db2982365ef94913/workflow-late-pulse.png",
+        "reports/form-media/attempt_db2982365ef94913/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-single-db-press-t2v-48223920",
+      "attemptId": "attempt_48223920e48940fb",
+      "exerciseId": "cat_var_seated_single_db_press",
+      "shot": "r12-seated-single-db-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-single-db-press-t2v-48223920.mp4",
+      "outputSha256": "3a850c97e5fac4c2b0a03fb3fa324ee39b06a11dcc940175b4782564106ccf3d",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:14:03.776147+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working dumbbell reaches a near-straight overhead endpoint, but its upper plate edge is cropped by the top of the delivered frame. The actual full-resolution 2.33-second frame establishes insufficient overhead space in the source composition.",
+        "The source orange deltoid almost entirely turns gray during the press and a small orange patch appears near the opposite upper arm. The final lowered dumbbell position/grip also differs from the opening pose. A source framing edit and persistent source-mapped cue motion are required; no honest trim restores a visible full endpoint."
+      ],
+      "limitations": [
+        "Exact entire six-second delivery inspected at three frames per second, with full-resolution start, turnaround, return and late/final frames.",
+        "AI editorial review is separate from human acceptance and trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_48223920e48940fb/review-3fps-01.jpg",
+        "reports/form-media/attempt_48223920e48940fb/review-3fps-02.jpg",
+        "reports/form-media/attempt_48223920e48940fb/workflow-start.png",
+        "reports/form-media/attempt_48223920e48940fb/workflow-turnaround.png",
+        "reports/form-media/attempt_48223920e48940fb/workflow-return.png",
+        "reports/form-media/attempt_48223920e48940fb/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-single-db-triceps-i2v-cycle-db298236",
+      "attemptId": "attempt_db2982365ef94913",
+      "exerciseId": "cat_var_seated_single_db_triceps",
+      "shot": "r12-seated-single-db-triceps-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-single-db-triceps-i2v-cycle-db298236.mp4",
+      "outputSha256": "c11d3c7866d611bc27af1754e31d770d1771401aa64535cd88ed943105fadbe3",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:16:09.328197+00:00",
+      "reviewKind": "exact-derived-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact 4.708333-second registered derivative shows one extension from the pictured moderately bent overhead elbow to a comfortably nearly straight endpoint, followed by one continuous full return to the actual initial bend and dumbbell height. Full-resolution returned/finish frames match the source pose.",
+        "Seat/pelvis contact, planted feet, unused hand, fixed camera, one rigid dumbbell and orange posterior triceps cues persist through the complete cycle. The upper arm stays beside the head with only a small visible variation rather than the marked outward sweep of the failed standing version.",
+        "This is an original-speed contiguous 0\u20133.708333-second source excerpt ending on the actual returned pose at source frame 88 (3.666667 seconds), with disclosed cloned 0.50-second holds at each endpoint. Raw continues into a slight overshoot/rebound afterward and is separately failed; raw natural still finish is not claimed. No reversed, interpolated or fabricated return is used; full source retained and generation credits are zero."
+      ],
+      "limitations": [
+        "Exact derivative screened across its whole timeline at three frames per second, with actual full-resolution start, extension endpoint, returned pose and finish.",
+        "Added still endpoint holds are presentation edits and are disclosed in registered edit provenance. AI candidate only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-seated-single-db-triceps-i2v-cycle-db298236/review-3fps-01.jpg",
+        "reports/form-media/r12-seated-single-db-triceps-i2v-cycle-db298236/review-3fps-02.jpg",
+        "reports/form-media/r12-seated-single-db-triceps-i2v-cycle-db298236/workflow-start.png",
+        "reports/form-media/r12-seated-single-db-triceps-i2v-cycle-db298236/workflow-turnaround.png",
+        "reports/form-media/r12-seated-single-db-triceps-i2v-cycle-db298236/workflow-returned.png",
+        "reports/form-media/r12-seated-single-db-triceps-i2v-cycle-db298236/workflow-finish.png"
+      ],
+      "provenance": {
+        "sourceAttemptId": "attempt_db2982365ef94913",
+        "sourceAssetId": "r12-seated-single-db-triceps-t2v-db298236",
+        "trimStartSeconds": 0,
+        "trimEndSeconds": 3.708333,
+        "playbackRate": 1,
+        "leadHoldSeconds": 0.5,
+        "tailHoldSeconds": 0.5,
+        "generationCredits": 0,
+        "sourcePassThroughPoseSeconds": 3.666667,
+        "rawOvershootExcluded": true
+      }
+    },
+    {
+      "assetId": "r12-single-cable-row-t2v-e83be12d",
+      "attemptId": "attempt_e83be12d5bb04e61",
+      "exerciseId": "cat_var_single_cable_row",
+      "shot": "r12-single-cable-row-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-row-t2v-e83be12d.mp4",
+      "outputSha256": "1b249d85ce01fa1cb0df9d914a49addde2b3d2075754fc0019dc954858212218",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:23:26.205707+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual eight-second Quality delivery preserves muscle-fiber texture and improves visible color retention compared with the first attempt, but it creates blue on the working shoulder during pull and then spreads orange onto both shoulder caps, working upper arm and forearm during return. Full-resolution 4.67 seconds shows definite non-primary orange anatomy, so no whole correct-cycle trim exists.",
+        "After the first pull and forward return, the figure lowers/releases the handle and both arms drop beside the seat near the end. This added setup/exit action replaces the required still returned source pose.",
+        "The frozen prompt for this attempt is the generic constant-material/unused-arm correction; the later proposed timed-phase wording was not used and is not claimed as provenance."
+      ],
+      "limitations": [
+        "Exact entire eight-second delivery inspected at three frames per second, with full-resolution opening, pull endpoint, returned pose and finish.",
+        "AI editorial quality hold only; no human/trainer acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e83be12d5bb04e61/review-3fps-01.jpg",
+        "reports/form-media/attempt_e83be12d5bb04e61/review-3fps-02.jpg",
+        "reports/form-media/attempt_e83be12d5bb04e61/workflow-start.png",
+        "reports/form-media/attempt_e83be12d5bb04e61/workflow-turnaround.png",
+        "reports/form-media/attempt_e83be12d5bb04e61/workflow-returned.png",
+        "reports/form-media/attempt_e83be12d5bb04e61/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-leg-press-t2v-a5e8ba50",
+      "attemptId": "attempt_a5e8ba5077f84b01",
+      "exerciseId": "cat_var_single_leg_press",
+      "shot": "r12-single-leg-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-leg-press-t2v-a5e8ba50.mp4",
+      "outputSha256": "320dc616006b09968784fc191b6ae0a8e6c118d3989a362ec0860e97158a8d3f",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:32:04.766281+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first cycle extends only the working leg to comfortably nearly straight, with the footplate sled moving up/away on inclined rails while the supported seat/backrest and unused foot stay fixed. Attached orange quadriceps and blue supporting cues persist.",
+        "The return reaches the pictured initial knee bend/carriage position near 3.208333 seconds, then continues to a slightly deeper bend by 4.0 seconds and rises back by 5.33 seconds. The raw return overshoot/rebound is held; a contiguous first-cycle derivative is proposed separately."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution endpoints and uncertain/late phases.",
+        "AI editorial judgment only; human acceptance and trainer validation are separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a5e8ba5077f84b01/review-3fps-01.jpg",
+        "reports/form-media/attempt_a5e8ba5077f84b01/review-3fps-02.jpg",
+        "reports/form-media/attempt_a5e8ba5077f84b01/workflow-start.png",
+        "reports/form-media/attempt_a5e8ba5077f84b01/workflow-turnaround.png",
+        "reports/form-media/attempt_a5e8ba5077f84b01/workflow-return-3.208333.png",
+        "reports/form-media/attempt_a5e8ba5077f84b01/workflow-returned.png",
+        "reports/form-media/attempt_a5e8ba5077f84b01/workflow-late.png",
+        "reports/form-media/attempt_a5e8ba5077f84b01/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-machine-high-row-t2v-e28484d9",
+      "attemptId": "attempt_e28484d92efc4196",
+      "exerciseId": "cat_var_machine_high_row",
+      "shot": "r12-machine-high-row-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-machine-high-row-t2v-e28484d9.mp4",
+      "outputSha256": "02d99523b91bbddbb40e4e44018e41aa63f38f363d1c300fd3c5c5daec56d6e0",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:32:04.766281+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first cycle pulls the same rigid machine handles down toward the upper side ribs with elbows down/back, chest against pad, seated pelvis and planted feet. Full-resolution endpoint confirms a genuine high-row contraction rather than the misleading shoulder-height impression of the small sheet. Orange medial upper back and subtle blue lats remain present.",
+        "The first full returned high-reach pose is present at 3.666667 seconds, then a second partial pull occurs around 4.33 seconds before another high return. Raw extra motion is rejected; an original-speed first-cycle derivative is proposed separately."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution endpoints and uncertain/late phases.",
+        "AI editorial judgment only; human acceptance and trainer validation are separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e28484d92efc4196/review-3fps-01.jpg",
+        "reports/form-media/attempt_e28484d92efc4196/review-3fps-02.jpg",
+        "reports/form-media/attempt_e28484d92efc4196/workflow-start.png",
+        "reports/form-media/attempt_e28484d92efc4196/workflow-turnaround.png",
+        "reports/form-media/attempt_e28484d92efc4196/workflow-return-3.666667.png",
+        "reports/form-media/attempt_e28484d92efc4196/workflow-late-partial.png",
+        "reports/form-media/attempt_e28484d92efc4196/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-lying-cable-curl-t2v-393e685f",
+      "attemptId": "attempt_393e685f80de4458",
+      "exerciseId": "cat_var_lying_cable_curl",
+      "shot": "r12-lying-cable-curl-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-lying-cable-curl-t2v-393e685f.mp4",
+      "outputSha256": "a684abcf329d900b5b0f73137a3d9598b6bc1a2ffeb2e3d85f6d47efca8bd524",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:32:04.766281+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working upper arms lower from pointing toward the high pulley onto the bench/chest region during the contraction. Full-resolution 2.0 seconds shows elbows down beside the torso and the bar above the chest, not a fixed-upper-arm curl toward the forehead.",
+        "This is a pulldown/shoulder sweep substitution. Support, grip and biceps cues persist, but there is no independently correct full curl cycle to trim."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution endpoints and uncertain/late phases.",
+        "AI editorial judgment only; human acceptance and trainer validation are separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_393e685f80de4458/review-3fps-01.jpg",
+        "reports/form-media/attempt_393e685f80de4458/review-3fps-02.jpg",
+        "reports/form-media/attempt_393e685f80de4458/workflow-start.png",
+        "reports/form-media/attempt_393e685f80de4458/workflow-turnaround.png",
+        "reports/form-media/attempt_393e685f80de4458/workflow-returned.png",
+        "reports/form-media/attempt_393e685f80de4458/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-decline-machine-press-t2v-ef7288e1",
+      "attemptId": "attempt_ef7288e1cc564d22",
+      "exerciseId": "cat_var_decline_machine_press",
+      "shot": "r12-decline-machine-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-decline-machine-press-t2v-ef7288e1.mp4",
+      "outputSha256": "c16f32951368f0e1cff33e980be3c68ce7f69d7692a2639cc272cd39d8f25f0d",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:32:04.766281+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Across the exact six-second delivery, the handles and elbow angles make only small repeated pulses near the initial position. No full outward phase reaches comfortably nearly straight elbows.",
+        "The handles move slightly upward rather than establishing the catalog downward-forward extended press endpoint. Support and chest cues remain usable, but an incomplete-range cycle cannot be repaired by trimming."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution endpoints and uncertain/late phases.",
+        "AI editorial judgment only; human acceptance and trainer validation are separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ef7288e1cc564d22/review-3fps-01.jpg",
+        "reports/form-media/attempt_ef7288e1cc564d22/review-3fps-02.jpg",
+        "reports/form-media/attempt_ef7288e1cc564d22/workflow-start.png",
+        "reports/form-media/attempt_ef7288e1cc564d22/workflow-turnaround.png",
+        "reports/form-media/attempt_ef7288e1cc564d22/workflow-returned.png",
+        "reports/form-media/attempt_ef7288e1cc564d22/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-bb-triceps-t2v-039eda99",
+      "attemptId": "attempt_039eda99a616443a",
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "shot": "r12-incline-bb-triceps-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-incline-bb-triceps-t2v-039eda99.mp4",
+      "outputSha256": "699e0032d666b3383c355d33447c77bf449e084eef0e7f492b1bc0c865d71353",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:32:04.766281+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The near upper arm/elbow descends about 100 pixels from its raised source position toward the torso while the bar is lowered in front of the head. Full-resolution 2.0 seconds shows a chest-press pattern with dropped elbows instead of elbow flexion around mostly steady raised upper arms and a behind-head bar endpoint.",
+        "The original raised bar returns and supports/cues largely persist, but the first outward phase is the wrong movement. No correct isolated incline-triceps cycle exists to trim."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution endpoints and uncertain/late phases.",
+        "AI editorial judgment only; human acceptance and trainer validation are separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_039eda99a616443a/review-3fps-01.jpg",
+        "reports/form-media/attempt_039eda99a616443a/review-3fps-02.jpg",
+        "reports/form-media/attempt_039eda99a616443a/workflow-start.png",
+        "reports/form-media/attempt_039eda99a616443a/workflow-turnaround.png",
+        "reports/form-media/attempt_039eda99a616443a/workflow-returned.png",
+        "reports/form-media/attempt_039eda99a616443a/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-leg-press-i2v-cycle-a5e8ba50",
+      "attemptId": "attempt_a5e8ba5077f84b01",
+      "exerciseId": "cat_var_single_leg_press",
+      "shot": "r12-single-leg-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-leg-press-i2v-cycle-a5e8ba50.mp4",
+      "outputSha256": "dc04afec2b4e915300936f1e1ea167e69e1dbd3fe698e831be8551b8d39d7ac0",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:41:25.296753+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Exact registered derivative contains the genuine first knee/hip extension and complete bent-knee returned pose. The working foot stays flat on the moving sled plate; unused foot stays on its separate support; pelvis/back remain supported; quad and supporting cues persist.",
+        "Original-speed contiguous source interval 0\u20133.25 seconds ends on the visually inspected source frame at 3.208333 seconds. Cloned 0.50-second holds are disclosed at both endpoints; the raw later deep return and rebound are excluded, and no natural raw still finish is claimed."
+      ],
+      "limitations": [
+        "Whole exact derivative inspected at three frames per second and full-resolution start, turnaround, returned pose and finish.",
+        "AI editorial candidate only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-single-leg-press-i2v-cycle-a5e8ba50/review-3fps-01.jpg",
+        "reports/form-media/r12-single-leg-press-i2v-cycle-a5e8ba50/review-3fps-02.jpg",
+        "reports/form-media/r12-single-leg-press-i2v-cycle-a5e8ba50/workflow-start.png",
+        "reports/form-media/r12-single-leg-press-i2v-cycle-a5e8ba50/workflow-turnaround.png",
+        "reports/form-media/r12-single-leg-press-i2v-cycle-a5e8ba50/workflow-returned.png",
+        "reports/form-media/r12-single-leg-press-i2v-cycle-a5e8ba50/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-machine-high-row-i2v-cycle-e28484d9",
+      "attemptId": "attempt_e28484d92efc4196",
+      "exerciseId": "cat_var_machine_high_row",
+      "shot": "r12-machine-high-row-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-machine-high-row-i2v-cycle-e28484d9.mp4",
+      "outputSha256": "d11c85851448cd521f8e836fc9d733003352171afc55a31b4625516382972918",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:41:25.300566+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Exact registered derivative contains one genuine pull to the upper side ribs with elbows down/back, then a complete high-arm return. Chest/seat/feet contacts and closed grips remain intact; orange upper-back and blue lat cues persist without spreading onto gray arms.",
+        "Original-speed contiguous source interval 0\u20133.708333 seconds ends on the source returned frame at 3.666667 seconds. Disclosed cloned 0.50-second endpoint holds supply still endpoints; the raw later second partial pull is excluded, and no natural raw still finish is claimed."
+      ],
+      "limitations": [
+        "Whole exact derivative inspected at three frames per second and full-resolution start, turnaround, returned pose and finish.",
+        "AI editorial candidate only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-machine-high-row-i2v-cycle-e28484d9/review-3fps-01.jpg",
+        "reports/form-media/r12-machine-high-row-i2v-cycle-e28484d9/review-3fps-02.jpg",
+        "reports/form-media/r12-machine-high-row-i2v-cycle-e28484d9/workflow-start.png",
+        "reports/form-media/r12-machine-high-row-i2v-cycle-e28484d9/workflow-turnaround.png",
+        "reports/form-media/r12-machine-high-row-i2v-cycle-e28484d9/workflow-returned.png",
+        "reports/form-media/r12-machine-high-row-i2v-cycle-e28484d9/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-lying-cable-curl-t2v-b47d1d53",
+      "attemptId": "attempt_b47d1d534a154745",
+      "exerciseId": "cat_var_lying_cable_curl",
+      "shot": "r12-lying-cable-curl-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-lying-cable-curl-t2v-b47d1d53.mp4",
+      "outputSha256": "39462573cd81650a37d226e6162f00abc55e88c3bd1f79a94fb2b5c3238ab5eb",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:43:54.625284+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Second actual output still sweeps both upper arms down until the elbows rest beside the chest/on the bench at 2.0 seconds. The bar approaches the chest instead of the forehead while upper arms stay pointed toward the pulley.",
+        "The return and still finish do not fix the incorrect pulldown-style first phase; no canonical complete cycle is available to trim. Distinctive closed-elbow, raised-upper-arm source refinement is warranted before another animation."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution start, peak, return and finish.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_b47d1d534a154745/review-3fps-01.jpg",
+        "reports/form-media/attempt_b47d1d534a154745/review-3fps-02.jpg",
+        "reports/form-media/attempt_b47d1d534a154745/workflow-start.png",
+        "reports/form-media/attempt_b47d1d534a154745/workflow-turnaround.png",
+        "reports/form-media/attempt_b47d1d534a154745/workflow-returned.png",
+        "reports/form-media/attempt_b47d1d534a154745/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-bb-triceps-t2v-78ffb1c7",
+      "attemptId": "attempt_78ffb1c70f814693",
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "shot": "r12-incline-bb-triceps-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-incline-bb-triceps-t2v-78ffb1c7.mp4",
+      "outputSha256": "5ec3c349407e1002dadb5082478e1c5eeceb9bea5a650a8c8f3fe722f39fdde1",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:43:54.625724+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Second actual output again drops the near elbow toward the torso and lowers the bar in front of the head. At 2.0 seconds the upper arm is nearly horizontal alongside the chest, producing an incline-press substitution rather than a mostly steady raised upper arm and behind-head elbow bend.",
+        "A complete return occurs, but no correct triceps-extension outward phase exists to trim. Use a physically distinct bent-elbow behind-head source before another animation."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution start, peak, return and finish.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_78ffb1c70f814693/review-3fps-01.jpg",
+        "reports/form-media/attempt_78ffb1c70f814693/review-3fps-02.jpg",
+        "reports/form-media/attempt_78ffb1c70f814693/workflow-start.png",
+        "reports/form-media/attempt_78ffb1c70f814693/workflow-turnaround.png",
+        "reports/form-media/attempt_78ffb1c70f814693/workflow-returned.png",
+        "reports/form-media/attempt_78ffb1c70f814693/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-cable-row-t2v-1f7709c4",
+      "attemptId": "attempt_1f7709c459c34631",
+      "exerciseId": "cat_var_single_cable_row",
+      "shot": "r12-single-cable-row-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-row-t2v-1f7709c4.mp4",
+      "outputSha256": "272054d8d56f93f26cf913c659f446688a71a13c452fbcc4360c1e1d19c6bc36",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:43:54.625888+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Orange upper-back and blue lat cues fade to nearly silver before the first peak and remain absent through the return. Full-resolution 2.67 and 4.67 seconds confirm the material loss; the colors recover only at the last source-like pose.",
+        "The whole eight-second timeline also contains an added partial pull late in the second sheet. No cue-preserving complete first cycle exists to derive. This is the fourth video output across models, so it remains a quality hold without further paid generation."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution start, peak, return and finish.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_1f7709c459c34631/review-3fps-01.jpg",
+        "reports/form-media/attempt_1f7709c459c34631/review-3fps-02.jpg",
+        "reports/form-media/attempt_1f7709c459c34631/workflow-start.png",
+        "reports/form-media/attempt_1f7709c459c34631/workflow-turnaround.png",
+        "reports/form-media/attempt_1f7709c459c34631/workflow-returned.png",
+        "reports/form-media/attempt_1f7709c459c34631/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-db-triceps-t2v-f22d1a79",
+      "attemptId": "attempt_f22d1a791a9147dc",
+      "exerciseId": "cat_var_single_db_triceps",
+      "shot": "r12-single-db-triceps-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-db-triceps-t2v-f22d1a79.mp4",
+      "outputSha256": "6147149aaeacf7090b7dc81de88bd0e28918018fc1e140e787a4d38f8a8af7e6",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:43:54.626250+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Second exact delivery shows one behind-head elbow bend with the same closed grip and rigid dumbbell, then a complete overhead return and still finish. Feet/trunk/unused hand remain stable, and the orange posterior triceps cue stays attached throughout.",
+        "Full-resolution start/peak comparison shows only about six degrees of upper-arm angle variation, materially smaller than the marked outward sweep in the first attempt. The upper arm remains raised while the forearm provides the dominant bend; no extra partial cycle occurs after return."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution start, peak, return and finish.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f22d1a791a9147dc/review-3fps-01.jpg",
+        "reports/form-media/attempt_f22d1a791a9147dc/review-3fps-02.jpg",
+        "reports/form-media/attempt_f22d1a791a9147dc/workflow-start.png",
+        "reports/form-media/attempt_f22d1a791a9147dc/workflow-turnaround.png",
+        "reports/form-media/attempt_f22d1a791a9147dc/workflow-returned.png",
+        "reports/form-media/attempt_f22d1a791a9147dc/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-lunge-video-f3e2e298",
+      "attemptId": "attempt_f3e2e298c08b4f43",
+      "exerciseId": "cat_smith_lunge",
+      "shot": "r12-smith-lunge-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-lunge-video-f3e2e298.mp4",
+      "outputSha256": "dc254ba9abf1ab352bc17d3653693c95aef196e2664fbb9333d06f394fa47300",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:43:54.626518+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "One actual reverse-lunge cycle occurs with the front foot on the image right staying fixed and the image-left foot stepping back, then forward. The orange quad cues lose most saturation by the returned and final standing pose instead of preserving their source material.",
+        "The returned stepping foot also ends close beside the fixed foot instead of its original shoulder-width position. No complete cycle with both persistent cues and exact source foot return exists to trim."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution start, peak, return and finish.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f3e2e298c08b4f43/review-3fps-01.jpg",
+        "reports/form-media/attempt_f3e2e298c08b4f43/review-3fps-02.jpg",
+        "reports/form-media/attempt_f3e2e298c08b4f43/workflow-start.png",
+        "reports/form-media/attempt_f3e2e298c08b4f43/workflow-turnaround.png",
+        "reports/form-media/attempt_f3e2e298c08b4f43/workflow-returned.png",
+        "reports/form-media/attempt_f3e2e298c08b4f43/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-box-squat-video-fcbe7fb8",
+      "attemptId": "attempt_fcbe7fb8ecec4f02",
+      "exerciseId": "cat_smith_box_squat",
+      "shot": "r12-smith-box-squat-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-box-squat-video-fcbe7fb8.mp4",
+      "outputSha256": "595d849fdb86ac37a0edaeebf6ebbaefb9239f6cbffbcba4514022074a96a7e7",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:43:54.626780+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact eight-second delivery shows one controlled squat to actual pelvis/box-top contact and a brief seated endpoint, followed by a complete stand and still finish. The guided bar stays on the upper back, both hands retain the original grips, and both feet remain planted.",
+        "Orange actual quadriceps fibers stay bounded and readable through descent, box contact and return; torso/equipment do not change, and no extra rep follows. Full-resolution bottom and finished standing poses confirm support and full return."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with actual full-resolution start, peak, return and finish.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_fcbe7fb8ecec4f02/review-3fps-01.jpg",
+        "reports/form-media/attempt_fcbe7fb8ecec4f02/review-3fps-02.jpg",
+        "reports/form-media/attempt_fcbe7fb8ecec4f02/workflow-start.png",
+        "reports/form-media/attempt_fcbe7fb8ecec4f02/workflow-turnaround.png",
+        "reports/form-media/attempt_fcbe7fb8ecec4f02/workflow-returned.png",
+        "reports/form-media/attempt_fcbe7fb8ecec4f02/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-lunge-video-ad82d731",
+      "attemptId": "attempt_ad82d731619d48d7",
+      "exerciseId": "cat_smith_lunge",
+      "shot": "r12-smith-lunge-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-lunge-video-ad82d731.mp4",
+      "outputSha256": "4d4f5996599a6c380ec126264b2aeb0150e6e29a3aef060471613614377f1e02",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:56:51.986133+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second output now preserves the orange quadriceps through the actual reverse-lunge cycle and genuine standing return at 5.708333 seconds.",
+        "After that complete return, the previously planted image-right front foot shuffles inward; by the final pose the stance is narrower. Raw is held for this added post-return foot movement; a disclosed original-speed first-cycle derivative is registered and independently reviewed separately."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second plus full-resolution start, endpoint, returned pose and finish; uncertain late phases additionally inspected on original raw.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ad82d731619d48d7/review-3fps-01.jpg",
+        "reports/form-media/attempt_ad82d731619d48d7/review-3fps-02.jpg",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-start.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-turnaround.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-returned.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-finish.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-late-5.333333.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-late-5.666667.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-late-5.708333.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-late-5.75.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-late-5.833333.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-late-6.333333.png",
+        "reports/form-media/attempt_ad82d731619d48d7/workflow-late-6.666667.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-lunge-i2v-cycle-ad82d731",
+      "attemptId": "attempt_ad82d731619d48d7",
+      "exerciseId": "cat_smith_lunge",
+      "shot": "r12-smith-lunge-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-lunge-i2v-cycle-ad82d731.mp4",
+      "outputSha256": "50232d4bf8741c47561c9ae2331eb74cbdc025970087b3dad261dd51e19acb3a",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:56:51.986600+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Exact registered derivative contains one genuine reverse-lunge cycle: image-right front foot stays planted, other foot steps back, both knees bend under guided upper-back bar, then the body rises and the stepping foot returns to the original standing stance. Orange quad fibers remain attached and saturated throughout.",
+        "Original-speed contiguous source interval 0\u20135.75 seconds ends at the exact visually reviewed source returned frame 5.708333. Cloned 0.50-second endpoint holds are disclosed; the later raw front-foot shuffle is excluded, no motion is reversed or fabricated, and no natural raw final still is claimed."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second plus full-resolution start, endpoint, returned pose and finish; uncertain late phases additionally inspected on original raw.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-smith-lunge-i2v-cycle-ad82d731/review-3fps-01.jpg",
+        "reports/form-media/r12-smith-lunge-i2v-cycle-ad82d731/review-3fps-02.jpg",
+        "reports/form-media/r12-smith-lunge-i2v-cycle-ad82d731/workflow-start.png",
+        "reports/form-media/r12-smith-lunge-i2v-cycle-ad82d731/workflow-turnaround.png",
+        "reports/form-media/r12-smith-lunge-i2v-cycle-ad82d731/workflow-returned.png",
+        "reports/form-media/r12-smith-lunge-i2v-cycle-ad82d731/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-decline-machine-press-t2v-f1de25cc",
+      "attemptId": "attempt_f1de25cc45524dc6",
+      "exerciseId": "cat_var_decline_machine_press",
+      "shot": "r12-decline-machine-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-decline-machine-press-t2v-f1de25cc.mp4",
+      "outputSha256": "ac6f73a861fad51764d12d72f8ae94c0a4ecb4fb19f24cfdff6c640894ac272d",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T20:56:51.986695+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second exact output again makes repeated partial pulses and never reaches a comfortable nearly straight-elbow full press endpoint. The handles rise upward/forward rather than establishing the catalog slightly downward-forward decline press.",
+        "Support and chest cues persist, but no complete canonical range exists to trim. A physically distinctive extended decline-machine source is preferable to another generic motion-only correction."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second plus full-resolution start, endpoint, returned pose and finish; uncertain late phases additionally inspected on original raw.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f1de25cc45524dc6/review-3fps-01.jpg",
+        "reports/form-media/attempt_f1de25cc45524dc6/review-3fps-02.jpg",
+        "reports/form-media/attempt_f1de25cc45524dc6/workflow-start.png",
+        "reports/form-media/attempt_f1de25cc45524dc6/workflow-turnaround.png",
+        "reports/form-media/attempt_f1de25cc45524dc6/workflow-returned.png",
+        "reports/form-media/attempt_f1de25cc45524dc6/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-cable-curl-t2v-1afad1b1",
+      "attemptId": "attempt_1afad1b1a17d4753",
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-curl-t2v-1afad1b1.mp4",
+      "outputSha256": "dafdd77487a9a43c3210ea4997b79954188f63ca8983448afb0f25fbd628e685",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:06:00.738405+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact first output curls the formerly EMPTY GRAY arm on image left and invents a second D-handle/cable for it. The orange-biceps arm that actually held the source cable stays lowered; full-resolution peak confirms two handles instead of one.",
+        "The source pose is restored, but no correct single-arm curl by the actual orange working arm exists to trim. Correct the actor/handle binding while preserving the valid source."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with full-resolution start, peak, return, finish and any uncertain intermediate arc.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_1afad1b1a17d4753/review-3fps-01.jpg",
+        "reports/form-media/attempt_1afad1b1a17d4753/review-3fps-02.jpg",
+        "reports/form-media/attempt_1afad1b1a17d4753/workflow-start.png",
+        "reports/form-media/attempt_1afad1b1a17d4753/workflow-turnaround.png",
+        "reports/form-media/attempt_1afad1b1a17d4753/workflow-returned.png",
+        "reports/form-media/attempt_1afad1b1a17d4753/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-cable-fly-t2v-32dbe1a4",
+      "attemptId": "attempt_32dbe1a44c89408b",
+      "exerciseId": "cat_var_single_cable_fly",
+      "shot": "r12-single-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-fly-t2v-32dbe1a4.mp4",
+      "outputSha256": "f2800e4b8959982ca77d79acfc2500f8bb903d67bc2d3460e8cefa1ce916a7f9",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:06:00.738788+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working arm returns and all chest cues/supports persist, but during the inward phase the elbow gains a substantial bend and drops below its original shoulder-height line. Full-resolution 1.333, 1.667 and 2.333 seconds show the forearm folding across the chest instead of preserving the near-straight relaxed elbow in the fly arc.",
+        "There is no complete correct endpoint/return cycle with the source elbow curvature retained. Correct the shoulder-driven arc and explicitly prevent a new elbow bend, without changing the valid setup.",
+        "Independent reviewer inspected the exact source and full-resolution interior phases, including 1.667 and 2.0 seconds, and corroborated the visible elbow drop and rounded upper-arm/forearm fold rather than relying on endpoint shortening alone."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second with full-resolution start, peak, return, finish and any uncertain intermediate arc.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate.",
+        "Frontal projection can shorten an otherwise valid arm at the inward endpoint; this failure rests on the visible joint-shape change across interior frames, not a fixed pixel-angle threshold."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_32dbe1a44c89408b/review-3fps-01.jpg",
+        "reports/form-media/attempt_32dbe1a44c89408b/review-3fps-02.jpg",
+        "reports/form-media/attempt_32dbe1a44c89408b/workflow-start.png",
+        "reports/form-media/attempt_32dbe1a44c89408b/workflow-turnaround.png",
+        "reports/form-media/attempt_32dbe1a44c89408b/workflow-returned.png",
+        "reports/form-media/attempt_32dbe1a44c89408b/workflow-finish.png",
+        "reports/form-media/attempt_32dbe1a44c89408b/workflow-arc-1.333333.png",
+        "reports/form-media/attempt_32dbe1a44c89408b/workflow-arc-1.666667.png",
+        "reports/form-media/attempt_32dbe1a44c89408b/workflow-arc-2.333333.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-db-press-t2v-afa0b029",
+      "attemptId": "attempt_afa0b0293e9d40be",
+      "exerciseId": "cat_var_single_db_press",
+      "shot": "r12-single-db-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-db-press-t2v-afa0b029.mp4",
+      "outputSha256": "c605bd9116338b6f64a8008a0fdd15ae863c8499c5f35eaceacd0471595d55ef",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:27:54.109547+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The genuine overhead press retains the original working hand and attached orange deltoid cap, including its smaller projected overhead area. Full-resolution frames retain subtle blue abdominal material throughout; small contact sheets alone obscure that color.",
+        "The raw clip includes a preliminary lowering of the forearm/dumbbell by 0.667 seconds and a later small partial raise around 4.333 seconds after the first return. It does not present just one clean cycle with a still finish.",
+        "A genuine shoulder-height start at 0.666667 seconds, full overhead extension at 2.0 seconds and the same shoulder-height return at 3.666667 seconds support a contiguous first-cycle derivative ending at 3.708333 seconds, retaining original speed and disclosed endpoint holds."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second plus full-resolution start, peak, returned, finish and uncertain interior phases.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_afa0b0293e9d40be/review-3fps-01.jpg",
+        "reports/form-media/attempt_afa0b0293e9d40be/review-3fps-02.jpg",
+        "reports/form-media/attempt_afa0b0293e9d40be/workflow-finish.png",
+        "reports/form-media/attempt_afa0b0293e9d40be/workflow-interior-0.666667.png",
+        "reports/form-media/attempt_afa0b0293e9d40be/workflow-interior-1.0.png",
+        "reports/form-media/attempt_afa0b0293e9d40be/workflow-interior-3.333333.png",
+        "reports/form-media/attempt_afa0b0293e9d40be/workflow-interior-3.666667.png",
+        "reports/form-media/attempt_afa0b0293e9d40be/workflow-interior-4.333333.png",
+        "reports/form-media/attempt_afa0b0293e9d40be/workflow-returned.png",
+        "reports/form-media/attempt_afa0b0293e9d40be/workflow-start.png",
+        "reports/form-media/attempt_afa0b0293e9d40be/workflow-turnaround.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-cable-fly-t2v-3d86d228",
+      "attemptId": "attempt_3d86d2280d254d08",
+      "exerciseId": "cat_var_single_cable_fly",
+      "shot": "r12-single-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-fly-t2v-3d86d228.mp4",
+      "outputSha256": "a04e379d0d32c6b8c0adc42c89f2d764512f5c821299811aca6280e486f2ff4a",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:27:54.109547+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second animation again changes the working elbow curvature rather than maintaining the source soft bend. At 1.333 seconds the visible elbow drops below the shoulder-height chain and the forearm folds; by 1.667\u20132.333 seconds the hand is brought close to the chest with a curled arm shape.",
+        "The torso, feet, original single handle/cable, pectoral material and returned pose remain coherent, but no complete fly cycle preserves the required steady elbow angle. Endpoint foreshortening alone is not the basis of this failure; the interior joint shape changes.",
+        "Repeating the same frontal source has not corrected the movement. A final source with a working-side three-quarter camera will show the shoulder\u2013elbow\u2013wrist depth more clearly before any next paid animation."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second plus full-resolution start, peak, returned, finish and uncertain interior phases.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3d86d2280d254d08/review-3fps-01.jpg",
+        "reports/form-media/attempt_3d86d2280d254d08/review-3fps-02.jpg",
+        "reports/form-media/attempt_3d86d2280d254d08/workflow-finish.png",
+        "reports/form-media/attempt_3d86d2280d254d08/workflow-interior-1.333333.png",
+        "reports/form-media/attempt_3d86d2280d254d08/workflow-interior-1.666667.png",
+        "reports/form-media/attempt_3d86d2280d254d08/workflow-interior-2.333333.png",
+        "reports/form-media/attempt_3d86d2280d254d08/workflow-returned.png",
+        "reports/form-media/attempt_3d86d2280d254d08/workflow-start.png",
+        "reports/form-media/attempt_3d86d2280d254d08/workflow-turnaround.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-cable-curl-t2v-c1481c67",
+      "attemptId": "attempt_c1481c6793b34bf6",
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-curl-t2v-c1481c67.mp4",
+      "outputSha256": "b2497ef10732c3cc9d4dc174c6c16ee885cbf4ef58d9f416d6a98828f30f388c",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:27:54.109547+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The working orange-biceps arm curls, but the originally empty gray opposite arm also curls and joins the attachment. At 2.333 seconds the original one-hand D-handle has morphed into a long bilateral bent bar held by both hands.",
+        "This is a bilateral equipment/actor substitution, not the catalog single-arm low-cable curl. The exact source contains only one D-handle, and no continuous complete single-arm cycle occurs before the added opposite-arm action.",
+        "A final targeted static-source edit can anchor the unused open hand against the hip while preserving the correct one-handle low-pulley setup, followed by actual source review before another animation."
+      ],
+      "limitations": [
+        "Whole exact delivery inspected at three frames per second plus full-resolution start, peak, returned, finish and uncertain interior phases.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_c1481c6793b34bf6/review-3fps-01.jpg",
+        "reports/form-media/attempt_c1481c6793b34bf6/review-3fps-02.jpg",
+        "reports/form-media/attempt_c1481c6793b34bf6/workflow-finish.png",
+        "reports/form-media/attempt_c1481c6793b34bf6/workflow-interior-2.333333.png",
+        "reports/form-media/attempt_c1481c6793b34bf6/workflow-returned.png",
+        "reports/form-media/attempt_c1481c6793b34bf6/workflow-start.png",
+        "reports/form-media/attempt_c1481c6793b34bf6/workflow-turnaround.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-db-press-i2v-cycle-afa0b029",
+      "attemptId": "attempt_afa0b0293e9d40be",
+      "exerciseId": "cat_var_single_db_press",
+      "shot": "r12-single-db-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-db-press-i2v-cycle-afa0b029.mp4",
+      "outputSha256": "80bad761cd7bd51162b0bc4d313f153d4baf77332c65a4f15f92e24b96dedbd5",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:29:13.841167+00:00",
+      "reviewKind": "exact-registered-delivery-3fps-and-full-resolution-endpoints-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact registered delivery shows one genuine shoulder-height start, full uncropped overhead extension by the original held-dumbbell arm, and a complete controlled return to the same shoulder-height angle. The unused arm, feet and trunk remain quiet.",
+        "Readable silver fibers and subtle blue abdominal cues persist; the orange working deltoid remains attached, with naturally smaller projected area overhead. Closed grip remains on one rigid dumbbell.",
+        "The clip is a contiguous original-speed source interval 0.666667\u20133.708333 seconds, covering the actual returned source frame at 3.666667 seconds, with disclosed 0.50-second cloned-frame endpoint holds. It excludes the raw preliminary dip and later partial lift; original raw media and negative review remain retained."
+      ],
+      "limitations": [
+        "Whole exact new delivery inspected at three frames per second plus full-resolution start, overhead endpoint, returned pose and final cloned hold.",
+        "Candidate status applies only to these reviewed derivative bytes, not the raw six-second output. No reversed frames, fabricated return or speed change.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-single-db-press-i2v-cycle-afa0b029/review-3fps-01.jpg",
+        "reports/form-media/r12-single-db-press-i2v-cycle-afa0b029/workflow-finish.png",
+        "reports/form-media/r12-single-db-press-i2v-cycle-afa0b029/workflow-returned.png",
+        "reports/form-media/r12-single-db-press-i2v-cycle-afa0b029/workflow-start.png",
+        "reports/form-media/r12-single-db-press-i2v-cycle-afa0b029/workflow-turnaround.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-front-squat-video-5decde99",
+      "attemptId": "attempt_5decde998d8d42ee",
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-front-squat-video-5decde99.mp4",
+      "outputSha256": "88829a361bea97eb517af3f56a6bea084aaca81828668124bf50059e4d4e6303",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:40:29.657127+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first controlled squat preserves the actual secure front rack, raised upper arms, attached Smith bar/guide sleeves, planted whole feet and upright trunk, then returns fully to standing by 4.333333 seconds. Orange quadriceps and subtle source-blue calf cues stay attached; upper-body anatomy remains gray.",
+        "The raw clip adds a later small hip/knee dip around 5.333333 seconds after that first full return, followed by another standing return. It does not finish as one clean squat cycle with stillness.",
+        "A contiguous original-speed 0\u20134.375-second derivative includes the genuine 4.333333-second returned standing frame before the later dip. It can retain the valid first cycle with disclosed cloned endpoint holds and exact new-output review."
+      ],
+      "limitations": [
+        "Whole exact raw delivery inspected at three frames per second and full-resolution start, bottom, final return, finish and uncertain interior return/dip phases.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_5decde998d8d42ee/review-3fps-01.jpg",
+        "reports/form-media/attempt_5decde998d8d42ee/review-3fps-02.jpg",
+        "reports/form-media/attempt_5decde998d8d42ee/workflow-finish.png",
+        "reports/form-media/attempt_5decde998d8d42ee/workflow-interior-4.0.png",
+        "reports/form-media/attempt_5decde998d8d42ee/workflow-interior-4.333333.png",
+        "reports/form-media/attempt_5decde998d8d42ee/workflow-interior-4.5.png",
+        "reports/form-media/attempt_5decde998d8d42ee/workflow-interior-5.333333.png",
+        "reports/form-media/attempt_5decde998d8d42ee/workflow-returned.png",
+        "reports/form-media/attempt_5decde998d8d42ee/workflow-start.png",
+        "reports/form-media/attempt_5decde998d8d42ee/workflow-turnaround.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-front-squat-i2v-cycle-5decde99",
+      "attemptId": "attempt_5decde998d8d42ee",
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-front-squat-i2v-cycle-5decde99.mp4",
+      "outputSha256": "50a19895b32ca75f11c6becae6efe2c94cf1acfd144508e39476af21925ce601",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:41:46.926889+00:00",
+      "reviewKind": "exact-registered-delivery-3fps-and-full-resolution-endpoints-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact registered delivery shows one controlled front squat through the actual moderate/shallow range and a complete return to the genuine standing start. The existing secure front rack, raised upper arms, attached Smith guide bar, upright trunk and planted whole feet remain coherent.",
+        "Orange quadriceps cues remain attached to exposed anterior/outer thighs, subtle source-blue calf cues remain on the same anatomy, and upper-body fibers remain silver-gray. Opaque shorts and blank apparatus are retained.",
+        "The derivative uses the contiguous original-speed interval 0\u20134.375 seconds, including the actual 4.333333 standing-return frame, plus disclosed 0.50-second cloned endpoint holds. The later partial dip is excluded; raw media and its negative review remain retained."
+      ],
+      "limitations": [
+        "Shown squat depth is moderate/shallow, not a deep or parallel-depth demonstration. The catalog requires a controlled comfortable depth and does not mandate parallel thighs; human/trainer review should assess whether this displayed range is suitable for the intended instructional use.",
+        "Whole exact new delivery inspected at three frames per second plus full-resolution standing start, actual bottom, complete returned stance and final cloned hold.",
+        "Candidate applies only to these derivative bytes. No reversed frames, fabricated return or speed change; AI editorial judgment is separate from human acceptance and trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-smith-front-squat-i2v-cycle-5decde99/review-3fps-01.jpg",
+        "reports/form-media/r12-smith-front-squat-i2v-cycle-5decde99/review-3fps-02.jpg",
+        "reports/form-media/r12-smith-front-squat-i2v-cycle-5decde99/workflow-finish.png",
+        "reports/form-media/r12-smith-front-squat-i2v-cycle-5decde99/workflow-returned.png",
+        "reports/form-media/r12-smith-front-squat-i2v-cycle-5decde99/workflow-start.png",
+        "reports/form-media/r12-smith-front-squat-i2v-cycle-5decde99/workflow-turnaround.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-cable-curl-t2v-0d5dc096",
+      "attemptId": "attempt_0d5dc0964a824f11",
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-curl-t2v-0d5dc096.mp4",
+      "outputSha256": "f87b1835d553f5ab06f0409def25465393a5b2ec02937efc264e7c75af26ff44",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:46:17.160330+00:00",
+      "reviewKind": "exact-delivery-video-3fps-and-full-resolution-endpoint-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first genuine single-arm curl now preserves the original image-right handle/orange-biceps arm, stable upper arm/elbow beside the torso, one coherent compact D-handle and taut low-pulley route. The unused image-left open hand remains flat and motionless against the hip, with no bilateral handle substitution.",
+        "The first curl reaches comfortable full flexion and returns to the original handle position and elbow angle at 4.083333 seconds. Orange biceps, gray forearm/unused anatomy, silver fibers, planted feet and quiet torso remain coherent.",
+        "The raw eight-second clip then adds further partial curls and does not finish still. A contiguous original-speed 0\u20134.125-second derivative includes the genuine 4.083333 return frame before the additional actions; disclose cloned endpoint holds and separately review new bytes."
+      ],
+      "limitations": [
+        "Whole exact raw delivery inspected at three frames per second plus full-resolution start, peak, first-return interior phases, later actions and final frame.",
+        "AI editorial judgment only; human acceptance and trainer validation remain separate."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_0d5dc0964a824f11/review-3fps-01.jpg",
+        "reports/form-media/attempt_0d5dc0964a824f11/review-3fps-02.jpg",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-finish.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-interior-2.0.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-interior-3.666667.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-interior-4.0.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-interior-4.083333.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-interior-4.166667.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-interior-4.333333.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-interior-4.5.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-returned.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-start.png",
+        "reports/form-media/attempt_0d5dc0964a824f11/workflow-turnaround.png"
+      ]
+    },
+    {
+      "assetId": "r12-single-cable-curl-i2v-cycle-0d5dc096",
+      "attemptId": "attempt_0d5dc0964a824f11",
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-single-cable-curl-i2v-cycle-0d5dc096.mp4",
+      "outputSha256": "a27b00f1d39c49876276751c5941ae221cf9fdd2950b3b1193e79da0a2828d67",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T21:47:02.065925+00:00",
+      "reviewKind": "exact-registered-delivery-3fps-and-full-resolution-endpoints-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact registered delivery shows one complete single-arm low-cable curl by the actual orange-biceps image-right arm, comfortable full flexion, controlled full return to the source handle/elbow pose and a still endpoint hold. The working upper arm/elbow remain beside the torso.",
+        "The unused open gray hand remains flat against its hip throughout. Exactly one compact D-handle and one coherent taut cable to the low pulley remain attached; there is no bilateral bar substitution or second grip.",
+        "Orange biceps stays bounded above the elbow, forearm/other anatomy stay silver-gray, readable fibers and opaque charcoal shorts persist, and feet/trunk remain still.",
+        "Contiguous original-speed source 0\u20134.125 seconds includes the genuine 4.083333 returned frame; disclosed 0.50-second cloned endpoint holds retain an honest still finish. Later partial curls are excluded, with raw media and negative review retained."
+      ],
+      "limitations": [
+        "Whole exact new delivery inspected at three frames per second plus full-resolution start, curl endpoint, genuine returned pose and final cloned hold.",
+        "Candidate applies only to these exact derivative bytes. No reversed frames, fabricated return or speed change. AI editorial judgment remains separate from human acceptance and trainer validation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-single-cable-curl-i2v-cycle-0d5dc096/review-3fps-01.jpg",
+        "reports/form-media/r12-single-cable-curl-i2v-cycle-0d5dc096/review-3fps-02.jpg",
+        "reports/form-media/r12-single-cable-curl-i2v-cycle-0d5dc096/workflow-finish.png",
+        "reports/form-media/r12-single-cable-curl-i2v-cycle-0d5dc096/workflow-returned.png",
+        "reports/form-media/r12-single-cable-curl-i2v-cycle-0d5dc096/workflow-start.png",
+        "reports/form-media/r12-single-cable-curl-i2v-cycle-0d5dc096/workflow-turnaround.png"
+      ]
+    }
+  ]
+}

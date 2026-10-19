@@ -1,0 +1,12 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-fly-start-0465a7cb.json"
+    },
+    {
+      "shot": "r12-single-cable-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-curl-start-ce54cc9b.json"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "group_0066d7d9f3cf4f9c",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T11:05:45+00:00",
+  "balanceBefore": 805,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_yoga_low_lunge",
+      "shot": "r13-cat_yoga_low_lunge-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "e7f13d0b3d73fa2adf07450eed2a74f124762fbb3bcf8631be67e25049b78089",
+      "quoteFile": "form-media/ui-quotes/r13-cat_yoga_low_lunge-start-paced-8ebc93ea.json",
+      "quoteSha256": "beaa11423e971e726150d5cfcec5fcfbdec750cf9654e1084c0182f814677ab1",
+      "quoteCredits": 0,
+      "balance": 805,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T11:06:47+00:00",
+  "balanceAfter": 805,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-13ccf802da2c48e6.json",
+  "evidenceSha256": "3a86689be9376eb3431f5a5a899bcefdb13adccfc9a146b4d2be77df85e12973",
+  "terminalFailureIds": []
+}

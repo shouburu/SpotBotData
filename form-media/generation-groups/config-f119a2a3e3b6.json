@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-db-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-press-t2v-18d6c06e.json"
+    },
+    {
+      "shot": "r12-high_cable_curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-high_cable_curl-t2v-63b6e119.json"
+    },
+    {
+      "shot": "r12-machine_hip_thrust-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-machine_hip_thrust-t2v-69157ab3.json"
+    },
+    {
+      "shot": "r12-machine_back_extension-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-machine_back_extension-t2v-1370b52c.json"
+    },
+    {
+      "shot": "r12-single-cable-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-fly-t2v-bf907a66.json"
+    },
+    {
+      "shot": "r12-single-cable-curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-curl-t2v-a6973034.json"
+    }
+  ]
+}

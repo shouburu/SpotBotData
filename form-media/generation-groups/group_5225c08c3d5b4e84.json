@@ -1,0 +1,67 @@
+{
+  "id": "group_5225c08c3d5b4e84",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T19:18:34+00:00",
+  "balanceBefore": 4049,
+  "quotedCredits": 10,
+  "members": [
+    {
+      "exerciseId": "cat_var_single_leg_extension",
+      "shot": "r12-single-leg-extension-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "667984274abd1c5a7854fe5fe2f82567c43afd2fcfe54fe20e504bb2a6785eec",
+      "quoteFile": "form-media/ui-quotes/r12-single-leg-extension-t2v-7c966d95.json",
+      "quoteSha256": "57b85b608cdbaee9e4d6d504fe42c025c7633143c7a7bc5ae46e6798bbc23dce",
+      "quoteCredits": 10,
+      "balance": 4049,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-single-leg-extension-start/attempt_1269c931c3b44023.jpg",
+          "sha256": "c81049f01a185ae67ae8cc8a89487a0fd2fac58a40d74060d949c65b5ce955cf"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_seated_db_rear_fly",
+      "shot": "r12-seated-db-rear-fly-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "d12f4ea99c9931e2696331339cbbf8a38946fc46e102fc9dfae7907031a24d48",
+      "quoteFile": "form-media/ui-quotes/r12-seated-db-rear-fly-start-657b3827.json",
+      "quoteSha256": "ead9263e620e007473192d7b16517afda848cfd412a2d9032a831cc6ded7b543",
+      "quoteCredits": 0,
+      "balance": 4049,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_db_floor_press",
+      "shot": "r12-db_floor_press-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "c5ad18e110262222187e8717ad868cca6edf4838cdcf3f3f63ebd6fe7af8c926",
+      "quoteFile": "form-media/ui-quotes/r12-db_floor_press-start-dce7c2f1.json",
+      "quoteSha256": "b8296eaf8ec4f42d9c337043156d966fd87d172381ff6736628a6d39ff27b3c0",
+      "quoteCredits": 0,
+      "balance": 4049,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "4ef7604094a7539f3a3ebb3ce8380754e2b63e99029a2856ae1d9b2f7a19c890",
+      "quoteFile": "form-media/ui-quotes/r12-flat-db-rear-fly-start-e6a18ce0.json",
+      "quoteSha256": "df372899f8f3bfce43a356d0c767a4338008ea63c7d9e09a0b719c5e0d1be3ae",
+      "quoteCredits": 0,
+      "balance": 4049,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T19:20:00+00:00",
+  "balanceAfter": 4039,
+  "actualCredits": 10,
+  "evidenceFile": "form-media/ui-quotes/observed-d28b1395f77049e4.json",
+  "evidenceSha256": "416a9396f81328c335bfaeec4f070adb1b7751a62749eb87a84039b8dfde1ac9",
+  "terminalFailureIds": []
+}

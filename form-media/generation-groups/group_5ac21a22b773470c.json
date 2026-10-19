@@ -1,0 +1,34 @@
+{
+  "id": "group_5ac21a22b773470c",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:15:25+00:00",
+  "balanceBefore": 2793,
+  "quotedCredits": 10,
+  "members": [
+    {
+      "exerciseId": "cat_band_romanian_deadlift",
+      "shot": "r13-cat_band_romanian_deadlift-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "3a9fe129081a6df6463bd9d567c36a78e2d486f644237b6d950407776ea66e7d",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_romanian_deadlift-video-a0be0baf.json",
+      "quoteSha256": "f7f3ee46fee630c92c010ae07bc4efaad18cb79e35d80e9d11f93e908bc9cbe7",
+      "quoteCredits": 10,
+      "balance": 2793,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_romanian_deadlift-start/attempt_4b1bf949be284925.jpg",
+          "sha256": "778affcce01c39cddab91bdddf2c4f64bffa87cddc1524eb33357eb53db6d90c"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T23:16:35+00:00",
+  "balanceAfter": 2783,
+  "actualCredits": 10,
+  "evidenceFile": "form-media/ui-quotes/observed-1711e8c1c97e4e29.json",
+  "evidenceSha256": "1202e5f001e839b8e256b253b5dcc1f4e1432ae9865db0c43e092575346b074e",
+  "terminalFailureIds": []
+}

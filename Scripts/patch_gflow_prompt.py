@@ -14,6 +14,7 @@ PREVIOUS_AUDIT_SHA = "32beede12474e570ae15dd546cab1311a31f9ed9e1982fa091bda48305
 REVISION_3_SHA = "e3f71ec9d488b62c8de168029420daa3da29411d6b1e8154c09ca4c169fac141"
 IMAGE_PICKER_BASE_SHA = "14265d189d5d2bf8a1820e16beacae8bc117a7a1a1624a3b6d8d833687a34169"
 IMAGE_PICKER_SHA = "5cf39454c5c81f08ff92c31f10eba9618b942c2dc24e73da111c8c8c9dfa2d0c"
+WIRE_FILTER_SHA = "c3a2689226e02a6f32130b95595ff07f3d828817121d3dfac55806394adc3212"
 START = '    async def send_prompt(self, page: Page, prompt: str, *, append: bool = False) -> None:\n'
 END = '    async def submit_and_observe(\n'
 REPLACEMENT = r'''    async def send_prompt(self, page: Page, prompt: str, *, append: bool = False) -> None:
@@ -303,12 +304,17 @@ def main():
     # Round10 adds a narrowly reviewed image-picker readback to the existing
     # video/prompt guards. Accept only that exact combined source and backup.
     image_backup = target.with_suffix(target.suffix + '.spotbot-round10-backup')
-    image_picker_verified = (digest(current) == IMAGE_PICKER_SHA
-        and image_backup.exists() and digest(image_backup.read_bytes()) == IMAGE_PICKER_BASE_SHA
+    wire_backup = backup.parent/f'migrated-composer-wire-{VERSION}-{IMAGE_PICKER_SHA[:12]}.py'
+    wire_filter_verified = (digest(current) == WIRE_FILTER_SHA
+        and wire_backup.exists() and digest(wire_backup.read_bytes()) == IMAGE_PICKER_SHA)
+    image_picker_verified = (digest(current) == IMAGE_PICKER_SHA or wire_filter_verified) and (
+        image_backup.exists() and digest(image_backup.read_bytes()) == IMAGE_PICKER_BASE_SHA
         and IMAGE_PICKER_BASE_SHA == patched_sha)
     guarded_states = {digest(legacy_patched), PREVIOUS_AUDIT_SHA, REVISION_3_SHA, patched_sha}
     if image_picker_verified:
         guarded_states.add(IMAGE_PICKER_SHA)
+        if wire_filter_verified:
+            guarded_states.add(WIRE_FILTER_SHA)
     if digest(current) not in {ORIGINAL_SHA, *guarded_states}:
         raise SystemExit('Installed source differs from reviewed original/DOM/audit states; nothing changed.')
     if args.action == 'apply':
@@ -321,7 +327,7 @@ def main():
             raise SystemExit('Existing revision 3 backup has changed; nothing changed.')
         if not previous_backup.exists():
             atomic_write(previous_backup, revision_3, 0o600)
-        if digest(current) not in {patched_sha, *({IMAGE_PICKER_SHA} if image_picker_verified else set())}:
+        if digest(current) not in {patched_sha, *({IMAGE_PICKER_SHA, WIRE_FILTER_SHA} if image_picker_verified else set())}:
             atomic_write(target, patched, target.stat().st_mode & 0o777)
     elif args.action == 'restore' and digest(current) in guarded_states:
         atomic_write(target, original, target.stat().st_mode & 0o777)
@@ -330,12 +336,15 @@ def main():
             raise SystemExit('No verified revision 3 backup; nothing changed.')
         atomic_write(target, previous_backup.read_bytes(), target.stat().st_mode & 0o777)
     installed_sha = digest(target.read_bytes())
+    installed_image_picker = image_picker_verified and installed_sha in {IMAGE_PICKER_SHA, WIRE_FILTER_SHA}
+    installed_wire_filter = wire_filter_verified and installed_sha == WIRE_FILTER_SHA
     print(json.dumps({'action':args.action,'version':VERSION,'path':str(target),
-                      'patched':installed_sha == patched_sha or image_picker_verified,
+                      'patched':installed_sha == patched_sha or installed_image_picker,
                       'domGuard':installed_sha in guarded_states,
-                      'outgoingContainmentAudit':installed_sha in {REVISION_3_SHA, patched_sha, *({IMAGE_PICKER_SHA} if image_picker_verified else set())},
-                      'modelReadbackGuard':installed_sha == patched_sha or image_picker_verified,
-                      'patchRevision':5 if image_picker_verified else 4,
+                      'outgoingContainmentAudit':installed_sha in {REVISION_3_SHA, patched_sha, *({IMAGE_PICKER_SHA, WIRE_FILTER_SHA} if image_picker_verified else set())},
+                      'modelReadbackGuard':installed_sha == patched_sha or installed_image_picker,
+                      'patchRevision':6 if installed_wire_filter else 5 if installed_image_picker else 4,
+                      'workflowFilter':installed_wire_filter,
                       'sha256':installed_sha,'backup':str(backup),
                       'previousRevisionBackup':str(previous_backup)},indent=2))
 

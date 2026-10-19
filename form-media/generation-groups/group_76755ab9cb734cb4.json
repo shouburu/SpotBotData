@@ -1,0 +1,104 @@
+{
+  "id": "group_76755ab9cb734cb4",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T20:48:36+00:00",
+  "balanceBefore": 3303,
+  "quotedCredits": 48,
+  "members": [
+    {
+      "exerciseId": "cat_var_high_cable_curl",
+      "shot": "r12-high_cable_curl-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "7e9a147a2d27d43ed925ea404bd193e5ca62de4f35c0767dc5934d35cd7b5fc0",
+      "quoteFile": "form-media/ui-quotes/r12-high_cable_curl-t2v-4988b91e.json",
+      "quoteSha256": "f0652d9d4094a9b950656cd63a0b6f63bca24bb8196e4373f1efad72c4966f15",
+      "quoteCredits": 12,
+      "balance": 3303,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-high_cable_curl-start/attempt_930ee332f29548f5.jpg",
+          "sha256": "5b0246671d19322c29eda347dd4a83520111224372b65e649da0f03b222c553d"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_machine_back_extension",
+      "shot": "r12-machine_back_extension-t2v",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "1ca8a52aa3ee6794ed96b6fe842c72178d03d28737df22f47949b784fbeab943",
+      "quoteFile": "form-media/ui-quotes/r12-machine_back_extension-t2v-b12c435d.json",
+      "quoteSha256": "34eb77cafbf83b3a14bf84c92f11641ad1c93c231c74e17774abdf62964786b7",
+      "quoteCredits": 12,
+      "balance": 3303,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-machine_back_extension-start/attempt_8206d14898434b16.jpg",
+          "sha256": "4b77bfc6fde03279967cfc5651a663be8d9a7934878df2c8272f238414e9cca3"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_incline_cable_chest",
+      "shot": "r12-incline-cable-chest-t2v",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "a1813bad8439536efb0efd4aaddf9594be42478c1859fbf1f4b42e8cec50ab2f",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-chest-t2v-3f252867.json",
+      "quoteSha256": "89090cad35ff666732217670b03af4e0700d6fdb6c182f97d32152bb54f85350",
+      "quoteCredits": 12,
+      "balance": 3303,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-incline-cable-chest-start/attempt_f816d2881282489e.jpg",
+          "sha256": "153bf2b1093716e7d61fbae06d3cb18085621ed4a4ddf28569db8a74867b3751"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_db_spider_curl",
+      "shot": "r12-db_spider_curl-t2v",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "cfdba64d401b9a886bc854cf34379c53d357124c1a84bf1b76c48a6364c8d456",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-t2v-1aad10fa.json",
+      "quoteSha256": "1317642d3aeb41c0a5a6dcddbe09c4eeab8c262f25eb684a18cba6fba96dcb80",
+      "quoteCredits": 12,
+      "balance": 3303,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-db_spider_curl-start/attempt_013f750f5032453e.jpg",
+          "sha256": "031475ce4d7585740db0006eda501383bc6e3d15a7095d53d54925ffa5b31875"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "4001b90ec52c7518fb3877e269cc9bcd9ec6415031f10b3adad518680b6b1ef4",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-start-053a2ef1.json",
+      "quoteSha256": "eb4543acd8f0e22287f1b7351791b53052fae37ea61f234ca885466a766f1426",
+      "quoteCredits": 0,
+      "balance": 3303,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_flat_cable_fly",
+      "shot": "r12-flat-cable-fly-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "e764514ee2186cc7a44ebfd38d064aee64e6805b336ca7996d9f9a14fbec9a15",
+      "quoteFile": "form-media/ui-quotes/r12-flat-cable-fly-start-a0618549.json",
+      "quoteSha256": "4f3be7dacbf1635fd39d33c4497c3d4f450592412475db2e24094da06d5a9796",
+      "quoteCredits": 0,
+      "balance": 3303,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T20:50:24+00:00",
+  "balanceAfter": 3255,
+  "actualCredits": 48,
+  "evidenceFile": "form-media/ui-quotes/observed-db4dc662bf4e4822.json",
+  "evidenceSha256": "f383a66e5d466a9b5098863207160918ff36ed3464657f078fe1372f670efe21",
+  "terminalFailureIds": []
+}

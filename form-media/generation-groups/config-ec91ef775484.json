@@ -1,0 +1,24 @@
+{
+  "members": [
+    {
+      "shot": "r12-smith-lunge-video",
+      "quoteFile": "form-media/ui-quotes/r12-smith-lunge-video-04be5877.json"
+    },
+    {
+      "shot": "r12-lying-cable-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-lying-cable-curl-start-8856ca0e.json"
+    },
+    {
+      "shot": "r12-incline-bb-triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline-bb-triceps-start-1f1387dc.json"
+    },
+    {
+      "shot": "r12-lever_lat_pulldown-start",
+      "quoteFile": "form-media/ui-quotes/r12-lever_lat_pulldown-start-dcc4bf92.json"
+    },
+    {
+      "shot": "r12-smith-good-morning-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-good-morning-start-a0ca7491.json"
+    }
+  ]
+}

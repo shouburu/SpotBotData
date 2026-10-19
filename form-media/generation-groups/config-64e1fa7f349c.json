@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-ball-crunch-start",
+      "quoteFile": "form-media/ui-quotes/r12-ball-crunch-start-2d9099ad.json"
+    },
+    {
+      "shot": "r12-incline_cable_triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline_cable_triceps-start-1ff350e5.json"
+    },
+    {
+      "shot": "r12-incline-db-lateral-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline-db-lateral-start-36ce39e7.json"
+    },
+    {
+      "shot": "r12-bb_floor_press-start",
+      "quoteFile": "form-media/ui-quotes/r12-bb_floor_press-start-e4c84b8e.json"
+    }
+  ]
+}

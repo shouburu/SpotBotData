@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_band_row-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_row-start-f70d848c.json"
+    },
+    {
+      "shot": "r13-cat_band_chest_press-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_chest_press-start-9c492c31.json"
+    },
+    {
+      "shot": "r13-cat_band_pull_apart-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pull_apart-start-d7f90529.json"
+    },
+    {
+      "shot": "r13-open_one_arm_kettlebell_ro_f1152bb2-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_one_arm_kettlebell_ro_f1152bb2-start-6e9c654f.json"
+    },
+    {
+      "shot": "r13-ex_ab_wheel-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_ab_wheel-start-1c16c71d.json"
+    },
+    {
+      "shot": "r13-cat_cal_side_jackknife-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_side_jackknife-start-7f853198.json"
+    }
+  ]
+}

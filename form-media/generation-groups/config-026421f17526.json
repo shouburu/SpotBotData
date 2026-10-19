@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-ball-crunch-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-ball-crunch-t2v-489224c9.json"
+    },
+    {
+      "shot": "r12-lever_lat_pulldown-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-lever_lat_pulldown-t2v-3052b7bb.json"
+    },
+    {
+      "shot": "r12-decline-machine-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-decline-machine-press-t2v-bb0aca21.json"
+    },
+    {
+      "shot": "r12-lying-cable-curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-lying-cable-curl-t2v-187bc0f0.json"
+    },
+    {
+      "shot": "r12-incline-bb-triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-incline-bb-triceps-t2v-0d94a9fc.json"
+    },
+    {
+      "shot": "r12-smith-good-morning-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-good-morning-start-e131c052.json"
+    }
+  ]
+}

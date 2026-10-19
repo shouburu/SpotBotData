@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_cal_wall_pushup-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_wall_pushup-start-82067107.json"
+    },
+    {
+      "shot": "r13-cat_cal_kneeling_pushup-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_kneeling_pushup-start-c66b7770.json"
+    },
+    {
+      "shot": "r13-cat_cal_split_squat-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_split_squat-start-22c0f78c.json"
+    },
+    {
+      "shot": "r13-ex_crunch-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_crunch-start-4e99484c.json"
+    },
+    {
+      "shot": "r13-ex_bicycle_crunch-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_bicycle_crunch-start-9a0b57b6.json"
+    },
+    {
+      "shot": "r13-ex_russian_twist-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_russian_twist-start-3062dabc.json"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 1561,
+  "visibleBalanceText": "1,561 Google Flow credits",
+  "observedAt": "2026-10-11T01:27:15.745351+00:00",
+  "groupId": "group_ff27e344ed3144e1",
+  "balanceBefore": 1511,
+  "actualCredits": 0,
+  "reconciliationType": "manual-native-free-image-with-preserved-balance-inflow",
+  "nativeHistory": {
+    "path": "reports/round-13/balance-ff27-native-activity.json",
+    "sha256": "239d8942a3d9d8e6945d0128cb70a3be615eca8701611aa04e6e13e4c2952c8b"
+  },
+  "frozenGroupSnapshot": {
+    "path": "reports/round-13/group-ff27-frozen-before-settlement.json",
+    "sha256": "3089da1807195002e4fa6f1dc2f7deac33778f19bb294c9be97397c947deeb25"
+  },
+  "successfulMasterProof": {
+    "attemptId": "attempt_35a5a357ea6441d6",
+    "masterPath": "form-media/assets/masters/r13-cat_card_seated_reach-start/attempt_35a5a357ea6441d6.jpg",
+    "masterSha256": "3e8c43818a36cd3dac553e18ccaecefba57da5fde169d3d6bc5e0082dce3a870",
+    "responseSha256": "924b26dfde1013f60f46cd3421e48a5caf7246fbef3ef2f7106fb1496a72f779",
+    "quoteFile": "form-media/ui-quotes/r13-cat_card_seated_reach-start-paced-95f6471c.json",
+    "quoteSha256": "3b5dce4e25e4f861279f67d0dbe1b785803b93fde06bb7607460e228f9e95b25"
+  },
+  "dailyFlowCreditsRemainingObserved": 50,
+  "balanceResidualAfterKnownDebits": 50,
+  "timestampedAdjustmentProven": false,
+  "scope": "The sole known returned source has an exact native zero-credit quote. Independent native Flow and Google One show 1561 with a separate daily 50 bucket; newest listed debit is the earlier video at 01:05:26 UTC, before this source at 01:17–01:18 UTC. Zero cost is established from the frozen free-image quote, exact successful response and master, corroborated by native activity. No timestamped +50 transaction, refund or reset instant is invented.",
+  "budgetPolicy": "Keep existing monthly cap and period unchanged; do not add the visible daily allowance or unexplained balance residual to the conservative remaining budget.",
+  "guards": "Core automatic aggregate-balance settlement remains unchanged. No retry, duplicate submission, counted-trial reset or unknown-media release."
+}

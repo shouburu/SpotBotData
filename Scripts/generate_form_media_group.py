@@ -61,6 +61,13 @@ def run(args):
         m=f.read_json(f.MANIFEST);records=f.ledger()
         if m.get('activeGenerationGroup') or any(f.unresolved(a) for a in records['attempts']):
             raise ValueError('Reconcile existing work before opening another group.')
+        project_id=config.get('projectId',m['projectId'])
+        if not isinstance(project_id,str) or not project_id.strip():
+            raise ValueError('The group project ID must be nonempty.')
+        project_override=project_id!=m['projectId']
+        authorization=config.get('projectOverrideAuthorization')
+        if project_override and (len(members)!=1 or not isinstance(authorization,str) or not authorization.strip()):
+            raise ValueError('A different project requires explicit authorization for exactly one untouched image source.')
         jobs={j['shot']:j for j in f.read_json(f.MEDIA/f"{m['activeRoundId']}-jobs.json")['jobs']}
         workers=m.get('generationWorkers', [])[:len(members)]
         if len(workers)!=len(members) or len({w['path'] for w in workers})!=len(workers):
@@ -71,13 +78,29 @@ def run(args):
             if job['roundId']!=m['activeRoundId'] or not Path(worker['path']).is_dir():
                 raise ValueError('Wrong round or missing isolated profile.')
             prompt=f.repo_path(job['promptFile'])
+            # The single-shot generator reads this canonical filename. Refuse
+            # alternative paths before opening a group or submitting its peers.
+            if prompt != (f.MEDIA/'prompts'/f"{job['shot']}.txt").resolve():
+                raise ValueError('Copy the reviewed prompt to its canonical shot.txt path before group submission.')
             if f.sha256(prompt)!=job['promptSha256']:
                 raise ValueError('Prompt changed after review.')
             if f.pilot_media_kind(job['model'])!=job['kind']:
                 raise ValueError('Job model does not match its media kind.')
+            if project_override:
+                if (job['kind']!='image' or job['model']!='nano-pro' or job['duration'] is not None
+                        or job.get('referenceFiles')!=[] or job.get('referenceShot')
+                        or job.get('productionDisposition')!='prompt-reviewed'
+                        or any(a['exerciseId']==job['exerciseId'] for a in records['attempts'])):
+                    raise ValueError('A project probe must be a reviewed unreferenced Nano-Pro source for an exercise with no lifetime attempts.')
+                selected=set(m['exercises'][job['exerciseId']].get('selectedAssetIds',[]))
+                if any(a['exerciseId']==job['exerciseId'] and a['kind'] in {'video','animation'}
+                       and (a.get('reviewStatus')=='accepted'
+                            or (a['id'] in selected and m['exercises'][job['exerciseId']].get('reviewStatus')=='accepted')
+                            or (a.get('editorialReview') or {}).get('status')=='candidate') for a in m.get('assets',[])):
+                    raise ValueError('An exercise with an accepted or AI-screened motion cannot be a project probe.')
             quote_args=argparse.Namespace(exercise=job['exerciseId'],shot=job['shot'],kind=job['kind'],model=job['model'],video_mode=job.get('videoMode','i2v'),aspect=job['aspect'],duration=job['duration'])
             key=f.pilot_model_key(job['model'],job['duration'],'text-only' if job.get('videoMode')=='t2v' else 'start-only',job['aspect'])
-            quote_path,_,quote=ui_quote(member['quoteFile'],quote_args,m['projectId'],key)
+            quote_path,_,quote=ui_quote(member['quoteFile'],quote_args,project_id,key)
             refs=reference_files(job,records,m['activeRoundId'])
             for p in refs:
                 if not p.is_relative_to((f.MEDIA/'assets').resolve()) or not p.is_file():
@@ -90,7 +113,9 @@ def run(args):
         available=f.budget(m,records)
         if len(balances)!=1 or total>min(next(iter(balances)),available['remaining']):
             raise ValueError('Group quotes must share the same live balance and fit both budgets.')
-        group=dict(id='group_'+uuid.uuid4().hex[:16],status='open',roundId=m['activeRoundId'],createdAt=f.now(),balanceBefore=next(iter(balances)),quotedCredits=total,members=prepared,settlementMethod='Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.')
+        group=dict(id='group_'+uuid.uuid4().hex[:16],status='open',roundId=m['activeRoundId'],projectId=project_id,createdAt=f.now(),balanceBefore=next(iter(balances)),quotedCredits=total,members=prepared,settlementMethod='Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.')
+        if project_override:
+            group.update(defaultProjectId=m['projectId'],projectOverrideAuthorization=authorization)
         if available['periodId'] is not None:
             group['budgetPeriodId']=available['periodId']
         m['activeGenerationGroup']=group;f.write_json(f.MANIFEST,m)
@@ -125,9 +150,11 @@ def settle(args):
         raise ValueError('Missing actual visible balance evidence.')
     with f.locked():
         m=f.read_json(f.MANIFEST);records=f.ledger();group=m.get('activeGenerationGroup')
-        if not group or group['id']!=args.group or evidence.get('projectId')!=m['projectId']:
+        if not group or group['id']!=args.group or evidence.get('projectId')!=group.get('projectId',m['projectId']):
             raise ValueError('Not the active group/project.')
         attempts=[a for a in records['attempts'] if a.get('generationGroupId')==args.group]
+        if any(a.get('projectId')!=group.get('projectId',m['projectId']) for a in attempts):
+            raise ValueError('Group and attempt project attribution differ.')
         if (group.get('budgetPeriodId')!=m.get('currentBudgetPeriodId')
                 or any(a.get('budgetPeriodId')!=group.get('budgetPeriodId') for a in attempts)):
             raise ValueError('Group and attempt budget periods differ; reconcile the period boundary.')

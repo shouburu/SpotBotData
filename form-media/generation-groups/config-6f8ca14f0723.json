@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-db_spider_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-start-262daafe.json"
+    },
+    {
+      "shot": "r12-db_hammer_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-db_hammer_curl-start-c9a6e74b.json"
+    },
+    {
+      "shot": "r12-standing-leg-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-standing-leg-curl-start-aa487c26.json"
+    },
+    {
+      "shot": "r12-incline_hammer_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline_hammer_curl-start-557e39fb.json"
+    }
+  ]
+}

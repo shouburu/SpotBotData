@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-db_spider_curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-db_spider_curl-t2v-51deff0b.json"
+    },
+    {
+      "shot": "r12-decline-machine-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-decline-machine-press-start-ed4a5f04.json"
+    },
+    {
+      "shot": "r12-seated-single-db-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-single-db-press-start-6fc0f7b3.json"
+    },
+    {
+      "shot": "r12-single-db-preacher-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-preacher-start-8936e3b0.json"
+    },
+    {
+      "shot": "r12-seated-cable-rear-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-rear-fly-start-bb99bea2.json"
+    },
+    {
+      "shot": "r12-lying-cable-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-lying-cable-curl-start-979f4612.json"
+    }
+  ]
+}

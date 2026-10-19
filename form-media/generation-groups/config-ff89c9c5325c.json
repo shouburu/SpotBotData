@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_cal_bodyweight_squat-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bodyweight_squat-start-5111ef21.json"
+    },
+    {
+      "shot": "r13-cat_cal_chair_squat-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_chair_squat-start-2fa95726.json"
+    },
+    {
+      "shot": "r13-cat_band_ohead_press-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_ohead_press-start-6cb3de47.json"
+    },
+    {
+      "shot": "r13-cat_band_curl-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_curl-start-760d636f.json"
+    },
+    {
+      "shot": "r13-cat_band_triceps-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_triceps-start-eef44d48.json"
+    },
+    {
+      "shot": "r13-cat_band_squat-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_squat-start-9cf6b164.json"
+    }
+  ]
+}

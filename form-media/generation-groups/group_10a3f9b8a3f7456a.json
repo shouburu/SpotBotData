@@ -1,0 +1,67 @@
+{
+  "id": "group_10a3f9b8a3f7456a",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T19:15:31+00:00",
+  "balanceBefore": 4059,
+  "quotedCredits": 10,
+  "members": [
+    {
+      "exerciseId": "cat_var_single_leg_extension",
+      "shot": "r12-single-leg-extension-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "d807d24f1ebce05dfeb6aa684de3730f6b46accacc8f509fee5afb2a14570c79",
+      "quoteFile": "form-media/ui-quotes/r12-single-leg-extension-t2v-3d337045.json",
+      "quoteSha256": "c2bcc18bfd8b5b29c816e50d3de635f39918c0f83e99fd0cf136d5421df29f99",
+      "quoteCredits": 10,
+      "balance": 4059,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-single-leg-extension-start/attempt_1269c931c3b44023.jpg",
+          "sha256": "c81049f01a185ae67ae8cc8a89487a0fd2fac58a40d74060d949c65b5ce955cf"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_decline_ez_triceps",
+      "shot": "r12-decline_ez_triceps-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "014f492c0e75af284d27044d850e2f03485ca1a1fc6d339b1aa3f5cd038044da",
+      "quoteFile": "form-media/ui-quotes/r12-decline_ez_triceps-start-c236c155.json",
+      "quoteSha256": "dec715369a072a9cb74dec31525e5627e059716d507124d605b048caeaa62c6c",
+      "quoteCredits": 0,
+      "balance": 4059,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_incline_db_lateral",
+      "shot": "r12-incline-db-lateral-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "d274e24ffcaf8236fa335528c9a0d3d409ed5472e0685264036ef31bef63b073",
+      "quoteFile": "form-media/ui-quotes/r12-incline-db-lateral-start-e23e6e0d.json",
+      "quoteSha256": "e5788ee260dd173eba1cf6bbcf4569a2bdaf99252ae796c47a42d2e71a54aa29",
+      "quoteCredits": 0,
+      "balance": 4059,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_bb_floor_press",
+      "shot": "r12-bb_floor_press-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "9aae5f1bcec1e474dc178992c22c5d574e416a74ad3e4740994aec4f43abf427",
+      "quoteFile": "form-media/ui-quotes/r12-bb_floor_press-start-fdb3a041.json",
+      "quoteSha256": "0cdb2537d3aaa98454dc1a5258f3f0e275162451219b1b3ed2b1042a8f627c70",
+      "quoteCredits": 0,
+      "balance": 4059,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T19:16:45+00:00",
+  "balanceAfter": 4049,
+  "actualCredits": 10,
+  "evidenceFile": "form-media/ui-quotes/observed-66f528f728794b94.json",
+  "evidenceSha256": "247bcfd77ac25dcfa795de4b1e076e676b60032ad4246b9a850dc3813088f03c",
+  "terminalFailureIds": []
+}

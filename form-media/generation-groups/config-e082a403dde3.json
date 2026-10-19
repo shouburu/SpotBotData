@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-seated-db-rear-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-db-rear-fly-t2v-4061d504.json"
+    },
+    {
+      "shot": "r12-flat-db-rear-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-flat-db-rear-fly-t2v-7a2d26ee.json"
+    },
+    {
+      "shot": "r12-cable_preacher_curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-cable_preacher_curl-t2v-50fc3c67.json"
+    },
+    {
+      "shot": "r12-low-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-low-cable-fly-start-748f6a46.json"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "group_aeb7303b0b654e2a",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:12:25+00:00",
+  "balanceBefore": 2823,
+  "quotedCredits": 20,
+  "members": [
+    {
+      "exerciseId": "open_goblet_squat_b5c618ef",
+      "shot": "r13-open_goblet_squat_b5c618ef-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "07b9725ef95fbbf62368395272fdf765ebd4acc2caf660f8ee28a5794fd4d75f",
+      "quoteFile": "form-media/ui-quotes/r13-open_goblet_squat_b5c618ef-video-d3bd765d.json",
+      "quoteSha256": "472b88b5fe8f64bf5da2e09a5260a241614d06efd3862be1eb68f0dcc1b8efc0",
+      "quoteCredits": 10,
+      "balance": 2823,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_goblet_squat_b5c618ef-start/attempt_b65e38dd89a2424b.jpg",
+          "sha256": "c606b723c99c165629fad0e543e78af19033ea397717744add7f3e0ee90498de"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_two_arm_kettlebell_mi_01904129",
+      "shot": "r13-open_two_arm_kettlebell_mi_01904129-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "5c4a3808afaa6420b4a90092b34d3d5d828a1962113c59a77dac0654533bdead",
+      "quoteFile": "form-media/ui-quotes/r13-open_two_arm_kettlebell_mi_01904129-video-724fd19c.json",
+      "quoteSha256": "cd27b04d02e4888ddd5672fbc4818d087335d8b568fc3ca6c26018334ae60757",
+      "quoteCredits": 10,
+      "balance": 2823,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_two_arm_kettlebell_mi_01904129-start/attempt_2c95fb0ad35244bb.jpg",
+          "sha256": "0bfb0fce827923e7c850e5a9e02b501b69c8bc8767bd0c6382c479217ec7e998"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T23:13:42+00:00",
+  "balanceAfter": 2803,
+  "actualCredits": 20,
+  "evidenceFile": "form-media/ui-quotes/observed-69d5b5f64dce4013.json",
+  "evidenceSha256": "a797e275831bde0091fedbbfa875b8f6a978bdcff018cfa40bcff0fb5bda3f57",
+  "terminalFailureIds": []
+}

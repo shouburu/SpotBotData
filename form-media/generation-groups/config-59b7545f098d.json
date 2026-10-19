@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-decline-machine-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-decline-machine-press-t2v-102c1242.json"
+    },
+    {
+      "shot": "r12-machine-high-row-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-machine-high-row-t2v-3f02f6df.json"
+    },
+    {
+      "shot": "r12-lying-cable-curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-lying-cable-curl-t2v-68382e5f.json"
+    },
+    {
+      "shot": "r12-single-leg-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-leg-press-t2v-618c075c.json"
+    },
+    {
+      "shot": "r12-incline-bb-triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-incline-bb-triceps-t2v-c9677008.json"
+    },
+    {
+      "shot": "r12-seated-db-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-db-press-t2v-06170275.json"
+    }
+  ]
+}

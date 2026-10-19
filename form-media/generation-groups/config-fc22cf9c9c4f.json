@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_bal_cross_body_reach-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_cross_body_reach-start-5e646f39.json"
+    },
+    {
+      "shot": "r13-open_kettlebell_thruster_e1732893-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_kettlebell_thruster_e1732893-start-742dc5f9.json"
+    },
+    {
+      "shot": "r13-cat_bal_lateral_weight_shift-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_lateral_weight_shift-start-d127f80f.json"
+    },
+    {
+      "shot": "r13-cat_bal_forward_weight_shift-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_forward_weight_shift-start-3ded5136.json"
+    },
+    {
+      "shot": "r13-cat_bal_clock_tap-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_clock_tap-start-a7a5eed5.json"
+    },
+    {
+      "shot": "r13-cat_bal_single_leg_reach-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_single_leg_reach-start-84aedc1c.json"
+    }
+  ]
+}

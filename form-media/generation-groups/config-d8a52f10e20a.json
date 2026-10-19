@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-ex_chin_up-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_chin_up-start-02b028aa.json"
+    },
+    {
+      "shot": "r13-ex_tricep_dip-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_tricep_dip-start-066d63fb.json"
+    },
+    {
+      "shot": "r13-cat_pil_seated_knee_extension-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_seated_knee_extension-start-17d7267e.json"
+    },
+    {
+      "shot": "r13-cat_pil_seated_heel_raise-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_seated_heel_raise-start-f59e8ed8.json"
+    },
+    {
+      "shot": "r13-cat_pil_standing_hip_abduction-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_standing_hip_abduction-start-52237bf9.json"
+    },
+    {
+      "shot": "r13-open_calf_raises_with_band_eddf26eb-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_calf_raises_with_band_eddf26eb-start-6bae6362.json"
+    }
+  ]
+}

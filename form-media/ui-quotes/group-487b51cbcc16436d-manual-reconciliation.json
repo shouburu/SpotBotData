@@ -1,0 +1,44 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 1713,
+  "visibleBalanceText": "1,713 Google Flow credits",
+  "observedAt": "2026-10-10T02:04:47.280673+00:00",
+  "outputRecoveryEvidence": {
+    "path": "reports/round-13/source-487b-recovery-diagnosis.json",
+    "sha256": "6b1f710a198d0a3fafbcf6c2166aadf11325f500edad0bf4ca3dc56a742c06ac"
+  },
+  "imageResponseDiagnosticEvidence": {
+    "path": "reports/round-13/image-response-diagnostics/image-20261010T015835496821Z-e616803d8734.json",
+    "sha256": "26fb9b81aabd7922e09c8381ed4bd7c60b20b478af682a1223c75289cca24427",
+    "scope": "Matched original native response contained a null ogiZ0b result and bare8 error-style code; no success payload/IDs or identified terminal semantics. No provider outcome inferred."
+  },
+  "groupId": "group_487b51cbcc16436d",
+  "reconciliationType": "manual-zero-credit-accounting-with-one-unrecoverable-source",
+  "unknownProviderOutcomes": [
+    {
+      "attemptId": "attempt_5b195b85cb0b47a9",
+      "exerciseId": "open_push_up_to_side_plank_9f39a0c7",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_5b195b85cb0b47a9/stdout.json",
+        "sha256": "abb400f933e27cc7d37c1e2eb1075b14de795499e6cc481f64e4a1508085d194"
+      },
+      "providerOutcome": "unknown",
+      "countedSourceAttempts": 1
+    }
+  ],
+  "successfulPeerMasters": [],
+  "frozenZeroQuoteProofs": [
+    {
+      "attemptId": "attempt_5b195b85cb0b47a9",
+      "path": "form-media/ui-quotes/r13-open_push_up_to_side_plank_9f39a0c7-start-54e12585.json",
+      "sha256": "45c8da642450e2185b0061757bb87d6ca9f7b6ef0e711e95a4cfc258789b5a24",
+      "credits": 0
+    }
+  ],
+  "scope": "Billing only: one exact zero-credit quote and unchanged aggregate visible balance. The local parsing/retrieval failure retains an unknown provider outcome; no provider-terminal failure or non-submission is inferred.",
+  "retryPolicy": "The unknown first source attempt remains counted. Source and dependent motion are held without resubmission, even though the four-attempt quality cap is not exhausted. No automatic settlement guard is changed."
+}

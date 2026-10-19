@@ -1,0 +1,1267 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-13",
+  "reviews": [
+    {
+      "assetId": "r13-open_front_squats_with_two_04034125-video-4ae3b014",
+      "attemptId": "attempt_4ae3b0143d5840a7",
+      "exerciseId": "open_front_squats_with_two_04034125",
+      "shot": "r13-open_front_squats_with_two_04034125-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_front_squats_with_two_04034125-video-4ae3b014.mp4",
+      "outputSha256": "b902486ad7726596cb1d1e5ae3b9547ff8b9d9971682b9c9182642e5de38e9e9",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:04:25+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-and-full-resolution-phase/endpoints",
+      "status": "needs-correction",
+      "evidence": [
+        "The full first timeline shows a low squat near1.67s, a partial rise/rebound by2.33s, then a second descent to another low pose near3.0s before full standing return near3.67s. This interior extra pulse breaks the single controlled descent/return requirement.",
+        "Full-resolution1.666667,2.333333 and3.0s frames confirm the pelvis/head rise and lower again while feet remain planted; the2.33s rebound is not the original fully standing pose.",
+        "The full second timeline is largely still after the returned stand, so trimming later frames cannot remove the interior low-position bounce while retaining a complete start-to-return cycle. No valid contiguous single-cycle derivative was identified.",
+        "Kettlebell grips/rack, foot contacts, readable gray anatomical fibers, opaque shorts and bounded orange quadriceps remain coherent; preserve the reviewed source for the specific motion correction."
+      ],
+      "limitations": [
+        "Actual squat depth is modest/shallow; canonical instructions allow a controllable depth, so the decisive failure is the repeated direction reversal, not an imposed parallel-depth rule.",
+        "No human acceptance or motion validity is inferred from the requested timing. Review applies only to this exact registered delivery."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_4ae3b0143d5840a7/review-3fps-01.jpg",
+        "reports/form-media/attempt_4ae3b0143d5840a7/review-3fps-02.jpg",
+        "reports/form-media/attempt_4ae3b0143d5840a7/workflow-start.png",
+        "reports/form-media/attempt_4ae3b0143d5840a7/workflow-first-low.png",
+        "reports/form-media/attempt_4ae3b0143d5840a7/workflow-mid-rebound.png",
+        "reports/form-media/attempt_4ae3b0143d5840a7/workflow-second-low.png",
+        "reports/form-media/attempt_4ae3b0143d5840a7/workflow-returned.png",
+        "reports/form-media/attempt_4ae3b0143d5840a7/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_front_squats_with_two_04034125-video-11486fc4",
+      "attemptId": "attempt_11486fc443eb43a3",
+      "exerciseId": "open_front_squats_with_two_04034125",
+      "shot": "r13-open_front_squats_with_two_04034125-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_front_squats_with_two_04034125-video-11486fc4.mp4",
+      "outputSha256": "00f8da9b00d08882303e6ddeea26b720329c0f00842dc23f9c11ccbb3185d9c7",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:13:26+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-full-resolution-phases-and-12fps-return-boundary",
+      "status": "needs-correction",
+      "evidence": [
+        "Full ordered 3fps timelines show one smooth first descent to a single turnaround near2.67s, then uninterrupted ascent to a full standing return by approximately4.5s. Unlike the previous trial, the first cycle has no sampled interior rise/fall pulse.",
+        "The raw video then makes an additional shallow partial squat near5s before standing again; this later action violates the one-cycle/still finish requirement for the complete raw delivery.",
+        "Full-resolution start, turnaround,4.0,4.166667,4.333333,4.5,4.666667,4.708333 and finish frames, plus3.5–5.25s at12fps, confirm a genuinely returned stance before the later dip. A contiguous0–4.75s original-speed excerpt with disclosed0.50s cloned endpoint holds is proposed; this raw negative is retained separately.",
+        "Both closed kettlebell grips/rack, planted foot contacts, readable anatomical fibers, opaque shorts and bounded orange quadriceps remain coherent across the first cycle."
+      ],
+      "limitations": [
+        "Actual squat depth is moderate/shallow; catalog instructions allow a controllable depth and no parallel-depth threshold was imposed.",
+        "Raw output does not finish after one cycle; no candidate approval is given to this raw delivery. Proposed derivative needs separate registration and exact-byte review.",
+        "This is AI review, with no human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_11486fc443eb43a3/review-3fps-01.jpg",
+        "reports/form-media/attempt_11486fc443eb43a3/review-3fps-02.jpg",
+        "reports/form-media/attempt_11486fc443eb43a3/return-boundary-12fps-01.jpg",
+        "reports/form-media/attempt_11486fc443eb43a3/return-boundary-12fps-02.jpg",
+        "reports/form-media/attempt_11486fc443eb43a3/workflow-start.png",
+        "reports/form-media/attempt_11486fc443eb43a3/workflow-turnaround.png",
+        "reports/form-media/attempt_11486fc443eb43a3/workflow-return4.0.png",
+        "reports/form-media/attempt_11486fc443eb43a3/workflow-return4.166667.png",
+        "reports/form-media/attempt_11486fc443eb43a3/workflow-return4.333333.png",
+        "reports/form-media/attempt_11486fc443eb43a3/workflow-boundary4.5.png",
+        "reports/form-media/attempt_11486fc443eb43a3/workflow-later-dip4.666667.png",
+        "reports/form-media/attempt_11486fc443eb43a3/workflow-return4.708333.png",
+        "reports/form-media/attempt_11486fc443eb43a3/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-two-kb-front-squat-first-cycle-11486fc4",
+      "sourceAttemptId": "attempt_11486fc443eb43a3",
+      "exerciseId": "open_front_squats_with_two_04034125",
+      "shot": "r13-open_front_squats_with_two_04034125-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-two-kb-front-squat-first-cycle-11486fc4.mp4",
+      "outputSha256": "db338da9cbe8b67613cfd5cce667194f385c075ef22e3fe5acb960d84e176ded",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:14:18+00:00",
+      "reviewKind": "exact-registered-derivative-whole-timeline-3fps-and-full-resolution-endpoints",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets of the exact5.75s delivered derivative show one controlled descent to a single turnaround and full standing return, followed by a still finish. No interior rebound or later partial squat is present in this excerpt.",
+        "Full-resolution exact-derivative start,3.166667s turnaround,5.208333s returned stance and5.708333s finish confirm the full start-to-return cycle and retained final still. Both kettlebell handle grips/rack, planted feet, gray anatomical fibers and bounded orange quadriceps remain coherent.",
+        "The registered provenance retains the frozen original attempt and source SHA. The contiguous source interval is0–4.75s at playbackRate1, with disclosed0.50s cloned endpoint holds at each end; no motion reversal, reordering or speed change is used.",
+        "The raw output retains its separate needs-correction review for the later additional partial squat; this candidate applies only to the exact authored derivative."
+      ],
+      "limitations": [
+        "Actual squat depth is moderate/shallow. Canonical instructions allow a controllable depth; this clip is not a deep or parallel-depth demonstration.",
+        "Small facial-expression changes occur during motion; no additional body action or apparatus/contact change was observed in the sampled review.",
+        "AI candidate for human review; no human acceptance or publication."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r13-two-kb-front-squat-first-cycle-11486fc4/workflow-3fps-01.jpg",
+        "reports/form-media/r13-two-kb-front-squat-first-cycle-11486fc4/workflow-3fps-02.jpg",
+        "reports/form-media/r13-two-kb-front-squat-first-cycle-11486fc4/workflow-start.png",
+        "reports/form-media/r13-two-kb-front-squat-first-cycle-11486fc4/workflow-turnaround.png",
+        "reports/form-media/r13-two-kb-front-squat-first-cycle-11486fc4/workflow-returned.png",
+        "reports/form-media/r13-two-kb-front-squat-first-cycle-11486fc4/workflow-finish.png"
+      ],
+      "edit": {
+        "id": "r13-two-kb-front-squat-first-cycle-11486fc4",
+        "roundId": "round-13",
+        "sourceRoundId": "round-13",
+        "sourceAssetId": "r13-open_front_squats_with_two_04034125-video-11486fc4",
+        "sourceAttemptId": "attempt_11486fc443eb43a3",
+        "sourcePath": "form-media/assets/masters/r13-open_front_squats_with_two_04034125-video/attempt_11486fc443eb43a3.mp4",
+        "sourceSha256": "954d1e1499b0b14838b2ec32b0e61bff65691db001c9ee9475ecc141dc234fa8",
+        "trimStartSeconds": 0.0,
+        "trimEndSeconds": 4.75,
+        "leadHoldSeconds": 0.5,
+        "tailHoldSeconds": 0.5,
+        "playbackRate": 1,
+        "filter": "trim=start=0.0:end=4.75,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.5:stop_mode=clone:stop_duration=0.5",
+        "generationCredits": 0,
+        "createdAt": "2026-10-09T23:13:37+00:00",
+        "path": "form-media/assets/delivery/round-13/r13-two-kb-front-squat-first-cycle-11486fc4.mp4",
+        "sha256": "db338da9cbe8b67613cfd5cce667194f385c075ef22e3fe5acb960d84e176ded",
+        "bytes": 659787,
+        "width": 720,
+        "height": 1280,
+        "durationSeconds": 5.75,
+        "codec": "h264"
+      }
+    },
+    {
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:15:18+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-and-full-resolution-phases/endpoints",
+      "assetId": "r13-ex_back_extension-video-76dff856",
+      "attemptId": "attempt_76dff8560c384975",
+      "exerciseId": "ex_back_extension",
+      "shot": "r13-ex_back_extension-video",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_back_extension-video-76dff856.mp4",
+      "outputSha256": "afc0cf5b805cd01a345360cc524fde6340a1646abe71e3bb484e08ec793612b7",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets show one top-start hip hinge down to a single low turnaround, then a controlled rise to an aligned upper position and a still finish without another hinge.",
+        "Full-resolution0,3.0,4.333333,5.0 and7.9s frames confirm stable leg bracing, thigh-pad support below the hip crease, folded arms, coherent neck/trunk and a return that remains near trunk/leg alignment rather than a large backward lean.",
+        "Orange lumbar erector cues stay attached and readable through flexion/return; subtle blue posterior-thigh cues and gray exposed anatomical fibers remain. Opaque shorts and blank rigid bench retain their form."
+      ],
+      "limitations": [
+        "The comfortable hinge arc is modest, from the actual aligned top toward a nearly horizontal torso; this is not a large forward fold.",
+        "Upper returned pose is slightly more upright than the initial source, within a near-aligned trunk/leg stance; no pronounced lumbar backward arch was observed.",
+        "AI candidate for human review only, not human accepted."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_76dff8560c384975/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_76dff8560c384975/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_76dff8560c384975/workflow-start.png",
+        "reports/form-media/attempt_76dff8560c384975/workflow-low.png",
+        "reports/form-media/attempt_76dff8560c384975/workflow-return4.333333.png",
+        "reports/form-media/attempt_76dff8560c384975/workflow-return5.png",
+        "reports/form-media/attempt_76dff8560c384975/workflow-finish.png"
+      ]
+    },
+    {
+      "roundId": "round-13",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:15:18+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-and-full-resolution-phases/endpoints",
+      "assetId": "r13-ex_leg_raise-video-6fcc45bb",
+      "attemptId": "attempt_6fcc45bb211c487a",
+      "exerciseId": "ex_leg_raise",
+      "shot": "r13-ex_leg_raise-video",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_leg_raise-video-6fcc45bb.mp4",
+      "outputSha256": "cd70a00fd4997bbd38288cfe0b4ec7c0d6b1e66ff00ea0bd6d518b6b3a6adf97",
+      "status": "needs-correction",
+      "evidence": [
+        "Both complete ordered3fps sheets show a first mostly-straight leg lift near1.67s, a partial lowering by2.33s, then another forward lift near3.33s before the eventual starting-hang return.",
+        "Full-resolution1.666667,2.333333 and3.333333s frames confirm the intermediate lowered legs remain clearly forward of the torso instead of returning to the original near-vertical hang, so the second lift is an interior extra pulse.",
+        "A contiguous excerpt cannot remove this interior pulse while preserving a genuine complete starting-hang-to-return cycle. No valid single-cycle trim was identified.",
+        "Steady closed bar grips, long arms, mostly straight legs, gray fibers and orange abdominals remain coherent; preserve the reviewed source and correct only motion sequencing."
+      ],
+      "limitations": [
+        "No required hip-height or bar-reaching threshold is imposed; decisive failure is the partial return and extra lift.",
+        "No human acceptance. Review pins the exact registered raw delivery."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_6fcc45bb211c487a/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_6fcc45bb211c487a/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_6fcc45bb211c487a/workflow-start.png",
+        "reports/form-media/attempt_6fcc45bb211c487a/workflow-first-peak.png",
+        "reports/form-media/attempt_6fcc45bb211c487a/workflow-partial-return.png",
+        "reports/form-media/attempt_6fcc45bb211c487a/workflow-second-peak.png",
+        "reports/form-media/attempt_6fcc45bb211c487a/workflow-returned.png",
+        "reports/form-media/attempt_6fcc45bb211c487a/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-ex_v_up-video-878890be",
+      "attemptId": "attempt_878890be2372482c",
+      "exerciseId": "ex_v_up",
+      "shot": "r13-ex_v_up-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_v_up-video-878890be.mp4",
+      "outputSha256": "f634625729cfc5624198155dd449334ba6ddc9c5bdf4758e547936f27e157cb7",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:34:34+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-and-full-resolution-phases/endpoints",
+      "status": "candidate",
+      "evidence": [
+        "Both complete3fps timelines show one coordinated upper-trunk and both-leg rise, one raised pause, then a smooth complete supine return with both arms back overhead and a still finish.",
+        "Full-resolution start,1.666667s lift,2.666667s peak,5.333333s return and7.9s finish confirm mostly straight paired legs, supported pelvis, readable gray fibers, opaque shorts and retained bounded orange abdominals. No second body pulse or knee-tuck substitution observed."
+      ],
+      "limitations": [
+        "Comfortable partial torso curl with high mostly-straight legs; hands reach toward feet but toe contact is not claimed.",
+        "Fingers change to a pointing/reaching gesture at the peak; no load-bearing grip is involved. Human review remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_878890be2372482c/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_878890be2372482c/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_878890be2372482c/workflow-start.png",
+        "reports/form-media/attempt_878890be2372482c/workflow-lift.png",
+        "reports/form-media/attempt_878890be2372482c/workflow-peak.png",
+        "reports/form-media/attempt_878890be2372482c/workflow-return.png",
+        "reports/form-media/attempt_878890be2372482c/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_scissor_kick_0399c7e5-video-9bff8b5d",
+      "attemptId": "attempt_9bff8b5d681c498b",
+      "exerciseId": "open_scissor_kick_0399c7e5",
+      "shot": "r13-open_scissor_kick_0399c7e5-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_scissor_kick_0399c7e5-video-9bff8b5d.mp4",
+      "outputSha256": "4b5afb3d84f62f9f6b1a5986b371d14bae9ca0663c1020f8ea3ce6e1aa38daea",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:34:34+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-and-full-resolution-phases/endpoints",
+      "status": "needs-correction",
+      "evidence": [
+        "Full ordered3fps timeline shows the nearer leg rising once and returning, with the farther leg staying near its low starting height; no completed opposite-leg-raised phase appears before the still finish.",
+        "Full-resolution2.0,2.666667 and3.333333s frames confirm the nearer thigh/foot remain the raised limb through the movement instead of swapping roles. The complete left-right cycle required for one catalog repetition is missing.",
+        "Torso/head/pelvis and arms stay quiet, both feet remain clear, anatomy/shorts/abdominal cues stay coherent; preserve the valid reviewed source and correct leg-role sequence only."
+      ],
+      "limitations": [
+        "No arbitrary minimum amplitude is imposed; the failure is absent leg-role reversal, not a small comfortable scissor range.",
+        "A trim cannot create the missing opposite-leg phase. No human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_9bff8b5d681c498b/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_9bff8b5d681c498b/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_9bff8b5d681c498b/workflow-start.png",
+        "reports/form-media/attempt_9bff8b5d681c498b/workflow-firstphase.png",
+        "reports/form-media/attempt_9bff8b5d681c498b/workflow-turn.png",
+        "reports/form-media/attempt_9bff8b5d681c498b/workflow-secondphase.png",
+        "reports/form-media/attempt_9bff8b5d681c498b/workflow-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_glute_kickback_ca0b85d2-video-260aa6f9",
+      "attemptId": "attempt_260aa6f947df40f7",
+      "exerciseId": "open_glute_kickback_ca0b85d2",
+      "shot": "r13-open_glute_kickback_ca0b85d2-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_glute_kickback_ca0b85d2-video-260aa6f9.mp4",
+      "outputSha256": "eab2152727a4b91fd01cb31fb82bd3e04ddd1cb180a4ac7f6f7628e2ab8a7630",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:44:48+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-full-resolution-phase/endpoints-and-uncertain-boundaries",
+      "status": "needs-correction",
+      "evidence": [
+        "Both whole ordered3fps sheets show one bent-knee hip extension and a full returned knee contact, with original hands and opposite knee supported. The separate primary orange glute inset stays stable.",
+        "Full-resolution0s shows both posterior-thigh secondary surfaces BLUE. By the interior lift/2.8s they have become pink/orange on both the moving and supporting thigh;5.9s full return still has the pink/orange color. This is persistent material/color migration, not projected primary glute anatomy.",
+        "No contiguous complete cycle keeps the original blue secondary material, because the change occurs before the lift and persists through return. Keep valid geometry and primary inset; remove optional secondary tint in a newly reviewed exact-source edit before further paid motion."
+      ],
+      "limitations": [
+        "The actual video lifts the farther bent leg relative to this rear-side view; the catalog allows one leg and the glute inset remains stable. No failure is based solely on the requested near-side label.",
+        "Original source positive review remains valid; the new source refinement is warranted by actual motion color drift."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_260aa6f947df40f7/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_260aa6f947df40f7/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_260aa6f947df40f7/workflow-0s.png",
+        "reports/form-media/attempt_260aa6f947df40f7/workflow-2.8s.png",
+        "reports/form-media/attempt_260aa6f947df40f7/workflow-5.9s.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_superman_27d5233d-video-25f6831c",
+      "attemptId": "attempt_25f6831cf8c24546",
+      "exerciseId": "open_superman_27d5233d",
+      "shot": "r13-open_superman_27d5233d-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_superman_27d5233d-video-25f6831c.mp4",
+      "outputSha256": "f0f04456b7102f955521de533bc5730c161dd650dc795bd0a38c029f8dba30c9",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:44:48+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-full-resolution-phase/endpoints-and-uncertain-boundaries",
+      "status": "candidate",
+      "evidence": [
+        "Both whole ordered3fps sheets show a single simultaneous small arms/chest/both-leg lift, one high turnaround and a controlled complete prone return followed by stillness. No sampled extra lift, opposite-limb substitution or palm-supported cobra action.",
+        "Full-resolution0,2.8 and5.9s frames confirm both palms lift clear, both feet/legs rise a short distance, pelvis/abdomen stay supported, and arms/chest/legs return to the original low mat-supported contour.",
+        "Readable anatomical fibers, opaque shorts, bounded orange lumbar erectors and the subtle posterior-hamstring tint remain coherent across the lift/return. Full hands/feet fit and the neck stays aligned with the modest trunk lift."
+      ],
+      "limitations": [
+        "The actual source has softly bent forward-reaching elbows; this is retained, rather than a locked-elbow overhead progression.",
+        "The motion is a modest controlled range; AI candidate for human review, with no human acceptance."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_25f6831cf8c24546/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_25f6831cf8c24546/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_25f6831cf8c24546/workflow-0s.png",
+        "reports/form-media/attempt_25f6831cf8c24546/workflow-2.8s.png",
+        "reports/form-media/attempt_25f6831cf8c24546/workflow-5.9s.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_side_leg_lift-video-3163d4ff",
+      "attemptId": "attempt_3163d4ffc0f04cbf",
+      "exerciseId": "cat_pil_side_leg_lift",
+      "shot": "r13-cat_pil_side_leg_lift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_pil_side_leg_lift-video-3163d4ff.mp4",
+      "outputSha256": "c55391a82c57cf0e278123f8bbe1476866536330390b5d577911cebb16a897b9",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:44:48+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-full-resolution-phase/endpoints-and-uncertain-boundaries",
+      "status": "needs-correction",
+      "evidence": [
+        "Both whole ordered3fps sheets show a preliminary lowering from the source raised top-leg angle, one main lift/return and then an additional partial top-leg lift late in the raw clip. The entire raw delivery is not a single still-ended cycle.",
+        "Full-resolution0.833333s shows a settled low near-horizontal straight upper leg;2.8s shows the modest high endpoint;4.416667s shows a returned low angle before the later extra partial. Lower bent leg, head support/upper palm, stacked pelvis, fibers and exact glute inset stay coherent.",
+        "A contiguous original-speed0.833333–4.458333s first-cycle excerpt with disclosed endpoint holds is proposed from actual low setup to high and back low. The raw source retains this negative; derivative registration and exact-output review are required before any candidate."
+      ],
+      "limitations": [
+        "The excerpt would begin at an actual low pose reached after the source-start preparatory dip, not at the original first frame. This change must remain explicit in provenance.",
+        "No source reversal, speed change or missing limb phase is proposed."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3163d4ffc0f04cbf/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_3163d4ffc0f04cbf/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_3163d4ffc0f04cbf/workflow-0s.png",
+        "reports/form-media/attempt_3163d4ffc0f04cbf/workflow-2.8s.png",
+        "reports/form-media/attempt_3163d4ffc0f04cbf/workflow-5.9s.png",
+        "reports/form-media/attempt_3163d4ffc0f04cbf/workflow-initial-12fps.jpg",
+        "reports/form-media/attempt_3163d4ffc0f04cbf/workflow-boundary-0.833333.png",
+        "reports/form-media/attempt_3163d4ffc0f04cbf/workflow-boundary-4.416667.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_lower_back_curl_dd4375a1-video-bf51a6f8",
+      "attemptId": "attempt_bf51a6f8418f4f19",
+      "exerciseId": "open_lower_back_curl_dd4375a1",
+      "shot": "r13-open_lower_back_curl_dd4375a1-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_lower_back_curl_dd4375a1-video-bf51a6f8.mp4",
+      "outputSha256": "dfa0fd89ba2bdb47be8ba8aacc699ff2a7139a165519edacd4a16c0faed6f2aa",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:44:48+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-full-resolution-phase/endpoints-and-uncertain-boundaries",
+      "status": "needs-correction",
+      "evidence": [
+        "Both whole ordered3fps sheets show a modest single chest lift with both legs/pelvis grounded and persistent bounded orange lumbar fibers.",
+        "During the final lowering the near hand moves down and away from its beside-head position; the far hand also leaves the head region. By4.0–4.083333s the chest is back low while the hands are heading toward the mat, and4.5/5.9s show hands/forearms resting forward on the floor rather than beside the head.",
+        "Full-resolution3.166667,3.5,3.75,3.916667,4.0 and4.083333s boundaries do not establish a complete returned chest pose before this hand-role change. Do not declare an earlier incomplete lowering a complete return. Keep the valid exact source and correct hand position throughout the next actual full cycle."
+      ],
+      "limitations": [
+        "Beside-head hands need not pull or clamp the temples; retain the actual light hand-to-head gap rather than forcing a new grip.",
+        "No candidate is awarded to this raw delivery or an incomplete trim."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-0s.png",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-2.8s.png",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-5.9s.png",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-4.5s.png",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-boundary-3.166667.png",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-boundary-3.500000.png",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-boundary-3.750000.png",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-boundary-3.916667.png",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-boundary-4.000000.png",
+        "reports/form-media/attempt_bf51a6f8418f4f19/workflow-boundary-4.083333.png"
+      ]
+    },
+    {
+      "assetId": "r13-side-leg-lift-first-cycle-3163d4ff",
+      "sourceAttemptId": "attempt_3163d4ffc0f04cbf",
+      "exerciseId": "cat_pil_side_leg_lift",
+      "shot": "r13-cat_pil_side_leg_lift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-side-leg-lift-first-cycle-3163d4ff.mp4",
+      "outputSha256": "e147be35d886a235f0a2d66c5818ecd11cbd50dee8aa9ef5c4b04c487af46556",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:45:32+00:00",
+      "reviewKind": "exact-registered-derivative-whole-ordered-3fps-timeline-and-full-resolution-endpoints",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets of the exact4.625s derivative show one smooth upper-leg raise from the actual low near-horizontal pose, one modest high turnaround and a full controlled return to that low range with a still ending. No initial dip or extra late lift is present.",
+        "Full-resolution exact derivative0,2.166667,4.0 and4.583333s confirm the whole straight upper leg/foot fits, the lower bent leg and mat contacts remain stable, head-support arm/upper palm brace and stacked torso/pelvis stay coherent. Readable gray fibers, opaque shorts and exact primary orange glute inset remain stable.",
+        "Registered provenance is contiguous original-speed source0.833333–4.458333 with disclosed0.50s cloned holds at both ends. Raw source is retained with its separate negative for the preliminary dip and later partial lift; no reversal, reordering, speed change or paid generation was used."
+      ],
+      "limitations": [
+        "The excerpt starts at the actual low pose after the original raw source-frame preparatory lowering; its initial frame is not the first frame of the original static source.",
+        "The final low ankle position varies slightly from the initial low ankle height; both are a near-horizontal low upper-leg angle with the required controlled lowering. No ankle-on-floor or identical-pixel pose is claimed.",
+        "AI candidate for human review only; no human acceptance or publication."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r13-side-leg-lift-first-cycle-3163d4ff/workflow-3fps-01.jpg",
+        "reports/form-media/r13-side-leg-lift-first-cycle-3163d4ff/workflow-3fps-02.jpg",
+        "reports/form-media/r13-side-leg-lift-first-cycle-3163d4ff/workflow-0.000000s.png",
+        "reports/form-media/r13-side-leg-lift-first-cycle-3163d4ff/workflow-2.166667s.png",
+        "reports/form-media/r13-side-leg-lift-first-cycle-3163d4ff/workflow-4.000000s.png",
+        "reports/form-media/r13-side-leg-lift-first-cycle-3163d4ff/workflow-4.583333s.png"
+      ],
+      "edit": {
+        "id": "r13-side-leg-lift-first-cycle-3163d4ff",
+        "roundId": "round-13",
+        "sourceRoundId": "round-13",
+        "sourceAssetId": "r13-cat_pil_side_leg_lift-video-3163d4ff",
+        "sourceAttemptId": "attempt_3163d4ffc0f04cbf",
+        "sourcePath": "form-media/assets/masters/r13-cat_pil_side_leg_lift-video/attempt_3163d4ffc0f04cbf.mp4",
+        "sourceSha256": "1ed13b8e9412bf93a3e960e2a74230049b6c135f5f2434868f90c22782589861",
+        "trimStartSeconds": 0.833333,
+        "trimEndSeconds": 4.458333,
+        "leadHoldSeconds": 0.5,
+        "tailHoldSeconds": 0.5,
+        "playbackRate": 1,
+        "filter": "trim=start=0.833333:end=4.458333,setpts=PTS-STARTPTS,tpad=start_mode=clone:start_duration=0.5:stop_mode=clone:stop_duration=0.5",
+        "generationCredits": 0,
+        "createdAt": "2026-10-09T23:45:07+00:00",
+        "path": "form-media/assets/delivery/round-13/r13-side-leg-lift-first-cycle-3163d4ff.mp4",
+        "sha256": "e147be35d886a235f0a2d66c5818ecd11cbd50dee8aa9ef5c4b04c487af46556",
+        "bytes": 457351,
+        "width": 1280,
+        "height": 720,
+        "durationSeconds": 4.625,
+        "codec": "h264"
+      }
+    },
+    {
+      "assetId": "r13-ex_leg_raise-video-c4e1024d",
+      "attemptId": "attempt_c4e1024d148b400c",
+      "exerciseId": "ex_leg_raise",
+      "shot": "r13-ex_leg_raise-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_leg_raise-video-c4e1024d.mp4",
+      "outputSha256": "2ef149d35e3592f136f5c0fcff560ebd0820c4853df8866ec6f8bf391fc0c4c8",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:46:54+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-timeline-and-full-resolution-start-both-phases-return-finish",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets show one uninterrupted paired-leg raise, one upper turnaround, controlled lowering to a full near-vertical hang and stillness for the remainder. The earlier interior partial-return/second-lift defect is absent.",
+        "Full-resolution0,2,3,4,5 and7.9s confirm both legs travel together, remain mostly straight with soft knees, full feet stay in frame and return below the quiet torso. Both bar grips and long arm supports remain intact; no pull-up, swing-driven repeat or extra raise.",
+        "Gray anatomical fibers, opaque charcoal shorts and bounded orange abdominal anatomy remain attached/readable through the cycle and full return."
+      ],
+      "limitations": [
+        "The actual raised legs remain a comfortable amount below perfectly horizontal; catalog asks as high as possible with quiet torso, so no mandatory horizontal or locked-knee threshold was imposed.",
+        "Starting soft knee/ankle posture changes slightly during the low return; no material extra body action or apparatus change was observed. AI candidate for human review only."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_c4e1024d148b400c/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_c4e1024d148b400c/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_c4e1024d148b400c/workflow-0s.png",
+        "reports/form-media/attempt_c4e1024d148b400c/workflow-2s.png",
+        "reports/form-media/attempt_c4e1024d148b400c/workflow-3s.png",
+        "reports/form-media/attempt_c4e1024d148b400c/workflow-4s.png",
+        "reports/form-media/attempt_c4e1024d148b400c/workflow-5s.png",
+        "reports/form-media/attempt_c4e1024d148b400c/workflow-7.9s.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_scissor_kick_0399c7e5-video-53e89b4a",
+      "attemptId": "attempt_53e89b4aaaab4153",
+      "exerciseId": "open_scissor_kick_0399c7e5",
+      "shot": "r13-open_scissor_kick_0399c7e5-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_scissor_kick_0399c7e5-video-53e89b4a.mp4",
+      "outputSha256": "f927c7688c95abf51559458d1f9fc31766ffe8701521eb254fb148db084bed62",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-09T23:46:54+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-timeline-and-full-resolution-start-both-phases-return-finish",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets show the nearer leg rising first and returning to low hover, followed by the farther leg rising and returning; this demonstrates BOTH required opposed phases of one left-right scissor cycle. The first trial omitted the far-leg phase; this output corrects it.",
+        "Full-resolution0,2,3,4,5 and7.9s identify distinct near-high/far-low and far-high/near-low leg chains, mostly straight knees, supported quiet head/trunk/pelvis and a full original parallel hover return/still finish. No extra alternating pulse or simultaneous double-leg raise.",
+        "Gray muscle fibers, opaque shorts, bounded orange abdominal anatomy and both whole feet persist. The low heel stays in a small hovering gap above the mat with its shadow beneath; no planted-foot support is used."
+      ],
+      "limitations": [
+        "The lowest heel has modest clearance; this is a small slow scissor range, not a large or rapid flutter.",
+        "A short parallel-hover transition separates the two alternating phases. Canonical counting is one left-right cycle, not one leg raise. AI candidate for human review only."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_53e89b4aaaab4153/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_53e89b4aaaab4153/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_53e89b4aaaab4153/workflow-0s.png",
+        "reports/form-media/attempt_53e89b4aaaab4153/workflow-2s.png",
+        "reports/form-media/attempt_53e89b4aaaab4153/workflow-3s.png",
+        "reports/form-media/attempt_53e89b4aaaab4153/workflow-4s.png",
+        "reports/form-media/attempt_53e89b4aaaab4153/workflow-5s.png",
+        "reports/form-media/attempt_53e89b4aaaab4153/workflow-7.9s.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_rear_leg_raises_0bbd6757-video-0eb1d8f1",
+      "attemptId": "attempt_0eb1d8f1007e4887",
+      "exerciseId": "open_rear_leg_raises_0bbd6757",
+      "shot": "r13-open_rear_leg_raises_0bbd6757-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_rear_leg_raises_0bbd6757-video-0eb1d8f1.mp4",
+      "outputSha256": "25dc235bfb1c4b681386a54377b1f0a6afd058f50db2759b940b91cd0412c008",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:20:11+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-foot-crops-where-required",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets show ONE nearer-leg extension behind the body, substantial knee straightening, and a full knee-under-hip return followed by stillness. No opposite-leg repetition, arm extension or second kick.",
+        "Full-resolution0,2,3,4 and5.9s show the two palms/opposite knee retaining actual mat support, whole working foot staying framed and above the mat at its endpoint, quiet trunk/pelvis, gray muscle fibers and stable bounded orange glute anatomy in the fixed inset."
+      ],
+      "limitations": [
+        "The working knee remains softly bent at the modest low extension endpoint; the actual knee straightens substantially from its original folded source rather than locking. Catalog calls for straightening and lifting only within steady-back range, not a forced horizontal or locked-knee endpoint. AI candidate for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_0eb1d8f1007e4887/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_0eb1d8f1007e4887/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_0eb1d8f1007e4887/workflow-0s.png",
+        "reports/form-media/attempt_0eb1d8f1007e4887/workflow-1s.png",
+        "reports/form-media/attempt_0eb1d8f1007e4887/workflow-2s.png",
+        "reports/form-media/attempt_0eb1d8f1007e4887/workflow-3s.png",
+        "reports/form-media/attempt_0eb1d8f1007e4887/workflow-4s.png",
+        "reports/form-media/attempt_0eb1d8f1007e4887/workflow-5.9s.png",
+        "reports/form-media/attempt_0eb1d8f1007e4887/workflow-5s.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_lower_back_curl_dd4375a1-video-05101dc3",
+      "attemptId": "attempt_05101dc32264437f",
+      "exerciseId": "open_lower_back_curl_dd4375a1",
+      "shot": "r13-open_lower_back_curl_dd4375a1-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_lower_back_curl_dd4375a1-video-05101dc3.mp4",
+      "outputSha256": "cf7d771f80a8ad3c93382b8b61f86376341ddbf4bf1cd2aabaab7163b820dd1e",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:20:11+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-foot-crops-where-required",
+      "status": "candidate",
+      "evidence": [
+        "The corrected second output shows ONE modest chest lift and complete low return/still in both whole ordered3fps sheets. Pelvis and extended legs remain grounded; no push-up, large forced arch or extra lift.",
+        "Actual full-resolution0,2,3,4 and5.9s show both relaxed hands remaining lightly BESIDE their respective head areas through the lift AND complete lowering. The first output let the hands drift down to the mat; this output keeps them clear of floor support and avoids head pulling.",
+        "Bounded orange lumbar muscle cue, gray exposed anatomy fibers, opaque shorts, mat and camera remain stable. Neck follows the small torso arc."
+      ],
+      "limitations": [
+        "The hands hover beside the head rather than gripping it. Their relaxed fingers make small shape changes. The exercise uses a small comfortable chest lift; no large backbend is presented. AI candidate for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_05101dc32264437f/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_05101dc32264437f/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_05101dc32264437f/workflow-0s.png",
+        "reports/form-media/attempt_05101dc32264437f/workflow-1s.png",
+        "reports/form-media/attempt_05101dc32264437f/workflow-2s.png",
+        "reports/form-media/attempt_05101dc32264437f/workflow-3s.png",
+        "reports/form-media/attempt_05101dc32264437f/workflow-4s.png",
+        "reports/form-media/attempt_05101dc32264437f/workflow-5.9s.png",
+        "reports/form-media/attempt_05101dc32264437f/workflow-5s.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_cross_body_reach-video-0512aba0",
+      "attemptId": "attempt_0512aba062b14eb0",
+      "exerciseId": "cat_bal_cross_body_reach",
+      "shot": "r13-cat_bal_cross_body_reach-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_cross_body_reach-video-0512aba0.mp4",
+      "outputSha256": "3ccba5e7038539023919d21e39723b400b5351a66342173903087d68ee464855",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:20:11+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-foot-crops-where-required",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets show ONE selected arm lifting across the body to the opposite chest/shoulder area, then a full arm-down/trunk return and still finish. The opposite arm stays relaxed down; both full feet remain in their original grounded places.",
+        "Actual full-resolution0,2,3,4,5 and7.9s show a comfortable small torso rotation with no lunge, large lean, overhead reach or foot pivot. Whole hand/body fits and gray anatomical fibers/opaque shorts/bounded orange abdominal cue persist.",
+        "The working-side deltoid blue becomes a narrower desaturated projected edge while the arm adducts and torso turns; the opposite cap remains blue and the original working cap returns visibly on arm lowering. Do not infer total cue loss merely from reduced contact-sheet color area."
+      ],
+      "limitations": [
+        "The working shoulder secondary cue is less visible during adduction due to rotation/projection. Head/face has smoother silver treatment than body muscle fibers. One selected side only, with modest comfortable reach, not a full-body twist. AI candidate for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_0512aba062b14eb0/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_0512aba062b14eb0/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_0512aba062b14eb0/workflow-0s.png",
+        "reports/form-media/attempt_0512aba062b14eb0/workflow-1s.png",
+        "reports/form-media/attempt_0512aba062b14eb0/workflow-2s.png",
+        "reports/form-media/attempt_0512aba062b14eb0/workflow-3s.png",
+        "reports/form-media/attempt_0512aba062b14eb0/workflow-4s.png",
+        "reports/form-media/attempt_0512aba062b14eb0/workflow-5s.png",
+        "reports/form-media/attempt_0512aba062b14eb0/workflow-7.9s.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cond_squat_calf_raise-video-a896d041",
+      "attemptId": "attempt_a896d041f716440a",
+      "exerciseId": "cat_cond_squat_calf_raise",
+      "shot": "r13-cat_cond_squat_calf_raise-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cond_squat_calf_raise-video-a896d041.mp4",
+      "outputSha256": "6cf81273a9b01f5572f18ca61e867a61bf930a8e0022b6385e4e1a955b41d857",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:20:11+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-foot-crops-where-required",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets show the required ONE combined repetition in order: controlled modest squat, full upright stand, BOTH heel rise, BOTH heel lowering and still grounded finish. No extra squat, jump or one-sided calf repetition.",
+        "Full-resolution0,2,4,5 and7.9s plus6fps feet crops over4–6.5s verify that both forefoot/toe pads stay on the floor while BOTH posterior heels lift, then both complete feet return flat. The calf phase occurs after the complete standing phase rather than inside the squat.",
+        "Whole body stays framed, anatomical fibers and bounded anterior-quadriceps orange persist, and opaque shorts remain uniform. No balance apparatus, floor sliding or body clipping."
+      ],
+      "limitations": [
+        "The squat and heel rise are moderate; catalog requires a comfortable controlled range, not forced parallel squat depth or maximal calf height. Hands unclasp and relax down during the standing transition; this presentation variation does not replace leg phases or add support. AI candidate for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a896d041f716440a/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_a896d041f716440a/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_a896d041f716440a/workflow-0s.png",
+        "reports/form-media/attempt_a896d041f716440a/workflow-1s.png",
+        "reports/form-media/attempt_a896d041f716440a/workflow-2s.png",
+        "reports/form-media/attempt_a896d041f716440a/workflow-3s.png",
+        "reports/form-media/attempt_a896d041f716440a/workflow-4s.png",
+        "reports/form-media/attempt_a896d041f716440a/workflow-5s.png",
+        "reports/form-media/attempt_a896d041f716440a/workflow-7.9s.png",
+        "reports/form-media/attempt_a896d041f716440a/workflow-feet-01.jpg",
+        "reports/form-media/attempt_a896d041f716440a/workflow-feet-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_quarter_turn-video-13e9b3e5",
+      "attemptId": "attempt_13e9b3e5d3354f2a",
+      "exerciseId": "cat_bal_quarter_turn",
+      "shot": "r13-cat_bal_quarter_turn-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_quarter_turn-video-13e9b3e5.mp4",
+      "outputSha256": "6733a5936ca50cb88aac4803a1a7c1fb4ae9f1885a5803f9357cbdb4dd8f814e",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:20:11+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-foot-crops-where-required",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual full ordered timeline turns from the front-three-quarter source only as far as a near side-on/profile view around3.3–4.3s, then turns BACK and finishes in the original front-three-quarter orientation. The intended one quarter-turn plus pause has been replaced by a smaller turn-and-return.",
+        "Full-resolution0,2,3,4,5 and7.9s support the visible endpoint difference and unwanted return. Exact90degrees cannot be measured from these2D surfaces, but a quarter-turn from the starting front-three-quarter view should show a rear-biased endpoint rather than the visible near profile followed by source return.",
+        "Gray anatomical fibers, opaque shorts and fixed orange glute inset remain coherent. The defect is the missing complete one-direction quarter-turn/new-orientation finish, not a cue or source contact defect."
+      ],
+      "limitations": [
+        "A contiguous trim cannot invent the unshown full quarter-turn endpoint. Do not add turn-back to create a cycle; the catalog one counted rep legitimately ends at a new orientation."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_13e9b3e5d3354f2a/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_13e9b3e5d3354f2a/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_13e9b3e5d3354f2a/workflow-0s.png",
+        "reports/form-media/attempt_13e9b3e5d3354f2a/workflow-1s.png",
+        "reports/form-media/attempt_13e9b3e5d3354f2a/workflow-2s.png",
+        "reports/form-media/attempt_13e9b3e5d3354f2a/workflow-3s.png",
+        "reports/form-media/attempt_13e9b3e5d3354f2a/workflow-4s.png",
+        "reports/form-media/attempt_13e9b3e5d3354f2a/workflow-5s.png",
+        "reports/form-media/attempt_13e9b3e5d3354f2a/workflow-7.9s.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_lateral_weight_shift-video-84776ab2",
+      "attemptId": "attempt_84776ab2c201449b",
+      "exerciseId": "cat_bal_lateral_weight_shift",
+      "shot": "r13-cat_bal_lateral_weight_shift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_lateral_weight_shift-video-84776ab2.mp4",
+      "outputSha256": "a14892ae3e4b10463b660573f74cbec4f344d0f03bf086f1902581e07d1e1c48",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:20:11+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-foot-crops-where-required",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual video widens and narrows the stance by moving each full foot sideways during its directional phase. At2s the IMAGE-LEFT foot has shifted roughly50–70px farther left from its starting footprint; by3s it returns, and at4s the IMAGE-RIGHT foot is roughly70–90px farther right before returning.",
+        "The full-resolution0,2,3,4,5 and7.9s show this changing foot location while the camera and inset remain fixed. The required source-relative weight transfer with BOTH feet planted is replaced by alternating lateral slides/steps.",
+        "Both directional pelvis shifts, hands at hips, gray anatomy, opaque shorts and orange glute inset are otherwise coherent. No complete two-direction valid planted-foot repetition exists to isolate with a trim."
+      ],
+      "limitations": [
+        "Pixel displacements are approximate clear visual footprint changes, not exact3D measurements. Next motion must fix both full foot positions and transfer weight within the existing stance."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_84776ab2c201449b/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_84776ab2c201449b/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_84776ab2c201449b/workflow-0s.png",
+        "reports/form-media/attempt_84776ab2c201449b/workflow-1s.png",
+        "reports/form-media/attempt_84776ab2c201449b/workflow-2s.png",
+        "reports/form-media/attempt_84776ab2c201449b/workflow-3s.png",
+        "reports/form-media/attempt_84776ab2c201449b/workflow-4s.png",
+        "reports/form-media/attempt_84776ab2c201449b/workflow-5s.png",
+        "reports/form-media/attempt_84776ab2c201449b/workflow-7.9s.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_side_step_hold-video-09d77a09",
+      "attemptId": "attempt_09d77a095a614a24",
+      "exerciseId": "cat_bal_side_step_hold",
+      "shot": "r13-cat_bal_side_step_hold-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_side_step_hold-video-09d77a09.mp4",
+      "outputSha256": "58073e5f3439c17ed4893ae3c29339605fd4cc8e3df0e8bc5fe7573239ebac50",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:20:11+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-foot-crops-where-required",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual IMAGE-RIGHT leading/support foot lifts then moves INWARD toward the other foot around1.6–2.1s, narrowing the stance rather than placing a small outward lateral step. The torso then shifts over it while the other foot lifts, holds and returns.",
+        "Whole3fps timelines, full-resolution0/2/3/4/5/7.9s and12fps foot crops over0.75–2.75s show the inward landing and subsequent single-foot balance. The balance/rough2second hold itself is readable, but the defining outward side-step is not demonstrated.",
+        "Gray fibers, opaque shorts, quiet arms and stable genuine orange glute inset remain. There is no later separate correct outward step plus full balance/reset sequence to isolate; do not label the inward narrowing as the prescribed outward side step."
+      ],
+      "limitations": [
+        "The later lifted foot resets beside the support foot and a translated final stance is permissible. The rejection is the actual initial step direction/stance narrowing, not failure to return to the original pixel location."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_09d77a095a614a24/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-0s.png",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-1s.png",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-2s.png",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-3s.png",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-4s.png",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-5s.png",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-7.9s.png",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-feet-01.jpg",
+        "reports/form-media/attempt_09d77a095a614a24/workflow-feet-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_single_leg_reach-video-5af5f809",
+      "attemptId": "attempt_5af5f809398c48ea",
+      "exerciseId": "cat_bal_single_leg_reach",
+      "shot": "r13-cat_bal_single_leg_reach-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_single_leg_reach-video-5af5f809.mp4",
+      "outputSha256": "cc59352e79c87a5641eb41772150593ca07e4fba3be0747f963ca2e3232bcc44",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:24:36+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-start-hinge-return-finish",
+      "status": "candidate",
+      "evidence": [
+        "Both whole ordered3fps sheets show ONE small single-leg forward reach/hip-back hinge, followed by full upright source return and stillness. The same source support foot remains fully grounded, free bent leg remains lifted and both hands reach slightly forward.",
+        "Full-resolution0,2,3,4 and5.9s confirm a soft support knee, small comfortable aligned torso inclination, quiet pelvis/neck and no free-foot touchdown, long rear-leg extension, second reach or side switch. Gray anatomy fibers/opaque shorts and exact primary orange glute inset remain coherent."
+      ],
+      "limitations": [
+        "The reach/hinge uses a small range consistent with the catalog. Near the endpoint the head approaches/overlaps a narrow gray/border edge of the fixed inset; the actual orange muscle teaching surface remains visible and is not occluded. AI candidate for human review only."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_5af5f809398c48ea/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_5af5f809398c48ea/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_5af5f809398c48ea/workflow-0s.png",
+        "reports/form-media/attempt_5af5f809398c48ea/workflow-1s.png",
+        "reports/form-media/attempt_5af5f809398c48ea/workflow-2s.png",
+        "reports/form-media/attempt_5af5f809398c48ea/workflow-3s.png",
+        "reports/form-media/attempt_5af5f809398c48ea/workflow-4s.png",
+        "reports/form-media/attempt_5af5f809398c48ea/workflow-5.9s.png",
+        "reports/form-media/attempt_5af5f809398c48ea/workflow-5s.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_side_step_hold-video-f46503f9",
+      "attemptId": "attempt_f46503f996724575",
+      "exerciseId": "cat_bal_side_step_hold",
+      "shot": "r13-cat_bal_side_step_hold-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_side_step_hold-video-f46503f9.mp4",
+      "outputSha256": "707c4934e8bb7bfc1826f373ed2023c2b3429cc62b121c75fe4b015dc978b0ad",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:35:48+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-motion/feet-boundaries",
+      "status": "needs-correction",
+      "evidence": [
+        "Both complete ordered3fps sheets show the actual IMAGE-LEFT foot lifting briefly, then landing essentially at its original footprint before the opposite IMAGE-RIGHT foot lifts for balance. Full-resolution0/1/2/3/4/7.9s and0.75–2.5s12fps feet crops confirm no readable outward lateral placement or initially widened stance.",
+        "The support transfer and roughly2second single-foot balance/reset are readable, but the defining outward side step remains absent. Choosing the other side is allowed; this failure concerns the actual lack of an outward step, not disagreement with the requested side.",
+        "Gray anatomical fibers, opaque shorts, whole-body framing and the fixed bounded orange glute inset remain coherent. No separate complete outward-step/balance/reset sequence exists to isolate."
+      ],
+      "limitations": [
+        "A translated finish is legitimate. The next correction uses the actual model-preferred IMAGE-LEFT leading foot and requires a clearly outward LEFT landing before balance."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f46503f996724575/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_f46503f996724575/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_f46503f996724575/workflow-0s.png",
+        "reports/form-media/attempt_f46503f996724575/workflow-1s.png",
+        "reports/form-media/attempt_f46503f996724575/workflow-2s.png",
+        "reports/form-media/attempt_f46503f996724575/workflow-3s.png",
+        "reports/form-media/attempt_f46503f996724575/workflow-4s.png",
+        "reports/form-media/attempt_f46503f996724575/workflow-5s.png",
+        "reports/form-media/attempt_f46503f996724575/workflow-7.9s.png",
+        "reports/form-media/attempt_f46503f996724575/workflow-step-feet-12fps-01.jpg",
+        "reports/form-media/attempt_f46503f996724575/workflow-step-feet-12fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_lateral_weight_shift-video-1e054445",
+      "attemptId": "attempt_1e054445b66b41ef",
+      "exerciseId": "cat_bal_lateral_weight_shift",
+      "shot": "r13-cat_bal_lateral_weight_shift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_lateral_weight_shift-video-1e054445.mp4",
+      "outputSha256": "a83dbccabb9d505ec8af288857cd3f9beb5bb29b8e1cb70fff0b572f5d691719",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:35:48+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-motion/feet-boundaries",
+      "status": "needs-correction",
+      "evidence": [
+        "Whole ordered3fps sheets show two directional transfers and neutral return, but full-resolution0/2/3/4/5/7.9s show the IMAGE-LEFT whole footprint slides approximately50–60px farther left at2s and returns inward later. The camera/inset remain fixed; the stance is changing.",
+        "0.75–4.75s6fps feet crops support this full-foot displacement rather than a stationary-foot weight transfer. At the other directional phase the left heel/toe shape also rolls upward. Both feet planted at their original places is not maintained through a complete two-direction repetition.",
+        "Gray fibers, hands at hips, opaque shorts and orange glute inset persist. A much harder body shadow appears late near5.3–5.7s; this is a presentation change, while the decisive form failure is moving the feet during the transfer."
+      ],
+      "limitations": [
+        "Foot displacements are approximate visual changes, not measured3D translations. No complete valid planted-foot left/right cycle was identified for trimming."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-0s.png",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-1s.png",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-2s.png",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-3s.png",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-4s.png",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-5s.png",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-7.9s.png",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-shift-feet-6fps-01.jpg",
+        "reports/form-media/attempt_1e054445b66b41ef/workflow-shift-feet-6fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_quarter_turn-video-e60b7d59",
+      "attemptId": "attempt_e60b7d5999dd4f16",
+      "exerciseId": "cat_bal_quarter_turn",
+      "shot": "r13-cat_bal_quarter_turn-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_quarter_turn-video-e60b7d59.mp4",
+      "outputSha256": "7bd8bde02b60a78fc28fee61f814a654c3e96049e66ed6576b95b19f142e5a09",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:35:48+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-motion/feet-boundaries",
+      "status": "needs-correction",
+      "evidence": [
+        "The second actual output now turns continuously in one direction, but proceeds from the original front-three-quarter pose through profile/rear-three-quarter and finishes facing almost fully rear. This is visibly more than the intended one quarter-turn/new-orientation pause.",
+        "Full-resolution0/2/3/4/5/7.9s and4.416667/4.5/4.583333/4.666667/4.75/4.833333s with4.0–5.25s12fps confirm both feet are grounded near4.58–4.75, but the torso continues turning through that interval. There is no demonstrated stopped quarter-turn endpoint followed by a distinct later turn to isolate honestly.",
+        "Gray muscle anatomy, opaque shorts and fixed orange glute inset persist. Do not trim a moving crossing merely to manufacture the missing pause."
+      ],
+      "limitations": [
+        "Exact yaw cannot be measured from2D anatomy; the supported distinction is front-three-quarter to almost full rear versus the required single quarter-turn and grounded pause. The changed third brief must stop at the first rear-biased quarter endpoint and remain there, without source return or further turning."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-0s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-1s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-2s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-3s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-4.416667s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-4.583333s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-4.5s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-4.666667s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-4.75s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-4.833333s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-4s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-5s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-7.9s.png",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-turn-boundary-12fps-01.jpg",
+        "reports/form-media/attempt_e60b7d5999dd4f16/workflow-turn-boundary-12fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_glute_bridge-video-277b139f",
+      "attemptId": "attempt_277b139fb8174fa1",
+      "exerciseId": "ex_glute_bridge",
+      "shot": "r13-ex_glute_bridge-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_glute_bridge-video-277b139f.mp4",
+      "outputSha256": "0198797a3df46ad82ba5f19a35a9a4107a3dce5436139e4f256f1ec70858c30f",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:35:48+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-motion/feet-boundaries",
+      "status": "needs-correction",
+      "evidence": [
+        "Both complete ordered3fps timelines show one bilateral hip rise and a complete pelvis-to-mat low return. Full-resolution0/1/2/3/4/5.9s and2.333333/2.666667/3.333333/3.666667s show head/shoulders/palms and both feet preserving mat support.",
+        "At the raised endpoint, however, the trunk stays substantially flatter than the rising thighs and the hip remains visibly flexed. The shoulder-to-hip and hip-to-knee chains do not form the catalog trunk-and-thigh alignment. This is an incomplete raised bridge endpoint rather than a forced depth criterion.",
+        "1.5–4.5s6fps confirms a small peak settling change, but the decisive failure is the unshown aligned hip-extension endpoint. Gray fibers, opaque shorts and actual filled orange bilateral-glute inset remain stable; preserve the reviewed low source."
+      ],
+      "limitations": [
+        "2D anatomy limits precise joint-angle measurements. The visible persistent bend between trunk and thigh is sufficient to reject the claimed aligned endpoint; no numeric angle threshold is imposed. A trim cannot invent the missing high endpoint."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-0s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-1s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-2.333333s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-2.666667s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-2s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-3.333333s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-3.666667s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-3s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-4s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-5.9s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-5s.png",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-bridge-6fps-01.jpg",
+        "reports/form-media/attempt_277b139fb8174fa1/workflow-bridge-6fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_bodyweight_hip_hinge-video-6a05e544",
+      "attemptId": "attempt_6a05e5446b9b4041",
+      "exerciseId": "cat_cal_bodyweight_hip_hinge",
+      "shot": "r13-cat_cal_bodyweight_hip_hinge-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cal_bodyweight_hip_hinge-video-6a05e544.mp4",
+      "outputSha256": "5436081a5be71f957415b7ca8c86bd0685307f941cc0fa59720c331b030bdaab",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:39:30+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets show ONE modest hips-back hinge, followed by a full upright return and still finish. The head/trunk tip forward while the pelvis shifts back; knee bend stays soft and shins nearly vertical rather than making a squat.",
+        "Full-resolution0/1/2/3/4/5.9s show BOTH whole feet retaining their actual source floor places, hands lightly following the hips, a long aligned trunk, unchanged whole-body framing, bounded orange posterior hamstrings and genuine filled bilateral-glute inset. No interior bounce, added hinge, back arch or support step.",
+        "Fine exposed gray anatomical fibers and opaque uniform shorts persist. The source lower-back cool secondary treatment is subtle at full resolution and becomes lighter with trunk projection; no distinct primary muscle color migration was observed."
+      ],
+      "limitations": [
+        "Comfortable modest hinge range, without claiming a horizontal trunk or locked knees. The subtle source cool lumbar secondary is not a bold blue patch in the delivered render. AI candidate for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_6a05e5446b9b4041/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_6a05e5446b9b4041/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_6a05e5446b9b4041/workflow-0s.png",
+        "reports/form-media/attempt_6a05e5446b9b4041/workflow-1s.png",
+        "reports/form-media/attempt_6a05e5446b9b4041/workflow-2s.png",
+        "reports/form-media/attempt_6a05e5446b9b4041/workflow-3s.png",
+        "reports/form-media/attempt_6a05e5446b9b4041/workflow-4s.png",
+        "reports/form-media/attempt_6a05e5446b9b4041/workflow-5.9s.png",
+        "reports/form-media/attempt_6a05e5446b9b4041/workflow-5s.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_leg_lift_7bf3c8b4-video-9d2daf0e",
+      "attemptId": "attempt_9d2daf0ee96a45d4",
+      "exerciseId": "open_leg_lift_7bf3c8b4",
+      "shot": "r13-open_leg_lift_7bf3c8b4-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_leg_lift_7bf3c8b4-video-9d2daf0e.mp4",
+      "outputSha256": "2d4b0635c1d803c15cc79765952b59f8f34822b06e9fe36af42e8cd6affdcfdb",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:39:30+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered3fps sheets show ONE actual far/IMAGE-RIGHT leg moving backward from the chair-supported neutral stance, then a complete foot-to-source return and still finish. The nearer leg remains the support leg and no opposite-side repetition follows.",
+        "Full-resolution0/1/2/3/4/5.9s show both actual hands remaining on the same chair back, stable chair/floor contacts, the whole support foot planted, quiet upright torso/pelvis and a mostly long working knee chain with its source soft bend. This is hip extension rather than a large knee curl or trunk lean.",
+        "Fine gray muscle fibers, opaque charcoal shorts and the fixed actual filled orange working-side glute inset persist. Whole moving foot fits comfortably in the open rear arc; no apparatus distortion or later partial repetition."
+      ],
+      "limitations": [
+        "Modest backward hip range with a soft working knee. The source has a pale finite floor/background boundary rather than pure white; no photographic props are present. AI candidate for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_9d2daf0ee96a45d4/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_9d2daf0ee96a45d4/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_9d2daf0ee96a45d4/workflow-0s.png",
+        "reports/form-media/attempt_9d2daf0ee96a45d4/workflow-1s.png",
+        "reports/form-media/attempt_9d2daf0ee96a45d4/workflow-2s.png",
+        "reports/form-media/attempt_9d2daf0ee96a45d4/workflow-3s.png",
+        "reports/form-media/attempt_9d2daf0ee96a45d4/workflow-4s.png",
+        "reports/form-media/attempt_9d2daf0ee96a45d4/workflow-5.9s.png",
+        "reports/form-media/attempt_9d2daf0ee96a45d4/workflow-5s.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_lateral_weight_shift-video-2fa44b2a",
+      "attemptId": "attempt_2fa44b2a0a97486a",
+      "exerciseId": "cat_bal_lateral_weight_shift",
+      "shot": "r13-cat_bal_lateral_weight_shift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_lateral_weight_shift-video-2fa44b2a.mp4",
+      "outputSha256": "be303c13b1572fd77e8ff29f04ceb8948606527b9dd9337f73c6ea50bd3d71ce",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:45:41+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-feet-where-needed",
+      "status": "candidate",
+      "evidence": [
+        "The third exact output now performs ONE small left weight transfer, through center to right, then neutral return/still. Both complete ordered3fps sheets show the two-direction repetition without an extra cycle.",
+        "Full-resolution0/2/3/4/5/7.9s plus0.75–6.5s6fps foot crops verify BOTH complete feet retain their source floor footprints throughout. Unlike the first two trials, neither sole slides outward/inward, takes a step, pivots or lifts the heel.",
+        "Hands stay at hips, shoulders nearly level and knee/pelvis shifts remain small within the existing stance. Gray fibers, opaque shorts, soft floor shadow and fixed orange glute inset remain coherent."
+      ],
+      "limitations": [
+        "Small comfortable weight-transfer range; the teaching point is moving the pelvis within fixed full-foot contacts rather than making a deep lunge. AI candidate for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-0s.png",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-1s.png",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-2s.png",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-3s.png",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-4s.png",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-5.9s.png",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-5s.png",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-7.9s.png",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-fixed-feet-6fps-01.jpg",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-fixed-feet-6fps-02.jpg",
+        "reports/form-media/attempt_2fa44b2a0a97486a/workflow-fixed-feet-6fps-03.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_glute_bridge-video-17c0cb42",
+      "attemptId": "attempt_17c0cb4269c24a9c",
+      "exerciseId": "ex_glute_bridge",
+      "shot": "r13-ex_glute_bridge-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_glute_bridge-video-17c0cb42.mp4",
+      "outputSha256": "ad5107c187693c2e22e04e8763ad4762faa5983ca6a2b993480af0d7e8bd32f2",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T00:45:41+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; dense-feet-where-needed",
+      "status": "needs-correction",
+      "evidence": [
+        "The second output raises the hips farther and demonstrates a materially better near-continuous shoulder–hip–knee diagonal, followed by a full low pelvis return, with head/shoulders/palms and both feet retaining support.",
+        "However actual overlays appear through the interior peak/return: large words \"TRUNK AND THIGHS ALIGN\" point to the shorts, and an unrelated erroneous label \"ONE CANE\" points toward the shoulder/arm. Full-resolution2/3s confirms the rendered text/arrows; they are not merely review annotations.",
+        "Both whole3fps sheets show a small later extra hip rise after the first low return near4s, before a further low return. Main fibers/shorts/inset are stable, but the complete raw output is not a clean single uncaptioned repetition/still finish. The interior labels prevent an honest uncaptioned first-cycle trim."
+      ],
+      "limitations": [
+        "The preceding uppercase motion wording likely encouraged literal text rendering. Next brief uses ordinary prose and explicitly excludes rendered typography/arrows, while preserving the improved physical endpoint. No overlay removal or motion repair is claimed."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_17c0cb4269c24a9c/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_17c0cb4269c24a9c/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_17c0cb4269c24a9c/workflow-0s.png",
+        "reports/form-media/attempt_17c0cb4269c24a9c/workflow-1s.png",
+        "reports/form-media/attempt_17c0cb4269c24a9c/workflow-2s.png",
+        "reports/form-media/attempt_17c0cb4269c24a9c/workflow-3s.png",
+        "reports/form-media/attempt_17c0cb4269c24a9c/workflow-4s.png",
+        "reports/form-media/attempt_17c0cb4269c24a9c/workflow-5.9s.png",
+        "reports/form-media/attempt_17c0cb4269c24a9c/workflow-5s.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_suspended_reverse_cru_87b7b4f2-video-7a452b15",
+      "attemptId": "attempt_7a452b15fa004e58",
+      "exerciseId": "open_suspended_reverse_cru_87b7b4f2",
+      "shot": "r13-open_suspended_reverse_cru_87b7b4f2-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_suspended_reverse_cru_87b7b4f2-video-7a452b15.mp4",
+      "outputSha256": "0dff9a2d40c660432f1c673fb20d7e4f0474fee2aff69cb6e8d3a937b4211d72",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T01:06:25+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; 6fps internal supports where needed",
+      "status": "candidate",
+      "evidence": [
+        "Both complete ordered 3fps sheets and 0.5–6.5s 6fps sequence show one paired-knee draw with a small pelvic curl, then both legs extend back to the complete straight-body source plank and remain still. No extra alternating leg cycle, later tuck or interior reversal appears.",
+        "Full-resolution 0/1/2/3/4/5/7.9s confirms both feet remain in their distinct forefoot cradles and clear of the floor, the wall anchor remains fixed and the taut straps change angle coherently as the knees draw forward. Both actual palm contacts remain at the original floor places; the shoulders retain support.",
+        "Gray exposed fibers, opaque charcoal shorts and the actual bounded orange abdominal fibers persist through the tuck and full return without clothing paint, pike, hip sag, moving apparatus or additional text."
+      ],
+      "limitations": [
+        "Small catalog-controlled posterior pelvic curl and comfortable tuck; not a maximal knee-to-chest claim. Exact unedited eight-second AI candidate for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-0s.png",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-1s.png",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-2s.png",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-3s.png",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-4s.png",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-5s.png",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-7.9s.png",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-6fps-01.jpg",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-6fps-02.jpg",
+        "reports/form-media/attempt_7a452b15fa004e58/workflow-6fps-03.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_tricep_dip-video-ee5e4c99",
+      "attemptId": "attempt_ee5e4c99cb414870",
+      "exerciseId": "ex_tricep_dip",
+      "shot": "r13-ex_tricep_dip-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_tricep_dip-video-ee5e4c99.mp4",
+      "outputSha256": "220980e1b27e77063ff4e8f3501d78653820a5d98f96efc1fc463faa0771ad9b",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T01:06:26+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; 6fps internal supports where needed",
+      "status": "candidate",
+      "evidence": [
+        "Both whole 3fps sheets, the 0.5–6.5s 6fps sequence and full-resolution 0/1/2/3/4/5/7.9s show one modest simultaneous elbow-flexion dip, one controlled full long-arm return and a quiet top-support finish. No bounce, added dip or shoulder sinking is visible.",
+        "Both hands retain closed grips at the same separate rigid rails, both apparatus bases remain grounded and the bent-knee legs stay clear of the floor throughout the descent. The torso remains nearly upright rather than swinging or leaning deeply.",
+        "Actual full-resolution lower endpoints retain orange posterior triceps attached beneath the gray shoulder caps through rotation; the projected patch shape changes with the bent arms, without an observed new deltoid cue. Fine gray body fibers and opaque shorts remain coherent, with no captions or extra views."
+      ],
+      "limitations": [
+        "Modest comfortable dip depth is intentional and disclosed; catalog does not require a forced deep shoulder range. Exact unedited eight-second AI candidate for human review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-0s.png",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-1s.png",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-2s.png",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-3s.png",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-4s.png",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-5s.png",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-7.9s.png",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-6fps-01.jpg",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-6fps-02.jpg",
+        "reports/form-media/attempt_ee5e4c99cb414870/workflow-6fps-03.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_glute_bridge-video-3bb5d8d8",
+      "attemptId": "attempt_3bb5d8d805e0425f",
+      "exerciseId": "ex_glute_bridge",
+      "shot": "r13-ex_glute_bridge-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_glute_bridge-video-3bb5d8d8.mp4",
+      "outputSha256": "36f3d1d75f69400ee8003ead1b76d3c1de955acf494b4d5b9126fa03a9a490c0",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T01:06:26+00:00",
+      "reviewKind": "exact-delivery-whole-ordered-3fps-and-full-resolution-phases/endpoints; 6fps internal supports where needed",
+      "status": "needs-correction",
+      "evidence": [
+        "The third whole six-second sequence now contains one low-to-raised-to-low bridge and a stable low finish, with the prior unwanted captions/arrows removed. Head/shoulders/palms, both complete feet, opaque shorts, gray fibers and the filled orange glute inset remain coherent.",
+        "However the actual full-resolution raised pose at 2s and 3s still has a flatter shoulder-to-hip trunk and a substantially more steeply rising hip-to-knee thigh segment. The hip remains a visible bend between those segments, so the catalog-required trunk-and-thigh alignment is not demonstrated.",
+        "A contiguous trim cannot supply the missing physical endpoint: the same under-raised geometry persists at the peak. A distinctive properly aligned raised-endpoint source is proposed for actual static review before the fourth and final animation, rather than repeating the same low-source motion wording."
+      ],
+      "limitations": [
+        "No numeric angle threshold or maximal lumbar extension is imposed; the failure is the visible retained hip bend relative to the explicit canonical alignment. Previous low static source remains honestly passed for its original pose. No new source or fourth video result is presumed."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3bb5d8d805e0425f/workflow-3fps-01.jpg",
+        "reports/form-media/attempt_3bb5d8d805e0425f/workflow-3fps-02.jpg",
+        "reports/form-media/attempt_3bb5d8d805e0425f/workflow-0s.png",
+        "reports/form-media/attempt_3bb5d8d805e0425f/workflow-1s.png",
+        "reports/form-media/attempt_3bb5d8d805e0425f/workflow-2s.png",
+        "reports/form-media/attempt_3bb5d8d805e0425f/workflow-3s.png",
+        "reports/form-media/attempt_3bb5d8d805e0425f/workflow-4s.png",
+        "reports/form-media/attempt_3bb5d8d805e0425f/workflow-5.9s.png",
+        "reports/form-media/attempt_3bb5d8d805e0425f/workflow-5s.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_quarter_turn-video-b2cc22b5",
+      "attemptId": "attempt_b2cc22b51f714c08",
+      "exerciseId": "cat_bal_quarter_turn",
+      "shot": "r13-cat_bal_quarter_turn-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_quarter_turn-video-b2cc22b5.mp4",
+      "outputSha256": "30c80bb4a35afb07e733f7b203cd8031b5ca894c0515964555ecd1b668ee14ea",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T01:20:09+00:00",
+      "reviewKind": "exact prepared delivery whole ordered3fps/full-resolution phases/endpoints; supplemental retained-master dense6/12fps",
+      "status": "needs-correction",
+      "evidence": [
+        "Both ordered whole 3fps sequences and full-resolution 0/2/3/4/5/6/7.9s show a continuous turn from the original three-quarter front view through side and rear-three-quarter views into a nearly full rear endpoint before the final pause. This exceeds the canonical single ninety-degree quarter-turn.",
+        "Dense 2.25–5.25s 6fps inspection shows the feet continue taking turn steps and the torso continues rotating through the intended intermediate quarter orientation. There is no demonstrated grounded stopped quarter endpoint before the later turn; trimming a moving crossing would manufacture the missing pause.",
+        "Gray anatomical fibers, opaque shorts and the fixed bounded orange glute specimen remain coherent; failure is the counted movement/stop boundary rather than cue disappearance. A fresh frontal second source is proposed to make a genuine side-profile quarter endpoint unambiguous before the fourth and final motion."
+      ],
+      "limitations": [
+        "No numerical pixel-angle threshold is imposed; the observed front-to-near-rear rotation and continued steps visibly exceed one quarter. No derivative or paid same-source synonym is staged. Prior source pass remains truthful."
+      ],
+      "masterDeliveryByteIdentityVerified": false,
+      "deliveryReencodingDisclosed": true,
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-delivery-0s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-delivery-2s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-delivery-3fps-01.jpg",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-delivery-3fps-02.jpg",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-delivery-3s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-delivery-4s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-delivery-7.9s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-0s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-1s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-2s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-3fps-01.jpg",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-3fps-02.jpg",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-3s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-4s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-5s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-6s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-7.9s.png",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-turn-6fps-01.jpg",
+        "reports/form-media/attempt_b2cc22b51f714c08/workflow-master-turn-6fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_side_step_hold-video-ee4763b3",
+      "attemptId": "attempt_ee4763b3e5d844c2",
+      "exerciseId": "cat_bal_side_step_hold",
+      "shot": "r13-cat_bal_side_step_hold-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_side_step_hold-video-ee4763b3.mp4",
+      "outputSha256": "f65191bfbce04adea37afb357f17334674273e953c5a0a8338b5c5f0c900ad0e",
+      "reviewerType": "ai",
+      "reviewer": "Codex workflow subagent",
+      "reviewedAt": "2026-10-10T01:20:09+00:00",
+      "reviewKind": "exact prepared delivery whole ordered3fps/full-resolution phases/endpoints; supplemental retained-master dense6/12fps",
+      "status": "needs-correction",
+      "evidence": [
+        "Whole ordered 3fps output now gives the intended image-left foot an outward airborne excursion, but returns it toward the original source footprint before balancing on that leg. Full-resolution 2s shows the original two-foot stance before the opposite image-right foot rises at 3–4s.",
+        "Dense 1–4s 12fps foot crops confirm the outward excursion does not become the retained outward landed support during the subsequent two-second opposite-foot balance. The eventual support is again at its original location, so the defining side-step-to-balance sequence is not demonstrated.",
+        "The later balance and two-foot reset, upright body, gray fibers, opaque shorts and filled orange glute specimen are coherent. A trim cannot connect the outward step to its required new-footprint balance. An exact-source phase edit makes the chosen image-left foot initially hover over its original spot, ready to be placed outward once and retained as support."
+      ],
+      "limitations": [
+        "The issue is not ordinary foot motion during a step; it is the early reset before the required balance on the new landing. One prior source and three videos exist; actual new master must pass before fourth/final motion."
+      ],
+      "masterDeliveryByteIdentityVerified": false,
+      "deliveryReencodingDisclosed": true,
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-delivery-0s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-delivery-2s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-delivery-3fps-01.jpg",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-delivery-3fps-02.jpg",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-delivery-3s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-delivery-4s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-delivery-7.9s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-0s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-1s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-2s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-3fps-01.jpg",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-3fps-02.jpg",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-3s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-4s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-5s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-6s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-7.9s.png",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-step-12fps-01.jpg",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-step-12fps-02.jpg",
+        "reports/form-media/attempt_ee4763b3e5d844c2/workflow-master-step-12fps-03.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "group_1d09b4a553744f28",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T12:35:33+00:00",
+  "balanceBefore": 729,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_single_leg_hop_progre_946f9148",
+      "shot": "r13-open_single_leg_hop_progre_946f9148-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "a99c5d756226b21d3d67289802f6c30260f0671acdf9a2ba61e5b1c88e4110ed",
+      "quoteFile": "form-media/ui-quotes/r13-open_single_leg_hop_progre_946f9148-start-paced-dd343c24.json",
+      "quoteSha256": "3ae2d1fe2d7c388cad2b0b0f2984459a2e6c6bca88090a917404cf8b449f7fc3",
+      "quoteCredits": 0,
+      "balance": 729,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T12:36:32+00:00",
+  "balanceAfter": 729,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-6ed9ce2924b741cd.json",
+  "evidenceSha256": "df65ddfe0b554483a6f0f33e54d27b1deed63b6550b9f1cfa6e24bc98507885d",
+  "terminalFailureIds": []
+}

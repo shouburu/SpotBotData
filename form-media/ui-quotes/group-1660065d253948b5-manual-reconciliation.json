@@ -1,0 +1,44 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "0a22dda2-a12d-48bb-b3e4-2f74450ddcbd",
+  "profile": "shouburu",
+  "balance": 1713,
+  "visibleBalanceText": "1,713 Google Flow credits",
+  "observedAt": "2026-10-10T02:25:23.790140+00:00",
+  "outputRecoveryEvidence": {
+    "path": "reports/round-13/source-1660-recovery-diagnosis.json",
+    "sha256": "2d41c79a9e3843cbd275a66f7e24a9840fedecfc0045e81ec2e3cb24495c2fb7"
+  },
+  "imageResponseDiagnosticEvidence": {
+    "path": "reports/round-13/image-response-diagnostics/image-20261010T022316132586Z-211b94dea71f.json",
+    "sha256": "b1cb68032ba1ddb9974bf1841f45679685330f2365cfdec532942944974f23f5",
+    "scope": "Matched original native response contained a null ogiZ0b result and bare8 error-style code; no success payload/IDs or identified terminal semantics. No provider outcome inferred."
+  },
+  "groupId": "group_1660065d253948b5",
+  "reconciliationType": "manual-zero-credit-accounting-with-one-unrecoverable-source",
+  "unknownProviderOutcomes": [
+    {
+      "attemptId": "attempt_ab943c51d6104a9f",
+      "exerciseId": "open_foot_smr_0c3b78bc",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_ab943c51d6104a9f/stdout.json",
+        "sha256": "5e47864c04de38decb2da07aabe5bb413b4a5df1430847260b62c47338576588"
+      },
+      "providerOutcome": "unknown",
+      "countedSourceAttempts": 1
+    }
+  ],
+  "successfulPeerMasters": [],
+  "frozenZeroQuoteProofs": [
+    {
+      "attemptId": "attempt_ab943c51d6104a9f",
+      "path": "form-media/ui-quotes/round-13-fresh-project-source-probe.json",
+      "sha256": "529fa011846d7fb05c0ea7d06e2289c729d4f3b4597d389f4033a0d7a492bff5",
+      "credits": 0
+    }
+  ],
+  "scope": "Billing only: one exact zero-credit quote and unchanged aggregate visible balance. The local parsing/retrieval failure retains an unknown provider outcome; no provider-terminal failure or non-submission is inferred.",
+  "retryPolicy": "The unknown first source attempt remains counted. Source and dependent motion are held without resubmission, even though the four-attempt quality cap is not exhausted. No automatic settlement guard is changed."
+}

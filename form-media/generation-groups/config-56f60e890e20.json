@@ -1,0 +1,12 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-cable-curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-curl-t2v-8efa7215.json"
+    },
+    {
+      "shot": "r12-smith-shrug-video",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-video-3a941dcc.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_upright_row_with_band_c3eb96e4-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_upright_row_with_band_c3eb96e4-video-ad83d9d9.json"
+    },
+    {
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_skull_crusher_d4b2fbd2-video-00911903.json"
+    },
+    {
+      "shot": "r13-cat_pil_side_leg_lift-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_leg_lift-video-46e372ef.json"
+    },
+    {
+      "shot": "r13-open_glute_kickback_ca0b85d2-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_glute_kickback_ca0b85d2-video-9ef4dc82.json"
+    },
+    {
+      "shot": "r13-open_superman_27d5233d-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_superman_27d5233d-video-bcd8a221.json"
+    },
+    {
+      "shot": "r13-open_lower_back_curl_dd4375a1-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_lower_back_curl_dd4375a1-video-49428028.json"
+    }
+  ]
+}

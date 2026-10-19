@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-machine_back_extension-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine_back_extension-start-edf5e71a.json"
+    },
+    {
+      "shot": "r12-seated-cable-rear-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-rear-fly-start-cecfa7f7.json"
+    },
+    {
+      "shot": "r12-flat-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-flat-cable-fly-start-3e6514d2.json"
+    },
+    {
+      "shot": "r12-incline-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-fly-start-9bf1adf5.json"
+    }
+  ]
+}

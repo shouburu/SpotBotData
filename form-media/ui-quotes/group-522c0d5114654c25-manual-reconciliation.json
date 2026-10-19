@@ -1,0 +1,68 @@
+{
+  "sourceType": "flow-ui-observation",
+  "observer": "gflow CLI browser DOM observer",
+  "source": "Live Flow composer and account-panel visible DOM; no generation submitted",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "profile": "shouburu",
+  "balance": 1737,
+  "visibleBalanceText": "1,737 Google Flow credits",
+  "observedAt": "2026-10-10T01:39:32.305519+00:00",
+  "outputRecoveryEvidence": {
+    "path": "reports/round-13/source-522c-recovery-diagnosis.json",
+    "sha256": "46f70a7304a05143b6f83eaf599f19f5c276e396b0c2cfef0afade2264952962"
+  },
+  "groupId": "group_522c0d5114654c25",
+  "reconciliationType": "manual-zero-credit-accounting-with-two-unrecoverable-sources",
+  "unknownProviderOutcomes": [
+    {
+      "attemptId": "attempt_65cd06cd5b3f4ff0",
+      "exerciseId": "cat_cond_shadow_boxing",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_65cd06cd5b3f4ff0/stdout.json",
+        "sha256": "7d44d7f23ff0c8b7976a341afab4ba3fd2f691ce9d540e577799b99e874bae5b"
+      },
+      "providerOutcome": "unknown",
+      "countedSourceAttempts": 1
+    },
+    {
+      "attemptId": "attempt_ac2a80183b8b45ba",
+      "exerciseId": "cat_cond_step_back_burpee",
+      "submissionResponse": {
+        "path": "reports/form-media/attempt_ac2a80183b8b45ba/stdout.json",
+        "sha256": "e8c36782f7003ff5d64f01d3a0d3620ec9524e5dbf16d35507aef0b659cba45a"
+      },
+      "providerOutcome": "unknown",
+      "countedSourceAttempts": 1
+    }
+  ],
+  "successfulPeerMasters": [
+    {
+      "attemptId": "attempt_6540a83a2c854f1c",
+      "exerciseId": "cat_cond_mountain_climber",
+      "path": "form-media/assets/masters/r13-cat_cond_mountain_climber-start/attempt_6540a83a2c854f1c.jpg",
+      "sha256": "19e4afb910d95345d854e976e05cd7015a6452146a3b7a4289bbcf16662f4e64"
+    }
+  ],
+  "frozenZeroQuoteProofs": [
+    {
+      "attemptId": "attempt_6540a83a2c854f1c",
+      "path": "form-media/ui-quotes/r13-cat_cond_mountain_climber-start-4091512d.json",
+      "sha256": "0f627dcf6e3b1a770cd92c5c8cf30ad5f69234ec14954cfc635708a79e4bbd9a",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_65cd06cd5b3f4ff0",
+      "path": "form-media/ui-quotes/r13-cat_cond_shadow_boxing-start-3c20446c.json",
+      "sha256": "24cb9a33a225ac1c90947a5904a997a90b7106329bbde0d6e14faedf33b933d6",
+      "credits": 0
+    },
+    {
+      "attemptId": "attempt_ac2a80183b8b45ba",
+      "path": "form-media/ui-quotes/r13-cat_cond_step_back_burpee-start-31abc574.json",
+      "sha256": "2832d2c143321f891935f916abe8f8b46817835ce0f94c4e46c3575d59d16f2b",
+      "credits": 0
+    }
+  ],
+  "scope": "Billing only: three exact zero-credit quotes and unchanged aggregate visible balance. One exact downloaded master may complete. Two local parsing/retrieval failures retain unknown provider outcomes; no provider-terminal failure or non-submission is inferred.",
+  "retryPolicy": "Both unknown first source attempts remain counted. Source and dependent motion are held without resubmission, even though the four-attempt quality cap is not exhausted. No automatic settlement guard is changed."
+}

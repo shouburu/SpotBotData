@@ -1,0 +1,35 @@
+{
+  "id": "group_6ca960b5e9024955",
+  "status": "billing-reconciled-with-unrecoverable-free-sources",
+  "roundId": "round-13",
+  "projectId": "0a22dda2-a12d-48bb-b3e4-2f74450ddcbd",
+  "createdAt": "2026-10-10T02:28:02+00:00",
+  "balanceBefore": 1713,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_calves_smr_c8db3e21",
+      "shot": "r13-open_calves_smr_c8db3e21-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "6bbe18e090ef7d64b8ffa222329a63c034e3bd2d84dae32f66aaa0f82d916371",
+      "quoteFile": "form-media/ui-quotes/round-13-fresh-project-second-source-probe.json",
+      "quoteSha256": "11d711666178b0a0b9daa7510fe7d8a4fa9ea32865978082c035f9c305a386f9",
+      "quoteCredits": 0,
+      "balance": 1713,
+      "references": []
+    }
+  ],
+  "settlementMethod": "manual-all-zero-quote-and-aggregate-balance",
+  "defaultProjectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "projectOverrideAuthorization": "User explicitly requested investigation and new supported recovery experiments. One previously untouched source after normal pause, same existing worker/account, capture typed ErrorInfo reason metadata. Prior unknown requests held; budgets/default project/counts unchanged.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "actualCredits": 0,
+  "balanceAfter": 1713,
+  "settledAt": "2026-10-10T02:30:36+00:00",
+  "evidenceFile": "form-media/ui-quotes/group-6ca960b5e9024955-manual-reconciliation.json",
+  "evidenceSha256": "d47910e0c44e008646160da5cd79660607fc3834bea0f8a4658015485cfc48b8",
+  "unknownProviderOutcomeAttemptIds": [
+    "attempt_166c1e4e0a5540ee"
+  ],
+  "terminalFailureIds": []
+}

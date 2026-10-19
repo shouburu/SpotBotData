@@ -1,0 +1,1420 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-13",
+  "reviews": [
+    {
+      "assetId": "r13-open_reverse_crunch_533db487-video-c23a9368",
+      "attemptId": "attempt_c23a936812d94d81",
+      "exerciseId": "open_reverse_crunch_533db487",
+      "shot": "r13-open_reverse_crunch_533db487-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_reverse_crunch_533db487-video-c23a9368.mp4",
+      "outputSha256": "4571b1e2040d87fe6badbc6a2fe8f7acd75a4a58d329e2d7e7af17761553a397",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:14:25.567160+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Full-resolution peak at 2.333 seconds shows a genuine small pelvic curl: the bottom of the shorts/hips lifts above its initial floor support by a visible gap while head, shoulders and arms remain supported. This is more apparent at full resolution than in the reduced contact sheet.",
+        "The bent legs move together with the pelvis, return to the prepared tabletop without swinging, and hips lower all the way to original floor support by approximately 3.7 seconds.",
+        "Both 3fps sheets and whole-timeline 6fps sheets show one curl and return, then a still finish; no hidden second lift or return bounce was found.",
+        "Attached abdominal-orange, readable gray fibers, opaque shorts, white background and complete body framing remain consistent."
+      ],
+      "limitations": [
+        "Both populated 3fps sheets, additional whole-timeline 6fps sheets and listed full-resolution exact-delivery frames inspected. Frame sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_c23a936812d94d81/review-3fps-01.jpg",
+        "reports/form-media/attempt_c23a936812d94d81/review-3fps-02.jpg",
+        "reports/form-media/attempt_c23a936812d94d81/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_c23a936812d94d81/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_c23a936812d94d81/independent-frame-0.png",
+        "reports/form-media/attempt_c23a936812d94d81/independent-frame-2.333333.png",
+        "reports/form-media/attempt_c23a936812d94d81/independent-frame-3.666667.png",
+        "reports/form-media/attempt_c23a936812d94d81/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_alternate_heel_touche_0718c1bb-video-a3d74716",
+      "attemptId": "attempt_a3d74716eb954eca",
+      "exerciseId": "open_alternate_heel_touche_0718c1bb",
+      "shot": "r13-open_alternate_heel_touche_0718c1bb-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_alternate_heel_touche_0718c1bb-video-a3d74716.mp4",
+      "outputSha256": "f1f815ed59cd1e1a7db5a289fbd506bcb3b0f93dbd74c4a14fed7ab220976ec9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:14:25.567160+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The near long arm reaches toward its own heel with a controlled near-side trunk movement, visibly narrowing the hand-to-heel gap; heel contact is not required by the catalog wording.",
+        "Both feet remain planted, knees bent and pelvis/lower back supported; there is no head pulling because the hands remain beside the torso.",
+        "The whole 3fps and additional 6fps timelines show one near-side reach and a full centered return, followed by a still finish. No second reach or internal return bounce was found.",
+        "Abdominal-orange stays attached to actual exposed fibers; readable gray anatomy, opaque shorts and the clean white locked frame remain consistent."
+      ],
+      "limitations": [
+        "Both populated 3fps sheets, additional whole-timeline 6fps sheets and listed full-resolution exact-delivery frames inspected. Frame sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a3d74716eb954eca/review-3fps-01.jpg",
+        "reports/form-media/attempt_a3d74716eb954eca/review-3fps-02.jpg",
+        "reports/form-media/attempt_a3d74716eb954eca/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_a3d74716eb954eca/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_a3d74716eb954eca/independent-frame-0.png",
+        "reports/form-media/attempt_a3d74716eb954eca/independent-frame-2.333333.png",
+        "reports/form-media/attempt_a3d74716eb954eca/independent-frame-3.666667.png",
+        "reports/form-media/attempt_a3d74716eb954eca/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_romanian_deadlift-video-0497326f",
+      "attemptId": "attempt_0497326f1172454a",
+      "exerciseId": "cat_band_romanian_deadlift",
+      "shot": "r13-cat_band_romanian_deadlift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_romanian_deadlift-video-0497326f.mp4",
+      "outputSha256": "185bb92347114b935653c51c70071b5adcafb17b8911050b9898f54f6a08b6aa",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:14:25.567160+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "An initial controlled hip hinge is visible with both grounded band-pin contacts and attached hamstring-orange.",
+        "During the rise/finish, the far elbow bends and its hand moves to the waist in an added band-row/curl action; the near arm also moves upward before the arms later lower again. This is outside the catalog hip-hinge movement.",
+        "Full-resolution return frames at 2.667, 2.833, 3.0 and 3.167 seconds plus whole-timeline 6fps sampling were checked. I did not establish a complete returned upright cycle with both original long arms before the unwanted arm action, so no derivative candidate is claimed.",
+        "This first actual video needs a distinctly shorter brief restricting the action to hips while both elbows stay long throughout the return and still finish."
+      ],
+      "limitations": [
+        "Both populated 3fps sheets, additional whole-timeline 6fps sheets and listed full-resolution exact-delivery frames inspected. Frame sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_0497326f1172454a/review-3fps-01.jpg",
+        "reports/form-media/attempt_0497326f1172454a/review-3fps-02.jpg",
+        "reports/form-media/attempt_0497326f1172454a/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_0497326f1172454a/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_0497326f1172454a/independent-frame-0.png",
+        "reports/form-media/attempt_0497326f1172454a/independent-frame-2.333333.png",
+        "reports/form-media/attempt_0497326f1172454a/independent-frame-3.666667.png",
+        "reports/form-media/attempt_0497326f1172454a/independent-frame-5.9.png",
+        "reports/form-media/attempt_0497326f1172454a/independent-frame-2.666667.png",
+        "reports/form-media/attempt_0497326f1172454a/independent-frame-2.833333.png",
+        "reports/form-media/attempt_0497326f1172454a/independent-frame-3.png",
+        "reports/form-media/attempt_0497326f1172454a/independent-frame-3.166667.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_pallof_press-video-46ce6b70",
+      "attemptId": "attempt_46ce6b703c6f4fcc",
+      "exerciseId": "cat_band_pallof_press",
+      "shot": "r13-cat_band_pallof_press-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_pallof_press-video-46ce6b70.mp4",
+      "outputSha256": "493eacf861d3c50569fb2218f8658464cddf5838f1a54062255ac893aa66be23",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:20:11.933440+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual fully extended source first retracts both hands toward the sternum and presses outward. At 3.166 seconds the joined hands have not yet restored the original extended position; at 3.333 seconds they visibly separate into distinct grips before the returned endpoint is established.",
+        "The later timeline opens both arms widely rather than preserving the common two-hand Pallof grip. This is a changed apparatus/grip and substituted movement.",
+        "No complete joined-grip return before the separation was established, so no correct contiguous derivative is proposed. Torso and feet otherwise remain stable, with attached abdominal-orange and clean anatomy."
+      ],
+      "limitations": [
+        "Both populated 3fps sheets and listed full-resolution exact-delivery phase frames inspected. Additional whole 6fps sampling for goblet and double kettlebell; second-half 6fps sampling for Pallof. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_46ce6b703c6f4fcc/review-3fps-01.jpg",
+        "reports/form-media/attempt_46ce6b703c6f4fcc/review-3fps-02.jpg",
+        "reports/form-media/attempt_46ce6b703c6f4fcc/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_46ce6b703c6f4fcc/independent-frame-0.png",
+        "reports/form-media/attempt_46ce6b703c6f4fcc/independent-frame-2.333333.png",
+        "reports/form-media/attempt_46ce6b703c6f4fcc/independent-frame-3.166667.png",
+        "reports/form-media/attempt_46ce6b703c6f4fcc/independent-frame-3.333333.png",
+        "reports/form-media/attempt_46ce6b703c6f4fcc/independent-frame-3.5.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_goblet_squat_b5c618ef-video-7d8306a4",
+      "attemptId": "attempt_7d8306a45dee457a",
+      "exerciseId": "open_goblet_squat_b5c618ef",
+      "shot": "r13-open_goblet_squat_b5c618ef-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_goblet_squat_b5c618ef-video-7d8306a4.mp4",
+      "outputSha256": "79158e5d4347bc95b5973a8a4d364b5f629ba10b3d6c1485c8e61add9485a466",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:20:11.933440+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first cycle lowers into a controlled comfortable squat and returns fully upright by approximately 3.333 seconds. Both whole feet remain planted, the bell is held by both horns close to the chest, and no internal return bounce was found in the whole 6fps sampled timeline.",
+        "Full-resolution 3.75 and 4.0 second frames show a complete stable upright return with both hands and bell intact.",
+        "After about 4.333 seconds the hands lower and the kettlebell disappears, invalidating the raw six-second delivery. A contiguous original-speed 0\u20134.0 second first-cycle derivative with disclosed 0.50-second endpoint holds is proposed for actual derived-output review; no candidate verdict is claimed yet."
+      ],
+      "limitations": [
+        "Both populated 3fps sheets and listed full-resolution exact-delivery phase frames inspected. Additional whole 6fps sampling for goblet and double kettlebell; second-half 6fps sampling for Pallof. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_7d8306a45dee457a/review-3fps-01.jpg",
+        "reports/form-media/attempt_7d8306a45dee457a/review-3fps-02.jpg",
+        "reports/form-media/attempt_7d8306a45dee457a/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_7d8306a45dee457a/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_7d8306a45dee457a/independent-frame-0.png",
+        "reports/form-media/attempt_7d8306a45dee457a/independent-frame-2.333333.png",
+        "reports/form-media/attempt_7d8306a45dee457a/independent-frame-3.333333.png",
+        "reports/form-media/attempt_7d8306a45dee457a/independent-frame-3.75.png",
+        "reports/form-media/attempt_7d8306a45dee457a/independent-frame-4.0.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_two_arm_kettlebell_mi_01904129-video-42481dd6",
+      "attemptId": "attempt_42481dd601144187",
+      "exerciseId": "open_two_arm_kettlebell_mi_01904129",
+      "shot": "r13-open_two_arm_kettlebell_mi_01904129-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_two_arm_kettlebell_mi_01904129-video-42481dd6.mp4",
+      "outputSha256": "3cb420e6486292cf038904ff4575587841403596f0d36e3ff2495ea88f281f9a",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:23:27.101664+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Additional actual derived full-resolution peak review exposes a defect in the required first overhead phase: both hands visibly open with fingers extended while the handles rest across palm/wrist bases, rather than remaining in closed finger/thumb grips. Root independently confirms this exact hand reading.",
+        "The first cycle otherwise reaches overhead and returns to the rack, then performs a second press; however the grip defect is inside the required first cycle, so no correct contiguous derivative can remove it.",
+        "The earlier raw note about connected grips was too broad; this newer actual review supersedes that assessment. The closed prepared rack source remains valid and a targeted video correction is required."
+      ],
+      "limitations": [
+        "Both populated 3fps sheets and listed full-resolution exact-delivery phase frames inspected. Additional whole 6fps sampling for goblet and double kettlebell; second-half 6fps sampling for Pallof. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_42481dd601144187/review-3fps-01.jpg",
+        "reports/form-media/attempt_42481dd601144187/review-3fps-02.jpg",
+        "reports/form-media/attempt_42481dd601144187/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_42481dd601144187/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_42481dd601144187/independent-frame-0.png",
+        "reports/form-media/attempt_42481dd601144187/independent-frame-2.333333.png",
+        "reports/form-media/attempt_42481dd601144187/independent-frame-3.333333.png",
+        "reports/form-media/attempt_42481dd601144187/independent-frame-3.416667.png",
+        "reports/form-media/attempt_42481dd601144187/independent-frame-3.5.png",
+        "reports/form-media/r13-open_two_arm_kettlebell_mi_01904129-video-42481dd6-first-cycle/independent-derived-frame-2.5.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_romanian_deadlift-video-50aa1b85",
+      "attemptId": "attempt_50aa1b85abf642fe",
+      "exerciseId": "cat_band_romanian_deadlift",
+      "shot": "r13-cat_band_romanian_deadlift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_romanian_deadlift-video-50aa1b85.mp4",
+      "outputSha256": "66fa358b81271f0fb1221d5cc5a0cade3a55d9fec953027e27436cbc25eda4d2",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:21:26.925902+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The changed long-arm brief fixes the original added row: one controlled hip hinge and full stand are completed by approximately 3.333 seconds with both elbows long, planted feet on the same band and attached hamstring-orange. Whole 6fps sampling shows no internal return bounce.",
+        "Full-resolution 3.333 and 3.5 second frames show the complete upright return with source orientation and closed grips intact.",
+        "After the valid first cycle, the character/visible torso rotates from the original three-quarter orientation to a rear view rather than holding the fixed source orientation. The raw delivery therefore fails the stable finish contract. An original-speed contiguous 0\u20133.5 second derivative with disclosed 0.50-second endpoint holds is proposed; actual derived delivery review remains required."
+      ],
+      "limitations": [
+        "Both populated 3fps sheets, whole-timeline 6fps sheets and listed full-resolution exact-delivery frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_50aa1b85abf642fe/review-3fps-01.jpg",
+        "reports/form-media/attempt_50aa1b85abf642fe/review-3fps-02.jpg",
+        "reports/form-media/attempt_50aa1b85abf642fe/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_50aa1b85abf642fe/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_50aa1b85abf642fe/independent-frame-0.png",
+        "reports/form-media/attempt_50aa1b85abf642fe/independent-frame-1.666667.png",
+        "reports/form-media/attempt_50aa1b85abf642fe/independent-frame-3.333333.png",
+        "reports/form-media/attempt_50aa1b85abf642fe/independent-frame-3.5.png",
+        "reports/form-media/attempt_50aa1b85abf642fe/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_goblet_squat_b5c618ef-video-7d8306a4-first-cycle",
+      "attemptId": "attempt_7d8306a45dee457a",
+      "exerciseId": "open_goblet_squat_b5c618ef",
+      "shot": "r13-open_goblet_squat_b5c618ef-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_goblet_squat_b5c618ef-video-7d8306a4-first-cycle.mp4",
+      "outputSha256": "47324121968b43bf16fdb70b5b0b6e2a775173bebb829408030f5783532cc671",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:23:27.101664+00:00",
+      "reviewKind": "exact-derived-delivery-video-6fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact five-second delivery shows one complete comfortable-depth goblet squat and full upright return with both whole feet planted and both closed horn grips preserving the single bell close to the chest.",
+        "Whole 6fps sampling shows no second squat, return bounce, disappearing equipment or later hand release; the returned upright still finish is intact.",
+        "This is the original contiguous source0\u20134.0 seconds at playbackRate1 with0.50-second cloned still holds at each endpoint, as disclosed in the registered edit. Actual gray fibers, quadriceps-orange, opaque shorts and white full-body framing remain consistent."
+      ],
+      "limitations": [
+        "All populated whole-timeline6fps frames and listed full-resolution exact derived-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r13-open_goblet_squat_b5c618ef-video-7d8306a4-first-cycle/independent-derived-6fps-01.jpg",
+        "reports/form-media/r13-open_goblet_squat_b5c618ef-video-7d8306a4-first-cycle/independent-derived-6fps-02.jpg",
+        "reports/form-media/r13-open_goblet_squat_b5c618ef-video-7d8306a4-first-cycle/independent-derived-frame-2.833333.png",
+        "reports/form-media/r13-open_goblet_squat_b5c618ef-video-7d8306a4-first-cycle/independent-derived-frame-4.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_two_arm_kettlebell_mi_01904129-video-42481dd6-first-cycle",
+      "attemptId": "attempt_42481dd601144187",
+      "exerciseId": "open_two_arm_kettlebell_mi_01904129",
+      "shot": "r13-open_two_arm_kettlebell_mi_01904129-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_two_arm_kettlebell_mi_01904129-video-42481dd6-first-cycle.mp4",
+      "outputSha256": "e3b53c54dfba6c709e0b7351f84183ed78b4f13594efac386e0e2fbd33c4b541",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:23:27.101664+00:00",
+      "reviewKind": "exact-derived-delivery-video-6fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The derived delivery removes the later second press, but its required overhead phase still opens both hands. The exact full-resolution2.5-second frame shows visibly extended fingers/open palms with handles resting across palm/wrist bases instead of a closed finger/thumb hold.",
+        "The invalid grip occurs within the first required overhead endpoint, so another trim cannot salvage a correct full cycle. The valid closed-rack master should drive a targeted grip-persistence motion correction."
+      ],
+      "limitations": [
+        "All populated whole-timeline6fps frames and listed full-resolution exact derived-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r13-open_two_arm_kettlebell_mi_01904129-video-42481dd6-first-cycle/independent-derived-6fps-01.jpg",
+        "reports/form-media/r13-open_two_arm_kettlebell_mi_01904129-video-42481dd6-first-cycle/independent-derived-6fps-02.jpg",
+        "reports/form-media/r13-open_two_arm_kettlebell_mi_01904129-video-42481dd6-first-cycle/independent-derived-frame-2.5.png",
+        "reports/form-media/r13-open_two_arm_kettlebell_mi_01904129-video-42481dd6-first-cycle/independent-derived-frame-4.4.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle",
+      "attemptId": "attempt_50aa1b85abf642fe",
+      "exerciseId": "cat_band_romanian_deadlift",
+      "shot": "r13-cat_band_romanian_deadlift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle.mp4",
+      "outputSha256": "b96267d374d716ee460af6e7493e37f25513ddd434266d996f5c43ec63a3b6f0",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:23:27.101664+00:00",
+      "reviewKind": "exact-derived-delivery-video-6fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact4.50-second delivery shows one controlled hip hinge and full upright return with both elbows long and both closed hands holding the same continuous under-foot band. The whole feet remain planted and knees preserve a soft bend.",
+        "Whole 6fps sampling shows no added row/curl, internal return bounce, later torso turn or second hinge. Full-resolution peak and final return preserve the correct posterior hamstring-orange, gray fibers and opaque shorts.",
+        "This is the original contiguous source0\u20133.5 seconds at playbackRate1 with0.50-second cloned still holds at each endpoint. The later orientation change is excluded; the actual returned finish stays in the accepted three-quarter view."
+      ],
+      "limitations": [
+        "All populated whole-timeline6fps frames and listed full-resolution exact derived-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle/independent-derived-6fps-01.jpg",
+        "reports/form-media/r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle/independent-derived-6fps-02.jpg",
+        "reports/form-media/r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle/independent-derived-frame-2.166667.png",
+        "reports/form-media/r13-cat_band_romanian_deadlift-video-50aa1b85-first-cycle/independent-derived-frame-4.4.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_two_arm_kettlebell_mi_01904129-video-dd4f58fa",
+      "attemptId": "attempt_dd4f58fab8f74864",
+      "exerciseId": "open_two_arm_kettlebell_mi_01904129",
+      "shot": "r13-open_two_arm_kettlebell_mi_01904129-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_two_arm_kettlebell_mi_01904129-video-dd4f58fa.mp4",
+      "outputSha256": "aee5b9f735e15445044cd10bcb804535502b2c3be425116fa3096bb14018df83",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:32:49.835730+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The closed-grip correction succeeds: full-resolution overhead2.333 seconds shows four fingers curled visibly over each handle with opposed thumbs, rather than the open palms in the earlier output. Hands and bells stay connected through ascent, peak, descent and final prepared rack.",
+        "The whole3fps and6fps timelines show one simultaneous overhead press, a controlled full lowering and restoration of the original palm-in shoulder racks, then a still finish. Small normal forearm rotation restores the rack; no second press or internal return bounce is present.",
+        "Feet and knees remain planted without leg drive, torso upright, two bells intact, deltoid-orange attached to visible fiber surfaces and full locked portrait framing on empty white."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_dd4f58fab8f74864/review-3fps-01.jpg",
+        "reports/form-media/attempt_dd4f58fab8f74864/review-3fps-02.jpg",
+        "reports/form-media/attempt_dd4f58fab8f74864/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_dd4f58fab8f74864/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_dd4f58fab8f74864/independent-frame-2.333333.png",
+        "reports/form-media/attempt_dd4f58fab8f74864/independent-frame-3.666667.png",
+        "reports/form-media/attempt_dd4f58fab8f74864/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_pallof_press-video-8becf944",
+      "attemptId": "attempt_8becf944d9a948a7",
+      "exerciseId": "cat_band_pallof_press",
+      "shot": "r13-cat_band_pallof_press-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_pallof_press-video-8becf944.mp4",
+      "outputSha256": "bc7672ce06e93d124be7e9aca20dc32f72861e432f1ab365bb086f04464d4ad4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:32:49.835730+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The source starts with hands together and eventually returns to joined extended hands, but at the required retracted sternum endpoint both fists separate widely onto independent grips. Full-resolution2.0 seconds shows the two fists apart across the torso;3.333 seconds still has a separated grip.",
+        "Thus a matching joined final endpoint does not establish a valid common-grip Pallof cycle. The separated grips are inside the required retraction/press sequence, so no contiguous complete-cycle derivative removes this defect.",
+        "After two actual videos ignore common-grip motion language, refine the starting reference to a catalog chest-held grip with both hands visibly stacked on ONE central handle before another paid trial. Preserve original positive-source review; the refinement is justified by exact motion failure rather than retroactively failing the source."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8becf944d9a948a7/review-3fps-01.jpg",
+        "reports/form-media/attempt_8becf944d9a948a7/review-3fps-02.jpg",
+        "reports/form-media/attempt_8becf944d9a948a7/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_8becf944d9a948a7/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_8becf944d9a948a7/independent-frame-2.png",
+        "reports/form-media/attempt_8becf944d9a948a7/independent-frame-3.333333.png",
+        "reports/form-media/attempt_8becf944d9a948a7/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_wall_pushup-video-269f8eaf",
+      "attemptId": "attempt_269f8eafb6684d9b",
+      "exerciseId": "cat_cal_wall_pushup",
+      "shot": "r13-cat_cal_wall_pushup-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cal_wall_pushup-video-269f8eaf.mp4",
+      "outputSha256": "f0f9a84f2776f555e6253717870ceeeb0361a3d2390517a9eaee2ccaa6e65472",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:47:57.261306+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Both whole3fps and6fps timelines show one controlled elbow bend bringing the chest toward the wall, then complete elbow extension and a quiet returned finish; no second repetition or internal return bounce is visible.",
+        "Full-resolution0,1.666667,2.166667 and5.9 seconds show both palms attached to the same wall, both whole feet and heels grounded in their source places, and a long head-trunk-hip-knee line. Pectoral-orange remains attached while all other exposed fibers stay gray; framing and the functional wall remain stable."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus the listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_269f8eafb6684d9b/review-3fps-01.jpg",
+        "reports/form-media/attempt_269f8eafb6684d9b/review-3fps-02.jpg",
+        "reports/form-media/attempt_269f8eafb6684d9b/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_269f8eafb6684d9b/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_269f8eafb6684d9b/independent-frame-0.png",
+        "reports/form-media/attempt_269f8eafb6684d9b/independent-frame-1.666667.png",
+        "reports/form-media/attempt_269f8eafb6684d9b/independent-frame-2.16667.png",
+        "reports/form-media/attempt_269f8eafb6684d9b/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_kneeling_pushup-video-38769d88",
+      "attemptId": "attempt_38769d8812814725",
+      "exerciseId": "cat_cal_kneeling_pushup",
+      "shot": "r13-cat_cal_kneeling_pushup-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cal_kneeling_pushup-video-38769d88.mp4",
+      "outputSha256": "cfde97540cdd176ec47916b1b77beaab219935b4feac310015c58d2d7bb81dc1",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:47:57.262239+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The raw6-second delivery performs two repetitions: a correct first chest lower/press return completes by2.833333\u20133.0 seconds, then another lowering begins around3.166667 seconds. Thus the raw clip fails the requested one-repetition rhythm.",
+        "The first cycle remains supported by both palms and knees with a coherent long head-to-knees body line; full-resolution1.666667 and2.833333/3.0 seconds confirm the first lower and complete straight-arm return. A contiguous original-speed0\u20133.0-second derivative with disclosed0.50-second endpoint holds is proposed; no paid retry is requested until the actual derivative is reviewed."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus the listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_38769d8812814725/review-3fps-01.jpg",
+        "reports/form-media/attempt_38769d8812814725/review-3fps-02.jpg",
+        "reports/form-media/attempt_38769d8812814725/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_38769d8812814725/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_38769d8812814725/independent-frame-1.666667.png",
+        "reports/form-media/attempt_38769d8812814725/independent-frame-2.833333.png",
+        "reports/form-media/attempt_38769d8812814725/independent-frame-3.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_bodyweight_squat-video-80eb5750",
+      "attemptId": "attempt_80eb575025cf468f",
+      "exerciseId": "cat_cal_bodyweight_squat",
+      "shot": "r13-cat_cal_bodyweight_squat-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cal_bodyweight_squat-video-80eb5750.mp4",
+      "outputSha256": "ce6d40e2a808bd96886f2d7d94e22fe309703d26b688f1015d05ffc42c021032",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:47:57.263384+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Both whole3fps and6fps timelines show exactly one controlled hip-and-knee squat followed by a full tall return and still finish. The shown comfortable partial depth is permitted by the catalog; deeper or parallel depth is not required.",
+        "Full-resolution1.666667 and5.9 seconds confirm grounded whole feet, knees tracking the foot directions, attached anterior-quadriceps orange, opaque charcoal shorts and readable neutral fibers. There is no extra descent inside the return or later repeated cycle."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus the listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_80eb575025cf468f/review-3fps-01.jpg",
+        "reports/form-media/attempt_80eb575025cf468f/review-3fps-02.jpg",
+        "reports/form-media/attempt_80eb575025cf468f/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_80eb575025cf468f/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_80eb575025cf468f/independent-frame-1.666667.png",
+        "reports/form-media/attempt_80eb575025cf468f/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_chair_squat-video-efbddc88",
+      "attemptId": "attempt_efbddc88fdc6420a",
+      "exerciseId": "cat_cal_chair_squat",
+      "shot": "r13-cat_cal_chair_squat-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cal_chair_squat-video-efbddc88.mp4",
+      "outputSha256": "02e9ff6382814fd4c2988d0df1c026de4475c555c000a361f2e019993345aaef",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:47:57.264105+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Whole3fps and6fps sequences show one seated-to-standing-to-seated cycle: a hip lean initiates the rise, a full tall stand is reached, then hips move back and lower onto the same chair. Hands provide the permitted light thigh assistance during the transition.",
+        "Full-resolution2.333333,4.666667 and5.9 seconds confirm whole feet grounded, stable non-rolling four-leg chair geometry, actual restored pelvis-seat contact and still finish. The attached quadriceps-orange and anatomical fiber style stay coherent; no second stand follows."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus the listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_efbddc88fdc6420a/review-3fps-01.jpg",
+        "reports/form-media/attempt_efbddc88fdc6420a/review-3fps-02.jpg",
+        "reports/form-media/attempt_efbddc88fdc6420a/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_efbddc88fdc6420a/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_efbddc88fdc6420a/independent-frame-2.333333.png",
+        "reports/form-media/attempt_efbddc88fdc6420a/independent-frame-4.666667.png",
+        "reports/form-media/attempt_efbddc88fdc6420a/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-ex_crunch-video-aad9323e",
+      "attemptId": "attempt_aad9323e42694a57",
+      "exerciseId": "ex_crunch",
+      "shot": "r13-ex_crunch-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_crunch-video-aad9323e.mp4",
+      "outputSha256": "1dc8683bc6e6fd4f6dd55ce0c9856348ec326abf0202fefe7d8f6b4c1d178f2f",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:47:57.264878+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Both whole3fps and6fps sheets show one rib-to-pelvis curl lifting the shoulder blades, then one controlled full supported lower and still finish. The internal return contains no added curl, rocking or sit-up substitution.",
+        "Full-resolution1.666667,3.833333 and5.9 seconds show pelvis/lower back supported, bent knees and whole planted feet stable, hands lightly beside/behind the head with no visible head-pulling motion, and a coherent neutral neck. Attached abdominal orange, gray fibers and opaque shorts remain stable."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus the listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_aad9323e42694a57/review-3fps-01.jpg",
+        "reports/form-media/attempt_aad9323e42694a57/review-3fps-02.jpg",
+        "reports/form-media/attempt_aad9323e42694a57/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_aad9323e42694a57/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_aad9323e42694a57/independent-frame-1.666667.png",
+        "reports/form-media/attempt_aad9323e42694a57/independent-frame-3.833333.png",
+        "reports/form-media/attempt_aad9323e42694a57/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_curl-video-ac1eb92c",
+      "attemptId": "attempt_ac1eb92ca8c54d99",
+      "exerciseId": "cat_band_curl",
+      "shot": "r13-cat_band_curl-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_curl-video-ac1eb92c.mp4",
+      "outputSha256": "d6ffa2cb318dbd4cbe132ae48259be6887979ba5ef5a82eae0a761215ff18077",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:52:46.434003+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Both whole3fps and6fps sequences show one elbow curl from long palms-forward arms, followed by one full controlled lower and quiet finish. Upper arms stay beside the torso without a swing, and feet/underfoot band anchor remain planted.",
+        "Full-resolution2.0 and5.9 seconds confirm closed finger/thumb grips through the required flexed endpoint and returned long-arm endpoint, continuous gray band geometry, attached biceps-orange, readable neutral fibers and opaque charcoal shorts. No second curl or internal return bounce is visible."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus the listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ac1eb92ca8c54d99/review-3fps-01.jpg",
+        "reports/form-media/attempt_ac1eb92ca8c54d99/review-3fps-02.jpg",
+        "reports/form-media/attempt_ac1eb92ca8c54d99/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_ac1eb92ca8c54d99/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_ac1eb92ca8c54d99/independent-frame-2.png",
+        "reports/form-media/attempt_ac1eb92ca8c54d99/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_ohead_press-video-5d1835d2",
+      "attemptId": "attempt_5d1835d2aa164891",
+      "exerciseId": "cat_band_ohead_press",
+      "shot": "r13-cat_band_ohead_press-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_ohead_press-video-5d1835d2.mp4",
+      "outputSha256": "d611fd5ef4aa7251f552db4860d0c1a52b632385c168f094880166541de5ccaf",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:52:46.435198+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The complete3fps and6fps timelines contain two overhead presses. The first lower at1.666667 seconds stops in a much higher rack, with hands near the top of the head and upper arms horizontal, then immediately reverses into another press before restoring the actual original lower shoulder rack.",
+        "Full-resolution0,1.0,1.666667 and5.9 seconds confirm that the original rack is restored only after the second press. A first-cycle trim would omit its original return; no derivative is proposed. Closed grips, planted feet and the underlying source rig are valid, so use one slower press and a continuous original-rack return rather than a source reset."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus the listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_5d1835d2aa164891/review-3fps-01.jpg",
+        "reports/form-media/attempt_5d1835d2aa164891/review-3fps-02.jpg",
+        "reports/form-media/attempt_5d1835d2aa164891/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_5d1835d2aa164891/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_5d1835d2aa164891/independent-frame-0.png",
+        "reports/form-media/attempt_5d1835d2aa164891/independent-frame-1.png",
+        "reports/form-media/attempt_5d1835d2aa164891/independent-frame-1.66667.png",
+        "reports/form-media/attempt_5d1835d2aa164891/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_pull_apart-video-d68175fb",
+      "attemptId": "attempt_d68175fbfe6f4353",
+      "exerciseId": "cat_band_pull_apart",
+      "shot": "r13-cat_band_pull_apart-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_pull_apart-video-d68175fb.mp4",
+      "outputSha256": "cb383a2e31f18382ac43a0535a9856e30951b78619d3c05d941966af2d713f54",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:52:46.435972+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The required pull-apart working arc instead bends both elbows toward the chest before opening. Full-resolution1.666667 and2.333333 seconds show the near hand completely open, with the band spanning the wrist/palm rather than a persistent closed grip. The required working phase is therefore invalid even though the original pose is later restored.",
+        "Both whole3fps and6fps timelines and full-resolution source0 confirm that the actual initial long arms/closed grips and gray loop band are valid. Preserve that source and replace the motion with long-elbow shoulder opening, persistent fist grips and a slow complete return. No contiguous trim can remove defects inside the required opening."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus the listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_d68175fbfe6f4353/review-3fps-01.jpg",
+        "reports/form-media/attempt_d68175fbfe6f4353/review-3fps-02.jpg",
+        "reports/form-media/attempt_d68175fbfe6f4353/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_d68175fbfe6f4353/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_d68175fbfe6f4353/independent-frame-0.png",
+        "reports/form-media/attempt_d68175fbfe6f4353/independent-frame-1.66667.png",
+        "reports/form-media/attempt_d68175fbfe6f4353/independent-frame-2.33333.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_triceps-video-aefdbb47",
+      "attemptId": "attempt_aefdbb47f64d4666",
+      "exerciseId": "cat_band_triceps",
+      "shot": "r13-cat_band_triceps-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_triceps-video-aefdbb47.mp4",
+      "outputSha256": "b2e5c53ce47c03488caeb6340dce13877db8fe20a25d807c9d68580f11e75042",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:52:46.436715+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "A full extension is followed by elbow flexion past the original waist-level bent start into a higher chest/upper-abdomen position by3.333\u20133.5 seconds. It then performs another partial extension before finally matching the source at5.9 seconds. Thus matching start/final poses hides an internal extra excursion.",
+        "Whole3fps and6fps sheets plus full-resolution0,1.666667,2.5,3.0,3.333333,3.5,3.666667 and5.9 show no settled exact original return before the overshoot; a deeper-return endpoint or a moving crossing is not accepted as a correct isolated cycle. Grips, high anchor and source geometry remain valid, so correct the motion without a source reset."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus the listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance and trainer/clinical certification are not implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_aefdbb47f64d4666/review-3fps-01.jpg",
+        "reports/form-media/attempt_aefdbb47f64d4666/review-3fps-02.jpg",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-frame-0.png",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-frame-1.66667.png",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-frame-2.5.png",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-frame-3.png",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-frame-3.33333.png",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-frame-3.5.png",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-frame-3.66667.png",
+        "reports/form-media/attempt_aefdbb47f64d4666/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle",
+      "attemptId": "attempt_38769d8812814725",
+      "exerciseId": "cat_cal_kneeling_pushup",
+      "shot": "r13-cat_cal_kneeling_pushup-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle.mp4",
+      "outputSha256": "56e2f485cdba3e4d7fa016fd849fe33e9e27b0ee5443f2d099965927f5016910",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T23:52:46.437294+00:00",
+      "reviewKind": "exact-derived-delivery-video-6fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The actual4.0-second derivative contains original source seconds0\u20133.0 at unchanged speed plus disclosed0.50-second cloned holds at both endpoints; it does not reverse or invent motion. The raw two-repetition output remains negative.",
+        "The whole6fps actual derivative sheet shows one supported chest lower, one complete press to the original straight-arm return, and still finish with no second descent or internal return bounce. Full-resolution0,2.166667,3.333333 and3.9 seconds confirm both palms and knees stay in contact, a coherent long head-to-knees line, attached pectoral-orange, gray anatomy, opaque charcoal shorts and full-body white-scene framing."
+      ],
+      "limitations": [
+        "Whole6fps timeline and the listed full-resolution frames of the exact derived delivery inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance is pending. The0.50-second endpoint holds are cloned still frames."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle/independent-whole-6fps.jpg",
+        "reports/form-media/r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle/independent-frame-0.png",
+        "reports/form-media/r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle/independent-frame-2.16667.png",
+        "reports/form-media/r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle/independent-frame-3.33333.png",
+        "reports/form-media/r13-cat_cal_kneeling_pushup-video-38769d88-first-cycle/independent-frame-3.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_ohead_press-video-3537bb26",
+      "attemptId": "attempt_3537bb26a93241d0",
+      "exerciseId": "cat_band_ohead_press",
+      "shot": "r13-cat_band_ohead_press-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_ohead_press-video-3537bb26.mp4",
+      "outputSha256": "2c157b38044d557beffe6f22f1f501fcb63f704cfe24bc3b84ed91384b874542",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:03:27.548478+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The changed slower brief produces one overhead press and one continuous complete return to the actual original lower shoulder rack. Both whole3fps and6fps sheets show no intermediate rack reversal, second lift or internal return bounce; the final rack remains still.",
+        "Full-resolution0,2.666667 and5.9 seconds verify closed fingers and opposed thumbs around the actual band ends at the required overhead peak and both rack endpoints, grounded feet/continuous underfoot band, upright torso without lean and stable attached deltoid-orange/gray fibers/opaque shorts."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3537bb26a93241d0/review-3fps-01.jpg",
+        "reports/form-media/attempt_3537bb26a93241d0/review-3fps-02.jpg",
+        "reports/form-media/attempt_3537bb26a93241d0/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_3537bb26a93241d0/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_3537bb26a93241d0/independent-frame-0.png",
+        "reports/form-media/attempt_3537bb26a93241d0/independent-frame-2.66667.png",
+        "reports/form-media/attempt_3537bb26a93241d0/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_pull_apart-video-fda4c403",
+      "attemptId": "attempt_fda4c403f9154049",
+      "exerciseId": "cat_band_pull_apart",
+      "shot": "r13-cat_band_pull_apart-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_pull_apart-video-fda4c403.mp4",
+      "outputSha256": "9513a781207723f4d2e153168cfb6de1ea25f6e6ac1ead91883f6492808e95a1",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:03:27.549318+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Trial2 improves the former open-hand defect, but the FAR arm still folds its elbow during the required spread. Full-resolution2.0 seconds shows a visibly bent far elbow and forearm next to the far shoulder while the near arm stays long; this is not only apparent shortening of a straight limb by perspective.",
+        "Whole3fps and6fps timelines confirm this joint-angle change lies inside the required opening before the full source return, so a derivative cannot exclude it. After two motions substitute elbow action, a clearer elevated camera showing both complete arm chains is proposed before another paid trial. The original source-positive record remains honest; no third same-source paid correction is published."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_fda4c403f9154049/review-3fps-01.jpg",
+        "reports/form-media/attempt_fda4c403f9154049/review-3fps-02.jpg",
+        "reports/form-media/attempt_fda4c403f9154049/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_fda4c403f9154049/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_fda4c403f9154049/independent-frame-2.png",
+        "reports/form-media/attempt_fda4c403f9154049/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_triceps-video-88a5095f",
+      "attemptId": "attempt_88a5095f1d33496f",
+      "exerciseId": "cat_band_triceps",
+      "shot": "r13-cat_band_triceps-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_triceps-video-88a5095f.mp4",
+      "outputSha256": "a209fc2c2d0ea4b9dcba804e078bc88a1477985c69eb9e207f88d0393061d014",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:03:27.550098+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Trial2 still bends beyond the original source elbow angle during the return, then partially extends again to the matched final start. Full-resolution3.333333 seconds shows horizontal forearms/hands at the upper abdomen, whereas actual source0 and final5.9 have downward-sloping forearms/hands at waist level.",
+        "Both whole3fps and6fps sheets expose this internal extra excursion despite matching endpoints. No settled exact source-angle return can be isolated before that overshoot, so no derivative is proposed. After two attempts ignore the shallow original return, a targeted free source refinement to a canonical90-degree bent-elbow start is proposed before paid trial3; source-positive provenance remains intact."
+      ],
+      "limitations": [
+        "Both populated whole3fps and6fps sheets plus listed full-resolution exact-delivery phase frames inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_88a5095f1d33496f/review-3fps-01.jpg",
+        "reports/form-media/attempt_88a5095f1d33496f/review-3fps-02.jpg",
+        "reports/form-media/attempt_88a5095f1d33496f/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_88a5095f1d33496f/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_88a5095f1d33496f/independent-frame-0.png",
+        "reports/form-media/attempt_88a5095f1d33496f/independent-frame-1.66667.png",
+        "reports/form-media/attempt_88a5095f1d33496f/independent-frame-3.33333.png",
+        "reports/form-media/attempt_88a5095f1d33496f/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_double_leg_kick-video-41d7e107",
+      "attemptId": "attempt_41d7e107741e4eb3",
+      "exerciseId": "cat_pil_double_leg_kick",
+      "shot": "r13-cat_pil_double_leg_kick-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_pil_double_leg_kick-video-41d7e107.mp4",
+      "outputSha256": "e6dfed05da329c18607474cea92d89be514d9fd78f33f0e68f37af2757369fad",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:11:33.755067+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One bilateral knee bend brings both heels toward the hips, then both knees slowly extend completely to the actual initial long-leg/floor-foot pose. Whole 3fps and 6fps sequences show one cycle and a still returned finish without another kick or pulse.",
+        "Full-resolution source, bent-knee phase and final frame preserve grounded thighs/pelvis, supported resting head and chest, attached hamstring-orange with neutral other fibers, opaque charcoal shorts and complete framing."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps contact sheets plus the listed full-resolution exact-delivery phase frames were inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_41d7e107741e4eb3/review-3fps-01.jpg",
+        "reports/form-media/attempt_41d7e107741e4eb3/review-3fps-02.jpg",
+        "reports/form-media/attempt_41d7e107741e4eb3/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_41d7e107741e4eb3/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_41d7e107741e4eb3/independent-frame-0.png",
+        "reports/form-media/attempt_41d7e107741e4eb3/independent-frame-2.0.png",
+        "reports/form-media/attempt_41d7e107741e4eb3/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_side_walk-video-48e32ad9",
+      "attemptId": "attempt_48e32ad9b8b4419a",
+      "exerciseId": "cat_band_side_walk",
+      "shot": "r13-cat_band_side_walk-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_side_walk-video-48e32ad9.mp4",
+      "outputSha256": "cef13a047661a62f124aaed80ffaf01cfa112be6b3c422318b1accd3dbcc568e",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:11:33.756185+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The near image-left foot repeatedly moves inward toward the fixed far foot and outward to the initial stance. Full-resolution 0 and 3.666667 seconds show the same wide stance; 2.333333 shows the near foot brought inward. The far image-right foot stays in place, so there is no actual leading-and-following translated step pair.",
+        "The whole 3fps and 6fps sequences repeat this single-leg inward/outward motion. A contiguous trim cannot supply the missing far-foot leading step and following-foot translation."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps contact sheets plus the listed full-resolution exact-delivery phase frames were inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_48e32ad9b8b4419a/review-3fps-01.jpg",
+        "reports/form-media/attempt_48e32ad9b8b4419a/review-3fps-02.jpg",
+        "reports/form-media/attempt_48e32ad9b8b4419a/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_48e32ad9b8b4419a/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_48e32ad9b8b4419a/independent-whole-6fps-03.jpg",
+        "reports/form-media/attempt_48e32ad9b8b4419a/independent-frame-0.png",
+        "reports/form-media/attempt_48e32ad9b8b4419a/independent-frame-2.333333.png",
+        "reports/form-media/attempt_48e32ad9b8b4419a/independent-frame-3.666667.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_side_kick-video-5d6339b4",
+      "attemptId": "attempt_5d6339b4b96c41ea",
+      "exerciseId": "cat_pil_side_kick",
+      "shot": "r13-cat_pil_side_kick-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_pil_side_kick-video-5d6339b4.mp4",
+      "outputSha256": "bfa356aebf71652989f58c2da095d9775af0f21e0eaf95c0897812765ff783c6",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:11:33.757034+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The top long leg performs three conspicuous upward/outward lifts and lowerings. Whole 3fps and 6fps sequences and the full-resolution 1.0-second peak show hip abduction, while the foot remains in the same general lengthwise projection instead of travelling forward and backward relative to the trunk.",
+        "This does not depict the catalog forward-and-back side-kick cycle. Neither a trim nor a matched endpoint can create the absent movement plane."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps contact sheets plus the listed full-resolution exact-delivery phase frames were inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_5d6339b4b96c41ea/review-3fps-01.jpg",
+        "reports/form-media/attempt_5d6339b4b96c41ea/review-3fps-02.jpg",
+        "reports/form-media/attempt_5d6339b4b96c41ea/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_5d6339b4b96c41ea/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_5d6339b4b96c41ea/independent-whole-6fps-03.jpg",
+        "reports/form-media/attempt_5d6339b4b96c41ea/independent-frame-1.0.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_side_leg_circle-video-36077c3c",
+      "attemptId": "attempt_36077c3cd19d4896",
+      "exerciseId": "cat_pil_side_leg_circle",
+      "shot": "r13-cat_pil_side_leg_circle-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_pil_side_leg_circle-video-36077c3c.mp4",
+      "outputSha256": "89fb684630b742fc989551bf8f0beacdcf4de98d600f72406754074487b68aa4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:11:33.758013+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The top leg makes two obvious elevated up/down excursions before returning. Whole 3fps and 6fps sequences show repeated vertical hip abductions; the full-resolution 1.0-second frame confirms a large upward/outward leg position rather than the requested small circle.",
+        "No clear forward/backward closed circular foot path is shown. The full sequence therefore fails both catalog movement and one-circle counting; trimming a vertical lift cannot create a circle."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps contact sheets plus the listed full-resolution exact-delivery phase frames were inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_36077c3cd19d4896/review-3fps-01.jpg",
+        "reports/form-media/attempt_36077c3cd19d4896/review-3fps-02.jpg",
+        "reports/form-media/attempt_36077c3cd19d4896/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_36077c3cd19d4896/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_36077c3cd19d4896/independent-frame-1.0.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_hip_flexion_with_band_e4aae89b-video-e341a75a",
+      "attemptId": "attempt_e341a75a28874336",
+      "exerciseId": "open_hip_flexion_with_band_e4aae89b",
+      "shot": "r13-open_hip_flexion_with_band_e4aae89b-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_hip_flexion_with_band_e4aae89b-video-e341a75a.mp4",
+      "outputSha256": "9314d5072bfdd2ae4b104f810948bd277f23f48adcf886daeec95d1396d0d9de",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:11:33.758781+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The cuffed near knee lifts forward once with the far whole foot planted and continuous band/cuff attached. It then lowers to the floor but continues sliding behind the initial stance, with a backward toe excursion through about 3.5\u20134.167 seconds before returning again.",
+        "Full-resolution 3.166667 and 3.333333 seconds show successive rearward foot locations; 3.5 seconds already shows heel lifting and farther rearward drift. Whole 6fps frames confirm there is no settled complete initial-floor return before this extra excursion. No derivative is proposed because cloning an in-motion touchdown would create an artificial stop."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps contact sheets plus the listed full-resolution exact-delivery phase frames were inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e341a75a28874336/review-3fps-01.jpg",
+        "reports/form-media/attempt_e341a75a28874336/review-3fps-02.jpg",
+        "reports/form-media/attempt_e341a75a28874336/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_e341a75a28874336/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_e341a75a28874336/independent-frame-0.png",
+        "reports/form-media/attempt_e341a75a28874336/independent-frame-2.0.png",
+        "reports/form-media/attempt_e341a75a28874336/independent-frame-3.166667.png",
+        "reports/form-media/attempt_e341a75a28874336/independent-frame-3.333333.png",
+        "reports/form-media/attempt_e341a75a28874336/independent-frame-3.5.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_oblique_crunches_c1078e1e-video-ccde1970",
+      "attemptId": "attempt_ccde19708c394c40",
+      "exerciseId": "open_oblique_crunches_c1078e1e",
+      "shot": "r13-open_oblique_crunches_c1078e1e-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_oblique_crunches_c1078e1e-video-ccde1970.mp4",
+      "outputSha256": "dbf2b17db8434dbdf6d4003bb0ea71ab95887a45f114e06c3095575192529f94",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:12:56.714761+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One near-shoulder diagonal curl toward the opposite knee and controlled complete floor-supported return are visible. Both populated whole 3fps and 6fps sheets show a single curl and an internally quiet returned finish without another twist or curl. Only this shown side is demonstrated; elbow-to-knee contact is not required by the catalog.",
+        "Full-resolution start, curled 1.666667-second phase, returned 3.666667 seconds and final 5.9 seconds preserve both lower legs on the same bench, grounded pelvis and lower back, relaxed supported head return, coherent bounded abdominal-orange/gray fibers and opaque shorts. Hands remain beside the head without an observed neck-pulling jerk."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps sheets plus listed full-resolution phases inspected. Sampling does not prove every in-between frame.",
+        "One side is shown; the catalog prescribes the selected repetitions per side.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ccde19708c394c40/review-3fps-01.jpg",
+        "reports/form-media/attempt_ccde19708c394c40/review-3fps-02.jpg",
+        "reports/form-media/attempt_ccde19708c394c40/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_ccde19708c394c40/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_ccde19708c394c40/independent-frame-0.png",
+        "reports/form-media/attempt_ccde19708c394c40/independent-frame-1.666667.png",
+        "reports/form-media/attempt_ccde19708c394c40/independent-frame-3.666667.png",
+        "reports/form-media/attempt_ccde19708c394c40/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_side_kick-video-86e8b497",
+      "attemptId": "attempt_86e8b4974404478c",
+      "exerciseId": "cat_pil_side_kick",
+      "shot": "r13-cat_pil_side_kick-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_pil_side_kick-video-86e8b497.mp4",
+      "outputSha256": "276092cda9e7a07abe6b2a6fe600ff7c90c3af0eb5ec332719ad8a74912186e4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:29:53.802730+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second output again shows repeated lowering/raising of the top leg in the vertical/outward plane, rather than one catalog forward-and-back sweep. Whole 3fps and 6fps sequences show two such oscillations; full-resolution 1.333333 and 2.666667 seconds show the lower and elevated positions without a clear forward/backward exchange.",
+        "The root-authorized free source refinement changes the camera to an elevated oblique view exposing the forward/backward floor plane before stable video trial 3. Original source-positive provenance remains intact, as do both exact video negatives; no further same-source paid motion brief is staged."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps sheets plus listed full-resolution exact-delivery phases inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_86e8b4974404478c/review-3fps-01.jpg",
+        "reports/form-media/attempt_86e8b4974404478c/review-3fps-02.jpg",
+        "reports/form-media/attempt_86e8b4974404478c/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_86e8b4974404478c/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_86e8b4974404478c/independent-whole-6fps-03.jpg",
+        "reports/form-media/attempt_86e8b4974404478c/independent-frame-1.333333.png",
+        "reports/form-media/attempt_86e8b4974404478c/independent-frame-2.666667.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_hip_flexion_with_band_e4aae89b-video-f1bf6de4",
+      "attemptId": "attempt_f1bf6de4f2b84f51",
+      "exerciseId": "open_hip_flexion_with_band_e4aae89b",
+      "shot": "r13-open_hip_flexion_with_band_e4aae89b-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_hip_flexion_with_band_e4aae89b-video-f1bf6de4.mp4",
+      "outputSha256": "7c04b0829a815bdc0aff2e61dc362f0d7135e39fba1f1009b521143a4b0ddb39",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:29:53.803710+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second output raises the cuffed near knee forward correctly but again continues the lowering motion past the initial floor position into a backward leg/toe excursion, then restores the stance. Full-resolution 3.333333 seconds shows the cuffed leg behind the body, with heel lifted and the band shortened toward its rear anchor.",
+        "Whole 3fps and 6fps frames show no settled complete initial-foot return before the extra backward movement. No derivative is proposed. A root-authorized free raised-knee endpoint source will make the actual one-foot support and lower/lift boundary explicit before stable trial 3; original source-positive provenance remains honest."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps sheets plus listed full-resolution exact-delivery phases inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f1bf6de4f2b84f51/review-3fps-01.jpg",
+        "reports/form-media/attempt_f1bf6de4f2b84f51/review-3fps-02.jpg",
+        "reports/form-media/attempt_f1bf6de4f2b84f51/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_f1bf6de4f2b84f51/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_f1bf6de4f2b84f51/independent-frame-3.333333.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_side_walk-video-3266ee5d",
+      "attemptId": "attempt_3266ee5de6cb46ca",
+      "exerciseId": "cat_band_side_walk",
+      "shot": "r13-cat_band_side_walk-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_side_walk-video-3266ee5d.mp4",
+      "outputSha256": "a0e2d585c1bc50c6ace7c15cf3b10985b6c8fc8f39afe12f7a5efed6ab0dd1f6",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:29:53.804454+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second output still moves only the near image-left foot inward and outward while the far image-right foot remains at its original floor contact. Whole 3fps and 6fps sequences show repeated stance-width changes and no actual leading-and-following translation. Full-resolution 2.666667 seconds shows the near foot moving outward, with the far foot fixed.",
+        "After the explicit paired-foot trial-2 brief failed, root authorized a free clearer-camera/narrower-shallow-stance source refinement before stable trial 3. Original source-positive and both video-negative records are retained. A trim cannot supply the absent second-foot step, so no derivative or same-source third paid brief is staged."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps sheets plus listed full-resolution exact-delivery phases inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3266ee5de6cb46ca/review-3fps-01.jpg",
+        "reports/form-media/attempt_3266ee5de6cb46ca/review-3fps-02.jpg",
+        "reports/form-media/attempt_3266ee5de6cb46ca/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_3266ee5de6cb46ca/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_3266ee5de6cb46ca/independent-whole-6fps-03.jpg",
+        "reports/form-media/attempt_3266ee5de6cb46ca/independent-frame-2.666667.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_side_leg_circle-video-86c52c6b",
+      "attemptId": "attempt_86c52c6b82c54662",
+      "exerciseId": "cat_pil_side_leg_circle",
+      "shot": "r13-cat_pil_side_leg_circle-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_pil_side_leg_circle-video-86c52c6b.mp4",
+      "outputSha256": "ec879c9808edf63f30af6dbc2804d2f84dcdc1408edd4b8d78ea584dbd8b80ad",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:29:53.805112+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The retry genuinely improves beyond repeated vertical raises: the top leg has forward foreshortening at full-resolution 1.333333 seconds and an elevated/backward phase at 2.333333 seconds, forming one small apparent oval. Pelvis, supporting hands, lower leg and static glute inset remain stable.",
+        "The foot reaches near-original hover around 3.333 seconds, then continues downward through the finish. Full-resolution 0 versus 5.9 seconds show a substantially reduced upper/lower-foot gap. Whole 3fps/6fps frames expose this continuing tail; the loop does not decelerate to a closed-loop stop at the initial hover. Root independently confirmed this boundary.",
+        "The raw remains negative for incomplete closure/stop, while its genuine oval evidence is preserved. Trimming the moving hover crossing would manufacture a stop, so no derivative is proposed. A distinct loop-closure/deceleration brief is finalized for stable trial 3 using the same usable source."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps sheets plus listed full-resolution exact-delivery phases inspected. Sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_86c52c6b82c54662/review-3fps-01.jpg",
+        "reports/form-media/attempt_86c52c6b82c54662/review-3fps-02.jpg",
+        "reports/form-media/attempt_86c52c6b82c54662/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_86c52c6b82c54662/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_86c52c6b82c54662/independent-frame-0.png",
+        "reports/form-media/attempt_86c52c6b82c54662/independent-frame-1.333333.png",
+        "reports/form-media/attempt_86c52c6b82c54662/independent-frame-2.333333.png",
+        "reports/form-media/attempt_86c52c6b82c54662/independent-frame-3.333333.png",
+        "reports/form-media/attempt_86c52c6b82c54662/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_pallof_press-video-cf9d6594",
+      "attemptId": "attempt_cf9d65943b934a69",
+      "exerciseId": "cat_band_pallof_press",
+      "shot": "r13-cat_band_pallof_press-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_pallof_press-video-cf9d6594.mp4",
+      "outputSha256": "e5e7a588f3353cb86ae3687e4862ce05bdd5f068760c1a8076452d91dfbc8983",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:36:18.470410+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Stable trial 3 from the actually reviewed chest-held joined-hand source shows one forward press and a continuous complete chest-held return, followed by a quiet still finish. Both populated whole 3fps and 6fps sequences show no second press, return bounce or torso/pelvis turn.",
+        "Full-resolution 0, 1.666667 and 2.333333-second loaded phases, 3.333333-second return and 5.9-second finish keep both hands physically overlapping around the same single central handle. The fingers remain gathered around the grip/covering hand rather than separating into two independent wide fists. The continuous gray loop edges, same chest-height lateral anchor, planted feet, bounded abdominal/oblique-orange, neutral fibers and opaque shorts remain coherent.",
+        "Only this side is shown; the catalog prescribes the same work facing the other direction. This corrected output resolves the observed joined-hand separation in both earlier exact negatives; those originals remain negative."
+      ],
+      "limitations": [
+        "Whole populated 3fps and 6fps sheets plus listed full-resolution phases inspected. Sampling does not prove every in-between frame.",
+        "The overlapping hand cluster partly occludes the inner gripping fingers; visible fingers and thumb/contact geometry remain consistent with the reviewed supplied grasp, with no observed release.",
+        "AI editorial screening only; human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_cf9d65943b934a69/review-3fps-01.jpg",
+        "reports/form-media/attempt_cf9d65943b934a69/review-3fps-02.jpg",
+        "reports/form-media/attempt_cf9d65943b934a69/independent-whole-6fps-01.jpg",
+        "reports/form-media/attempt_cf9d65943b934a69/independent-whole-6fps-02.jpg",
+        "reports/form-media/attempt_cf9d65943b934a69/independent-frame-0.png",
+        "reports/form-media/attempt_cf9d65943b934a69/independent-frame-1.666667.png",
+        "reports/form-media/attempt_cf9d65943b934a69/independent-frame-2.333333.png",
+        "reports/form-media/attempt_cf9d65943b934a69/independent-frame-3.333333.png",
+        "reports/form-media/attempt_cf9d65943b934a69/independent-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_band_hip_adductions_78d2d658-video-0e9f119f",
+      "attemptId": "attempt_0e9f119f01974e5d",
+      "exerciseId": "open_band_hip_adductions_78d2d658",
+      "shot": "r13-open_band_hip_adductions_78d2d658-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_band_hip_adductions_78d2d658-video-0e9f119f.mp4",
+      "outputSha256": "fde6ae47f9ddf6ed074ddc5b4b3ae707795c52b598acf2135face774e0b16315",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:45:09.592372+00:00",
+      "reviewKind": "exact-delivery-video-6fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The valid slightly-abducted cuffed-leg hover moves inward, returns outward around 3\u20133.5 seconds, then performs a second inward movement. It finishes upright with the cuffed foot down rather than returning to the original slightly-abducted hover. This is not one complete inward-crossing cycle and quiet original finish.",
+        "Full-resolution 2.333333-second working phase and 5.9-second finish expand orange from the valid source medial-adductor strip across the anterior quadriceps. This is a new wrong primary-anatomy cue. The low anchor/closed cuff, far support foot and upright pelvis remain usable, but no original-speed trim removes the required-phase cue drift."
+      ],
+      "limitations": [
+        "Every populated whole 6fps sample and listed full-resolution exact-delivery frames inspected; sampling does not prove every in-between frame. Human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_0e9f119f01974e5d/first-whole-6fps-01.jpg",
+        "reports/form-media/attempt_0e9f119f01974e5d/first-whole-6fps-02.jpg",
+        "reports/form-media/attempt_0e9f119f01974e5d/first-frame-0.png",
+        "reports/form-media/attempt_0e9f119f01974e5d/first-frame-2.333333.png",
+        "reports/form-media/attempt_0e9f119f01974e5d/first-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_side_leg_circle-video-8553aa0d",
+      "attemptId": "attempt_8553aa0d24f54a10",
+      "exerciseId": "cat_pil_side_leg_circle",
+      "shot": "r13-cat_pil_side_leg_circle-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_pil_side_leg_circle-video-8553aa0d.mp4",
+      "outputSha256": "c5c9858f129e0994dd4c04d6e4690f834fd499e9af5a2b2fcc1d71c301a99047",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T00:45:09.592772+00:00",
+      "reviewKind": "exact-delivery-video-6fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The third trial now reaches and holds approximately the actual original hover through the finish, correcting the previous downward continuation. However, large black curved-arrow overlays are invented across the required moving phase from approximately 1.5\u20133.8 seconds; full-resolution 2.333333 seconds confirms the graphic crosses the working leg/white field. It is not an acceptable clean anatomical video and cannot be removed by a valid complete-cycle trim.",
+        "The main physical foot path remains dominated by elevation and lowering, with weak fore/aft displacement evidence in this lateral view. Preserve the genuine oval evidence recorded in trial 2 and corrected closure in trial 3; an elevated oblique source camera is authorized before the final stable fourth video, exposing the actual fore/aft plane without arrow/line/trail cues."
+      ],
+      "limitations": [
+        "Every populated whole 6fps sample and listed full-resolution exact-delivery frames inspected; sampling does not prove every in-between frame. Human acceptance is pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8553aa0d24f54a10/first-whole-6fps-01.jpg",
+        "reports/form-media/attempt_8553aa0d24f54a10/first-whole-6fps-02.jpg",
+        "reports/form-media/attempt_8553aa0d24f54a10/first-frame-0.png",
+        "reports/form-media/attempt_8553aa0d24f54a10/first-frame-1.333333.png",
+        "reports/form-media/attempt_8553aa0d24f54a10/first-frame-2.333333.png",
+        "reports/form-media/attempt_8553aa0d24f54a10/first-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_knee_hip_raise_on_par_3b7a0c25-video-9e8f5e13",
+      "attemptId": "attempt_9e8f5e1369da4c96",
+      "exerciseId": "open_knee_hip_raise_on_par_3b7a0c25",
+      "shot": "r13-open_knee_hip_raise_on_par_3b7a0c25-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_knee_hip_raise_on_par_3b7a0c25-video-9e8f5e13.mp4",
+      "outputSha256": "487f1451ea2f5f1a405ed1e326eb4ccfd49774bedec11d9c775235f540725ee1",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T01:11:53.456459+00:00",
+      "reviewKind": "exact-delivery-video-6fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One supported both-leg raise travels toward horizontal with mostly long knees, brief working pause and one continuous controlled lowering to a quiet hanging finish. The whole populated 6fps timeline shows no second raise, bent-knee tuck substitution or return bounce.",
+        "Full-resolution start, working phase, lowering and finish preserve both forearm-pad and backrest support, closed handle contacts, quiet shoulders/trunk/pelvis, complete feet above the floor, coherent unchanged station and exact bounded rectus-femoris-orange plus genuine iliopsoas inset. The finish is a hanging position with minor foot-location drift, not a separate excursion or invented reversed sequence.",
+        "The catalog says raise straight legs toward horizontal; this demonstrates a comfortable partial approach rather than forcing a vertical/maximum endpoint. One complete raise/lower is shown."
+      ],
+      "limitations": [
+        "Every populated whole6fps sample and listed full-resolution exact-delivery frames inspected; sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_9e8f5e1369da4c96/first-whole-6fps-01.jpg",
+        "reports/form-media/attempt_9e8f5e1369da4c96/first-whole-6fps-02.jpg",
+        "reports/form-media/attempt_9e8f5e1369da4c96/first-frame-0.png",
+        "reports/form-media/attempt_9e8f5e1369da4c96/first-frame-1.333333.png",
+        "reports/form-media/attempt_9e8f5e1369da4c96/first-frame-3.333333.png",
+        "reports/form-media/attempt_9e8f5e1369da4c96/first-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_leg_pull_in_5e6cf513-video-d0a7882d",
+      "attemptId": "attempt_d0a7882d8811468d",
+      "exerciseId": "open_leg_pull_in_5e6cf513",
+      "shot": "r13-open_leg_pull_in_5e6cf513-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_leg_pull_in_5e6cf513-video-d0a7882d.mp4",
+      "outputSha256": "ca04b7685e79d57382d7bd5b8d47662052fbdabfc445ef2c2fd538a6592e5996",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T01:11:53.456886+00:00",
+      "reviewKind": "exact-delivery-video-6fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The entire 6fps timeline has one bend/extension cycle and a genuinely quiet long-leg finish; head, trunk and pelvis remain supported, and those improvements should be retained.",
+        "However, the required working phase remains primarily heels drawing inward with small thigh rise/hip flexion, not a clearly established comfortable knee-toward-chest tuck. Full-resolution 1.333333 and 2.333333 seconds show knees modestly bent rather than a recognizable hip-flexion tuck. At 2.333333 the heels may slightly hover, so this review does not claim continuously grounded heels or impose chest contact/mandatory depth. A specific feet-clear/actual knee-toward-chest motion correction is needed. Parent independently agreed with this catalog boundary."
+      ],
+      "limitations": [
+        "Every populated whole6fps sample and listed full-resolution exact-delivery frames inspected; sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_d0a7882d8811468d/first-whole-6fps-01.jpg",
+        "reports/form-media/attempt_d0a7882d8811468d/first-whole-6fps-02.jpg",
+        "reports/form-media/attempt_d0a7882d8811468d/first-frame-1.333333.png",
+        "reports/form-media/attempt_d0a7882d8811468d/first-frame-2.333333.png"
+      ]
+    },
+    {
+      "assetId": "r13-ex_bicycle_crunch-video-e1d2e392",
+      "attemptId": "attempt_e1d2e392f7b44e16",
+      "exerciseId": "ex_bicycle_crunch",
+      "shot": "r13-ex_bicycle_crunch-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_bicycle_crunch-video-e1d2e392.mp4",
+      "outputSha256": "38a982b6be1a09df88043d4c30802a48c91f796a0980b4e0f60a69d530985dca",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T01:11:53.457147+00:00",
+      "reviewKind": "exact-delivery-video-6fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The near leg extends and both legs return coherently to the original tabletop preparation, with one continuous cycle and a quiet finish. Gray feet, bounded abdominal/oblique-orange and opaque shorts remain coherent.",
+        "Full-resolution start versus 2.333333-second working phase shows the visible near shoulder/elbow lowering outward/back toward the floor, away from the far bent knee, rather than curling diagonally toward that opposite knee. The far shoulder rising does not establish the required contralateral approach to the still-bent far knee. This is not rejected for missing elbow contact; the actual upper-trunk direction is wrong/absent. An independent second reviewer inspected both whole6fps sheets and these frames and agreed."
+      ],
+      "limitations": [
+        "Every populated whole6fps sample and listed full-resolution exact-delivery frames inspected; sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e1d2e392f7b44e16/first-whole-6fps-01.jpg",
+        "reports/form-media/attempt_e1d2e392f7b44e16/first-whole-6fps-02.jpg",
+        "reports/form-media/attempt_e1d2e392f7b44e16/first-frame-0.png",
+        "reports/form-media/attempt_e1d2e392f7b44e16/first-frame-2.333333.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_band_hip_adductions_78d2d658-video-eeafb560",
+      "attemptId": "attempt_eeafb5600f1440e2",
+      "exerciseId": "open_band_hip_adductions_78d2d658",
+      "shot": "r13-open_band_hip_adductions_78d2d658-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_band_hip_adductions_78d2d658-video-eeafb560.mp4",
+      "outputSha256": "c09bc8a8d0c28f7afb9f23e0309ab17ed82971500283b84d001d7ec6036414d9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T01:11:53.457347+00:00",
+      "reviewKind": "exact-delivery-video-6fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The changed trial2 cue instruction succeeds: full-resolution 1.333333 seconds retains genuine medial-adductor orange with anterior quadriceps gray, unlike the first trial. Low anchor, closed cuff, single band and quiet supported trunk remain coherent.",
+        "The motion still moves inward only near neutral, returns outward, then repeats inward and finishes with the cuffed foot near/down on the floor rather than the actual abducted hover. It does not establish one clear across-body cycle and settled original finish. A free actual crossed-hover endpoint refinement is authorized before stable video3; preserve this cue improvement and both exact negatives."
+      ],
+      "limitations": [
+        "Every populated whole6fps sample and listed full-resolution exact-delivery frames inspected; sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_eeafb5600f1440e2/first-whole-6fps-01.jpg",
+        "reports/form-media/attempt_eeafb5600f1440e2/first-whole-6fps-02.jpg",
+        "reports/form-media/attempt_eeafb5600f1440e2/first-frame-1.333333.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_triceps-video-3479986a",
+      "attemptId": "attempt_3479986ac7be4366",
+      "exerciseId": "cat_band_triceps",
+      "shot": "r13-cat_band_triceps-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_triceps-video-3479986a.mp4",
+      "outputSha256": "149fcc46a2a2c4bbc58be8b629f1005f4293892100415c5295f805afd6e36ee2",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T01:11:53.457639+00:00",
+      "reviewKind": "exact-delivery-video-6fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The revised source3 provides a clearer original horizontal-forearm bent position, and the actual third motion has a genuine elbow extension and return path. Closed grips, supported quiet trunk/feet, high anchor and two band routes remain usable.",
+        "The return passes through the original horizontal-forearm position around 3.0 seconds, then continues into deeper elbow flexion/higher hands around 3.2\u20133.5 seconds before a partial extension back down to the original final position. The full-resolution 10fps arm-window over 2.7\u20133.6 seconds confirms a moving original-position crossing, not a settled returned boundary. A trim there would hide the internal overshoot; raw remains negative.",
+        "Parent authorized the remaining free fourth source as a straight-elbow/lower endpoint on this same valid rig before final stable video4. Future eight-second actual-source motion must bend first and extend/settle to the original straight endpoint, with exact review before any paid trial. No source/video count reset."
+      ],
+      "limitations": [
+        "Every populated whole6fps sample and listed full-resolution exact-delivery frames inspected; sampling does not prove every in-between frame.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3479986ac7be4366/first-whole-6fps-01.jpg",
+        "reports/form-media/attempt_3479986ac7be4366/first-whole-6fps-02.jpg",
+        "reports/form-media/attempt_3479986ac7be4366/first-frame-0.png",
+        "reports/form-media/attempt_3479986ac7be4366/first-frame-1.333333.png",
+        "reports/form-media/attempt_3479986ac7be4366/first-frame-3.333333.png",
+        "reports/form-media/attempt_3479986ac7be4366/first-frame-5.9.png",
+        "reports/form-media/attempt_3479986ac7be4366/first-return-window-10fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-ex_bicycle_crunch-video-87cbd4b1",
+      "attemptId": "attempt_87cbd4b167ce4acb",
+      "exerciseId": "ex_bicycle_crunch",
+      "shot": "r13-ex_bicycle_crunch-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_bicycle_crunch-video-87cbd4b1.mp4",
+      "outputSha256": "349ba1e818ef97f08c0ff4699dae04bd682e343c3cd284d64fd60e84202832de",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T01:34:20.118172+00:00",
+      "reviewKind": "exact-delivery-video-6fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "All populated 6fps prepared-delivery samples show one foreground-leg extension with the background knee kept bent/approaching and a genuine contralateral upper-trunk curl/turn: the foreground shoulder/upper arm moves forward and inward toward the opposite bent knee, and the pectoral/upper-ribcage presentation turns away from camera. This resolves the first output's outward/backward shoulder drop.",
+        "One complete controlled return to the original raised tabletop pose is established by about 3.333 seconds, followed by a quiet finish without a second side or internal extra excursion. Catalog counts each completed side once; this clip demonstrates one side, without forcing elbow-knee contact.",
+        "Full-resolution actual delivery start, working endpoint, return and finish show supported pelvis, gentle head-hand contacts, distinct feet, coherent gray fibers, stable bounded abdominal-orange and opaque shorts within the full motion envelope.",
+        "A separate raw-master review and Coverage's independent narrow rotation opinion support the same contralateral interpretation; the formal verdict here is pinned to separately encoded and actually inspected prepared delivery bytes."
+      ],
+      "limitations": [
+        "AI editorial candidate for human review, not human acceptance or independent trainer/clinical validation.",
+        "Every populated 6fps sample and listed full-resolution prepared-delivery frames inspected; sampling does not prove every in-between frame. One side is shown rather than a full alternating pair. Some far-side hand anatomy is occluded."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_87cbd4b167ce4acb/first-delivery-whole-6fps-01.jpg",
+        "reports/form-media/attempt_87cbd4b167ce4acb/first-delivery-whole-6fps-02.jpg",
+        "reports/form-media/attempt_87cbd4b167ce4acb/first-delivery-frame-0.png",
+        "reports/form-media/attempt_87cbd4b167ce4acb/first-delivery-frame-2.333333.png",
+        "reports/form-media/attempt_87cbd4b167ce4acb/first-delivery-frame-3.333333.png",
+        "reports/form-media/attempt_87cbd4b167ce4acb/first-delivery-frame-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cond_mountain_climber-video-8c9861a8",
+      "attemptId": "attempt_8c9861a8c3f340fe",
+      "exerciseId": "cat_cond_mountain_climber",
+      "shot": "r13-cat_cond_mountain_climber-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cond_mountain_climber-video-8c9861a8.mp4",
+      "outputSha256": "2be419e48120642e6c95c1ab66baacbed3dde3723830ef996720d7f1e81bf97a",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-10T02:00:19.904422+00:00",
+      "reviewKind": "exact-delivery-video-6fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "All 48 populated 6fps delivery samples show a genuine alternating pair: first the near leg bends forward under the chest and fully restores its toe contact, then the far leg bends forward and fully restores its own toe contact. One lifted working foot and opposite planted toes are distinguishable in each phase; no third drive or planted-foot slide occurs.",
+        "Full-resolution first and second working phases distinguish leg identity rather than a repeated near-leg tuck. The first near knee is in front of the far long-leg chain; during the opposite drive the far knee is partly occluded behind the near long-leg chain. Comfortable forward hip-flexion range is clear without requiring knee-chest contact.",
+        "Both palms retain their floor contacts under long arms, the trunk/pelvis remain mostly steady with modest incidental movement, and both original toe contacts are restored by approximately 5.333 seconds before a quiet high-plank finish. Head/hands/feet remain fully framed; bounded attached abdominal-orange, gray fibers and opaque shorts remain coherent.",
+        "The catalog uses a duration target. This eight-second form demonstration shows one controlled alternating pair rather than a claimed complete prescribed time or repetition target. Formal verdict is pinned to actually inspected separately encoded prepared-delivery bytes."
+      ],
+      "limitations": [
+        "AI editorial candidate for human review, not human acceptance or independent trainer/clinical validation.",
+        "Every populated 6fps sample and listed full-resolution prepared-delivery frames inspected; sampling does not prove every in-between frame. Far working thigh/knee is partly occluded, with visible foot/support transition establishing the alternating side."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8c9861a8c3f340fe/first-delivery-whole-6fps-01.jpg",
+        "reports/form-media/attempt_8c9861a8c3f340fe/first-delivery-whole-6fps-02.jpg",
+        "reports/form-media/attempt_8c9861a8c3f340fe/first-delivery-whole-6fps-03.jpg",
+        "reports/form-media/attempt_8c9861a8c3f340fe/first-delivery-frame-0.png",
+        "reports/form-media/attempt_8c9861a8c3f340fe/first-delivery-frame-1.333333.png",
+        "reports/form-media/attempt_8c9861a8c3f340fe/first-delivery-frame-4.333333.png",
+        "reports/form-media/attempt_8c9861a8c3f340fe/first-delivery-frame-5.333333.png",
+        "reports/form-media/attempt_8c9861a8c3f340fe/first-delivery-frame-7.9.png"
+      ]
+    }
+  ]
+}

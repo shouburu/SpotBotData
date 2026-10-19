@@ -157,7 +157,7 @@ def main():
                     continue
                 previous_hash = existing.get("sourceReview", {}).get("recordSha256")
                 if timestamp(existing["reviewedAt"]) == candidate["timestamp"] and previous_hash and previous_hash != candidate["recordSha256"]:
-                    raise ValueError(f"Saved evidence conflicts with a tied review: {asset_id}")
+                    raise ValueError(f"Saved evidence conflicts with a tied review: {asset_id}. Use a new reviewedAt timestamp for a newly performed re-review.")
             record = candidate["record"]
             imported = {"status": record["status"], "reviewerType": "ai", "reviewer": "Codex",
                         "reviewedAt": record["reviewedAt"], "notes": review_notes(record),

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-smith-deadlift-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-deadlift-start-7d6f4c4f.json"
+    },
+    {
+      "shot": "r12-smith-sumo-deadlift-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-sumo-deadlift-start-b9d81943.json"
+    },
+    {
+      "shot": "r12-smith-good-morning-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-good-morning-start-a7dff368.json"
+    },
+    {
+      "shot": "r12-smith-hip-thrust-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-hip-thrust-start-fc5483d4.json"
+    },
+    {
+      "shot": "r12-seated-single-db-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-single-db-press-start-c0760930.json"
+    },
+    {
+      "shot": "r12-single-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-fly-start-8f3bc412.json"
+    }
+  ]
+}

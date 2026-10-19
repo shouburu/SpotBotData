@@ -1,0 +1,1938 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-12",
+  "reviews": [
+    {
+      "assetId": "r12-seated-cable-press-start-de65cd1a",
+      "attemptId": "attempt_de65cd1a9ed3485e",
+      "exerciseId": "cat_var_seated_cable_press",
+      "shot": "r12-seated-cable-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-press-start/attempt_de65cd1a9ed3485e.jpg",
+      "outputSha256": "588baca1f00710e242ee4bdce1165adf28d051a672f07b0ab0238588fbd91d8e",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:55:24.981073+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual master shows an upright supported shoulder-press start, both closed grips at shoulder height, bent elbows under the handles, back and pelvis against the pad, and both feet planted.",
+        "Both separate cables connect visibly from their handles to corresponding low side pulleys without crossing the body; the deltoid caps are orange, triceps blue and biceps gray. Blank equipment and overhead frame space are suitable for this motion."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-press-start/attempt_de65cd1a9ed3485e.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-press-start-6693cf4f",
+      "attemptId": "attempt_6693cf4f42ed48f2",
+      "exerciseId": "cat_var_seated_db_press",
+      "shot": "r12-seated-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-db-press-start/attempt_6693cf4f42ed48f2.jpg",
+      "outputSha256": "a58717e3cc5ac57152af735bb891b6923d8b681dc802abe412600204e8b96f96",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:55:24.981706+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The still uses vertical dumbbell handles with the dumbbell ends stacked above and below each fist: both weights are held in front of the lower chest with elbows tucked low, rather than a supported shoulder-height press setup.",
+        "The blank dumbbells and anatomical cues improved, but animating this source would require first changing the grip and lifting into the press start, risking another exercise substitution or extra preparatory motion."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-db-press-start/attempt_6693cf4f42ed48f2.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-crunch-start-388781c2",
+      "attemptId": "attempt_388781c2cf3b4070",
+      "exerciseId": "cat_var_seated_cable_crunch",
+      "shot": "r12-seated-cable-crunch-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-crunch-start/attempt_388781c2cf3b4070.jpg",
+      "outputSha256": "f89b2e427d5c56a9d2a8818b58b050632ce0cb01f936b9b588b028c8e3c75d90",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:55:24.982147+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual master shows upright seated hips with both feet planted, a high tower behind the back, one cable and one visible connector splitting into two tails around the head, and closed grips beside the temples.",
+        "Rectus abdominis cues remain visible and bounded; gear is blank and the camera shows the seated support and rope path. A short spinal crunch can proceed directly from this pose."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-crunch-start/attempt_388781c2cf3b4070.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-standing-cable-crunch-start-7c98b2ec",
+      "attemptId": "attempt_7c98b2ec06a845b4",
+      "exerciseId": "cat_var_standing_cable_crunch",
+      "shot": "r12-standing-cable-crunch-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-cable-crunch-start/attempt_7c98b2ec06a845b4.jpg",
+      "outputSha256": "3d5861e6f2e6bb7b849c7b707a93cad2c53c49ea877367905b0901e165d300c4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:55:24.982551+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The tower is correctly behind the mannequin, but both rope tails run diagonally across the cheek/face to grips in front of the mouth rather than separate tails down either side of the head with hands at the temples.",
+        "This repeats the earlier wrong rope routing; a direct animation would preserve the face-crossing load path or need an extra grip-repositioning step. The upright legs and abdominal cue are otherwise useful."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-cable-crunch-start/attempt_7c98b2ec06a845b4.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-lateral-start-ef9ad02a",
+      "attemptId": "attempt_ef9ad02a75d3449b",
+      "exerciseId": "cat_var_seated_db_lateral",
+      "shot": "r12-seated-db-lateral-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-db-lateral-start/attempt_ef9ad02a75d3449b.jpg",
+      "outputSha256": "2b7424ea16f87ac7a4a982198c68f709b3aa6d8c8a852363157064f7aec80dcc",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:56:56.534791+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual master shows both feet planted and hips fully seated, upright trunk, two closed dumbbell grips beside the outer thighs and softly bent elbows.",
+        "Blank equipment, bounded shoulder cues and wide white margins on both sides provide a visible lateral-raise envelope."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-db-lateral-start/attempt_ef9ad02a75d3449b.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-standing-db-rear-fly-start-9ad9611b",
+      "attemptId": "attempt_9ad9611bc6304c7e",
+      "exerciseId": "cat_var_standing_db_rear_fly",
+      "shot": "r12-standing-db-rear-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-db-rear-fly-start/attempt_9ad9611bc6304c7e.jpg",
+      "outputSha256": "2b70c0aa8b1fd51969580be88ac469795931c00841da675af211d3d01d3002cb",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:56:56.535293+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual master shows a supported standing hip hinge with softly bent knees, steady inclined neutral back, both weights hanging beneath the shoulders and closed neutral grips.",
+        "Orange stays on the posterior shoulder caps with the neighboring upper arms gray; blank dumbbells and wide side margins are suitable for a rear-delt lateral opening."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-db-rear-fly-start/attempt_9ad9611bc6304c7e.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-ball-crunch-start-1268c410",
+      "attemptId": "attempt_1268c4103449490a",
+      "exerciseId": "cat_var_ball_crunch",
+      "shot": "r12-ball-crunch-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-ball-crunch-start/attempt_1268c4103449490a.jpg",
+      "outputSha256": "d6a9764291b77d007882910a4427591e690e90d71c31fc1d194ed639327955c1",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:58:02.705098+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The ball is under the upper back while the lower back and pelvis bridge outside it, and the shoulders/head are already raised into a flexed inclined torso. This is an already-crunched endpoint rather than the extended supported starting pose.",
+        "The feet and cues are readable and unrelated cable equipment is gone, but the same prior start-pose failure remains; do not animate another rocking cycle from this endpoint."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-ball-crunch-start/attempt_1268c4103449490a.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-decline-crunch-start-8dc8ffd0",
+      "attemptId": "attempt_8dc8ffd0c7ad468f",
+      "exerciseId": "cat_var_decline_crunch",
+      "shot": "r12-decline-crunch-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-decline-crunch-start/attempt_8dc8ffd0c7ad468f.jpg",
+      "outputSha256": "35363fe5530889035496542c21c7bbecbaf62e200126f3f7e44e891643a67796",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:58:02.705722+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual master correctly places the head lower at the left end and hips/foot support higher at the right end, fixing the previous uphill head geometry.",
+        "The lumbar spine, upper back and head lie supported against the decline pad; knees are bent, feet anchored by rollers, hands cross the chest and bounded orange abdominal fibers remain visible. Blank gear and wide framing support a short crunch."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-decline-crunch-start/attempt_8dc8ffd0c7ad468f.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-bb-press-start-4347e4a1",
+      "attemptId": "attempt_4347e4a1ff9c4dc3",
+      "exerciseId": "cat_var_seated_bb_press",
+      "shot": "r12-seated-bb-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-bb-press-start/attempt_4347e4a1ff9c4dc3.jpg",
+      "outputSha256": "39e053bf921113b27a6fda8c2d6e23c189af2ff4b63be74f230db6d55c47c097",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:11:42.895766+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Blank plates/bar, supported seated start, overhand closed grip, deltoid/triceps cues and free unracked bar geometry are suitable.",
+        "The head is only approximately 60px below the 768px frame top, and the starting plates reach approximately 100px from the top. Raising the bar to an overhead straight-arm endpoint would put both plate tops outside this locked frame; the source lacks the necessary overhead envelope."
+      ],
+      "limitations": [
+        "Actual full-resolution downloaded static master inspected and hash verified. It was awaiting aggregate group settlement at review time; no animation adoption or paid call is authorized by this failed-source verdict.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-bb-press-start/attempt_4347e4a1ff9c4dc3.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-standing-smith-press-start-ea0ffef6",
+      "attemptId": "attempt_ea0ffef6ac5949dd",
+      "exerciseId": "cat_var_standing_smith_press",
+      "shot": "r12-standing-smith-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-smith-press-start/attempt_ea0ffef6ac5949dd.jpg",
+      "outputSha256": "c5fca23b4fca82651420e0b83d681b5a28921cfde74a548392750f32afbcacd2",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:15:54.969272+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The standing bottom press pose, visible feet, blank bar/plates, bounded orange shoulder caps and blue triceps are useful, and the bar is visually attached to its side carriages.",
+        "The Smith frame top is already cropped and the head is only approximately 60px below the 768px image top. At a full overhead endpoint the bar and plate tops would leave this fixed camera, so the image does not supply the complete rig or movement envelope."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-smith-press-start/attempt_ea0ffef6ac5949dd.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-db-lateral-start-2eb66d7c",
+      "attemptId": "attempt_2eb66d7c46784628",
+      "exerciseId": "cat_var_incline_db_lateral",
+      "shot": "r12-incline-db-lateral-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-db-lateral-start/attempt_2eb66d7c46784628.jpg",
+      "outputSha256": "88ec3e2e1b49fad01a414d8511ea7b20b58c9c751a309963163c77574f33602d",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:18:24.399433+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "This source fixes the earlier physical/cue failures: one dumbbell in the upper free hand, the lower hand empty against the bench, supported side-lying trunk, and bounded orange on the upper working shoulder only.",
+        "The upper shoulder is approximately 180px below the top, while shoulder-to-weight length is approximately 330px. The upward lateral-abduction arc lacks sufficient white space above this inclined body; require a wider/lower composition before a fixed-camera full-ROM animation."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. The frame-envelope verdict is a preflight estimate from the pictured limb lengths; no animation has yet demonstrated actual clipping.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-db-lateral-start/attempt_2eb66d7c46784628.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-rear-fly-start-c5855ddf",
+      "attemptId": "attempt_c5855ddf510a43ed",
+      "exerciseId": "cat_var_seated_db_rear_fly",
+      "shot": "r12-seated-db-rear-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-db-rear-fly-start/attempt_c5855ddf510a43ed.jpg",
+      "outputSha256": "2461ef0d4e409aaa2ac468f26288e485f443be546bb406a8021bc167a2a5f7d6",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:21:24.473083+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual master fixes the prior near-upright lateral-raise substitution: hips are seated while the neutral trunk is clearly hinged forward over the knees, with both weights hanging below the shoulders.",
+        "Both grips and planted feet are visible, neighboring upper arms remain gray and posterior shoulder caps are orange. Wide side space can contain the lateral rear-fly arcs."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-db-rear-fly-start/attempt_c5855ddf510a43ed.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-flat-db-rear-fly-start-12277ea2",
+      "attemptId": "attempt_12277ea2e621453b",
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-flat-db-rear-fly-start/attempt_12277ea2e621453b.jpg",
+      "outputSha256": "4a50a286a53ce8479055b37fd3cadf4ce65190ccf8e6ab175543482c12110a76",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:21:24.473840+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual master shows a prone torso supported horizontally by a flat bench, both closed dumbbell grips hanging below the shoulders with visible floor clearance, and feet braced against the floor.",
+        "The visible posterior shoulder cue is bounded, adjacent upper arm/back remain gray, dumbbells are blank and the wide camera can show lateral opening around the supported chest."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-flat-db-rear-fly-start/attempt_12277ea2e621453b.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-high-cable-fly-start-6314427c",
+      "attemptId": "attempt_6314427c6fed4d5c",
+      "exerciseId": "cat_var_high_cable_fly",
+      "shot": "r12-high-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-high-cable-fly-start/attempt_6314427c6fed4d5c.jpg",
+      "outputSha256": "e254ea69ad29dce9d56884f708f62b878d15c7a41abf83b9384a511907e5e022",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:23:24.253653+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both high pulley-to-handle connections, blank equipment, closed grips, softly bent elbows, planted split stance and bounded orange pectoral cues are useful.",
+        "The upper arms slope steeply down and both handles sit near the hips, still spread apart. This is neither the open high-fly start with arms at shoulder level nor a completed hands-together finish, so a direct animation would require extra setup or preserve a shortened rep."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-high-cable-fly-start/attempt_6314427c6fed4d5c.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-low-cable-fly-start-e5812722",
+      "attemptId": "attempt_e581272261f2400a",
+      "exerciseId": "cat_var_low_cable_fly",
+      "shot": "r12-low-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-low-cable-fly-start/attempt_e581272261f2400a.jpg",
+      "outputSha256": "5595d6c3db946fbf88ce260438efc8aeb1ffdfb53fa912760c77cc2fecb48039",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:26:59.220468+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual master shows two handles low beside the hips, closed grips and almost-straight softly bent elbows, with two separate taut cables leading to visible low side pulleys.",
+        "Both feet are planted, pectoral cues are bounded, neighboring shoulders/arms gray, equipment blank and the full upright body/grips/pulley paths are visible. The upward diagonal fly can proceed directly from this low starting pose."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-low-cable-fly-start/attempt_e581272261f2400a.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-flat-cable-fly-start-2adc98a2",
+      "attemptId": "attempt_2adc98a27a88494d",
+      "exerciseId": "cat_var_flat_cable_fly",
+      "shot": "r12-flat-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-flat-cable-fly-start/attempt_2adc98a27a88494d.jpg",
+      "outputSha256": "a2d7dfaa0ac6e31ee9402c7622e7e6f8e903767ac928784cbf71ee7272cc21ad",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:30:42.530420+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The source has a valid flat supported closed-fly setup with almost-straight soft elbows, closed grips, two low cable tower paths and both planted feet.",
+        "Magnified actual-master cue inspection shows a broad isolated orange band on the outer near-side shoulder cap beside the raised arm, in addition to the correctly orange chest fibers. This source violates the requirement that deltoids remain gray for chest-primary emphasis; only that shoulder-cap cue needs editing."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; flat-fly shoulder-cue detail is an inspection crop of those same pixels. This does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-flat-cable-fly-start/attempt_2adc98a27a88494d.jpg",
+        "reports/form-media/attempt_2adc98a27a88494d/independent-cue-detail.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-fly-start-dc4d5568",
+      "attemptId": "attempt_dc4d5568a4c44b81",
+      "exerciseId": "cat_var_incline_cable_fly",
+      "shot": "r12-incline-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-cable-fly-start/attempt_dc4d5568a4c44b81.jpg",
+      "outputSha256": "a3b9f7a7a17056515c4fdd4a3e086fe3344a5c19b623f8ee52a093cab2011049",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:30:42.531154+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The source has a useful inclined supported nearly straight-arm pose, two closed cable-handle grips, planted feet and bounded orange chest cues.",
+        "Its only resistance equipment is two isolated floor pulley wheels on little stands, with no tower, weight stack or visible return/load path. A taut line ending at a free pulley without a resistance rig is not a credible cable machine setup."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; flat-fly shoulder-cue detail is an inspection crop of those same pixels. This does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-cable-fly-start/attempt_dc4d5568a4c44b81.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-chest-start-21683bb9",
+      "attemptId": "attempt_21683bb99bca437d",
+      "exerciseId": "cat_var_seated_cable_chest",
+      "shot": "r12-seated-cable-chest-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-chest-start/attempt_21683bb99bca437d.jpg",
+      "outputSha256": "4782327f17113113c0b72c1c263a538191b0fb5c10e464e46bddd86e1f7e4314",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:37:14.540926+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The torso has correct chest/shoulder cues, and the bench supports the pelvis/back with feet visible.",
+        "The face, abdomen and especially both legs use smooth plastic surfaces without the readable anatomical fiber style, while both handles sit low near the abdomen instead of beside the chest.",
+        "The left handle cable leaves the frame to the left rather than connecting to the shown left chest-height pulley; the visible left pulley and external handle line are geometrically disconnected."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-chest-start/attempt_21683bb99bca437d.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-chest-start-a8341a80",
+      "attemptId": "attempt_a8341a80f12e4e19",
+      "exerciseId": "cat_var_incline_cable_chest",
+      "shot": "r12-incline-cable-chest-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-cable-chest-start/attempt_a8341a80f12e4e19.jpg",
+      "outputSha256": "28f01600b8d003e041396ef72b110ca6d4fa1ce7a681dbb0ee2c2ed4706177b6",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:37:14.543090+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual master has useful supported incline geometry, bent-elbow shoulder/chest-height handles, planted feet, bounded pectoral cues, subtler supporting blue regions and blank tower rigs.",
+        "Both external handle-to-pulley cables hang in large slack U-shaped curves. This violates a loaded taut cable starting setup and would require taking up slack before the actual repetition."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. This verdict concerns source pose, anatomy, visible contacts and equipment; it does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-cable-chest-start/attempt_a8341a80f12e4e19.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-ball-crunch-start-8a8afe49",
+      "attemptId": "attempt_8a8afe499bb142e4",
+      "exerciseId": "cat_var_ball_crunch",
+      "shot": "r12-ball-crunch-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-ball-crunch-start/attempt_8a8afe499bb142e4.jpg",
+      "outputSha256": "22aa301b33da5612f0db8c7395b0db7e742fa338bb19dee8f5cb837ac48a3deb",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:40:53.894079+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The revised source extends/reclines the head and upper torso more fully than the first master, while keeping planted feet and bounded abdominal cues.",
+        "The ball has not moved: its apex remains beneath the shoulder-blade/upper-back region, while the lumbar waist and pelvis bridge outside it toward the knees. This still does not provide the requested lower-back support and extended torso starting geometry."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; support-location judgment follows the visible ball and lower-back contact geometry. This does not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-ball-crunch-start/attempt_8a8afe499bb142e4.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-press-start-bb459bda",
+      "attemptId": "attempt_bb459bda3f5a4a28",
+      "exerciseId": "cat_var_seated_db_press",
+      "shot": "r12-seated-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-db-press-start/attempt_bb459bda3f5a4a28.jpg",
+      "outputSha256": "cdef4054fe7d9286aa9d7f8f665ec5dfe8bf2bf5390f2378f4f1c493fd10c799",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:46:22.503674+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The revised source fixes the grip/arm geometry: two horizontal dumbbell shafts beside the ears, vertical forearms, closed overhand grips and bent elbows beneath them, with correct blank gear and cues.",
+        "The mannequin head remains only approximately 95px below the 1376px top, while the pictured upper-arm-plus-forearm length is approximately 390px. Full overhead extension would put wrists/dumbbell tops outside the locked frame; the newly corrected pose needs lower/wider composition."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates from visible limb/gear lengths; they do not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-db-press-start/attempt_bb459bda3f5a4a28.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-bb-press-start-8e969302",
+      "attemptId": "attempt_8e96930290464d29",
+      "exerciseId": "cat_var_seated_bb_press",
+      "shot": "r12-seated-bb-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-bb-press-start/attempt_8e96930290464d29.jpg",
+      "outputSha256": "a195a670db435d103d40c7f360a8bdf0367e7be61f24c0e045cd8f4fe78ab0a4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:46:22.504316+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The corrected actual master retains the supported bottom press pose, blank free bar/plates, closed overhand grips, deltoid/triceps cues and planted feet while shrinking/lowering the entire rig.",
+        "The head is now approximately 235px below the 768px top, and the smaller arm/bar/plate envelope has sufficient empty overhead margin for full extension with both plate tops visible."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates from visible limb/gear lengths; they do not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-bb-press-start/attempt_8e96930290464d29.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-standing-cable-crunch-start-4b374119",
+      "attemptId": "attempt_4b3741193b6a4cf7",
+      "exerciseId": "cat_var_standing_cable_crunch",
+      "shot": "r12-standing-cable-crunch-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-cable-crunch-start/attempt_4b3741193b6a4cf7.jpg",
+      "outputSha256": "408139e096df6d5e3dd7aed3f7c52ca36ec96e282eefe27ac7fa091f559dd0db",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:46:22.504760+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The revised source has an upright standing trunk, softly bent knees, planted feet, tower behind, one high cable/connector and separate head-side rope grips.",
+        "The prior ropes across the cheeks are removed: the face is clear and the far tail is routed beside/behind the head to its grip. Bounded abdominal cues and blank gear remain readable."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates from visible limb/gear lengths; they do not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-cable-crunch-start/attempt_4b3741193b6a4cf7.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-db-lateral-start-0bae9d5a",
+      "attemptId": "attempt_0bae9d5a078a4365",
+      "exerciseId": "cat_var_incline_db_lateral",
+      "shot": "r12-incline-db-lateral-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-db-lateral-start/attempt_0bae9d5a078a4365.jpg",
+      "outputSha256": "bdd90ae2a3eae74e609a3c44a8c7c735b09d875d9361dab412bcdb7b65e743aa",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:46:22.505206+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The valid one-dumbbell upper-side pose, empty lower hand, bounded working shoulder cue and side support remain intact.",
+        "The requested reframing did not occur: the working shoulder remains about 180px below the top and the body/bench nearly fill the same height. The full upward arm-plus-dumbbell envelope remains unreserved; the next edit needs explicit scale/placement."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates from visible limb/gear lengths; they do not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-db-lateral-start/attempt_0bae9d5a078a4365.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-standing-smith-press-start-52a9fd5e",
+      "attemptId": "attempt_52a9fd5e2ed34dca",
+      "exerciseId": "cat_var_standing_smith_press",
+      "shot": "r12-standing-smith-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-smith-press-start/attempt_52a9fd5e2ed34dca.jpg",
+      "outputSha256": "efa7ec51bc3fb4fb1f660307737a415d651c01d4db7e489917b9113c0c84303d",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:52:09.101211+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The corrected composition now shows the complete blank Smith frame and base, preserving planted feet, shoulder-height closed grips, bounded orange deltoids and blue triceps.",
+        "The complete frame still nearly fills the canvas height. The shoulders are approximately 260px below the top while both arm segments together plus the plate radius use roughly that height, leaving insufficient margin for fully extended overhead hands/bar/plate tops. This is a preflight envelope estimate, not observed animation clipping; the next edit needs explicit 70% whole-group scaling and bottom placement."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates from visible limb/gear lengths; they do not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-smith-press-start/attempt_52a9fd5e2ed34dca.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-flat-db-rear-fly-start-8c1b8563",
+      "attemptId": "attempt_8c1b8563b1ff4dd4",
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-flat-db-rear-fly-start/attempt_8c1b8563b1ff4dd4.jpg",
+      "outputSha256": "9a52a2d1428c8d3b8b5d9103e58593b7c7c7826f67264a77ab9834e44ce08a61",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:52:09.101211+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual changed camera is centered above/behind the feet toward the head. The bench/body axis now recedes vertically through the center, with both posterior shoulder caps and both separate hanging arms/dumbbells visible.",
+        "The prone torso remains supported on the flat bench, feet remain braced, gray anatomical fibers and charcoal shorts are retained, orange posterior shoulder caps remain attached and gear remains blank.",
+        "The wide white margins on both sides of the shoulders reserve the complete bilateral lateral T envelope. This source improves the motion-plane observability after three videos substituted sagittal swings; the still alone does not prove future motion."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates from visible limb/gear lengths; they do not validate a future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-flat-db-rear-fly-start/attempt_8c1b8563b1ff4dd4.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-flat-cable-fly-start-ed3b2f56",
+      "attemptId": "attempt_ed3b2f5685a04eec",
+      "exerciseId": "cat_var_flat_cable_fly",
+      "shot": "r12-flat-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-flat-cable-fly-start/attempt_ed3b2f5685a04eec.jpg",
+      "outputSha256": "af7025aa628b463f18a929daf6a4e15583936840823c61f01144866ddadc7e0a",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:58:39.327538+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The unwanted orange outer shoulder band is now gray, with chest orange retained and supported flat-bench/cable rig unchanged.",
+        "The actual closed arms show a substantial bend, approximately 45–60 degrees of elbow flexion in this view, rather than a small fixed fly bend. This was not resolved by the cue-only edit and risks another press/curl substitution. Almost straight arms plus sufficient higher hand margin need a revised static master."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; a positive still review does not validate future motion.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-flat-cable-fly-start/attempt_ed3b2f5685a04eec.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-fly-start-569e2b51",
+      "attemptId": "attempt_569e2b511e214d14",
+      "exerciseId": "cat_var_incline_cable_fly",
+      "shot": "r12-incline-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-cable-fly-start/attempt_569e2b511e214d14.jpg",
+      "outputSha256": "0632ae6b7ff8cfaa8cab0073e8699ec5140ad7dbc1af612afcb96f387e92d8f8",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:58:39.327538+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Two complete gray cable towers now replace the isolated floor-wheel stands. Visible low pulleys, stack/return structure and straight separate cable paths connect to the correct two closed grips.",
+        "The supported 30–45 degree incline torso, planted feet, nearly straight arms above the upper chest with small elbow bends, attached orange pectorals and gray neighboring caps remain intact.",
+        "Wide lateral margins support a full outward opening to the shoulder plane and return. This actual source is a closed endpoint, so motion must start by opening/lowering once, then close back to this pose."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; a positive still review does not validate future motion.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-cable-fly-start/attempt_569e2b511e214d14.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-high-cable-fly-start-c63017c1",
+      "attemptId": "attempt_c63017c1e9254ba3",
+      "exerciseId": "cat_var_high_cable_fly",
+      "shot": "r12-high-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-high-cable-fly-start/attempt_c63017c1e9254ba3.jpg",
+      "outputSha256": "db9dc414ccdc7a18ebd70f3199d169dedad9af8fd999235a9769618e1823cc90",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:58:39.327538+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual edit now shows an open, shoulder-height bilateral arm span with small elbow bends, separate high-pulley taut cables and closed blank handles. It corrects the previous ambiguous hands-at-hips mid-trajectory source.",
+        "Attached orange pectorals, gray shoulder/arm fibers, planted staggered stance, white background and complete essential arm/grip/rig paths remain readable.",
+        "This is an actual wide-open high-cable starting endpoint with room for one forward/downward inward fly and full wide-open return."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; a positive still review does not validate future motion.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-high-cable-fly-start/attempt_c63017c1e9254ba3.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-low-cable-fly-start-b49df9a4",
+      "attemptId": "attempt_b49df9a4a3de47ea",
+      "exerciseId": "cat_var_low_cable_fly",
+      "shot": "r12-low-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-low-cable-fly-start/attempt_b49df9a4a3de47ea.jpg",
+      "outputSha256": "9d2f7df3da1934d02f49d6ed9a030f90009f6373c49fb9d7f513f52361d7e7f7",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:58:39.327538+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The changed source has hands beside the chest, upper arms close to the ribs and elbows bent approximately 90 degrees. It reproduces the same curl posture that failed in two videos instead of the requested almost-straight-arm high closed fly endpoint.",
+        "The chest cue, low pulleys, white frame and blank rig remain valid, but this actual source cannot safely constrain the desired shoulder fly. A new static pose must visibly elevate the upper arms forward with hands an arm length out in front of the upper sternum, rather than against it."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; a positive still review does not validate future motion.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-low-cable-fly-start/attempt_b49df9a4a3de47ea.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-chest-start-39f65743",
+      "attemptId": "attempt_39f65743a1a84465",
+      "exerciseId": "cat_var_seated_cable_chest",
+      "shot": "r12-seated-cable-chest-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-chest-start/attempt_39f65743a1a84465.jpg",
+      "outputSha256": "a1d5333a93141976f4b452d3abe40e32c5837958d468c1de2a8966ebef9a4c26",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:58:39.327538+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The edit restores anatomical fibers to the face, legs and torso, retaining bounded chest orange/blue shoulder support and blank seated cable apparatus.",
+        "The near hand remains at the abdomen instead of beside the mid chest, and its cable still enters from the left frame edge rather than connecting to the visible left chest-height pulley. The actual master retains the grip-height/cable-routing defects; motion remains held."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; a positive still review does not validate future motion.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-chest-start/attempt_39f65743a1a84465.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-chest-start-c0fae5d7",
+      "attemptId": "attempt_c0fae5d764a744ba",
+      "exerciseId": "cat_var_incline_cable_chest",
+      "shot": "r12-incline-cable-chest-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-cable-chest-start/attempt_c0fae5d764a744ba.jpg",
+      "outputSha256": "fb47127629b70c8f8f1eb724470bd34b5fe0a1940efc53a175f8072d01618eef",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:01:45.843398+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The slack U-shaped cable loops have been removed and the correct inclined supported torso, chest cues, elbow/grip poses and feet remain intact.",
+        "Both new straight cables run down toward the tower bases instead of the corresponding visible chest-height pulleys. In the actual master, the shown pulley assemblies near x325,y240 and x1065,y255 remain disconnected from their own handle cables. Direct correct routing to those visible pulleys is required before animation."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates; they do not validate future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-cable-chest-start/attempt_c0fae5d764a744ba.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-press-start-881b05a1",
+      "attemptId": "attempt_881b05a1246549c7",
+      "exerciseId": "cat_var_seated_db_press",
+      "shot": "r12-seated-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-db-press-start/attempt_881b05a1246549c7.jpg",
+      "outputSha256": "2f0d4eb517a8479beb2fd0911117818e3309f39c1e341d6c0672cb7c5834dd82",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:01:45.843398+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual numeric reframing has now lowered/scaled the complete seated mannequin and bench. Head is roughly 300px below the top of the portrait canvas, with substantial white space for nearly straight overhead arms and both dumbbell tops.",
+        "Horizontal blank dumbbell shafts beside the ears, closed overhand grips, bent elbows, supported upright back/pelvis, planted feet, attached orange deltoids and blue triceps remain correct. This actual source is a shoulder-height starting pose suitable for one press and complete return."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates; they do not validate future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-db-press-start/attempt_881b05a1246549c7.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-db-lateral-start-160ba16c",
+      "attemptId": "attempt_160ba16c24a04882",
+      "exerciseId": "cat_var_incline_db_lateral",
+      "shot": "r12-incline-db-lateral-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-db-lateral-start/attempt_160ba16c24a04882.jpg",
+      "outputSha256": "85a85c2715416090114bd7b507fb6a3670d50ae21c1a033d55452e76c7a46a10",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:01:45.843398+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The single working upper-side dumbbell, empty lower support hand, side-lying incline support and bounded upper shoulder orange remain valid.",
+        "The actual second framing edit again retained almost the same large body/bench placement: working shoulder about 180px below the top with an arm-plus-dumbbell envelope larger than that gap. A later lateral raise would not fit its full upper endpoint; a more substantial explicit 55% group rescale is needed. This is a preflight estimate, not observed motion clipping."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates; they do not validate future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-db-lateral-start/attempt_160ba16c24a04882.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-ball-crunch-start-5984a05b",
+      "attemptId": "attempt_5984a05bc57d406c",
+      "exerciseId": "cat_var_ball_crunch",
+      "shot": "r12-ball-crunch-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-ball-crunch-start/attempt_5984a05bc57d406c.jpg",
+      "outputSha256": "bb591c1a8f62e567cad81f70467300ae3be1b824fc5c005584de6f001a15c621",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:01:45.843398+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The feet/knees, crossed chest hands, attached orange abdomen and extended head/shoulder start are retained; the ball has shifted slightly toward the waist compared with the earlier master.",
+        "The ball apex/central support still sits under the thorax/upper back rather than clearly under the lumbar waist. Its visible center is about x855, and upper back remains on the top/rear ball while the low waist remains toward the left slope. Move the sphere another roughly 120px toward the feet so its top visibly supports the lumbar waist and the upper back drapes beyond the rear slope."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgments are preflight estimates; they do not validate future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-ball-crunch-start/attempt_5984a05bc57d406c.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-shrug-start-f8d247ad",
+      "attemptId": "attempt_f8d247ad4e94479a",
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-shrug-start/attempt_f8d247ad4e94479a.jpg",
+      "outputSha256": "0271f172d349f15acdad09d4e6b426f1426964ae41c987b9e0e0b992755ae508",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:18:54.492541+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The front-of-thigh bar is occluded normally by the body from the rear camera, with straight arms, separate bar carriages and supported feet visible.",
+        "Orange correctly includes upper trapezius fibers but also covers both large DELTOID shoulder caps; the catalog primary is traps only. Face, thighs/calves and portions of body are smooth plastic instead of the anatomical fiber style. Correct those appearance defects before motion."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Positive appearance details do not validate future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-shrug-start/attempt_f8d247ad4e94479a.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-drag-curl-start-37e26ca4",
+      "attemptId": "attempt_37e26ca4311a4e44",
+      "exerciseId": "cat_smith_drag_curl",
+      "shot": "r12-smith-drag-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-drag-curl-start/attempt_37e26ca4311a4e44.jpg",
+      "outputSha256": "6414fce9fb907fda8f4f7b2b2ca4ef10a53f3a88c34286024c0a0adfc65d04ec",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:18:54.492541+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual thigh-height Smith bar, two closed underhand grips, nearly straight lowered arms, upright planted stance and attached orange biceps are physically appropriate for a drag curl.",
+        "Both outer plate/bar ends are clipped at the side boundaries of the portrait source. Scale the whole rig/person modestly down so the entire moving bar/plates remain visible through their vertical curl path. This is a framing hold; no grip or pose replacement is needed."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Positive appearance details do not validate future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-drag-curl-start/attempt_37e26ca4311a4e44.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-inverted-row-start-508b21d4",
+      "attemptId": "attempt_508b21d4fa4c4868",
+      "exerciseId": "cat_smith_inverted_row",
+      "shot": "r12-smith-inverted-row-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-inverted-row-start/attempt_508b21d4fa4c4868.jpg",
+      "outputSha256": "c9b57a3a1fd0f3ea6020da9921a05be1db598f9e956f2d3801a365d7e5a2e8a9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:18:54.492541+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual master is a CLOSED bent-elbow bodyweight row endpoint rather than the requested arms-straight start. It has a straight heels-to-body line, grounded heels, fixed rail/carriage bar, visible bounded orange mid-back and blue lats from the rear angle. Motion can be authored honestly from this actual closed pose after apparatus correction.",
+        "Both safety collars/stops are far BELOW the fixed bar/carriages, leaving a large drop gap rather than directly underneath. Move the stops directly up to the carriage undersides and show the bar mechanically locked against vertical movement and rotation before motion."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Positive appearance details do not validate future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-inverted-row-start/attempt_508b21d4fa4c4868.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-skullcrusher-start-d895af9e",
+      "attemptId": "attempt_d895af9e135849c5",
+      "exerciseId": "cat_smith_skullcrusher",
+      "shot": "r12-smith-skullcrusher-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-skullcrusher-start/attempt_d895af9e135849c5.jpg",
+      "outputSha256": "3b8ae9382184e0985649c6540dfd21b437950b837d60c4eb3b75d44f18a26d3d",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:18:54.492541+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Flat head/back/pelvis support, grounded feet, narrow closed overhand grips, blank rigid bar/rails and visible attached triceps orange are present.",
+        "The nearly extended hands/bar are over the upper chest rather than directly over the forehead; the actual bench/head must be repositioned relative to the rail plane. The near safety stop is about face height and does not show the prescribed above-face clearance; both stops need to be visibly higher before elbow-extension motion."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Positive appearance details do not validate future animation.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-skullcrusher-start/attempt_d895af9e135849c5.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-standing-smith-press-start-42fc4fe9",
+      "attemptId": "attempt_42fc4fe972dc437f",
+      "exerciseId": "cat_var_standing_smith_press",
+      "shot": "r12-standing-smith-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-standing-smith-press-start/attempt_42fc4fe972dc437f.jpg",
+      "outputSha256": "44fffc30192afff5c53acf483e36a9b0c0dc8f36fcbbd627ed0cc84f5219f908",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:21:15.429035+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual revised composition has now lowered/scaled the standing mannequin: head about245px from the top and shoulders about335px down, with sufficiently smaller arm/plate lengths for a complete overhead press inside the canvas. The complete machine frame and bases remain visible.",
+        "Closed overhand shoulder-height grips, bent elbows, planted feet, upright torso, rigid bar/plates joined to separate rail carriages, attached orange deltoids and blue triceps remain valid. The required overhead bar/plate envelope is now reserved above the head."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected. Frame-envelope judgment is a preflight estimate from visible limb/gear lengths; future motion still requires exact review.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-standing-smith-press-start/attempt_42fc4fe972dc437f.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-drag-curl-start-d3f04d1d",
+      "attemptId": "attempt_d3f04d1db0df45e5",
+      "exerciseId": "cat_smith_drag_curl",
+      "shot": "r12-smith-drag-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-drag-curl-start/attempt_d3f04d1db0df45e5.jpg",
+      "outputSha256": "124797f56d018f313b90ec0b88cb4027056e43331ba3002e7dc332a2678f4a8a",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:23:58.322156+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The grip/pose, biceps-only cue and fiber anatomy remain valid, but the requested reframe was not performed: both outer plate/bar ends still clip at the side edges.",
+        "The frozen prompt was verified to contain the requested full-group80% rescale. This is actual provider non-adherence rather than an assumed unstaged correction; a much wider newly composed camera view is needed."
+      ],
+      "limitations": [
+        "Actual full-resolution master and frozen submitted correction prompt inspected; no future motion is assumed.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-drag-curl-start/attempt_d3f04d1db0df45e5.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-inverted-row-start-443e4cd9",
+      "attemptId": "attempt_443e4cd9c83c4240",
+      "exerciseId": "cat_smith_inverted_row",
+      "shot": "r12-smith-inverted-row-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-inverted-row-start/attempt_443e4cd9c83c4240.jpg",
+      "outputSha256": "ca9f79149b92dcd6dc53576502c9a16542fe5bb1749ab3efc2b2794dbfef5c22",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:23:58.322156+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The valid closed row body/grip/cue pose remains intact.",
+        "Both safety collars/stops remain at their previous low rail positions, hundreds of pixels below the fixed bar carriages; the requested raised direct support did not appear. The exact frozen prompt was checked. The next correction must identify/delete those low collars and place replacements directly below each carriage."
+      ],
+      "limitations": [
+        "Actual full-resolution master and frozen submitted correction prompt inspected; no future motion is assumed.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-inverted-row-start/attempt_443e4cd9c83c4240.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-skullcrusher-start-9d16ed93",
+      "attemptId": "attempt_9d16ed93921445fa",
+      "exerciseId": "cat_smith_skullcrusher",
+      "shot": "r12-smith-skullcrusher-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-skullcrusher-start/attempt_9d16ed93921445fa.jpg",
+      "outputSha256": "244d123741faa32dccb6743f9130878f93793cb527392a64abe309d4720fc642",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:23:58.322156+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The upper arms/hands have changed slightly, but the requested bench/mannequin footward placement did not occur and the near safety block still remains at face height.",
+        "The master does not show both prescribed above-face stops or the clear forehead/rail alignment. The exact frozen corrective prompt was checked; setup remains held, and no paid skull-crusher motion is ready."
+      ],
+      "limitations": [
+        "Actual full-resolution master and frozen submitted correction prompt inspected; no future motion is assumed.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-skullcrusher-start/attempt_9d16ed93921445fa.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-shrug-start-eb904c2e",
+      "attemptId": "attempt_eb904c2e4ee64e84",
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-shrug-start/attempt_eb904c2e4ee64e84.jpg",
+      "outputSha256": "c792695b2b0a10149cdc4c79e89a4b8a6f4112249b28685f116c63f7be3ed878",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:27:43.246110+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual edit removes orange from both rounded deltoid caps and restores gray anatomical fibers throughout the visible legs/feet/arms. The bounded orange trapezius cue remains attached and clear from the rear angle.",
+        "The front-of-thigh bar is normally occluded by the body from this rear view, with both separate hands/rig carriages and straight elbows readable; the planted full body is upright with shoulders naturally lowered. This static resting shrug start has sufficient room for small shoulder/bar elevation."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; future animation still requires independent exact-output review.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-shrug-start/attempt_eb904c2e4ee64e84.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-high-cable-fly-start-2567eeb4",
+      "attemptId": "attempt_2567eeb4412e4b78",
+      "exerciseId": "cat_var_high_cable_fly",
+      "shot": "r12-high-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-high-cable-fly-start/attempt_2567eeb4412e4b78.jpg",
+      "outputSha256": "1164d80ccb48a1178099e3a9ff4cd5e60acf6d86b8e8af821ae277f77b0c2b94",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:27:43.246110+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual closed pose still uses the same near-front camera instead of the requested side view. The upper arms lie near the ribs, hands overlap the abdominal plane, and the near elbow shows a substantial bend rather than a clearly near-straight full-arm forward line.",
+        "The source cannot establish the required arm-length distance in front of the torso that failed in the actual video. With three source outputs already delivered, the fourth source should be a fresh self-contained side-view reconstruction rather than another tightly preserved edit."
+      ],
+      "limitations": [
+        "Actual full-resolution static master inspected; future animation still requires independent exact-output review.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-high-cable-fly-start/attempt_2567eeb4412e4b78.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-ball-crunch-start-5984a05b",
+      "attemptId": "attempt_5984a05bc57d406c",
+      "exerciseId": "cat_var_ball_crunch",
+      "shot": "r12-ball-crunch-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-ball-crunch-start/attempt_5984a05bc57d406c.jpg",
+      "outputSha256": "bb591c1a8f62e567cad81f70467300ae3be1b824fc5c005584de6f001a15c621",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:32:14.655231+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Canonical recheck: the catalog requires the ball to support the LOWER AND MIDDLE back, not the lumbar apex alone. The previous review imposed an unnecessarily narrow apex-placement condition and is superseded.",
+        "Re-inspected the exact actual third master: the lower back contacts the front/top slope and the middle back contacts the upper/rear portion of the ball, while hips/feet stay supported, shoulders/head are comfortably extended, and hands cross the chest. This satisfies the canonical lower-and-middle-back support rather than an upper-back-only bridge.",
+        "Bounded orange abdominals, gray neighboring fibers, opaque shorts, still gray ball, planted bent-knee stance and complete side three-quarter frame are readable. Future animation must keep the ball/hips/feet still and visibly curl the ribs toward the pelvis through a short comfortable range."
+      ],
+      "limitations": [
+        "Actual full-resolution master and current catalog instructions re-inspected. Static support contact is a visual preflight judgment; exact future motion still requires review.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-ball-crunch-start/attempt_5984a05bc57d406c.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-flat-cable-fly-start-ed748855",
+      "attemptId": "attempt_ed748855b7eb47b3",
+      "exerciseId": "cat_var_flat_cable_fly",
+      "shot": "r12-flat-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-flat-cable-fly-start/attempt_ed748855b7eb47b3.jpg",
+      "outputSha256": "7b4634d855d4dad892bd531a132a22a7f231696b57ecf3f71d14bf0f03fede47",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:39:04.635107+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual third master now shows both arms almost straight with a small soft elbow bend, handles together above the chest, gray shoulder caps and orange cues bounded to the pectorals.",
+        "The flat back/head support, planted feet, full bench, real low pulleys and uninterrupted taut cable routes are readable. The subject is smaller with room for the lateral opening envelope."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-flat-cable-fly-start/attempt_ed748855b7eb47b3.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-chest-start-f816d288",
+      "attemptId": "attempt_f816d2881282489e",
+      "exerciseId": "cat_var_incline_cable_chest",
+      "shot": "r12-incline-cable-chest-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-cable-chest-start/attempt_f816d2881282489e.jpg",
+      "outputSha256": "153bf2b1093716e7d61fbae06d3cb18085621ed4a4ddf28569db8a74867b3751",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:39:04.635869+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual third master routes each short taut cable directly from a handle connector to its visible pulley at chest height; neither cable descends to a tower base or makes a slack U.",
+        "Incline pad/back/head support, planted feet, handles beside the upper chest and flexed press-start elbows are plausible. Orange pectorals and subtler blue supporting shoulder/triceps anatomy remain attached and the forward press envelope fits."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-cable-chest-start/attempt_f816d2881282489e.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-fly-start-69b31170",
+      "attemptId": "attempt_69b311709d9b49e9",
+      "exerciseId": "cat_var_incline_cable_fly",
+      "shot": "r12-incline-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-cable-fly-start/attempt_69b311709d9b49e9.jpg",
+      "outputSha256": "8d3979da61988714cbc194a6ecd01aed577522660f3531945e92ed30f02b6017",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:39:04.636431+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The changed actual source is a readable OPEN fly endpoint: both upper arms spread sideways at shoulder level with nearly straight elbows and handles held wide, rather than tucked against the ribs.",
+        "Incline back/head support and planted feet remain steady; full two cable towers/low pulleys and taut cable connections are visible. Orange cues remain on the chest while neighboring fibers are gray. This source supports an opening-plane-preserving motion brief."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-cable-fly-start/attempt_69b311709d9b49e9.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-inverted-row-start-30a63670",
+      "attemptId": "attempt_30a63670d3b74cb9",
+      "exerciseId": "cat_smith_inverted_row",
+      "shot": "r12-smith-inverted-row-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-inverted-row-start/attempt_30a63670d3b74cb9.jpg",
+      "outputSha256": "af70bba54465669c58f23ab49aa3ce917523b6fbb60e5551c2cef52d23bec62d",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:39:04.636734+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual third master has moved the safety stop collars immediately below the bar carriages on both rails. The fixed bar is visibly supported/secured rather than resting far above distant stops.",
+        "The starting pose is the contracted row endpoint, with grounded heels and a straight supported body line. Orange middle-back and blue lats are attached and readable; both grips, arms and bar ends fit. Motion must honestly lower to a straight-arm setup before an independently complete pull-and-return repetition."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-inverted-row-start/attempt_30a63670d3b74cb9.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-low-cable-fly-start-2f5964af",
+      "attemptId": "attempt_2f5964af896f4196",
+      "exerciseId": "cat_var_low_cable_fly",
+      "shot": "r12-low-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-low-cable-fly-start/attempt_2f5964af896f4196.jpg",
+      "outputSha256": "69cd79e35ac26a421bf4c114f6495f1f82f1e1fdbfb575130b39287a48945d6c",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:39:04.637137+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The hands moved higher, but the far upper arm remains against the ribs and its elbow is deeply bent, roughly a right angle; the near elbow also bends substantially instead of the requested small soft fly bend.",
+        "This third source preserves a curl-like closed pose. A fresh side-biased composition must make one-arm-length forward hand distance and nearly straight upper-arm/forearm geometry directly visible before any new paid motion."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-low-cable-fly-start/attempt_2f5964af896f4196.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-chest-start-4d37f7be",
+      "attemptId": "attempt_4d37f7be3cf54bf0",
+      "exerciseId": "cat_var_seated_cable_chest",
+      "shot": "r12-seated-cable-chest-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-chest-start/attempt_4d37f7be3cf54bf0.jpg",
+      "outputSha256": "ce09ea37696b4a387a340c74212ea478e67d3ef4c0f6144aa3ef619132f2702f",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:39:04.637650+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The third source retains the hands below the pectorals at upper-abdominal height rather than beside the chest. The visible left cable still enters from beyond the image edge instead of connecting to a visible chest-height left pulley.",
+        "Anatomical fiber detail, orange chest and blue support cues, back pad and planted feet are usable, but the repeated source edits did not correct the actual grip/pulley placement. A fresh fourth composition is warranted; no readiness is claimed."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-chest-start/attempt_4d37f7be3cf54bf0.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-drag-curl-start-a3120a45",
+      "attemptId": "attempt_a3120a453fd7423a",
+      "exerciseId": "cat_smith_drag_curl",
+      "shot": "r12-smith-drag-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-drag-curl-start/attempt_a3120a453fd7423a.jpg",
+      "outputSha256": "51d766c173843dc4b02d2d33955e861c3a82948b97c15e40b80b6296301534d2",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:39:04.638137+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual third source still crops the left plate and the right bar sleeve/end at the portrait boundaries. The required wider composition was not realized.",
+        "Underhand thigh-height grip, nearly straight arms, bounded orange biceps and rig are plausible, but essential moving bar/plate ends remain outside the frame. A fresh smaller full apparatus composition is required; no fourth-plus source is authorized."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-drag-curl-start/attempt_a3120a453fd7423a.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-skullcrusher-start-e4d65332",
+      "attemptId": "attempt_e4d6533233dc40ae",
+      "exerciseId": "cat_smith_skullcrusher",
+      "shot": "r12-smith-skullcrusher-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-skullcrusher-start/attempt_e4d6533233dc40ae.jpg",
+      "outputSha256": "1fceaeb0b15d9cf60bb6980bea9b64dde2e77991b2159db4085239a3b48a954c",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:39:04.638520+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual third source still shows the near safety stop at about face/forehead height, below the clearance required to prevent the bar from touching the face. The rail/bar projection remains over the neck/upper-chest region rather than clearly above the forehead.",
+        "The bench/arms changed only slightly despite the requested large repositioning. Orange triceps, overhand grip and planted feet remain readable, but the important face-clearance geometry is unresolved. Reset the fourth source as a new self-contained apparatus/bench layout."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-skullcrusher-start/attempt_e4d6533233dc40ae.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-ball-crunch-start-6582e5ff",
+      "attemptId": "attempt_6582e5fffeeb43eb",
+      "exerciseId": "cat_var_ball_crunch",
+      "shot": "r12-ball-crunch-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-ball-crunch-start/attempt_6582e5fffeeb43eb.jpg",
+      "outputSha256": "84eb44f6d0b96cb28bdf13213e92ccc2c41357d3f986adffdea5287fbb70ee75",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:42:24.748981+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The actual fourth source still shows comfortable lower-and-middle-back ball contact, steady planted feet and hips, extended shoulders/head and crossed chest hands. Catalog does not require a lumbar-apex-only placement.",
+        "Attached orange abdominals, gray neighboring fibers, blank gray ball and whole support/working envelope are readable. This fourth output was already in progress when the unnecessary source edit was removed; its exact master is now independently reviewed. The already generated third-source video is reviewed separately."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this does not establish future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-ball-crunch-start/attempt_6582e5fffeeb43eb.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-db-lateral-start-a240b81b",
+      "attemptId": "attempt_a240b81b93de41d4",
+      "exerciseId": "cat_var_incline_db_lateral",
+      "shot": "r12-incline-db-lateral-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-db-lateral-start/attempt_a240b81b93de41d4.jpg",
+      "outputSha256": "e62793acda08d0fd29a2473b97ebb69a264ab230af500304552ce042d48f8f2f",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:42:24.750695+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The fresh fourth source finally makes the body/bench smaller and leaves roughly 300px of white space above the upper shoulder with an arm length around 280px, so the complete raised hand/weight can remain inside the frame.",
+        "One upper-hand dumbbell rests beside the thigh, the upper arm has a soft elbow bend, and the other empty hand braces the bench support. The side-lying trunk/head and braced feet, actual incline bench and attached orange working shoulder are readable. No fifth source is needed; animate only the shown upper arm without rolling the body."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this does not establish future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-db-lateral-start/attempt_a240b81b93de41d4.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-high-cable-fly-start-6d1471d7",
+      "attemptId": "attempt_6d1471d798ff4f40",
+      "exerciseId": "cat_var_high_cable_fly",
+      "shot": "r12-high-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-high-cable-fly-start/attempt_6d1471d798ff4f40.jpg",
+      "outputSha256": "9839da779f502bc2fabea51f8d6b2f21470f2acab64af284b7935104489032a1",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:42:24.751051+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fresh fourth source improves the closed fly geometry: the upper arms now extend forward with a small soft elbow bend and hands farther in front of the lower chest; the full stance and high cable routes are readable.",
+        "However orange primary cues paint the near outer DELTOID cap and a far upper-arm region as well as the pectorals. The catalog specifies chest primary and no secondary muscles. The requested gray neighboring anatomy was not preserved.",
+        "This is the fourth source output for the stable shot. Record an honest source quality hold for the unresolved misplaced orange shoulder/arm cue; no fifth source attempt is proposed and no ready-to-animate verdict is given."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this does not establish future animation.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-high-cable-fly-start/attempt_6d1471d798ff4f40.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-low-cable-fly-start-d36ed44c",
+      "attemptId": "attempt_d36ed44cb1e54adb",
+      "exerciseId": "cat_var_low_cable_fly",
+      "shot": "r12-low-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-low-cable-fly-start/attempt_d36ed44cb1e54adb.jpg",
+      "outputSha256": "9f46f65578616231395f118968694f8185583c8184e35e102ff043d909540b87",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:50:04.085486+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual fourth source has genuinely longer nearly straight arms and visible low-cable routes, but the hands are raised near/above eye level rather than meeting in front of the upper chest.",
+        "The outer near deltoid cap is painted ORANGE in addition to the pectorals, despite the chest-only primary and no secondary-muscle catalog. The failed cue is anatomical rather than a lighting highlight.",
+        "Fourth source output: unresolved endpoint height and misplaced orange shoulder cue are a final source quality hold. No fifth source or animation readiness is proposed."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not motion evidence.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-low-cable-fly-start/attempt_d36ed44cb1e54adb.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-drag-curl-start-589533ce",
+      "attemptId": "attempt_589533ced3804c2d",
+      "exerciseId": "cat_smith_drag_curl",
+      "shot": "r12-smith-drag-curl-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-drag-curl-start/attempt_589533ced3804c2d.jpg",
+      "outputSha256": "de4412b4871269beb2ecb41033a410f8e0bb9128a8a7a96e3db75880cca72915",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:50:04.086103+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual fresh fourth source still clips the left plate/bar sleeve at the left edge and the right bar sleeve/end at the right edge. A genuinely smaller complete moving-bar composition was not produced.",
+        "Orange cues also extend down a forearm/brachioradialis region beyond the biceps-only catalog. Underhand thigh-height grip and nearly straight-arm resting pose remain plausible, but frame/cue defects remain.",
+        "Fourth source output: unresolved plate/bar-end framing and extra orange forearm cues are a final source quality hold. No fifth source or animation readiness is proposed."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not motion evidence.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-drag-curl-start/attempt_589533ced3804c2d.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-skullcrusher-start-52d366ea",
+      "attemptId": "attempt_52d366ea96e14d6e",
+      "exerciseId": "cat_smith_skullcrusher",
+      "shot": "r12-smith-skullcrusher-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-skullcrusher-start/attempt_52d366ea96e14d6e.jpg",
+      "outputSha256": "db1dac11baaf2e0cbe357b203c015737c4a80d62789563e88cff2517002ea0d2",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:50:04.086443+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fresh fourth source provides a narrow overhand extended-arm grip, supported flat bench and visible orange triceps, but the safety-stop upper surfaces remain near face height: the near collar top is about y370 while the forehead is about y355–365.",
+        "There is no clear above-head air gap that would prevent the descending bar from contacting the face. The source did not realize the explicit higher stops above the forehead.",
+        "Fourth source output: unresolved face-clearance stop geometry is a final source quality hold. No fifth source or animation readiness is proposed."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not motion evidence.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-skullcrusher-start/attempt_52d366ea96e14d6e.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-chest-start-d9e2650f",
+      "attemptId": "attempt_d9e2650f603c4a4d",
+      "exerciseId": "cat_var_seated_cable_chest",
+      "shot": "r12-seated-cable-chest-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-cable-chest-start/attempt_d9e2650f603c4a4d.jpg",
+      "outputSha256": "a02a4bcc7e24806bbffe6b11979ba5a53c456b18823a4a113787bfe5cf34052d",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:50:04.087083+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fresh fourth source finally depicts both actual pulleys and complete taut matching cable connections inside the frame. Back/head support and planted feet are visible.",
+        "Both handles/fist centers remain below the bottom of the pectorals at upper-abdominal height, while the required source grips start beside the chest. The repeated grip-height correction has not occurred despite fixing the route.",
+        "Fourth source output: unresolved chest-level grip geometry is a final source quality hold. No fifth source or animation readiness is proposed."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not motion evidence.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-cable-chest-start/attempt_d9e2650f603c4a4d.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-flat-cable-fly-start-cafe04fa",
+      "attemptId": "attempt_cafe04fa28314210",
+      "exerciseId": "cat_var_flat_cable_fly",
+      "shot": "r12-flat-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-flat-cable-fly-start/attempt_cafe04fa28314210.jpg",
+      "outputSha256": "0e7be24f92b8ce19cab62b277be9be12e56050c12b575a1baec3033ae8cd74c0",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:54:28.771326+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual fourth source realizes an overhead long-axis bench view with both arms open and nearly straight, supported back/head, planted feet and real matching pulley routes. The changed camera makes the intended shoulder arc readable.",
+        "However thin ORANGE borders follow the top/outer portions of both shoulder caps above the pectoral boundaries, with additional orange under an upper-arm edge. These do not stay within the chest-only primary anatomy; the catalog has no secondary muscles.",
+        "Fourth source output: the improved camera does not resolve the misplaced anatomical cue. Save a final source quality hold; no fifth source or ready-to-animate verdict is proposed."
+      ],
+      "limitations": [
+        "Exact full-resolution master inspected; still geometry is not future motion evidence.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-flat-cable-fly-start/attempt_cafe04fa28314210.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-shrug-start-4007ddc2",
+      "attemptId": "attempt_4007ddc2161e42d3",
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-shrug-start/attempt_4007ddc2161e42d3.jpg",
+      "outputSha256": "66d02fa0d1b48df2f867d2f031ac98b9d8fb5a66e1785f196aeed1bd1b3bc3f3",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:54:28.771736+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual third source changes to a front-side view with the bar clearly in front of the thighs, closed overhand grips and nearly straight visible elbows. Orange upper trapezius is bounded while deltoids stay gray.",
+        "The safety stop collars remain far below the resting bar (roughly 250–350px), rather than just below its starting carriages as specified in the catalog. This apparatus setup still needs correction before new paid motion.",
+        "The face/head also has smooth human facial skin and dark hair while the body has silver-gray anatomical fibers. A small corrective source edit should preserve the good front-thigh/arm geometry, raise both stop collars directly beneath the bar and restore a consistent gray anatomical head. The fourth source is the final remaining source output."
+      ],
+      "limitations": [
+        "Exact full-resolution master inspected; still geometry is not future motion evidence.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-shrug-start/attempt_4007ddc2161e42d3.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-inverted-row-start-0deb0d70",
+      "attemptId": "attempt_0deb0d70c7cb4a5f",
+      "exerciseId": "cat_smith_inverted_row",
+      "shot": "r12-smith-inverted-row-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-inverted-row-start/attempt_0deb0d70c7cb4a5f.jpg",
+      "outputSha256": "893dfdc01dfc279b24d35ab011b6f61efe827fe9606dff00bbaa49571ce61dab",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:56:32.166104+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fresh fourth source does not realize the proposed straight-arm start: both elbows remain deeply bent and the torso is already at the contracted row endpoint. The heels/feet also do not form a clearly grounded straight-body lower setup.",
+        "Safety stop collars again sit far below the bar instead of directly underneath its secured carriages. The camera/source reset regressed the previously corrected stop relation. Orange middle-back and blue lats remain attached, but necessary starting/support geometry remains unresolved.",
+        "Fourth source output: unresolved straight-arm setup and fixed-bar safety-stop/support geometry are a final source quality hold. No fifth source or ready-to-animate verdict is proposed."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future movement.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-inverted-row-start/attempt_0deb0d70c7cb4a5f.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-fly-start-0ecf7cb4",
+      "attemptId": "attempt_0ecf7cb422974187",
+      "exerciseId": "cat_var_incline_cable_fly",
+      "shot": "r12-incline-cable-fly-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-incline-cable-fly-start/attempt_0ecf7cb422974187.jpg",
+      "outputSha256": "9d39215ea442f7c8e321d02e4b680b1880119ef0f6671f1bcda53373297643e8",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:56:32.166418+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fourth source produces symmetric long open arms with small elbow bends, orange pectorals and gray shoulder caps, plus readable matching pulley routes. The primary-cue defect seen in other fresh fly sources is avoided here.",
+        "The new frontal/high view does not show a reliable 30–35-degree incline back-pad angle or its supporting tilted bench structure: the body/back-pad presentation can read as flat or upright, with only a narrow seat/support visible. It cannot establish the specific incline-bench apparatus identity requested by the catalog. The abdomen/thighs also become smooth instead of the earlier fiber treatment.",
+        "Fourth source output: unresolved observable incline-bench support/angle identity is a final source quality hold. The review does not assert a hidden angle from the prompt or future animation. No fifth source or ready-to-animate verdict is proposed."
+      ],
+      "limitations": [
+        "Exact full-resolution static master inspected; this is not evidence of correct future movement.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-incline-cable-fly-start/attempt_0ecf7cb422974187.jpg"
+      ]
+    },
+    {
+      "assetId": null,
+      "attemptId": "attempt_8d1e554bac1c4a9b",
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-front-squat-start/attempt_8d1e554bac1c4a9b.jpg",
+      "outputSha256": "d50abab631ba7daf98ef9b48c7e6b64923c466ad9e855131bf16d19be020fbdd",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:06:43.222988+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual third source has a plausible secure front rack across the front shoulders with raised upper arms, planted feet, complete moving bar/plates and bounded orange quadriceps. The catalog does not require elbows to sit above the bar; no such extra constraint is imposed.",
+        "Clear BLUE patches appear under both upper-arm/shoulder areas. Catalog supporting muscles are glutes, hamstrings and calves, not shoulders/upper arms; those blue patches are misplaced and should be restored to gray while preserving correct leg cues and the rack.",
+        "Source bytes were inspected while the six-image generation group remains unsettled/unprepared. This is an exact source editorial failure, not a completed-attempt or animation-readiness assertion."
+      ],
+      "limitations": [
+        "Exact full-resolution master bytes inspected; group settlement/preparation is pending and no motion readiness is assumed.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-front-squat-start/attempt_8d1e554bac1c4a9b.jpg"
+      ]
+    },
+    {
+      "assetId": null,
+      "attemptId": "attempt_5127bb5e5d714037",
+      "exerciseId": "cat_smith_step_up",
+      "shot": "r12-smith-step-up-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-step-up-start/attempt_5127bb5e5d714037.jpg",
+      "outputSha256": "cdc63eb8f71a00f3c555be836bbad1b43b71689cf92253495ccc556de8524966",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:06:43.223307+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both foot contacts are now observable: the working foot is wholly on the low box while the trailing foot is on the floor, with a plausible securely held upper-back bar and bounded orange quadriceps.",
+        "The head has only about 40px top margin while the box is roughly 90–100px high. The person must rise by approximately that height as the working leg straightens, so the essential head/shoulder moving envelope would leave the landscape frame. Reserve more than the rise in headroom by an actual smaller/different composition.",
+        "Source bytes were inspected while the six-image generation group remains unsettled/unprepared. This is an exact source editorial failure, not a completed-attempt or animation-readiness assertion."
+      ],
+      "limitations": [
+        "Exact full-resolution master bytes inspected; group settlement/preparation is pending and no motion readiness is assumed.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-step-up-start/attempt_5127bb5e5d714037.jpg"
+      ]
+    },
+    {
+      "assetId": null,
+      "attemptId": "attempt_ee01a548ea494f5a",
+      "exerciseId": "cat_smith_glute_bridge",
+      "shot": "r12-smith-glute-bridge-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_ee01a548ea494f5a.jpg",
+      "outputSha256": "f01881d00d4e49caa32ab52e287c1ffac192ee999a5e1a54d63edd06274c7d2b",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:06:43.223543+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The padded bar contacts the hip crease and the floor-supported head/shoulders, planted feet, blue hamstrings and bounded orange-glute anatomical inset are readable. The separate inset is anatomically coherent, but it does not establish correct apparatus or pose.",
+        "Both diagonal bar ends visibly fail to reach/engage the matching rail guide sleeves/catches. The apparatus therefore reads as an independent free bar beside a Smith frame rather than a bar constrained to its rails.",
+        "The hips are visibly raised midway. The shoulder-to-hip trunk is nearly horizontal while the hip-to-knee thighs angle sharply upward, so this is neither a floor start nor a fully raised trunk/thigh-aligned endpoint. The last source should ground the hips and connect both bar ends/guide sleeves before any complete motion is adopted.",
+        "Source bytes were inspected while the six-image generation group remains unsettled/unprepared. This is an exact source editorial failure, not a completed-attempt or animation-readiness assertion."
+      ],
+      "limitations": [
+        "Exact full-resolution master bytes inspected; group settlement/preparation is pending and no motion readiness is assumed.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_ee01a548ea494f5a.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-front-squat-start-8d1e554b",
+      "attemptId": "attempt_8d1e554bac1c4a9b",
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-front-squat-start/attempt_8d1e554bac1c4a9b.jpg",
+      "outputSha256": "d50abab631ba7daf98ef9b48c7e6b64923c466ad9e855131bf16d19be020fbdd",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:22:34.568424+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual third source has a plausible secure front rack across the front shoulders with raised upper arms, planted feet, complete moving bar/plates and bounded orange quadriceps. The catalog does not require elbows to sit above the bar; no such extra constraint is imposed.",
+        "Clear BLUE patches appear under both upper-arm/shoulder areas. Catalog supporting muscles are glutes, hamstrings and calves, not shoulders/upper arms; those blue patches are misplaced and should be restored to gray while preserving correct leg cues and the rack.",
+        "Additional settlement/provenance audit confirms this same SHA256-pinned master is now a completed, settled source with its prepared asset; the prior visible editorial failures remain unchanged. No animation readiness is granted."
+      ],
+      "limitations": [
+        "Exact full-resolution master was previously visually inspected; this additional review confirms unchanged bytes and settled provenance.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-front-squat-start/attempt_8d1e554bac1c4a9b.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-step-up-start-5127bb5e",
+      "attemptId": "attempt_5127bb5e5d714037",
+      "exerciseId": "cat_smith_step_up",
+      "shot": "r12-smith-step-up-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-step-up-start/attempt_5127bb5e5d714037.jpg",
+      "outputSha256": "cdc63eb8f71a00f3c555be836bbad1b43b71689cf92253495ccc556de8524966",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:22:34.569945+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both foot contacts are now observable: the working foot is wholly on the low box while the trailing foot is on the floor, with a plausible securely held upper-back bar and bounded orange quadriceps.",
+        "The head has only about 40px top margin while the box is roughly 90–100px high. The person must rise by approximately that height as the working leg straightens, so the essential head/shoulder moving envelope would leave the landscape frame. Reserve more than the rise in headroom by an actual smaller/different composition.",
+        "Additional settlement/provenance audit confirms this same SHA256-pinned master is now a completed, settled source with its prepared asset; the prior visible editorial failures remain unchanged. No animation readiness is granted."
+      ],
+      "limitations": [
+        "Exact full-resolution master was previously visually inspected; this additional review confirms unchanged bytes and settled provenance.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-step-up-start/attempt_5127bb5e5d714037.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-glute-bridge-start-ee01a548",
+      "attemptId": "attempt_ee01a548ea494f5a",
+      "exerciseId": "cat_smith_glute_bridge",
+      "shot": "r12-smith-glute-bridge-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_ee01a548ea494f5a.jpg",
+      "outputSha256": "f01881d00d4e49caa32ab52e287c1ffac192ee999a5e1a54d63edd06274c7d2b",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:22:34.570640+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The padded bar contacts the hip crease and the floor-supported head/shoulders, planted feet, blue hamstrings and bounded orange-glute anatomical inset are readable. The separate inset is anatomically coherent, but it does not establish correct apparatus or pose.",
+        "Both diagonal bar ends visibly fail to reach/engage the matching rail guide sleeves/catches. The apparatus therefore reads as an independent free bar beside a Smith frame rather than a bar constrained to its rails.",
+        "The hips are visibly raised midway. The shoulder-to-hip trunk is nearly horizontal while the hip-to-knee thighs angle sharply upward, so this is neither a floor start nor a fully raised trunk/thigh-aligned endpoint. The last source should ground the hips and connect both bar ends/guide sleeves before any complete motion is adopted.",
+        "Additional settlement/provenance audit confirms this same SHA256-pinned master is now a completed, settled source with its prepared asset; the prior visible editorial failures remain unchanged. No animation readiness is granted."
+      ],
+      "limitations": [
+        "Exact full-resolution master was previously visually inspected; this additional review confirms unchanged bytes and settled provenance.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_ee01a548ea494f5a.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-single-db-press-start-4a63be0d",
+      "attemptId": "attempt_4a63be0dc06e475c",
+      "exerciseId": "cat_var_seated_single_db_press",
+      "shot": "r12-seated-single-db-press-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-seated-single-db-press-start/attempt_4a63be0dc06e475c.jpg",
+      "outputSha256": "1db7000822047b852abba19661e6ff8b19a79d6fba887ccd0855406944931870",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:27:58.066565+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exact fourth master shows one dumbbell at the working IMAGE-LEFT shoulder in a closed neutral grip; opposite empty hand rests on its thigh. The subject sits against an upright bench with both planted feet, whole weight and bench base visible.",
+        "Orange is bounded to the actual working deltoid cap, while the unused shoulder and both upper arms/forearms are gray. Subtle blue follows abdominal fibers. Silver-gray anatomical fibers, opaque charcoal shorts, blank gray equipment and white background fit the Anatomical 3D style.",
+        "The fresh composition reserves roughly the upper third as blank white, placing the head at about32% canvas height and the working shoulder below mid-height. It provides sufficient visible overhead envelope for this actual arm/weight to extend while fixed-camera source supports remain readable.",
+        "Source review establishes a safely prepared shoulder-height starting pose, not motion correctness. Catalog per-side press still requires one complete overhead extension, controlled full shoulder-height return without side lean/back arch, and a still finish."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. Video motion is not yet reviewed or assumed from a still.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-seated-single-db-press-start/attempt_4a63be0dc06e475c.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-shrug-start-7e0fa883",
+      "attemptId": "attempt_7e0fa8836a594ec3",
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-shrug-start/attempt_7e0fa8836a594ec3.jpg",
+      "outputSha256": "c44a1e6b5a189f9f4ab013f1bc21b0cc6bebe69b94b9d861b5e2c92dc568657b",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:29:32.643022+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The final source has a clearly connected Smith bar in front of mid thighs, closed overhand grips, long nearly straight elbows, planted feet and an upright trunk. Both whole plate/bar ends and supports are inside the portrait frame.",
+        "The new upper stop collars sit just beneath the current bar/plate/guide region, addressing the previous very low stops. Additional lower machine collars do not replace the visible current upper stop pair.",
+        "Orange follows actual upper trapezius fibers beside the neck, with both deltoid caps and full arms gray. Silver-gray anatomical fibers, opaque charcoal shorts, blank gray gear and white background match the source style.",
+        "This is a prepared lowered-shoulder start. The next motion must lift shoulders vertically toward ears with constant elbow angle and stationary feet/trunk, then return once and remain still; earlier videos incorrectly substituted an elbow-bending row."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. Video motion is not yet reviewed or assumed from a still.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-shrug-start/attempt_7e0fa8836a594ec3.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-front-squat-start-9d589dcb",
+      "attemptId": "attempt_9d589dcbff724d10",
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-front-squat-start/attempt_9d589dcbff724d10.jpg",
+      "outputSha256": "22e83e6c7ed256d630e7ec0749092da0a93b599de421d3aad29f11a6d07c641c",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:29:32.643431+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "ready-to-animate",
+      "evidence": [
+        "The final front-squat source preserves the secure front rack across anterior shoulders and raised upper arms; planted whole feet, visible rail-connected bar/plates and an upright trunk are readable. The catalog permits a front-rack grip and does not require elbows above the bar.",
+        "Unsupported blue patches beneath the upper-arm/shoulder areas have been removed. Orange remains bounded to both quadriceps and a subtle blue calf cue remains on catalog supporting fibers.",
+        "The entire person, whole moving bar ends and feet fit the frame. The lowered squat envelope can remain visible and the visible lower rail stops provide room below a controlled squat depth. Exact range and knee/toe tracking still require video review."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. Video motion is not yet reviewed or assumed from a still.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-front-squat-start/attempt_9d589dcbff724d10.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-glute-bridge-start-8e7b2971",
+      "attemptId": "attempt_8e7b2971c64746cb",
+      "exerciseId": "cat_smith_glute_bridge",
+      "shot": "r12-smith-glute-bridge-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_8e7b2971c64746cb.jpg",
+      "outputSha256": "c15769c47ef2a94865aecc450415528965c7ccefb5a8c27514bec1baf2cda770",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:29:32.643747+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fourth source still fails to connect either diagonal bar end to the rail guide sleeves/catches. It reads as a free bar held over the hip crease beside a Smith frame rather than a rail-constrained Smith bar.",
+        "The hips remain raised midway, with nearly horizontal trunk and sharply upward-angled thighs; this is neither a floor start nor the fully raised trunk/thigh-aligned endpoint specified by the catalog.",
+        "The correct padded hip contact, floor shoulder/head support, planted feet, blue hamstrings and bounded orange-glute anatomical inset do not solve the apparatus and pose failures.",
+        "Four source outputs are exhausted. No fifth source or animation readiness is proposed; hold this exercise for quality."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. Video motion is not yet reviewed or assumed from a still.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-glute-bridge-start/attempt_8e7b2971c64746cb.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-step-up-start-dced15b8",
+      "attemptId": "attempt_dced15b8962c4289",
+      "exerciseId": "cat_smith_step_up",
+      "shot": "r12-smith-step-up-start",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/masters/r12-smith-step-up-start/attempt_dced15b8962c4289.jpg",
+      "outputSha256": "9e97164df53ab82f97892e93d99bf595bd2b1dfdfa0c0960e4c6e9b8930877f8",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:29:32.643967+00:00",
+      "reviewKind": "exact-master-starting-reference-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Portrait composition leaves a large flat gray rectangle across the upper third with an abrupt horizontal cut through the rail uprights; this is a malformed canvas/equipment continuation rather than the requested seamless white studio.",
+        "The working foot remains on the box, but the trailing foot visibly floats well above the floor while the working knee remains deeply bent. This does not provide the catalog prepared foot-contact start or a fully risen aligned endpoint.",
+        "Most exposed chest, shoulders, arms, abdomen and parts of the legs have smooth mannequin skin rather than the anatomical muscle-fiber surface. Only the orange working-quadriceps patch retains readable fibers.",
+        "Four source outputs are exhausted. No fifth source or animation readiness is proposed; hold this exercise for quality."
+      ],
+      "limitations": [
+        "Exact full-resolution settled master inspected. Video motion is not yet reviewed or assumed from a still.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r12-smith-step-up-start/attempt_dced15b8962c4289.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-high-cable-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-high-cable-fly-t2v-ef2906c6.json"
+    },
+    {
+      "shot": "r12-incline-cable-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-incline-cable-fly-t2v-c7500be7.json"
+    },
+    {
+      "shot": "r12-flat-db-rear-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-flat-db-rear-fly-t2v-7484262c.json"
+    },
+    {
+      "shot": "r12-decline_ez_triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-decline_ez_triceps-t2v-b0c95eb7.json"
+    },
+    {
+      "shot": "r12-smith-shrug-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-start-dfc437f7.json"
+    },
+    {
+      "shot": "r12-smith-drag-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-drag-curl-start-b49062cd.json"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ class ObservationRefused(ValueError):
   super().__init__(message)
   self.evidence=dict(evidence,sourceType='flow-ui-observation-diagnostic',quoteUsable=False,failure=message)
 
-async def observe(kind, *, aspect='9:16', duration=8, profile=None, model=None):
+async def observe(kind, *, aspect='9:16', duration=8, profile=None, model=None, project_id=None):
  from gflow_cli.api.client import FlowApiClient
  from gflow_cli.api.transports.migrated_composer import MigratedComposer
  from gflow_cli.api.image import Aspect as ImageAspect,GenerateImageRequest,Model
@@ -28,6 +28,8 @@ async def observe(kind, *, aspect='9:16', duration=8, profile=None, model=None):
   model_key=media.pilot_model_key(effective_model,None if kind=='image' else duration,frame_mode,aspect)
  root=Path(__file__).resolve().parents[1]
  m=json.loads((root/'form-media/manifest.json').read_text())
+ target_project=project_id if project_id is not None else m['projectId']
+ if not isinstance(target_project,str) or not target_project.strip():raise ValueError('An explicit nonempty project ID is required.')
  profile_name=profile or 'shouburu'
  profile_path=Path.home()/'Library/Application Support/gflow-cli/profile_shouburu'
  if profile is not None:
@@ -44,8 +46,8 @@ async def observe(kind, *, aspect='9:16', duration=8, profile=None, model=None):
      if await pane.count() and await pane.is_visible():
       self.captured=(await pane.inner_text(),await pane.locator('[aria-checked="true"]').all_text_contents())
     await super()._close_pane(page,strict=strict)
-  page=client._page;composer=ObserverComposer();await composer.ensure_editor(page,m['projectId'])
-  result=dict(sourceType='flow-ui-observation',observer='gflow CLI browser DOM observer',source='Live Flow composer and account-panel visible DOM; no generation submitted',projectId=m['projectId'],profile=profile_name)
+  page=client._page;composer=ObserverComposer();await composer.ensure_editor(page,target_project)
+  result=dict(sourceType='flow-ui-observation',observer='gflow CLI browser DOM observer',source='Live Flow composer and account-panel visible DOM; no generation submitted',projectId=target_project,profile=profile_name)
   resolution_failure=None
   if kind:
    if kind=='image':await composer.apply_image_settings(page,GenerateImageRequest(prompt='Observation only; never submitted',model=Model.GEM_PIX_2,aspect=ImageAspect.from_cli(aspect),count=1))
@@ -77,8 +79,8 @@ async def observe(kind, *, aspect='9:16', duration=8, profile=None, model=None):
   return result
 
 if __name__=='__main__':
- p=argparse.ArgumentParser(description=__doc__);p.add_argument('--kind',choices=['image','video','text-video']);p.add_argument('--model',choices=list(media.PILOT_MODEL_LABELS),help='Exact picker model; defaults to nano-pro for image, omni-flash for video.');p.add_argument('--aspect',choices=['9:16','16:9','4:3','1:1'],default='9:16');p.add_argument('--duration',type=int,choices=[6,8,10],default=8,help='Exact video duration; Veo is limited to 6 or 8 seconds here.');p.add_argument('--profile',help='A configured generationWorkers name; omitted uses the normal shouburu observer profile.');p.add_argument('--output',required=True);a=p.parse_args()
- try:result=asyncio.run(observe(a.kind,aspect=a.aspect,duration=a.duration,profile=a.profile,model=a.model))
+ p=argparse.ArgumentParser(description=__doc__);p.add_argument('--kind',choices=['image','video','text-video']);p.add_argument('--model',choices=list(media.PILOT_MODEL_LABELS),help='Exact picker model; defaults to nano-pro for image, omni-flash for video.');p.add_argument('--aspect',choices=['9:16','16:9','4:3','1:1'],default='9:16');p.add_argument('--duration',type=int,choices=[6,8,10],default=8,help='Exact video duration; Veo is limited to 6 or 8 seconds here.');p.add_argument('--profile',help='A configured generationWorkers name; omitted uses the normal shouburu observer profile.');p.add_argument('--project-id',help='Observe this existing project without changing the manifest default.');p.add_argument('--output',required=True);a=p.parse_args()
+ try:result=asyncio.run(observe(a.kind,aspect=a.aspect,duration=a.duration,profile=a.profile,model=a.model,project_id=a.project_id))
  except ObservationRefused as error:
   out=Path(a.output);out.parent.mkdir(parents=True,exist_ok=True);out.write_text(json.dumps(error.evidence,indent=2)+'\n')
   raise SystemExit(str(error)+' Diagnostic: '+str(out))

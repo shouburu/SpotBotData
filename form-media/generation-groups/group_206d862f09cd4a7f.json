@@ -1,0 +1,35 @@
+{
+  "id": "group_206d862f09cd4a7f",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T13:39:04+00:00",
+  "balanceBefore": 663,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_floor_glute_ham_raise_dd4c4e89",
+      "shot": "r13-open_floor_glute_ham_raise_dd4c4e89-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "903791c29357e47b0754056d189d484285556cf46275bc8cbdd89060936c3c3b",
+      "quoteFile": "form-media/ui-quotes/r13-open_floor_glute_ham_raise_dd4c4e89-start-paced-9e9184d0.json",
+      "quoteSha256": "258770276c1ee5277b0a21f2620210932d2d84db5db843ec23d2eb7894b024e0",
+      "quoteCredits": 0,
+      "balance": 663,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_floor_glute_ham_raise_dd4c4e89-start/attempt_d3b030d5585d428c.jpg",
+          "sha256": "07fc07afb3dc1d98b43113f85c8fa015ef28c2efc00aab8d11a05aefa2d0c97a"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T13:40:07+00:00",
+  "balanceAfter": 663,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-70df320e1cb54f5b.json",
+  "evidenceSha256": "88e8e08bb26b985010b9ae87282cd25dcd4fddec389226fcddec16a8dc09a622",
+  "terminalFailureIds": []
+}

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_glute_kickback_ca0b85d2-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_glute_kickback_ca0b85d2-start-1c2d2e5a.json"
+    },
+    {
+      "shot": "r13-open_leg_lift_7bf3c8b4-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_leg_lift_7bf3c8b4-start-f3abb2b2.json"
+    },
+    {
+      "shot": "r13-open_superman_27d5233d-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_superman_27d5233d-start-799bfa67.json"
+    },
+    {
+      "shot": "r13-open_lower_back_curl_dd4375a1-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_lower_back_curl_dd4375a1-start-04dd8e9f.json"
+    },
+    {
+      "shot": "r13-cat_pil_swan_prep-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_swan_prep-start-268e587a.json"
+    },
+    {
+      "shot": "r13-ex_woodchopper-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_woodchopper-start-c2065e00.json"
+    }
+  ]
+}

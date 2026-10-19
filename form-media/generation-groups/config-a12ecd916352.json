@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_mob_scapular_pushup-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_mob_scapular_pushup-start-71357160.json"
+    },
+    {
+      "shot": "r13-open_body_tricep_press_cd8e102d-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_body_tricep_press_cd8e102d-start-64ddef2f.json"
+    },
+    {
+      "shot": "r13-open_decline_push_up_981019c1-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_decline_push_up_981019c1-start-0bf1eda5.json"
+    },
+    {
+      "shot": "r13-open_bench_dips_4a7e0804-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_bench_dips_4a7e0804-start-81da1444.json"
+    },
+    {
+      "shot": "r13-open_external_rotation_wit_21f1b71c-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_external_rotation_wit_21f1b71c-start-739be352.json"
+    },
+    {
+      "shot": "r13-open_internal_rotation_wit_18c67d97-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_internal_rotation_wit_18c67d97-start-fb78f47a.json"
+    }
+  ]
+}

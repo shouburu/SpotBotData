@@ -1,0 +1,50 @@
+{
+  "id": "group_765a5146bf6440a7",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T21:38:02+00:00",
+  "balanceBefore": 3033,
+  "quotedCredits": 112,
+  "members": [
+    {
+      "exerciseId": "cat_var_single_cable_curl",
+      "shot": "r12-single-cable-curl-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "e53f85f16d1be0a96b935ed27b5368a49bd4b04812ee7de62d4d0c194faf056d",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-curl-t2v-8efa7215.json",
+      "quoteSha256": "8ffedb2c8ed1354cbf2c14d547edfd007e272fb448eaced8de1b772014dc2c0e",
+      "quoteCredits": 100,
+      "balance": 3033,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-single-cable-curl-start/attempt_aecd15f3b0f74d46.jpg",
+          "sha256": "d3160174f9de55716d28a683a113fb7103ac2d5f557a5fdbd94f0050315c9483"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "c7bcbc42f55bea7a704bd253b3c90308981471ef8aae2b5c215d23fea597ab58",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-video-3a941dcc.json",
+      "quoteSha256": "2b01447e1b04f090f9789f1b01ac9c7763f35989b0eb52bf697b25d2ef298553",
+      "quoteCredits": 12,
+      "balance": 3033,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-shrug-start/attempt_7e0fa8836a594ec3.jpg",
+          "sha256": "c44a1e6b5a189f9f4ab013f1bc21b0cc6bebe69b94b9d861b5e2c92dc568657b"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T21:39:53+00:00",
+  "balanceAfter": 2921,
+  "actualCredits": 112,
+  "evidenceFile": "form-media/ui-quotes/observed-b8176a692bbd4812.json",
+  "evidenceSha256": "1588519502729cc8f89fb499a130881e957d2ae67e21022c1d5254b9a26378a9",
+  "terminalFailureIds": []
+}

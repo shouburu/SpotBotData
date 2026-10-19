@@ -1,0 +1,94 @@
+{
+  "id": "group_53441eb8c15f4293",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:02:56+00:00",
+  "balanceBefore": 2343,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_bal_side_step_hold",
+      "shot": "r13-cat_bal_side_step_hold-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "3cee70004682232d642b39b1242275668a2201f3670e0bf5b4e7b57a3a6fd3c4",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_side_step_hold-start-c3504bfe.json",
+      "quoteSha256": "758742243d387d6410de4d6382dbda6e6587dd2f8dcc695fc24fad548bd8cdc7",
+      "quoteCredits": 0,
+      "balance": 2343,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_cal_assisted_pullup",
+      "shot": "r13-cat_cal_assisted_pullup-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "96a169d78c181a63a7eebc4b2023dbffd0f8b39e08bd540fa6bfd2f9476f406d",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_assisted_pullup-start-1b0e4a61.json",
+      "quoteSha256": "282d97769e1896d0d9c5b6bd20bdc4779ae5bb25fcad8302f1a0fcc2fcaf4223",
+      "quoteCredits": 0,
+      "balance": 2343,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_bal_quarter_turn",
+      "shot": "r13-cat_bal_quarter_turn-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "0391ace2359893e2d216f4d16c16a0cd61870464e13da3d173ba8f43c7f69ab9",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_quarter_turn-start-9a808697.json",
+      "quoteSha256": "d6ffaee2db8b9d90db838976c7c98a8bdfa8028854821477dfc31a9df12b4d3c",
+      "quoteCredits": 0,
+      "balance": 2343,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_cond_squat_calf_raise",
+      "shot": "r13-cat_cond_squat_calf_raise-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "20b06ddc195c8660c429861b5702b1115f3b405536692936f94fcc41b4d6b751",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cond_squat_calf_raise-start-597528e5.json",
+      "quoteSha256": "987c7278e12b7720f99a91c9844338f8533cb3546513c662de2ba3470df7c117",
+      "quoteCredits": 0,
+      "balance": 2343,
+      "references": []
+    },
+    {
+      "exerciseId": "open_oblique_crunches_on_t_30346079",
+      "shot": "r13-open_oblique_crunches_on_t_30346079-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "c5e5b210ed841b1731a8fa75c477cfc38beb32d83485b6502257024b7d0a8777",
+      "quoteFile": "form-media/ui-quotes/r13-open_oblique_crunches_on_t_30346079-start-6cc36700.json",
+      "quoteSha256": "d319667bf493345ff46cc4f418bbecacf1e93650a39eb3bd62e40b5ae2df03e1",
+      "quoteCredits": 0,
+      "balance": 2343,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_oblique_crunches_on_t_30346079-start/attempt_9c208f34434240c3.jpg",
+          "sha256": "20f0da919917e0945f65545421cddcee79790cfa6a006956c98f67034b1d07d8"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_dead_bug_legs_only",
+      "shot": "r13-cat_cal_dead_bug_legs_only-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "28401a4f89479ff56e41fc196331f931409de8ca08493cd3b931f2a0ed5e04cc",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_dead_bug_legs_only-start-c87c5d44.json",
+      "quoteSha256": "78cd7e7c9d03de4b1e59db4c6cb7f05eee5272ae870e1829c45c8fa5b951c0c0",
+      "quoteCredits": 0,
+      "balance": 2343,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_dead_bug_legs_only-start/attempt_a02ddc8e621e43d6.jpg",
+          "sha256": "739bd908617b265e42608dc767d85775f2d65036223dc9a285e44b83b6e6acb5"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:04:35+00:00",
+  "balanceAfter": 2343,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-8718f1a2aeba4430.json",
+  "evidenceSha256": "1977109a24a6b34fc94cc7086ab4810e3f09216d5435044127b54f2cad751fd6",
+  "terminalFailureIds": []
+}

@@ -85,11 +85,16 @@ function mediaUpdateLabel(exercise) {
 }
 function exerciseAttempts(id) { return list(ui.data?.attempts).filter(attempt => attempt.exerciseId === id); }
 function visibleInRound(asset, exercise) {
-  return !ui.round || assetRoundId(asset) === ui.round
+  return !ui.round || assetInRound(asset, ui.round)
     || (ui.round === activeRoundId() && draftFor(exercise).selectedAssetIds.includes(asset.id));
 }
 function activeRoundId() { return ui.data?.activeRoundId || 'round-1'; }
 function assetRoundId(asset) { return asset.roundId || 'round-1'; }
+function assetInRound(asset, roundId) {
+  const round = list(ui.data?.rounds).find(item => item.id === roundId);
+  // A review round references existing outputs without changing generation provenance.
+  return round?.kind === 'review' ? list(round.reviewAssetIds).includes(asset.id) : assetRoundId(asset) === roundId;
+}
 function roundLabel(id) {
   const round = list(ui.data?.rounds).find(item => item.id === id);
   return round?.title?.split('·')[0].trim() || titleCase(id);
@@ -172,7 +177,7 @@ function filteredExercises() {
     if (ui.activity && !list(exercise.metadata?.activities).includes(ui.activity)) return false;
     if (ui.format && exercise.teachingFormat !== ui.format) return false;
     if (ui.status && queueStatus(exercise) !== ui.status) return false;
-    if (ui.generatedRound && !reviewMedia(exercise).some(asset => assetRoundId(asset) === ui.generatedRound)) return false;
+    if (ui.generatedRound && !reviewMedia(exercise).some(asset => assetInRound(asset, ui.generatedRound))) return false;
     const searchable = [exercise.name, exercise.muscle_group, exercise.bodyPosition, exercise.compound === true ? 'compound' : '', ...list(exercise.metadata?.equipment), ...list(exercise.metadata?.aliases), ...list(exercise.metadata?.primaryMuscles), ...list(exercise.metadata?.secondaryMuscles)].join(' ').toLocaleLowerCase();
     return ui.search.toLocaleLowerCase().split(/\s+/).filter(Boolean).every(term => searchable.includes(term));
   }).sort((a, b) => (ui.scope === 'pilot' ? (number(a.priority) ?? 99) - (number(b.priority) ?? 99) : 0) || a.name.localeCompare(b.name));
@@ -181,15 +186,17 @@ function filteredExercises() {
 function renderSummary() {
   const exercises = ui.data.exercises;
   const pilots = pilotExercises();
+  const activeRound = list(ui.data.rounds).find(round => round.id === activeRoundId());
+  const needsReviewCount = exercises.filter(exercise => queueStatus(exercise) === 'needs-review').length;
   const pilotAccepted = pilots.filter(exercise => exercise.reviewStatus === 'accepted').length;
-  const drafted = pilots.filter(exercise => reviewMedia(exercise).some(asset => assetRoundId(asset) === activeRoundId())).length;
+  const drafted = pilots.filter(exercise => reviewMedia(exercise).some(asset => assetInRound(asset, activeRoundId()))).length;
   const videoCandidates = pilots.filter(exercise => list(ui.data.assets).some(asset =>
-    asset.exerciseId === exercise.id && assetRoundId(asset) === activeRoundId() && asset.kind === 'video'
+    asset.exerciseId === exercise.id && assetInRound(asset, activeRoundId()) && asset.kind === 'video'
     && isUnflaggedCandidate(asset) && ['candidate', 'accepted'].includes(asset.editorialReview?.status))).length;
   const videoProgress = pilots.length && pilots.every(exercise => exercise.teachingFormat === 'video')
     ? `${videoCandidates} have AI-reviewed video candidates · ` : '';
   $('queue-progress').replaceChildren(
-    node('strong', {}, `${exercises.filter(exercise => queueStatus(exercise) === 'needs-review').length} need review across catalog · ${roundLabel(activeRoundId())}: ${drafted} of ${pilots.length} have new review media`),
+    node('strong', {}, `${needsReviewCount} need review across catalog · ${roundLabel(activeRoundId())}: ${activeRound?.status === 'review-complete' && !needsReviewCount ? 'review complete' : `${drafted} of ${pilots.length} have review media`}`),
     node('span', {}, `${videoProgress}${pilotAccepted} accepted or carried forward · ${exercises.length} catalog exercises tracked · Earlier reviews retained`),
   );
   const budget = ui.data.budget || {};
@@ -211,11 +218,11 @@ function renderSummary() {
 function renderList() {
   const exercises = filteredExercises();
   $('result-count').textContent = fmtNumber(exercises.length);
-  $('mobile-result-count').textContent = `${exercises.length} ${ui.scope === 'pilot' ? 'in pilot' : 'results'}`;
+  $('mobile-result-count').textContent = `${exercises.length} ${ui.scope === 'pilot' ? 'in queue' : 'results'}`;
   const filterCount = [ui.activity, ui.format, ui.status, ui.generatedRound].filter(Boolean).length;
   $('active-filter-count').textContent = filterCount ? `(${filterCount})` : '';
   $('scope-pilot').setAttribute('aria-pressed', String(ui.scope === 'pilot'));
-  $('scope-pilot').textContent = `${roundLabel(activeRoundId())} pilot`;
+  $('scope-pilot').textContent = `${roundLabel(activeRoundId())} queue`;
   $('scope-all').setAttribute('aria-pressed', String(ui.scope === 'all'));
   const fragment = document.createDocumentFragment();
   for (const exercise of exercises) {
@@ -243,7 +250,7 @@ function setCatalogOpen(open) {
 function selectExercise(id, focus = false) {
   ui.selectedId = id;
   const selected = currentExercise();
-  if (selected && ui.round && !reviewMedia(selected).some(asset => assetRoundId(asset) === ui.round)) ui.round = '';
+  if (selected && ui.round && !reviewMedia(selected).some(asset => assetInRound(asset, ui.round))) ui.round = '';
   syncExerciseHash();
   renderList(); renderDetail();
   if (matchMedia('(max-width: 720px)').matches) {
@@ -307,9 +314,9 @@ function defaultAsset(exercise, assets) {
   // Failed or unscreened gated-round drafts remain selectable in Versions,
   // but are not the automatic teaching preview.
   assets = assets.filter(isReleasedForReview);
-  const current = assets.filter(asset => assetRoundId(asset) === activeRoundId());
+  const current = assets.filter(asset => assetInRound(asset, activeRoundId()));
   const selected = draftFor(exercise).selectedAssetIds.map(id => assets.find(asset => asset.id === id)).filter(Boolean);
-  const selectedCurrent = selected.filter(asset => assetRoundId(asset) === activeRoundId());
+  const selectedCurrent = selected.filter(asset => assetInRound(asset, activeRoundId()));
   if (exercise.teachingFormat === 'text' && !selected.length) return null;
   const preferredKind = exercise.teachingFormat === 'external' ? 'external' : exercise.teachingFormat === 'video' ? 'video' : 'image';
   const fresh = newReviewMedia(exercise).filter(asset => assets.some(visible => visible.id === asset.id));
@@ -449,7 +456,7 @@ function mediaPreview(exercise, asset, comparison = false) {
 
 function candidateControls(exercise, assets, active, allAssets) {
   if (!allAssets.length) return null;
-  const hasCarried = ui.round && assets.some(asset => assetRoundId(asset) !== ui.round);
+  const hasCarried = ui.round && assets.some(asset => !assetInRound(asset, ui.round));
   const section = node('section', { class: 'candidate-list', 'aria-label': 'Candidate media versions' }, [node('h3', {}, `${assets.length} candidate${assets.length === 1 ? '' : 's'}${ui.round ? ` · ${roundLabel(ui.round)}${hasCarried ? ' + carried selections' : ''}` : ' · All rounds'}`)]);
   if (!assets.length) section.append(node('p', { class: 'subtle' }, 'Choose another candidate round above to see earlier assets. You can also open one for comparison below.'));
   const draft = draftFor(exercise);
@@ -547,7 +554,8 @@ async function saveReview(exercise) {
     announce('Select at least one candidate asset before accepting this exercise.');
     return;
   }
-  const payload = { exerciseId: exercise.id, roundId: draft.roundId, reviewStatus: draft.reviewStatus, notes: draft.notes, selectedAssetIds: [...draft.selectedAssetIds], reviewedAssetIds: exerciseAssets(exercise.id).map(asset => asset.id) };
+  const seen = new Set([...list(exercise.reviewedAssetIds), ...exerciseAssets(exercise.id).filter(asset => visibleInRound(asset, exercise)).map(asset => asset.id), ...draft.selectedAssetIds]);
+  const payload = { exerciseId: exercise.id, roundId: draft.roundId, reviewStatus: draft.reviewStatus, notes: draft.notes, selectedAssetIds: [...draft.selectedAssetIds], reviewedAssetIds: [...seen] };
   ui.saving.add(exercise.id); renderDetail();
   try {
     const response = await fetch('/api/review', { method: 'POST', headers: { 'Content-Type': 'application/json', Accept: 'application/json' }, body: JSON.stringify(payload) });
@@ -701,7 +709,7 @@ function candidateRoundControl(exercise) {
     ui.previews.delete(exercise.id);
     renderDetail();
   } } }, [
-    ...list(ui.data.rounds).map(round => node('option', { value: round.id }, `${roundLabel(round.id)}${round.id === activeRoundId() ? ' · Current round' : ''}`)),
+    ...list(ui.data.rounds).slice().reverse().map(round => node('option', { value: round.id }, `${roundLabel(round.id)}${round.id === activeRoundId() ? ' · Current review queue' : ''}`)),
     node('option', { value: '' }, 'All rounds'),
   ]);
   select.value = ui.round || '';
@@ -816,7 +824,7 @@ function renderDetail() {
 }
 
 function populateFilters() {
-  $('filter-generated-round').replaceChildren(node('option', { value: '' }, 'All generation rounds'), ...list(ui.data.rounds).slice().reverse().map(round => node('option', { value: round.id }, roundLabel(round.id))));
+  $('filter-generated-round').replaceChildren(node('option', { value: '' }, 'All rounds'), ...list(ui.data.rounds).slice().reverse().map(round => node('option', { value: round.id }, `${roundLabel(round.id)}${round.kind === 'review' ? ' · Remaining videos' : ''}`)));
   $('filter-generated-round').value = ui.generatedRound;
   const activities = [...new Set(ui.data.exercises.flatMap(exercise => list(exercise.metadata?.activities)))].sort();
   $('filter-activity').replaceChildren(node('option', { value: '' }, 'All activities'), ...activities.map(activity => node('option', { value: activity }, titleCase(activity))));
@@ -836,7 +844,11 @@ async function loadState() {
     if (!Array.isArray(data.exercises) || !data.exercises.every(exercise => exercise && typeof exercise.id === 'string' && typeof exercise.name === 'string')) throw new Error('The local server returned an unreadable exercise catalog.');
     for (const [id, draft] of ui.drafts) if (!draft.dirty) ui.drafts.delete(id);
     const previousActiveRound = activeRoundId();
+    const firstLoad = !ui.data;
     ui.data = data;
+    if (firstLoad && list(data.rounds).some(round => round.id === activeRoundId() && round.kind === 'review')) {
+      ui.generatedRound = activeRoundId();
+    }
     if (ui.round === null || (ui.round === previousActiveRound && previousActiveRound !== activeRoundId())) ui.round = activeRoundId();
     if (ui.round && !list(data.rounds).some(round => round.id === ui.round)) ui.round = activeRoundId();
     if (!ui.selectedId) {
@@ -864,8 +876,8 @@ async function loadState() {
 
 $('refresh').addEventListener('click', loadState);
 $('search').addEventListener('input', event => { ui.search = event.target.value; if (ui.data) applyFilters(); });
-$('scope-pilot').addEventListener('click', () => { ui.scope = 'pilot'; if (ui.data) applyFilters(); });
-$('scope-all').addEventListener('click', () => { ui.scope = 'all'; if (ui.data) applyFilters(); });
+$('scope-pilot').addEventListener('click', () => { ui.scope = 'pilot'; ui.generatedRound = activeRoundId(); ui.round = activeRoundId(); $('filter-generated-round').value = ui.generatedRound; if (ui.data) applyFilters(); });
+$('scope-all').addEventListener('click', () => { ui.scope = 'all'; ui.generatedRound = ''; ui.round = ''; $('filter-generated-round').value = ''; if (ui.data) applyFilters(); });
 for (const key of ['activity', 'format', 'status']) $('filter-' + key).addEventListener('change', event => { ui[key] = event.target.value; if (ui.data) applyFilters(); });
 $('filter-generated-round').addEventListener('change', event => { ui.generatedRound = event.target.value; ui.scope = 'all'; ui.round = ui.generatedRound; if (ui.data) applyFilters(); });
 $('show-needs-review').addEventListener('click', () => { ui.scope = 'all'; ui.status = 'needs-review'; ui.generatedRound = ''; ui.round = ''; $('filter-status').value = ui.status; $('filter-generated-round').value = ''; if (ui.data) applyFilters(); });

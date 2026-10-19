@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_wind_sprints_d7829971-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_wind_sprints_d7829971-start-d8bb9b4a.json"
+    },
+    {
+      "shot": "r13-cat_cal_eccentric_pullup-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_eccentric_pullup-start-f7c5fbcf.json"
+    },
+    {
+      "shot": "r13-open_speed_band_overhead_t_4f889ac0-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_speed_band_overhead_t_4f889ac0-start-7d8bd683.json"
+    },
+    {
+      "shot": "r13-open_single_leg_high_box_s_4d516c61-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_single_leg_high_box_s_4d516c61-start-cac3aaf3.json"
+    },
+    {
+      "shot": "r13-open_one_arm_kettlebell_pu_2bbee6ad-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_one_arm_kettlebell_pu_2bbee6ad-start-1f3fbcc0.json"
+    },
+    {
+      "shot": "r13-open_double_kettlebell_pus_6ee251c9-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_double_kettlebell_pus_6ee251c9-start-fdd611a9.json"
+    }
+  ]
+}

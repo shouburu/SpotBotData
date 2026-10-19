@@ -1,16 +1,17 @@
 {
   "schemaVersion": 2,
-  "catalogVersion": "2026.09.29.2",
-  "catalogRevision": 17,
-  "updatedAt": "2026-09-29T20:53:10.579342+00:00",
+  "catalogVersion": "2026.10.17.3",
+  "catalogRevision": 25,
+  "updatedAt": "2026-10-17",
   "purpose": "One recommended YouTube video for every active catalog exercise, preserving the six human-approved references and the two explicitly requested Round 11 replacements.",
   "selectionPolicy": "Prefer concise demonstrations from exercise publishers matching the catalog movement and equipment. Use source-verified excerpts for longer instructions. Preserve existing exact-asset human selections. Authoring recommendations do not approve generated assets.",
   "availabilityPolicy": "Every selected URL returned public YouTube oEmbed video metadata. Watch-player availability was additionally checked where recorded; selected ambiguous movements received visual spot checks. This is not exhaustive playback, regional availability or trainer verification. Unavailable embeds retain text and the search action.",
   "counts": {
-    "activeExercises": 439,
-    "references": 439,
+    "activeExercises": 474,
+    "references": 445,
     "humanApprovedReferences": 6,
-    "publicEmbedMetadata": 439
+    "publicEmbedMetadata": 445,
+    "textOnlyExercises": 29
   },
   "references": [
     {
@@ -108,33 +109,29 @@
     },
     {
       "exerciseId": "ex_cable_fly",
-      "url": "https://www.youtube.com/watch?v=aoP0s_MjN-g",
-      "title": "Cable Crossover - Chest Exercise - Bodybuilding.com",
-      "source": "Bodybuilding.com",
+      "exerciseName": "Standing Mid-Height Cable Fly",
+      "url": "https://www.youtube.com/watch?v=7Sb0HtOfCaI",
+      "title": "How To Do A Middle Cable Fly | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
       "orientation": "landscape",
       "selectionStatus": "ai-curated-at-user-request",
       "userApproved": false,
       "editorialEvidence": [
-        "https://www.youtube.com/watch?v=aoP0s_MjN-g — Publisher identifies cable crossover chest demonstration."
+        "https://www.youtube.com/watch?v=7Sb0HtOfCaI — Publisher title and public embed metadata identify How To Do A Middle Cable Fly | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
       ],
       "limitations": [
-        "Matched against publisher title/description and catalog instructions; not a complete visual or trainer review."
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
       ],
-      "reviewedAt": "2026-09-23T03:01:40.043Z",
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
       "reviewer": "Codex",
-      "exerciseName": "Cable Crossover",
       "availability": {
-        "videoId": "aoP0s_MjN-g",
+        "videoId": "7Sb0HtOfCaI",
         "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:50.330218+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaoP0s_MjN-g&format=json",
-        "publisherTitle": "Cable Crossover - Chest Exercise - Bodybuilding.com",
-        "publisherName": "Bodybuilding.com",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:50.330218+00:00"
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D7Sb0HtOfCaI&format=json",
+        "publisherTitle": "How To Do A Middle Cable Fly | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
       },
-      "durationSeconds": 67,
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
@@ -464,7 +461,7 @@
       ],
       "reviewedAt": "2026-09-23T03:01:40.043Z",
       "reviewer": "Codex",
-      "exerciseName": "Cable Row",
+      "exerciseName": "Seated Cable Row",
       "availability": {
         "videoId": "k0cTJCfxa0Y",
         "oembedAvailable": true,
@@ -669,7 +666,7 @@
       ],
       "reviewedAt": "2026-09-23T03:01:40.043Z",
       "reviewer": "Codex",
-      "exerciseName": "Leg Press",
+      "exerciseName": "Angled Sled Leg Press",
       "availability": {
         "videoId": "W1SD96lrudY",
         "oembedAvailable": true,
@@ -1012,7 +1009,7 @@
       ],
       "reviewedAt": "2026-09-23T03:01:40.043Z",
       "reviewer": "Codex",
-      "exerciseName": "Overhead Press",
+      "exerciseName": "Standing Barbell Overhead Press",
       "availability": {
         "videoId": "j7vm7jh4pRg",
         "oembedAvailable": true,
@@ -1039,7 +1036,7 @@
       ],
       "reviewedAt": "2026-09-23T03:01:40.043Z",
       "reviewer": "Codex",
-      "exerciseName": "Dumbbell Shoulder Press",
+      "exerciseName": "Standing Dumbbell Shoulder Press",
       "availability": {
         "videoId": "6eDlfTDb7Po",
         "oembedAvailable": true,
@@ -1093,7 +1090,7 @@
       ],
       "reviewedAt": "2026-09-23T03:01:40.043Z",
       "reviewer": "Codex",
-      "exerciseName": "Lateral Raise",
+      "exerciseName": "Standing Dumbbell Lateral Raise",
       "availability": {
         "videoId": "XPPfnSEATJA",
         "oembedAvailable": true,
@@ -1336,7 +1333,7 @@
       ],
       "reviewedAt": "2026-09-23T03:01:40.043Z",
       "reviewer": "Codex",
-      "exerciseName": "Preacher Curl",
+      "exerciseName": "Dumbbell Preacher Curl",
       "availability": {
         "videoId": "sZfiJzEkaVc",
         "oembedAvailable": true,
@@ -1349,28 +1346,28 @@
     },
     {
       "exerciseId": "ex_cable_curl",
-      "url": "https://www.youtube.com/watch?v=xk8awSrZCsk",
-      "title": "Cable Curl With Handle: Demonstration",
-      "source": "StrengthLog",
+      "exerciseName": "Standing Cable Bicep Curl",
+      "url": "https://www.youtube.com/watch?v=_hRnRorKRWs",
+      "title": "How To Do A STANDING BICEP CABLE CURL WITH STRAIGHT BAR | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
       "orientation": "landscape",
       "selectionStatus": "ai-curated-at-user-request",
       "userApproved": false,
       "editorialEvidence": [
-        "https://www.youtube.com/watch?v=xk8awSrZCsk — Publisher specifies low cable bar attachment, underhand grip and controlled standing curl."
+        "https://www.youtube.com/watch?v=_hRnRorKRWs — Publisher title and public embed metadata identify How To Do A STANDING BICEP CABLE CURL WITH STRAIGHT BAR | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
       ],
       "limitations": [
-        "Matched against publisher title/description and catalog instructions; not a complete visual or trainer review."
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
       ],
-      "reviewedAt": "2026-09-23T03:01:40.043Z",
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
       "reviewer": "Codex",
-      "exerciseName": "Cable Bicep Curl",
       "availability": {
-        "videoId": "xk8awSrZCsk",
+        "videoId": "_hRnRorKRWs",
         "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:03:18.629243+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dxk8awSrZCsk&format=json",
-        "publisherTitle": "Cable Curl With Handle: Demonstration",
-        "publisherName": "StrengthLog"
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_hRnRorKRWs&format=json",
+        "publisherTitle": "How To Do A STANDING BICEP CABLE CURL WITH STRAIGHT BAR | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -1471,7 +1468,7 @@
       ],
       "reviewedAt": "2026-09-23T03:01:40.043Z",
       "reviewer": "Codex",
-      "exerciseName": "Overhead Tricep Extension",
+      "exerciseName": "Standing Dumbbell Overhead Triceps Extension",
       "availability": {
         "videoId": "m4ujXuSuQ0I",
         "oembedAvailable": true,
@@ -1579,7 +1576,7 @@
       ],
       "reviewedAt": "2026-09-23T03:01:40.043Z",
       "reviewer": "Codex",
-      "exerciseName": "Crunch",
+      "exerciseName": "Floor Crunch",
       "availability": {
         "videoId": "0t4t3IpiEao",
         "oembedAvailable": true,
@@ -1741,7 +1738,7 @@
       ],
       "reviewedAt": "2026-09-23T03:01:40.043Z",
       "reviewer": "Codex",
-      "exerciseName": "Cable Crunch",
+      "exerciseName": "Kneeling Cable Crunch",
       "availability": {
         "videoId": "NkrCjGwuY0Q",
         "oembedAvailable": true,
@@ -2230,70 +2227,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "cat_yoga_warrior_one",
-      "url": "https://www.youtube.com/watch?v=8tZK_BXURiI",
-      "title": "Warrior I Yoga Pose Instructions",
-      "source": "Lifted Lotus Online Yoga School",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=8tZK_BXURiI",
-          "evidence": "Standing Warrior I instruction, with modifications for individual alignment."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "durationSeconds": 213,
-      "exerciseName": "Yoga — Warrior I",
-      "availability": {
-        "videoId": "8tZK_BXURiI",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:41.337158+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D8tZK_BXURiI&format=json",
-        "publisherTitle": "Warrior I Yoga Pose Instructions",
-        "publisherName": "Lifted Lotus Online Yoga School",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:41.337158+00:00"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_yoga_warrior_two",
-      "url": "https://www.youtube.com/watch?v=hmZxKCXS0tY",
-      "title": "How to Do the Warrior II Pose",
-      "source": "Howcast",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=hmZxKCXS0tY",
-          "evidence": "Publisher step instructions specify wide stance, bent front knee, sideways arms and upright trunk."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Yoga — Warrior II",
-      "availability": {
-        "videoId": "hmZxKCXS0tY",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:10.540586+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhmZxKCXS0tY&format=json",
-        "publisherTitle": "How to Do the Warrior II Pose",
-        "publisherName": "Howcast"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "cat_yoga_reverse_warrior",
       "url": "https://www.youtube.com/watch?v=iCLJjIw9uz0",
       "title": "Reverse Warrior Pose Instructions",
@@ -2324,104 +2257,6 @@
         "watchPlayerStatus": "OK",
         "playableInEmbed": true,
         "watchCheckedAt": "2026-09-23T02:50:52.556989+00:00"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_yoga_side_angle",
-      "url": "https://www.youtube.com/watch?v=wBPmmYsSa-E",
-      "title": "How to Do the Extended Side Angle Pose",
-      "source": "Howcast",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=wBPmmYsSa-E",
-          "evidence": "Description explicitly places forearm on front thigh and opposite arm alongside ear."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "durationSeconds": 136,
-      "exerciseName": "Yoga — Extended Side Angle",
-      "availability": {
-        "videoId": "wBPmmYsSa-E",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:57.658236+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwBPmmYsSa-E&format=json",
-        "publisherTitle": "How to Do the Extended Side Angle Pose",
-        "publisherName": "Howcast",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:57.658236+00:00"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_yoga_triangle",
-      "url": "https://www.youtube.com/watch?v=_1124fj0BeQ",
-      "title": "How To Do Triangle Pose | The Right Way | Well+Good",
-      "source": "Well+Good",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=_1124fj0BeQ",
-          "evidence": "Publisher credits instructor Andrea Russell with Triangle Pose alignment corrections."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Yoga — Triangle Pose",
-      "availability": {
-        "videoId": "_1124fj0BeQ",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:05.232648+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_1124fj0BeQ&format=json",
-        "publisherTitle": "How To Do Triangle Pose | The Right Way | Well+Good",
-        "publisherName": "Well+Good"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_yoga_tree",
-      "url": "https://www.youtube.com/watch?v=2adJ9dAT22k",
-      "title": "How to Do the Tree Pose",
-      "source": "Howcast",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=2adJ9dAT22k",
-          "evidence": "Description includes calf placement instead of knee and balanced transition between sides."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "durationSeconds": 118,
-      "exerciseName": "Yoga — Tree Pose",
-      "availability": {
-        "videoId": "2adJ9dAT22k",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:39.181582+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2adJ9dAT22k&format=json",
-        "publisherTitle": "How to Do the Tree Pose",
-        "publisherName": "Howcast",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:39.181582+00:00"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -2692,40 +2527,6 @@
         "watchPlayerStatus": "OK",
         "playableInEmbed": true,
         "watchCheckedAt": "2026-09-23T02:50:50.250834+00:00"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_yoga_high_lunge",
-      "url": "https://www.youtube.com/watch?v=_YOR2_1Ij3E",
-      "title": "How to Do High Lunge Pose",
-      "source": "Vive Health",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=_YOR2_1Ij3E",
-          "evidence": "Description credits certified instructor Natalie Williams teaching High Lunge."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "durationSeconds": 89,
-      "exerciseName": "Yoga — High Lunge",
-      "availability": {
-        "videoId": "_YOR2_1Ij3E",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:49.454909+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_YOR2_1Ij3E&format=json",
-        "publisherTitle": "How to Do High Lunge Pose",
-        "publisherName": "Vive Health",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:49.454909+00:00"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -4698,490 +4499,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "cat_bal_feet_together",
-      "url": "https://www.youtube.com/watch?v=IyWVCBxgKJE",
-      "title": "Standing Feet Together",
-      "source": "Physio Exercise Channel",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=IyWVCBxgKJE",
-          "evidence": "Publisher explicitly describes feet-together standing balance with support nearby."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Feet-Together Balance",
-      "availability": {
-        "videoId": "IyWVCBxgKJE",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:01:22.969255+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIyWVCBxgKJE&format=json",
-        "publisherTitle": "Standing Feet Together",
-        "publisherName": "Physio Exercise Channel"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_semi_tandem",
-      "url": "https://www.youtube.com/watch?v=xNNsjsft8jk",
-      "title": "Exercise 18: Stance - Semi-Tandem",
-      "source": "Balance Pros",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=xNNsjsft8jk",
-          "evidence": "Description identifies static semi-tandem stance and changing leading foot."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Semi-Tandem Balance",
-      "availability": {
-        "videoId": "xNNsjsft8jk",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:03:16.654950+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxNNsjsft8jk&format=json",
-        "publisherTitle": "Exercise 18: Stance - Semi-Tandem",
-        "publisherName": "Balance Pros"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_tandem_stance",
-      "url": "https://www.youtube.com/watch?v=hcsAEpw3DW4",
-      "title": "How to Do a Tandem Stance Exercise | 30 Seconds | MedBridge",
-      "source": "Medbridge",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=hcsAEpw3DW4",
-          "evidence": "Publisher title specifies tandem stance demonstration (30seconds)."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Tandem Stance",
-      "availability": {
-        "videoId": "hcsAEpw3DW4",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:36.886531+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhcsAEpw3DW4&format=json",
-        "publisherTitle": "How to Do a Tandem Stance Exercise | 30 Seconds | MedBridge",
-        "publisherName": "Medbridge"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_supported_single_leg",
-      "url": "https://www.youtube.com/watch?v=ONfTUzBcd30",
-      "title": "Single Leg Balance (With Support)",
-      "source": "Advantage Physiotherapy Ltd",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=ONfTUzBcd30",
-          "evidence": "Publisher title explicitly includes support, matching fingertip-assisted stance."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Supported Single-Leg Balance",
-      "availability": {
-        "videoId": "ONfTUzBcd30",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:07:59.459169+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DONfTUzBcd30&format=json",
-        "publisherTitle": "Single Leg Balance (With Support)",
-        "publisherName": "Advantage Physiotherapy Ltd"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_single_leg",
-      "url": "https://www.youtube.com/watch?v=IF1PymZNN0k",
-      "title": "How to Do a Single Leg Balance Exercise | 30 Seconds | MedBridge",
-      "source": "Medbridge",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=IF1PymZNN0k",
-          "evidence": "Publisher identifies single-leg balance demonstration."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Single-Leg Balance",
-      "availability": {
-        "videoId": "IF1PymZNN0k",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:07:55.487733+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIF1PymZNN0k&format=json",
-        "publisherTitle": "How to Do a Single Leg Balance Exercise | 30 Seconds | MedBridge",
-        "publisherName": "Medbridge"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_tandem_walk",
-      "url": "https://www.youtube.com/watch?v=4Qqtlhm3c-Q",
-      "title": "Home Exercise: Heel to Toe Walk",
-      "source": "The Chair Lady",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=4Qqtlhm3c-Q",
-          "evidence": "Title identifies heel-to-toe tandem walking."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Heel-to-Toe Walk",
-      "availability": {
-        "videoId": "4Qqtlhm3c-Q",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:07:47.141065+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4Qqtlhm3c-Q&format=json",
-        "publisherTitle": "Home Exercise: Heel to Toe Walk",
-        "publisherName": "The Chair Lady"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_heel_walk",
-      "url": "https://www.youtube.com/watch?v=sBww6q9Zybs",
-      "title": "Heel Walk (shin splint rehab)",
-      "source": "DrJaritt",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=sBww6q9Zybs",
-          "evidence": "Description specifies heel-walking exercise to train anterior shin; same toe-elevated walking movement."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Heel Walk",
-      "availability": {
-        "videoId": "sBww6q9Zybs",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:18.286215+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsBww6q9Zybs&format=json",
-        "publisherTitle": "Heel Walk (shin splint rehab)",
-        "publisherName": "DrJaritt"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_toe_walk",
-      "url": "https://www.youtube.com/watch?v=x-wCY5Rcp9U",
-      "title": "Tiptoe Walk",
-      "source": "EB Training Solutions",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=x-wCY5Rcp9U",
-          "evidence": "Publisher describes balance/calf exercise walking on tiptoe."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Tiptoe Walk",
-      "availability": {
-        "videoId": "x-wCY5Rcp9U",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:20.880103+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dx-wCY5Rcp9U&format=json",
-        "publisherTitle": "Tiptoe Walk",
-        "publisherName": "EB Training Solutions"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_lateral_weight_shift",
-      "url": "https://www.youtube.com/watch?v=63ivcvGqodE",
-      "title": "Side to Side Weight Shift (Standing)",
-      "source": "Valerie Rico Faber",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=63ivcvGqodE",
-          "evidence": "Title explicitly identifies standing side-to-side weight shift."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Side-to-Side Weight Shift",
-      "availability": {
-        "videoId": "63ivcvGqodE",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:07:50.319221+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D63ivcvGqodE&format=json",
-        "publisherTitle": "Side to Side Weight Shift (Standing)",
-        "publisherName": "Valerie Rico Faber"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_forward_weight_shift",
-      "url": "https://www.youtube.com/watch?v=WySDigzIccM",
-      "title": "Staggered stance balance with weight shift",
-      "source": "Amplify My Training",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=WySDigzIccM",
-          "evidence": "Title specifies weight shifts in staggered stance, not feet-together ankle rocking."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Forward-and-Back Weight Shift",
-      "availability": {
-        "videoId": "WySDigzIccM",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:03.321890+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWySDigzIccM&format=json",
-        "publisherTitle": "Staggered stance balance with weight shift",
-        "publisherName": "Amplify My Training"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_clock_tap",
-      "url": "https://www.youtube.com/watch?v=zTCjxEd48EU",
-      "title": "4. Clock Toe Taps for Balance | Intermediate Core Stability Exercise",
-      "source": "Damon Reio",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=zTCjxEd48EU",
-          "evidence": "Publisher explicitly identifies toe-tap clock pattern for dynamic balance."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Clock Toe Tap",
-      "availability": {
-        "videoId": "zTCjxEd48EU",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:22.178822+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DzTCjxEd48EU&format=json",
-        "publisherTitle": "4. Clock Toe Taps for Balance | Intermediate Core Stability Exercise",
-        "publisherName": "Damon Reio"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_single_leg_reach",
-      "url": "https://www.youtube.com/watch?v=sIb1ldnK1CY",
-      "title": "Single Leg Forward Reach",
-      "source": "Continuous Motion Physical Therapy",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=sIb1ldnK1CY",
-          "evidence": "Publisher title matches exact unilateral forward reach."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Single-Leg Forward Reach",
-      "availability": {
-        "videoId": "sIb1ldnK1CY",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:18.938886+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsIb1ldnK1CY&format=json",
-        "publisherTitle": "Single Leg Forward Reach",
-        "publisherName": "Continuous Motion Physical Therapy"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_step_hold",
-      "url": "https://www.youtube.com/watch?v=NCJx1g_0JkM",
-      "title": "Dynamic Single Leg Balance Step & Hold Forward Exercise",
-      "source": "Dr. Michael Jeanfavre",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=NCJx1g_0JkM",
-          "evidence": "Title explicitly matches forward step into single-leg hold."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Step-and-Hold Balance",
-      "availability": {
-        "videoId": "NCJx1g_0JkM",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:07:58.170253+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNCJx1g_0JkM&format=json",
-        "publisherTitle": "Dynamic Single Leg Balance Step & Hold Forward Exercise",
-        "publisherName": "Dr. Michael Jeanfavre"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_side_step_hold",
-      "url": "https://www.youtube.com/watch?v=lsGbUkPHr6E",
-      "title": "Dynamic Single Leg Balance Step & Hold: Lateral Stepping",
-      "source": "Dr. Michael Jeanfavre",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=lsGbUkPHr6E",
-          "evidence": "Title explicitly matches lateral step into single-leg hold."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Side Step and Balance",
-      "availability": {
-        "videoId": "lsGbUkPHr6E",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:15.006808+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlsGbUkPHr6E&format=json",
-        "publisherTitle": "Dynamic Single Leg Balance Step & Hold: Lateral Stepping",
-        "publisherName": "Dr. Michael Jeanfavre"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_quarter_turn",
-      "url": "https://www.youtube.com/watch?v=l3SYF5JTNdQ",
-      "title": "90度ターン 片麻痺 歩行リハビリ",
-      "source": "脳リハ.com ｜ 脳卒中/パーキンソン病のリハビリ情報サイト",
-      "orientation": "landscape",
-      "startSeconds": 105,
-      "endSeconds": 115,
-      "durationSeconds": 10,
-      "note": "This Japanese-language demonstration uses two larger steps. Follow the Form text with several smaller steps, then pause with both feet grounded.",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=l3SYF5JTNdQ",
-          "evidence": "Codex agent visually inspected 1:45–1:55 in Chrome with frame stepping: instructor begins facing forward, lifts and repositions first foot, then second, finishes facing 90 degrees to left and pauses. Demonstrates stepping, not twisting both planted feet. Whole video 6:29."
-        }
-      ],
-      "limitations": [
-        "Selected excerpt visually sampled; not a full tutorial or trainer review. Two larger steps differ from catalog several-small-step cue; disclosed in recommendation note."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Quarter-Turn Step",
-      "availability": {
-        "videoId": "l3SYF5JTNdQ",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:11:05.718957+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl3SYF5JTNdQ&format=json",
-        "publisherTitle": "90度ターン 片麻痺 歩行リハビリ",
-        "publisherName": "脳リハ.com ｜ 脳卒中/パーキンソン病のリハビリ情報サイト"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_cross_body_reach",
-      "url": "https://www.youtube.com/watch?v=5c6qlW9JY08",
-      "title": "Standing Cross Body Reach",
-      "source": "Baseline Wellness",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=5c6qlW9JY08",
-          "evidence": "Publisher exact title matches standing cross-body reach."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Standing Cross-Body Reach",
-      "availability": {
-        "videoId": "5c6qlW9JY08",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:07:49.055471+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5c6qlW9JY08&format=json",
-        "publisherTitle": "Standing Cross Body Reach",
-        "publisherName": "Baseline Wellness"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "cat_cond_mountain_climber",
       "url": "https://www.youtube.com/watch?v=hq_0YlyfqGM",
       "title": "Mountain Climber - Exercise Demo",
@@ -5303,36 +4620,6 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Di12A6G_LiJo&format=json",
         "publisherTitle": "How to do Shadow Boxing for Beginners | Why Boxers Shadow Box",
         "publisherName": "Tony Jeffries"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_cond_quick_feet",
-      "url": "https://www.youtube.com/watch?v=tnR_6qtYSho",
-      "title": "How To Do 'Quick Feet' Exercise",
-      "source": "Higher Purpose Fitness",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=tnR_6qtYSho",
-          "evidence": "Publisher identifies exercise demonstration rather than lateral dance-step version."
-        }
-      ],
-      "limitations": [
-        "Selected using indexed publisher title/description or transcript; full video playback and trainer review not performed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Quick Feet in Place",
-      "availability": {
-        "videoId": "tnR_6qtYSho",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:20.221862+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtnR_6qtYSho&format=json",
-        "publisherTitle": "How To Do 'Quick Feet' Exercise",
-        "publisherName": "Higher Purpose Fitness"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -5867,40 +5154,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_adductor_b3b8e640",
-      "url": "https://www.youtube.com/watch?v=KXr0Tdon-b0",
-      "title": "Foam Rolling Adductor",
-      "source": "UCSF Orthopaedic Surgery",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=KXr0Tdon-b0",
-          "evidence": "UCSF rehabilitation publisher identifies adductor foam rolling as the demonstrated exercise."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Adductor Foam Rolling",
-      "availability": {
-        "videoId": "KXr0Tdon-b0",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:45.897648+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKXr0Tdon-b0&format=json",
-        "publisherTitle": "Foam Rolling Adductor",
-        "publisherName": "UCSF Orthopaedic Surgery",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:45.897648+00:00"
-      },
-      "durationSeconds": 20,
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_alternate_heel_touche_0718c1bb",
       "url": "https://www.youtube.com/watch?v=J9eSDQh3P1o",
       "title": "How to do Alternate Heel Touches | Joanna Soh",
@@ -5995,36 +5248,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_anterior_tibialis_smr_37959075",
-      "url": "https://www.youtube.com/watch?v=Vim5ypOJhTU",
-      "title": "TriggerPoint Tuesday: T-Roller Tibialis Anterior Release",
-      "source": "TriggerPoint",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=Vim5ypOJhTU",
-          "evidence": "Publisher's exercise title and indexed description identify Anterior Shin Foam Rolling; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Anterior Shin Foam Rolling",
-      "availability": {
-        "videoId": "Vim5ypOJhTU",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:03.689395+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVim5ypOJhTU&format=json",
-        "publisherTitle": "TriggerPoint Tuesday: T-Roller Tibialis Anterior Release",
-        "publisherName": "TriggerPoint"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_back_flyes_with_bands_e8a30917",
       "url": "https://www.youtube.com/watch?v=cc1HZ6EuGps",
       "title": "Band Back Fly",
@@ -6085,36 +5308,6 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhbCeJFBFyYk&format=json",
         "publisherTitle": "Backward Sled Drag Tutorial",
         "publisherName": "Keren Zumba"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "open_balance_board_09f9d2eb",
-      "url": "https://www.youtube.com/watch?v=fRucpVUBID8",
-      "title": "PhysioRoom.com Balance Wobble Board",
-      "source": "PhysioRoom.com",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=fRucpVUBID8",
-          "evidence": "Publisher's exercise title and indexed description identify Balance Board; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Balance Board",
-      "availability": {
-        "videoId": "fRucpVUBID8",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:30.401133+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfRucpVUBID8&format=json",
-        "publisherTitle": "PhysioRoom.com Balance Wobble Board",
-        "publisherName": "PhysioRoom.com"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -6640,37 +5833,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_brachialis_smr_83f02dd4",
-      "url": "https://www.youtube.com/watch?v=lLc68MNSwZ8",
-      "title": "How To Stretch Biceps | Foam Roll Bicep",
-      "source": "Kbands Training",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=lLc68MNSwZ8",
-          "evidence": "Description includes a separate brachialis technique: lie on the roller at the center of the upper arm, raise hips, and hold for 15–20 seconds."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "note": "The tutorial also covers the biceps. Use the side-on upper-arm hold for this exercise.",
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Brachialis-SMR",
-      "availability": {
-        "videoId": "lLc68MNSwZ8",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:13.734316+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlLc68MNSwZ8&format=json",
-        "publisherTitle": "How To Stretch Biceps | Foam Roll Bicep",
-        "publisherName": "Kbands Training"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_cable_deadlifts_3965c6d0",
       "url": "https://www.youtube.com/watch?v=agQ0ewcDHC8",
       "title": "How to do a Cable Deadlift - total body - Andy Frisch",
@@ -6855,7 +6017,7 @@
       ],
       "reviewedAt": "2026-09-22",
       "reviewer": "Codex",
-      "exerciseName": "Cable Shoulder Press",
+      "exerciseName": "Standing Cable Shoulder Press",
       "availability": {
         "videoId": "Zy1dc-20Uik",
         "oembedAvailable": true,
@@ -6991,36 +6153,6 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DB3oObasYEuE&format=json",
         "publisherTitle": "Calf Raise Arms Up with Resistance Bands",
         "publisherName": "Bodylastics"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "open_calves_smr_c8db3e21",
-      "url": "https://www.youtube.com/watch?v=6f2LO5EeB0I",
-      "title": "Foam Roll: Calves",
-      "source": "National Academy of Sports Medicine (NASM)",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=6f2LO5EeB0I",
-          "evidence": "Publisher's exercise title and indexed description identify Calves-SMR; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Calves-SMR",
-      "availability": {
-        "videoId": "6f2LO5EeB0I",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:00:47.386692+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6f2LO5EeB0I&format=json",
-        "publisherTitle": "Foam Roll: Calves",
-        "publisherName": "National Academy of Sports Medicine (NASM)"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -7415,40 +6547,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_downward_facing_balan_7b19fad0",
-      "url": "https://www.youtube.com/watch?v=gDWlkQ7f8Ys",
-      "title": "Prone Double Leg Lift on a Stability Ball",
-      "source": "Physical Therapy First",
-      "orientation": "landscape",
-      "durationSeconds": 39,
-      "startSeconds": 24,
-      "endSeconds": 33,
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "note": "The selected segment shows the two-leg hold. Earlier portions demonstrate repeated leg lifts.",
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=gDWlkQ7f8Ys",
-          "evidence": "Publisher identifies ball beneath hips/lower abdomen, hands on floor and both legs extended. Its chapter description explicitly marks 0:24–0:32 as an end-range hold and the reset beginning at0:33. Browser spot check at0:24 visibly confirmed prone torso supported by ball, straight arms on floor, and both straight legs lifted. Player displayed 0:39 duration."
-        }
-      ],
-      "limitations": [
-        "Browser spot check of setup and hold only; not a full trainer review. Source also demonstrates repetitions outside the selected hold segment. Embedding availability requires metadata validation."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Downward Facing Balance",
-      "availability": {
-        "videoId": "gDWlkQ7f8Ys",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:11:03.624180+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgDWlkQ7f8Ys&format=json",
-        "publisherTitle": "Prone Double Leg Lift on a Stability Ball",
-        "publisherName": "Physical Therapy First"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_drop_push_dc261e8f",
       "url": "https://www.youtube.com/watch?v=xeYtZkHNPjg",
       "title": "Drop Push-Ups",
@@ -7527,7 +6625,7 @@
       ],
       "reviewedAt": "2026-09-22",
       "reviewer": "Codex",
-      "exerciseName": "Dumbbell Bicep Curl",
+      "exerciseName": "Standing Dumbbell Bicep Curl",
       "availability": {
         "videoId": "3OZ2MT_5r3Q",
         "oembedAvailable": true,
@@ -7934,36 +7032,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_fast_skipping_5e7af79c",
-      "url": "https://www.youtube.com/watch?v=m9MccH7mWO0",
-      "title": "Skipping Exercise Demonstration",
-      "source": "MedStar Health",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=m9MccH7mWO0",
-          "evidence": "Physical therapist describes traveling forward with a knee drive and a hop on the opposite foot, alternating sides. This is traveling skipping, not jump rope."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Fast Skipping",
-      "availability": {
-        "videoId": "m9MccH7mWO0",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:08:15.724699+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dm9MccH7mWO0&format=json",
-        "publisherTitle": "Skipping Exercise Demonstration",
-        "publisherName": "MedStar Health"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_flat_bench_lying_leg__d58bca58",
       "url": "https://www.youtube.com/watch?v=H3P_Zx_oXGY",
       "title": "Tutorial | Flat Bench Lying Leg Raise",
@@ -8020,36 +7088,6 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DGt7VQr7hyuc&format=json",
         "publisherTitle": "How to: Nordic Hamstring Curl",
         "publisherName": "Rachel Scheer"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "open_foot_smr_0c3b78bc",
-      "url": "https://www.youtube.com/watch?v=fylfDfoysmo",
-      "title": "Self Myofascial Release for the Foot (using massage therapy balls)",
-      "source": "Stretch Kinetics ",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=fylfDfoysmo",
-          "evidence": "Publisher's exercise title and indexed description identify Foot-SMR; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Foot-SMR",
-      "availability": {
-        "videoId": "fylfDfoysmo",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:32.295908+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfylfDfoysmo&format=json",
-        "publisherTitle": "Self Myofascial Release for the Foot (using massage therapy balls)",
-        "publisherName": "Stretch Kinetics "
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -8355,36 +7393,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_hamstring_smr_523924cf",
-      "url": "https://www.youtube.com/watch?v=_M29fhv3LoI",
-      "title": "How to do Self Myofascial Release (SMR) Hamstrings",
-      "source": "National Academy of Sports Medicine (NASM)",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=_M29fhv3LoI",
-          "evidence": "Publisher's exercise title and indexed description identify Hamstring-SMR; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Hamstring-SMR",
-      "availability": {
-        "videoId": "_M29fhv3LoI",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:15.370260+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_M29fhv3LoI&format=json",
-        "publisherTitle": "How to do Self Myofascial Release (SMR) Hamstrings",
-        "publisherName": "National Academy of Sports Medicine (NASM)"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_handstand_push_ups_c7238970",
       "url": "https://www.youtube.com/watch?v=hvoQiF0kBI8",
       "title": "The Strict Handstand Push-up",
@@ -8565,36 +7573,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_iliotibial_tract_smr_438284c1",
-      "url": "https://www.youtube.com/watch?v=Ncl0oa4pD-8",
-      "title": "Iliotibial tract-SMR / IT Band Foam Rolling: Stretching Exercise Demo How-to",
-      "source": "FitSW Fitness Software",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=Ncl0oa4pD-8",
-          "evidence": "Publisher's exercise title and indexed description identify Iliotibial Tract-SMR; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Iliotibial Tract-SMR",
-      "availability": {
-        "videoId": "Ncl0oa4pD-8",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:01:39.977175+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNcl0oa4pD-8&format=json",
-        "publisherTitle": "Iliotibial tract-SMR / IT Band Foam Rolling: Stretching Exercise Demo How-to",
-        "publisherName": "FitSW Fitness Software"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_inchworm_0237b925",
       "url": "https://www.youtube.com/watch?v=4yJ8jwFaxlo",
       "title": "Inchworm Walks Forward",
@@ -8681,36 +7659,6 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DajdFwa-qM98&format=json",
         "publisherTitle": "How to Do an Incline Dumbbell Fly | Chest Workout",
         "publisherName": "Howcast"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "open_internal_rotation_wit_18c67d97",
-      "url": "https://www.youtube.com/watch?v=MfjCK5_Ss5g",
-      "title": "How To Do An Internal Rotation with Band | Exercise Guide",
-      "source": "Bodybuilding.com",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=MfjCK5_Ss5g",
-          "evidence": "Publisher's exercise title and indexed description identify Internal Rotation with Band; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Internal Rotation with Band",
-      "availability": {
-        "videoId": "MfjCK5_Ss5g",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:01:34.574191+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMfjCK5_Ss5g&format=json",
-        "publisherTitle": "How To Do An Internal Rotation with Band | Exercise Guide",
-        "publisherName": "Bodybuilding.com"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -8985,36 +7933,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_kettlebell_windmill_53f5fe61",
-      "url": "https://www.youtube.com/watch?v=ITSmgn_BQgY",
-      "title": "Kettlebell Windmill Tutorial | Kettlebell Exercises",
-      "source": "Onnit",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=ITSmgn_BQgY",
-          "evidence": "Publisher's exercise title and indexed description identify Kettlebell Windmill; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Kettlebell Windmill",
-      "availability": {
-        "videoId": "ITSmgn_BQgY",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:01:19.703371+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DITSmgn_BQgY&format=json",
-        "publisherTitle": "Kettlebell Windmill Tutorial | Kettlebell Exercises",
-        "publisherName": "Onnit"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_knee_hip_raise_on_par_3b7a0c25",
       "url": "https://www.youtube.com/watch?v=DkDmeYlM1HY",
       "title": "Captains Chair Straight Leg Raise",
@@ -9161,66 +8079,6 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DviKgp6eLiLA&format=json",
         "publisherTitle": "How To Do Lateral Cone Hops | Exercise Demo",
         "publisherName": "OriGym"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "open_latissimus_dorsi_smr_00f2dc65",
-      "url": "https://www.youtube.com/watch?v=I_76a2fVWc8",
-      "title": "How to do a Self Myofascial Release (SMR) Latissimus Dorsi",
-      "source": "National Academy of Sports Medicine (NASM)",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=I_76a2fVWc8",
-          "evidence": "Publisher's exercise title and indexed description identify Latissimus Dorsi-SMR; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Latissimus Dorsi-SMR",
-      "availability": {
-        "videoId": "I_76a2fVWc8",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:01:21.010019+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DI_76a2fVWc8&format=json",
-        "publisherTitle": "How to do a Self Myofascial Release (SMR) Latissimus Dorsi",
-        "publisherName": "National Academy of Sports Medicine (NASM)"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "open_leg_lift_7bf3c8b4",
-      "url": "https://www.youtube.com/watch?v=cN37beUR2dg",
-      "title": "Standing Hip Extension – Your Exercise Solution (YES)",
-      "source": "Arthritis Foundation",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        {
-          "url": "https://www.youtube.com/watch?v=cN37beUR2dg",
-          "evidence": "Publisher's exercise title and indexed description identify Chair-Supported Standing Hip Extension; movement name and available setup cues compared with canonical instructions."
-        }
-      ],
-      "limitations": [
-        "Selected from live publisher title/description; full video not visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Chair-Supported Standing Hip Extension",
-      "availability": {
-        "videoId": "cN37beUR2dg",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:21.945382+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DcN37beUR2dg&format=json",
-        "publisherTitle": "Standing Hip Extension – Your Exercise Solution (YES)",
-        "publisherName": "Arthritis Foundation"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -9553,34 +8411,6 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_e9vFU9-tkc&format=json",
         "publisherTitle": "How to Set Up, Perform, & Program Nordic Hamstring Curls (Progressions | Regressions | Alternatives)",
         "publisherName": "E3 Rehab"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "open_neck_smr_1fea2c39",
-      "url": "https://www.youtube.com/watch?v=iNw37oO4uRk",
-      "title": "Automassage de la nuque au bâton The Stick et au rouleau Rumble Roller Gator",
-      "source": "Le plaisir d'apprendre",
-      "orientation": "landscape",
-      "note": "French-language demonstration. Use gentle pressure beside the spine as described in Form.",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=iNw37oO4uRk — Publisher description specifies hand-held massage sticks used for self-massage of neck."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Neck-SMR",
-      "availability": {
-        "videoId": "iNw37oO4uRk",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:38.186664+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiNw37oO4uRk&format=json",
-        "publisherTitle": "Automassage de la nuque au bâton The Stick et au rouleau Rumble Roller Gator",
-        "publisherName": "Le plaisir d'apprendre"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -9977,68 +8807,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_peroneals_smr_07cdfc1b",
-      "url": "https://www.youtube.com/watch?v=vRLHzoP2CTI",
-      "title": "How to Foam Roll Your Peroneals | Foam Rolling",
-      "source": "Howcast",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=vRLHzoP2CTI — Transcript covers side-lying foam roller on outer lower leg, in addition to a hand-held roller."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Peroneals-SMR",
-      "availability": {
-        "videoId": "vRLHzoP2CTI",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:57.388711+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvRLHzoP2CTI&format=json",
-        "publisherTitle": "How to Foam Roll Your Peroneals | Foam Rolling",
-        "publisherName": "Howcast",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:57.388711+00:00"
-      },
-      "durationSeconds": 122,
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "open_piriformis_smr_508069c1",
-      "url": "https://www.youtube.com/watch?v=17Tn7wWvr7U",
-      "title": "Piriformis muscle foam roller exercise",
-      "source": "www.sportsinjuryclinic.net",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=17Tn7wWvr7U — Indexed video title specifies piriformis foam roller exercise."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Piriformis-SMR",
-      "availability": {
-        "videoId": "17Tn7wWvr7U",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:39.181200+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D17Tn7wWvr7U&format=json",
-        "publisherTitle": "Piriformis muscle foam roller exercise",
-        "publisherName": "www.sportsinjuryclinic.net",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:39.181200+00:00"
-      },
-      "durationSeconds": 49,
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_plyo_push_up_39fbd483",
       "url": "https://www.youtube.com/watch?v=ezGi2g7UuRA",
       "title": "Bodyweight Plyo Push Up | Exercise Demo | Coaching Software | QuickCoach",
@@ -10213,37 +8981,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "open_quadriceps_smr_9556ce1f",
-      "url": "https://www.youtube.com/watch?v=ERTVBjwgPS4",
-      "title": "Self Myofascial Release: Foam Rolling - Quadriceps",
-      "source": "National Academy of Sports Medicine (NASM)",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=ERTVBjwgPS4 — Publisher description identifies quadriceps foam rolling and proper placement."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Quadriceps-SMR",
-      "availability": {
-        "videoId": "ERTVBjwgPS4",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:43.966623+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DERTVBjwgPS4&format=json",
-        "publisherTitle": "Self Myofascial Release: Foam Rolling - Quadriceps",
-        "publisherName": "National Academy of Sports Medicine (NASM)",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:43.966623+00:00"
-      },
-      "durationSeconds": 137,
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "open_rear_leg_raises_0bbd6757",
       "url": "https://www.youtube.com/watch?v=y5ES9E6wV6E",
       "title": "Quadruped Straight Leg Hip Extension",
@@ -10321,7 +9058,7 @@
       ],
       "reviewedAt": "2026-09-22",
       "reviewer": "Codex",
-      "exerciseName": "Reverse Flyes",
+      "exerciseName": "Incline-Bench Dumbbell Rear Delt Fly",
       "availability": {
         "videoId": "G4KcUxqcXO8",
         "oembedAvailable": true,
@@ -10365,37 +9102,6 @@
         "watchCheckedAt": "2026-09-23T02:50:46.221913+00:00"
       },
       "durationSeconds": 18,
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "open_rhomboids_smr_1b2227e6",
-      "url": "https://www.youtube.com/watch?v=VUXnptJLG4g",
-      "title": "How to Foam Roll Your Rhomboids | Foam Rolling",
-      "source": "Howcast",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=VUXnptJLG4g — Transcript describes foam rolling beside scapula, one side at a time."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Rhomboids-SMR",
-      "availability": {
-        "videoId": "VUXnptJLG4g",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T02:50:47.216541+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVUXnptJLG4g&format=json",
-        "publisherTitle": "How to Foam Roll Your Rhomboids | Foam Rolling",
-        "publisherName": "Howcast",
-        "watchPlayerStatus": "OK",
-        "playableInEmbed": true,
-        "watchCheckedAt": "2026-09-23T02:50:47.216541+00:00"
-      },
-      "durationSeconds": 107,
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
@@ -11032,7 +9738,8 @@
         "publisherTitle": "Panturrilha no Smith",
         "publisherName": "MyTrainingPRO"
       },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted.",
+      "note": "For the floor-based option, lower the heels to the floor. Elevated forefoot support is optional; a separate weight plate is not required."
     },
     {
       "exerciseId": "open_smith_machine_incline_100af028",
@@ -11077,7 +9784,7 @@
       ],
       "reviewedAt": "2026-09-22",
       "reviewer": "Codex",
-      "exerciseName": "Smith Machine Overhead Shoulder Press",
+      "exerciseName": "Seated Smith Machine Shoulder Press",
       "availability": {
         "videoId": "aKWQrB8afy0",
         "oembedAvailable": true,
@@ -11321,7 +10028,7 @@
       ],
       "reviewedAt": "2026-09-22",
       "reviewer": "Codex",
-      "exerciseName": "Cable Chest Press",
+      "exerciseName": "Standing Cable Chest Press",
       "availability": {
         "videoId": "u74FbPhR8iE",
         "oembedAvailable": true,
@@ -11384,7 +10091,8 @@
         "publisherTitle": "How To: Standing Dumbbell Calf Raise On Step",
         "publisherName": "Live Lean TV Daily Exercises"
       },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted.",
+      "note": "For the floor-based option, lower the heels to the floor. Elevated forefoot support is optional; a separate weight plate is not required."
     },
     {
       "exerciseId": "open_standing_long_jump_f080bf3c",
@@ -12184,60 +10892,6 @@
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
     {
-      "exerciseId": "cat_pil_seated_heel_raise",
-      "url": "https://www.youtube.com/watch?v=4yQwjBifT6Q",
-      "title": "Seated Heel Raises",
-      "source": "Catalyst Physical Therapy",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=4yQwjBifT6Q — Description specifies sitting on chair with feet flat, lifting heels while toes remain grounded and slow return."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Seated Bodyweight Heel Raise",
-      "availability": {
-        "videoId": "4yQwjBifT6Q",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:00:42.138847+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4yQwjBifT6Q&format=json",
-        "publisherTitle": "Seated Heel Raises",
-        "publisherName": "Catalyst Physical Therapy"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_pil_standing_hip_abduction",
-      "url": "https://www.youtube.com/watch?v=9tAjRydJsoo",
-      "title": "Standing Hip Abduction (Chair Exercise Series)",
-      "source": "The Pocket CI by Dr. John Schaefer, PT, DPT, OCS",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=9tAjRydJsoo — Publisher exercise series title identifies chair-supported standing hip abduction."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Supported Standing Hip Abduction",
-      "availability": {
-        "videoId": "9tAjRydJsoo",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:00:55.156142+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9tAjRydJsoo&format=json",
-        "publisherTitle": "Standing Hip Abduction (Chair Exercise Series)",
-        "publisherName": "The Pocket CI by Dr. John Schaefer, PT, DPT, OCS"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
       "exerciseId": "cat_pil_swan_prep",
       "url": "https://www.youtube.com/watch?v=3TZtop-ct3Q",
       "title": "Swan Prep 2 on the Mat | Online Pilates Classes",
@@ -12262,62 +10916,6 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3TZtop-ct3Q&format=json",
         "publisherTitle": "Swan Prep 2 on the Mat | Online Pilates Classes",
         "publisherName": "Online Pilates Classes by Lesley Logan"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_card_heel_digs",
-      "url": "https://www.youtube.com/watch?v=eIXr7dAvjUk",
-      "title": "Heel Digs",
-      "source": "CBC Digital",
-      "orientation": "landscape",
-      "note": "The video includes seated and standing versions; use the standing version for this exercise.",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=eIXr7dAvjUk — Description covers upright standing and extending one heel forward at a time, toes up, then returning."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Alternating Heel Digs",
-      "availability": {
-        "videoId": "eIXr7dAvjUk",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:27.098480+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeIXr7dAvjUk&format=json",
-        "publisherTitle": "Heel Digs",
-        "publisherName": "CBC Digital"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_card_standing_ham_curl",
-      "url": "https://www.youtube.com/watch?v=oMW59TKZvaI",
-      "title": "How to Butt-Kick with Proper Form",
-      "source": "Get Healthy U - with Chris Freytag",
-      "orientation": "landscape",
-      "note": "Use the slow, low-impact version with one foot grounded; skip the jogging progression.",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=oMW59TKZvaI — Description explicitly starts with alternate knee bends bringing heels toward buttocks, slowly and with low impact, before faster progressions."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Standing Alternating Hamstring Curl",
-      "availability": {
-        "videoId": "oMW59TKZvaI",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:52.712132+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoMW59TKZvaI&format=json",
-        "publisherTitle": "How to Butt-Kick with Proper Form",
-        "publisherName": "Get Healthy U - with Chris Freytag"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -12350,226 +10948,6 @@
         "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLyR0l_GEgZI&format=json",
         "publisherTitle": "Low intensity aerobic exercises – 10 minute home workout",
         "publisherName": "British Heart Foundation"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_card_seated_punch",
-      "url": "https://www.youtube.com/watch?v=BqIryHLrTAg",
-      "title": "Exercise Library: Sitting Punches",
-      "source": "DAREBEE",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=BqIryHLrTAg — Publisher movement-library title explicitly identifies seated punches."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Seated Alternating Punch",
-      "availability": {
-        "videoId": "BqIryHLrTAg",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:01:03.917188+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBqIryHLrTAg&format=json",
-        "publisherTitle": "Exercise Library: Sitting Punches",
-        "publisherName": "DAREBEE"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_card_seated_heel_dig",
-      "url": "https://www.youtube.com/watch?v=eIXr7dAvjUk",
-      "title": "Heel Digs",
-      "source": "CBC Digital",
-      "orientation": "landscape",
-      "note": "The video includes seated and standing versions; use the seated version for this exercise.",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=eIXr7dAvjUk — Description covers seated heel digs with one heel extended forward at a time, returning to floor."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Seated Alternating Heel Dig",
-      "availability": {
-        "videoId": "eIXr7dAvjUk",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:27.098480+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeIXr7dAvjUk&format=json",
-        "publisherTitle": "Heel Digs",
-        "publisherName": "CBC Digital"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_card_seated_reach",
-      "url": "https://www.youtube.com/watch?v=VZ1uP3nGf8U",
-      "title": "Seated alternating overhead reach with breathing",
-      "source": "START Physical Therapy",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=VZ1uP3nGf8U — Publisher title explicitly identifies seated alternating overhead reaches with breathing."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Seated Alternating Upward Reach",
-      "availability": {
-        "videoId": "VZ1uP3nGf8U",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:02.447185+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVZ1uP3nGf8U&format=json",
-        "publisherTitle": "Seated alternating overhead reach with breathing",
-        "publisherName": "START Physical Therapy"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_supported_back_walk",
-      "url": "https://www.youtube.com/watch?v=v0ox_3qAvU8",
-      "title": "Backwards walking exercise to improve balance",
-      "source": "Perfecting Movement",
-      "orientation": "landscape",
-      "note": "Keep one hand near a clear wall and take small controlled steps as described in Form.",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=v0ox_3qAvU8 — Physical therapist publisher describes backward walking balance practice."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Supported Backward Walk",
-      "availability": {
-        "videoId": "v0ox_3qAvU8",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:03:09.410952+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dv0ox_3qAvU8&format=json",
-        "publisherTitle": "Backwards walking exercise to improve balance",
-        "publisherName": "Perfecting Movement"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_supported_side_walk",
-      "url": "https://www.youtube.com/watch?v=6HNJM4rZh04",
-      "title": "Exercise 7: Walking - Sideways",
-      "source": "Balance Pros",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=6HNJM4rZh04 — Description specifies sideways walking near stable surfaces while feet/hips face forward, then returning."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Supported Sideways Walk",
-      "availability": {
-        "videoId": "6HNJM4rZh04",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:00:44.143156+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D6HNJM4rZh04&format=json",
-        "publisherTitle": "Exercise 7: Walking - Sideways",
-        "publisherName": "Balance Pros"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_supported_tandem_walk",
-      "url": "https://www.youtube.com/watch?v=z_GKdFf3qv4",
-      "title": "Heel-to-Toe Walk Balance Exercise for Older Adults",
-      "source": "National Institute on Aging",
-      "orientation": "landscape",
-      "note": "Keep a wall within reach and use light support as described in the Form instructions.",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=z_GKdFf3qv4 — Publisher description identifies heel-to-toe walking for balance."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Supported Heel-to-Toe Walk",
-      "availability": {
-        "videoId": "z_GKdFf3qv4",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:03:23.287037+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dz_GKdFf3qv4&format=json",
-        "publisherTitle": "Heel-to-Toe Walk Balance Exercise for Older Adults",
-        "publisherName": "National Institute on Aging"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_low_obstacle_step",
-      "url": "https://www.youtube.com/watch?v=fCflYU4WxEE",
-      "title": "Step Over Balance Exercise",
-      "source": "Freedom Physical Therapy Services",
-      "orientation": "landscape",
-      "note": "Use one low, flexible obstacle beside a wall for support, and reset between repetitions as described in Form.",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=fCflYU4WxEE — Publisher description specifies carefully stepping over cones with pauses between obstacles."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Supported Low-Obstacle Step-Over",
-      "availability": {
-        "videoId": "fCflYU4WxEE",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:29.054444+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfCflYU4WxEE&format=json",
-        "publisherTitle": "Step Over Balance Exercise",
-        "publisherName": "Freedom Physical Therapy Services"
-      },
-      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
-    },
-    {
-      "exerciseId": "cat_bal_cone_weave",
-      "url": "https://www.youtube.com/watch?v=_eh_OaYM-MU",
-      "title": "Slalom",
-      "source": "North Bristol NHS Trust",
-      "orientation": "landscape",
-      "selectionStatus": "ai-curated-at-user-request",
-      "userApproved": false,
-      "editorialEvidence": [
-        "https://www.youtube.com/watch?v=_eh_OaYM-MU — https://www.nbt.nhs.uk/our-services/a-z-services/physiotherapy/specialist-physiotherapy-service/therapy-erehab-video-resources/therapy-erehab-dynamic-balance embeds this as Video 3 Slalom and instructs walking forwards zigzagging around obstacles without touching them."
-      ],
-      "limitations": [
-        "Selected from live publisher title/description evidence; complete playback and form have not been visually reviewed."
-      ],
-      "reviewedAt": "2026-09-22",
-      "reviewer": "Codex",
-      "exerciseName": "Walking Cone Weave",
-      "availability": {
-        "videoId": "_eh_OaYM-MU",
-        "oembedAvailable": true,
-        "checkedAt": "2026-09-23T03:02:16.633873+00:00",
-        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_eh_OaYM-MU&format=json",
-        "publisherTitle": "Slalom",
-        "publisherName": "North Bristol NHS Trust"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     },
@@ -13162,6 +11540,1660 @@
         "publisherName": "Medina Health and Fitness"
       },
       "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_decline_crunch",
+      "exerciseName": "Decline Crunch",
+      "url": "https://www.youtube.com/watch?v=gYXr-AbnCYk",
+      "title": "Decline Crunch | Olympic Weightlifting Exercise Library",
+      "source": "Catalyst Athletics",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=gYXr-AbnCYk — Publisher title and public embed metadata identify Decline Crunch | Olympic Weightlifting Exercise Library by Catalyst Athletics. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "gYXr-AbnCYk",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgYXr-AbnCYk&format=json",
+        "publisherTitle": "Decline Crunch | Olympic Weightlifting Exercise Library",
+        "publisherName": "Catalyst Athletics"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_ball_crunch",
+      "exerciseName": "Exercise Ball Crunch",
+      "url": "https://www.youtube.com/watch?v=oiL5T44Mb90",
+      "title": "Stability Ball Crunch : Best Ab Exercises",
+      "source": "Six Pack Factory",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=oiL5T44Mb90 — Publisher title and public embed metadata identify Stability Ball Crunch : Best Ab Exercises by Six Pack Factory. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "oiL5T44Mb90",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoiL5T44Mb90&format=json",
+        "publisherTitle": "Stability Ball Crunch : Best Ab Exercises",
+        "publisherName": "Six Pack Factory"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_cable_crunch",
+      "exerciseName": "Seated Cable Crunch",
+      "url": "https://www.youtube.com/watch?v=1LzeEo26TeA",
+      "title": "Seated Cable Crunch | SFS Exercise Library",
+      "source": "SET FOR SET",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=1LzeEo26TeA — Publisher title and public embed metadata identify Seated Cable Crunch | SFS Exercise Library by SET FOR SET. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "1LzeEo26TeA",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1LzeEo26TeA&format=json",
+        "publisherTitle": "Seated Cable Crunch | SFS Exercise Library",
+        "publisherName": "SET FOR SET"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_standing_cable_crunch",
+      "exerciseName": "Standing Cable Crunch",
+      "url": "https://www.youtube.com/watch?v=FQJvn8MnFZY",
+      "title": "How To Do Standing Rope Crunch | Exercise Demo",
+      "source": "OriGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=FQJvn8MnFZY — Publisher title and public embed metadata identify How To Do Standing Rope Crunch | Exercise Demo by OriGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "FQJvn8MnFZY",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFQJvn8MnFZY&format=json",
+        "publisherTitle": "How To Do Standing Rope Crunch | Exercise Demo",
+        "publisherName": "OriGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_bb_press",
+      "exerciseName": "Seated Barbell Shoulder Press",
+      "url": "https://www.youtube.com/watch?v=p76vKUT9OoA",
+      "title": "How To Do A SEATED BARBELL SHOULDER PRESS | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=p76vKUT9OoA — Publisher title and public embed metadata identify How To Do A SEATED BARBELL SHOULDER PRESS | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "p76vKUT9OoA",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp76vKUT9OoA&format=json",
+        "publisherTitle": "How To Do A SEATED BARBELL SHOULDER PRESS | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_db_press",
+      "exerciseName": "Seated Dumbbell Shoulder Press",
+      "url": "https://www.youtube.com/watch?v=SSXS4Z8OkCg",
+      "title": "Seated Dumbbell Shoulder Press: Demonstration",
+      "source": "StrengthLog",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=SSXS4Z8OkCg — Publisher title and public embed metadata identify Seated Dumbbell Shoulder Press: Demonstration by StrengthLog. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "SSXS4Z8OkCg",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DSSXS4Z8OkCg&format=json",
+        "publisherTitle": "Seated Dumbbell Shoulder Press: Demonstration",
+        "publisherName": "StrengthLog"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_cable_press",
+      "exerciseName": "Seated Cable Shoulder Press",
+      "url": "https://www.youtube.com/watch?v=WfP5trssUV4",
+      "title": "How To Do Seated Cable Shoulder Press | Exercise Demo",
+      "source": "OriGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=WfP5trssUV4 — Publisher title and public embed metadata identify How To Do Seated Cable Shoulder Press | Exercise Demo by OriGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "WfP5trssUV4",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWfP5trssUV4&format=json",
+        "publisherTitle": "How To Do Seated Cable Shoulder Press | Exercise Demo",
+        "publisherName": "OriGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_standing_smith_press",
+      "exerciseName": "Standing Smith Machine Shoulder Press",
+      "url": "https://www.youtube.com/watch?v=Wvb-lmNcS44",
+      "title": "Standing Smith Machine Shoulder Press",
+      "source": "Jase Stuart - Better Body Academy",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=Wvb-lmNcS44 — Publisher title and public embed metadata identify Standing Smith Machine Shoulder Press by Jase Stuart - Better Body Academy. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed.",
+        "2026-10-02 watch-page visual spot check at about 0:10: standing front-shoulder press inside Smith rails without a bench; confirms the standing variant."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "Wvb-lmNcS44",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWvb-lmNcS44&format=json",
+        "publisherTitle": "Standing Smith Machine Shoulder Press",
+        "publisherName": "Jase Stuart - Better Body Academy"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_db_lateral",
+      "exerciseName": "Seated Dumbbell Lateral Raise",
+      "url": "https://www.youtube.com/watch?v=djTVHrWCvw8",
+      "title": "How To Do A SEATED DUMBBELL LATERAL RAISE | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=djTVHrWCvw8 — Publisher title and public embed metadata identify How To Do A SEATED DUMBBELL LATERAL RAISE | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "djTVHrWCvw8",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdjTVHrWCvw8&format=json",
+        "publisherTitle": "How To Do A SEATED DUMBBELL LATERAL RAISE | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_incline_db_lateral",
+      "exerciseName": "Incline Side-Lying Dumbbell Lateral Raise",
+      "url": "https://www.youtube.com/watch?v=gBhoCzxyACs",
+      "title": "How To: Side Lying Incline Dumbbell Lateral Raise",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=gBhoCzxyACs — Publisher title and public embed metadata identify How To: Side Lying Incline Dumbbell Lateral Raise by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "gBhoCzxyACs",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgBhoCzxyACs&format=json",
+        "publisherTitle": "How To: Side Lying Incline Dumbbell Lateral Raise",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_db_rear_fly",
+      "exerciseName": "Seated Bent-Over Dumbbell Rear Delt Fly",
+      "url": "https://www.youtube.com/watch?v=duDSzPBALSQ",
+      "title": "How To Do Seated Bent Over Rear Delt Raise | Exercise Demo",
+      "source": "OriGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=duDSzPBALSQ — Publisher title and public embed metadata identify How To Do Seated Bent Over Rear Delt Raise | Exercise Demo by OriGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "duDSzPBALSQ",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DduDSzPBALSQ&format=json",
+        "publisherTitle": "How To Do Seated Bent Over Rear Delt Raise | Exercise Demo",
+        "publisherName": "OriGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "exerciseName": "Flat-Bench Dumbbell Rear Delt Fly",
+      "url": "https://www.youtube.com/watch?v=lXuWPjI9dTw",
+      "title": "Tutorial | Lying Rear Delt Raise",
+      "source": "Get Right Results",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=lXuWPjI9dTw — Publisher title and public embed metadata identify Tutorial | Lying Rear Delt Raise by Get Right Results. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed.",
+        "2026-10-02 watch-page visual spot check at about 0:26: prone torso supported on a horizontal bench, dumbbells raised outward; confirms flat support rather than an incline."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "lXuWPjI9dTw",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlXuWPjI9dTw&format=json",
+        "publisherTitle": "Tutorial | Lying Rear Delt Raise",
+        "publisherName": "Get Right Results"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_standing_db_rear_fly",
+      "exerciseName": "Standing Bent-Over Dumbbell Rear Delt Fly",
+      "url": "https://www.youtube.com/watch?v=1s0W0ig2L1k",
+      "title": "How To Do Dumbbell Bent Over Reverse Fly | Exercise Demo",
+      "source": "OriGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=1s0W0ig2L1k — Publisher title and public embed metadata identify How To Do Dumbbell Bent Over Reverse Fly | Exercise Demo by OriGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "1s0W0ig2L1k",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1s0W0ig2L1k&format=json",
+        "publisherTitle": "How To Do Dumbbell Bent Over Reverse Fly | Exercise Demo",
+        "publisherName": "OriGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_high_cable_fly",
+      "exerciseName": "High-to-Low Cable Fly",
+      "url": "https://www.youtube.com/watch?v=Rwz69lvgJys",
+      "title": "How To Do A High To Low Cable Fly | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=Rwz69lvgJys — Publisher title and public embed metadata identify How To Do A High To Low Cable Fly | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "Rwz69lvgJys",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DRwz69lvgJys&format=json",
+        "publisherTitle": "How To Do A High To Low Cable Fly | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_low_cable_fly",
+      "exerciseName": "Low-to-High Cable Fly",
+      "url": "https://www.youtube.com/watch?v=KFl3Re5UbPo",
+      "title": "How To: Low To High Cable Fly",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=KFl3Re5UbPo — Publisher title and public embed metadata identify How To: Low To High Cable Fly by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "KFl3Re5UbPo",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DKFl3Re5UbPo&format=json",
+        "publisherTitle": "How To: Low To High Cable Fly",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_flat_cable_fly",
+      "exerciseName": "Flat-Bench Cable Fly",
+      "url": "https://www.youtube.com/watch?v=gV2QSjD3Cs0",
+      "title": "How To Do A FLAT BENCH CABLE FLY | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=gV2QSjD3Cs0 — Publisher title and public embed metadata identify How To Do A FLAT BENCH CABLE FLY | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "gV2QSjD3Cs0",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DgV2QSjD3Cs0&format=json",
+        "publisherTitle": "How To Do A FLAT BENCH CABLE FLY | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_incline_cable_fly",
+      "exerciseName": "Incline-Bench Cable Fly",
+      "url": "https://www.youtube.com/watch?v=lzxCuqCTAjU",
+      "title": "How to Do an Incline Cable Fly | Chest Workout",
+      "source": "Howcast",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=lzxCuqCTAjU — Publisher title and public embed metadata identify How to Do an Incline Cable Fly | Chest Workout by Howcast. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "lzxCuqCTAjU",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlzxCuqCTAjU&format=json",
+        "publisherTitle": "How to Do an Incline Cable Fly | Chest Workout",
+        "publisherName": "Howcast"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_cable_chest",
+      "exerciseName": "Seated Cable Chest Press",
+      "url": "https://www.youtube.com/watch?v=uuAi2G7vhps",
+      "title": "How To Do Seated Cable Chest Press | Exercise Demo",
+      "source": "OriGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=uuAi2G7vhps — Publisher title and public embed metadata identify How To Do Seated Cable Chest Press | Exercise Demo by OriGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "uuAi2G7vhps",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuuAi2G7vhps&format=json",
+        "publisherTitle": "How To Do Seated Cable Chest Press | Exercise Demo",
+        "publisherName": "OriGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_incline_cable_chest",
+      "exerciseName": "Incline Cable Chest Press",
+      "url": "https://www.youtube.com/watch?v=qctZmqNhkfU",
+      "title": "Incline Cable Chest Press - HASfit Upper Chest Exercise Demonstration - Incline Cable Bench Press",
+      "source": "HASfit",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=qctZmqNhkfU — Publisher title and public embed metadata identify Incline Cable Chest Press - HASfit Upper Chest Exercise Demonstration - Incline Cable Bench Press by HASfit. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "qctZmqNhkfU",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DqctZmqNhkfU&format=json",
+        "publisherTitle": "Incline Cable Chest Press - HASfit Upper Chest Exercise Demonstration - Incline Cable Bench Press",
+        "publisherName": "HASfit"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_db_curl",
+      "exerciseName": "Seated Dumbbell Curl",
+      "url": "https://www.youtube.com/watch?v=s9GGVuUXgmY",
+      "title": "How To Do A Seated Dumbbell Bicep Curl | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=s9GGVuUXgmY — Publisher title and public embed metadata identify How To Do A Seated Dumbbell Bicep Curl | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "s9GGVuUXgmY",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ds9GGVuUXgmY&format=json",
+        "publisherTitle": "How To Do A Seated Dumbbell Bicep Curl | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_db_spider_curl",
+      "exerciseName": "Dumbbell Spider Curl",
+      "url": "https://www.youtube.com/watch?v=kPKvWfxWb50",
+      "title": "Dumbbell Spider Curl Exercise - The Proper Lift - BPI Sports",
+      "source": "BPI Sports",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=kPKvWfxWb50 — Publisher title and public embed metadata identify Dumbbell Spider Curl Exercise - The Proper Lift - BPI Sports by BPI Sports. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "kPKvWfxWb50",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkPKvWfxWb50&format=json",
+        "publisherTitle": "Dumbbell Spider Curl Exercise - The Proper Lift - BPI Sports",
+        "publisherName": "BPI Sports"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_db_hammer_curl",
+      "exerciseName": "Dumbbell Hammer Curl",
+      "url": "https://www.youtube.com/watch?v=CFBZ4jN1CMI",
+      "title": "How to do a Dumbbell Hammer Curl",
+      "source": "National Academy of Sports Medicine (NASM)",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=CFBZ4jN1CMI — Publisher title and public embed metadata identify How to do a Dumbbell Hammer Curl by National Academy of Sports Medicine (NASM). Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "CFBZ4jN1CMI",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCFBZ4jN1CMI&format=json",
+        "publisherTitle": "How to do a Dumbbell Hammer Curl",
+        "publisherName": "National Academy of Sports Medicine (NASM)"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_incline_hammer_curl",
+      "exerciseName": "Incline Dumbbell Hammer Curl",
+      "url": "https://www.youtube.com/watch?v=dYmwchQHqEA",
+      "title": "How to do an incline hammer curl with dumbbell",
+      "source": "Rehab My Patient",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=dYmwchQHqEA — Publisher title and public embed metadata identify How to do an incline hammer curl with dumbbell by Rehab My Patient. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "dYmwchQHqEA",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdYmwchQHqEA&format=json",
+        "publisherTitle": "How to do an incline hammer curl with dumbbell",
+        "publisherName": "Rehab My Patient"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_cable_preacher_curl",
+      "exerciseName": "Cable Preacher Curl",
+      "url": "https://www.youtube.com/watch?v=vruRZKgRzv0",
+      "title": "How To Do Cable Preacher Curl | Exercise Demo",
+      "source": "OriGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=vruRZKgRzv0 — Publisher title and public embed metadata identify How To Do Cable Preacher Curl | Exercise Demo by OriGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "vruRZKgRzv0",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvruRZKgRzv0&format=json",
+        "publisherTitle": "How To Do Cable Preacher Curl | Exercise Demo",
+        "publisherName": "OriGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_high_cable_curl",
+      "exerciseName": "Overhead Cable Curl",
+      "url": "https://www.youtube.com/watch?v=ONzEBGwCAQU",
+      "title": "High Cable Curls - HASfit Biceps Exercise Demonstration - Cable Curl - Bicep Exercises - Bicep Curl",
+      "source": "HASfit",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=ONzEBGwCAQU — Publisher title and public embed metadata identify High Cable Curls - HASfit Biceps Exercise Demonstration - Cable Curl - Bicep Exercises - Bicep Curl by HASfit. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "ONzEBGwCAQU",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DONzEBGwCAQU&format=json",
+        "publisherTitle": "High Cable Curls - HASfit Biceps Exercise Demonstration - Cable Curl - Bicep Exercises - Bicep Curl",
+        "publisherName": "HASfit"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_rope_hammer_curl",
+      "exerciseName": "Cable Rope Hammer Curl",
+      "url": "https://www.youtube.com/watch?v=aRtiBrdMhGw",
+      "title": "How to: Cable Hammer Curl",
+      "source": "Rachel Scheer",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=aRtiBrdMhGw — Publisher title and public embed metadata identify How to: Cable Hammer Curl by Rachel Scheer. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "aRtiBrdMhGw",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaRtiBrdMhGw&format=json",
+        "publisherTitle": "How to: Cable Hammer Curl",
+        "publisherName": "Rachel Scheer"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_bb_preacher_curl",
+      "exerciseName": "Barbell Preacher Curl",
+      "url": "https://www.youtube.com/watch?v=mO1tokBXVo0",
+      "title": "Barbell Preacher Curl (A45)",
+      "source": "Chris Zaremba Fitness",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=mO1tokBXVo0 — Publisher title and public embed metadata identify Barbell Preacher Curl (A45) by Chris Zaremba Fitness. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "mO1tokBXVo0",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DmO1tokBXVo0&format=json",
+        "publisherTitle": "Barbell Preacher Curl (A45)",
+        "publisherName": "Chris Zaremba Fitness"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_db_triceps",
+      "exerciseName": "Seated Dumbbell Overhead Triceps Extension",
+      "url": "https://www.youtube.com/watch?v=dxdr8iSRLA8",
+      "title": "Dumbbell Seated Overhead Tricep Extension - OPEX Exercise Library",
+      "source": "OPEX Fitness",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=dxdr8iSRLA8 — Publisher title and public embed metadata identify Dumbbell Seated Overhead Tricep Extension - OPEX Exercise Library by OPEX Fitness. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "dxdr8iSRLA8",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Ddxdr8iSRLA8&format=json",
+        "publisherTitle": "Dumbbell Seated Overhead Tricep Extension - OPEX Exercise Library",
+        "publisherName": "OPEX Fitness"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_incline_cable_triceps",
+      "exerciseName": "Incline Cable Triceps Extension",
+      "url": "https://www.youtube.com/watch?v=HrNgklDApdE",
+      "title": "Tutorial | Seated Incline Cable Triceps Extensions",
+      "source": "Get Right Results",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=HrNgklDApdE — Publisher title and public embed metadata identify Tutorial | Seated Incline Cable Triceps Extensions by Get Right Results. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "HrNgklDApdE",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DHrNgklDApdE&format=json",
+        "publisherTitle": "Tutorial | Seated Incline Cable Triceps Extensions",
+        "publisherName": "Get Right Results"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_decline_ez_triceps",
+      "exerciseName": "Decline EZ-Bar Triceps Extension",
+      "url": "https://www.youtube.com/watch?v=hrDOmwscfw4",
+      "title": "How To Do Decline Ez Bar Tricep Extension | Exercise Demo",
+      "source": "OriGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=hrDOmwscfw4 — Publisher title and public embed metadata identify How To Do Decline Ez Bar Tricep Extension | Exercise Demo by OriGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "hrDOmwscfw4",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhrDOmwscfw4&format=json",
+        "publisherTitle": "How To Do Decline Ez Bar Tricep Extension | Exercise Demo",
+        "publisherName": "OriGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_bb_floor_press",
+      "exerciseName": "Barbell Floor Press",
+      "url": "https://www.youtube.com/watch?v=77gWg_ZA8Kg",
+      "title": "How To Do Barbell Floor Press | John Rusin, PT, DPT, CSCS",
+      "source": "Bodybuilding.com",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=77gWg_ZA8Kg — Publisher title and public embed metadata identify How To Do Barbell Floor Press | John Rusin, PT, DPT, CSCS by Bodybuilding.com. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "77gWg_ZA8Kg",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D77gWg_ZA8Kg&format=json",
+        "publisherTitle": "How To Do Barbell Floor Press | John Rusin, PT, DPT, CSCS",
+        "publisherName": "Bodybuilding.com"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_db_floor_press",
+      "exerciseName": "Dumbbell Floor Press",
+      "url": "https://www.youtube.com/watch?v=uUGDRwge4F8",
+      "title": "How To: Dumbbell Floor Press",
+      "source": "ScottHermanFitness",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=uUGDRwge4F8 — Publisher title and public embed metadata identify How To: Dumbbell Floor Press by ScottHermanFitness. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "uUGDRwge4F8",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DuUGDRwge4F8&format=json",
+        "publisherTitle": "How To: Dumbbell Floor Press",
+        "publisherName": "ScottHermanFitness"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_bb_rack_pull",
+      "exerciseName": "Barbell Rack Pull",
+      "url": "https://www.youtube.com/watch?v=WkfOa33J-QM",
+      "title": "How To Do A BARBELL RACK PULL | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=WkfOa33J-QM — Publisher title and public embed metadata identify How To Do A BARBELL RACK PULL | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "WkfOa33J-QM",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWkfOa33J-QM&format=json",
+        "publisherTitle": "How To Do A BARBELL RACK PULL | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_smith_rack_pull",
+      "exerciseName": "Smith Machine Rack Pull",
+      "url": "https://www.youtube.com/watch?v=1mQFupdctDk",
+      "title": "Powerlifting At Planet Fitness: How To Do Rack Pulls (Rack/Partial Deadlifts) In The Smith Machine",
+      "source": "Mailman Muscle",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=1mQFupdctDk — Publisher title and public embed metadata identify Powerlifting At Planet Fitness: How To Do Rack Pulls (Rack/Partial Deadlifts) In The Smith Machine by Mailman Muscle. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "1mQFupdctDk",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D1mQFupdctDk&format=json",
+        "publisherTitle": "Powerlifting At Planet Fitness: How To Do Rack Pulls (Rack/Partial Deadlifts) In The Smith Machine",
+        "publisherName": "Mailman Muscle"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_machine_hip_thrust",
+      "exerciseName": "Machine Hip Thrust",
+      "url": "https://www.youtube.com/watch?v=_jPpHwTzGTs",
+      "title": "How To Do A MACHINE HIP THRUST (Matrix Glute Trainer) | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=_jPpHwTzGTs — Publisher title and public embed metadata identify How To Do A MACHINE HIP THRUST (Matrix Glute Trainer) | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "_jPpHwTzGTs",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_jPpHwTzGTs&format=json",
+        "publisherTitle": "How To Do A MACHINE HIP THRUST (Matrix Glute Trainer) | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_assisted_pullup",
+      "exerciseName": "Machine-Assisted Pull-Up",
+      "url": "https://www.youtube.com/watch?v=wFj808u2HWU",
+      "title": "How To Use The Assisted Pull Up Machine",
+      "source": "PureGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=wFj808u2HWU — Publisher title and public embed metadata identify How To Use The Assisted Pull Up Machine by PureGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "wFj808u2HWU",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwFj808u2HWU&format=json",
+        "publisherTitle": "How To Use The Assisted Pull Up Machine",
+        "publisherName": "PureGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_assisted_dip",
+      "exerciseName": "Machine-Assisted Dip",
+      "url": "https://www.youtube.com/watch?v=D8RIzFsK8gA",
+      "title": "TUTORIAL: How To Use The Assisted Dip Machine (PLANET FITNESS)",
+      "source": "Wavvy Fitness",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=D8RIzFsK8gA — Publisher title and public embed metadata identify TUTORIAL: How To Use The Assisted Dip Machine (PLANET FITNESS) by Wavvy Fitness. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "D8RIzFsK8gA",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DD8RIzFsK8gA&format=json",
+        "publisherTitle": "TUTORIAL: How To Use The Assisted Dip Machine (PLANET FITNESS)",
+        "publisherName": "Wavvy Fitness"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_machine_glute_kickback",
+      "exerciseName": "Machine Glute Kickback",
+      "url": "https://www.youtube.com/watch?v=YFenEkt2ovQ",
+      "title": "How To Do A MACHINE KNEELING GLUTE KICKBACK (Star Trac) | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=YFenEkt2ovQ — Publisher title and public embed metadata identify How To Do A MACHINE KNEELING GLUTE KICKBACK (Star Trac) | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "YFenEkt2ovQ",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYFenEkt2ovQ&format=json",
+        "publisherTitle": "How To Do A MACHINE KNEELING GLUTE KICKBACK (Star Trac) | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_machine_back_extension",
+      "exerciseName": "Machine Back Extension",
+      "url": "https://www.youtube.com/watch?v=iSIFVCzzNOY",
+      "title": "SEATED BACK EXTENSION / TUTORIAL FOR BEGINNERS",
+      "source": "AMOFitnessTraining",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=iSIFVCzzNOY — Publisher title and public embed metadata identify SEATED BACK EXTENSION / TUTORIAL FOR BEGINNERS by AMOFitnessTraining. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "iSIFVCzzNOY",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DiSIFVCzzNOY&format=json",
+        "publisherTitle": "SEATED BACK EXTENSION / TUTORIAL FOR BEGINNERS",
+        "publisherName": "AMOFitnessTraining"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_lever_lat_pulldown",
+      "exerciseName": "Plate-Loaded Lat Pulldown",
+      "url": "https://www.youtube.com/watch?v=TRC5LCYi6W0",
+      "title": "Hammer Strength Plate-Loaded Front Lat Pulldown Instructions",
+      "source": "Life Fitness / Hammer Strength",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=TRC5LCYi6W0 — Publisher title and public embed metadata identify Hammer Strength Plate-Loaded Front Lat Pulldown Instructions by Life Fitness / Hammer Strength. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "TRC5LCYi6W0",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DTRC5LCYi6W0&format=json",
+        "publisherTitle": "Hammer Strength Plate-Loaded Front Lat Pulldown Instructions",
+        "publisherName": "Life Fitness / Hammer Strength"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_leg_press",
+      "exerciseName": "Seated Horizontal Leg Press",
+      "url": "https://www.youtube.com/watch?v=4v1sDo8nqgI",
+      "title": "How To Do A HORIZONTAL LEG PRESS WITH WIDE STANCE | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=4v1sDo8nqgI — Publisher title and public embed metadata identify How To Do A HORIZONTAL LEG PRESS WITH WIDE STANCE | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "4v1sDo8nqgI",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D4v1sDo8nqgI&format=json",
+        "publisherTitle": "How To Do A HORIZONTAL LEG PRESS WITH WIDE STANCE | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_standing_leg_curl",
+      "exerciseName": "Standing Machine Leg Curl",
+      "url": "https://www.youtube.com/watch?v=b2t0LN9NiJQ",
+      "title": "HOW TO USE GYM MACHINES: Standing Leg Curl",
+      "source": "Gymleco",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=b2t0LN9NiJQ — Publisher title and public embed metadata identify HOW TO USE GYM MACHINES: Standing Leg Curl by Gymleco. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "b2t0LN9NiJQ",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Db2t0LN9NiJQ&format=json",
+        "publisherTitle": "HOW TO USE GYM MACHINES: Standing Leg Curl",
+        "publisherName": "Gymleco"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_decline_machine_press",
+      "exerciseName": "Decline Machine Chest Press",
+      "url": "https://www.youtube.com/watch?v=ouV5j9d4hfI",
+      "title": "Leverage Decline Chest Press",
+      "source": "My PT Hub",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=ouV5j9d4hfI — Publisher title and public embed metadata identify Leverage Decline Chest Press by My PT Hub. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "ouV5j9d4hfI",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DouV5j9d4hfI&format=json",
+        "publisherTitle": "Leverage Decline Chest Press",
+        "publisherName": "My PT Hub"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_machine_high_row",
+      "exerciseName": "Leverage High Row",
+      "url": "https://www.youtube.com/watch?v=beKbbq6NhWY",
+      "title": "How To Do A MACHINE HIGH ROW (Hammer Strength) | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=beKbbq6NhWY — Publisher title and public embed metadata identify How To Do A MACHINE HIGH ROW (Hammer Strength) | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "beKbbq6NhWY",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbeKbbq6NhWY&format=json",
+        "publisherTitle": "How To Do A MACHINE HIGH ROW (Hammer Strength) | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_lat_pulldown",
+      "exerciseName": "Single-Arm Cable Lat Pulldown",
+      "url": "https://www.youtube.com/watch?v=PTmdK_N9iTI",
+      "title": "How To Do A NEUTRAL GRIP SEATED SINGLE ARM LAT PULLDOWN | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=PTmdK_N9iTI — Publisher title and public embed metadata identify How To Do A NEUTRAL GRIP SEATED SINGLE ARM LAT PULLDOWN | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "PTmdK_N9iTI",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPTmdK_N9iTI&format=json",
+        "publisherTitle": "How To Do A NEUTRAL GRIP SEATED SINGLE ARM LAT PULLDOWN | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_cable_row",
+      "exerciseName": "Single-Arm Seated Cable Row",
+      "url": "https://www.youtube.com/watch?v=oDKu4Y-hQtA",
+      "title": "How To Do A SINGLE ARM SEATED CABLE ROW | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=oDKu4Y-hQtA — Publisher title and public embed metadata identify How To Do A SINGLE ARM SEATED CABLE ROW | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "oDKu4Y-hQtA",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoDKu4Y-hQtA&format=json",
+        "publisherTitle": "How To Do A SINGLE ARM SEATED CABLE ROW | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_leg_extension",
+      "exerciseName": "Single-Leg Leg Extension",
+      "url": "https://www.youtube.com/watch?v=82IuSLk5zNc",
+      "title": "How To Do A Single Leg Extension",
+      "source": "PureGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=82IuSLk5zNc — Publisher title and public embed metadata identify How To Do A Single Leg Extension by PureGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "82IuSLk5zNc",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D82IuSLk5zNc&format=json",
+        "publisherTitle": "How To Do A Single Leg Extension",
+        "publisherName": "PureGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_db_bench",
+      "exerciseName": "Single-Arm Dumbbell Bench Press",
+      "url": "https://www.youtube.com/watch?v=LgCbv-u73vg",
+      "title": "How To Do A SINGLE ARM DUMBBELL FLAT BENCH PRESS | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=LgCbv-u73vg — Publisher title and public embed metadata identify How To Do A SINGLE ARM DUMBBELL FLAT BENCH PRESS | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "LgCbv-u73vg",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLgCbv-u73vg&format=json",
+        "publisherTitle": "How To Do A SINGLE ARM DUMBBELL FLAT BENCH PRESS | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_db_press",
+      "exerciseName": "Standing Single-Arm Dumbbell Shoulder Press",
+      "url": "https://www.youtube.com/watch?v=JyJJLEnCcUo",
+      "title": "How To Do A STANDING SINGLE ARM DUMBBELL SHOULDER PRESS | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=JyJJLEnCcUo — Publisher title and public embed metadata identify How To Do A STANDING SINGLE ARM DUMBBELL SHOULDER PRESS | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "JyJJLEnCcUo",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DJyJJLEnCcUo&format=json",
+        "publisherTitle": "How To Do A STANDING SINGLE ARM DUMBBELL SHOULDER PRESS | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_single_db_press",
+      "exerciseName": "Seated Single-Arm Dumbbell Shoulder Press",
+      "url": "https://www.youtube.com/watch?v=MZdT1-Bv9Dg",
+      "title": "Single Arm Seated Dumbbell Shoulder Press",
+      "source": "My PT Hub",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=MZdT1-Bv9Dg — Publisher title and public embed metadata identify Single Arm Seated Dumbbell Shoulder Press by My PT Hub. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "MZdT1-Bv9Dg",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMZdT1-Bv9Dg&format=json",
+        "publisherTitle": "Single Arm Seated Dumbbell Shoulder Press",
+        "publisherName": "My PT Hub"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_cable_fly",
+      "exerciseName": "Single-Arm Standing Cable Fly",
+      "url": "https://www.youtube.com/watch?v=YjRHTZyTT4A",
+      "title": "How To Do A STANDING SINGLE ARM MIDDLE CABLE FLY | Exercise Demonstration Video and Guide",
+      "source": "Live Lean TV Daily Exercises",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=YjRHTZyTT4A — Publisher title and public embed metadata identify How To Do A STANDING SINGLE ARM MIDDLE CABLE FLY | Exercise Demonstration Video and Guide by Live Lean TV Daily Exercises. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "YjRHTZyTT4A",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYjRHTZyTT4A&format=json",
+        "publisherTitle": "How To Do A STANDING SINGLE ARM MIDDLE CABLE FLY | Exercise Demonstration Video and Guide",
+        "publisherName": "Live Lean TV Daily Exercises"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_db_triceps",
+      "exerciseName": "Standing Single-Arm Dumbbell Overhead Triceps Extension",
+      "url": "https://www.youtube.com/watch?v=_gsUck-7M74",
+      "title": "How to Do a Dumbbell Tricep Extension | Arm Workout",
+      "source": "Howcast",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=_gsUck-7M74 — Publisher title and public embed metadata identify How to Do a Dumbbell Tricep Extension | Arm Workout by Howcast. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "_gsUck-7M74",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_gsUck-7M74&format=json",
+        "publisherTitle": "How to Do a Dumbbell Tricep Extension | Arm Workout",
+        "publisherName": "Howcast"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_single_db_triceps",
+      "exerciseName": "Seated Single-Arm Dumbbell Overhead Triceps Extension",
+      "url": "https://www.youtube.com/watch?v=kZ-ReOdn2qk",
+      "title": "How to do a Seated Single-Arm Dumbbell Tricep Extension",
+      "source": "National Academy of Sports Medicine (NASM)",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=kZ-ReOdn2qk — Publisher title and public embed metadata identify How to do a Seated Single-Arm Dumbbell Tricep Extension by National Academy of Sports Medicine (NASM). Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "kZ-ReOdn2qk",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkZ-ReOdn2qk&format=json",
+        "publisherTitle": "How to do a Seated Single-Arm Dumbbell Tricep Extension",
+        "publisherName": "National Academy of Sports Medicine (NASM)"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_db_preacher",
+      "exerciseName": "Single-Arm Dumbbell Preacher Curl",
+      "url": "https://www.youtube.com/watch?v=2o7eZf_aF3A",
+      "title": "Single-Arm Dumbbell Preacher Curl | Olympic Weightlifting Exercise Library",
+      "source": "Catalyst Athletics",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=2o7eZf_aF3A — Publisher title and public embed metadata identify Single-Arm Dumbbell Preacher Curl | Olympic Weightlifting Exercise Library by Catalyst Athletics. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "2o7eZf_aF3A",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2o7eZf_aF3A&format=json",
+        "publisherTitle": "Single-Arm Dumbbell Preacher Curl | Olympic Weightlifting Exercise Library",
+        "publisherName": "Catalyst Athletics"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_seated_cable_rear_fly",
+      "exerciseName": "Seated Bent-Over Cable Rear Delt Fly",
+      "url": "https://www.youtube.com/watch?v=eozOiJMU2f8",
+      "title": "How To Do Cable Seated Lateral Raise | Exercise Demo",
+      "source": "OriGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=eozOiJMU2f8 — Publisher title and public embed metadata identify How To Do Cable Seated Lateral Raise | Exercise Demo by OriGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "eozOiJMU2f8",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeozOiJMU2f8&format=json",
+        "publisherTitle": "How To Do Cable Seated Lateral Raise | Exercise Demo",
+        "publisherName": "OriGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_cable_curl",
+      "exerciseName": "Single-Arm Standing Cable Curl",
+      "url": "https://www.youtube.com/watch?v=g5nR_Nafipg",
+      "title": "Tutorial | Standing One-Arm Cable Curl",
+      "source": "Get Right Results",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=g5nR_Nafipg — Publisher title and public embed metadata identify Tutorial | Standing One-Arm Cable Curl by Get Right Results. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "g5nR_Nafipg",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg5nR_Nafipg&format=json",
+        "publisherTitle": "Tutorial | Standing One-Arm Cable Curl",
+        "publisherName": "Get Right Results"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_lying_cable_curl",
+      "exerciseName": "Lying High-Pulley Cable Curl",
+      "url": "https://www.youtube.com/watch?v=PmKWmG3ZrYE",
+      "title": "Lying High Cable Curls",
+      "source": "Train With Cuz",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=PmKWmG3ZrYE — Publisher title and public embed metadata identify Lying High Cable Curls by Train With Cuz. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "PmKWmG3ZrYE",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DPmKWmG3ZrYE&format=json",
+        "publisherTitle": "Lying High Cable Curls",
+        "publisherName": "Train With Cuz"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_single_leg_press",
+      "exerciseName": "Single-Leg Sled Leg Press",
+      "url": "https://www.youtube.com/watch?v=sxF9BcDt-yY",
+      "title": "How To Do A Single Leg Press",
+      "source": "PureGym",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=sxF9BcDt-yY — Publisher title and public embed metadata identify How To Do A Single Leg Press by PureGym. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "sxF9BcDt-yY",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsxF9BcDt-yY&format=json",
+        "publisherTitle": "How To Do A Single Leg Press",
+        "publisherName": "PureGym"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_bb_spider_curl",
+      "exerciseName": "Barbell Spider Curl",
+      "url": "https://www.youtube.com/watch?v=M61eMsycpfs",
+      "title": "Barbell Spider Curls",
+      "source": "Train With Cuz",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=M61eMsycpfs — Publisher title and public embed metadata identify Barbell Spider Curls by Train With Cuz. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "M61eMsycpfs",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DM61eMsycpfs&format=json",
+        "publisherTitle": "Barbell Spider Curls",
+        "publisherName": "Train With Cuz"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
+    },
+    {
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "exerciseName": "Incline Barbell Triceps Extension",
+      "url": "https://www.youtube.com/watch?v=exhuTwstcio",
+      "title": "Incline Barbell Triceps Extension",
+      "source": "Fighterdiet",
+      "orientation": "landscape",
+      "selectionStatus": "ai-curated-at-user-request",
+      "userApproved": false,
+      "editorialEvidence": [
+        "https://www.youtube.com/watch?v=exhuTwstcio — Publisher title and public embed metadata identify Incline Barbell Triceps Extension by Fighterdiet. Selected for the catalog movement, apparatus and body position; full visual/trainer review is not claimed."
+      ],
+      "limitations": [
+        "Matched using publisher identity and movement/setup evidence; not a complete visual or trainer review. Public oEmbed metadata does not guarantee regional playback."
+      ],
+      "reviewedAt": "2026-10-02T21:33:12.499922+00:00",
+      "reviewer": "Codex",
+      "availability": {
+        "videoId": "exhuTwstcio",
+        "oembedAvailable": true,
+        "checkedAt": "2026-10-02T21:33:12.499922+00:00",
+        "oembedEndpoint": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DexhuTwstcio&format=json",
+        "publisherTitle": "Incline Barbell Triceps Extension",
+        "publisherName": "Fighterdiet"
+      },
+      "license": "External YouTube embed/link only; publisher retains rights. No video copied or rehosted."
     }
-  ]
+  ],
+  "textOnlyExerciseIds": [
+    "cat_sep_bb_board_press",
+    "cat_sep_bb_deficit_deadlift",
+    "cat_sep_bb_deficit_rdl",
+    "cat_sep_bb_drag_curl",
+    "cat_sep_bb_pin_press",
+    "cat_sep_bb_reverse_curl",
+    "cat_sep_bb_stiff_deadlift",
+    "cat_sep_cable_low_high_lift",
+    "cat_sep_cable_rear_delt_row",
+    "cat_sep_cable_reverse_crunch",
+    "cat_sep_cable_reverse_curl",
+    "cat_sep_db_hammer_preacher",
+    "cat_sep_db_reverse_curl",
+    "cat_sep_db_zottman_curl",
+    "cat_sep_db_zottman_preacher",
+    "cat_sep_ez_reverse_preacher",
+    "cat_sep_incline_db_front_raise",
+    "cat_sep_one_arm_pushup",
+    "cat_sep_seated_good_morning",
+    "cat_sep_seated_kb_press",
+    "cat_sep_single_landmine_row",
+    "cat_sep_smith_rdl",
+    "cat_sep_towel_one_arm_chin",
+    "cat_var_captain_chair_knee_raise",
+    "cat_var_floor_lying_leg_raise",
+    "cat_var_v_squat",
+    "cat_sep_db_rdl",
+    "cat_smith_seated_calf_raise",
+    "cat_single_leg_calf_raise"
+  ],
+  "textOnlyReason": "Revisions 19–20 added Captain’s Chair Knee Raise, V-Squat and Floor Lying Leg Raise with written guidance only; video references have not been selected. Revision 23 adds the user-approved movement separations with original written guidance only; their videos have not been selected and no previous media approval transfers. Revision 24 adds Dumbbell Romanian Deadlift, Seated Smith Machine Calf Raise and Standing Single-Leg Calf Raise with written guidance only; no video has been selected for these identities."
 }

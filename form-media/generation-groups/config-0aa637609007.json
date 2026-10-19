@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_rear_leg_raises_0bbd6757-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_rear_leg_raises_0bbd6757-video-b433d794.json"
+    },
+    {
+      "shot": "r13-open_oblique_crunches_c1078e1e-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_oblique_crunches_c1078e1e-video-05d803c6.json"
+    },
+    {
+      "shot": "r13-open_lower_back_curl_dd4375a1-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_lower_back_curl_dd4375a1-video-5338290f.json"
+    },
+    {
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_skull_crusher_d4b2fbd2-video-4701a6dd.json"
+    },
+    {
+      "shot": "r13-cat_pil_roll_up-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_roll_up-video-f0b52beb.json"
+    },
+    {
+      "shot": "r13-cat_pil_single_leg_kick-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_single_leg_kick-video-5b291444.json"
+    }
+  ]
+}

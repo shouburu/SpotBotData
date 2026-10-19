@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_band_pallof_press-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pallof_press-start-749e6dc7.json"
+    },
+    {
+      "shot": "r13-cat_band_lateral_raise-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_lateral_raise-start-42ba01ee.json"
+    },
+    {
+      "shot": "r13-open_one_arm_kettlebell_ro_f1152bb2-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_one_arm_kettlebell_ro_f1152bb2-start-1c9c0727.json"
+    },
+    {
+      "shot": "r13-ex_back_extension-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_back_extension-start-139de103.json"
+    },
+    {
+      "shot": "r13-ex_ab_wheel-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_ab_wheel-start-965fa5d3.json"
+    },
+    {
+      "shot": "r13-ex_leg_raise-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_leg_raise-start-89a162e8.json"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "group_f9170396715648da",
+  "status": "cancelled-before-submission",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:44:19+00:00",
+  "balanceBefore": 2471,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_pil_roll_up",
+      "shot": "r13-cat_pil_roll_up-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "070eed0ea6c67213aaf31396cac18d826bddb9ffe99b4a7d36104e972bed6b29",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_roll_up-start-4fef0e89.json",
+      "quoteSha256": "e57cbc232dcd7b9fed2bdc58cb7a22d3536fe49faa51654ee0998a08b6294d40",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_double_leg_kick",
+      "shot": "r13-cat_pil_double_leg_kick-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "724f49bd301ea6b0e08a8660e19a203bbce3489d5d1c13a73279fcf6026f3f56",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_double_leg_kick-start-1252ece2.json",
+      "quoteSha256": "acfcdcbead453d4e3c79da9dfb4cbdbad89f97a20b8e5509bbdd3180e9658a96",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_swimming",
+      "shot": "r13-cat_pil_swimming-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "3da6200f4183b94a87ac85978f7ba3ca1f1aa53ff85fb0ac2420edd490e30849",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_swimming-start-c480f4b3.json",
+      "quoteSha256": "a17fb17242f1d116a197a01881a8a001d17a4a691306b89b5e77afb42688833b",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_side_leg_circle",
+      "shot": "r13-cat_pil_side_leg_circle-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "5162b01c3f4b20e740e944b840e335a9e516d896cce8657d2f5b74ad596522b4",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_leg_circle-start-fa7df402.json",
+      "quoteSha256": "a932e662bce43fd1bc1e9bd1ce002f0e58a309a32c280171421864067ef1b160",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_side_kick",
+      "shot": "r13-cat_pil_side_kick-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "4e593b2eb9233536c8f48342997e93039ec904c74a1d0747de11da75d495fe41",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_kick-start-bb18815e.json",
+      "quoteSha256": "461e176f28dd7b8f83871b95d51be1bcc00133f8ef512c7dea0b26001b9d8579",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    },
+    {
+      "exerciseId": "open_band_hip_adductions_78d2d658",
+      "shot": "r13-open_band_hip_adductions_78d2d658-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "b309e790155e36109b2ab495ccb443fcf928407bde8eea2f78ed4e32436ec6a4",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_hip_adductions_78d2d658-start-f405ff02.json",
+      "quoteSha256": "8f9da7ea8a8a29920e0c4d469021b9e4f3c56519c2a7e8a95210773e2db443db",
+      "quoteCredits": 0,
+      "balance": 2471,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "closedAt": "2026-10-09T23:46:58+00:00",
+  "actualCredits": 0,
+  "balanceAfter": 2471,
+  "evidenceFile": "form-media/ui-quotes/round-13-additional40-preflight-closure.json",
+  "evidenceSha256": "8dbfcdf8c5970d2d4dccdf3ca7b4e52bb50f85f29c39f1a2e44c468a9746687a",
+  "closureNote": "All six workers rejected absent pilot enrollment before any reservation or provider submission. Quotes and log retained; no attempt identity or count existed."
+}

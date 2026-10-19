@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_pil_seated_heel_raise-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_seated_heel_raise-video-3fd2cf24.json"
+    },
+    {
+      "shot": "r13-cat_pil_side_kick-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_side_kick-video-8ca33a38.json"
+    },
+    {
+      "shot": "r13-cat_band_side_walk-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_side_walk-video-956a1ea1.json"
+    },
+    {
+      "shot": "r13-cat_bal_side_step_hold-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_side_step_hold-video-9adbb6c9.json"
+    },
+    {
+      "shot": "r13-cat_bal_quarter_turn-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_quarter_turn-video-31fb473b.json"
+    },
+    {
+      "shot": "r13-cat_mob_scapular_pushup-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_mob_scapular_pushup-video-a40823f1.json"
+    }
+  ]
+}

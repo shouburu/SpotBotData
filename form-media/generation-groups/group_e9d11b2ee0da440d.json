@@ -1,0 +1,34 @@
+{
+  "id": "group_e9d11b2ee0da440d",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T21:32:28+00:00",
+  "balanceBefore": 3157,
+  "quotedCredits": 100,
+  "members": [
+    {
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "63afdba00b2613d434e838e2a85965506728a593ac4b1d7dde789c94a2d401d4",
+      "quoteFile": "form-media/ui-quotes/r12-smith-shrug-video-c55add83.json",
+      "quoteSha256": "a02e3217bd818f5dc5ccf331088f16646950235b165d30fa6c09ad272ff6d39c",
+      "quoteCredits": 100,
+      "balance": 3157,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-shrug-start/attempt_7e0fa8836a594ec3.jpg",
+          "sha256": "c44a1e6b5a189f9f4ab013f1bc21b0cc6bebe69b94b9d861b5e2c92dc568657b"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T21:34:13+00:00",
+  "balanceAfter": 3057,
+  "actualCredits": 100,
+  "evidenceFile": "form-media/ui-quotes/observed-c4e6bed2f93d430f.json",
+  "evidenceSha256": "aba09650c02d1a66492335086bee91c1e51243da01e62824c8f835b76fac3760",
+  "terminalFailureIds": []
+}

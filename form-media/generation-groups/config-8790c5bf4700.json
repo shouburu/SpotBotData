@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-ex_v_up-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_v_up-start-248e8d86.json"
+    },
+    {
+      "shot": "r13-open_scissor_kick_0399c7e5-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_scissor_kick_0399c7e5-start-049db3aa.json"
+    },
+    {
+      "shot": "r13-cat_cal_side_jackknife-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_side_jackknife-start-7b4d4abb.json"
+    },
+    {
+      "shot": "r13-cat_cal_bird_dog-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_bird_dog-start-75bed728.json"
+    },
+    {
+      "shot": "r13-open_oblique_crunches_on_t_30346079-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_oblique_crunches_on_t_30346079-start-932d6ddc.json"
+    },
+    {
+      "shot": "r13-open_sit_up_4e39cf08-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_sit_up_4e39cf08-start-0ceadee5.json"
+    }
+  ]
+}

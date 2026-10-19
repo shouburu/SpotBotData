@@ -1,0 +1,84 @@
+{
+  "id": "group_63ab6af5dd7f4a53",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:07:25+00:00",
+  "balanceBefore": 2897,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_goblet_squat_b5c618ef",
+      "shot": "r13-open_goblet_squat_b5c618ef-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "60332f551e4a67bd9709872873ddcf5b448a2129f76b949cf8d7dcf4f38290d1",
+      "quoteFile": "form-media/ui-quotes/r13-open_goblet_squat_b5c618ef-start-0f3e210f.json",
+      "quoteSha256": "ccf191086280c51ad8ab6c9c142271f38e4764a94c4cb5f098b3d8c5d6c2c844",
+      "quoteCredits": 0,
+      "balance": 2897,
+      "references": []
+    },
+    {
+      "exerciseId": "open_one_arm_kettlebell_pa_10f1ec7a",
+      "shot": "r13-open_one_arm_kettlebell_pa_10f1ec7a-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "7084a61a921727de51f8868a9cca3540a3ac294201d822eba86604e578d9614b",
+      "quoteFile": "form-media/ui-quotes/r13-open_one_arm_kettlebell_pa_10f1ec7a-start-735c6892.json",
+      "quoteSha256": "7a4ecb08b653d4108d2f692f66b31f588ec089a2c356d979506e94aa18629e59",
+      "quoteCredits": 0,
+      "balance": 2897,
+      "references": []
+    },
+    {
+      "exerciseId": "open_two_arm_kettlebell_mi_01904129",
+      "shot": "r13-open_two_arm_kettlebell_mi_01904129-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "ae9c7759a02b1a86418e8919b0b36001ed91241ccf18ddee52676bc4d3ca03ae",
+      "quoteFile": "form-media/ui-quotes/r13-open_two_arm_kettlebell_mi_01904129-start-aa2bd868.json",
+      "quoteSha256": "cb6c668cd2fb3152bb118c50a8e62b9e77b5efb629b350bb323b1851f5bde3c4",
+      "quoteCredits": 0,
+      "balance": 2897,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_pil_seated_heel_raise",
+      "shot": "r13-cat_pil_seated_heel_raise-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "c275ff866477fb115a9f16ec103876ab31eb9c29db261278a18f0e79c2afe484",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_seated_heel_raise-start-813edc2f.json",
+      "quoteSha256": "5cf773f3bea17b9ac47e0f17c52d32ec6ea76b2c2c090066e834845d0b5864a5",
+      "quoteCredits": 0,
+      "balance": 2897,
+      "references": []
+    },
+    {
+      "exerciseId": "open_band_good_morning_0b137d10",
+      "shot": "r13-open_band_good_morning_0b137d10-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "05ccda0b3d19a73986cb35d052b7f1e3da16e01591658e4d6139f876771c95f1",
+      "quoteFile": "form-media/ui-quotes/r13-open_band_good_morning_0b137d10-start-671ad4d8.json",
+      "quoteSha256": "7faa03acabb62dd5f68f3f0d2458576717cbca0813d23a2a2f4b1d0fe5a63efb",
+      "quoteCredits": 0,
+      "balance": 2897,
+      "references": []
+    },
+    {
+      "exerciseId": "open_calf_raises_with_band_eddf26eb",
+      "shot": "r13-open_calf_raises_with_band_eddf26eb-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "b8b65bee6f5eda4e3162812cbafe7250e11971e87b5d036d35b2e3d4da7803eb",
+      "quoteFile": "form-media/ui-quotes/r13-open_calf_raises_with_band_eddf26eb-start-70405c3c.json",
+      "quoteSha256": "03b384c8b3127c6b67e3127e3d5e9db498c2ecfe518c6d5bb87bdda23944a6bf",
+      "quoteCredits": 0,
+      "balance": 2897,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T23:08:49+00:00",
+  "balanceAfter": 2897,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-3a6cecb7ba3d4bfb.json",
+  "evidenceSha256": "253c320f4cab1c29b71bf118c1dcbd48c387ced73cdbe9cf746a51033a7bd136",
+  "terminalFailureIds": []
+}

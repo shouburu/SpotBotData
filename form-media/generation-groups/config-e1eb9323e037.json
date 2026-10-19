@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-smith-front-squat-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-front-squat-start-78a4e2fb.json"
+    },
+    {
+      "shot": "r12-smith-step-up-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-step-up-start-a45204d3.json"
+    },
+    {
+      "shot": "r12-smith-glute-bridge-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-glute-bridge-start-d3af8984.json"
+    },
+    {
+      "shot": "r12-single-lat-pulldown-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-lat-pulldown-start-48b49d98.json"
+    },
+    {
+      "shot": "r12-single-db-bench-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-bench-start-3d33acad.json"
+    },
+    {
+      "shot": "r12-single-db-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-press-start-7629db0b.json"
+    }
+  ]
+}

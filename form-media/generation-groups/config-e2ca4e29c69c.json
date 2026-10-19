@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-cat_band_ohead_press-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_ohead_press-video-4c6026fc.json"
+    },
+    {
+      "shot": "r13-cat_band_curl-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_curl-video-43a92a35.json"
+    },
+    {
+      "shot": "r13-cat_band_triceps-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_triceps-video-4df54337.json"
+    },
+    {
+      "shot": "r13-cat_band_pull_apart-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_pull_apart-video-31d0ced6.json"
+    },
+    {
+      "shot": "r13-ex_leg_raise-video",
+      "quoteFile": "form-media/ui-quotes/r13-ex_leg_raise-video-18c7f342.json"
+    },
+    {
+      "shot": "r13-open_scissor_kick_0399c7e5-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_scissor_kick_0399c7e5-video-40ef8a3c.json"
+    }
+  ]
+}

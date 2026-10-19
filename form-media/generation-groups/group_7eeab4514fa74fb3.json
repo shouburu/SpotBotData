@@ -1,0 +1,93 @@
+{
+  "id": "group_7eeab4514fa74fb3",
+  "status": "completed",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T20:44:19+00:00",
+  "balanceBefore": 3339,
+  "quotedCredits": 24,
+  "members": [
+    {
+      "exerciseId": "cat_var_machine_hip_thrust",
+      "shot": "r12-machine_hip_thrust-t2v",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "48fa59e3188068dd6fa49e73351252b7273779c3cf895589daac32d17920d613",
+      "quoteFile": "form-media/ui-quotes/r12-machine_hip_thrust-t2v-3f44e005.json",
+      "quoteSha256": "8e10ee9081f34bd612d906de8c23ce8ed08d65d1febfcd671727493d190d5433",
+      "quoteCredits": 12,
+      "balance": 3339,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-machine_hip_thrust-start/attempt_92c3e0d5f5814e73.jpg",
+          "sha256": "87ef256f4edec0231a274e57fc03515b85c52479dc0e86d227a0c35744a7de92"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_incline_db_lateral",
+      "shot": "r12-incline-db-lateral-t2v",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "5c90828b53429953c0b3da46937b1a13f90bcd098fdf29028da437b59c728447",
+      "quoteFile": "form-media/ui-quotes/r12-incline-db-lateral-t2v-412aa93a.json",
+      "quoteSha256": "181fbcea57b4fdeffcd1b93b91d860b3892ec0a4fd750f1f88f9d2c6ae24470f",
+      "quoteCredits": 12,
+      "balance": 3339,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-incline-db-lateral-start/attempt_a240b81b93de41d4.jpg",
+          "sha256": "e62793acda08d0fd29a2473b97ebb69a264ab230af500304552ce042d48f8f2f"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_deadlift",
+      "shot": "r12-smith-deadlift-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "d8495ae926e9f17f0db815343a15e915ae5cb3cd36ed8dbbcb5e1ea9b6f99245",
+      "quoteFile": "form-media/ui-quotes/r12-smith-deadlift-start-ad5b165b.json",
+      "quoteSha256": "57bb0048afe48fb2e980448f6353b2711e625fcfab09107b3611cbfb2f2f0604",
+      "quoteCredits": 0,
+      "balance": 3339,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-deadlift-start/attempt_864558a4b243468a.jpg",
+          "sha256": "de0e30729c541419832e8704ad29f3d0a83e8277e287e862f23820bee5e97008"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_sumo_deadlift",
+      "shot": "r12-smith-sumo-deadlift-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "d8495ae926e9f17f0db815343a15e915ae5cb3cd36ed8dbbcb5e1ea9b6f99245",
+      "quoteFile": "form-media/ui-quotes/r12-smith-sumo-deadlift-start-ddd429f4.json",
+      "quoteSha256": "93bf8bb5cee0f327800cb2908a269f56a19f5d2f82f0082b354f374a1abcedf0",
+      "quoteCredits": 0,
+      "balance": 3339,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-sumo-deadlift-start/attempt_7f605b869b174ae4.jpg",
+          "sha256": "a31cab834abc6311409795985e14b96ece973dad32409cc52f6724ae391e3b03"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_smith_hip_thrust",
+      "shot": "r12-smith-hip-thrust-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "a5efd4be4b979178ffc1c09b28be7ad44d5ba11452f7229d195a7e9bfc5a6981",
+      "quoteFile": "form-media/ui-quotes/r12-smith-hip-thrust-start-48499ffd.json",
+      "quoteSha256": "8371c3715b2a3762d4fd43b56b51c1bc2c642e84336a7902f0cdffeeaf61e049",
+      "quoteCredits": 0,
+      "balance": 3339,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T20:45:57+00:00",
+  "balanceAfter": 3315,
+  "actualCredits": 24,
+  "evidenceFile": "form-media/ui-quotes/observed-9c212c5b1efd4f7c.json",
+  "evidenceSha256": "9f8e1558ed7768c19f2fbfd828a9a9ba956ab7fc63eb0f2cc34af3451ca4ab54",
+  "terminalFailureIds": []
+}

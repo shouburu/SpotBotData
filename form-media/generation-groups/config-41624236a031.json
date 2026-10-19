@@ -1,0 +1,16 @@
+{
+  "members": [
+    {
+      "shot": "r12-smith-front-squat-video",
+      "quoteFile": "form-media/ui-quotes/r12-smith-front-squat-video-2ca5740b.json"
+    },
+    {
+      "shot": "r12-seated-single-db-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-single-db-press-t2v-c6a2abe3.json"
+    },
+    {
+      "shot": "r12-incline-bb-triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-incline-bb-triceps-t2v-2a3b3472.json"
+    }
+  ]
+}

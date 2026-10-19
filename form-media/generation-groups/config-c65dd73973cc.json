@@ -1,0 +1,16 @@
+{
+  "members": [
+    {
+      "shot": "r12-db_hammer_curl-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-db_hammer_curl-t2v-49eda2b2.json"
+    },
+    {
+      "shot": "r12-seated-cable-crunch-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-crunch-t2v-56b5303d.json"
+    },
+    {
+      "shot": "r12-seated-cable-press-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-press-t2v-c478f377.json"
+    }
+  ]
+}

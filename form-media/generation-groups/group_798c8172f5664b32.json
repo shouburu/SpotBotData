@@ -1,0 +1,30 @@
+{
+  "id": "group_798c8172f5664b32",
+  "status": "completed",
+  "roundId": "round-13",
+  "projectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "createdAt": "2026-10-11T08:12:03+00:00",
+  "balanceBefore": 1007,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_kettlebell_windmill_53f5fe61",
+      "shot": "r13-open_kettlebell_windmill_53f5fe61-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "1d71653f5db7db9357806737a8ed9a01587ed8840e633be5c4dc445906ed7753",
+      "quoteFile": "form-media/ui-quotes/r13-open_kettlebell_windmill_53f5fe61-start-paced-3d452412.json",
+      "quoteSha256": "86c0e573ce60a4779fbbfca1f93639d70ba4ae9eba1cd09daf8e24ee0f85c114",
+      "quoteCredits": 0,
+      "balance": 1007,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-11T08:13:02+00:00",
+  "balanceAfter": 1007,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/paced-observed-15c44643a2474fc0.json",
+  "evidenceSha256": "67c89624c00b0698758356c262bab9774d6946d0bd242490515ea561d4dc1f6c",
+  "terminalFailureIds": []
+}

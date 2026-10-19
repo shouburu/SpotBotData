@@ -1,0 +1,114 @@
+{
+  "id": "group_29915bfed52c44ab",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-10T00:29:50+00:00",
+  "balanceBefore": 2013,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_one_arm_kettlebell_pu_2bbee6ad",
+      "shot": "r13-open_one_arm_kettlebell_pu_2bbee6ad-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "0e9f847e02b11c082b5f838c091eb2349a94833e574ea57a501785a5e418610c",
+      "quoteFile": "form-media/ui-quotes/r13-open_one_arm_kettlebell_pu_2bbee6ad-start-4c33938d.json",
+      "quoteSha256": "7fc6ecc14092f606c0f289b6acd2e3b926bd67caa229df2afd46412fcf6bfa99",
+      "quoteCredits": 0,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_one_arm_kettlebell_pu_2bbee6ad-start/attempt_71fcad25a1d9493b.jpg",
+          "sha256": "9f7a3e2294c4b9d4dd5b5095975ba0fcc8b1801855edcdae23f2436dea5c25b8"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_double_kettlebell_pus_6ee251c9",
+      "shot": "r13-open_double_kettlebell_pus_6ee251c9-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "9dc00f6f14296ad71518a979629b4f516aa02a8f0aa44519ba6a74cead813fc5",
+      "quoteFile": "form-media/ui-quotes/r13-open_double_kettlebell_pus_6ee251c9-start-859d53df.json",
+      "quoteSha256": "19861f337e90310c24198e0e3211886eb5953ef67d13ef94096962cf9c1c8bc9",
+      "quoteCredits": 0,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_double_kettlebell_pus_6ee251c9-start/attempt_d93d0a5e10aa435e.jpg",
+          "sha256": "b18548f697f59d3d38bad8fdc8f44f56e008c95a58cb5ea6d3b9fd7797bcf4b7"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_kettlebell_thruster_e1732893",
+      "shot": "r13-open_kettlebell_thruster_e1732893-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "fce42c0522daa9cc967ed15a7a72e705091cff8140ab7f707af326e443b350f8",
+      "quoteFile": "form-media/ui-quotes/r13-open_kettlebell_thruster_e1732893-start-2486b524.json",
+      "quoteSha256": "eda8cd66391505167a72802ad5e989d4d7d9d3265499f95f3993d315499b1346",
+      "quoteCredits": 0,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_kettlebell_thruster_e1732893-start/attempt_2b9e02988d914946.jpg",
+          "sha256": "1c890d311321d17739062a443ae7f7232362a1b0b4d2f8bae630e1e80cb4d40b"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_forward_weight_shift",
+      "shot": "r13-cat_bal_forward_weight_shift-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "f7f8ee418993b8645e795dbf1bd86e284e8682ec38f7c764c3ebbeb9c4cb7c5e",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_forward_weight_shift-start-e349c5ef.json",
+      "quoteSha256": "788f8762c58f33969dff90d7f8e14ae01abfa9bbd255267412030d047117e620",
+      "quoteCredits": 0,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_bal_forward_weight_shift-start/attempt_ea4147b228044682.jpg",
+          "sha256": "fe49d0cb81114e3439321f34ae0364d2bea8e331b341e5e11af718f0cc140515"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_bal_clock_tap",
+      "shot": "r13-cat_bal_clock_tap-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "f7f8ee418993b8645e795dbf1bd86e284e8682ec38f7c764c3ebbeb9c4cb7c5e",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_clock_tap-start-5480ed9b.json",
+      "quoteSha256": "eb458db944dbf65b1dc836d14673b21a68c4b05581bb49a2764ae079fb5c0b41",
+      "quoteCredits": 0,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_bal_clock_tap-start/attempt_3f2c1d0aa6974857.jpg",
+          "sha256": "9e1131819fa1fa13154b3b712ac60c88b7696e257c24195841a848004de35d3e"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_cal_assisted_pullup",
+      "shot": "r13-cat_cal_assisted_pullup-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "8c0e324e7e4a7c63510bc391c4afda10436d61665ec9516f658f21f6d09ceb34",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_assisted_pullup-start-820b7722.json",
+      "quoteSha256": "105d501f9183d8c9a3b8f65b77148fa7a0d7c52b0b5931b01b7dcafd4d13e635",
+      "quoteCredits": 0,
+      "balance": 2013,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_cal_assisted_pullup-start/attempt_bfed8fb419024f39.jpg",
+          "sha256": "80ad424469686612998310d7a0eb28c3570e367a7560771903a82ec45e114f1a"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-10T00:31:27+00:00",
+  "balanceAfter": 2013,
+  "actualCredits": 0,
+  "evidenceFile": "form-media/ui-quotes/observed-24884287334d4c1a.json",
+  "evidenceSha256": "63b8c4110580b0f002cb44eb17471e0b5d44f8d652cfb8e75e5777fc49149af2",
+  "terminalFailureIds": []
+}

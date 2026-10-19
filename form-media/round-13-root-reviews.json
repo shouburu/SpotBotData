@@ -1,0 +1,971 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-13",
+  "reviews": [
+    {
+      "assetId": "r13-cat_band_lateral_raise-video-04f3ed48",
+      "attemptId": "attempt_04f3ed48e92e44a7",
+      "exerciseId": "cat_band_lateral_raise",
+      "shot": "r13-cat_band_lateral_raise-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_lateral_raise-video-04f3ed48.mp4",
+      "outputSha256": "b345748ecf283af8bb2781e1b98254ef85e05a7ce397b0545da22af1aa05c7b6",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent motion review",
+      "reviewedAt": "2026-10-09T23:14:06+00:00",
+      "reviewKind": "exact-delivered-whole-timeline-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The full6s3fps sheets and full-resolution start/peak/return/finish show a correct initial side raise to around shoulder level with softly bent elbows, stable torso, feet and closed band grips, then full return.",
+        "A later partial abduction begins after the first returned stance around3.6s and resets again; the raw contains more than one complete requested repetition.",
+        "Focused3.0–4.25s12fps and exact full-resolution3.25/3.458333/3.5s frames identify an honest complete first-cycle interval0–3.5s, before that later lift. Attached shoulder-orange, body fibers, opaque shorts and under-foot anchor persist."
+      ],
+      "limitations": [
+        "Raw delivery remains negative for the extra later partial. A separate original-speed0–3.5s derivative with0.50s still holds at each end will be independently reviewed.",
+        "The still holds cannot replace movement; complete real outward/return motion exists within the selected interval. Human selection remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_04f3ed48e92e44a7/review-3fps-01.jpg",
+        "reports/form-media/attempt_04f3ed48e92e44a7/review-3fps-02.jpg",
+        "reports/form-media/attempt_04f3ed48e92e44a7/root-start.png",
+        "reports/form-media/attempt_04f3ed48e92e44a7/root-peak.png",
+        "reports/form-media/attempt_04f3ed48e92e44a7/root-first-return.png",
+        "reports/form-media/attempt_04f3ed48e92e44a7/root-trim-end.png",
+        "reports/form-media/attempt_04f3ed48e92e44a7/root-next-frame.png",
+        "reports/form-media/attempt_04f3ed48e92e44a7/root-return-12fps.jpg",
+        "reports/form-media/attempt_04f3ed48e92e44a7/root-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_band_lateral_raise-video-04f3ed48-first-cycle",
+      "attemptId": "attempt_04f3ed48e92e44a7",
+      "exerciseId": "cat_band_lateral_raise",
+      "shot": "r13-cat_band_lateral_raise-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_band_lateral_raise-video-04f3ed48-first-cycle.mp4",
+      "outputSha256": "fabc5b9c45114e4ab30c1802388dc8b1c9ab76e3f728e86f1b488357ac95cc31",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent derivative review",
+      "reviewedAt": "2026-10-09T23:14:35+00:00",
+      "reviewKind": "exact-delivered-whole-timeline-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact4.50s derivative was independently inspected across its complete3fps timeline plus full-resolution start, shoulder-level peak, returned arms and finalstill. It contains one continuous side raise and return with no second outward phase.",
+        "Both softly bent elbows travel sideways to around shoulder level while torso and planted feet remain stable; closed grips and the under-foot band remain connected. Shoulder-orange stays attached to exposed deltoid fibers through peak/return, the remaining body fibers stay gray and the shorts opaque.",
+        "The new registered output retains only original-speed source0–3.5s and0.50s cloned still holds at each endpoint. Raw negative, immutable source and exact edit provenance remain retained; no motion was reversed or reconstructed."
+      ],
+      "limitations": [
+        "AI-screened candidate awaiting human selection, not human acceptance.",
+        "Landscape framing preserves the full lateral working envelope; static endpoint holds are disclosed and no crop, color edit or speed change was applied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r13-cat_band_lateral_raise-video-04f3ed48-first-cycle/root-review-3fps.jpg",
+        "reports/form-media/r13-cat_band_lateral_raise-video-04f3ed48-first-cycle/root-start.png",
+        "reports/form-media/r13-cat_band_lateral_raise-video-04f3ed48-first-cycle/root-peak.png",
+        "reports/form-media/r13-cat_band_lateral_raise-video-04f3ed48-first-cycle/root-return.png",
+        "reports/form-media/r13-cat_band_lateral_raise-video-04f3ed48-first-cycle/root-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_internal_rotation_wit_18c67d97-video-f79726a3",
+      "attemptId": "attempt_f79726a35fe44f4d",
+      "exerciseId": "open_internal_rotation_wit_18c67d97",
+      "shot": "r13-open_internal_rotation_wit_18c67d97-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_internal_rotation_wit_18c67d97-video-f79726a3.mp4",
+      "outputSha256": "e1687963a720beea32d9b047b2fec7278413481b39e3f111d4288e6dd13aea51",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-09T23:40:10+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-and-full-resolution-grip/inward-endpoint/return",
+      "status": "candidate",
+      "evidence": [
+        "Both3fps contact sheets show one inward forearm rotation toward the front abdomen, a short endpoint pause and one complete outward return, with the remaining finish still; no second rotation, biceps-curl lift or torso turn is visible.",
+        "Full-resolution0,2.0,3.7 and5.8s confirm a closed hand on the same D-handle, continuously connected band to the same elbow-height anchor, elbow retained against the same side and stable upper arm/trunk.",
+        "Silver muscle fibers, opaque charcoal shorts, white background and separately sculpted orange anterior scapular muscle specimen remain consistent; the actual working shoulder/forearm path is fully visible."
+      ],
+      "limitations": [
+        "Close shoulder-focused view crops the top of the head and lower legs; those do not participate in the displayed forearm rotation.",
+        "The orange inset shows covered subscapularis rather than painting the main gray body. One displayed side; repeat on the other side according to catalog guidance.",
+        "AI editorial screening only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f79726a35fe44f4d/review-3fps-01.jpg",
+        "reports/form-media/attempt_f79726a35fe44f4d/review-3fps-02.jpg",
+        "reports/form-media/attempt_f79726a35fe44f4d/root-start.png",
+        "reports/form-media/attempt_f79726a35fe44f4d/root-peak.png",
+        "reports/form-media/attempt_f79726a35fe44f4d/root-return.png",
+        "reports/form-media/attempt_f79726a35fe44f4d/root-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-ex_russian_twist-video-3ffce3d9",
+      "attemptId": "attempt_3ffce3d957f64ee8",
+      "exerciseId": "ex_russian_twist",
+      "shot": "r13-ex_russian_twist-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-ex_russian_twist-video-3ffce3d9.mp4",
+      "outputSha256": "d93f589156070f674d0ce8613364aeaf34cecc9b59d27ff6d5c9644d8784f132",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-09T23:42:45+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-and-full-resolution-turn/heel-contact/return",
+      "status": "candidate",
+      "evidence": [
+        "Whole3fps timeline shows one small chest rotation toward the shown side, a readable pause and one complete return to the initial centered stance; finish remains still without a second turn.",
+        "Full-resolution start,1.666667s turn,3.666667s returned pose and5.833333s finish retain both grounded heels, bent knees, supported pelvis and the slight long-spine lean. Clasped hands follow chest rather than making an independent sweeping-arm substitution.",
+        "Actual orange rectus/oblique fibers remain attached and bounded, gray exposed-body fibers and opaque shorts remain coherent, and full head/body/feet stay inside the same fixed white framing."
+      ],
+      "limitations": [
+        "This clip shows one side turn, which the catalog counts once; it does not imply that the opposite side has been completed. Follow the written directions across both sides.",
+        "Modest comfortable rotation, neutral facial/finger rendering changes; no load-bearing grip or clinical/trainer approval claimed. Human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3ffce3d957f64ee8/review-3fps-01.jpg",
+        "reports/form-media/attempt_3ffce3d957f64ee8/review-3fps-02.jpg",
+        "reports/form-media/attempt_3ffce3d957f64ee8/root-start.png",
+        "reports/form-media/attempt_3ffce3d957f64ee8/root-peak.png",
+        "reports/form-media/attempt_3ffce3d957f64ee8/root-return.png",
+        "reports/form-media/attempt_3ffce3d957f64ee8/root-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_band_skull_crusher_d4b2fbd2-video-decb1920",
+      "attemptId": "attempt_decb19208ea44919",
+      "exerciseId": "open_band_skull_crusher_d4b2fbd2",
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_band_skull_crusher_d4b2fbd2-video-decb1920.mp4",
+      "outputSha256": "fd0985096ededef5b97cf812aed57228afcf6edc9621da4ff2b218e05591fd90",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-09T23:44:58+00:00",
+      "reviewKind": "exact-delivery-whole-timeline-3fps-and-full-resolution-elbow/upper-arm/return",
+      "status": "needs-correction",
+      "evidence": [
+        "One elbow-flexion/extension cycle and complete return are present, with closed hand contacts, head/feet/bench support and continuously connected gray band preserved. Actual triceps-orange remains bounded.",
+        "At the full-resolution2.0s bent endpoint, BOTH elbows have shifted visibly toward the feet and lowered toward the chest relative to the0s source; the upper arms rotate substantially instead of retaining their source angles above the shoulders. This is also visible through the middle of the whole3fps timeline.",
+        "The shoulder sweep occurs inside the first complete repetition, so no contiguous trim can produce the required steady-upper-arm skull-crusher cycle."
+      ],
+      "limitations": [
+        "This is an actual movement failure, not a source-image failure; source geometry, band pin, grips, colors, support and framing should be retained.",
+        "AI editorial review only; human acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_decb19208ea44919/review-3fps-01.jpg",
+        "reports/form-media/attempt_decb19208ea44919/review-3fps-02.jpg",
+        "reports/form-media/attempt_decb19208ea44919/root-start.png",
+        "reports/form-media/attempt_decb19208ea44919/root-peak.png",
+        "reports/form-media/attempt_decb19208ea44919/root-return.png",
+        "reports/form-media/attempt_decb19208ea44919/root-finish.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_roll_up-start-87892a89",
+      "attemptId": "attempt_87892a89064d452a",
+      "exerciseId": "cat_pil_roll_up",
+      "shot": "r13-cat_pil_roll_up-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_pil_roll_up-start/attempt_87892a89064d452a.jpg",
+      "outputSha256": "9e887157effa6643a77b4677e3c2957a9b4b27226ae76a3dca55909f702ed839",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-09T23:57:31+00:00",
+      "reviewKind": "exact-master-catalog-pose/anatomy/contact-and-motion-envelope",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exact full-resolution master shows one fully supine figure, head/back/pelvis/heels supported on the white floor, legs extended with slight knee softness, and both arms overhead beyond the head. Hands and feet are distinct and complete.",
+        "Exposed gray body surfaces show sculpted muscle fibers, charcoal shorts are opaque, and orange is bounded to exposed abdominal rectus/oblique fibers; no blue, colored equipment, duplicate figure or studio apparatus appears.",
+        "The actual figure fills most horizontal width, but both overhead hands and heels remain in frame. Broad clear space above the supported trunk/pelvis permits the later seated torso/arm arc while the pelvis and legs stay fixed."
+      ],
+      "limitations": [
+        "Static image does not establish correct roll-up motion. Actual video must curl gradually to sitting/reach, fully roll back to supported supine and return both arms overhead without an extra cycle.",
+        "Horizontal margins are modest despite the brief requesting broader ones; locked-motion review must reject any hand/foot crop or camera change. Vertical seated-head space is clear.",
+        "AI editorial source approval only; human video acceptance remains pending."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_pil_roll_up-start/attempt_87892a89064d452a.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_roll_up-video-6945c52a",
+      "attemptId": "attempt_6945c52a6cd944de",
+      "exerciseId": "cat_pil_roll_up",
+      "shot": "r13-cat_pil_roll_up-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_pil_roll_up-video-6945c52a.mp4",
+      "outputSha256": "821515322d6af32115db08071e5900c867868d5e0b7af8318bb707ff7a81040d",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:05:16+00:00",
+      "reviewKind": "exact-delivery-whole-timeline/full-resolution-peak-and-return",
+      "status": "needs-correction",
+      "evidence": [
+        "Whole delivered 8-second clip was inspected at 3 fps, plus full-resolution 3.0-second peak and 6.8-second return. One smooth curl and full supine overhead-arm return are present, with supported legs/heels and stable abdominal orange/gray anatomy.",
+        "At the entire 2.7–3.3-second peak the trunk stays markedly reclined, shoulders and head behind the pelvis, hands reaching only above the proximal shins. It never reaches the catalog seated roll-up position/reach toward the feet; this is a partial reclined abdominal curl.",
+        "The defect occurs inside the only cycle, so trimming cannot create the missing seated/forward-reaching endpoint."
+      ],
+      "limitations": [
+        "Valid source, framing, cue stability and full return do not compensate for the missing exercise endpoint.",
+        "AI editorial negative only. No human acceptance or app export."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_6945c52a6cd944de/root-whole-contact.jpg",
+        "reports/form-media/attempt_6945c52a6cd944de/root-phase-3.png",
+        "reports/form-media/attempt_6945c52a6cd944de/root-phase-6.8.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_forward_weight_shift-start-ea4147b2",
+      "attemptId": "attempt_ea4147b228044682",
+      "exerciseId": "cat_bal_forward_weight_shift",
+      "shot": "r13-cat_bal_forward_weight_shift-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_bal_forward_weight_shift-start/attempt_ea4147b228044682.jpg",
+      "outputSha256": "fe49d0cb81114e3439321f34ae0364d2bea8e331b341e5e11af718f0cc140515",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:06:51+00:00",
+      "reviewKind": "exact-master-full-resolution/primary-inset-color-and-support-pose",
+      "status": "needs-correction",
+      "evidence": [
+        "Full exact master and enlarged inset were inspected. The primary inset has a narrow orange lateral strip that continues below the gluteal fold into the upper thigh; the brief requires all thigh anatomy gray. This inaccurate extra orange teaching cue needs a narrow color correction before animation.",
+        "Main body is a coherent sculpted gray anatomical figure with opaque charcoal shorts, visible whole-body floor contacts, an empty white setting and no optional blue. The genuine orange glute masses, gray sacrum/lumbar area and supported pose otherwise remain useful.",
+        "Both actual soles are grounded in a short staggered stance facing IMAGE-RIGHT; fore/aft space is sufficient for a small gentle transfer without a lunge. Preserve both whole soles and the neutral trunk."
+      ],
+      "limitations": [
+        "Narrow cue-only source edit; the new exact master must be reviewed independently before any paid motion."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_bal_forward_weight_shift-start/attempt_ea4147b228044682.jpg",
+        "reports/form-media/attempt_ea4147b228044682/root-inset-detail.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_clock_tap-start-3f2c1d0a",
+      "attemptId": "attempt_3f2c1d0aa6974857",
+      "exerciseId": "cat_bal_clock_tap",
+      "shot": "r13-cat_bal_clock_tap-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_bal_clock_tap-start/attempt_3f2c1d0aa6974857.jpg",
+      "outputSha256": "9e1131819fa1fa13154b3b712ac60c88b7696e257c24195841a848004de35d3e",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:06:51+00:00",
+      "reviewKind": "exact-master-full-resolution/primary-inset-color-and-support-pose",
+      "status": "needs-correction",
+      "evidence": [
+        "Full exact master and enlarged inset were inspected. The primary inset has a narrow orange lateral strip that continues below the gluteal fold into the upper thigh; the brief requires all thigh anatomy gray. This inaccurate extra orange teaching cue needs a narrow color correction before animation.",
+        "Main body is a coherent sculpted gray anatomical figure with opaque charcoal shorts, visible whole-body floor contacts, an empty white setting and no optional blue. The genuine orange glute masses, gray sacrum/lumbar area and supported pose otherwise remain useful.",
+        "Actual source balances on the anatomical RIGHT leg at IMAGE-LEFT, with the free anatomical LEFT foot hovering distinctly at IMAGE-RIGHT and hands on hips. This mirrored source is a valid catalog side; its right posterior inset cue agrees with the actual support side. Future motion must pin this actual orientation rather than repeat the draft left-support label."
+      ],
+      "limitations": [
+        "Narrow cue-only source edit; the new exact master must be reviewed independently before any paid motion."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_bal_clock_tap-start/attempt_3f2c1d0aa6974857.jpg",
+        "reports/form-media/attempt_3f2c1d0aa6974857/root-inset-detail.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_dead_bug_legs_only-start-b359af99",
+      "attemptId": "attempt_b359af99bf5b414d",
+      "exerciseId": "cat_cal_dead_bug_legs_only",
+      "shot": "r13-cat_cal_dead_bug_legs_only-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_dead_bug_legs_only-start/attempt_b359af99bf5b414d.jpg",
+      "outputSha256": "0bf2e99bbb714a4ce8b9962c3a74a061cf9f970bbf0c54005dc771c5e848a22d",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:09:12+00:00",
+      "reviewKind": "exact-master-full-resolution/canonical-supported-start-and-anatomy",
+      "status": "needs-correction",
+      "evidence": [
+        "The corrected exact master now has two airborne tabletop legs and upright arms, with visible sculpted gray anatomy, abdominal orange and opaque shorts.",
+        "The head/neck still curl above the mat rather than resting in the supported neutral back-lying setup; the source must not anchor a permanent abdominal curl while only the leg moves.",
+        "The optional blue remains on broad lateral-thigh strips rather than the requested central front-thigh region. Remove secondary blue entirely instead of another uncertain recolor."
+      ],
+      "limitations": [
+        "New exact master must independently pass before any paid motion."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_dead_bug_legs_only-start/attempt_b359af99bf5b414d.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_oblique_crunches_on_t_30346079-start-0cb89834",
+      "attemptId": "attempt_0cb898341a594007",
+      "exerciseId": "open_oblique_crunches_on_t_30346079",
+      "shot": "r13-open_oblique_crunches_on_t_30346079-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_oblique_crunches_on_t_30346079-start/attempt_0cb898341a594007.jpg",
+      "outputSha256": "7d5118db33040d9da9c764c670657eac6ee47451ddd1e1e75636a94d1c60b868",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:09:12+00:00",
+      "reviewKind": "exact-master-full-resolution/canonical-supported-start-and-anatomy",
+      "status": "needs-correction",
+      "evidence": [
+        "Exact second master retains a high elbow-propped torso with the lower shoulder well above the mat; this is not a low side-lying resting crunch start.",
+        "Both knees remain nearly extended instead of the catalog bent-knee side-lying setup. The prior narrow edit did not correct either defining pose feature.",
+        "Gray fibers, bounded abdominal orange, opaque shorts and floor scene are useful, but the repeated pose error requires a fresh unambiguous low source rather than preserving the wrong elbow prop."
+      ],
+      "limitations": [
+        "New exact master must independently pass before any paid motion."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_oblique_crunches_on_t_30346079-start/attempt_0cb898341a594007.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_pil_roll_up-video-28e3598d",
+      "attemptId": "attempt_28e3598d10ce4f5f",
+      "exerciseId": "cat_pil_roll_up",
+      "shot": "r13-cat_pil_roll_up-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_pil_roll_up-video-28e3598d.mp4",
+      "outputSha256": "e5c02fb3f297101e46d6ac7bea227b220b46b8866373489d59381451adbe4c0c",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:12:53+00:00",
+      "reviewKind": "exact-delivery-whole-timeline/full-resolution-motion-and-return",
+      "status": "candidate",
+      "evidence": [
+        "Exact full8-second delivery inspected at3fps and6fps throughout, plus full-resolution seated3.333s and supported6.8s return. ONE gradual supine-to-seated roll-up, forward reach toward ankles/feet, and ONE complete controlled roll-down are present, followed by a still overhead-arm supine finish.",
+        "The retry continues beyond the rejected reclined endpoint: at3.3–3.8s the head/shoulders rise above the pelvis and trunk rounds forward as both hands reach along the shins toward the ankles. The pelvis and both heels remain supported; no knee tuck or added repetition appears.",
+        "Gray sculpted fibers, bounded abdominal orange, opaque shorts, distinct hands and full head/foot framing persist through the complete cycle. Camera and floor remain stable."
+      ],
+      "limitations": [
+        "The forward reach is comfortable and does not promise toe-touch contact. Both softly extended legs remain supported.",
+        "AI-screened review candidate only; human acceptance/export remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_28e3598d10ce4f5f/root-whole-contact.jpg",
+        "reports/form-media/attempt_28e3598d10ce4f5f/root-phase-3.333.png",
+        "reports/form-media/attempt_28e3598d10ce4f5f/root-phase-6.8.png",
+        "reports/form-media/attempt_28e3598d10ce4f5f/root-6fps-contact-1.jpg",
+        "reports/form-media/attempt_28e3598d10ce4f5f/root-6fps-contact-2.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_band_skull_crusher_d4b2fbd2-video-a9dfd850",
+      "attemptId": "attempt_a9dfd850669e443b",
+      "exerciseId": "open_band_skull_crusher_d4b2fbd2",
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_band_skull_crusher_d4b2fbd2-video-a9dfd850.mp4",
+      "outputSha256": "ee4a22b097d4604b09a4e72efb3d2909430ec3290b15e32a2ab5a20d3c292f20",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:12:53+00:00",
+      "reviewKind": "exact-delivery-whole-timeline/full-resolution-motion-and-return",
+      "status": "needs-correction",
+      "evidence": [
+        "Whole6-second delivery inspected at3fps, with independent full-resolution initial and2.0s folded frames. One bend/return is shown; grips, band strands, fixed pin, supported body, gray fibers and triceps orange remain coherent.",
+        "Both high source elbows/upper-arm shafts still sweep toward the feet during the folded phase. Comparing full-resolution0s and2s shows the near elbow moving over100pixels right/toward the feet and the far elbow about50pixels; this is visible shoulder motion rather than stationary upper arms with isolated forearm rotation.",
+        "The observed defect repeats the prior actual failure despite the explicit stationary-upper-arm correction. No contiguous trim can remove the shoulder sweep inside the only bend."
+      ],
+      "limitations": [
+        "Preserve original source-positive evidence; this is a motion negative. A new source endpoint must pass independently before paid trial3."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a9dfd850669e443b/root-whole-contact.jpg",
+        "reports/form-media/attempt_a9dfd850669e443b/root-phase-0.png",
+        "reports/form-media/attempt_a9dfd850669e443b/root-phase-2.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_assisted_pullup-video-3ab2b746",
+      "attemptId": "attempt_3ab2b746874d4969",
+      "exerciseId": "cat_cal_assisted_pullup",
+      "shot": "r13-cat_cal_assisted_pullup-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cal_assisted_pullup-video-3ab2b746.mp4",
+      "outputSha256": "c338f08ea2151cde0d82263f9b51d1cdbf67acab71af17afc4aeaf57d739cded",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:20:52+00:00",
+      "reviewKind": "exact-delivery-whole-timeline/full-resolution-apparatus-and-endpoint",
+      "status": "needs-correction",
+      "evidence": [
+        "Exact whole8-second delivery inspected at3fps plus independent full-resolution2.8s peak,4.4s lower phase and final frame. The band stays visibly continuous beneath the same bent knee, bar grips/body fibers/lat-orange/shorts persist, and feet remain suspended.",
+        "The first peak never shows the required chin-clear endpoint: full2.8s frame shows the chin/jaw still well below the adjacent bar segment despite the skull top rising above it. A second incomplete upward pull follows the first descent after4.6s, ending in a bent-arm higher pose instead of the original hang.",
+        "Neither trimming nor selecting the first cycle can create the missing chin-above-bar endpoint. The tight upper bar margin also leaves little room for the further necessary full head rise; a wider actual source is warranted before the next paid attempt."
+      ],
+      "limitations": [
+        "Original honest static source pass is preserved. New wider source requires independent exact-master pass; next stable video trial2 waits for it."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3ab2b746874d4969/root-whole-contact.jpg",
+        "reports/form-media/attempt_3ab2b746874d4969/root-phase-2.8.png",
+        "reports/form-media/attempt_3ab2b746874d4969/root-phase-4.4.png",
+        "reports/form-media/attempt_3ab2b746874d4969/root-phase-7.8.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_exercise_ball_pull_in_98443332-video-436451d6",
+      "attemptId": "attempt_436451d625bd47ef",
+      "exerciseId": "open_exercise_ball_pull_in_98443332",
+      "shot": "r13-open_exercise_ball_pull_in_98443332-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_exercise_ball_pull_in_98443332-video-436451d6.mp4",
+      "outputSha256": "801e8b3027ee45a7477d4765c686d3cdcd888abb6639fddfe7f49f0775d16428",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:20:52+00:00",
+      "reviewKind": "exact-delivery-whole-timeline/full-resolution-apparatus-and-endpoint",
+      "status": "needs-correction",
+      "evidence": [
+        "Exact whole8-second delivery inspected at3fps plus full-resolution original plank and3.0s tucked endpoint. One knee tuck/full plank return is present, both palms stay supported, elbow chains remain straight, gray fibers/orange abs/shorts remain coherent.",
+        "The gray exercise ball visibly shrinks during the tuck and regrows during return. Its lateral diameter falls from roughly300pixels initially to roughly210pixels at the3s endpoint; the camera and main torso scale stay fixed. This is apparatus size morphing, not just shin occlusion or a readable rigid ball roll.",
+        "The shrink happens inside the only tuck, so an honest complete-cycle trim cannot repair it. A new raw video must preserve one constant-size physical sphere throughout."
+      ],
+      "limitations": [
+        "Source remains usable; stage a specific fixed-sphere correction rather than source regeneration.",
+        "No candidate/human selection/export."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_436451d625bd47ef/root-whole-contact.jpg",
+        "reports/form-media/attempt_436451d625bd47ef/root-phase-0.png",
+        "reports/form-media/attempt_436451d625bd47ef/root-phase-3.png",
+        "reports/form-media/attempt_436451d625bd47ef/root-phase-7.8.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_band_skull_crusher_d4b2fbd2-start-ef2a1790",
+      "attemptId": "attempt_ef2a17905ee94776",
+      "exerciseId": "open_band_skull_crusher_d4b2fbd2",
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_band_skull_crusher_d4b2fbd2-start/attempt_ef2a17905ee94776.jpg",
+      "outputSha256": "68945029ff249a0c0fa97024b220bd8a676723b66e52f33a0e4db5e9739b9beb",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:23:46+00:00",
+      "reviewKind": "exact-master-full-resolution/bent-endpoint-grips-rig-and-envelope",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exact full source and enlarged hand/band-path detail show a supported supine torso, both soles grounded and distinct raised upper-arm shafts with both elbows bent about90degrees; forearms point toward the head and closed hands stay safely above the forehead.",
+        "Both fists visibly retain band contact. The far-hand strand has a short visible exit beneath the fist and a thin lower diagonal segment reaching the same head-end foot pin; its middle path is occluded by the near forearm/body, rather than being demonstrated absent. The near strand remains visible throughout.",
+        "Gray sculpted fibers, bounded triceps orange, opaque shorts, complete hands/head/feet/bench and empty white scene persist. Clear space above the actual bent elbows accommodates forearm extension without moving the humeri."
+      ],
+      "limitations": [
+        "Far strand is partly occluded by valid foreground anatomy; actual animation must retain plausible continuous pin/grip routing and never invent another branch.",
+        "This bent-endpoint source requires extension-first motion and full actual return to its bent source. Original straight-source positives and two actual motion failures are preserved.",
+        "Static AI pass does not establish successful fixed-humerus animation; paid trial3 must independently pass whole timeline/full-resolution elbow phases."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_band_skull_crusher_d4b2fbd2-start/attempt_ef2a17905ee94776.jpg",
+        "reports/form-media/attempt_ef2a17905ee94776/root-band-grip-path-detail.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_exercise_ball_pull_in_98443332-video-c2204545",
+      "attemptId": "attempt_c22045455ed94423",
+      "exerciseId": "open_exercise_ball_pull_in_98443332",
+      "shot": "r13-open_exercise_ball_pull_in_98443332-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_exercise_ball_pull_in_98443332-video-c2204545.mp4",
+      "outputSha256": "6d533ea28b95aa1a47cc35a95aeeab760e0f7c4205ac723db27a2cba6f348bfb",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:32:35+00:00",
+      "reviewKind": "exact-delivery-whole-timeline/full-resolution-ball-and-contact",
+      "status": "candidate",
+      "evidence": [
+        "Whole8-second delivery inspected at3fps and full-resolution initial plank,3.0s tuck and7.8s terminal plank. One readable bilateral knee tuck is followed by a complete controlled return and sustained still plank without another repetition.",
+        "Both palm contacts remain planted, elbows stay extended, lower shins retain plausible contact with the rolling exercise ball, and the raised hips accommodate the tuck. Gray fibers, bounded orange abdominals, opaque shorts and complete head/hands/feet persist.",
+        "The previous sphere shrink/regrowth is resolved: the ball retains one coherent physical diameter and round volume during tuck, travel and return, with the fixed camera/torso scale preserved. The3.0s full frame shows a large intact ball rather than the much smaller prior sphere."
+      ],
+      "limitations": [
+        "Hip elevation during tuck is visible; this is one moderate-range demonstration, not an instruction to force deeper knee flexion.",
+        "AI candidate only; human acceptance and application export remain pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_c22045455ed94423/root-whole-contact.jpg",
+        "reports/form-media/attempt_c22045455ed94423/root-phase-0.png",
+        "reports/form-media/attempt_c22045455ed94423/root-phase-3.png",
+        "reports/form-media/attempt_c22045455ed94423/root-phase-7.8.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_clock_tap-start-4beeb057",
+      "attemptId": "attempt_4beeb057555745c4",
+      "exerciseId": "cat_bal_clock_tap",
+      "shot": "r13-cat_bal_clock_tap-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_bal_clock_tap-start/attempt_4beeb057555745c4.jpg",
+      "outputSha256": "4ea09df103349596c332a3b82ad60eb7fc83cbb0d33d8485566c0571267c5392",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:34:13+00:00",
+      "reviewKind": "exact-master-full-resolution/cue-contact-and-motion-envelope",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual full master and enlarged inset show bounded orange glute masses; the prior lateral orange thigh strip is removed, with thigh/lumbar/sacral anatomy gray. The source retains one gray sculpted whole-body figure, opaque shorts, complete head/hands/feet and an empty white scene.",
+        "Actual anatomical RIGHT leg at IMAGE-LEFT bears a grounded sole with soft knee; the free LEFT foot is visibly airborne at IMAGE-RIGHT, and hands rest at hips. Both glutes are now shown orange in the static inset, a valid bilateral primary-muscle teaching cue.",
+        "The free-foot side has sufficient room for a modest sideways toe tap and return; the inset does not obstruct foot motion."
+      ],
+      "limitations": [
+        "One sideways tap and hover return will demonstrate one catalog repetition on this standing side; other directions/standing side remain guided by existing catalog text.",
+        "Actual motion must keep support foot fixed and free-foot touchdown/hover endpoints distinct."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_bal_clock_tap-start/attempt_4beeb057555745c4.jpg",
+        "reports/form-media/attempt_4beeb057555745c4/root-source-detail.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_forward_weight_shift-start-5788c289",
+      "attemptId": "attempt_5788c289298d4c66",
+      "exerciseId": "cat_bal_forward_weight_shift",
+      "shot": "r13-cat_bal_forward_weight_shift-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_bal_forward_weight_shift-start/attempt_5788c289298d4c66.jpg",
+      "outputSha256": "6ef079c665c9940d2cd2a80e3977dacf4b0afd640d220abf35a01a59968097ee",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:34:13+00:00",
+      "reviewKind": "exact-master-full-resolution/cue-contact-and-motion-envelope",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Actual full master and enlarged inset show clean orange bilateral glute masses with gray upper thighs/lumbar anatomy; the previous narrow orange extension below the glute fold is corrected. Gray sculpted fibers, opaque shorts and complete whole body are coherent.",
+        "Both actual soles are grounded in a short staggered stance facing IMAGE-RIGHT. Clear fore/aft room allows one gentle front-and-back weight transfer without a lunge, heel lift or sliding step.",
+        "Inset remains separate from the whole-body pose and preserves the primary orange cue without optional blue."
+      ],
+      "limitations": [
+        "This source shows one foot-leading stance; complete the entered repetitions with the other foot leading according to catalog guidance.",
+        "Static setup pass requires actual video contact and full cycle review."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_bal_forward_weight_shift-start/attempt_5788c289298d4c66.jpg",
+        "reports/form-media/attempt_5788c289298d4c66/root-source-detail.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_assisted_pullup-start-22d0568c",
+      "attemptId": "attempt_22d0568c7953469a",
+      "exerciseId": "cat_cal_assisted_pullup",
+      "shot": "r13-cat_cal_assisted_pullup-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_assisted_pullup-start/attempt_22d0568c7953469a.jpg",
+      "outputSha256": "e85fb70c356e851047b2da27e36a0a8507a76a3415f8943a4e035437cb857d3e",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:34:13+00:00",
+      "reviewKind": "exact-master-full-resolution/cue-contact-and-motion-envelope",
+      "status": "needs-correction",
+      "evidence": [
+        "Actual full master and enlarged bar/head/arm detail retain two closed overhand grips, a continuous bar-loop band beneath the same bent knee, gray sculpted fibers, lat-orange and opaque shorts.",
+        "The requested wider composition is not achieved: the bar beside the head remains roughly130pixels from the top while the actual head is about155pixels tall, leaving insufficient margin for a chin-clear peak with the whole head visible. The bar slopes upward further toward IMAGE-RIGHT.",
+        "Both elbows remain visibly flexed in the proposed starting hang, rather than establishing the actual extended-arm lower endpoint. A fresh wider, straight-arm master is needed before another paid clip."
+      ],
+      "limitations": [
+        "Previous honest original source pass and paid negative remain preserved. This new actual source is negative for its unchanged frame and flexed-arm starting pose.",
+        "Source trial3 remains within the separate4-source cap; no paid motion until the new exact master passes."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_assisted_pullup-start/attempt_22d0568c7953469a.jpg",
+        "reports/form-media/attempt_22d0568c7953469a/root-source-detail.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_band_skull_crusher_d4b2fbd2-video-96b5c011",
+      "attemptId": "attempt_96b5c01162e24707",
+      "exerciseId": "open_band_skull_crusher_d4b2fbd2",
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_band_skull_crusher_d4b2fbd2-video-96b5c011.mp4",
+      "outputSha256": "44771d377aaeba15fd1dfdfa36af16a1418bfff371dbf5bc801e0e7966a365ee",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:37:03+00:00",
+      "reviewKind": "exact-delivery-whole6fps/full-resolution-elbows-grips-and-return-boundary",
+      "status": "needs-correction",
+      "evidence": [
+        "Whole6-second exact delivery inspected at6fps plus full-resolution0,1.5,3.333333,3.75 and4s. It genuinely extends both forearms from the bent start, retains supported torso/soles and coherent fixed head-end band routing, then completes the actual bent-elbow return by3.333s with a quiet interval through3.75s.",
+        "The altered actual bent-endpoint source resolves the large shoulder sweep seen in the first two paid trials. Gray fibers, triceps-orange, opaque shorts and whole hands/head/feet remain coherent.",
+        "After the completed quiet first return, an extra partial extension starts around4s and later returns again; the raw whole clip therefore misses the requested one-cycle/still-finish count. A separately registered original-speed0–3.75s derivative with disclosed half-second endpoint holds preserves the complete genuine first cycle."
+      ],
+      "limitations": [
+        "Raw negative and all prior paid negatives remain retained. The derivative requires its own exact delivery review; no synthesized return or speed change.",
+        "Far band segment is naturally occluded in the bent pose but visible from its same grip during extension; do not interpret occlusion as a missing branch."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_96b5c01162e24707/root-six-contact-1.jpg",
+        "reports/form-media/attempt_96b5c01162e24707/root-six-contact-2.jpg",
+        "reports/form-media/attempt_96b5c01162e24707/root-phase-0.png",
+        "reports/form-media/attempt_96b5c01162e24707/root-phase-1.5.png",
+        "reports/form-media/attempt_96b5c01162e24707/root-phase-3.75.png",
+        "reports/form-media/attempt_96b5c01162e24707/root-phase-4.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_double_kettlebell_pus_6ee251c9-start-2e162ab5",
+      "attemptId": "attempt_2e162ab569564cb2",
+      "exerciseId": "open_double_kettlebell_pus_6ee251c9",
+      "shot": "r13-open_double_kettlebell_pus_6ee251c9-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_double_kettlebell_pus_6ee251c9-start/attempt_2e162ab569564cb2.jpg",
+      "outputSha256": "f804bc8bfb3439fa68086906047778d34257710d4cd87b03e71fbc43ed37857e",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:38:36+00:00",
+      "reviewKind": "exact-master-full-resolution/rack-grips-cue-and-overhead-envelope",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual second master changes the required two-bell shoulder rack into straight arms with both bells hanging at the thighs; this cannot anchor a push-press rack dip/overhead/rack cycle.",
+        "The figure still fills nearly the complete portrait: scalp about90pixels below top, with insufficient clearance for extended overhead arms plus two bells. The requested wider edit was not achieved.",
+        "Gray fibers, complete soles, opaque shorts and two closed grips are useful, but the repeated composition failure and changed pose warrant a fresh actual rack master."
+      ],
+      "limitations": [
+        "Source trial3 is a genuine fresh pose/composition after an unchanged failed framing edit, within the separate4-source cap.",
+        "No paid motion until the new exact master independently passes."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_double_kettlebell_pus_6ee251c9-start/attempt_2e162ab569564cb2.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_one_arm_kettlebell_pu_2bbee6ad-start-a7403c78",
+      "attemptId": "attempt_a7403c7846634910",
+      "exerciseId": "open_one_arm_kettlebell_pu_2bbee6ad",
+      "shot": "r13-open_one_arm_kettlebell_pu_2bbee6ad-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_one_arm_kettlebell_pu_2bbee6ad-start/attempt_a7403c7846634910.jpg",
+      "outputSha256": "0126616033b7ddd1d9ec830ecf7d899756584127a2d506969425e8f75f9b0735",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:38:36+00:00",
+      "reviewKind": "exact-master-full-resolution/rack-grips-cue-and-overhead-envelope",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual one-bell shoulder rack, closed grip/neutral wrist, empty opposite hand and both sole contacts are coherent; orange remains on actual deltoid caps with gray arm/chest fibers.",
+        "The requested overhead envelope is unchanged: scalp about70pixels from the top for a nearly full-height person. The extended arm and actual bell cannot fit above this head with the same locked camera.",
+        "A fresh specified-position composition is needed after the reference edit failed to widen; do not spend a paid press from this cropped future endpoint."
+      ],
+      "limitations": [
+        "Source trial3 is a genuine fresh pose/composition after an unchanged failed framing edit, within the separate4-source cap.",
+        "No paid motion until the new exact master independently passes."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_one_arm_kettlebell_pu_2bbee6ad-start/attempt_a7403c7846634910.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_kettlebell_thruster_e1732893-start-d92e3353",
+      "attemptId": "attempt_d92e3353969e47c2",
+      "exerciseId": "open_kettlebell_thruster_e1732893",
+      "shot": "r13-open_kettlebell_thruster_e1732893-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_kettlebell_thruster_e1732893-start/attempt_d92e3353969e47c2.jpg",
+      "outputSha256": "49f1b1e856e51749012ee7835228fe66600d22820c9133f9eaa510af1f8b8be6",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:38:36+00:00",
+      "reviewKind": "exact-master-full-resolution/rack-grips-cue-and-overhead-envelope",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual master retains two shoulder-racked bells with closed grips, true front-thigh orange, gray remaining fibers, opaque shorts and one coherent bone-attached orange glute cutaway.",
+        "The requested wider overhead framing is unchanged: actual scalp about65pixels from top, so standing straight-arm hands and both bells would leave the locked frame. A complete thruster needs that overhead endpoint.",
+        "Keep the useful rack/contact/primary-muscle conventions, but use a fresh actual camera position before any paid thruster."
+      ],
+      "limitations": [
+        "Source trial3 is a genuine fresh pose/composition after an unchanged failed framing edit, within the separate4-source cap.",
+        "No paid motion until the new exact master independently passes."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_kettlebell_thruster_e1732893-start/attempt_d92e3353969e47c2.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-open_oblique_crunches_on_t_30346079-start-39e35241",
+      "attemptId": "attempt_39e35241616a4287",
+      "exerciseId": "open_oblique_crunches_on_t_30346079",
+      "shot": "r13-open_oblique_crunches_on_t_30346079-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-open_oblique_crunches_on_t_30346079-start/attempt_39e35241616a4287.jpg",
+      "outputSha256": "d7674dc1a106bdbdc11362dcfda3d81bebc77155eafe34afab154a134c759e74",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:41:29+00:00",
+      "reviewKind": "exact-master-full-resolution/catalog-supported-source-and-bounded-envelope",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exact full source now has a low supported side-lying torso, grounded lower elbow/forearm, lightly cradled neutral head and upper palm on the mat in front of the chest. It no longer anchors the previous tall elbow-propped torso.",
+        "Both knees have actual modest bends rather than locked extension: the thigh and shin change direction at each knee. Independent coverage review confirms roughly20–40degree flexion is plausible; catalog requires bent knees without a90degree requirement, so the narrower generated bend is acceptable.",
+        "Bounded orange abdominal/oblique fibers, gray remaining anatomy, opaque shorts, complete head/hands/feet and a clean mat/white setting remain coherent, with room for a small shoulder/side-torso arc."
+      ],
+      "limitations": [
+        "Modest knee flexion, not the prompt-requested90degree bend, is explicitly disclosed and accepted against actual catalog wording.",
+        "One shown side; actual motion must remain small and avoid arm-driven elbow-propping or head pulling."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-open_oblique_crunches_on_t_30346079-start/attempt_39e35241616a4287.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_dead_bug_legs_only-start-b45ab77a",
+      "attemptId": "attempt_b45ab77a4b9b4c8b",
+      "exerciseId": "cat_cal_dead_bug_legs_only",
+      "shot": "r13-cat_cal_dead_bug_legs_only-start",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/masters/r13-cat_cal_dead_bug_legs_only-start/attempt_b45ab77a4b9b4c8b.jpg",
+      "outputSha256": "5df87f2423a2ecae7c27e4a90e7b0ae39433dd56df02dea40df19ae1ee6b9e72",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:41:29+00:00",
+      "reviewKind": "exact-master-full-resolution/catalog-supported-source-and-bounded-envelope",
+      "status": "ready-to-animate",
+      "evidence": [
+        "Exact full source now visibly supports the back of the head on the mat with a neutral neck and supported shoulders/back/pelvis. Both arms reach upright, both hips/knees are bent roughly at right angles and both feet remain airborne.",
+        "All prior blue lateral-thigh strips are removed. Gray sculpted muscles, bounded orange abdominal fibers, opaque shorts, coherent distinct hands/feet and clean mat/white setting remain.",
+        "Upper/right open space accommodates a comfortable one-leg lengthening at an elevated angle; full horizontal floor-near extension need not be forced in this frame or beyond a quiet-trunk range."
+      ],
+      "limitations": [
+        "Show one leg-extension/return repetition at a comfortable elevated range on one side; alternation/per-side counts remain described by catalog guidance.",
+        "Do not force an excessive low leg endpoint just to match a maximal-range example; actual delivery must retain still arms/trunk/pelvis and whole foot."
+      ],
+      "reviewEvidencePaths": [
+        "form-media/assets/masters/r13-cat_cal_dead_bug_legs_only-start/attempt_b45ab77a4b9b4c8b.jpg"
+      ]
+    },
+    {
+      "assetId": "r13-skull-crusher-one-cycle-96b5c011",
+      "attemptId": "attempt_96b5c01162e24707",
+      "exerciseId": "open_band_skull_crusher_d4b2fbd2",
+      "shot": "r13-open_band_skull_crusher_d4b2fbd2-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-skull-crusher-one-cycle-96b5c011.mp4",
+      "outputSha256": "b2ebc7208d8d91694220416b2e357004faa53d59476081153f57caca61ac6bc5",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:44:04+00:00",
+      "reviewKind": "exact-delivery-whole-timeline/full-resolution-contacts-count-and-endpoints",
+      "status": "candidate",
+      "evidence": [
+        "Exact new4.75second derived delivery independently inspected by root across all6fps samples and full-resolution extended2s/bent4.5s frames; separate reviewer inspected all29populated6fps samples and full initial/peak/return/finish frames.",
+        "The derivative preserves one genuine closed-grip elbow extension/full bent return with high stable humeri and modest incidental elbow drift, quiet supported torso/soles, two coherent bands with expected far-side occlusion, gray fibers and stable triceps-orange.",
+        "Original-speed0–3.75s complete first cycle is retained with disclosed half-second cloned still holds at each end; no secondary extension, reversed/synthesized return, speed change or movement removal inside the cycle. Exact SHA b2ebc7208d8d91694220416b2e357004faa53d59476081153f57caca61ac6bc5 matches the independent check."
+      ],
+      "limitations": [
+        "Authored trim with0.5s still endpoint holds is disclosed; complete raw3rd trial and both prior paid negatives remain retained.",
+        "AI candidate only, human acceptance/application export pending."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r13-skull-crusher-one-cycle-96b5c011/root-derived-contact-1.jpg",
+        "reports/form-media/r13-skull-crusher-one-cycle-96b5c011/root-derived-contact-2.jpg",
+        "reports/form-media/r13-skull-crusher-one-cycle-96b5c011/root-derived-phase-2.png",
+        "reports/form-media/r13-skull-crusher-one-cycle-96b5c011/root-derived-phase-4.5.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_forward_weight_shift-video-2c1781f6",
+      "attemptId": "attempt_2c1781f623b045ca",
+      "exerciseId": "cat_bal_forward_weight_shift",
+      "shot": "r13-cat_bal_forward_weight_shift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_forward_weight_shift-video-2c1781f6.mp4",
+      "outputSha256": "d43d05b5ad5415491f317efd6eef4e6da0bba0ef2ff1be826a70a1fcf32bd781",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:44:04+00:00",
+      "reviewKind": "exact-delivery-whole-timeline/full-resolution-contacts-count-and-endpoints",
+      "status": "needs-correction",
+      "evidence": [
+        "Whole8-second exact delivery inspected at3fps and full-resolution0,3.2,4.5,7.8s feet/body phases. Actual anatomy/inset/shorts remain coherent and both complete feet stay visible.",
+        "The required fixed short-staggered support is broken: the rear heel lifts around1s, then the original front foot travels far backward toward the other foot at3.2s and is visibly airborne. Further heel raises follow later. This is stepping/foot contact switching rather than a gentle transfer with both feet grounded.",
+        "The support changes occur inside the only intended front/back movement, so no complete honest trim can repair the clip. Stage a distinct very small closed-chain weight shift with both entire soles fixed, rather than another stepping action."
+      ],
+      "limitations": [
+        "Original usable static source remains passed. Next stable paid trial2 needs explicit fixed footprint/minimal transfer correction, no source cap reset."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_2c1781f623b045ca/root-whole-contact-1.jpg",
+        "reports/form-media/attempt_2c1781f623b045ca/root-whole-contact-2.jpg",
+        "reports/form-media/attempt_2c1781f623b045ca/root-phase-3.2.png",
+        "reports/form-media/attempt_2c1781f623b045ca/root-phase-4.5.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_clock_tap-video-ece170e6",
+      "attemptId": "attempt_ece170e6f7064ae2",
+      "exerciseId": "cat_bal_clock_tap",
+      "shot": "r13-cat_bal_clock_tap-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_clock_tap-video-ece170e6.mp4",
+      "outputSha256": "feef8aee3de9742c5866e55da865f5448b290e1330a4b634715b24a5126420d9",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T00:44:04+00:00",
+      "reviewKind": "exact-delivery-whole-timeline/full-resolution-contacts-count-and-endpoints",
+      "status": "needs-correction",
+      "evidence": [
+        "Whole8-second exact delivery inspected at3fps plus full-resolution0,2.6,3.2,5.4,7.8s support/foot phases. Actual standing support leg and both hip hands remain relatively quiet, with gray fibers and stable primary glute inset.",
+        "The first sideways excursion moves the free foot partly outside the right frame around1.667–2.333s; its defining endpoint cannot be fully reviewed. After first toe contact/inward return, further toe contacts occur instead of one sustained airborne finish.",
+        "Neither an endpoint crossing trim nor cropping the view can restore the missing whole-foot first excursion. The actual source requires a genuinely wider lateral envelope before paid trial2, plus an explicit single tap and sustained original-hover return."
+      ],
+      "limitations": [
+        "Keep original static cue/contact source positive and actual motion negative. New free source3 is motion-linked and independently reviewed; video2 waits for it."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ece170e6f7064ae2/root-whole-contact-1.jpg",
+        "reports/form-media/attempt_ece170e6f7064ae2/root-whole-contact-2.jpg",
+        "reports/form-media/attempt_ece170e6f7064ae2/root-phase-2.6.png",
+        "reports/form-media/attempt_ece170e6f7064ae2/root-phase-5.4.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_dead_bug_legs_only-video-8d081d56",
+      "attemptId": "attempt_8d081d5649e6403b",
+      "exerciseId": "cat_cal_dead_bug_legs_only",
+      "shot": "r13-cat_cal_dead_bug_legs_only-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cal_dead_bug_legs_only-video-8d081d56.mp4",
+      "outputSha256": "34e9b420ba2e89c3cdd6ba3034bc6862ab4a494a9fedca12a2145dd2630c7175",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T01:00:29+00:00",
+      "reviewKind": "exact-delivery-whole6fps/full-resolution-motor-pattern-and-endpoints",
+      "status": "needs-correction",
+      "evidence": [
+        "All36 ordered6fps samples and full-resolution0/2.5/5.8seconds show the actual near AND far legs extending/opening the hips together. The supposedly stationary far knee leaves tabletop with the near knee; at2.5seconds both lower legs and feet advance away together.",
+        "Both legs return together to tabletop and arms/head/back/pelvis remain comparatively quiet; full feet, gray fibers, bounded orange abdominals, opaque shorts and stable mat remain coherent.",
+        "The catalog requires one-leg extension with the other leg held, followed by return and alternation. A simultaneous double-leg lower is a different motor pattern, so this full raw cycle cannot be accepted or repaired by trimming."
+      ],
+      "limitations": [
+        "Keep the exact source3 static pass. First motion trial remains counted; a precise distinct trial2 brief pins the far leg and moves only the camera-near leg. If the same coupling repeats, change actual camera/endpoint before a further paid retry."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8d081d5649e6403b/root-whole-6fps-1.jpg",
+        "reports/form-media/attempt_8d081d5649e6403b/root-whole-6fps-2.jpg",
+        "reports/form-media/attempt_8d081d5649e6403b/root-whole-6fps-3.jpg",
+        "reports/form-media/attempt_8d081d5649e6403b/root-phase-0.png",
+        "reports/form-media/attempt_8d081d5649e6403b/root-phase-2.5.png",
+        "reports/form-media/attempt_8d081d5649e6403b/root-phase-5.8.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_oblique_crunches_on_t_30346079-video-a5e85285",
+      "attemptId": "attempt_a5e8528566914944",
+      "exerciseId": "open_oblique_crunches_on_t_30346079",
+      "shot": "r13-open_oblique_crunches_on_t_30346079-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_oblique_crunches_on_t_30346079-video-a5e85285.mp4",
+      "outputSha256": "5036e95446140792fb3b2b66062996cc88763ff7c232ae426f0f746c970ea0c2",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T01:05:42+00:00",
+      "reviewKind": "exact-delivery-whole6fps/full-resolution-contacts-motor-pattern-and-endpoints",
+      "status": "needs-correction",
+      "evidence": [
+        "Whole6second36sample6fps timeline and full0/1.5/3.5/5.8seconds do not establish a distinct lift/lower of the shoulder and side ribcage relative to the quiet pelvis. Dominant change is slight head/neck settling with minute shoulder contour movement.",
+        "The correct bent-knee side setup, floor/support hands, opaque shorts and bounded abdominal fibers remain coherent. An independent coverage reviewer inspected the same exact whole timeline/full phases and agrees no readable working-and-returned torso-crunch phases are established.",
+        "This verdict concerns the actual taught shoulder/side-torso curl, not a fixed centimeter range or90degree knee requirement. No crop can manufacture a torso curl from nearly static footage."
+      ],
+      "limitations": [
+        "Keep the exact static source3 pass; paid trial2 uses a changed shoulder/ribcage-toward-hip brief with neutral neck and light head support."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_a5e8528566914944/root-whole-6fps-1.jpg",
+        "reports/form-media/attempt_a5e8528566914944/root-whole-6fps-2.jpg",
+        "reports/form-media/attempt_a5e8528566914944/root-whole-6fps-3.jpg",
+        "reports/form-media/attempt_a5e8528566914944/root-phase-0.png",
+        "reports/form-media/attempt_a5e8528566914944/root-phase-1.5.png",
+        "reports/form-media/attempt_a5e8528566914944/root-phase-3.5.png",
+        "reports/form-media/attempt_a5e8528566914944/root-phase-5.8.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_bal_forward_weight_shift-video-ca0db565",
+      "attemptId": "attempt_ca0db5656f394a9e",
+      "exerciseId": "cat_bal_forward_weight_shift",
+      "shot": "r13-cat_bal_forward_weight_shift-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_bal_forward_weight_shift-video-ca0db565.mp4",
+      "outputSha256": "fc969702e42502413f86c5b11239077784ef7ddaf83982aeaabebafdb7a6e3f5",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T01:05:42+00:00",
+      "reviewKind": "exact-delivery-whole6fps/full-resolution-contacts-motor-pattern-and-endpoints",
+      "status": "needs-correction",
+      "evidence": [
+        "All36 ordered6fps samples and full0/3.5/4.5/5.8second phases show extensive foot placement changes. The original forward sole moves backward by roughly a whole foot length around3–3.5seconds and the stance reverses, then feet return later.",
+        "The motion repeats the first trial stepping error despite explicit fixed-foot correction; the forward/back foot swap is a walking sequence instead of shifting weight within the original short staggered stance. Gray fibers, opaque shorts and glute anatomy fragment remain coherent.",
+        "A trim cannot fix the required grounded-foot contacts inside the only complete cycle. After two similar failures, change the actual source view/stance legibility before stable paid trial3."
+      ],
+      "limitations": [
+        "Keep original source2 static pass and both paid negatives. Motion-linked fresh source3 must be exactly reviewed first; no new paid brief or count reset yet."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ca0db5656f394a9e/root-whole-6fps-1.jpg",
+        "reports/form-media/attempt_ca0db5656f394a9e/root-whole-6fps-2.jpg",
+        "reports/form-media/attempt_ca0db5656f394a9e/root-whole-6fps-3.jpg",
+        "reports/form-media/attempt_ca0db5656f394a9e/root-phase-0.png",
+        "reports/form-media/attempt_ca0db5656f394a9e/root-phase-3.5.png",
+        "reports/form-media/attempt_ca0db5656f394a9e/root-phase-4.5.png",
+        "reports/form-media/attempt_ca0db5656f394a9e/root-phase-5.8.png"
+      ]
+    },
+    {
+      "assetId": "r13-cat_cal_dead_bug_legs_only-video-e18aae7f",
+      "attemptId": "attempt_e18aae7f2ca54a41",
+      "exerciseId": "cat_cal_dead_bug_legs_only",
+      "shot": "r13-cat_cal_dead_bug_legs_only-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-cat_cal_dead_bug_legs_only-video-e18aae7f.mp4",
+      "outputSha256": "80485b4035c43d66dfe04c29108fc1e2512227dd6d0f71476c7a977ceb618022",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T01:34:37+00:00",
+      "reviewKind": "exact-prepared-delivery-whole6fps/full-resolution-motor-pattern-and-endpoints",
+      "status": "candidate",
+      "evidence": [
+        "All36 ordered6fps samples of the independently encoded six-second delivery show one camera-near leg extending smoothly while the far leg remains in bent tabletop, followed by the same near leg returning fully to tabletop and quiet finish.",
+        "Full-resolution delivery0/2.5/5.8 confirm stationary upright arms, supported neutral head/back/pelvis, full feet throughout the extension envelope, coherent gray fibers/bounded orange abdominals and opaque shorts.",
+        "The exact master was separately inspected as preliminary evidence; final verdict is pinned to this actual prepared delivery SHA, not an assumption of byte identity with the master."
+      ],
+      "limitations": [
+        "One side only is demonstrated; catalog repetitions alternate sides and count each toward its own selected target. Candidate is for human review; no human acceptance or app publication."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e18aae7f2ca54a41/root-delivery-whole-6fps-1.jpg",
+        "reports/form-media/attempt_e18aae7f2ca54a41/root-delivery-whole-6fps-2.jpg",
+        "reports/form-media/attempt_e18aae7f2ca54a41/root-delivery-whole-6fps-3.jpg",
+        "reports/form-media/attempt_e18aae7f2ca54a41/root-delivery-phase-0.png",
+        "reports/form-media/attempt_e18aae7f2ca54a41/root-delivery-phase-2.5.png",
+        "reports/form-media/attempt_e18aae7f2ca54a41/root-delivery-phase-5.8.png"
+      ]
+    },
+    {
+      "assetId": "r13-open_oblique_crunches_on_t_30346079-video-825cf2fb",
+      "attemptId": "attempt_825cf2fb7b6242f5",
+      "exerciseId": "open_oblique_crunches_on_t_30346079",
+      "shot": "r13-open_oblique_crunches_on_t_30346079-video",
+      "roundId": "round-13",
+      "outputPath": "form-media/assets/delivery/round-13/r13-open_oblique_crunches_on_t_30346079-video-825cf2fb.mp4",
+      "outputSha256": "7942e029b52efa0a0ac6c31a476383cbf185d73812e36977aba0a93a9e8f5c2b",
+      "reviewerType": "ai",
+      "reviewer": "Codex root independent AI review",
+      "reviewedAt": "2026-10-10T01:34:37+00:00",
+      "reviewKind": "exact-prepared-delivery-whole6fps/full-resolution-motor-pattern-and-endpoints",
+      "status": "needs-correction",
+      "evidence": [
+        "All36 ordered6fps samples of the actual prepared delivery and full0.75/1.75/2.75 phases show repeated head/neck tilt with slight shoulder contour change, without a distinct curl of the side ribcage/flank toward the quiet hip and genuine lowered torso return.",
+        "The static bent-knee setup, anatomy cues, mat, shorts and hands remain coherent. This rejection concerns the missing taught torso motor pattern, without an arbitrary centimeter target or90degree knee criterion.",
+        "Independent coverage review of the whole exact master and full phases agrees no honest canonical torso-crunch cycle exists for a trim. Root separately inspected the independently encoded full delivery before this formal verdict; no synthetic return or endpoint crossing hold."
+      ],
+      "limitations": [
+        "Keep the genuine static source3 pass and both counted video negatives. A final fourth-source raised endpoint/camera pivot is drafted; paid trial3 awaits actual new source review."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_825cf2fb7b6242f5/root-delivery-whole-6fps-1.jpg",
+        "reports/form-media/attempt_825cf2fb7b6242f5/root-delivery-whole-6fps-2.jpg",
+        "reports/form-media/attempt_825cf2fb7b6242f5/root-delivery-whole-6fps-3.jpg",
+        "reports/form-media/attempt_825cf2fb7b6242f5/root-delivery-phase-0.75.png",
+        "reports/form-media/attempt_825cf2fb7b6242f5/root-delivery-phase-1.75.png",
+        "reports/form-media/attempt_825cf2fb7b6242f5/root-delivery-phase-2.75.png"
+      ]
+    }
+  ]
+}

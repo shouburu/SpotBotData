@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-low-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-low-cable-fly-start-1ca41047.json"
+    },
+    {
+      "shot": "r12-seated-cable-chest-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-chest-start-d2a58ea4.json"
+    },
+    {
+      "shot": "r12-smith-drag-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-drag-curl-start-1e0606e6.json"
+    },
+    {
+      "shot": "r12-smith-skullcrusher-start",
+      "quoteFile": "form-media/ui-quotes/r12-smith-skullcrusher-start-12363b43.json"
+    }
+  ]
+}

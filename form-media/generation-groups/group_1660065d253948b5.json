@@ -1,0 +1,35 @@
+{
+  "id": "group_1660065d253948b5",
+  "status": "billing-reconciled-with-unrecoverable-free-sources",
+  "roundId": "round-13",
+  "projectId": "0a22dda2-a12d-48bb-b3e4-2f74450ddcbd",
+  "createdAt": "2026-10-10T02:23:14+00:00",
+  "balanceBefore": 1713,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "open_foot_smr_0c3b78bc",
+      "shot": "r13-open_foot_smr_0c3b78bc-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "2bb12f55f7583d8cf7fbe47973706ce971eaea57bee064fc7c77c74c7cf006f9",
+      "quoteFile": "form-media/ui-quotes/round-13-fresh-project-source-probe.json",
+      "quoteSha256": "529fa011846d7fb05c0ea7d06e2289c729d4f3b4597d389f4033a0d7a492bff5",
+      "quoteCredits": 0,
+      "balance": 1713,
+      "references": []
+    }
+  ],
+  "settlementMethod": "manual-all-zero-quote-and-aggregate-balance",
+  "defaultProjectId": "b23491b8-5ff2-412b-abea-314075feb75f",
+  "projectOverrideAuthorization": "User explicitly requested investigating generation errors and trying a fresh Google Flow project on October 9. One previously untouched source probe on the same account; preserve default project, global credits and lifetime trial counts.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "actualCredits": 0,
+  "balanceAfter": 1713,
+  "settledAt": "2026-10-10T02:26:44+00:00",
+  "evidenceFile": "form-media/ui-quotes/group-1660065d253948b5-manual-reconciliation.json",
+  "evidenceSha256": "a61aff3d9f426c03e4680b98531ea0d7cb3b9253ebd71141804b4962cc92dfa6",
+  "unknownProviderOutcomeAttemptIds": [
+    "attempt_ab943c51d6104a9f"
+  ],
+  "terminalFailureIds": []
+}

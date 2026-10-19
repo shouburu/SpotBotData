@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_front_squats_with_two_04034125-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_front_squats_with_two_04034125-start-b577c710.json"
+    },
+    {
+      "shot": "r13-ex_chin_up-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_chin_up-start-86e414d5.json"
+    },
+    {
+      "shot": "r13-ex_tricep_dip-start",
+      "quoteFile": "form-media/ui-quotes/r13-ex_tricep_dip-start-20a1550d.json"
+    },
+    {
+      "shot": "r13-cat_cal_scapular_pullup-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_scapular_pullup-start-497b6b7e.json"
+    },
+    {
+      "shot": "r13-cat_cal_foot_assisted_pullup-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_cal_foot_assisted_pullup-start-790f7816.json"
+    },
+    {
+      "shot": "r13-cat_pil_seated_knee_extension-start",
+      "quoteFile": "form-media/ui-quotes/r13-cat_pil_seated_knee_extension-start-88fba8e3.json"
+    }
+  ]
+}

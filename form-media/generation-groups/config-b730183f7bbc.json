@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-open_knee_hip_raise_on_par_3b7a0c25-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_knee_hip_raise_on_par_3b7a0c25-start-2133e7c4.json"
+    },
+    {
+      "shot": "r13-open_weighted_sit_ups_with_c13c1b33-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_weighted_sit_ups_with_c13c1b33-start-0218a7e2.json"
+    },
+    {
+      "shot": "r13-open_cross_over_with_bands_38ecf82d-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_cross_over_with_bands_38ecf82d-start-4b7ce343.json"
+    },
+    {
+      "shot": "r13-open_kettlebell_one_legged_c60e91d5-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_kettlebell_one_legged_c60e91d5-start-33ee54aa.json"
+    },
+    {
+      "shot": "r13-open_kettlebell_sumo_high__167a225c-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_kettlebell_sumo_high__167a225c-start-389fb87f.json"
+    },
+    {
+      "shot": "r13-open_ball_leg_curl_68242a59-start",
+      "quoteFile": "form-media/ui-quotes/r13-open_ball_leg_curl_68242a59-start-107f36b1.json"
+    }
+  ]
+}

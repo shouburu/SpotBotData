@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-seated-db-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-db-press-start-7e713056.json"
+    },
+    {
+      "shot": "r12-standing-leg-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-standing-leg-curl-start-08cd71aa.json"
+    },
+    {
+      "shot": "r12-incline_hammer_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline_hammer_curl-start-a340a1a4.json"
+    },
+    {
+      "shot": "r12-high_cable_curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-high_cable_curl-start-1db0486e.json"
+    },
+    {
+      "shot": "r12-decline-machine-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-decline-machine-press-start-65beca5f.json"
+    },
+    {
+      "shot": "r12-machine-high-row-start",
+      "quoteFile": "form-media/ui-quotes/r12-machine-high-row-start-c0f7e1b7.json"
+    }
+  ]
+}

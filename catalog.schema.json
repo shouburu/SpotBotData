@@ -1,7 +1,7 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "SpotBot normalized standard catalog",
-  "description": "One editable launch source. build_catalog.py additionally enforces current identities, source provenance, actual editorial evidence, storage bounds and 21 starter references.",
+  "description": "One editable launch source. build_catalog.py additionally enforces current identities, source provenance, actual editorial evidence, storage bounds and retained starter references.",
   "type": "object",
   "properties": {
     "schemaVersion": {
@@ -159,8 +159,8 @@
     },
     "starterWorkouts": {
       "type": "array",
-      "minItems": 21,
-      "maxItems": 21,
+      "minItems": 15,
+      "maxItems": 15,
       "items": {
         "$ref": "#/definitions/starter"
       }

@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-leg-extension-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-leg-extension-start-d7e9a67b.json"
+    },
+    {
+      "shot": "r12-seated-bb-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-bb-press-start-b930b977.json"
+    },
+    {
+      "shot": "r12-single-db-bench-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-bench-start-4f76e511.json"
+    },
+    {
+      "shot": "r12-incline_cable_triceps-start",
+      "quoteFile": "form-media/ui-quotes/r12-incline_cable_triceps-start-296a429a.json"
+    }
+  ]
+}

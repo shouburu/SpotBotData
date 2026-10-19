@@ -23,11 +23,12 @@ ACTIVITIES = {
     "pilates", "balance", "conditioning",
 }
 GOALS = {"strength", "hypertrophy", "endurance", "athleticism", "weight-loss", "mobility", "general"}
-# Range-of-motion/stretching programmes were explicitly removed by product
-# direction. Yoga and strength retain their intentional overlapping tags.
-STARTER_ACTIVITIES = ACTIVITIES - {"mobility", "stretching"}
+# Product-retired balance and light-movement programmes must not be restored
+# merely to meet the original launch quotas. Other coverage floors still apply.
+STARTER_COUNTS = {"strength": 3, "cardio": 2, "calisthenics": 3,
+                  "yoga": 2, "pilates": 2, "conditioning": 3}
 MINIMUMS = {"strength": 78, "cardio": 20, "calisthenics": 30, "yoga": 30,
-            "pilates": 20, "balance": 16, "conditioning": 16}
+            "pilates": 20, "conditioning": 16}
 LEVELS = {"beginner": 0, "intermediate": 1, "advanced": 2}
 
 
@@ -261,6 +262,7 @@ def build(check_only: bool, output: Path, starter_output: Path, app_root: Path |
         if "relatedAdaptationId" in decision:
             require(decision["relatedAdaptationId"] in by_id, "Missing prior source adaptation")
     require(equipment_counts["bands"] >= 12, "At least 12 distinct exercises must explicitly support resistance bands")
+    require(not activity_counts["balance"], "Balance exercises were retired by product direction")
     for activity, minimum in MINIMUMS.items():
         require(activity_counts[activity] >= minimum, f"{activity}: {activity_counts[activity]} is below coverage minimum {minimum}")
     routine_counts: Counter = Counter()
@@ -285,9 +287,8 @@ def build(check_only: bool, output: Path, starter_output: Path, app_root: Path |
             require(LEVELS[metadata["difficulty"]] <= LEVELS[routine["difficulty"]], f"{key}: exercise exceeds starter difficulty")
             prescription(target, metadata["measurementType"], key + "/" + exercise["id"], starter=True)
         routine_counts.update([routine["activity"]])
-    require(len(snapshot["starterWorkouts"]) == 21 and set(routine_counts) == STARTER_ACTIVITIES
-            and all(routine_counts[activity] == 3 for activity in STARTER_ACTIVITIES),
-            "Require three starters for each retained programme activity, 21 total; no mobility/stretching programmes")
+    require(dict(routine_counts) == STARTER_COUNTS,
+            "Require the 15 retained starter programmes; retired balance and light-movement programmes stay excluded")
     retired_starters = snapshot["provenance"]["retiredStarterWorkouts"]
     retired_starter_ids = [entry["canonicalId"] for entry in retired_starters]
     require(len(retired_starter_ids) == len(set(retired_starter_ids)) and not set(retired_starter_ids) & routine_ids,

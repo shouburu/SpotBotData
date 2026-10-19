@@ -1,0 +1,20 @@
+{
+  "members": [
+    {
+      "shot": "r12-low-cable-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-low-cable-fly-t2v-21001df2.json"
+    },
+    {
+      "shot": "r12-decline_ez_triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-decline_ez_triceps-t2v-a7a232d4.json"
+    },
+    {
+      "shot": "r12-flat-db-rear-fly-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-flat-db-rear-fly-t2v-98e134f2.json"
+    },
+    {
+      "shot": "r12-seated-cable-chest-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-chest-start-257f6797.json"
+    }
+  ]
+}

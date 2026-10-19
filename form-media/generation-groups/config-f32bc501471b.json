@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r13-ex_glute_bridge-video",
+      "quoteFile": "form-media/ui-quotes/r13-ex_glute_bridge-video-e8fca395.json"
+    },
+    {
+      "shot": "r13-open_seated_band_hamstring_7487455a-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_seated_band_hamstring_7487455a-video-7b14498d.json"
+    },
+    {
+      "shot": "r13-cat_bal_lateral_weight_shift-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_lateral_weight_shift-video-a0804fe5.json"
+    },
+    {
+      "shot": "r13-open_exercise_ball_pull_in_98443332-video",
+      "quoteFile": "form-media/ui-quotes/r13-open_exercise_ball_pull_in_98443332-video-7c072524.json"
+    },
+    {
+      "shot": "r13-cat_bal_side_step_hold-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_side_step_hold-video-15478264.json"
+    },
+    {
+      "shot": "r13-cat_bal_quarter_turn-video",
+      "quoteFile": "form-media/ui-quotes/r13-cat_bal_quarter_turn-video-96426d30.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-db-preacher-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-preacher-start-6d3a61b2.json"
+    },
+    {
+      "shot": "r12-low-cable-fly-start",
+      "quoteFile": "form-media/ui-quotes/r12-low-cable-fly-start-f72a850e.json"
+    },
+    {
+      "shot": "r12-lever_lat_pulldown-start",
+      "quoteFile": "form-media/ui-quotes/r12-lever_lat_pulldown-start-972a1ddc.json"
+    },
+    {
+      "shot": "r12-single-cable-curl-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-curl-start-16c3c5c1.json"
+    },
+    {
+      "shot": "r12-seated-cable-chest-start",
+      "quoteFile": "form-media/ui-quotes/r12-seated-cable-chest-start-32d330f6.json"
+    },
+    {
+      "shot": "r12-single-leg-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-leg-press-start-d2da55f1.json"
+    }
+  ]
+}

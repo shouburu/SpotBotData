@@ -1,0 +1,68 @@
+{
+  "id": "group_e9c37f66d961406f",
+  "status": "completed-with-failures",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T21:35:14+00:00",
+  "balanceBefore": 3057,
+  "quotedCredits": 124,
+  "members": [
+    {
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "590949e1ccbface700e8d5f4b0091d5d1bfbbdc1f9de437d5c65ad02513172d0",
+      "quoteFile": "form-media/ui-quotes/r12-smith-front-squat-video-2ca5740b.json",
+      "quoteSha256": "065e500bd7baddb5e8d24091a78b3150b0095188b42e64c55de7441441fe1d92",
+      "quoteCredits": 12,
+      "balance": 3057,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-smith-front-squat-start/attempt_9d589dcbff724d10.jpg",
+          "sha256": "22e83e6c7ed256d630e7ec0749092da0a93b599de421d3aad29f11a6d07c641c"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_seated_single_db_press",
+      "shot": "r12-seated-single-db-press-t2v",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "5aff58bea37db2ee76f48bdadfa9f1fca8f6d0b6d530d4a6c730bd1b7be91f81",
+      "quoteFile": "form-media/ui-quotes/r12-seated-single-db-press-t2v-c6a2abe3.json",
+      "quoteSha256": "c4e9624adda52beeac13a1bf6de0d211b427bdb7535924e8178e4e63cac09d46",
+      "quoteCredits": 12,
+      "balance": 3057,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-seated-single-db-press-start/attempt_4a63be0dc06e475c.jpg",
+          "sha256": "1db7000822047b852abba19661e6ff8b19a79d6fba887ccd0855406944931870"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_var_incline_bb_triceps",
+      "shot": "r12-incline-bb-triceps-t2v",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "c204bd495df961059148b1035d9397725c95bcfe6384c0e4bc596a6487b28a7d",
+      "quoteFile": "form-media/ui-quotes/r12-incline-bb-triceps-t2v-2a3b3472.json",
+      "quoteSha256": "1feb8de3a5585b7f17be04450b8e84651b899c3ce09c0342ba0bb9ed95fe7701",
+      "quoteCredits": 100,
+      "balance": 3057,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r12-incline-bb-triceps-start/attempt_20caa02ec4fe4dba.jpg",
+          "sha256": "3721ae94345d1b40fba16a97e0fb51411780ee390b5429a717b454d5b95fab52"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T21:37:40+00:00",
+  "balanceAfter": 3033,
+  "actualCredits": 24,
+  "evidenceFile": "form-media/ui-quotes/observed-a89e445816cf4b78.json",
+  "evidenceSha256": "9c9e6a97ea10d881c73846c1d6bcff82b51fd5bda7cc1f54b54f319ce25b46f1",
+  "terminalFailureIds": [
+    "attempt_bc81bf3de0f34d3b"
+  ]
+}

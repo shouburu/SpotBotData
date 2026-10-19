@@ -1,0 +1,87 @@
+{
+  "id": "group_f1ddfe3eda644220",
+  "status": "billing-reconciled-with-unrecoverable-free-source",
+  "roundId": "round-12",
+  "createdAt": "2026-10-09T20:52:27+00:00",
+  "balanceBefore": 3235,
+  "quotedCredits": 0,
+  "members": [
+    {
+      "exerciseId": "cat_smith_front_squat",
+      "shot": "r12-smith-front-squat-start",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "26836d31334a51b04cc752decc7b48640e85f5775187ea22ecfc5e6d98239297",
+      "quoteFile": "form-media/ui-quotes/r12-smith-front-squat-start-78a4e2fb.json",
+      "quoteSha256": "2a72eec00445b10206f7048ae6708bd38e5b7bfb91dab6165b4aed2419a83dfd",
+      "quoteCredits": 0,
+      "balance": 3235,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_smith_step_up",
+      "shot": "r12-smith-step-up-start",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "5019ddd998d19e4e45d6b95ccab2825d5e735f03a61ec973ec6c5b8ff657edb3",
+      "quoteFile": "form-media/ui-quotes/r12-smith-step-up-start-a45204d3.json",
+      "quoteSha256": "668d8066398bf812dbd76a4a667a74affde14264bc7be139611b01564cb5659f",
+      "quoteCredits": 0,
+      "balance": 3235,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_smith_glute_bridge",
+      "shot": "r12-smith-glute-bridge-start",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "f689bddcca591f462fa9512aee6a4c409183034da8beb21eb1e5b12df0f97bb6",
+      "quoteFile": "form-media/ui-quotes/r12-smith-glute-bridge-start-d3af8984.json",
+      "quoteSha256": "f15b1d2fcba1017d9ec1ffa676215fe78a8016fb97cbd93a5e1d081f290aa7d0",
+      "quoteCredits": 0,
+      "balance": 3235,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_single_lat_pulldown",
+      "shot": "r12-single-lat-pulldown-start",
+      "profile": "spotbot_r12_4",
+      "promptSha256": "07c5468534a6e585ee05f693f11aa938872617b6c16d23f341e938cf7262345e",
+      "quoteFile": "form-media/ui-quotes/r12-single-lat-pulldown-start-48b49d98.json",
+      "quoteSha256": "1fadf094605ed867dba036fed6634a12d685c8f405ce2aaedc33567c46880449",
+      "quoteCredits": 0,
+      "balance": 3235,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_single_db_bench",
+      "shot": "r12-single-db-bench-start",
+      "profile": "spotbot_r12_5",
+      "promptSha256": "4911dce1fb25098320225a18b320171c4bd8acdd82f8a7f520d211044fbdc68f",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-bench-start-3d33acad.json",
+      "quoteSha256": "a9b04119d5a4bbc72afe7debb30277df82a6e343db56694a6f453a33691a404b",
+      "quoteCredits": 0,
+      "balance": 3235,
+      "references": []
+    },
+    {
+      "exerciseId": "cat_var_single_db_press",
+      "shot": "r12-single-db-press-start",
+      "profile": "spotbot_r12_6",
+      "promptSha256": "f44ec7d4d6b3e1c1256c9bfece0df05a4f111b8c4d50d8f619d494bf28dc7a83",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-press-start-7629db0b.json",
+      "quoteSha256": "a7baab2387106c7caa3f247711d1f0c18c0553a42f3942a82872cf914f3c9e4f",
+      "quoteCredits": 0,
+      "balance": 3235,
+      "references": []
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "actualCredits": 0,
+  "balanceAfter": 3235,
+  "settledAt": "2026-10-09T21:21:20+00:00",
+  "evidenceFile": "form-media/ui-quotes/group-f1ddfe3eda644220-manual-reconciliation.json",
+  "evidenceSha256": "b83b285014329aabccff22f28894b389d411e0b7daa5578313c966cb4fc926cc",
+  "unknownProviderOutcomeAttemptIds": [
+    "attempt_27cd276ca170429c"
+  ],
+  "terminalFailureIds": []
+}

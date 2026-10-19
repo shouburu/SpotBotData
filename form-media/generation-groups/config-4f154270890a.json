@@ -1,0 +1,28 @@
+{
+  "members": [
+    {
+      "shot": "r12-single-cable-row-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-cable-row-t2v-4e0c1011.json"
+    },
+    {
+      "shot": "r12-single-db-triceps-t2v",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-triceps-t2v-b03c3907.json"
+    },
+    {
+      "shot": "r12-single-lat-pulldown-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-lat-pulldown-start-b6818328.json"
+    },
+    {
+      "shot": "r12-single-db-bench-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-bench-start-08ee61e3.json"
+    },
+    {
+      "shot": "r12-single-db-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-single-db-press-start-df407b57.json"
+    },
+    {
+      "shot": "r12-standing-smith-press-start",
+      "quoteFile": "form-media/ui-quotes/r12-standing-smith-press-start-51e78925.json"
+    }
+  ]
+}

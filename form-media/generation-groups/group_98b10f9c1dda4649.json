@@ -1,0 +1,66 @@
+{
+  "id": "group_98b10f9c1dda4649",
+  "status": "completed",
+  "roundId": "round-13",
+  "createdAt": "2026-10-09T23:09:02+00:00",
+  "balanceBefore": 2897,
+  "quotedCredits": 30,
+  "members": [
+    {
+      "exerciseId": "open_reverse_crunch_533db487",
+      "shot": "r13-open_reverse_crunch_533db487-video",
+      "profile": "spotbot_r12_1",
+      "promptSha256": "2b08c35e7b4cde172ab44ba647972b4067886666a953c1f1232a98e54b412249",
+      "quoteFile": "form-media/ui-quotes/r13-open_reverse_crunch_533db487-video-4c088593.json",
+      "quoteSha256": "8fffd4055d31d8c5bcb20a6b1963d57a61c90c0db1fcf4e4b4c5e9a613a8f717",
+      "quoteCredits": 10,
+      "balance": 2897,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_reverse_crunch_533db487-start/attempt_b614c15db49c4e17.jpg",
+          "sha256": "592a8040f2068dbab469126a91e4f0412372d6c67e15f4f65cc7fdf2dbc1b90c"
+        }
+      ]
+    },
+    {
+      "exerciseId": "open_alternate_heel_touche_0718c1bb",
+      "shot": "r13-open_alternate_heel_touche_0718c1bb-video",
+      "profile": "spotbot_r12_2",
+      "promptSha256": "75cd2fdf298cf40a83c370f72e166f127b616b565d7fbe9990c34ba7997ecdd5",
+      "quoteFile": "form-media/ui-quotes/r13-open_alternate_heel_touche_0718c1bb-video-236dee3f.json",
+      "quoteSha256": "47d3066509aa6763b13befd826105e8b545edc7ed3fc14bda166e8ccc4c1a2db",
+      "quoteCredits": 10,
+      "balance": 2897,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-open_alternate_heel_touche_0718c1bb-start/attempt_ecca132adbc2435f.jpg",
+          "sha256": "296fd6472434996eb36d5128c03c4db9873752dde6a44535f44db924aee5d433"
+        }
+      ]
+    },
+    {
+      "exerciseId": "cat_band_romanian_deadlift",
+      "shot": "r13-cat_band_romanian_deadlift-video",
+      "profile": "spotbot_r12_3",
+      "promptSha256": "6daf5b179de6cbf8540446c66dd19f367cd149b27e08c322a3489a9f894a9bd5",
+      "quoteFile": "form-media/ui-quotes/r13-cat_band_romanian_deadlift-video-4fdb797f.json",
+      "quoteSha256": "22a0c0d3c125eb387ac0053d6276d268c02f3aed4002fbbde309e5a82fc2cf1a",
+      "quoteCredits": 10,
+      "balance": 2897,
+      "references": [
+        {
+          "path": "form-media/assets/masters/r13-cat_band_romanian_deadlift-start/attempt_4b1bf949be284925.jpg",
+          "sha256": "778affcce01c39cddab91bdddf2c4f64bffa87cddc1524eb33357eb53db6d90c"
+        }
+      ]
+    }
+  ],
+  "settlementMethod": "Aggregate same-account balance; per-member allocations use frozen quotes only after all outputs succeed and total delta matches exactly.",
+  "budgetPeriodId": "google-flow-2026-09-21",
+  "settledAt": "2026-10-09T23:10:15+00:00",
+  "balanceAfter": 2867,
+  "actualCredits": 30,
+  "evidenceFile": "form-media/ui-quotes/observed-5f5f0fe622604dbf.json",
+  "evidenceSha256": "d3509eba12873df8d7c01a15a945a533d6330fa6b4eaf12bf1dca53c9ca07dcf",
+  "terminalFailureIds": []
+}

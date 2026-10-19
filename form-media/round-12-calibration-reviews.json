@@ -1,0 +1,1583 @@
+{
+  "schemaVersion": 1,
+  "roundId": "round-12",
+  "reviews": [
+    {
+      "assetId": "r12-seated-db-press-t2v-dcbc1705",
+      "attemptId": "attempt_dcbc1705800c4086",
+      "exerciseId": "cat_var_seated_db_press",
+      "shot": "r12-seated-db-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-db-press-t2v-dcbc1705.mp4",
+      "outputSha256": "65fe7eda936dd177290838dddb35ca7fb861ebb5460cf383b150d7accfba67e5",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:39:17.783511+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The sampled timeline shows one shoulder-height-to-nearly-straight-overhead-to-shoulder-height press with steady seated support and planted feet; both dumbbells remain gripped and the primary shoulder cues remain attached.",
+        "Full-resolution 2.0s and 5.9s frames show generated stamped lettering on both dumbbell hex end faces. This violates the current no-generated-text/no-logo style requirement, even though the movement itself is a useful full cycle."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_dcbc1705800c4086/review-3fps-01.jpg",
+        "reports/form-media/attempt_dcbc1705800c4086/review-3fps-02.jpg",
+        "reports/form-media/attempt_dcbc1705800c4086/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_dcbc1705800c4086/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_dcbc1705800c4086/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_dcbc1705800c4086/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-lateral-t2v-1f417712",
+      "attemptId": "attempt_1f417712a0b445ca",
+      "exerciseId": "cat_var_seated_db_lateral",
+      "shot": "r12-seated-db-lateral-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-db-lateral-t2v-1f417712.mp4",
+      "outputSha256": "60ce2c5ba1aaa0231e0aa2da2aed2bfc6827b70fef51e211f0a7c9f816d6087b",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:39:17.786257+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The arms lift laterally to near shoulder level and return once with a still torso and attached orange shoulder cues.",
+        "Both working hands and dumbbells extend entirely beyond the portrait edges for the upper portion of the lift, including the full 2.0s endpoint. Essential grips, wrist orientation and equipment cannot be reviewed at the key endpoint."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_1f417712a0b445ca/review-3fps-01.jpg",
+        "reports/form-media/attempt_1f417712a0b445ca/review-3fps-02.jpg",
+        "reports/form-media/attempt_1f417712a0b445ca/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_1f417712a0b445ca/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_1f417712a0b445ca/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_1f417712a0b445ca/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-curl-t2v-dea8f569",
+      "attemptId": "attempt_dea8f569c24d4756",
+      "exerciseId": "cat_var_seated_db_curl",
+      "shot": "r12-seated-db-curl-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-db-curl-t2v-dea8f569.mp4",
+      "outputSha256": "fadb86e127c1a4d7da3df2eb12dfd443481ddee0ce7c4dc6bb4813da1f4d42c9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:00:15.907092+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One bilateral elbow-flexion curl raises the weights near the front of the shoulders and returns to nearly extended arms beside the thighs, then settles without another partial curl.",
+        "The upper arms remain beside the trunk, the torso and feet stay steady, both dumbbells stay gripped and visible, and orange biceps plus blue forearm cues remain anatomically attached through the sampled cycle.",
+        "Focused follow-up audit inspected every 6fps sample from 2.5s through the returned finish. No internal return reversal or second partial movement is visible at this denser sampling."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied.",
+        "The focused return audit uses 6fps still samples; between-sample artifacts remain possible."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_dea8f569c24d4756/review-3fps-01.jpg",
+        "reports/form-media/attempt_dea8f569c24d4756/review-3fps-02.jpg",
+        "reports/form-media/attempt_dea8f569c24d4756/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_dea8f569c24d4756/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_dea8f569c24d4756/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_dea8f569c24d4756/independent-endpoint-5.9.png",
+        "reports/form-media/attempt_dea8f569c24d4756/independent-return-6fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-crunch-t2v-b7a91eff",
+      "attemptId": "attempt_b7a91eff46954d1b",
+      "exerciseId": "cat_var_seated_cable_crunch",
+      "shot": "r12-seated-cable-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-cable-crunch-t2v-b7a91eff.mp4",
+      "outputSha256": "e36ac967073b5837ba83257e4ae1ba3b2f3ecd7052958598ac7ea8dba49d4cd7",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:39:17.787359+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The high pulley is visibly in front of the face and the mannequin faces toward it; the canonical Seated Cable Crunch requires a bench facing away with the pulley behind and above the head.",
+        "At the start the rope tails lie across/in front of the face and the hands are near the chin. During the first part of the movement the hands shift upward to the temples instead of remaining fixed beside the head. The rope/head setup does not preserve the required initial geometry.",
+        "The trunk performs one forward curl and upright return with hips seated and attached abdominal cues, but that does not repair the incorrect pulley orientation and changing hand position."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_b7a91eff46954d1b/review-3fps-01.jpg",
+        "reports/form-media/attempt_b7a91eff46954d1b/review-3fps-02.jpg",
+        "reports/form-media/attempt_b7a91eff46954d1b/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_b7a91eff46954d1b/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_b7a91eff46954d1b/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_b7a91eff46954d1b/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-ball-crunch-t2v-629feb29",
+      "attemptId": "attempt_629feb29f8c248c0",
+      "exerciseId": "cat_var_ball_crunch",
+      "shot": "r12-ball-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-ball-crunch-t2v-629feb29.mp4",
+      "outputSha256": "033980bea47abd5d4ef5f413192254947ff3d11122d52b4e2286fbd70683f8bb",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:41:16.390980+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The clip starts with the shoulders already elevated and flexed above the ball. It lowers into a shallow backward extension, rises, then visibly lowers and rises again near the end; this is repeated rocking rather than one clearly supported extended-start crunch and return.",
+        "The ball and feet remain in place and the abdominal cue stays attached, but the absence of a full readable starting endpoint and the extra reversal fail the one-complete-repetition requirement."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_629feb29f8c248c0/review-3fps-01.jpg",
+        "reports/form-media/attempt_629feb29f8c248c0/review-3fps-02.jpg",
+        "reports/form-media/attempt_629feb29f8c248c0/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_629feb29f8c248c0/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_629feb29f8c248c0/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_629feb29f8c248c0/independent-endpoint-4.3.png",
+        "reports/form-media/attempt_629feb29f8c248c0/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-decline-crunch-t2v-92d5d59e",
+      "attemptId": "attempt_92d5d59e038049de",
+      "exerciseId": "cat_var_decline_crunch",
+      "shot": "r12-decline-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-decline-crunch-t2v-92d5d59e.mp4",
+      "outputSha256": "cf8f03d60327804386d91fd690753874ac00965336f5afb0c22499bb5870741a",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:41:16.391815+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The bench pad slopes down from the head toward the hips: the head end is higher than the hip end, contrary to the required decline setup with the head lower.",
+        "At the full-resolution 2.0s endpoint the lower back lifts well away from the pad and the torso rises nearly upright. This demonstrates a sit-up rather than an upper-back crunch with the lower back remaining supported."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_92d5d59e038049de/review-3fps-01.jpg",
+        "reports/form-media/attempt_92d5d59e038049de/review-3fps-02.jpg",
+        "reports/form-media/attempt_92d5d59e038049de/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_92d5d59e038049de/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_92d5d59e038049de/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_92d5d59e038049de/independent-endpoint-4.3.png",
+        "reports/form-media/attempt_92d5d59e038049de/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-db-lateral-t2v-632b55f6",
+      "attemptId": "attempt_632b55f625704484",
+      "exerciseId": "cat_var_incline_db_lateral",
+      "shot": "r12-incline-db-lateral-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-incline-db-lateral-t2v-632b55f6.mp4",
+      "outputSha256": "be03ef1af244939c7d226d5ea58c8ccf76fa2a4d1c4d1db0926fe4403835549f",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:41:16.392468+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The mannequin holds a dumbbell in each hand, including the down/support-side hand. The main upper arm raises away from the hip, but the supported down-side deltoid is orange while the working raised deltoid remains gray.",
+        "After the main raise returns, the supported-side elbow lifts its extra dumbbell in a separate curling movement around 4.3s. The exact output has the wrong anatomical cue and an additional movement instead of one isolated upper-arm lateral raise."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_632b55f625704484/review-3fps-01.jpg",
+        "reports/form-media/attempt_632b55f625704484/review-3fps-02.jpg",
+        "reports/form-media/attempt_632b55f625704484/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_632b55f625704484/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_632b55f625704484/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_632b55f625704484/independent-endpoint-4.3.png",
+        "reports/form-media/attempt_632b55f625704484/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-standing-db-rear-fly-t2v-34beb341",
+      "attemptId": "attempt_34beb341aa454e79",
+      "exerciseId": "cat_var_standing_db_rear_fly",
+      "shot": "r12-standing-db-rear-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-standing-db-rear-fly-t2v-34beb341.mp4",
+      "outputSha256": "f77c0b4433df294b105b7af57372dfde29e1119681fe801f1e2042c8e64622c3",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:41:16.392973+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "One standing hinged outward fly returns to the original hanging position with the feet steady, full grips visible and no additional lift in the sampled timeline.",
+        "The orange primary-muscle treatment extends substantially down the back/lateral upper arms into triceps fibers, particularly visible in the full-resolution 0.0s, 2.0s and 5.9s frames. The required posterior-deltoid cue is not isolated to the actual shoulder muscle and mislabels supporting arm anatomy as primary."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_34beb341aa454e79/review-3fps-01.jpg",
+        "reports/form-media/attempt_34beb341aa454e79/review-3fps-02.jpg",
+        "reports/form-media/attempt_34beb341aa454e79/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_34beb341aa454e79/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_34beb341aa454e79/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_34beb341aa454e79/independent-endpoint-4.3.png",
+        "reports/form-media/attempt_34beb341aa454e79/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-bb-press-t2v-01c4edca",
+      "attemptId": "attempt_01c4edcae91443bc",
+      "exerciseId": "cat_var_seated_bb_press",
+      "shot": "r12-seated-bb-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-bb-press-t2v-01c4edca.mp4",
+      "outputSha256": "3b45f293e6d05eace41242203e7b52931f4791d00a9fb6092ae80b8556552179",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:43:05.728290+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "A complete supported front-shoulder-to-nearly-straight-overhead-to-front-shoulder barbell press is visible, with planted feet, closed grips and attached shoulder cues.",
+        "The right plate face shows generated lettering/numbers in full-resolution 2.0s and 5.9s frames. This violates the current no-generated-text/no-logo style requirement. The extreme bar/plate ends also extend beyond the portrait frame, so a wider view would improve apparatus review."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_01c4edcae91443bc/review-3fps-01.jpg",
+        "reports/form-media/attempt_01c4edcae91443bc/review-3fps-02.jpg",
+        "reports/form-media/attempt_01c4edcae91443bc/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_01c4edcae91443bc/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_01c4edcae91443bc/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_01c4edcae91443bc/independent-endpoint-4.7.png",
+        "reports/form-media/attempt_01c4edcae91443bc/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-standing-cable-crunch-t2v-f6d571e3",
+      "attemptId": "attempt_f6d571e37d0f45de",
+      "exerciseId": "cat_var_standing_cable_crunch",
+      "shot": "r12-standing-cable-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-standing-cable-crunch-t2v-f6d571e3.mp4",
+      "outputSha256": "b8af82a3b97dd2eeb36e9026d978926ee41550b2ef654ccb1e0dc2b875749085",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:43:05.729092+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "After a forward trunk movement and upright return, the timeline shows another forward lean around 4.7s before returning again. This is an extra partial repetition.",
+        "The forward phase also shifts the pelvis backward while the trunk stays comparatively long, relying substantially on a hip hinge rather than the instructed rib-to-pelvis spinal curl with steady hips. The rope/head setup and abdominal cues are present, but do not fix the motion."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f6d571e37d0f45de/review-3fps-01.jpg",
+        "reports/form-media/attempt_f6d571e37d0f45de/review-3fps-02.jpg",
+        "reports/form-media/attempt_f6d571e37d0f45de/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_f6d571e37d0f45de/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_f6d571e37d0f45de/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_f6d571e37d0f45de/independent-endpoint-4.7.png",
+        "reports/form-media/attempt_f6d571e37d0f45de/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-press-t2v-788ff2d8",
+      "attemptId": "attempt_788ff2d8206e4712",
+      "exerciseId": "cat_var_seated_cable_press",
+      "shot": "r12-seated-cable-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-cable-press-t2v-788ff2d8.mp4",
+      "outputSha256": "c75e862f2565297a7f29fb9c520a70b07d8442b04396a38de92a74260efe0a46",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:43:05.729847+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "One supported bilateral shoulder-height-to-nearly-straight-overhead-to-shoulder-height press is visible. The two cable lines remain connected to the low pulleys and the feet remain planted.",
+        "The orange primary treatment includes both biceps down the front of the upper arms, clear in the full-resolution 0.0s and 2.0s frames. Shoulder-press primary cues must identify the deltoids, while these biceps fibers should remain gray rather than orange."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_788ff2d8206e4712/review-3fps-01.jpg",
+        "reports/form-media/attempt_788ff2d8206e4712/review-3fps-02.jpg",
+        "reports/form-media/attempt_788ff2d8206e4712/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_788ff2d8206e4712/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_788ff2d8206e4712/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_788ff2d8206e4712/independent-endpoint-4.7.png",
+        "reports/form-media/attempt_788ff2d8206e4712/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-standing-smith-press-t2v-c312448f",
+      "attemptId": "attempt_c312448fb0564f8b",
+      "exerciseId": "cat_var_standing_smith_press",
+      "shot": "r12-standing-smith-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-standing-smith-press-t2v-c312448f.mp4",
+      "outputSha256": "50b0dfd5c2caa63d7af698700f03085f5be8c86ee8b534c0f468d268baeda446",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:43:05.730431+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The orange primary cue covers most of both pectoral muscles as well as portions of the upper arms, instead of isolating the deltoid shoulder muscles. The full-resolution start and top frames confirm incorrect anatomical placement.",
+        "The bar completes an upward and downward pass, but rises a second time toward chin height around 4.7s before descending again. The exact output includes an additional partial press."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_c312448fb0564f8b/review-3fps-01.jpg",
+        "reports/form-media/attempt_c312448fb0564f8b/review-3fps-02.jpg",
+        "reports/form-media/attempt_c312448fb0564f8b/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_c312448fb0564f8b/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_c312448fb0564f8b/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_c312448fb0564f8b/independent-endpoint-4.7.png",
+        "reports/form-media/attempt_c312448fb0564f8b/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-flat-db-rear-fly-t2v-2028be80",
+      "attemptId": "attempt_2028be8040504c7a",
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-flat-db-rear-fly-t2v-2028be80.mp4",
+      "outputSha256": "be9dfa37967a9249ea306f24c64716a717e052fc545e136a4d88ba7a0fcef7a8",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:45:06.760993+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The weights move forward toward the head in more than one lift/lower cycle. They do not travel out to the sides in the required lateral rear-delt fly arc.",
+        "The full-resolution 3.0s frame shows the near arm extended forward alongside the head, while the other elbow takes a different path. This is not one bilateral horizontal outward fly with fixed soft elbows."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_2028be8040504c7a/review-3fps-01.jpg",
+        "reports/form-media/attempt_2028be8040504c7a/review-3fps-02.jpg",
+        "reports/form-media/attempt_2028be8040504c7a/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_2028be8040504c7a/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_2028be8040504c7a/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_2028be8040504c7a/independent-endpoint-3.0.png",
+        "reports/form-media/attempt_2028be8040504c7a/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-fly-t2v-2d31d42c",
+      "attemptId": "attempt_2d31d42ceaf24cf9",
+      "exerciseId": "cat_var_incline_cable_fly",
+      "shot": "r12-incline-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-incline-cable-fly-t2v-2d31d42c.mp4",
+      "outputSha256": "09164f0a72aeda1ee3ae6cf800a9e37b3d5d3ae1b02cfca6d2953a01844f1017",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:45:06.761579+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The clip shows one open-and-close cycle on an inclined supported bench with two low cable lines and attached pectoral cues.",
+        "At the hands-together start/end, both elbows are deeply bent; at the open endpoint they are much straighter. This substantial elbow-angle change creates a press/fly hybrid rather than the required softly bent fixed-elbow cable fly."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_2d31d42ceaf24cf9/review-3fps-01.jpg",
+        "reports/form-media/attempt_2d31d42ceaf24cf9/review-3fps-02.jpg",
+        "reports/form-media/attempt_2d31d42ceaf24cf9/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_2d31d42ceaf24cf9/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_2d31d42ceaf24cf9/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_2d31d42ceaf24cf9/independent-endpoint-3.0.png",
+        "reports/form-media/attempt_2d31d42ceaf24cf9/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-flat-cable-fly-t2v-58850411",
+      "attemptId": "attempt_588504115c724850",
+      "exerciseId": "cat_var_flat_cable_fly",
+      "shot": "r12-flat-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-flat-cable-fly-t2v-58850411.mp4",
+      "outputSha256": "af95bdc5ac0647b2f8f19e878e2c0252d8d47b17d2613babf8c19a2801142c16",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:45:06.761956+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The torso stays on a flat bench and the hands open and close once with two cable handles.",
+        "The elbows bend deeply beside the head at the open endpoint and the return includes substantial elbow extension. The exact output does not preserve the required same soft elbow bend through a shoulder-driven fly arc. The full-resolution 2.5s endpoint confirms the arm geometry."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_588504115c724850/review-3fps-01.jpg",
+        "reports/form-media/attempt_588504115c724850/review-3fps-02.jpg",
+        "reports/form-media/attempt_588504115c724850/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_588504115c724850/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_588504115c724850/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_588504115c724850/independent-endpoint-3.0.png",
+        "reports/form-media/attempt_588504115c724850/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-rear-fly-t2v-207cd94e",
+      "attemptId": "attempt_207cd94e42bd4cc3",
+      "exerciseId": "cat_var_seated_db_rear_fly",
+      "shot": "r12-seated-db-rear-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-db-rear-fly-t2v-207cd94e.mp4",
+      "outputSha256": "39da3a2992c4a9f906279a462373e0b045b06b95c4af76e57d0cc11433d7a46c",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:45:06.762269+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The mannequin remains nearly upright on the bench while raising both arms to the sides and lowering them once.",
+        "The required seated forward hip hinge is absent: the chest and torso remain close to vertical throughout the lift. This teaches a seated lateral raise instead of a seated bent-over rear-delt fly."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_207cd94e42bd4cc3/review-3fps-01.jpg",
+        "reports/form-media/attempt_207cd94e42bd4cc3/review-3fps-02.jpg",
+        "reports/form-media/attempt_207cd94e42bd4cc3/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_207cd94e42bd4cc3/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_207cd94e42bd4cc3/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_207cd94e42bd4cc3/independent-endpoint-3.0.png",
+        "reports/form-media/attempt_207cd94e42bd4cc3/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-high-cable-fly-t2v-29beeb2b",
+      "attemptId": "attempt_29beeb2bbac54cf6",
+      "exerciseId": "cat_var_high_cable_fly",
+      "shot": "r12-high-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-high-cable-fly-t2v-29beeb2b.mp4",
+      "outputSha256": "451dff67dc4e499955ecf6d61b7f8214613602e2420ff1365fded86f32eec67c",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:49:19.775573+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The cable handles sweep downward/inward and return, with the pectoral cues and high-pulley attachments present.",
+        "The starting arms are deeply bent at the elbows, with the upper arms well below the shoulder line and forearms raised. This is not the required arms-open shoulder-height starting pose with softly bent elbows; the full-resolution start shows roughly right-angle elbows instead of the requested fly setup."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_29beeb2bbac54cf6/review-3fps-01.jpg",
+        "reports/form-media/attempt_29beeb2bbac54cf6/review-3fps-02.jpg",
+        "reports/form-media/attempt_29beeb2bbac54cf6/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_29beeb2bbac54cf6/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_29beeb2bbac54cf6/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_29beeb2bbac54cf6/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-low-cable-fly-t2v-f4637c06",
+      "attemptId": "attempt_f4637c0639fc450f",
+      "exerciseId": "cat_var_low_cable_fly",
+      "shot": "r12-low-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-low-cable-fly-t2v-f4637c06.mp4",
+      "outputSha256": "bd55aaba855bee1884bdab3b49f3da14caec4419706468da92cfe2523361af2a",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:49:19.776241+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The low pulleys and pectoral cues are present, but the upper arms remain near the sides while the elbows bend deeply to bring the handles toward the lower chest.",
+        "This is an elbow-driven cable curl rather than the required low-to-high shoulder fly toward the upper chest with the same soft elbow bend."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f4637c0639fc450f/review-3fps-01.jpg",
+        "reports/form-media/attempt_f4637c0639fc450f/review-3fps-02.jpg",
+        "reports/form-media/attempt_f4637c0639fc450f/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_f4637c0639fc450f/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_f4637c0639fc450f/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_f4637c0639fc450f/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-chest-t2v-8f6e52b1",
+      "attemptId": "attempt_8f6e52b18389448d",
+      "exerciseId": "cat_var_seated_cable_chest",
+      "shot": "r12-seated-cable-chest-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-cable-chest-t2v-8f6e52b1.mp4",
+      "outputSha256": "7ec38016d8bf3d7ab489c846b1374d26eaf7031d3ff4ebb6bddb04836338fec5",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T18:49:19.776632+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The hands start nearly straight down beside the hips, then the arms rise forward to chest level and lower again. The required bent-elbow chest-level pressing start is absent.",
+        "The cable attachments are asymmetric: the left working handle connects toward a high front-side pulley while the opposite handle connects toward a different side height. The output does not show the two chest-height pulleys behind the bench required by the canonical setup."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8f6e52b18389448d/review-3fps-01.jpg",
+        "reports/form-media/attempt_8f6e52b18389448d/review-3fps-02.jpg",
+        "reports/form-media/attempt_8f6e52b18389448d/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_8f6e52b18389448d/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_8f6e52b18389448d/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_8f6e52b18389448d/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-press-t2v-3463af47",
+      "attemptId": "attempt_3463af4712db44bd",
+      "exerciseId": "cat_var_seated_cable_press",
+      "shot": "r12-seated-cable-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-cable-press-t2v-3463af47.mp4",
+      "outputSha256": "71b4535b3fccd2aa00e9c8089ee4f69ff2988228c9771b5226467760908ee1ed",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:00:59.217520+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The exact delivered six-second clip preserves the source contacts, two separate low pulley cables, blank gear, closed grips and bounded deltoid/triceps cues; the first movement is a full shoulder-height-to-nearly-straight-overhead press and full return by approximately 3.7 seconds.",
+        "After the returned pose around 4.0 seconds, both arms lift again in an extra partial press around 4.3–4.7 seconds. The raw clip therefore fails the exactly-one-cycle requirement, but a complete correct contiguous first cycle exists and can be honestly trimmed at original speed."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint, return and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_3463af4712db44bd/review-3fps-01.jpg",
+        "reports/form-media/attempt_3463af4712db44bd/review-3fps-02.jpg",
+        "reports/form-media/attempt_3463af4712db44bd/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_3463af4712db44bd/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_3463af4712db44bd/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_3463af4712db44bd/independent-endpoint-3.7.png",
+        "reports/form-media/attempt_3463af4712db44bd/independent-endpoint-4.0.png",
+        "reports/form-media/attempt_3463af4712db44bd/independent-endpoint-4.3.png",
+        "reports/form-media/attempt_3463af4712db44bd/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-crunch-t2v-d9728643",
+      "attemptId": "attempt_d972864305954e65",
+      "exerciseId": "cat_var_seated_cable_crunch",
+      "shot": "r12-seated-cable-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-cable-crunch-t2v-d9728643.mp4",
+      "outputSha256": "641c8ffb4733c4c1951c93a3baae57fb80100e08c47cf0e7bddb23ab61eb5bd4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:00:59.218365+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The full sampled timeline shows one seated spinal crunch from upright into a visibly rounded short-flexion endpoint around 2.0–2.7 seconds, followed by a complete upright return and settled finish. Hips remain seated and both feet planted.",
+        "One high cable remains connected to one rope split outside the head; both closed grips stay beside the head, equipment stays rigid and blank, abdominal cues remain attached, and the full support geometry is visible. There is a small upward head gaze during the return, without a second abdominal repetition."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint, return and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_d972864305954e65/review-3fps-01.jpg",
+        "reports/form-media/attempt_d972864305954e65/review-3fps-02.jpg",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-3.7.png",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-4.0.png",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-4.3.png",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-press-i2v-cycle-3463af47",
+      "attemptId": "attempt_3463af4712db44bd",
+      "exerciseId": "cat_var_seated_cable_press",
+      "shot": "r12-seated-cable-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-cable-press-i2v-cycle-3463af47.mp4",
+      "outputSha256": "4b4dfbc1138b6709c17d419664969547b0926c1de86117286d9ffd86ad7cbfec",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:00:15.907092+00:00",
+      "reviewKind": "exact-derived-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact derived 5.5-second delivery contains one complete original-speed shoulder-height press to a nearly straight overhead endpoint, then a full return to the shoulder-height start, followed by a still finish; the later partial lift is absent.",
+        "Closed grips, two separate low-pulley cable paths, supported seated posture, planted feet, blank equipment and bounded deltoid/triceps cues remain readable throughout the sampled timeline.",
+        "This derivative honestly retains source interval 0–4.0 seconds at playback rate 1 with 0.75-second cloned still holds added at each endpoint. No reversal, invented return, motion interpolation or paid generation was used. The original source remains retained.",
+        "Focused follow-up audit inspected every 6fps sample from 2.5s through the returned finish. No internal return reversal or second partial movement is visible at this denser sampling."
+      ],
+      "limitations": [
+        "Exact derived delivery inspected over its entire timeline at 3 fps with full-resolution working endpoint and final frames; between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied.",
+        "The focused return audit uses 6fps still samples; between-sample artifacts remain possible."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-seated-cable-press-i2v-cycle-3463af47/review-3fps-01.jpg",
+        "reports/form-media/r12-seated-cable-press-i2v-cycle-3463af47/review-3fps-02.jpg",
+        "reports/form-media/r12-seated-cable-press-i2v-cycle-3463af47/independent-endpoint-0.00.png",
+        "reports/form-media/r12-seated-cable-press-i2v-cycle-3463af47/independent-endpoint-2.75.png",
+        "reports/form-media/r12-seated-cable-press-i2v-cycle-3463af47/independent-endpoint-4.50.png",
+        "reports/form-media/r12-seated-cable-press-i2v-cycle-3463af47/independent-endpoint-5.40.png",
+        "reports/form-media/attempt_3463af4712db44bd/independent-return-6fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-lateral-t2v-ab0503ce",
+      "attemptId": "attempt_ab0503ce75e9493f",
+      "exerciseId": "cat_var_seated_db_lateral",
+      "shot": "r12-seated-db-lateral-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-db-lateral-t2v-ab0503ce.mp4",
+      "outputSha256": "ca452717fc3fdebbc10ec6dbe943a94e2f9ae0ff6743f2ebb5d05768a3813cd9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:00:15.907092+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The full sampled timeline shows exactly one bilateral lateral raise from weights beside the outer thighs to a clearly visible shoulder-height lateral endpoint, then a full controlled return and stable arms-down finish.",
+        "Wide reference framing keeps both complete arm arcs and weights visible; hips remain seated, feet planted, torso upright and grips closed. Both blank dumbbells and bounded shoulder cues remain consistent.",
+        "Focused follow-up audit inspected every 6fps sample from 2.5s through the returned finish. No internal return reversal or second partial movement is visible at this denser sampling."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied.",
+        "The focused return audit uses 6fps still samples; between-sample artifacts remain possible."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ab0503ce75e9493f/review-3fps-01.jpg",
+        "reports/form-media/attempt_ab0503ce75e9493f/review-3fps-02.jpg",
+        "reports/form-media/attempt_ab0503ce75e9493f/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_ab0503ce75e9493f/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_ab0503ce75e9493f/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_ab0503ce75e9493f/independent-endpoint-3.7.png",
+        "reports/form-media/attempt_ab0503ce75e9493f/independent-endpoint-5.9.png",
+        "reports/form-media/attempt_ab0503ce75e9493f/independent-return-6fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-decline-crunch-t2v-63c25360",
+      "attemptId": "attempt_63c25360ece147c2",
+      "exerciseId": "cat_var_decline_crunch",
+      "shot": "r12-decline-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-decline-crunch-t2v-63c25360.mp4",
+      "outputSha256": "e896f7f8110e6ef1c8d2253ef593362fce1588a8bf9d5f477483c33161cf2863",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:00:15.907092+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The full sampled timeline shows one short decline crunch: the head and shoulder blades lift into upper-spine flexion, lumbar/pelvis remain against the pad, and the upper back/head return fully to the reclined start with no second curl.",
+        "The correct head-low decline direction, roller anchoring, crossed chest hands, bounded orange abdominal fibers and blank rigid bench remain visible. The working endpoint is a short crunch rather than an upright sit-up.",
+        "Focused follow-up audit inspected every 6fps sample from 2.5s through the returned finish. No internal return reversal or second partial movement is visible at this denser sampling."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied.",
+        "The focused return audit uses 6fps still samples; between-sample artifacts remain possible."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_63c25360ece147c2/review-3fps-01.jpg",
+        "reports/form-media/attempt_63c25360ece147c2/review-3fps-02.jpg",
+        "reports/form-media/attempt_63c25360ece147c2/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_63c25360ece147c2/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_63c25360ece147c2/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_63c25360ece147c2/independent-endpoint-3.7.png",
+        "reports/form-media/attempt_63c25360ece147c2/independent-endpoint-5.9.png",
+        "reports/form-media/attempt_63c25360ece147c2/independent-return-6fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-standing-db-rear-fly-t2v-6b2728d8",
+      "attemptId": "attempt_6b2728d893c64709",
+      "exerciseId": "cat_var_standing_db_rear_fly",
+      "shot": "r12-standing-db-rear-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-standing-db-rear-fly-t2v-6b2728d8.mp4",
+      "outputSha256": "d52def1e63cddee049d8f3e97b0c927809bd4037b2420b764f3d542a5430c931",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:00:15.907092+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The full sampled timeline shows one bilateral lateral rear-fly opening from hanging weights into a wide upper-back T and then a complete return to the hanging start, followed by a still finish.",
+        "The original hinge and planted feet remain steady; shoulders drive the opening with no row/curl or torso rise. Blank rigid dumbbells, closed grips and bounded posterior shoulder cues remain readable, with both weight paths inside the wide frame.",
+        "Focused follow-up audit inspected every 6fps sample from 2.5s through the returned finish. No internal return reversal or second partial movement is visible at this denser sampling."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied.",
+        "The focused return audit uses 6fps still samples; between-sample artifacts remain possible."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_6b2728d893c64709/review-3fps-01.jpg",
+        "reports/form-media/attempt_6b2728d893c64709/review-3fps-02.jpg",
+        "reports/form-media/attempt_6b2728d893c64709/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_6b2728d893c64709/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_6b2728d893c64709/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_6b2728d893c64709/independent-endpoint-3.7.png",
+        "reports/form-media/attempt_6b2728d893c64709/independent-endpoint-5.9.png",
+        "reports/form-media/attempt_6b2728d893c64709/independent-return-6fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-flat-db-rear-fly-t2v-ad77279e",
+      "attemptId": "attempt_ad77279ef22e4814",
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-flat-db-rear-fly-t2v-ad77279e.mp4",
+      "outputSha256": "a94f8bc9689cb91708f301f12bcc2ec70a51970e84fcb08bc7ed1f2eaa27b70f",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:26:59.218499+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The clip contains one visible outward/upward movement and complete hanging return with steady bench support and blank equipment.",
+        "Full-resolution 2.0s endpoint shows the near arm reaching past the head along the bench axis while the far arm points back toward the hip. This is an asymmetric sagittal shoulder swing, not a symmetric lateral rear-delt T; no correct full rear-fly cycle exists to salvage by trimming."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ad77279ef22e4814/review-3fps-01.jpg",
+        "reports/form-media/attempt_ad77279ef22e4814/review-3fps-02.jpg",
+        "reports/form-media/attempt_ad77279ef22e4814/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_ad77279ef22e4814/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_ad77279ef22e4814/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_ad77279ef22e4814/independent-endpoint-3.7.png",
+        "reports/form-media/attempt_ad77279ef22e4814/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-rear-fly-t2v-ad9267f6",
+      "attemptId": "attempt_ad9267f685b548f1",
+      "exerciseId": "cat_var_seated_db_rear_fly",
+      "shot": "r12-seated-db-rear-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-db-rear-fly-t2v-ad9267f6.mp4",
+      "outputSha256": "0a2cad4c4bb41a1bbd606d091270a85e36496d8a5b82f560cc90b46819eb51af",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:00:15.907092+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The full sampled timeline shows one symmetric lateral rear-fly opening from hanging weights into a wide T with the upper back, followed by a complete hanging return and stable finish.",
+        "Hips remain seated, feet planted and trunk in its forward hinge; the shoulders drive the lateral opening without rows/curls. Blank rigid dumbbells, closed grips, bounded posterior shoulder cues and both full arm arcs remain visible.",
+        "Focused follow-up audit inspected every 6fps sample from 2.5s through the returned finish. No internal return reversal or second partial movement is visible at this denser sampling."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied.",
+        "The focused return audit uses 6fps still samples; between-sample artifacts remain possible."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ad9267f685b548f1/review-3fps-01.jpg",
+        "reports/form-media/attempt_ad9267f685b548f1/review-3fps-02.jpg",
+        "reports/form-media/attempt_ad9267f685b548f1/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_ad9267f685b548f1/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_ad9267f685b548f1/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_ad9267f685b548f1/independent-endpoint-3.7.png",
+        "reports/form-media/attempt_ad9267f685b548f1/independent-endpoint-5.9.png",
+        "reports/form-media/attempt_ad9267f685b548f1/independent-return-6fps.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-flat-db-rear-fly-t2v-0bf44a6a",
+      "attemptId": "attempt_0bf44a6a88d84067",
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-flat-db-rear-fly-t2v-0bf44a6a.mp4",
+      "outputSha256": "77c9a5b26830544ceb2bd671327e3390a5e3a714364a81e001de1e41a836e0f9",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:31:39.774632+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The third lifetime video attempt again contains one complete wrong-plane swing and hanging return rather than a symmetric lateral rear fly.",
+        "Full-resolution working endpoint shows the near dumbbell and almost-straight arm extending forward beyond the head along the long bench axis, while the opposite arm remains oriented back toward the hip. A lateral T never occurs; no contiguous correct rep is available for honest trimming.",
+        "Do not launch another video against the same side-view reference. The already drafted changed static camera, reviewed after generation, should precede the fourth and final video attempt."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_0bf44a6a88d84067/review-3fps-01.jpg",
+        "reports/form-media/attempt_0bf44a6a88d84067/review-3fps-02.jpg",
+        "reports/form-media/attempt_0bf44a6a88d84067/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_0bf44a6a88d84067/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_0bf44a6a88d84067/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_0bf44a6a88d84067/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-low-cable-fly-t2v-cc86ca05",
+      "attemptId": "attempt_cc86ca0594bf4365",
+      "exerciseId": "cat_var_low_cable_fly",
+      "shot": "r12-low-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-low-cable-fly-t2v-cc86ca05.mp4",
+      "outputSha256": "601cb10e2763732cd9f836045e201de1bb13c2912da329829532239c02e877f4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:37:14.539460+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The full clip preserves cues, feet and most gear and contains one lift/return cycle.",
+        "At the working endpoint both elbows bend deeply to approximately 90 degrees, with upper arms near the body, instead of maintaining the source small bend while the whole arms travel diagonally into an upper-chest fly. This repeats the earlier elbow-curl substitution; no correct full fly cycle is available for trimming.",
+        "Before another video try, a changed nearly straight-arm upper-chest source endpoint should visually constrain elbow geometry. Keep the current low-pose master positively reviewed as a valid static pose; the refinement responds to repeated incorrect animation."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps with full-resolution start, working endpoint and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_cc86ca0594bf4365/review-3fps-01.jpg",
+        "reports/form-media/attempt_cc86ca0594bf4365/review-3fps-02.jpg",
+        "reports/form-media/attempt_cc86ca0594bf4365/independent-endpoint-0.0.png",
+        "reports/form-media/attempt_cc86ca0594bf4365/independent-endpoint-2.0.png",
+        "reports/form-media/attempt_cc86ca0594bf4365/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_cc86ca0594bf4365/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-standing-cable-crunch-t2v-4cb0b2d2",
+      "attemptId": "attempt_4cb0b2d251234889",
+      "exerciseId": "cat_var_standing_cable_crunch",
+      "shot": "r12-standing-cable-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-standing-cable-crunch-t2v-4cb0b2d2.mp4",
+      "outputSha256": "be962c7883d2c3e0b11cce04a8f1619dcfde0f60a5a178c5bfaad5a1a9f7e976",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:53:11.480963+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One short thoracic/abdominal curl reaches its rounded endpoint around 2.3–2.7s. The upper spine rounds, orange abdominal segments shorten, pelvis remains substantially under the shoulders, and feet/knees remain planted rather than squatting or hinging backward.",
+        "The full internal return visible from 2.7–4.0s uncurls continuously to upright. The remaining dense 3fps frames stay upright through the end, with no second lean, return bounce or grip reposition visible.",
+        "Full-resolution start/2.5s endpoint/4.3s return/final frames preserve the head-side separate rope grips, taut top connection, blank tower and attached abdominal cue."
+      ],
+      "limitations": [
+        "Dense 3fps timeline and full-resolution endpoints inspected; between-sample motion is not completely excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_4cb0b2d251234889/review-3fps-01.jpg",
+        "reports/form-media/attempt_4cb0b2d251234889/review-3fps-02.jpg",
+        "reports/form-media/attempt_4cb0b2d251234889/independent-endpoint-0.png",
+        "reports/form-media/attempt_4cb0b2d251234889/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_4cb0b2d251234889/independent-endpoint-4.3.png",
+        "reports/form-media/attempt_4cb0b2d251234889/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-bb-press-t2v-ac5e4d07",
+      "attemptId": "attempt_ac5e4d0734e040e7",
+      "exerciseId": "cat_var_seated_bb_press",
+      "shot": "r12-seated-bb-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-bb-press-t2v-ac5e4d07.mp4",
+      "outputSha256": "1bd64b87f6a42e8b62625e3821b7991394a921c0fb15a298492eab469bbad0ed",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:53:11.480963+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One complete supported seated barbell shoulder press extends both elbows overhead around 2.3–2.7s and visibly lowers back to the original shoulder-height bent-elbow position by about 3.7–4.0s.",
+        "Every dense 3fps return/finish sample after the overhead endpoint was inspected: the bar descends once without an internal reversal and remains at shoulder height through the final hold. No second partial lift, reracking or torso/foot motion is visible.",
+        "Full-resolution start, overhead endpoint, returned pose and final frames retain the complete bar/plates inside the reserved white frame, closed overhand grips, supported upright posture, bounded shoulder/triceps cues and blank gear."
+      ],
+      "limitations": [
+        "Dense 3fps timeline and full-resolution endpoints inspected; between-sample motion is not completely excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ac5e4d0734e040e7/review-3fps-01.jpg",
+        "reports/form-media/attempt_ac5e4d0734e040e7/review-3fps-02.jpg",
+        "reports/form-media/attempt_ac5e4d0734e040e7/independent-endpoint-0.png",
+        "reports/form-media/attempt_ac5e4d0734e040e7/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_ac5e4d0734e040e7/independent-endpoint-4.3.png",
+        "reports/form-media/attempt_ac5e4d0734e040e7/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-crunch-t2v-d9728643",
+      "attemptId": "attempt_d972864305954e65",
+      "exerciseId": "cat_var_seated_cable_crunch",
+      "shot": "r12-seated-cable-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-cable-crunch-t2v-d9728643.mp4",
+      "outputSha256": "641c8ffb4733c4c1951c93a3baae57fb80100e08c47cf0e7bddb23ab61eb5bd4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:56:48.996969+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Focused 6fps return audit and full-resolution 3.4/3.6/3.8/4.2s frames resolve the previously noted drift: after the neutral upright abdominal return around 3.6s, the head/chest extend upward around 4.0–4.3s and settle again. The entire raw clip does not retain a neutral still finish.",
+        "A correct complete original-speed abdominal curl and neutral upright return already exists in contiguous source interval 0–3.6s; an honest derivative can remove only the later extension/settling without new generation."
+      ],
+      "limitations": [
+        "Exact delivered file inspected through the full six-second timeline at 3 fps, with full-resolution start, working endpoint, return and final frames. Between-sample motion artifacts are not excluded.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_d972864305954e65/independent-return-6fps.jpg",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-3.4.png",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-3.6.png",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-3.8.png",
+        "reports/form-media/attempt_d972864305954e65/independent-endpoint-4.2.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-cable-crunch-i2v-cycle-d9728643",
+      "attemptId": "attempt_d972864305954e65",
+      "exerciseId": "cat_var_seated_cable_crunch",
+      "shot": "r12-seated-cable-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-cable-crunch-i2v-cycle-d9728643.mp4",
+      "outputSha256": "bbd89123056301cfd5c327d04bfa9b85a59b9c7c75b53c1359946adb25e0b7cf",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T19:56:48.996969+00:00",
+      "reviewKind": "exact-derived-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The exact derived 5.125-second delivery shows one full abdominal/spinal curl, one continuous full neutral upright return and a still returned finish. The later upward extension/settling from the raw clip is absent.",
+        "The derivative retains contiguous source 0–3.6s at original playback rate 1, with 0.75-second cloned still holds added at both endpoints. No reversal, invented return, interpolation or generation was used; the source remains retained.",
+        "Full dense derived timeline and full-resolution curled endpoint/final were inspected. Head-side grips, supported seat/feet, bounded orange abdominal cue and blank tower remain readable."
+      ],
+      "limitations": [
+        "Exact derived delivery inspected over its entire timeline at 3fps with full-resolution curled endpoint and final frames; between-sample artifacts remain possible.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/r12-seated-cable-crunch-i2v-cycle-d9728643/review-3fps-01.jpg",
+        "reports/form-media/r12-seated-cable-crunch-i2v-cycle-d9728643/review-3fps-02.jpg",
+        "reports/form-media/r12-seated-cable-crunch-i2v-cycle-d9728643/independent-endpoint-2.75.png",
+        "reports/form-media/r12-seated-cable-crunch-i2v-cycle-d9728643/independent-endpoint-5.0.png"
+      ]
+    },
+    {
+      "assetId": "r12-seated-db-press-t2v-601acd58",
+      "attemptId": "attempt_601acd58720347c3",
+      "exerciseId": "cat_var_seated_db_press",
+      "shot": "r12-seated-db-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-db-press-t2v-601acd58.mp4",
+      "outputSha256": "9beb000b34ce4ce1581516d71b77009e66f43f4143e19533368032eca054479b",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:11:38.850900+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One complete supported seated dumbbell shoulder press raises both nearly straight arms overhead around 2.3–2.7s; both horizontal-shaft weights remain fully visible in the actually reserved top margin.",
+        "Dense full 3fps timeline and focused 6fps return samples from 2.5s through the end show one continuous lowering to the beside-ear bent-elbow starting pose by about 4.7s, then a still finish without an internal reversal or partial second lift.",
+        "Full-resolution start/overhead/return/final frames preserve both closed overhand grips, wrists, blank rigid dumbbells, seated back/pelvis support, planted feet, attached orange deltoids and blue triceps."
+      ],
+      "limitations": [
+        "Full timeline sampled at3fps with a focused6fps internal-return audit plus full-resolution endpoint frames; between-sample artifacts remain possible.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_601acd58720347c3/review-3fps-01.jpg",
+        "reports/form-media/attempt_601acd58720347c3/review-3fps-02.jpg",
+        "reports/form-media/attempt_601acd58720347c3/independent-return-6fps.jpg",
+        "reports/form-media/attempt_601acd58720347c3/independent-endpoint-0.png",
+        "reports/form-media/attempt_601acd58720347c3/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_601acd58720347c3/independent-endpoint-3.6.png",
+        "reports/form-media/attempt_601acd58720347c3/independent-endpoint-4.png",
+        "reports/form-media/attempt_601acd58720347c3/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-flat-db-rear-fly-t2v-f75d7e80",
+      "attemptId": "attempt_f75d7e80c21c4508",
+      "exerciseId": "cat_var_flat_db_rear_fly",
+      "shot": "r12-flat-db-rear-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-flat-db-rear-fly-t2v-f75d7e80.mp4",
+      "outputSha256": "66ab333e4f2041be7949c19bdc631b54781d10c580de72fde96804520cd034ad",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:15:22.339199+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The changed feet-to-head camera now shows the requested symmetric lateral T across the short bench width around 2.7–3.3s, with both whole arms spreading left/right rather than headward/hipward.",
+        "The entire dense 3fps eight-second timeline and focused 6fps samples from 3s through the end show one continuous mirrored lowering back to the hanging start by about 5s and a still returned finish. No internal return reversal, second opening, sagittal swing, curl or row is visible.",
+        "Full-resolution start/T/6s/final frames preserve prone chest/pelvis support, planted feet, closed neutral dumbbell grips, complete weight envelope, blank rigid bench and attached posterior shoulder orange. This is the fourth and final lifetime generated video output, now an AI candidate."
+      ],
+      "limitations": [
+        "Dense full3fps timeline and full-resolution working/return/final frames inspected; candidate flat rear fly also received a6fps internal-return audit. Between-sample artifacts remain possible.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_f75d7e80c21c4508/review-3fps-01.jpg",
+        "reports/form-media/attempt_f75d7e80c21c4508/review-3fps-02.jpg",
+        "reports/form-media/attempt_f75d7e80c21c4508/independent-endpoint-0.png",
+        "reports/form-media/attempt_f75d7e80c21c4508/independent-endpoint-3.png",
+        "reports/form-media/attempt_f75d7e80c21c4508/independent-endpoint-6.png",
+        "reports/form-media/attempt_f75d7e80c21c4508/independent-endpoint-7.9.png",
+        "reports/form-media/attempt_f75d7e80c21c4508/independent-return-6fps-01.jpg",
+        "reports/form-media/attempt_f75d7e80c21c4508/independent-return-6fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-high-cable-fly-t2v-1e2a22ba",
+      "attemptId": "attempt_1e2a22ba0cd043ee",
+      "exerciseId": "cat_var_high_cable_fly",
+      "shot": "r12-high-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-high-cable-fly-t2v-1e2a22ba.mp4",
+      "outputSha256": "ecbd1d1ae62bcd25ef585aee62a4e3b3872a12ce308bdc00597575592eecacb8",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:15:22.339199+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The starting wide open arms and chest cue remain valid, but the working phase draws both upper arms toward the ribs and deeply flexes the elbows so the hands tuck near the abdomen around 2.0–2.7s.",
+        "Full-resolution 2.5s endpoint confirms a substantial elbow-curl/press component rather than an almost-straight whole-arm fly at constant small elbow bend. The wrong cycle returns completely, so a contiguous trim cannot supply a correct fly.",
+        "Change the physical source evidence to a visibly almost-straight high-cable closed endpoint viewed from the side before another paid trial."
+      ],
+      "limitations": [
+        "Dense full3fps timeline and full-resolution working/return/final frames inspected; candidate flat rear fly also received a6fps internal-return audit. Between-sample artifacts remain possible.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_1e2a22ba0cd043ee/review-3fps-01.jpg",
+        "reports/form-media/attempt_1e2a22ba0cd043ee/review-3fps-02.jpg",
+        "reports/form-media/attempt_1e2a22ba0cd043ee/independent-endpoint-0.png",
+        "reports/form-media/attempt_1e2a22ba0cd043ee/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_1e2a22ba0cd043ee/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-fly-t2v-9b000870",
+      "attemptId": "attempt_9b000870c8c145eb",
+      "exerciseId": "cat_var_incline_cable_fly",
+      "shot": "r12-incline-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-incline-cable-fly-t2v-9b000870.mp4",
+      "outputSha256": "7e68fddd0c41ea563021359ab997b7d7b7a2711837ff6726b862a30f00b1e70b",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:15:22.339199+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The first outward opening reaches a plausible wide fly endpoint around 2s, with chest cues, incline support and separate low-pulley rig maintained.",
+        "During the internal return, both elbows fold deeply around 3.3–4.5s while the upper arms remain spread, then straighten to the raised closed pose near the end. Full-resolution 3.5s shows approximately90-degree elbow bends. This is a curl/press-assisted return rather than the constant small elbow bend required for the complete fly.",
+        "Matching closed start/final poses conceal the wrong internal return. No correct whole cycle exists to trim; change the actual source to a clearly open, almost-straight-arm endpoint and write motion for it before another paid trial."
+      ],
+      "limitations": [
+        "Dense full3fps timeline and full-resolution working/return/final frames inspected; candidate flat rear fly also received a6fps internal-return audit. Between-sample artifacts remain possible.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_9b000870c8c145eb/review-3fps-01.jpg",
+        "reports/form-media/attempt_9b000870c8c145eb/review-3fps-02.jpg",
+        "reports/form-media/attempt_9b000870c8c145eb/independent-endpoint-0.png",
+        "reports/form-media/attempt_9b000870c8c145eb/independent-endpoint-2.5.png",
+        "reports/form-media/attempt_9b000870c8c145eb/independent-endpoint-3.5.png",
+        "reports/form-media/attempt_9b000870c8c145eb/independent-endpoint-5.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-standing-smith-press-t2v-2ea47b6a",
+      "attemptId": "attempt_2ea47b6a4e2c4de6",
+      "exerciseId": "cat_var_standing_smith_press",
+      "shot": "r12-standing-smith-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-standing-smith-press-t2v-2ea47b6a.mp4",
+      "outputSha256": "28523b80e272d9661cb9d2acfc9bfab484761df0659f4f30312ead3be6e600fd",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:27:43.246110+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One complete standing Smith shoulder press raises the rigid bar/carriages to a nearly straight overhead endpoint around2.7–3.3s, with the bar/plates fully visible and the feet/pelvis/trunk stable.",
+        "The whole8s dense3fps timeline and focused6fps return from3s through the finish show one continuous lowering to shoulder height by roughly5–5.3s, then a still hold through8s without an internal bounce or second partial lift.",
+        "Full-resolution start/overhead/6s/final preserve closed overhand grips, neutral wrists, rigid rail/carriage paths, blank equipment and attached shoulder/triceps cues."
+      ],
+      "limitations": [
+        "Full timeline sampled at3fps with6fps internal-return audit and full-resolution endpoints; between-sample artifacts remain possible.",
+        "AI editorial screening only; no human acceptance or trainer certification implied."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_2ea47b6a4e2c4de6/review-3fps-01.jpg",
+        "reports/form-media/attempt_2ea47b6a4e2c4de6/review-3fps-02.jpg",
+        "reports/form-media/attempt_2ea47b6a4e2c4de6/independent-return-6fps-01.jpg",
+        "reports/form-media/attempt_2ea47b6a4e2c4de6/independent-return-6fps-02.jpg",
+        "reports/form-media/attempt_2ea47b6a4e2c4de6/independent-endpoint-0.png",
+        "reports/form-media/attempt_2ea47b6a4e2c4de6/independent-endpoint-3.png",
+        "reports/form-media/attempt_2ea47b6a4e2c4de6/independent-endpoint-6.png",
+        "reports/form-media/attempt_2ea47b6a4e2c4de6/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-shrug-video-1d039e0f",
+      "attemptId": "attempt_1d039e0fbabe4ed3",
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-shrug-video-1d039e0f.mp4",
+      "outputSha256": "3565ecf929cac4fc3d16cad852822faf438370a3b422859fcf641909d63ae3cc",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:39:04.641841+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both elbows visibly bend during the lift: at 2–3s the near elbow becomes a clear angle and the far elbow draws behind the torso. The bar is raised by an elbow/upper-arm row rather than a straight-arm shoulder shrug.",
+        "The dense timeline also shows a second partial lift after the initial return around 4.7–6s, followed by another descent. Matching final and starting poses do not establish a single correct cycle.",
+        "Orange upper-trapezius cues remain attached and the rig/framing are stable, but there is no correct straight-arm shrug cycle to derive from this output."
+      ],
+      "limitations": [
+        "Entire delivered timeline inspected at 3fps plus full-resolution 0, 3, 6 and 7.9s frames; sub-frame motion between samples is not exhaustively viewed.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_1d039e0fbabe4ed3/review-3fps-01.jpg",
+        "reports/form-media/attempt_1d039e0fbabe4ed3/review-3fps-02.jpg",
+        "reports/form-media/attempt_1d039e0fbabe4ed3/independent-endpoint-0.png",
+        "reports/form-media/attempt_1d039e0fbabe4ed3/independent-endpoint-3.png",
+        "reports/form-media/attempt_1d039e0fbabe4ed3/independent-endpoint-6.png",
+        "reports/form-media/attempt_1d039e0fbabe4ed3/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-ball-crunch-t2v-dbffb94a",
+      "attemptId": "attempt_dbffb94a15e94f40",
+      "exerciseId": "cat_var_ball_crunch",
+      "shot": "r12-ball-crunch-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-ball-crunch-t2v-dbffb94a.mp4",
+      "outputSha256": "b8d513cce42815da7b0e04465f8cb65b7c9192c14f19b1ccdafe1b3d0b478253",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:42:24.752344+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "Exactly one short spinal curl lifts the shoulders/ribs toward the pelvis to the visible contracted endpoint around 2.7–3.7s, while hips, knees, feet and ball stay steady. Hands remain crossed on the chest and never pull the neck.",
+        "The whole internal return was additionally inspected at 6fps from 3s to the finish: shoulders/ribs lower continuously over the ball to the comfortable original extended pose by about 5.3s, with no rebound or second partial curl; the finish remains still to 8s.",
+        "Full-resolution starting, contracted and returned frames show persistent attached orange abdominals, gray neighboring fibers and complete support/working frame. Catalog lower-and-middle-back ball support is satisfied."
+      ],
+      "limitations": [
+        "Entire delivered timeline inspected at 3fps, focused 3–8s return at 6fps and full-resolution 0, 3, 6 and 7.9s frames; motion between these samples is not exhaustive playback.",
+        "AI editorial candidate only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_dbffb94a15e94f40/review-3fps-01.jpg",
+        "reports/form-media/attempt_dbffb94a15e94f40/review-3fps-02.jpg",
+        "reports/form-media/attempt_dbffb94a15e94f40/independent-return-6fps-01.jpg",
+        "reports/form-media/attempt_dbffb94a15e94f40/independent-return-6fps-02.jpg",
+        "reports/form-media/attempt_dbffb94a15e94f40/independent-endpoint-0.png",
+        "reports/form-media/attempt_dbffb94a15e94f40/independent-endpoint-3.png",
+        "reports/form-media/attempt_dbffb94a15e94f40/independent-endpoint-6.png",
+        "reports/form-media/attempt_dbffb94a15e94f40/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-inverted-row-video-ce3f222d",
+      "attemptId": "attempt_ce3f222de4cf4545",
+      "exerciseId": "cat_smith_inverted_row",
+      "shot": "r12-smith-inverted-row-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-inverted-row-video-ce3f222d.mp4",
+      "outputSha256": "f8579eb99928110b5e98ca335d89d5af39f0c669191febae4cc4cae5e72b6db8",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:47:58.868658+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The contracted source was supposed to lower to a straight-arm setup before an independent row cycle. Instead both elbows stay visibly flexed throughout every phase, including the initial lowering and the final pose.",
+        "The torso makes only small up/down movements, then pulls back toward the bar; no actual full straight-arm lower endpoint occurs anywhere. The bar/stop rig and anatomical back cues remain stable, but no complete row can be derived."
+      ],
+      "limitations": [
+        "Whole delivered timeline inspected at 3fps plus full-resolution 0, 3 and 7.9s frames; between-sample motion is not exhaustively inspected.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_ce3f222de4cf4545/review-3fps-01.jpg",
+        "reports/form-media/attempt_ce3f222de4cf4545/review-3fps-02.jpg",
+        "reports/form-media/attempt_ce3f222de4cf4545/independent-endpoint-0.png",
+        "reports/form-media/attempt_ce3f222de4cf4545/independent-endpoint-3.png",
+        "reports/form-media/attempt_ce3f222de4cf4545/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-chest-t2v-e4d9fd9a",
+      "attemptId": "attempt_e4d9fd9a541c4592",
+      "exerciseId": "cat_var_incline_cable_chest",
+      "shot": "r12-incline-cable-chest-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-incline-cable-chest-t2v-e4d9fd9a.mp4",
+      "outputSha256": "ea3ed8b00cfc8b94ab24a0457cafe686385c2e82d306999c05c334e18b7d7831",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:47:58.869414+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "At the intended 3s press endpoint both elbows remain deeply bent and the hands are drawn close to the head/upper chest instead of one arm length forward with almost straight elbows. The output performs an abbreviated curl-like press rather than a full chest press.",
+        "A return and still finish exist, with plausible cable routing and supported body, but the necessary nearly straight-arm working endpoint never occurs. There is no complete correct cycle to trim."
+      ],
+      "limitations": [
+        "Whole delivered timeline inspected at 3fps plus full-resolution 0, 3 and 7.9s frames; between-sample motion is not exhaustively inspected.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e4d9fd9a541c4592/review-3fps-01.jpg",
+        "reports/form-media/attempt_e4d9fd9a541c4592/review-3fps-02.jpg",
+        "reports/form-media/attempt_e4d9fd9a541c4592/independent-endpoint-0.png",
+        "reports/form-media/attempt_e4d9fd9a541c4592/independent-endpoint-3.png",
+        "reports/form-media/attempt_e4d9fd9a541c4592/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-flat-cable-fly-t2v-e3b5c88e",
+      "attemptId": "attempt_e3b5c88e7eb749d2",
+      "exerciseId": "cat_var_flat_cable_fly",
+      "shot": "r12-flat-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-flat-cable-fly-t2v-e3b5c88e.mp4",
+      "outputSha256": "914301dc64ec241d0cd2d7d29be5986e72985f41e34728505a6c93e63d5410e4",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:47:58.870151+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "Both opening phases deeply flex the elbows: in the prepared/opened positions the upper arms spread beside the chest while the forearms point upward at roughly right angles, visibly turning the fly into a press/curl.",
+        "The source and closed 3s pose have nearly straight arms, but the whole internal opening/return path and final open endpoint violate the stable soft elbow angle. No correct full fly cycle can be derived by trimming."
+      ],
+      "limitations": [
+        "Whole delivered timeline inspected at 3fps plus full-resolution 0, 3 and 7.9s frames; between-sample motion is not exhaustively inspected.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_e3b5c88e7eb749d2/review-3fps-01.jpg",
+        "reports/form-media/attempt_e3b5c88e7eb749d2/review-3fps-02.jpg",
+        "reports/form-media/attempt_e3b5c88e7eb749d2/independent-endpoint-0.png",
+        "reports/form-media/attempt_e3b5c88e7eb749d2/independent-endpoint-3.png",
+        "reports/form-media/attempt_e3b5c88e7eb749d2/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-shrug-video-eaee083b",
+      "attemptId": "attempt_eaee083bce59477c",
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-shrug-video-eaee083b.mp4",
+      "outputSha256": "82a1eb92c1da43ba4b414fda23ed681cf40dea930478522d0f9232c48c830cec",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:47:58.870869+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The second shrug output still bends both elbows conspicuously during the lift and draws them behind the torso at the 3s endpoint, despite the reviewed reference having straight resting arms. The bar is raised by an upright-row pattern rather than shoulder elevation with straight arms.",
+        "This output fixes the earlier extra partial lift and has one controlled return/still finish, but the required joint action is still wrong throughout the working lift. No correct shrug cycle exists to trim."
+      ],
+      "limitations": [
+        "Whole delivered timeline inspected at 3fps plus full-resolution 0, 3 and 7.9s frames; between-sample motion is not exhaustively inspected.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_eaee083bce59477c/review-3fps-01.jpg",
+        "reports/form-media/attempt_eaee083bce59477c/review-3fps-02.jpg",
+        "reports/form-media/attempt_eaee083bce59477c/independent-endpoint-0.png",
+        "reports/form-media/attempt_eaee083bce59477c/independent-endpoint-3.png",
+        "reports/form-media/attempt_eaee083bce59477c/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-fly-t2v-2ecb1665",
+      "attemptId": "attempt_2ecb1665ec7b4a5a",
+      "exerciseId": "cat_var_incline_cable_fly",
+      "shot": "r12-incline-cable-fly-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-incline-cable-fly-t2v-2ecb1665.mp4",
+      "outputSha256": "5b6b9fbe769dbb985dce57154e685104b6a6c9e882d6df5c81f3e6432a846c7e",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:47:58.871578+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The actual source is an OPEN almost-straight-arm fly pose, but closing progressively folds both elbows deeply. At the 3s contracted endpoint both upper arms stay out while forearms curl toward the head; the hands are close to the chest/head rather than sweeping at full arm length.",
+        "Return reaches the original open shape, but matching endpoints conceal the wrong elbow action during the interior closing/return. This is the third video output for the stable exercise shot; the fourth requires changed source/camera evidence and a separately inspected actual master."
+      ],
+      "limitations": [
+        "Whole delivered timeline inspected at 3fps plus full-resolution 0, 3 and 7.9s frames; between-sample motion is not exhaustively inspected.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_2ecb1665ec7b4a5a/review-3fps-01.jpg",
+        "reports/form-media/attempt_2ecb1665ec7b4a5a/review-3fps-02.jpg",
+        "reports/form-media/attempt_2ecb1665ec7b4a5a/independent-endpoint-0.png",
+        "reports/form-media/attempt_2ecb1665ec7b4a5a/independent-endpoint-3.png",
+        "reports/form-media/attempt_2ecb1665ec7b4a5a/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-db-lateral-t2v-fc077ae5",
+      "attemptId": "attempt_fc077ae501044bf1",
+      "exerciseId": "cat_var_incline_db_lateral",
+      "shot": "r12-incline-db-lateral-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-incline-db-lateral-t2v-fc077ae5.mp4",
+      "outputSha256": "c724b2289765ec7907e75aa18990fb554856bf4ce149efdc23c2a8430492e1be",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:54:28.766082+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "One complete shown-upper-arm lateral raise reaches a clear shoulder-abduction endpoint around 2.7–3.3s; the elbow retains its soft bend and the neutral dumbbell grip/complete weight stay in frame. Supported trunk/head, empty bracing lower hand and feet remain still.",
+        "The 6fps internal-return audit shows a single continuous descent to the exact thigh-side start by about 5.3s, followed by a still finish to 8s, with no rebound, extra partial raise, opposite-arm movement or trunk roll.",
+        "Attached orange working deltoid fibers remain visible through the raised endpoint and return; anatomical gray fibers, opaque shorts, fixed camera and rigid incline bench persist."
+      ],
+      "limitations": [
+        "Whole delivered timeline inspected at 3fps, 3–8s internal return at 6fps and full-resolution 0, 3, 6 and 7.9s frames; between-sample motion is not exhaustive playback.",
+        "Two-dimensional frames do not establish every depth clearance. AI editorial candidate only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_fc077ae501044bf1/review-3fps-01.jpg",
+        "reports/form-media/attempt_fc077ae501044bf1/review-3fps-02.jpg",
+        "reports/form-media/attempt_fc077ae501044bf1/independent-return-6fps-01.jpg",
+        "reports/form-media/attempt_fc077ae501044bf1/independent-return-6fps-02.jpg",
+        "reports/form-media/attempt_fc077ae501044bf1/independent-endpoint-0.png",
+        "reports/form-media/attempt_fc077ae501044bf1/independent-endpoint-3.png",
+        "reports/form-media/attempt_fc077ae501044bf1/independent-endpoint-6.png",
+        "reports/form-media/attempt_fc077ae501044bf1/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-incline-cable-chest-t2v-8670a4bd",
+      "attemptId": "attempt_8670a4bd2e654116",
+      "exerciseId": "cat_var_incline_cable_chest",
+      "shot": "r12-incline-cable-chest-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-incline-cable-chest-t2v-8670a4bd.mp4",
+      "outputSha256": "a31685fad060d01bbfdabd999729158190b5991ac66017192e8da1939f2c55cb",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T20:54:28.766903+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The second motion now performs one full incline chest press: both elbows extend to clearly nearly straight shoulder-to-wrist chains at the 2.7–3.7s endpoint, with the handles far in front of the upper chest and head/back/hips/feet supported.",
+        "The internal return was additionally inspected at 6fps: both elbows bend continuously to the original chest-level positions by about 5.3s, with no second press or return bounce; the finish stays still to 8s.",
+        "Both handle cables remain connected to the same visible chest-height pulleys and clear the bench, with persistent attached orange pectoral/blue supporting cues. At peak the near cable projects across the lower-face area; that projection alone does not establish physical penetration, and no cable/rig morph or grip interruption is visible."
+      ],
+      "limitations": [
+        "Whole delivered timeline inspected at 3fps, 3–8s internal return at 6fps and full-resolution 0, 3, 6 and 7.9s frames; between-sample motion is not exhaustive playback.",
+        "Two-dimensional frames do not establish every depth clearance. AI editorial candidate only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_8670a4bd2e654116/review-3fps-01.jpg",
+        "reports/form-media/attempt_8670a4bd2e654116/review-3fps-02.jpg",
+        "reports/form-media/attempt_8670a4bd2e654116/independent-return-6fps-01.jpg",
+        "reports/form-media/attempt_8670a4bd2e654116/independent-return-6fps-02.jpg",
+        "reports/form-media/attempt_8670a4bd2e654116/independent-endpoint-0.png",
+        "reports/form-media/attempt_8670a4bd2e654116/independent-endpoint-3.png",
+        "reports/form-media/attempt_8670a4bd2e654116/independent-endpoint-6.png",
+        "reports/form-media/attempt_8670a4bd2e654116/independent-endpoint-7.9.png"
+      ]
+    },
+    {
+      "assetId": "r12-smith-shrug-video-c39830b3",
+      "attemptId": "attempt_c39830b3c492438f",
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-shrug-video-c39830b3.mp4",
+      "outputSha256": "ebd017be71ab383e5699ba99a9cdb06f62aaeee1207810bb57cb05c04c517942",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:36:31.588293+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The third video substitutes a large elbow-bending lift/overhead press: after0.67s the bar rises from thighs through abdomen/chest and is held above the head around1.67–3.33s. This is not the catalog small straight-arm shoulder shrug; there is no valid shrug repetition to derive.",
+        "The initial trapezius-only source cue spreads to both entire deltoid caps during the lift and remains there after return. The source material boundary is not preserved.",
+        "Full return audit shows the overhead bar lowering to thigh level around5–6s, then a NEW elbow-bending bar lift starts near7.67–7.9s. Matching an intermediate returned pose would conceal a second movement; the finish is not still.",
+        "Bar ends leave the source envelope and both guide/catch assemblies morph throughout the lift/return. The100-credit Quality tier did not improve this exact result."
+      ],
+      "limitations": [
+        "Entire exact delivery sampled at3fps; full-resolution0,2,3,6,7.9s inspected and internal3–8s return/finish audited at6fps. This is sampled editorial evidence, not every-frame biomechanical certification.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_c39830b3c492438f/review-3fps-01.jpg",
+        "reports/form-media/attempt_c39830b3c492438f/review-3fps-02.jpg",
+        "reports/form-media/attempt_c39830b3c492438f/independent-endpoint-0.png",
+        "reports/form-media/attempt_c39830b3c492438f/independent-endpoint-2.png",
+        "reports/form-media/attempt_c39830b3c492438f/independent-endpoint-3.png",
+        "reports/form-media/attempt_c39830b3c492438f/independent-endpoint-6.png",
+        "reports/form-media/attempt_c39830b3c492438f/independent-endpoint-7.9.png",
+        "reports/form-media/attempt_c39830b3c492438f/independent-return-6fps-01.jpg",
+        "reports/form-media/attempt_c39830b3c492438f/independent-return-6fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-seated-single-db-press-t2v-73fff9bd",
+      "attemptId": "attempt_73fff9bd66674bc8",
+      "exerciseId": "cat_var_seated_single_db_press",
+      "shot": "r12-seated-single-db-press-t2v",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-seated-single-db-press-t2v-73fff9bd.mp4",
+      "outputSha256": "d8db9b3a64d71c04a2394767ea0094ff3c0c3f24b5afef4411a75749049aaf20",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:39:20.521651+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "candidate",
+      "evidence": [
+        "The eight-second exact delivery contains one complete actual IMAGE-LEFT working-arm shoulder press: prepared shoulder-height hold, continuous overhead press to near-straight elbow with the complete dumbbell visible, brief top pause, and a complete continuous return to the original shoulder-height grip/pose.",
+        "The torso stays upright against the bench with no visible side lean or back arch; both feet stay planted and the opposite empty hand stays on its thigh. The actual overhead envelope remains inside the fixed portrait composition.",
+        "Internal3–8s6fps review confirms a continuous return with no bounce, undershoot or second lift; the restored source position then remains still through7.9s.",
+        "The silver-gray anatomical body, opaque shorts and blue abdominal cue persist. The orange working deltoid visibility reduces substantially as the arm rotates overhead, but a small exposed posterior portion remains orange and the original bounded cap is restored on return. No unrelated upper-arm/deltoid-side patch or contralateral working weight appears."
+      ],
+      "limitations": [
+        "Entire exact delivery sampled at3fps; full-resolution0,2,3,4,6,7.9s inspected and internal3–8s return/finish audited at6fps. This is sampled editorial evidence, not every-frame biomechanical certification.",
+        "Working shoulder cue is less visible at the overhead endpoint due to pose/rotation; human selection should consider that presentation tradeoff.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_73fff9bd66674bc8/review-3fps-01.jpg",
+        "reports/form-media/attempt_73fff9bd66674bc8/review-3fps-02.jpg",
+        "reports/form-media/attempt_73fff9bd66674bc8/independent-endpoint-0.png",
+        "reports/form-media/attempt_73fff9bd66674bc8/independent-endpoint-2.png",
+        "reports/form-media/attempt_73fff9bd66674bc8/independent-endpoint-3.png",
+        "reports/form-media/attempt_73fff9bd66674bc8/independent-endpoint-4.png",
+        "reports/form-media/attempt_73fff9bd66674bc8/independent-endpoint-6.png",
+        "reports/form-media/attempt_73fff9bd66674bc8/independent-endpoint-7.9.png",
+        "reports/form-media/attempt_73fff9bd66674bc8/independent-return-6fps-01.jpg",
+        "reports/form-media/attempt_73fff9bd66674bc8/independent-return-6fps-02.jpg"
+      ]
+    },
+    {
+      "assetId": "r12-smith-shrug-video-b1782be9",
+      "attemptId": "attempt_b1782be93f5a485c",
+      "exerciseId": "cat_smith_shrug",
+      "shot": "r12-smith-shrug-video",
+      "roundId": "round-12",
+      "outputPath": "form-media/assets/delivery/round-12/r12-smith-shrug-video-b1782be9.mp4",
+      "outputSha256": "f6fbbd2392ed10e4024ff3d3de8d3579601254a9fb638970738b157981c0478a",
+      "reviewerType": "ai",
+      "reviewer": "Codex independent review agent",
+      "reviewedAt": "2026-10-09T21:42:01.126567+00:00",
+      "reviewKind": "exact-delivery-video-3fps-frame-editorial",
+      "status": "needs-correction",
+      "evidence": [
+        "The fourth/final video reduces the bar range and preserves the source cue/rig, but still bends the working elbow chains substantially as the bar rises from thighs toward the waist around1.67–3.67s. The upper arms/forearms visibly change angle; this is an elbow-assisted pull rather than the catalog straight-arm shoulder shrug.",
+        "The actual shoulder elevation and pause do not excuse the wrong moving joints. There is no complete independent correct straight-arm shrug cycle to derive from this output.",
+        "Whole3fps timeline and internal3–8s6fps return/finish audit show one smooth lowering to the source and a still finish, with bounded upper-trapezius cue and stationary feet. These timing/style improvements do not repair the exercise mechanics.",
+        "All four video outputs and four source outputs for this stable exercise are exhausted. Record an honest final quality hold; no fifth paid attempt or correction proposal is authored."
+      ],
+      "limitations": [
+        "Entire exact delivery sampled at3fps; full-resolution0,2,3,6,7.9s inspected and internal3–8s return/finish audited at6fps. This is sampled editorial evidence, not every-frame biomechanical certification.",
+        "AI editorial review only; not human acceptance or trainer certification."
+      ],
+      "reviewEvidencePaths": [
+        "reports/form-media/attempt_b1782be93f5a485c/review-3fps-01.jpg",
+        "reports/form-media/attempt_b1782be93f5a485c/review-3fps-02.jpg",
+        "reports/form-media/attempt_b1782be93f5a485c/independent-endpoint-0.png",
+        "reports/form-media/attempt_b1782be93f5a485c/independent-endpoint-2.png",
+        "reports/form-media/attempt_b1782be93f5a485c/independent-endpoint-3.png",
+        "reports/form-media/attempt_b1782be93f5a485c/independent-endpoint-6.png",
+        "reports/form-media/attempt_b1782be93f5a485c/independent-endpoint-7.9.png",
+        "reports/form-media/attempt_b1782be93f5a485c/independent-return-6fps-01.jpg",
+        "reports/form-media/attempt_b1782be93f5a485c/independent-return-6fps-02.jpg"
+      ]
+    }
+  ]
+}
